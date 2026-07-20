@@ -1,0 +1,182 @@
+# 채널/출처별 수집 요약
+
+총 38건 · 32개 채널/출처
+
+## AI 전환공식 김건우 (3건)
+
+- **[AI 전환(AX) 시대, 어떤 직무가 끝까지 살아남을까?ㅣ『AI 전환 절대 공식』저자 김건우](https://www.youtube.com/watch?v=7s8O1R8p0Rk)** — 2026-07 · ko · `AX`
+  저는 AX 전략 기획이라는 직무가 더 중요해질 거라 생각을 합니다. 다음은 AI PO 프로덕트 오너는 사실 PO 프컨셉뿐만 아니라 실제 워크플로우와 성과 지표들을 연결하는 역할입니다. 다음은 AI 옵스 매니저인데요. 결과물에 대한 운영 책임자입니다. AI가 개입하는 지점과 사람이 개입하는 지점들이 구분이 되는 것들이 굉장히 중요하다고 말씀드렸는데요. 다음은 판단 지점의 설계자인데요. 어떤 지점에서 판단할지에 대한 부분을 설계하는 사람입니다. 안녕하세요. 김건우루입니다. 저는 삼성, LG, CJ, 현대 자동차 그룹, KT 등 여러 대기업에서 전략 기획, 리더 및 컨설턴트 역할을 하면서 업무를 수행하고 있고요.
+
+- **[AI 전환 (AX) 성공한 기업들은 무엇이 다를까? | JP모건·월마트 사례로 보는 AX 성공 공식 (AI 전환 절대공식 저자)](https://www.youtube.com/watch?v=-B2A2gIxwIY)** — 2026-07 · ko · `AX`
+  JP모 잘하는 금융 그룹입니다. 여기서 lnm 스위트라는 것들을 만들었어요. 근데이 대규모 조직이 어떻게 트랜스포메이션을 했는지를 보면요. 맡트는 채포스 하나를 넘어서요. 전사 업무 지원에 대한 제네를 만들었습니다. 150만 명 대산으로 AI 도구를 만들었고요. 데이터 플랫폼 거버넌스 교육이 필요하다라고 말씀드릴 수 있습니다. 안녕하세요. 김건누라고 합니다. 저는 뭐 삼성, LG, CJ, 현대자동차 그룹 등 여러 가지 대기업에서 AI 전략 기획이라는 업무를 했고 팀 리더 그리고 컨설팅을 하면서 많은 기업들을 상대해 왔습니다.
+
+- **[AX (AI 전환) 제대로 모르면 망합니다 | 개념·사례·원리 완벽 정리 (AI 전환 절대공식 저자)](https://www.youtube.com/watch?v=Kaaq7_9vzYs)** — 2026-07 · ko · `AX`
+  안녕하세요. 처음 인사드리는 김건우라입니다. 저는 삼성, 뭐 LG, 현자동차 그룹 등 주요 대기업에서 AI 전략 기획과 컨설턴트, 팀 리더 등 여러 가지 업무 역할을 했습니다. 현재는 가톨릭대학교 인공지능학과 겸민 교수로 강연을 열고 강좌를 진행하고 있고요. 아마 다들 아시겠지만 배트셀러인 AI 전환 절대 공식이라는 책을 최근에 서서 많은 대중들 앞에서 만나고 있습니다. 오늘은 AI 전환에 대해서 기억과 개인들이 왜 실패하고 고민하고 있는지에 대해서 해결책을 찾는 시간을 갖도록 하겠습니다.
+
+## BOI (Board of Innovation) (2건)
+
+- **[Webinar: From onboarding to impact - the 5 stages of enterprise AI adoption](https://www.youtube.com/watch?v=uySY32ItxSc)** — 2026-07 · en · `AX`
+  Knowing that, I'm going to jump in. And for those that don't know us already, we are BOI. We are a global AI transformation studio and I am calling you based out of our New York office. So our key HQs are in New York and in Belgium and we're very much focused on AI transformation across both the enterprise but also specifically the innovation, marketing and commercial functions as well.
+
+- **[Webinar: AI transformation that works, lessons from the trenches](https://www.youtube.com/watch?v=PL3OWn143AI)** — 2026-07 · ko · `AX`
+  시작하세요. 안녕하세요, 저는 조나단 첸입니다. 아, 빈센트가 인터넷 연결에 약간 문제가 있는 것 같네요. 잠시 후에 합류할 거예요 . 음, 저는 조나단 첸입니다. 네, 저는 AI 전략 담당 상무이사입니다. 저는 Board of Innovation에서 미주 지역의 AI 전략 실무를 이끌고 있습니다 . 오늘 이렇게 많은 분들이 함께해 주셔서 정말 기쁩니다 . 우리가 이야기할 주제가 꽤 많은 것 같네요. 음, 그건 현재 인공지능 도입을 검토 중인 많은 조직들이 가장 중요하게 생각하는 부분입니다.
+
+## 메타코드M (2건)
+
+- **[26 Years of Survival Keyword AX (Great AI Transformation): We’ll Tell You Everything in Just One ...](https://www.youtube.com/watch?v=VRYJJJBqsDE)** — 2026-07 · ko · `AX`
+  안녕하세요. 어, 근본 어, 강의를 맡게 된 김건우라고 합니다. 뭐 제가 직감이 뭐 교수도 있고 컨설턴트도 있고 작가도 있고 여러 개 활동을 하고 있는데요. 오늘은 사실 그 직함을 떠나서이 제목처럼 아마 AI 트랜스포메이션 작년만에도 사실 AI 전환 그리고 AI 자체에 대해서 조금 많이 고민을 했다고 그러면 어 저희 DX 때 이후에 ax라는 단어에 대해서 조금 더 저희가 전략 그리고 더 나아가서 기술보다는 업무 재석이라는 어떻게 보면 제로베이스 think킹이라는 관점의 방법론에 대해서 조금 더 말씀드리도록 하겠습니다
+
+- **[In the era of AI transformation (AX), we'll teach you everything about AX in just 30 minutes - [A...](https://www.youtube.com/watch?v=ErviFf8I6K4)** — 2026-07 · ko · `AX`
+  안녕하세요. 금번 메타코드에서 기업 AX 도입 전략에 대해서 말씀드린 강사 김건우입니다. 반갑습니다. 어 저는 근본 강의에서 AX 파트너십과 링그로스 등 주요 AX 전략 기반에 빠르고 효율적인 AS 솔루션 구축 사례와 여러 가지 전략 방법론에 대해서 말씀드리려고 합니다. 저는 현재 대기업 AI 팀장으로 있고요. 지주사 대기업 어 관련해서 식품 바이오 금융 제조 영역 등에 어 다체로운 영역에서 DX 전략 그리고 AI 그리고 ERP 컨설턴트에 대한 경력을 갖고 있습니다.
+
+## 티타임즈TV (2건)
+
+- **[AI 도입을 위한 데이터 거버넌스 구축 전략은? (김유신 상무)](https://www.youtube.com/watch?v=vH_g9HIm154)** — 2026-07 · ko · `DX`
+  안녕하십니까. 김유신입니다. 이번 시간에는 기업에서 AI를 활용하는 방법들 중에서 AI 시대에서도 중요한 것은 데이터다라는 부분에 대해서 좀 더 심도 있게 말씀을 드리려고 합니다. AI는 주로 예측을 하거나 탐지를 하거나 생성을 하는 일에 잘 활용됩니다.이 이 예측과 탐지와 생성을 위해서는이 AI를 학습시키기 위한 데이터가 필요합니다. 새로운 단어를 한 가지 말씀드리고 싶은데요. 데이터 센트릭 AI라는 단어입니다. 샘포드 대학의 앤드리응 교수가이 부분을 되게 강조를 하셨었는데요. 이전에는 우리가 모델 센트릭이라고 해서 AI의 모델을 어떻게 하면 더 좋게 만들 수 있는가?
+
+- **[AI 도입을 위해 AI 도입보다 더 중요한 것은? (김유신 상무)](https://www.youtube.com/watch?v=4n4xMvpuCDY)** — 2026-07 · ko · `DX`
+  안녕하세요. 김유신입니다. 요즘 생성형 AI가 가져온 열풍 때문에 꼭 AI나 IT 업계 몸담지 않고 계신 분들도 AI에 대한 관심이 많이 높아졌습니다. 우리 생활에 정말 밀접하게 다가온 AI인데이 AI를 기업에서 사용하는 건 여전히 매우 어렵습니다. 비용도 문제고 보안도 문제고 내부 데이터를 어떻게 잘 연결할 것인가라는 여러 기술적인 문제도 어렵습니다. 그래서 오늘은 기업에서 AI를 사용하려면 어떻게 해야 되는가라는 부분을 제가 직접 겪었던 과정을 통해서 여러분과 나누고 말씀드리려고이 자리에 섰습니다.
+
+## Boston Consulting Group (2건)
+
+- **[How to Drive AI Adoption Internally](https://www.youtube.com/watch?v=hd6L4DRWgvY)** — 2026-07 · en · `unclassified`
+  Lee, what is your organization doing to drive AI adoption internally? Well, we have a program called AI for Us. We just launched. Thank you very much to BCG to help us doing it. It's a top-down and bottom-up program. So a year, a year and a half ago, we tried something top down. It failed miserably. Technology is easy. The change journey is much harder.
+
+- **[Leading an AI Transformation](https://www.youtube.com/watch?v=5VMbGgInp0E)** — 2026-07 · en · `AX`
+  So, it starts with the team being cohesive and clear about where we're going. You've led so many waves of transformation at various companies. Compared to what you've done, what feels different about this AI moment? The pace. Full stop. The pace. The pace of change in this AI transformation is unlike anything I've ever seen. You know, in those other transformations, you had a chance to to observe and then adapt over the course of maybe a year to two, maybe even three.
+
+## 조코딩AX파트너스-랩스 and 조코딩AX파트너스 (1건)
+
+- **[AI adoption? Watch this video 10 times. (I'll feed you everything.)](https://www.youtube.com/watch?v=1f5ijgzt1-I)** — 2026-07 · ko · `AX`
+  AI 전환 아직도 모르신다고요. 그렇다면 회사는 3년 안에 다른 회사에 먹힐 가능성이 굉장히 [음악] 높습니다. 이건 겁주려는 말이 아니라 실제로 벌어지고 있는 현실이에요. 안녕하세요. 데모상 개발단 라균입니다. 기업들 AI 전환 그러니까 AX를 실제로 구축해 주는 일을 하고 있습니다. 오늘 영상에서는 AX가 뭔지 그리고 기업들은 어떻게 AI를 쓰고 있는지 그 사례에 대해서 전달드리도록 할게요. 대표님들이 영상 끝까지 보시면 우리 회사에 AI를 어디서부터 써야 하는지 어떤 부분을 AI로 대체할 수 있는지 머릿속에 그림 그려 주실 거예요.
+
+## KOTRA TV (1건)
+
+- **[(Quick Overview) Korea's Real Engine of the AI Revolution: M.AX](https://www.youtube.com/watch?v=EDHZlKgvwm4)** — 2026-07 · en · `unclassified`
+  [music] 2025. [music] The world is different. Supply chains are fragmenting, [music] getting only deeper. The climate and energy risks are rising, getting only sharper. The race for AI leadership and sovereignty is accelerating, [music] getting only faster. What is Korea's choice, and where must we focus? Let me introduce Korea's gamechanging initiative, [music] Max. Max is manufacturing AI transformation. It's about [music] scaling advanced manufacturing with AI.
+
+## 홍소장 (1건)
+
+- **[AI 컨설팅: 소규모 기업을 위한 AI 도입 4단계 전략](https://www.youtube.com/watch?v=JDpFu9sfCZM)** — 2026-07 · ko · `unclassified`
+  [음악] a 소규모 기업의 성공적인 AI 도입을 위한 4단계 핵심 전략을 소개합니다 첫째 교육입니다 대표와 직원이 AI 활용 역량을 갖추는 것이 첫단계입니다 대표는 비즈니스 전략적 활용법을 직원은 실무중심의 AI 도구 법을 배우게 됩니다 과 단계적 도입입니다 기업의 상황에 맞는 AI 로드맵을 설계하고 작은 성공 사례를 통해 점진적으로 AI 활용을 확장합니다 성과를 검증하며 지속적인 최적화도 이룹니다 셋째 동화입니다 반복적인 업무를 AI 자동화하여 시간과 비용을 전략하고 직원들이 핵심 업무에 집중할 수 있도록 돕습니다
+
+## CNBC International Live (1건)
+
+- **[Cohere CEO names the barriers to enterprise AI adoption](https://www.youtube.com/watch?v=qD9AxSVYCOY)** — 2026-07 · en · `AX`
+  it seems like the the teams inside of Enterprises they've got that familiarity now and there's much more intent the barriers to adoption and really realizing value I think it's twofold the first is privacy so if you think about systems built with AI if they can't access the systems that your humans use or the data that your humans use they can't actually drive value they can't help the …
+
+## The Tech Trek (1건)
+
+- **[Enterprise AI Adoption in 2025: What Actually Works](https://www.youtube.com/watch?v=9MkMQ6zkjLw)** — 2026-07 · en · `AX`
+  On this episode of the show, I have with me Matt McCclardy. He is CTO Aboomi and we're going to be talking about enterprise AI adoption. We're going to talk about some of the companies that are succeeding and why some that might not be and why that is. And really, we haven't seen this big of a shift in technology for a long time.
+
+## SBS 뉴스 (1건)
+
+- **["Had to Cancel My Card": Hit with a $18 Million AI Bill in Just 3 Days / SBS 8 News](https://www.youtube.com/watch?v=zzhzFihZe3w)** — 2026-07 · ko · `unclassified`
+  미국 엔트로픽의 AI. 클로드를 쓰던 국내자가 250억 원이 넘는 요금 청구서를 받았습니다.이 터문이 없는 금액에 대한 결제 시도가 계속되면서 카드까지 정지시켜야 했습니다. 무슨 일인지 박재현 기자가 취재했습니다. &gt;&gt; 아 이게 &gt;&gt; 엔트로픽의 최신 에이전트 AI 클로드 페이블 5를 이용하는 대학생 양승민 씨는 지난 8일 사용료 청구 이메일을 받았습니다. 166만9,000달러, 25억 원이 넘는 요금을 납부해야 한다는 내용이었습니다. 실제 양시의 카드로 열차례가 넘는 결제 시도도 이루어졌지만 워낙 고액이었기 때문에 결제가 거절됐습니다.
+
+## GOTO Conferences (1건)
+
+- **[How to Lead Your Organisation’s AI-Transformation • Rasmus Lystrøm • YOW! 2024](https://www.youtube.com/watch?v=1uJZlKig0Tk)** — 2026-07 · ko · `AX`
+  모두 환영합니다. 이것은 조직의 AI 전환 전략, 역량, 문화 등을 이끌어가는 방법입니다. 음, 제가 발표를 마친 후에 '아니요'라는 말을 덧붙였어요. 발표 내용에 ' 아니요'가 많이 들어가 있어서요. 음, 제목이 너무 길어서 지루할 수도 있겠네요. 그래서 제 생각에는 그게 공통적인 주제였던 것 같아요. 어이임 씨도 같은 병을 앓았어요 . 자막을 만들어 봅시다. 자, 오늘은 제가 어떻게 걱정을 멈추고 AI를 받아들이게 되었는지에 대한 이야기를 닥터 코파일럿이 들려드리겠습니다. 안녕하세요, 저는 라스무스 리스트람입니다.
+
+## Amazon Web Services (1건)
+
+- **[Leading AI Transformation: A Chief AI Officer's Perspective | Amazon Web Services](https://www.youtube.com/watch?v=LblTPS1LnLc)** — 2026-07 · ko · `AX`
+  [음악] AWS가 제공하는 임원 인사이트 팟캐스트에 오신 것을 환영합니다. 제 이름은 톰 솔드스트롬입니다. 저는 AWS에서 엔터프라이즈 전략가로 일하고 있습니다. 향후 산업 동향을 살펴보면, 핵심 트렌드 중 하나는 생성형 AI와 클라우드의 등장입니다. 어, 그 둘은 서로 관련이 있어요. 클라우드 없이는 생성형 AI를 구현하는 것이 사실상 불가능합니다 . 그러므로 우리가 이것을 살펴보면, 기술을 주도하고 수용할 사람이 없으면 기술은 사실상 무의미하다는 것을 알 수 있습니다.
+
+## INSEAD (1건)
+
+- **[Making AI Transformation Work: Avoiding the Mistakes from Digital Transformation](https://www.youtube.com/watch?v=CoPCP3f1DzM)** — 2026-07 · ko · `AX`
+  안녕하세요 여러분, 이번 사례 연구 웨비나 시리즈에 오신 것을 환영합니다. 제 이름은 네이선 퍼입니다. 저는 인시아드 경영대학원의 전략학 교수인데, 이 시리즈를 정말 좋아합니다. 왜냐하면 이 시리즈를 통해 사례를 아주 심층적으로 분석할 수 있기 때문입니다 . 음, 우리가 무엇을 어떻게 하는지 깊이 이해하려고 노력했던 실제 상황의 한 예입니다. 이제 여러분과 그 점에 대해 이야기할 기회가 생겼습니다 . 물론 이것은 INSEAD의 사례 연구 출판 사업의 일환입니다. INSEAD는 세계적인 사례 연구 출판 선도 기관 중 하나입니다
+
+## Microsoft Learn (1건)
+
+- **[Prepare for Microsoft Certification Exam AB-731: AI Transformation Leader](https://www.youtube.com/watch?v=mj_lyhuWbig)** — 2026-07 · en · `AX`
+  ANDREW CONNIFF: Hello and welcome to "Preparing for Exam AB-731 AI Transformation Leader." I'm Andrew Conniff, a Microsoft Technical Trainer focusing on Copilot and AI strategy adoption. This session is designed to focus on what the exam expects you to know, not to teach every concept in depth. The goal is to understand the skills covered in the material and which concepts might be covered so that you can better prepare for the exam.
+
+## 코딩알려주는누나 (1건)
+
+- **[What Corporate Giants Are Really Like, According to an AI Instructor | Why They Waste Money and F...](https://www.youtube.com/watch?v=Ih32CEOx2gM)** — 2026-07 · ko · `DX`
+  안녕하세요. 코대료는 누나예요. 여러분들 되게 익숙한 분가 있었는데 그게 이제 AI의 이제 현실을 알려주는 박사생으로서 현실을 알려주는 콘텐츠 한번 나오셨는데 용담님을 또 모르시는 분들이 계실 것 같아서 좀 간단하게 자기 소개 부탁드립니다. &gt;&gt; 아, 네. 안녕하세요. 저는 김용담이라고 하고요. &gt;&gt; [콧방귀] &gt;&gt; 뭐 다양한 곳에서 활동을 하고 있긴 한데 주로 강의 기업 강의하고 그다음에 지금 성황대학교에서 박사 과정 하고 있어요. &gt;&gt; 그때 당시에 채널에 나올 때도 강의를 많이 하셨는데 지금도 강의를 많이 하세요.
+
+## Liam Ottley (1건)
+
+- **[What is an AI Transformation Partner? (and how to become one)](https://www.youtube.com/watch?v=aNrWN0M851k)** — 2026-07 · ko · `AX`
+  그렇다면 AI 전환 파트너란 무엇이며, 어떻게 하면 그런 파트너가 될 수 있을까요? 네, 그게 이 영상의 주제입니다. 음, 최근 제 영상을 보셨다면 아시겠지만, AI 전환 파트너 모델에 대한 이야기가 많이 나왔습니다 . 이 영상에서는 제가 이 모든 것을 자세히 설명하고, 이것이 무엇인지, 어떻게 여기까지 왔는지, 제가 운영하는 회사인 모닝사이드 AI를 어떻게 이 새로운 모델로 전환했는지, 왜 이것이 미래라고 생각하는지, 그리고 왜 우리가 이 모델에 그토록 큰 투자를 하고 있는지 명확하게 전달하고 싶습니다
+
+## McKinsey & Company (1건)
+
+- **[What really works when it comes to digital and AI transformations?](https://www.youtube.com/watch?v=eR0Vtsp9YAM)** — 2026-07 · en · `DX`
+  a massive number of companies are going through some sort of digital transformation just about 90% of them according to McKenzie research all with varying levels of success it is show me the money time for digital transformations to succeed in a digital transformation it needs to be a CEO agenda item it needs to mobilize cross functional teams across the company in a unique way it's going to need …
+
+## The CEO Magazine (1건)
+
+- **[Why AI adoption fails – and how to get it right](https://www.youtube.com/watch?v=JBb2jRns3PA)** — 2026-07 · en · `AX`
+  I always always try to lead with kindness. What we looked for is how do we take the concern [music] of AI introducing bias and use it to actually overcome human bias. The only thing that's worse than a bad process is an automated bad process. Anybody who gets to a CEO position has had a lot of help along the way. Welcome back to CEO Behind the Scenes.
+
+## 까칠한AI (1건)
+
+- **[Why AI transformation doesn't feel like it's working in your company](https://www.youtube.com/watch?v=pnn4QZU2TnA)** — 2026-07 · ko · `AX`
+  아, 우리 회사 업무 자동화 혹은 업무 AX에 대해서 판을 다 깔아줬는데 생각보다 회사에 변화가 없다고 생각하는 경영진이 계시다면 나를 만족시키는 AX도 실제로 수행이 됐는가? 업무 자동화 말고 이거에 대해서도 한번 고민해볼 필요가 있다고 생각이 듭니다 안녕하세요 까칠한 AI 황현태입니다 반갑습니다 또 몇 달 더 AX를 하다 보니까 공유 드리고 싶어가지고 카메라를 켰습니다
+
+## LangChain (1건)
+
+- **[Why Enterprise AI Adoption Is Slower Than You Think — Aaron Levie (Box) + Harrison Chase](https://www.youtube.com/watch?v=agSRMrhNTf4)** — 2026-07 · en · `AX`
+  &gt;&gt; Thank you so much for being here. &gt;&gt; Thank you. I think my last time I was in this building was like a rave. Has anybody been to like an EDM show here before? Raise your hand. We have a couple. We were probably the same one. &gt;&gt; We were talking about that before. &gt;&gt; Oh, really? &gt;&gt; I think a lot of folks in our team have been here mostly for that.
+
+## KBS강원 (1건)
+
+- **[[AI 시사상식] ‘AX’ 인공지능 전환 / KBS  2026.06.10.](https://www.youtube.com/watch?v=ZmCHLkystDY)** — 2026-07 · ko · `AX`
+  [음악] AI가 전해드리는 시사 상식입니다. 요새 뉴스에서 AX 전환, AX 생태계 조성, AX 협의체 [음악] 출범 등 AX란 말을 종종 들어보셨을 텐데요. AX 이게 대체 뭘까요? AX 아티피셜 인텔리전스 트랜스포메이션 위 줄인말입니다. AI는 인공지능 트랜스포메이션은 [음악] 전환을 뜻하는데요. 그럼 왜 AIT가 아니라 AX가 됐을까요? [음악] 그건 변환 전환을 뜻하는 영어 트랜스포메이션을 [음악] 관용적으로 X로 줄여 표현하기 때문입니다. 그래서 AIT가 아니라 AX라고 부르는 겁니다. 그럼 AI 전환이란 뭘 의미할까요?
+
+## 엔토피아 (1건)
+
+- **[계속되는 AI 도입 실패.. 95% 기업이 사업 전략에서 놓치는 '이것'은? | KBS Life 20260214 방송](https://www.youtube.com/watch?v=YDaz_aZaSQE)** — 2026-07 · ko · `unclassified`
+  AI 프로젝트를 시작하면은 성공보다 실패가 좀 많다는 얘기가 많거든요. &gt;&gt; 300개 기업 중에서 95%가 실패하고 있다고 나오고요. &gt;&gt; AI를 활용하는게 리스크가 그만큼 줄었다는 얘기 아닌가라는 생각도 좀 들고 &gt;&gt; 최근에 저희 연구원이 핫해졌어요. AI로 전 세계 있는 댓글을 크롤링해 가지고 요거를 마스킹 솔루션이 있는데 개도님 댓글 중에 참 잘생겼다. &gt;&gt; 어 &gt;&gt; 이건 뭐야? &gt;&gt; 저는 긍정으로 저는 긍정으로 [웃음] 봐요. &gt;&gt; 아 단호하게 &gt;&gt; 저는 저는 제 쪽으로 봅니다.
+
+## 한국산업단지공단 (1건)
+
+- **[아는 순간 기회가 열린다! 제조업 AI 전환 완전 정복 | TALK 쏘는 M.AX](https://www.youtube.com/watch?v=FaMWb3JuvbI)** — 2026-07 · ko · `AX`
+  교님 그러면 과감하게 하나 찍어 주시죠. AX 시드에 잘될 종목 찍어 주시죠. &gt;&gt; 일단 제가 아이디어를 좀 드리면 &gt;&gt; 그 회사가 빠르게 성장할 가능성이 높습니다. &gt;&gt; 네. &gt;&gt; AI 시대에 살고 있지만 우리가 아직은 AI를 잘 모르고 있는 것 [음악] 같습니다. 여러분 어떠신가요? 오늘 AI에 대해서 한번 제대로 배워 보도록 하겠습니다. 오늘 출연하신 분들 제가 한 분 한 분 소개를 해 드리도록 하겠습니다.
+
+## 삼성SDS and KASMO 인공지능혁신추진단 (1건)
+
+- **[제조업 AX의 골든 타임 ⏰ 중요한 것은 AI 도입보다 이것?! 📢 IT슈다 EP. 제조](https://www.youtube.com/watch?v=iAbE9YXnbqA)** — 2026-07 · ko · `AX`
+  다른 분야보다 쉬울 수도 있지 않을까라는 여기서 조금 잘못된 선택을 하게 되면 어쩌면은 우리의 그 생존의 위협을 받을 어 기로에서 있다. &gt;&gt; 기서관에 그런 [음악] 데이터나 정보가 교류가 안 되는 거예요. &gt;&gt; 기술 유출. [음악] &gt;&gt; 네. 네. 그런 온프라미 환경을 쓰셔도 되고 아니면 좀 어렵지만 클라우드 프라이빗 [음악] 환경에서 &gt;&gt; 데이터 주권은 한국입니다. 이제는 AI로 이제 경쟁을 하는 시대가 됐기 때문에 데이터로 [음악] 경쟁하는 시대가 됐기 때문에 [음악] 네.
+
+## 엔지니어TV (1건)
+
+- **[중국 AI 베끼기 미국은 알고도 놔둔다? 문샷 kimi K3 빅테크 반도체 메모리 전략](https://www.youtube.com/watch?v=caP-N91YjLY)** — 2026-07 · ko · `AX`
+  엔스로픽이 지금 개발하고 있는 것까지 구현되어 있다 미리 빼돌렸다, 그거를 넘어섰다 중국 모델의 특징은 뺏기고 최적화하기 때문에 시험 범위를 알고 문제를 푸는 것 같은 강점을 보인다 라는 겁니다 상업적 용도로 보면 최적화되게 만드는 거죠 돈이 되게 만드는 건데 단기적으로 점수를 끌어올리는 기술에는 탁월하다 그런데 미국 기업들은 왜 이것을 허용하고 있을까? 중국 문샷 AI의 키미 K3가 2.8조 페러미터급의 프론티어 성능을 오픈 웨이트로 선언하고, 실제로 프론트엔드 코드 에레나에서 엔스로픽의 최신 역작인 클라우드 페이블 5까지 제쳤다는 소식은, AI 자본 시장에 큰 충격을 주고 있습니다
+
+## 지식인사이드 (1건)
+
+- **[지금 세계에서 AI 제일 잘 쓰는 기업들의 공통점ㅣ지식인초대석 EP.78 (장진석 파트너)](https://www.youtube.com/watch?v=3FW8c5T7fik)** — 2026-07 · ko · `AX`
+  AI 관련 주식들이 엄청나게 상승하기도 하고 AI가 도입되면 진짜 어마어마한 변화가 있을 것처럼 얘기하는 것도 있고 그렇잖아요. 실제 AI를 도입을 해서 5% 정도의 기업이 매출과 이익이 약 70% 정도 더 개선됐습니다. 조금 더 무서운 거는 돈을 더 많이 벌게 되잖아요. 그거를 다시 재투자를 하는 거예요. AI에 일종의 복리 효과를 거두는 겁니다. 그러면 그 5%의 기업이 되기 위해서는 무엇을 해야 되는 거냐? &gt;&gt; [음악] &gt;&gt; 안녕하세요. 한석준입니다. 진짜 대가들의 지식을 전하는 지식인 초대석.
+
+## 카카오벤처스 Kakao Ventures (1건)
+
+- **[💡 AX란 무엇인가? 직접 해본 스타트업 대표가 알려주는 AI 전환의 모든 것 | EP.2 Vibers.AI 신재인 대표 | [한국의 AI 리더들]](https://www.youtube.com/watch?v=cRfy_RXX5WA)** — 2026-07 · ko · `AX`
+  [ 카카오벤처스 김영무 심사역 ] 이번 두 번째 에피소드는 [ 카카오벤처스 김영무 심사역 ] 바로 AX와 관련된 이야기인데요 [ Vibers AI 신재인 대표 ] 그 생산성의 혁신을 경험해 버린거죠 [ Vibers AI 신재인 대표 ] ‘와 말이 안된다’ [ Vibers AI 신재인 대표 ] ‘이거 그냥 게임 체인저구나’ 안녕하세요 카카오벤처스에서 테크 투자를 담당하고 있는 김영무 심사역입니다
+
+## AWS Developers (1건)
+
+- **[Deploying Agents to the Cloud](https://www.youtube.com/watch?v=S_ZRZFDJ6wE)** — 2026-07-14 · en · `AX`
+  So far, everything we've built has been running on my local machine. Now, we're going to deploy it to the cloud. You can package a Strand's agent into a container and run it anywhere, but in this video, we'll deploy it to AWS using Amazon Bedrock Agent Core. Agent Core is a collection of components for building, deploying, and operating AI agents in production.
+
+## Google Cloud Tech (1건)
+
+- **[Give your app search superpowers: Agent Retrieval (Vector Search 2.0)](https://www.youtube.com/watch?v=-L5khDHrQSE)** — 2026-07-16 · en · `unclassified`
+  Let's say we have an online store [music] and we need smart semantic product search. Or we have an archive of articles and we want users to search by topic instead of by keyword. How do we build that? &gt;&gt; Okay, let me show you how. &gt;&gt; [music] &gt;&gt; Welcome to the show, Kaz. What do you do here at Google? &gt;&gt; Hi, Martin.
+
+## Philips (1건)
+
+- **[Philips Body Groomer 7000 – Pflege, die mit dir geht.](https://www.youtube.com/watch?v=lMahKJCFvKU)** — 2026-05-04 · en · `unclassified`
+  [music] &gt;&gt; Wow. Wow. &gt;&gt; [music] &gt;&gt; Wow. &gt;&gt; [music] [music] &gt;&gt; Wow. Wow. &gt;&gt; [music] [music] &gt;&gt; Wow. &gt;&gt; [music] &gt;&gt; Wow.
+
+## Zapier (1건)
+
+- **[Claude /connected: Build your first skill | Build Along Workshop](https://www.youtube.com/watch?v=LfK9zF36pt0)** — 2026-07-15 · en · `AX`
+  Hello everybody. Welcome. Happy Wednesday. I hope you're all having a great day. I'm super excited uh to see folks coming back who were not uh with us the last few days, but you were here last week. If you are returning, you will remember my classic icebreaker. I ask the same thing at the start of every meeting. Internal meetings, external meetings.
+

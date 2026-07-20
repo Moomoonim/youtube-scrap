@@ -1,0 +1,14 @@
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# yt-dlp 임시 파일
+*.part
+*.ytdl
+*.vtt
+*.srt
+
+# 유튜브 쿠키 (절대 커밋 금지! 비밀값)
+cookies.txt

@@ -1,0 +1,106 @@
+name: Subtitle Diagnose
+
+# 자막 다운로드 실패 원인 진단용 (수동 실행 전용)
+# 여러 player_client 설정으로 자동 자막 취득 가능 여부를 실험한다
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: 진단 실행
+        env:
+          YT_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+        run: |
+          python3 -m pip install --quiet --upgrade pip yt-dlp
+          # PO 토큰 제공기 (자동 자막 인증)
+          docker run -d --name bgutil-pot -p 4416:4416 \
+            brainicism/bgutil-ytdlp-pot-provider || echo "PO 제공기 시작 실패"
+          python3 -m pip install --quiet bgutil-ytdlp-pot-provider
+          sleep 5
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s' "$YT_COOKIES" > cookies.txt
+            echo "쿠키 파일 준비 완료"
+          fi
+          python3 - <<'PY'
+          import glob, json, os, tempfile
+          import yt_dlp
+
+          COOKIE = "cookies.txt" if os.path.exists("cookies.txt") else None
+
+          def base_opts():
+              o = {"quiet": True, "no_warnings": True, "skip_download": True,
+                   "socket_timeout": 20}
+              if COOKIE:
+                  o["cookiefile"] = COOKIE
+              return o
+
+          # 1) OpenAI 채널 최신 영상 1개 ID 얻기
+          o = dict(base_opts(), extract_flat="in_playlist", playlistend=3)
+          with yt_dlp.YoutubeDL(o) as ydl:
+              info = ydl.extract_info("https://www.youtube.com/@OpenAI/videos", download=False)
+          vids = [e["id"] for e in info.get("entries", []) if e]
+          print("테스트 영상 ID:", vids[:3], flush=True)
+          vid = vids[0]
+          url = f"https://www.youtube.com/watch?v={vid}"
+
+          # 0) 에러를 숨기지 않는 원본 진단 — 실제 실패 사유 확인
+          try:
+              with yt_dlp.YoutubeDL(dict(base_opts(), ignoreerrors=False)) as ydl:
+                  vi = ydl.extract_info(url, download=False)
+              print("[원본진단] info:", "None" if vi is None else "OK",
+                    "| 수동자막:", sorted((vi.get('subtitles') or {}).keys()) if vi else "-",
+                    "| 자동자막수:", len(vi.get('automatic_captions') or {}) if vi else "-",
+                    "| 화질수:", len(vi.get('formats') or []) if vi else "-", flush=True)
+          except Exception as exc:
+              print(f"[원본진단] 예외 발생 →→ {exc}", flush=True)
+
+          # 2) 클라이언트별 실험
+          CLIENTS = [None, ["web"], ["tv"], ["mweb"], ["android"], ["web_embedded"]]
+          for client in CLIENTS:
+              label = "기본" if client is None else "+".join(client)
+              with tempfile.TemporaryDirectory() as tmp:
+                  o = dict(base_opts(),
+                           writesubtitles=True, writeautomaticsub=True,
+                           subtitleslangs=["ko", "en"], subtitlesformat="vtt",
+                           outtmpl=os.path.join(tmp, "%(id)s.%(ext)s"),
+                           ignoreerrors=True, ignore_no_formats_error=True,
+                           retries=1)
+                  if client:
+                      o["extractor_args"] = {"youtube": {"player_client": client}}
+                  try:
+                      with yt_dlp.YoutubeDL(o) as ydl:
+                          vi = ydl.extract_info(url, download=True)
+                      subs = sorted((vi.get("subtitles") or {}).keys()) if vi else []
+                      autos = len((vi.get("automatic_captions") or {})) if vi else 0
+                      vtts = glob.glob(os.path.join(tmp, "*.vtt"))
+                      sizes = [os.path.getsize(p) for p in vtts]
+                      print(f"[{label}] 수동자막:{subs} 자동자막수:{autos} "
+                            f"VTT생성:{len(vtts)}개 크기:{sizes}", flush=True)
+                  except Exception as exc:
+                      print(f"[{label}] 예외: {exc}", flush=True)
+
+          # 3) 쿠키 없이 기본 클라이언트 비교
+          if COOKIE:
+              with tempfile.TemporaryDirectory() as tmp:
+                  o = {"quiet": True, "no_warnings": True, "skip_download": True,
+                       "socket_timeout": 20, "writesubtitles": True,
+                       "writeautomaticsub": True, "subtitleslangs": ["ko", "en"],
+                       "subtitlesformat": "vtt",
+                       "outtmpl": os.path.join(tmp, "%(id)s.%(ext)s"),
+                       "ignoreerrors": True, "ignore_no_formats_error": True,
+                       "retries": 1}
+                  try:
+                      with yt_dlp.YoutubeDL(o) as ydl:
+                          vi = ydl.extract_info(url, download=True)
+                      autos = len((vi.get("automatic_captions") or {})) if vi else 0
+                      vtts = glob.glob(os.path.join(tmp, "*.vtt"))
+                      print(f"[쿠키없음/기본] 자동자막수:{autos} VTT생성:{len(vtts)}개", flush=True)
+                  except Exception as exc:
+                      print(f"[쿠키없음/기본] 예외: {exc}", flush=True)
+          PY

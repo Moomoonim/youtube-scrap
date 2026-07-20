@@ -1,0 +1,91 @@
+name: Daily AX Transcript Fetch
+
+# AX(AI 전환) 유튜브 스크립트를 매일 자동 수집합니다.
+# 이 저장소 정책상 외부 action(checkout 등)을 쓸 수 없어,
+# GitHub 러너에 기본 설치된 git/python만으로 직접 처리합니다.
+on:
+  # 매일 5회 자동 실행 (한국시간 06시 / 10시 / 14시 / 18시 / 22시)
+  # UTC 기준: 21:00(전날) / 01:00 / 05:00 / 09:00 / 13:00
+  schedule:
+    - cron: "0 21,1,5,9,13 * * *"
+  # GitHub 웹에서 'Run workflow' 버튼으로 직접 실행도 가능
+  workflow_dispatch:
+
+# 저장소에 커밋(쓰기) 권한 부여
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    # 스크립트 내부 시간 예산(90분)이 실패해도 6시간을 다 태우지 않게 하는 최후 안전장치
+    timeout-minutes: 150
+    steps:
+      - name: 수집 실행 및 결과 저장
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+          YT_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+        run: |
+          set -e
+
+          # 1) 저장소 내려받기 (외부 action 없이 git으로 직접 클론)
+          git clone --depth 1 --branch "$BRANCH" \
+            "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" repo
+          cd repo
+
+          # 2) 유튜브 쿠키 비밀값이 있으면 파일로 저장 (봇 차단 우회용)
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s' "$YT_COOKIES" > cookies.txt
+            export COOKIES_FILE="$PWD/cookies.txt"
+            echo "쿠키 비밀값을 cookies.txt로 저장했습니다."
+          else
+            echo "경고: YOUTUBE_COOKIES 비밀값이 없습니다. 자막이 차단될 수 있어요."
+          fi
+
+          # 3) 파이썬 의존성 설치 (python3는 러너에 기본 설치되어 있음)
+          python3 -m pip install --upgrade pip
+          python3 -m pip install -r requirements.txt
+
+          # 3-1) 유튜브 자동 자막용 PO 토큰 제공기 실행
+          #     (유튜브가 자동 자막에 PO 토큰 인증을 요구 — 커뮤니티 표준 해법)
+          docker run -d --name bgutil-pot -p 4416:4416 \
+            brainicism/bgutil-ytdlp-pot-provider || \
+            echo "경고: PO 토큰 제공기 시작 실패 — 자동 자막이 제한될 수 있음"
+          python3 -m pip install bgutil-ytdlp-pot-provider
+          sleep 5  # 제공기 기동 대기
+
+          # 4) 키워드 검색 수집 실행
+          python3 fetch_transcripts.py
+
+          # 5) 공식 채널 영상 수집 실행 (2020년~, 회차별 점진 백필)
+          python3 fetch_channels.py
+
+          # 6) DX/AX/AT 자동 분류 및 월별 집계 갱신
+          python3 classify.py
+
+          # 7) 메타데이터 기준 요약 정리 (채널별·월×라벨별)
+          python3 summarize.py
+
+          # 8) 회사별 AX 사례 주장 추출 (근거 발췌 테이블)
+          python3 extract_cases.py
+
+          # 9) 새로 모인 결과가 있으면 커밋 & 푸시
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add transcripts analysis
+          if git diff --staged --quiet; then
+            echo "새로 추가된 스크립트가 없습니다."
+          else
+            git commit -m "chore: $(date -u +%Y-%m-%d) AX 스크립트 자동 수집"
+            # 수집 도중 원격에 다른 커밋이 올라왔을 수 있으므로
+            # 최대 3회 rebase 후 푸시 (충돌 시 이번 수집분 우선)
+            for i in 1 2 3; do
+              git pull --rebase -X theirs origin "$BRANCH" || git rebase --abort || true
+              if git push origin "$BRANCH"; then
+                break
+              fi
+              sleep 5
+            done
+          fi
