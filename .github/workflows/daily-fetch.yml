@@ -26,7 +26,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
           BRANCH: ${{ github.ref_name }}
-          YT_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+          YT_COOKIES: ${{ secrets.YOUTUBE_COOKIES || secrets.YOUTUBE }}
         run: |
           set -e
 
