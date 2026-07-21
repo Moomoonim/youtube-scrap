@@ -39,3 +39,12 @@
 - [중국 AI 키미 쇼크, 삼전닉스에 악재인가요?](중국_AI_키미_쇼크,_삼전닉스에_악재인가요__nyxb88zMbeM.md) (ko) — [원본](https://www.youtube.com/watch?v=nyxb88zMbeM)
 - [[최강기업] AI로 제조의 미래를 설계하다! 제조 AI 에이전트 전문기업 / YTN 사이언스]([최강기업]_AI로_제조의_미래를_설계하다!_제조_AI_에이전트_전문기업_YTN_사이언스__rh4ZJPJwlMs.md) (ko) — [원본](https://www.youtube.com/watch?v=rh4ZJPJwlMs)
 - [📈 Making AI Transformation Success a Reality for your Organization](📈_Making_AI_Transformation_Success_a_Reality_for_your_Organi__qNj7uRG1pRk.md) (en) — [원본](https://www.youtube.com/watch?v=qNj7uRG1pRk)
+
+## 23:20 수집 (6개)
+
+- [Is There a Prompt Formula That Drastically Changes Results from the Same AI? (Exploring AI Features)](Is_There_a_Prompt_Formula_That_Drastically_Changes_Results_f__tecCeX4CUI8.md) (ko) — [원본](https://www.youtube.com/watch?v=tecCeX4CUI8)
+- [[이런뉴스] “부탁해요, 챗GPT” 공손함이 가져온 뜻밖의 결과는? / KBS 2025.04.22.]([이런뉴스]_“부탁해요,_챗GPT”_공손함이_가져온_뜻밖의_결과는_KBS_2025.04.22.__9yLZKa5m270.md) (ko) — [원본](https://www.youtube.com/watch?v=9yLZKa5m270)
+- [국내 기업 10곳 중 4곳 'AI 도입'…생산성↑ / SBS 8뉴스](국내_기업_10곳_중_4곳_'AI_도입'…생산성↑_SBS_8뉴스__aecMpriZCd4.md) (ko) — [원본](https://www.youtube.com/watch?v=aecMpriZCd4)
+- [Leading AI Transformation: Moody's | Microsoft](Leading_AI_Transformation_Moody's_Microsoft__iIkoRCwooMY.md) (en) — [원본](https://www.youtube.com/watch?v=iIkoRCwooMY)
+- [The Right Way to Adopt AI in the Enterprise](The_Right_Way_to_Adopt_AI_in_the_Enterprise__CeNDLolroGM.md) (ko) — [원본](https://www.youtube.com/watch?v=CeNDLolroGM)
+- [AI Is Everywhere. The Agentic Organization Isn’t—Yet](AI_Is_Everywhere._The_Agentic_Organization_Isn’t—Yet__uqVT-2OOToo.md) (ko) — [원본](https://www.youtube.com/watch?v=uqVT-2OOToo)

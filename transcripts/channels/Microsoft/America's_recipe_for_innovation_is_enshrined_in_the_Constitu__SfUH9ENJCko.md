@@ -1,0 +1,13 @@
+# America's recipe for innovation is enshrined in the Constitution
+
+- 영상 링크: https://www.youtube.com/watch?v=SfUH9ENJCko
+- 채널: Microsoft
+- 업로드일: 2026-07-02
+- 자막 언어: en
+- 단어 수: 약 439개
+
+---
+
+## 스크립트
+
+In the summer of 1787, a coincidence here in Philadelphia, unleashed a wave of innovation that continues to shape the future of technology today. Inside Independence Hall, the members of the Constitutional Convention were inventing a new form of government. And at the same time, just a few blocks away, there was an inventor creating a new form of transportation. And on August the 22nd, the Convention declared a recess, and almost everyone who was there walked down to the river. There they met an entrepreneur, an inventor, a tinkerer, named John Fitch. For the first time in history, he managed to assemble a steamboat that could go up the Delaware River against the current. It was the talk of the town. The attendees of the convention wanted to see it. It wasn't enough just to watch, they went for a ride, and what they saw was a future where new technology could open up the great waterways of this country. But at the time, it was not easy to invent anything in the United States. If you wanted to get something like a patent, you had to go state, by state, by state. And you had to go to politicians in the legislature in the hope that they would award you with what was called a monopoly. Two weeks after that boat ride, the convention unanimously amended the draft of the Constitution. We would give to the United States Congress the constitutional authority to set up a system that would award patents and copyrights. Even though Fitch didn't change the future of transportation, his demonstration, in a way, changed the future of everything. This convention established in a constitution, the legal ability of the courts to enforce those intellectual property rights in an objective and fair-minded way. That put in place all of the ingredients needed for people to put their energy into inventing something new, to raise money to help fund their efforts, and to protect it under the intellectual property laws. I often think when I come to work at Microsoft, how lucky we all are to live in a time and work in an industry that is inventing so many things that are new. Whether you're at a big company or a startup, if you're pursuing a dream, if you're creating something that is novel, you can do what you do because of the people who helped put in place the framework that made it possible for us to literally invent the technologies that will make people's lives better. It’s because of what happened here in Philadelphia that we all get to pursue our dreams.

@@ -1,0 +1,13 @@
+# Freedom is built on the protection of privacy | Episode 2
+
+- 영상 링크: https://www.youtube.com/watch?v=FGftt6llon0
+- 채널: Microsoft
+- 업로드일: 2026-07-08
+- 자막 언어: en
+- 단어 수: 약 423개
+
+---
+
+## 스크립트
+
+This is the place where privacy in America was born. The year was 1761. The scene was Boston and a great controversy had erupted. British troops were going from home to home with only a general warrant, a generalized belief, that somewhere someone was doing something wrong— engaged in customs violations. The American colonists, for the first time, stood up to defend what they felt were their fundamental freedoms. To be secure from unreasonable searches and seizures. This room was turned into a courtroom. The case was led by a fiery advocate, James Otis Jr., and in the courtroom there sat a young man training to be a lawyer, only 25 years old, John Adams. Years later, Adams would write that although they had lost the case, “the child, Independence was born.” It was that case, and it was this issue that breathed life into the nation. Even after the Declaration of Independence, even after the Constitution itself, it would take years to ensure that the right to privacy would flourish. The members of the first Congress met in New York and came to a realization that without a Bill of Rights, the Constitution they had written was incomplete. James Madison was the member of Congress who stood up before them and presented his proposal to establish the Bill of Rights, the first amendments to the Constitution. One of the most important is the Fourth Amendment, the one that speaks to the right to privacy, that “the right of the people to be secure from unreasonable searches and seizures shall not be violated.” Through waves of technological and societal change, the judges of this country have helped ensure that that right continues to flourish. It takes people to bring cases before the courts. It takes even companies like Microsoft to go to court to ask the judiciary to&nbsp; protect the right to privacy, as we did four times during the Obama administration. Privacy matters, not just to individuals in their homes, but to all of us where we work, how we work, even to companies and how we protect our ideas, even our intellectual property. Think about how technology has changed from a pen and paper to telegrams, to emails, to video calls, and now to AI. What happened here is the bedrock freedom for all that we continue to live under today. It will take a community of people that remember why it matters so much, and we need to use that memory to build a future that keeps privacy protections strong.

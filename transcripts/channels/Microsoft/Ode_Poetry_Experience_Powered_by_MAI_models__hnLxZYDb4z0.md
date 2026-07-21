@@ -1,0 +1,13 @@
+# Ode Poetry Experience | Powered by MAI models
+
+- 영상 링크: https://www.youtube.com/watch?v=hnLxZYDb4z0
+- 채널: Microsoft
+- 업로드일: 2026-07-09
+- 자막 언어: en
+- 단어 수: 약 464개
+
+---
+
+## 스크립트
+
+I'm the poetry pharmacist. A friend of mine said to me, you're always sending me poetry to get me out of difficulty. And she said, I'm organizing this literary festival in the West of England. I'm putting you in a tent. Bring down every poem you can think of that would help people. I'm going to call you the Poetry Pharmacist. I'm a singular human being, and there's only so much time I can spend in a day talking to people. Ode means that hundreds, thousands of people can talk to me every day. Poetry's, like, probably the oldest voice technology in the world. Can you put the oldest voice technology in the world 3000 years of capturing and saying the unsayable, and put it together with the very latest voice technology. When you express what's on your mind the system interprets that and matches what you're feeling to a library of poems. The poems are recorded by some of the most wonderful actors and actresses in the world. Stephen Fry and Harry Alter and so forth. It's not altering anyone's poems or anyone's readings. The poems are all the original poems of all the poets. You click on the link and I'll say something like, I am William Siegert, and I'd love to help you find the right poem. For the moment you are in, I'm finding it hard to switch off at night, I feel anxious. I'm looking for adventure. My soul is awakened. My spirit is soaring and carried it oft on the winds of the breeze. Happy the man whose wish and care. A few paternal acres bound. Now that all your worry has proved such an unlucky business. Why don't find a better job. I felt I'm not lonely anymore. Like I had wings. Can really find solace in a poem and feel connection from a poem that was written hundreds of years ago. The challenge with it has always been creating a natural, empathetic voice that you want to talk to. That opens you up to talk to her. Not everyone has someone to lean on when they need it. What this technology does is it just allows us to meet more people where they are day to day. And given that experience of connection is a way in which many, many more people than would ever go into a bookshop and buy a poetry book can hear a poem that really touches them through the technology. We can make it so a person can feel very seen, very heard, very in the moment. I've been blessed with the ability to self-medicate with poetry, and that's what I hope Ode will be able to do for everyone. It's kind of like a safe place in a dangerous world.
