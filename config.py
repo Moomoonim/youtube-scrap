@@ -232,5 +232,5 @@ CHANNELS = {
     "DuckDuckGo": "@DuckDuckGo",               # 추정
     "iRobot": "@iRobot",                       # 추정
     "Cruise": "@Cruise",                       # 추정
-    "Zoox": "@zoox",                           # 추정
+    "Zoox": "@ZooxYouTube",                    # [핸들 수정 2026-07-21] @zoox는 동명의 게임 유튜버로 오수집됨 — 확인된 로보택시 채널로 교체
 }
