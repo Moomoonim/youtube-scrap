@@ -261,10 +261,14 @@
 | 2026-07-17 | AX | 자사/일반 | - | 따라서 당사의 코딩 에이전트는 Interactions API를 사용하여 구축할 때 수행해야 할 모든 좋은 작업을 알게 될 것입니다 . | N | [영상](https://www.youtube.com/watch?v=iOK1-b_9Dlg) · [script](../transcripts/channels/Google_Developers/Get_started_with_the_Interactions_API__iOK1-b_9Dlg.md) |
 | 2026-07-17 | AX | 자사/일반 | - | 에이전트가 배포 도구를 실행하면 운영 체제는 일시적으로 권한을 상승시켜 도구가 토큰을 읽고 업로드를 인증할 수 있도록 합니다. | N | [영상](https://www.youtube.com/watch?v=8I7wr2hYFec) · [script](../transcripts/channels/Google_Developers/Antigravity_Arcade_From_prompt_to_game_in_minutes__8I7wr2hYFec.md) |
 
-## Accenture (21건)
+## Accenture (25건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
 |---|---|---|---|---|---|---|
+| 2025-11-18 | AX | 자사/일반 | - | I have to say that, top of mind for me, though, right now is the work we're doing at Nestlé, because I think it is really both revolutionary and also speaks to this notion of unlocking growth with AI transformation. | N | [영상](https://www.youtube.com/watch?v=-o5Q2sn-QC8) · [script](../transcripts/channels/Accenture/Microsoft_Ignite_2025_CEOs_on_AI,_Partnership_&_Frontier_Fir__-o5Q2sn-QC8.md) |
+| 2026-01-15 | AX | 자사/일반 | - | 저희는 지난 15년 이상 동안 차량 관리 사업에서 큰 성공을 거두었으며, 기본적으로 동일한 기술, 즉 소프트웨어와 하드웨어 센서를 활용하여 ADAS(첨단 운전자 보조 시스템) 솔루션을 차량에 적용함으로써 사업으로 전환하고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=Ba2KXHdbjR0) · [script](../transcripts/channels/Accenture/CES_2026_-_Scaling_agentic_AI_to_achieve_breakthrough_transf__Ba2KXHdbjR0.md) |
+| 2026-01-15 | AX | 자사/일반 | - | 그리고 그런 경우에 저희가 하려고 하는 것, 그리고 저희가 구축한 것은 수천 개의 사양과 모든 테스트 데이터, 모든 모델 데이터를 기반으로 합니다. | Y | [영상](https://www.youtube.com/watch?v=Ba2KXHdbjR0) · [script](../transcripts/channels/Accenture/CES_2026_-_Scaling_agentic_AI_to_achieve_breakthrough_transf__Ba2KXHdbjR0.md) |
+| 2026-01-15 | AX | 자사/일반 | - | 재료 측면에서 보면, 원래 10개월 정도 걸리는 과정이 지금은 2개월 정도로 단축되었습니다. | Y | [영상](https://www.youtube.com/watch?v=Ba2KXHdbjR0) · [script](../transcripts/channels/Accenture/CES_2026_-_Scaling_agentic_AI_to_achieve_breakthrough_transf__Ba2KXHdbjR0.md) |
 | 2026-02-02 | unclassified | 자사/일반 | - | 하지만 이제 저희는 핵심 제품, 즉 어제 출시한 PC 제품( 1월 27일부터 판매 가능)에 다시 집중할 것입니다. | Y | [영상](https://www.youtube.com/watch?v=vEc9HScCOH8) · [script](../transcripts/channels/Accenture/CES_2026_-_Accelerating_business_value_with_Advanced_AI__vEc9HScCOH8.md) |
 | 2026-02-02 | unclassified | 자사/일반 | - | 아시다시피, 우리 모두 인공지능에 대해 이야기하고, 반도체 산업이 우리가 경험하고 있는 변화의 근간을 이루며 , 칩을 만들고 모든 산업을 변화시키는 미래를 구축하고 있다는 점에 대해서도 이야기합니다. | N | [영상](https://www.youtube.com/watch?v=vEc9HScCOH8) · [script](../transcripts/channels/Accenture/CES_2026_-_Accelerating_business_value_with_Advanced_AI__vEc9HScCOH8.md) |
 | 2026-02-02 | unclassified | 협력/고객사 언급 | 액센추어 | 그리고 저희는 자체 에이전트 배포를 가속화하기 위해 액센추어와 협력하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=vEc9HScCOH8) · [script](../transcripts/channels/Accenture/CES_2026_-_Accelerating_business_value_with_Advanced_AI__vEc9HScCOH8.md) |

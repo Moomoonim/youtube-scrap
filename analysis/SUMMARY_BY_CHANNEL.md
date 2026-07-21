@@ -1,6 +1,6 @@
 # 채널/출처별 수집 요약
 
-총 766건 · 120개 채널/출처
+총 771건 · 120개 채널/출처
 
 ## LG AI Research (24건)
 
@@ -372,6 +372,71 @@
 - **[Highlights Online Elternabend: Cybersecurity](https://www.youtube.com/watch?v=zvCnlRuzaWs)** — 2025-11-26 · ko · `unclassified`
   가짜, 사기, 악랄한 속임수 인터넷과 아이가 그 안에 앉아 있는 것처럼 인터넷에서 더 보기: 온라인 부모 보호 하지만 전문가와 함께라면 더 자세히 알 수 있습니다. 기기에 대한 정보와 가장 흥미로운 점은 다음과 같습니다. 잠깐, 돈과 관련된 위험 요소들이 있잖아. abzlucken은 위험한 곳입니다. 개인 데이터 비용을 지불하다 사기, 부정 계획, 온라인 쇼핑몰 하나 또는 그 장소 어디에 어디에 데이터, 개인 데이터, 그 위험성 사이버모바일입니다 온라인은 다양한 가능성을 제공합니다.
 
+## Accenture (21건)
+
+- **[We’ve teed up a partnership with golf’s global governing body, The R&A. ⛳](https://www.youtube.com/watch?v=zvgF8ZS6kJA)** — 2026-07-14 · ko · `unclassified`
+  골프는 지난 세기 동안 많은 발전을 이루었습니다 . 오늘날 R&amp;A와 액센츄어는 음악의 유산을 기리는 동시에 미래를 만들어가기 위해 파트너십을 맺고 있습니다 . [음악] 우리는 함께 데이터와 기술을 활용하여 골프의 미래를 재창조하고, 여러분의 골프 경험을 향상시키며, 전 세계 골프의 성장을 촉진하고 있습니다. 이 모든 게 시작에 불과해요.
+
+- **[Avatar: The Last Airbender Season 2 | VFX Breakdown](https://www.youtube.com/watch?v=3v2d2QnVJ20)** — 2026-07-10 · ko · `unclassified`
+  [음악] 이 벽 안에서 얻은 지식은 사용되지도, 잊히지도 않을 것이다. [음악] 당신의 약속.
+
+- **[Why prompt injection is the #1 AI security risk | TQ Tech Talks](https://www.youtube.com/watch?v=O0XheeCS3CI)** — 2026-07-08 · ko · `AX`
+  인공지능을 안전하게 사용하는 방법에는 여러 가지 규칙이 있습니다. 예를 들어 고객 데이터를 공개 챗봇에 업로드하지 말라 거나, 기밀 정보를 ChatGPT에 붙여넣지 말라는 등의 규칙입니다. 그리고 이 조언은 괜찮습니다. 이러한 문제들을 알고 있어야 하지만, 대부분은 사용자가 입력하는 내용 이나 개인적으로 AI에 업로드하는 콘텐츠와 관련된 것이므로 걱정할 필요는 없습니다. 훨씬 더 중요한 위험, 그리고 대부분의 보안 기관에서 AI 및 LLM과 관련된 가장 큰 보안 문제로 여기는 것은 사용자가 입력하는 내용에 관한 것이 아닙니다.
+
+- **[Reinventing the athlete experience through technology, data & AI | Accenture](https://www.youtube.com/watch?v=K5oFxN7D0fI)** — 2026-06-30 · ko · `unclassified`
+  여자 테니스는 언제나 최고의 기량을 상징해 왔습니다. 가차없는 기준. 세계적인 수준의 운동선수들. 거저 얻는 것은 없고, 모든 것은 노력으로 얻는 것이다. 이제 WTA와 액센츄어(음악 부문)가 협력하여 기준을 더욱 높이고 있습니다. 우리는 함께 여자 테니스의 미래를 재창조하고 있습니다. 항상 선수들을 최우선으로 생각하기 때문입니다. 기술과 인공지능을 활용하여 데이터를 실질적인 이점으로 전환합니다. 플레이어 여러분을 위해. 팬들을 위해. [환호] 파트너들을 위해. 이것은 단순히 다음에 대한 문제만이 아닙니다. 무엇이 가능한가에 관한 것입니다.
+
+- **[Accenture Song at the Cannes Lions Festival of Creativity 2026](https://www.youtube.com/watch?v=pTJQGdQ-xuk)** — 2026-06-19 · ko · `unclassified`
+  [음악] 룰라 대통령님, 우리 세계를 지키려면 [음악]이 필요합니다 . 지금이 바로 그때입니다 . [음악] 안녕하세요. 여러분 모두 가이 피에리 보셨나요? 가이 피에리? 이게 대체 뭐야? [음악] 일반 TV에서는 이런 걸 볼 수 없을 거예요.
+
+- **[Fewer than one in five organizations are realizing AI’s full potential](https://www.youtube.com/watch?v=3Enrm07BZgE)** — 2026-06-12 · ko · `unclassified`
+  [음악] 음.
+
+- **[The Skills Mismatch Economy | How AI is reshaping skill demand](https://www.youtube.com/watch?v=HmuEoDwZnqg)** — 2026-04-21 · ko · `AX`
+  [음악] 안녕하세요, 저는 하버드 비즈니스 리뷰의 선임 편집자 후안 마르티네스입니다 . 액센츄어 리서치 경영진 브리핑에 오신 것을 환영합니다. 우리는 노동 시장의 근본적인 구조조정을 겪고 있습니다. 직책의 의미가 퇴색하고, 이력서에는 더 이상 인재를 구분할 수 없는 정보들로 가득하며 , 인공지능이 대부분의 조직이 아직 따라잡지 못한 변화를 가속화하는 세상 . 오늘 저는 펜실베이니아 대학교 인공지능 및 분석학 부학장이신 에릭 브래들로우 교수님을 모셨습니다 . 그는 이 연구에서 와튼 스쿨 측을 이끌었고 , 지수를 개발하고 제공한 학생 팀을 감독했습니다
+
+- **[Delivering value with and for people in the age of AI](https://www.youtube.com/watch?v=F1amDOMZVZY)** — 2026-04-15 · ko · `unclassified`
+  인공지능 시대의 가장 큰 위험은 단순히 일자리 문제만이 아닙니다. 문제는 음악계가 재능 있는 사람들을 가장 중요한 곳으로 충분히 빠르게 보내지 못하고 있다는 것입니다 . 음악 분야의 AI 기술은 직무 설명이 따라잡을 수 없을 정도로 빠르게 기술을 변화시키고 있습니다 . 이제 성공은 적절한 시기에 적절한 장소에서 적절한 기술을 갖추는 데 달려 있습니다 . 조직이 구성원의 역량을 완전히 이해하면 , 처음부터 다시 시작하지 않고도 더 빠르게 움직일 수 있습니다 .
+
+- **[Accenture at Google Cloud Next 2026](https://www.youtube.com/watch?v=huGkOyhioqM)** — 2026-04-14 · en · `unclassified`
+  All of human progress has come down [music] to people are not being afraid to say two questions, what if and why not? Since I've become CEO is people inside and outside the company keep asking me, so when will the transformation end? Change cannot stop. Change doesn't stop.
+
+- **[Faculty joins Accenture, Dr. Marc Warner named CTO](https://www.youtube.com/watch?v=8m3MRFvrSsY)** — 2026-03-16 · en · `unclassified`
+  The world's biggest [music] organizations, the governments, the enterprises, are going to need to put AI at the heart of their business [music] processes if they want to compete. And that is going to require transformation. &gt;&gt; [music] &gt;&gt; Our goal has always been to sort of measure the value of AI in things that people actually care about, whether that's products that are better or cheaper or medicines brought to market faster or lives saved even.
+
+- **[Sovereign AI: Own your AI future | Accenture](https://www.youtube.com/watch?v=SNlFGdkTSZU)** — 2026-03-13 · en · `unclassified`
+  [music] Hi, I'm Juan Martinez, senior editor at the Harvard Business Review. Welcome to the Accenture Research Executive Briefing. We live in uncertain times. That phrase is often overused, but today it feels unusually precise. Geopolitical fragmentation, supply chain shocks, and the concentration of critical technologies are forcing leaders to rethink resilience, control, and long-term competitiveness. One concept though is moving rapidly from policy discussions into the boardroom, and that's sovereignty, especially when it comes to AI.
+
+- **[Accenture at NVIDIA GTC | Powering AI reinvention at enterprise scale](https://www.youtube.com/watch?v=POzoHBBwtNg)** — 2026-03-11 · ko · `unclassified`
+  [음악] 음.
+
+- **[Top Banking Trends for 2026](https://www.youtube.com/watch?v=2iQ6yOr2GpU)** — 2026-03-10 · ko · `unclassified`
+  차세대 은행업은 우리가 무엇을 추가하느냐에 따라 정의되지 않을 것입니다. 그것은 우리가 [음악이] 결국 뒤에 남겨두게 될 기존의 제약 조건에 의해 정의될 것입니다. 붙잡고 있는 데 드는 비용이 앞으로 나아가는 데서 얻을 수 있는 이점보다 훨씬 크기 때문입니다. 우리가 알고 있는 은행업의 종말이 다가온다면 어떨까요 ? 우리가 원하는 방식의 은행업이 시작됩니다. 이것이 바로 제약 없는 은행업입니다. 디지털 화폐, 프로그래밍 가능한 흐름, 그리고 에이전트 기반 결제 덕분에 돈이 스스로 이동하고, 최적화되고, 협상하는 세상을 상상해 보세요.
+
+- **[MWC 2026: scaling AI to transform telcos](https://www.youtube.com/watch?v=CHZIJOvKGSo)** — 2026-02-23 · ko · `unclassified`
+  [음악] 열기. 이봐, 히트.
+
+- **[Top Banking Trends 2026 - Unconstrained Banking | Accenture](https://www.youtube.com/watch?v=MWvdwSD3ZRc)** — 2026-02-23 · ko · `AX`
+  [음악] 안녕하세요, 저는 하버드 비즈니스 리뷰의 선임 편집자 후안 마르티네스입니다 . 액센츄어 리서치 경영진 브리핑에 오신 것을 환영합니다. 은행업계는 오랜 제약들이 풀리는 새로운 시대로 접어들고 있습니다 . 생성형 AI, 인공지능, 디지털 자산, 그리고 새로운 비즈니스 모델의 융합은 은행이 할 수 있는 일 , 그 속도를 변화시키고 있으며, 성장을 뒷받침하는 경제적 원리 또한 바꾸고 있습니다. 오늘은 액센츄어의 글로벌 뱅킹 및 자본 시장 책임자인 마이클 애벗과 액센츄어 리서치의 글로벌 뱅킹 연구 책임자인 프란체스카 카미티와 함께합니다 .
+
+- **[CES 2026 - Accelerating business value with Advanced AI](https://www.youtube.com/watch?v=vEc9HScCOH8)** — 2026-02-02 · ko · `unclassified`
+  [박수] 좋습니다. 네, 여러분 모두 환영합니다. 오늘 함께해 주셔서 정말 감사합니다 . CES는 언제나, 언제나 연초에 열리는 행사라 정말 기대가 큽니다. 제 생각에 여러분 중 많은 분들이 저와 같을 것 같은데, 이제 막 휴가를 즐기고 휴식을 취하기 시작해서 돌아오면 바로 바쁜 일상에 뛰어들게 되죠. 그리고 지금 가장 활기 넘치는 곳은 CES일 거예요. CES에서는 최첨단 기술을 모두 만나볼 수 있거든요. 인공지능이 도처에 나타나고 있고, 이번 주에는 이와 관련해 매우 흥미로운 발표들이 많이 나오고 있습니다
+
+- **[CES 2026 - Scaling agentic AI to achieve breakthrough transformation](https://www.youtube.com/watch?v=Ba2KXHdbjR0)** — 2026-01-15 · ko · `AX`
+  모두 환영합니다. 지금까지 CES는 정말 흥미진진했습니다. 모두 이렇게 와주셔서 정말 반갑습니다. CES에 가면 어디를 가든 모든 포스터에 AI 관련 내용이 도배되어 있는 걸 볼 수 있어요. 여기서는 정말 어디에나 존재해요. 하지만 진짜 중요한 질문은 인공지능을 통해 어떻게 가치를 창출할 수 있느냐는 것입니다. 실제로 어떻게 활용할까요? 그래서 오늘 우리가 이야기할 내용 중 하나는 어떻게 잠금을 해제하는지입니다. 어떻게 하면 AI를 확장하여 획기적인 변화를 이룰 수 있을까요? 저희는 굿이어의 파트너들과 함께 그 사례를 살펴보려고 합니다 .
+
+- **[Empowering film creatives with digital twins](https://www.youtube.com/watch?v=Uys_ofb75iU)** — 2025-12-08 · en · `unclassified`
+  The Walt Disney Studios has been producing more content than ever before, and this has led to the need for new and innovative methods of pre-production and collaboration. With filmmakers often geographically spread out across the globe while on sets, the challenge was to build digital solutions that enable storytellers to focus on creating their world-class content. Accenture and the Walt Disney Studios StudioLAB work together across two projects focused on digital twinning.
+
+- **[Microsoft Ignite 2025: CEOs on AI, Partnership & Frontier Firms](https://www.youtube.com/watch?v=-o5Q2sn-QC8)** — 2025-11-18 · en · `AX`
+  We're going to have three main themes that underpin everything we announce at Ignite. The first is this notion of AI and the flow of human ambition, keeping human ambition at the center. Your unique value in transformation. The second being this idea of ubiquitous innovation and the fact that there's a maker in every one of us. And the frontier firm has makers in every room in the house.
+
+- **[20X Microsoft Partner of the Year - Accenture at Ignite 2025](https://www.youtube.com/watch?v=kqKyNdrlyVg)** — 2025-11-14 · ko · `unclassified`
+  เฮ
+
+- **[NFL's international events marketing strategy](https://www.youtube.com/watch?v=TVeUjocfzmQ)** — 2025-10-03 · ko · `unclassified`
+  [음악] [박수] [음악] 저는 우리가 국제적으로 성공하는 비결이 바로 미식축구의 원칙들을 접목시키는 데 있다고 생각합니다. 그것은 통합의 힘입니다. 사람들을 하나로 모아줍니다 . 액센츄어는 직원 교육에 있어 우리에게 훌륭한 파트너였습니다. 어떻게 하면 차별화된 모습을 보이면서도 미국 문화를 축구 경기에 접목시킬 수 있을까요? 또한, 개최국에 대한 존중을 잊지 말아야 합니다. 우리는 자연스럽고 본능적으로 글로벌 기업으로서 운영합니다 . 그것이 바로 우리의 정체성이며, 우리의 DNA에 깊이 새겨져 있습니다.
+
 ## NTT DATA (18건)
 
 - **[NTT DATA MOVIE ～IT業界編～](https://www.youtube.com/watch?v=Ws6gSI-p3jY)** — 2024-10-11 · ko · `unclassified`
@@ -480,56 +545,6 @@
 
 - **[Intent-driven development with Claude Code & Fable 5](https://www.youtube.com/watch?v=6ERUGFurDHY)** — 2026-07-06 · ko · `AX`
   클라우드 코드는 현재 전 세계에서 가장 많이 언급되는 개발자 도구 중 하나가 되었습니다 . 이 때문에 전 세계의 엔지니어들은 소프트웨어를 구축하는 방식을 재고하고 있습니다. 오늘 저와 함께 이 자리에 앉아 계신 분은 클라우드 코드 개발사인 앤 스로픽의 리디아 헤일리입니다 . 온라인에서는 '아보카도'라는 닉네임으로도 알려진 그녀가 클라우드 코드가 실제로 어떻게 작동하고 앞으로 어떻게 발전해 나갈지 그 비밀을 밝히기 위해 나섰습니다. 그리고 CS Dojo의 창시자이자 클라우드 코드 팁 저장소(Cloud Code Tips Repository)의 저자인 YK Sugy도 함께합니다.
-
-## Accenture (16건)
-
-- **[We’ve teed up a partnership with golf’s global governing body, The R&A. ⛳](https://www.youtube.com/watch?v=zvgF8ZS6kJA)** — 2026-07-14 · ko · `unclassified`
-  골프는 지난 세기 동안 많은 발전을 이루었습니다 . 오늘날 R&amp;A와 액센츄어는 음악의 유산을 기리는 동시에 미래를 만들어가기 위해 파트너십을 맺고 있습니다 . [음악] 우리는 함께 데이터와 기술을 활용하여 골프의 미래를 재창조하고, 여러분의 골프 경험을 향상시키며, 전 세계 골프의 성장을 촉진하고 있습니다. 이 모든 게 시작에 불과해요.
-
-- **[Avatar: The Last Airbender Season 2 | VFX Breakdown](https://www.youtube.com/watch?v=3v2d2QnVJ20)** — 2026-07-10 · ko · `unclassified`
-  [음악] 이 벽 안에서 얻은 지식은 사용되지도, 잊히지도 않을 것이다. [음악] 당신의 약속.
-
-- **[Why prompt injection is the #1 AI security risk | TQ Tech Talks](https://www.youtube.com/watch?v=O0XheeCS3CI)** — 2026-07-08 · ko · `AX`
-  인공지능을 안전하게 사용하는 방법에는 여러 가지 규칙이 있습니다. 예를 들어 고객 데이터를 공개 챗봇에 업로드하지 말라 거나, 기밀 정보를 ChatGPT에 붙여넣지 말라는 등의 규칙입니다. 그리고 이 조언은 괜찮습니다. 이러한 문제들을 알고 있어야 하지만, 대부분은 사용자가 입력하는 내용 이나 개인적으로 AI에 업로드하는 콘텐츠와 관련된 것이므로 걱정할 필요는 없습니다. 훨씬 더 중요한 위험, 그리고 대부분의 보안 기관에서 AI 및 LLM과 관련된 가장 큰 보안 문제로 여기는 것은 사용자가 입력하는 내용에 관한 것이 아닙니다.
-
-- **[Reinventing the athlete experience through technology, data & AI | Accenture](https://www.youtube.com/watch?v=K5oFxN7D0fI)** — 2026-06-30 · ko · `unclassified`
-  여자 테니스는 언제나 최고의 기량을 상징해 왔습니다. 가차없는 기준. 세계적인 수준의 운동선수들. 거저 얻는 것은 없고, 모든 것은 노력으로 얻는 것이다. 이제 WTA와 액센츄어(음악 부문)가 협력하여 기준을 더욱 높이고 있습니다. 우리는 함께 여자 테니스의 미래를 재창조하고 있습니다. 항상 선수들을 최우선으로 생각하기 때문입니다. 기술과 인공지능을 활용하여 데이터를 실질적인 이점으로 전환합니다. 플레이어 여러분을 위해. 팬들을 위해. [환호] 파트너들을 위해. 이것은 단순히 다음에 대한 문제만이 아닙니다. 무엇이 가능한가에 관한 것입니다.
-
-- **[Accenture Song at the Cannes Lions Festival of Creativity 2026](https://www.youtube.com/watch?v=pTJQGdQ-xuk)** — 2026-06-19 · ko · `unclassified`
-  [음악] 룰라 대통령님, 우리 세계를 지키려면 [음악]이 필요합니다 . 지금이 바로 그때입니다 . [음악] 안녕하세요. 여러분 모두 가이 피에리 보셨나요? 가이 피에리? 이게 대체 뭐야? [음악] 일반 TV에서는 이런 걸 볼 수 없을 거예요.
-
-- **[Fewer than one in five organizations are realizing AI’s full potential](https://www.youtube.com/watch?v=3Enrm07BZgE)** — 2026-06-12 · ko · `unclassified`
-  [음악] 음.
-
-- **[The Skills Mismatch Economy | How AI is reshaping skill demand](https://www.youtube.com/watch?v=HmuEoDwZnqg)** — 2026-04-21 · ko · `AX`
-  [음악] 안녕하세요, 저는 하버드 비즈니스 리뷰의 선임 편집자 후안 마르티네스입니다 . 액센츄어 리서치 경영진 브리핑에 오신 것을 환영합니다. 우리는 노동 시장의 근본적인 구조조정을 겪고 있습니다. 직책의 의미가 퇴색하고, 이력서에는 더 이상 인재를 구분할 수 없는 정보들로 가득하며 , 인공지능이 대부분의 조직이 아직 따라잡지 못한 변화를 가속화하는 세상 . 오늘 저는 펜실베이니아 대학교 인공지능 및 분석학 부학장이신 에릭 브래들로우 교수님을 모셨습니다 . 그는 이 연구에서 와튼 스쿨 측을 이끌었고 , 지수를 개발하고 제공한 학생 팀을 감독했습니다
-
-- **[Delivering value with and for people in the age of AI](https://www.youtube.com/watch?v=F1amDOMZVZY)** — 2026-04-15 · ko · `unclassified`
-  인공지능 시대의 가장 큰 위험은 단순히 일자리 문제만이 아닙니다. 문제는 음악계가 재능 있는 사람들을 가장 중요한 곳으로 충분히 빠르게 보내지 못하고 있다는 것입니다 . 음악 분야의 AI 기술은 직무 설명이 따라잡을 수 없을 정도로 빠르게 기술을 변화시키고 있습니다 . 이제 성공은 적절한 시기에 적절한 장소에서 적절한 기술을 갖추는 데 달려 있습니다 . 조직이 구성원의 역량을 완전히 이해하면 , 처음부터 다시 시작하지 않고도 더 빠르게 움직일 수 있습니다 .
-
-- **[Accenture at Google Cloud Next 2026](https://www.youtube.com/watch?v=huGkOyhioqM)** — 2026-04-14 · en · `unclassified`
-  All of human progress has come down [music] to people are not being afraid to say two questions, what if and why not? Since I've become CEO is people inside and outside the company keep asking me, so when will the transformation end? Change cannot stop. Change doesn't stop.
-
-- **[Faculty joins Accenture, Dr. Marc Warner named CTO](https://www.youtube.com/watch?v=8m3MRFvrSsY)** — 2026-03-16 · en · `unclassified`
-  The world's biggest [music] organizations, the governments, the enterprises, are going to need to put AI at the heart of their business [music] processes if they want to compete. And that is going to require transformation. &gt;&gt; [music] &gt;&gt; Our goal has always been to sort of measure the value of AI in things that people actually care about, whether that's products that are better or cheaper or medicines brought to market faster or lives saved even.
-
-- **[Sovereign AI: Own your AI future | Accenture](https://www.youtube.com/watch?v=SNlFGdkTSZU)** — 2026-03-13 · en · `unclassified`
-  [music] Hi, I'm Juan Martinez, senior editor at the Harvard Business Review. Welcome to the Accenture Research Executive Briefing. We live in uncertain times. That phrase is often overused, but today it feels unusually precise. Geopolitical fragmentation, supply chain shocks, and the concentration of critical technologies are forcing leaders to rethink resilience, control, and long-term competitiveness. One concept though is moving rapidly from policy discussions into the boardroom, and that's sovereignty, especially when it comes to AI.
-
-- **[Accenture at NVIDIA GTC | Powering AI reinvention at enterprise scale](https://www.youtube.com/watch?v=POzoHBBwtNg)** — 2026-03-11 · ko · `unclassified`
-  [음악] 음.
-
-- **[Top Banking Trends for 2026](https://www.youtube.com/watch?v=2iQ6yOr2GpU)** — 2026-03-10 · ko · `unclassified`
-  차세대 은행업은 우리가 무엇을 추가하느냐에 따라 정의되지 않을 것입니다. 그것은 우리가 [음악이] 결국 뒤에 남겨두게 될 기존의 제약 조건에 의해 정의될 것입니다. 붙잡고 있는 데 드는 비용이 앞으로 나아가는 데서 얻을 수 있는 이점보다 훨씬 크기 때문입니다. 우리가 알고 있는 은행업의 종말이 다가온다면 어떨까요 ? 우리가 원하는 방식의 은행업이 시작됩니다. 이것이 바로 제약 없는 은행업입니다. 디지털 화폐, 프로그래밍 가능한 흐름, 그리고 에이전트 기반 결제 덕분에 돈이 스스로 이동하고, 최적화되고, 협상하는 세상을 상상해 보세요.
-
-- **[MWC 2026: scaling AI to transform telcos](https://www.youtube.com/watch?v=CHZIJOvKGSo)** — 2026-02-23 · ko · `unclassified`
-  [음악] 열기. 이봐, 히트.
-
-- **[Top Banking Trends 2026 - Unconstrained Banking | Accenture](https://www.youtube.com/watch?v=MWvdwSD3ZRc)** — 2026-02-23 · ko · `AX`
-  [음악] 안녕하세요, 저는 하버드 비즈니스 리뷰의 선임 편집자 후안 마르티네스입니다 . 액센츄어 리서치 경영진 브리핑에 오신 것을 환영합니다. 은행업계는 오랜 제약들이 풀리는 새로운 시대로 접어들고 있습니다 . 생성형 AI, 인공지능, 디지털 자산, 그리고 새로운 비즈니스 모델의 융합은 은행이 할 수 있는 일 , 그 속도를 변화시키고 있으며, 성장을 뒷받침하는 경제적 원리 또한 바꾸고 있습니다. 오늘은 액센츄어의 글로벌 뱅킹 및 자본 시장 책임자인 마이클 애벗과 액센츄어 리서치의 글로벌 뱅킹 연구 책임자인 프란체스카 카미티와 함께합니다 .
-
-- **[CES 2026 - Accelerating business value with Advanced AI](https://www.youtube.com/watch?v=vEc9HScCOH8)** — 2026-02-02 · ko · `unclassified`
-  [박수] 좋습니다. 네, 여러분 모두 환영합니다. 오늘 함께해 주셔서 정말 감사합니다 . CES는 언제나, 언제나 연초에 열리는 행사라 정말 기대가 큽니다. 제 생각에 여러분 중 많은 분들이 저와 같을 것 같은데, 이제 막 휴가를 즐기고 휴식을 취하기 시작해서 돌아오면 바로 바쁜 일상에 뛰어들게 되죠. 그리고 지금 가장 활기 넘치는 곳은 CES일 거예요. CES에서는 최첨단 기술을 모두 만나볼 수 있거든요. 인공지능이 도처에 나타나고 있고, 이번 주에는 이와 관련해 매우 흥미로운 발표들이 많이 나오고 있습니다
 
 ## Amazon (16건)
 
