@@ -21,3 +21,9 @@
 - [The Birth of AI Agent Experience (AX)—A New Kind of UX](The_Birth_of_AI_Agent_Experience_(AX)—A_New_Kind_of_UX__Kho24ymyTLM.md) (ko) — [원본](https://www.youtube.com/watch?v=Kho24ymyTLM)
 - [APO GAIA Podcast | Korea’s AI Policy and Manufacturing AX with MOTIR](APO_GAIA_Podcast_Korea’s_AI_Policy_and_Manufacturing_AX_with__LogtwSzSdWw.md) (ko) — [원본](https://www.youtube.com/watch?v=LogtwSzSdWw)
 - [AI & AX Automation Explained | How AI-Native Companies Transform Business | Nam Dae-hyun (TreeSoop)](AI_&_AX_Automation_Explained_How_AI-Native_Companies_Transfo__yVDDB4XAP_Y.md) (en) — [원본](https://www.youtube.com/watch?v=yVDDB4XAP_Y)
+
+## 10:02 수집 (3개)
+
+- [AI isn’t digital transformation, and leaders need to understand why](AI_isn’t_digital_transformation,_and_leaders_need_to_underst__eZ1NizUx9U4.md) (ko) — [원본](https://www.youtube.com/watch?v=eZ1NizUx9U4)
+- [AI Transforms Health Care | Artificial Intelligence: The Future of Medicine & Health Care Is Here](AI_Transforms_Health_Care_Artificial_Intelligence_The_Future__wD1qn2i3Wb4.md) (ko) — [원본](https://www.youtube.com/watch?v=wD1qn2i3Wb4)
+- [AI 도입 지원금 2억 원? AX 지원사업 핵심만 정리했습니다](AI_도입_지원금_2억_원_AX_지원사업_핵심만_정리했습니다__8gDnDY1cTtY.md) (ko) — [원본](https://www.youtube.com/watch?v=8gDnDY1cTtY)
