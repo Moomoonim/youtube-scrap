@@ -1,0 +1,13 @@
+# Customers react to the Volvo EX60
+
+- 영상 링크: https://www.youtube.com/watch?v=FWPkqECU9ls
+- 채널: Volvo Cars
+- 업로드일: 2026-05-26
+- 자막 언어: en
+- 단어 수: 약 449개
+
+---
+
+## 스크립트
+
+Today we are in Barcelona, Spain and in just a few minutes we're going to see the first 16 real customers coming here to to drive the cars. &gt;&gt; It's very exciting to give our customers an opportunity to come and try the car that they purchased. A lot of our customers have bought this car even without test driving it at all. We're hoping that they're very happy with their purchase. They're going to talk to other customers and other prospective customers about how much they love the EX60. &gt;&gt; Hearing these first impressions is really something very very special and I'm so looking forward to this day. &gt;&gt; We have everything except sun at the moment, but this is exciting. Here today we're going to present for the first time ever this amazing car to to real customers. This is going to be awesome. &gt;&gt; I do think it is insane that like we are the first people driving this thing. &gt;&gt; This is it's so cool. &gt;&gt; First impressions just great. &gt;&gt; Can you tell by the smile? Yeah, it was super fun. &gt;&gt; As a Swede I got this phenomenal. Klein Schnucklig. &gt;&gt; Oh, there's the the seat belt thing. &gt;&gt; Yeah, there's the little hug. I'm going to call it the hug. &gt;&gt; Oh, you can feel the hug. &gt;&gt; Yeah. &gt;&gt; Everything is bigger and better I would say. So so uh and more lagom as we say in Sweden. &gt;&gt; They know how to make everything soft. &gt;&gt; Yeah. Nothing &gt;&gt; Yes, plasticky. &gt;&gt; Nothing feels even this piece like, you know? &gt;&gt; Drives great. Steering wheel feels great. Visibility's great. The all that screens are great. &gt;&gt; Super responsive, super fast and that's for me like that's actually a safety thing. I want to feel like I can get out of a pickle quickly if I need to and that I can get the job done and then some. &gt;&gt; This is like the road trip car. I'm feeling it. &gt;&gt; Yeah. &gt;&gt; It handles so smoothly. Tried out the one pedal, automatic, low. &gt;&gt; So I was just having a mental sitting in the passenger side of the car whether or not I'm going to love the drive. I'm going to love the drive. And again, quiet. Quiet and super quiet. I still think the dialing in of when it is telling you you're tired and stuff can get better. I know it is getting better. But that's kind of annoying. &gt;&gt; Did it tell you you were tired? &gt;&gt; Yeah. &gt;&gt; Well, are you tired? &gt;&gt; I mean, maybe. But &gt;&gt; Most fantastic. Of course. Really nice. Loved it.

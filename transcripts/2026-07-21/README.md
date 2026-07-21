@@ -33,3 +33,9 @@
 - [The Simple Difference Between People Who Make Money With AI and Those Who Don't](The_Simple_Difference_Between_People_Who_Make_Money_With_AI___61QZSS-HaBw.md) (ko) — [원본](https://www.youtube.com/watch?v=61QZSS-HaBw)
 - [Where the Gaps Exist With Enterprise AI Adoption](Where_the_Gaps_Exist_With_Enterprise_AI_Adoption__cE4ppGayicY.md) (ko) — [원본](https://www.youtube.com/watch?v=cE4ppGayicY)
 - [SK AX, a new partner for AX innovation in the era of AI transformation.](SK_AX,_a_new_partner_for_AX_innovation_in_the_era_of_AI_tran__IIUd_CB4azI.md) (ko) — [원본](https://www.youtube.com/watch?v=IIUd_CB4azI)
+
+## 19:33 수집 (3개)
+
+- [중국 AI 키미 쇼크, 삼전닉스에 악재인가요?](중국_AI_키미_쇼크,_삼전닉스에_악재인가요__nyxb88zMbeM.md) (ko) — [원본](https://www.youtube.com/watch?v=nyxb88zMbeM)
+- [[최강기업] AI로 제조의 미래를 설계하다! 제조 AI 에이전트 전문기업 / YTN 사이언스]([최강기업]_AI로_제조의_미래를_설계하다!_제조_AI_에이전트_전문기업_YTN_사이언스__rh4ZJPJwlMs.md) (ko) — [원본](https://www.youtube.com/watch?v=rh4ZJPJwlMs)
+- [📈 Making AI Transformation Success a Reality for your Organization](📈_Making_AI_Transformation_Success_a_Reality_for_your_Organi__qNj7uRG1pRk.md) (en) — [원본](https://www.youtube.com/watch?v=qNj7uRG1pRk)
