@@ -1,7 +1,7 @@
 # TCS E-Roller Test 2026: Die besten bis 25 km/h
 
 - 영상 링크: https://www.youtube.com/watch?v=Jm9o0oJaGvs
-- 채널: TCS
+- 채널: Touring_Club_Schweiz (오수집 정정: 스위스 자동차클럽, Tata Consultancy Services 아님)
 - 업로드일: 2026-03-31
 - 자막 언어: ko
 - 단어 수: 약 677개

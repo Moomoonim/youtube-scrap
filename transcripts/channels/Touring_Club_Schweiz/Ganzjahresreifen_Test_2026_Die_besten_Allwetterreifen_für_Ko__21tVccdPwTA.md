@@ -1,7 +1,7 @@
 # Ganzjahresreifen Test 2026: Die besten Allwetterreifen für Kompaktauto
 
 - 영상 링크: https://www.youtube.com/watch?v=21tVccdPwTA
-- 채널: TCS
+- 채널: Touring_Club_Schweiz (오수집 정정: 스위스 자동차클럽, Tata Consultancy Services 아님)
 - 업로드일: 2026-06-22
 - 자막 언어: ko
 - 단어 수: 약 1233개

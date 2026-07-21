@@ -1,7 +1,7 @@
 # Light‑Assist E‑Bikes: Wie viel Unterstützung braucht man wirklich?
 
 - 영상 링크: https://www.youtube.com/watch?v=YABh3JtYPUw
-- 채널: TCS
+- 채널: Touring_Club_Schweiz (오수집 정정: 스위스 자동차클럽, Tata Consultancy Services 아님)
 - 업로드일: 2026-05-12
 - 자막 언어: ko
 - 단어 수: 약 1453개

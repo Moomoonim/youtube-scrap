@@ -222,7 +222,7 @@ CHANNELS = {
     "Swisscom": "@Swisscom",                   # 추정
     "Telenor": "@TelenorGroup",                # 추정
     "SoftBank": "@softbank",                   # 추정
-    "TCS": "@TCS",                             # 추정
+    "TCS": "@TCSGlobal",                       # [핸들 수정 2026-07-21] @TCS는 스위스 자동차클럽(Touring Club Schweiz)으로 오수집됨 — 확인된 정식 핸들로 교체
     "Infosys": "@Infosys",                     # 추정
     "Capgemini": "@Capgemini",                 # 추정
     "NTT DATA": "@NTTDATA",                    # 추정
