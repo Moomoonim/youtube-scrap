@@ -27,3 +27,9 @@
 - [AI isn’t digital transformation, and leaders need to understand why](AI_isn’t_digital_transformation,_and_leaders_need_to_underst__eZ1NizUx9U4.md) (ko) — [원본](https://www.youtube.com/watch?v=eZ1NizUx9U4)
 - [AI Transforms Health Care | Artificial Intelligence: The Future of Medicine & Health Care Is Here](AI_Transforms_Health_Care_Artificial_Intelligence_The_Future__wD1qn2i3Wb4.md) (ko) — [원본](https://www.youtube.com/watch?v=wD1qn2i3Wb4)
 - [AI 도입 지원금 2억 원? AX 지원사업 핵심만 정리했습니다](AI_도입_지원금_2억_원_AX_지원사업_핵심만_정리했습니다__8gDnDY1cTtY.md) (ko) — [원본](https://www.youtube.com/watch?v=8gDnDY1cTtY)
+
+## 15:40 수집 (3개)
+
+- [The Simple Difference Between People Who Make Money With AI and Those Who Don't](The_Simple_Difference_Between_People_Who_Make_Money_With_AI___61QZSS-HaBw.md) (ko) — [원본](https://www.youtube.com/watch?v=61QZSS-HaBw)
+- [Where the Gaps Exist With Enterprise AI Adoption](Where_the_Gaps_Exist_With_Enterprise_AI_Adoption__cE4ppGayicY.md) (ko) — [원본](https://www.youtube.com/watch?v=cE4ppGayicY)
+- [SK AX, a new partner for AX innovation in the era of AI transformation.](SK_AX,_a_new_partner_for_AX_innovation_in_the_era_of_AI_tran__IIUd_CB4azI.md) (ko) — [원본](https://www.youtube.com/watch?v=IIUd_CB4azI)

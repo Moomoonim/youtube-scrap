@@ -4,6 +4,43 @@
 
 > ⚠️ 1차 규칙 기반 발췌 — 발언 주체·맥락 검증 전이므로 인용 시 원문 확인 필수. (정밀 추출은 LLM 2차 단계에서)
 
+## Meta Developers (32건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-04-17 | unclassified | 자사/일반 | - | 앤디는 약 8년 전부터 이 제품의 시제품 ​​개발을 시작했습니다. | Y | [영상](https://www.youtube.com/watch?v=JOfG6X3nFT0) · [script](../transcripts/channels/Meta_Developers/Designing_for_the_Living_Room_The_Spatial_Architecture_of_Mi__JOfG6X3nFT0.md) |
+| 2026-04-17 | unclassified | 자사/일반 | - | 그리고 정말 흥미로운 점은 그래프를 자세히 보면 맨 아래쪽에 승리 횟수가 나와 있는데 , 성공적인 데이터 추출이 한 번 있을 때마다 고객 유지율이 20%씩 향상된다는 것입니다 . | Y | [영상](https://www.youtube.com/watch?v=o_mrK9060hE) · [script](../transcripts/channels/Meta_Developers/The_Data_Driven_Advantage_Optimizing_VR_Games_with_Analytics__o_mrK9060hE.md) |
+| 2026-04-17 | unclassified | 자사/일반 | - | 저희는 ' 고릴라 태그'라는 게임을 만들었는데, 이 게임은 약 3년 반 전에 출시된 이후로 VR 퀘스트에서 가장 인기 있는 게임입니다 . | Y | [영상](https://www.youtube.com/watch?v=cnrqThpRtPI) · [script](../transcripts/channels/Meta_Developers/VR_LiveOps_Sustaining_Player_Engagement_&_Monetization__cnrqThpRtPI.md) |
+| 2026-04-17 | AX | 협력/고객사 언급 | 퀄컴 | 한 가지 유의할 점은 과거 다른 퀄컴 GPU를 출시할 때는 MSAA를 4배로 설정하는 것이 권장 사항이었으며, 실제로 API에서 권장 MSAA 레벨을 조회하면 4배로 표시된다는 것입니다 . | Y | [영상](https://www.youtube.com/watch?v=w-ys2nE-MgI) · [script](../transcripts/channels/Meta_Developers/VR_Performance_Fundamentals_for_Quest_33S__w-ys2nE-MgI.md) |
+| 2026-04-17 | unclassified | 자사/일반 | - | 저희는 약 6 개월 전에 Ugh라는 게임을 출시했습니다. | Y | [영상](https://www.youtube.com/watch?v=9B1FgaKWrpU) · [script](../transcripts/channels/Meta_Developers/We_Built_the_Wrong_Games_First_Failing_Forward_to_'UG',_VR's__9B1FgaKWrpU.md) |
+| 2026-04-17 | unclassified | 자사/일반 | - | 그리고 궁극적으로 우리는 평균적인 선수의 일일 경기 수가 2~3경기에서 70~75% 선수의 경우 6~ 7경기로, 95% 선수의 경우 17~18경기로 증가하는 단계에 이르렀습니다. | Y | [영상](https://www.youtube.com/watch?v=o_mrK9060hE) · [script](../transcripts/channels/Meta_Developers/The_Data_Driven_Advantage_Optimizing_VR_Games_with_Analytics__o_mrK9060hE.md) |
+| 2026-04-17 | unclassified | 자사/일반 | - | 2024년부터 2025년까지, 특히 IAP(인앱 구매) 부문에서 13%의 매출 증가를 보였습니다. | Y | [영상](https://www.youtube.com/watch?v=cnrqThpRtPI) · [script](../transcripts/channels/Meta_Developers/VR_LiveOps_Sustaining_Player_Engagement_&_Monetization__cnrqThpRtPI.md) |
+| 2026-04-17 | AX | 자사/일반 | - | 자, 여기서 정말 중요한 부분이 있는데요, 계산대 이용률은 10대에서 8대로 줄었고, 점유율은 50% 에서 75%로 증가했습니다. | Y | [영상](https://www.youtube.com/watch?v=w-ys2nE-MgI) · [script](../transcripts/channels/Meta_Developers/VR_Performance_Fundamentals_for_Quest_33S__w-ys2nE-MgI.md) |
+| 2026-04-17 | unclassified | 자사/일반 | - | 그래서 우리는 그들이 구축한 것의 80%를 가져와서 거기에 우리만의 감각을 더하고 계란 가게를 도입했습니다. | Y | [영상](https://www.youtube.com/watch?v=9B1FgaKWrpU) · [script](../transcripts/channels/Meta_Developers/We_Built_the_Wrong_Games_First_Failing_Forward_to_'UG',_VR's__9B1FgaKWrpU.md) |
+| 2026-04-17 | unclassified | 자사/일반 | - | 일일 게임 시간은 중간값 기준으로 50분에서 70분으로 , 75번째 백분위수 기준으로 120분에서 166분으로 , 95 번째 백분위수 기준으로 320분에서 4분, 그리고 455분으로 증가했습니다. | Y | [영상](https://www.youtube.com/watch?v=o_mrK9060hE) · [script](../transcripts/channels/Meta_Developers/The_Data_Driven_Advantage_Optimizing_VR_Games_with_Analytics__o_mrK9060hE.md) |
+| 2026-04-17 | unclassified | 자사/일반 | - | 그리고 여름 성수기가 시작되기 전에 출시했는데도 4개월 만에 8백만 달러의 매출을 올렸습니다 . | Y | [영상](https://www.youtube.com/watch?v=cnrqThpRtPI) · [script](../transcripts/channels/Meta_Developers/VR_LiveOps_Sustaining_Player_Engagement_&_Monetization__cnrqThpRtPI.md) |
+| 2026-04-17 | AX | 자사/일반 | - | 음, 솔직히 말해서, 여러분 중 몇 분이나 1년 전에 개발 과정에서 AI를 적극적으로 활용하고 있었을지 잘 모르겠네요. | Y | [영상](https://www.youtube.com/watch?v=w-ys2nE-MgI) · [script](../transcripts/channels/Meta_Developers/VR_Performance_Fundamentals_for_Quest_33S__w-ys2nE-MgI.md) |
+| 2026-06-04 | AX | 자사/일반 | - | 윈든 월은 10년 이상 사업 운영 경험을 바탕으로 상담원들이 안정적인 업무 환경을 구축할 수 있도록 지원하고, 효과적인 대응 방안을 기반으로 모든 상황에 맞는 대응 지침을 설정하며, 주문 관리 및 스타일리스트 예약과 같은 심층적인 작업을 수행할 수 있도록 시스템을 통합하고, 복잡한 문제는 모든 맥락을 고려하여 담당 고객 서비스 상담원이 품질을 보장할 수 있도록 인계합니다. | Y | [영상](https://www.youtube.com/watch?v=I8-rSW3UALs) · [script](../transcripts/channels/Meta_Developers/The_Architecture_of_Meta_Business_Agent_on_WhatsApp__I8-rSW3UALs.md) |
+| 2026-06-04 | unclassified | 자사/일반 | - | Avista는 Atomchat의 AI 음성 상담원을 활용한 WhatsApp 통화로 고객 대기 시간을 79% 단축했습니다 . | Y | [영상](https://www.youtube.com/watch?v=evxT7d23wx4) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Calling_API__evxT7d23wx4.md) |
+| 2026-06-04 | unclassified | 협력/고객사 언급 | Google | 모든 기업이 다이렉트 전송 서비스를 이용할 수 있게 되는 GA(Google Analytics)는 2027년 상반기 출시를 목표로 하고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=cV4Tst-3X-Q) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Direct_Send_API__cV4Tst-3X-Q.md) |
+| 2026-06-04 | unclassified | 자사/일반 | - | 예를 들어 최대 가격을 20% 높여 1.25달러에 메시지 10개를 보내면 9개가 전달되므로 전달률이 크게 향상되고 , 실제 전달당 비용은 설정된 최대 가격보다 여전히 낮을 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=DlqWkqhWrzU) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Max_Pricing__DlqWkqhWrzU.md) |
+| 2026-06-04 | unclassified | 자사/일반 | - | 제 동료 레오가 연락처 관리 시스템의 정확한 작동 방식과 30일 유예 기간이 실제로 어떻게 적용되는지 자세히 설명해 드릴 것입니다 . | Y | [영상](https://www.youtube.com/watch?v=pZyEbgEQEIc) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Usernames__pZyEbgEQEIc.md) |
+| 2026-06-04 | AX | 자사/일반 | - | 이 세션이 끝나면 진입점, AI 에이전트 구성 및 대화 중 사용자 경험을 포함하여 이러한 새로운 에이전트 기반 상거래 경험을 구축하는 방법을 이해하게 될 것입니다. | N | [영상](https://www.youtube.com/watch?v=I8-rSW3UALs) · [script](../transcripts/channels/Meta_Developers/The_Architecture_of_Meta_Business_Agent_on_WhatsApp__I8-rSW3UALs.md) |
+| 2026-06-04 | unclassified | 자사/일반 | - | 레드클리프 랩스는 엑소텔을 통해 고객 만족도(CSAT)가 22% 향상되었습니다. | Y | [영상](https://www.youtube.com/watch?v=evxT7d23wx4) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Calling_API__evxT7d23wx4.md) |
+| 2026-06-04 | unclassified | 자사/일반 | - | 2025년 하반기 알파 버전에서 인도의 기업들은 공시 가격보다 높은 최고 가격을 설정했음에도 불구하고 더 나은 납품 실적과 평균 비용 절감을 경험했습니다. | Y | [영상](https://www.youtube.com/watch?v=DlqWkqhWrzU) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Max_Pricing__DlqWkqhWrzU.md) |
+| 2026-06-04 | unclassified | 자사/일반 | - | 이는 2026년 4월 초에 출시된 새로운 기능으로, 사용자 이름 사용이 확산되기 시작하면 대화의 연속성을 지원하기 위해 기업을 대신하여 연락처 정보를 저장합니다. | Y | [영상](https://www.youtube.com/watch?v=pZyEbgEQEIc) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Usernames__pZyEbgEQEIc.md) |
+| 2026-06-04 | AX | 자사/일반 | - | 작년에 Meta는 중소기업을 위한 AI 에이전트를 출시했으며, 현재 전 세계 더 많은 국가로 서비스를 확대하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=I8-rSW3UALs) · [script](../transcripts/channels/Meta_Developers/The_Architecture_of_Meta_Business_Agent_on_WhatsApp__I8-rSW3UALs.md) |
+| 2026-06-04 | unclassified | 자사/일반 | - | Sekhar는 respond.io를 사용하여 사건 해결 속도를 20% 향상시켰습니다 . | Y | [영상](https://www.youtube.com/watch?v=evxT7d23wx4) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Calling_API__evxT7d23wx4.md) |
+| 2026-06-18 | AX | 자사/일반 | - | 생성형 AI를 활용하면 마치 살아있는 것처럼 느껴질 거예요 . | N | [영상](https://www.youtube.com/watch?v=t-TaxwrmtgE) · [script](../transcripts/channels/Meta_Developers/Building_location_based_experiences_with_Meta_AI_glasses_wit__t-TaxwrmtgE.md) |
+| 2026-06-18 | AX | 자사/일반 | - | 저는 클라우드 코드를 정말 좋아하는데요, Meta는 AI 개발을 위한 지원이 아주 훌륭합니다 . | N | [영상](https://www.youtube.com/watch?v=t-TaxwrmtgE) · [script](../transcripts/channels/Meta_Developers/Building_location_based_experiences_with_Meta_AI_glasses_wit__t-TaxwrmtgE.md) |
+| 2026-06-18 | AX | 자사/일반 | - | 지금까지 제가 디스플레이 유무와 상관없이 AI 안경에 적용한 실외 및 실내 경험에 대해 이야기해 봤습니다 . | N | [영상](https://www.youtube.com/watch?v=t-TaxwrmtgE) · [script](../transcripts/channels/Meta_Developers/Building_location_based_experiences_with_Meta_AI_glasses_wit__t-TaxwrmtgE.md) |
+| 2026-06-30 | AX | 자사/일반 | - | 최초 사용자 경험(FTUE) 에서 구매 전환율이 51%에서 78%로 급증하여 월간 활성 사용자 수가 상대적으로 36% 증가한 17% 성장했습니다. | Y | [영상](https://www.youtube.com/watch?v=ebIV8ZzjMf0) · [script](../transcripts/channels/Meta_Developers/VR_Developer_Level_Up_Ep._1_Success_Stories,_Agentic_Tools_&__ebIV8ZzjMf0.md) |
+| 2026-06-30 | AX | 자사/일반 | - | 이로써 생산성이 세 배로 증가했고, 단 4주 만에 25개의 제품을 출하할 수 있게 되었습니다. | Y | [영상](https://www.youtube.com/watch?v=ebIV8ZzjMf0) · [script](../transcripts/channels/Meta_Developers/VR_Developer_Level_Up_Ep._1_Success_Stories,_Agentic_Tools_&__ebIV8ZzjMf0.md) |
+| 2026-06-30 | AX | 자사/일반 | - | 그는 7일 무료 체험 전략을 통해 다른 플랫폼에 비해 전환율을 두 배 이상 높였습니다 . | Y | [영상](https://www.youtube.com/watch?v=ebIV8ZzjMf0) · [script](../transcripts/channels/Meta_Developers/VR_Developer_Level_Up_Ep._1_Success_Stories,_Agentic_Tools_&__ebIV8ZzjMf0.md) |
+| 2026-07-01 | AX | 자사/일반 | - | 1분도 채 안 되는 시간에 AI 기반 IDE 내에서 [음악] Meta 플랫폼의 모든 통합 기능을 직접 관리하고 효율성을 높일 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=95QihrwVQnc) · [script](../transcripts/channels/Meta_Developers/Developer_Tools_MCP_Connect_Your_AI_Agent_to_Meta's_Develope__95QihrwVQnc.md) |
+| 2026-07-01 | AX | 자사/일반 | - | 개발자들은 이미 AI 비서, 음악 및 개발자 도구를 활용하여 개발하고 있으며, MCP는 이러한 도구들을 Meta 플랫폼에 쉽게 연결할 수 있도록 지원합니다. | N | [영상](https://www.youtube.com/watch?v=95QihrwVQnc) · [script](../transcripts/channels/Meta_Developers/Developer_Tools_MCP_Connect_Your_AI_Agent_to_Meta's_Develope__95QihrwVQnc.md) |
+| 2026-07-01 | AX | 자사/일반 | - | Meta의 [음악] 개발자 도구인 MCP는 플랫폼 운영을 개발자들이 이미 매일 사용하는 AI 서비스인 [음악]에 직접 통합함으로써 이러한 상황을 바꿉니다 . | N | [영상](https://www.youtube.com/watch?v=95QihrwVQnc) · [script](../transcripts/channels/Meta_Developers/Developer_Tools_MCP_Connect_Your_AI_Agent_to_Meta's_Develope__95QihrwVQnc.md) |
+
 ## NVIDIA (31건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -39,6 +76,64 @@
 | 2026-07-20 | unclassified | 자사/일반 | - | 실제 인공지능 시대는 시뮬레이션을 통해 먼저 구축될 것입니다. | N | [영상](https://www.youtube.com/watch?v=XdtQbMXHDjQ) · [script](../transcripts/channels/NVIDIA/Bringing_Agent-Ready_Simulation_Into_Blender__XdtQbMXHDjQ.md) |
 | 2026-07-20 | unclassified | 자사/일반 | - | NVIDIA Cosmos, 물리적 AI 시대 개발자를 위한 개방형 기반 모델 [음악]. | N | [영상](https://www.youtube.com/watch?v=1QPh70Es_oU) · [script](../transcripts/channels/NVIDIA/Turning_Compute_Into_Data_for_Physical_AI_With_NVIDIA_Cosmos__1QPh70Es_oU.md) |
 | 2026-07-20 | unclassified | 자사/일반 | - | 개발자들은 AI [음악] 에이전트를 위해 Omniverse 라이브러리, 스킬 및 도구를 사용하여 자신들의 도구와 장면을 로봇이 사용할 수 있도록 만듭니다. | N | [영상](https://www.youtube.com/watch?v=XdtQbMXHDjQ) · [script](../transcripts/channels/NVIDIA/Bringing_Agent-Ready_Simulation_Into_Blender__XdtQbMXHDjQ.md) |
+
+## Google Developers (27건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-06-18 | unclassified | 자사/일반 | - | 출시 후 한 달 만에 이미 500만 건 이상의 다운로드를 기록했습니다 . | Y | [영상](https://www.youtube.com/watch?v=O6499i4TFYA) · [script](../transcripts/channels/Google_Developers/Gemma_4_and_the_AI_Edge_Gallery_On-Device_AI_Gets_an_Upgrade__O6499i4TFYA.md) |
+| 2026-06-18 | unclassified | 자사/일반 | - | 자, 그럼 AI 엣지에 대해 좀 더 구체적으로 이야기하기 전에, Gemma 4 에서 무엇을 출시했는지 간단히 되짚어보는 시간을 갖는 건 어떨까요 ? | N | [영상](https://www.youtube.com/watch?v=O6499i4TFYA) · [script](../transcripts/channels/Google_Developers/Gemma_4_and_the_AI_Edge_Gallery_On-Device_AI_Gets_an_Upgrade__O6499i4TFYA.md) |
+| 2026-06-18 | unclassified | 자사/일반 | - | Google AI Edge Gallery는 사용자가 Gemma 4와 같은 강력한 모델을 쉽게 체험하고 개발할 수 있도록 지원하는 기기 내 AI 쇼케이스 앱입니다. | N | [영상](https://www.youtube.com/watch?v=O6499i4TFYA) · [script](../transcripts/channels/Google_Developers/Gemma_4_and_the_AI_Edge_Gallery_On-Device_AI_Gets_an_Upgrade__O6499i4TFYA.md) |
+| 2026-06-25 | AX | 자사/일반 | - | -개발자 뉴스 최신화입니다 오늘 소식은 Gemini 3.5 Live Translate AI Edge 기반 Gemma 4 12B와 Xcode에 통합된 Gemini 관련 내용입니다 저는 진행자 Anaya Mehta입니다 Google I/O에서 전해드린 Google 개발자 발표 내용을 꾸준히 챙겨 보셨기를 바랍니다 아니더라도 오늘 알려드릴게요 지금 시작합니다 GOOGLE 개발자 뉴스 먼저 Gemini 3.5 Live Translate 소식입니다 Google에서 Gemini 3.5 Live Translate이라는 새로운 S2S 모델을 출시했습니다 70여 개 언어를 준실시간으로 통역할 수 있습니다 이제 개발자가 화자의 말투, 음높이, 속도를 유지하는 경험을 빌드할 수 있어 기존의 음성 번역 앱보다 훨씬 자연스럽게 들… | N | [영상](https://www.youtube.com/watch?v=UlbokBsjMRY) · [script](../transcripts/channels/Google_Developers/Gemini_3.5_Live_Translate,_Gemini_in_Xcode,_and_more!_-_Goog__UlbokBsjMRY.md) |
+| 2026-06-26 | AX | 자사/일반 | - | 그래서 그의 작업은 1년 전 I/O에서 Google Flow를 구상하고 디자인하고 출시하는 데 정말 핵심적인 역할을 했습니다 . | Y | [영상](https://www.youtube.com/watch?v=cL7uFe5RqHY) · [script](../transcripts/channels/Google_Developers/AI_tools_for_human_creativity__cL7uFe5RqHY.md) |
+| 2026-06-26 | AX | 자사/일반 | - | 왼쪽은 제가 10년 동안 개발해 온 스타일입니다. | Y | [영상](https://www.youtube.com/watch?v=cL7uFe5RqHY) · [script](../transcripts/channels/Google_Developers/AI_tools_for_human_creativity__cL7uFe5RqHY.md) |
+| 2026-06-26 | AX | 자사/일반 | - | 그들은 모두 Google Flow, Flow Music, Anti-Gravity, AI Studio 등 Google의 다양한 창작 도구를 정말 깊이 있게 활용하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=cL7uFe5RqHY) · [script](../transcripts/channels/Google_Developers/AI_tools_for_human_creativity__cL7uFe5RqHY.md) |
+| 2026-06-29 | unclassified | 자사/일반 | - | 우리는 이것이 캄팔라에서 음악 분야의 최첨단 AI 기술을 실제로 구현할 수 있다는 것, 즉 거대한 연구소가 아니더라도 지역 사회를 위해 이러한 시스템을 개발할 수 있다는 것을 보여주는 것이라고 생각합니다 . | N | [영상](https://www.youtube.com/watch?v=HcwMTu1xQDw) · [script](../transcripts/channels/Google_Developers/Gemma_4_in_Action_Bringing_Frontier_AI_to_the_Edge__HcwMTu1xQDw.md) |
+| 2026-06-30 | AX | 자사/일반 | - | 저희가 IO에서 당신 팀과 협력하여 AI Studio에서 안드로이드 앱을 네이티브로 개발할 수 있는 기능을 출시했는데요, 현재 50만 개 정도의 안드로이드 앱이 있는 것 같아요. | Y | [영상](https://www.youtube.com/watch?v=YvVsdZL2ogY) · [script](../transcripts/channels/Google_Developers/Sameer_Samat_on_Android_17_and_the_Future_of_Intelligent_Com__YvVsdZL2ogY.md) |
+| 2026-06-30 | AX | 자사/일반 | - | 지금 우리가 경험하는 것과 5 년 후, 모든 사람이 사용하는 하드웨어에서 훌륭하게 작동하는 모델들이 출시되었을 때의 경험은 완전히 다를까요? | Y | [영상](https://www.youtube.com/watch?v=YvVsdZL2ogY) · [script](../transcripts/channels/Google_Developers/Sameer_Samat_on_Android_17_and_the_Future_of_Intelligent_Com__YvVsdZL2ogY.md) |
+| 2026-06-30 | AX | 자사/일반 | - | 그들은 실력을 향상시키고 싶어했지만 , 인공지능에 대해 엄청나게 깊이 있는 지식을 가진 사람들은 아니었습니다. | N | [영상](https://www.youtube.com/watch?v=YvVsdZL2ogY) · [script](../transcripts/channels/Google_Developers/Sameer_Samat_on_Android_17_and_the_Future_of_Intelligent_Com__YvVsdZL2ogY.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 지난달 출시 이후 신청 건수가 100만 건을 넘어선 것 같습니다 . | Y | [영상](https://www.youtube.com/watch?v=d9LAQWKUnx8) · [script](../transcripts/channels/Google_Developers/Build_agents_with_Gemini_API_(IO_Connect_‘26)__d9LAQWKUnx8.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 그리고 저희는 노래 한 곡 전체를 뮤직비디오로 만들 수 있는 장비를 하나 가지고 있는데, 길이는 대략 3분 정도입니다. | Y | [영상](https://www.youtube.com/watch?v=nRLZqaNOrwQ) · [script](../transcripts/channels/Google_Developers/Build_creative_apps_with_the_GenMedia_suite_(IO_Connect_‘26)__nRLZqaNOrwQ.md) |
+| 2026-07-06 | AX | 협력/고객사 언급 | 구글 | 저는 구글 AI 엣지 팀 에서 개발자 관계 엔지니어로 일하는 마리암 월시입니다 . | N | [영상](https://www.youtube.com/watch?v=KIp8PAU3oAI) · [script](../transcripts/channels/Google_Developers/Create_agent_skills_for_on-device_generative_AI_(IO_Connect___KIp8PAU3oAI.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 오늘은 Gemini API를 사용하여 에이전트를 구축해 보겠습니다. | N | [영상](https://www.youtube.com/watch?v=d9LAQWKUnx8) · [script](../transcripts/channels/Google_Developers/Build_agents_with_Gemini_API_(IO_Connect_‘26)__d9LAQWKUnx8.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 저희는 에이전트와 모델들이 좋은 피드백과 유용한 정보를 제공해 주기 때문에, 업무를 진행하는 동안 항상 채팅을 활용하기 시작했습니다. | N | [영상](https://www.youtube.com/watch?v=nRLZqaNOrwQ) · [script](../transcripts/channels/Google_Developers/Build_creative_apps_with_the_GenMedia_suite_(IO_Connect_‘26)__nRLZqaNOrwQ.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 그래서 저희는 Light RT LLM API를 개발했습니다. | N | [영상](https://www.youtube.com/watch?v=KIp8PAU3oAI) · [script](../transcripts/channels/Google_Developers/Create_agent_skills_for_on-device_generative_AI_(IO_Connect___KIp8PAU3oAI.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 저는 듣는 것을 통해 배우는 것을 좋아하고 , 잠시 후에 이야기할 AI 스튜디오와의 새로운 통합 기능을 활용하여 제 이메일함을 확인하는 멋진 앱과 에이전트를 몇 개 직접 개발했습니다 . | N | [영상](https://www.youtube.com/watch?v=d9LAQWKUnx8) · [script](../transcripts/channels/Google_Developers/Build_agents_with_Gemini_API_(IO_Connect_‘26)__d9LAQWKUnx8.md) |
+| 2026-07-06 | AX | 자사/일반 | - | Flash 3.5 와 Agents API를 사용하면 자율 에이전트를 구축할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=nRLZqaNOrwQ) · [script](../transcripts/channels/Google_Developers/Build_creative_apps_with_the_GenMedia_suite_(IO_Connect_‘26)__nRLZqaNOrwQ.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 앞서 언급했듯이, 이는 매우 다양한 하드웨어 환경에서 LLM용 파이프라인을 효율적으로 구축하고 배포할 수 있도록 해주는 프레임워크입니다. | N | [영상](https://www.youtube.com/watch?v=KIp8PAU3oAI) · [script](../transcripts/channels/Google_Developers/Create_agent_skills_for_on-device_generative_AI_(IO_Connect___KIp8PAU3oAI.md) |
+| 2026-07-10 | unclassified | 자사/일반 | - | 그들이 제공하는 모든 제품을 마음껏 사용해보고, 인공지능도 활용해 보세요. | N | [영상](https://www.youtube.com/watch?v=yGHi5V4sVkc) · [script](../transcripts/channels/Google_Developers/Build_With_AI_2026_Recap__yGHi5V4sVkc.md) |
+| 2026-07-10 | unclassified | 자사/일반 | - | 이것은 실제로 모든 분야의 개발자를 위한 AI 기반 도구입니다. | N | [영상](https://www.youtube.com/watch?v=yGHi5V4sVkc) · [script](../transcripts/channels/Google_Developers/Build_With_AI_2026_Recap__yGHi5V4sVkc.md) |
+| 2026-07-17 | AX | 자사/일반 | - | 새로운 빌드인 경우 서버는 5분 유효 기간의 GCS 서명된 PUT URL을 반환하고, 배포자는 ZIP 아카이브를 Google Cloud Storage 업로드 버킷으로 스트리밍합니다. | Y | [영상](https://www.youtube.com/watch?v=8I7wr2hYFec) · [script](../transcripts/channels/Google_Developers/Antigravity_Arcade_From_prompt_to_game_in_minutes__8I7wr2hYFec.md) |
+| 2026-07-17 | AX | 자사/일반 | - | 이것은 모든 제미니 모델과 에이전트를 위한 통합 인터페이스이기 때문에 매우 흥미롭습니다. | N | [영상](https://www.youtube.com/watch?v=iOK1-b_9Dlg) · [script](../transcripts/channels/Google_Developers/Get_started_with_the_Interactions_API__iOK1-b_9Dlg.md) |
+| 2026-07-17 | AX | 자사/일반 | - | 이 프로젝트를 통해 기존 개발자든 아니든 누구나 안티그래비티가 설치된 노트북과 다양한 AI 기술 및 워크플로를 활용하여 게임 아이디어만 있으면 몇 분 안에 AI가 게임을 완전히 생성하고 아케이드 기기에서 실행할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=8I7wr2hYFec) · [script](../transcripts/channels/Google_Developers/Antigravity_Arcade_From_prompt_to_game_in_minutes__8I7wr2hYFec.md) |
+| 2026-07-17 | AX | 자사/일반 | - | 따라서 당사의 코딩 에이전트는 Interactions API를 사용하여 구축할 때 수행해야 할 모든 좋은 작업을 알게 될 것입니다 . | N | [영상](https://www.youtube.com/watch?v=iOK1-b_9Dlg) · [script](../transcripts/channels/Google_Developers/Get_started_with_the_Interactions_API__iOK1-b_9Dlg.md) |
+| 2026-07-17 | AX | 자사/일반 | - | 에이전트가 배포 도구를 실행하면 운영 체제는 일시적으로 권한을 상승시켜 도구가 토큰을 읽고 업로드를 인증할 수 있도록 합니다. | N | [영상](https://www.youtube.com/watch?v=8I7wr2hYFec) · [script](../transcripts/channels/Google_Developers/Antigravity_Arcade_From_prompt_to_game_in_minutes__8I7wr2hYFec.md) |
+
+## Accenture (21건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-02-02 | unclassified | 자사/일반 | - | 하지만 이제 저희는 핵심 제품, 즉 어제 출시한 PC 제품( 1월 27일부터 판매 가능)에 다시 집중할 것입니다. | Y | [영상](https://www.youtube.com/watch?v=vEc9HScCOH8) · [script](../transcripts/channels/Accenture/CES_2026_-_Accelerating_business_value_with_Advanced_AI__vEc9HScCOH8.md) |
+| 2026-02-02 | unclassified | 자사/일반 | - | 아시다시피, 우리 모두 인공지능에 대해 이야기하고, 반도체 산업이 우리가 경험하고 있는 변화의 근간을 이루며 , 칩을 만들고 모든 산업을 변화시키는 미래를 구축하고 있다는 점에 대해서도 이야기합니다. | N | [영상](https://www.youtube.com/watch?v=vEc9HScCOH8) · [script](../transcripts/channels/Accenture/CES_2026_-_Accelerating_business_value_with_Advanced_AI__vEc9HScCOH8.md) |
+| 2026-02-02 | unclassified | 협력/고객사 언급 | 액센추어 | 그리고 저희는 자체 에이전트 배포를 가속화하기 위해 액센추어와 협력하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=vEc9HScCOH8) · [script](../transcripts/channels/Accenture/CES_2026_-_Accelerating_business_value_with_Advanced_AI__vEc9HScCOH8.md) |
+| 2026-02-23 | AX | 자사/일반 | - | 이러한 지표들은 임원부터 소비자까지 모든 사람을 대상으로 한 실시간 설문조사와 더불어, 예를 들어 기술 지출이 은행 수익보다 200~300% 더 빠르게 증가했다는 놀라운 1차 연구 결과를 바탕으로 만들어졌습니다. | Y | [영상](https://www.youtube.com/watch?v=MWvdwSD3ZRc) · [script](../transcripts/channels/Accenture/Top_Banking_Trends_2026_-_Unconstrained_Banking_Accenture__MWvdwSD3ZRc.md) |
+| 2026-02-23 | AX | 자사/일반 | - | 따라서 은행 계좌 관리 비용이 50% 절감되고, 관리 노력도 70% 줄어들며, 많은 부분이 자동화되어 분류가 자동화됩니다. | Y | [영상](https://www.youtube.com/watch?v=MWvdwSD3ZRc) · [script](../transcripts/channels/Accenture/Top_Banking_Trends_2026_-_Unconstrained_Banking_Accenture__MWvdwSD3ZRc.md) |
+| 2026-02-23 | AX | 자사/일반 | - | 또한 BP의 이메일 방식은 처음에는 11,000명의 직원에게 적용하여 생산성을 주당 3시간 향상시키는 효과를 거두었고, 현재는 120,000명의 모든 직원에게 확대 적용되었습니다 . | Y | [영상](https://www.youtube.com/watch?v=MWvdwSD3ZRc) · [script](../transcripts/channels/Accenture/Top_Banking_Trends_2026_-_Unconstrained_Banking_Accenture__MWvdwSD3ZRc.md) |
+| 2026-03-13 | unclassified | 자사/일반 | - | So banking, government, healthcare, energy, public services, they are moving faster precisely because sovereign architecture allow them to deploy cloud and AI with confidence at scale and under regulatory scrutiny. | N | [영상](https://www.youtube.com/watch?v=SNlFGdkTSZU) · [script](../transcripts/channels/Accenture/Sovereign_AI_Own_your_AI_future_Accenture__SNlFGdkTSZU.md) |
+| 2026-03-13 | unclassified | 자사/일반 | - | the why they are not integrated because those companies do not typically do not believe there is a common trusted platform on which computing them also through AI algorithms that's the reason why sovereignt is unlocking value for supply chains and if you unlock those value and you need a platform like that one there's an opportunity in providing those services again as Julia was mentioning new pla… | N | [영상](https://www.youtube.com/watch?v=SNlFGdkTSZU) · [script](../transcripts/channels/Accenture/Sovereign_AI_Own_your_AI_future_Accenture__SNlFGdkTSZU.md) |
+| 2026-03-13 | unclassified | 자사/일반 | - | So [clears throat] having high quality data having regulated deployment of uh applications that compute those data explainable model and then specifically sectoral specific applications because remember that the value of AI is not in the model per se but it's in the application they use the model to transform and reinvent the way companies and government agencies do stuff. | N | [영상](https://www.youtube.com/watch?v=SNlFGdkTSZU) · [script](../transcripts/channels/Accenture/Sovereign_AI_Own_your_AI_future_Accenture__SNlFGdkTSZU.md) |
+| 2026-03-16 | unclassified | 자사/일반 | - | &gt;&gt; [music] &gt;&gt; Our goal has always been to sort of measure the value of AI in things that people actually care about, whether that's products that are better or cheaper or medicines brought to market faster or lives saved even. | N | [영상](https://www.youtube.com/watch?v=8m3MRFvrSsY) · [script](../transcripts/channels/Accenture/Faculty_joins_Accenture,_Dr._Marc_Warner_named_CTO__8m3MRFvrSsY.md) |
+| 2026-03-16 | unclassified | 자사/일반 | - | Super proud of all that we're achieving, but when we saw the work that we are doing with you, we really believe that you have something that you've been building for a decade that with Accenture, with all of our knowledge around clients [music] and business processes, that together we can take to our clients &gt;&gt; [music] &gt;&gt; faster to achieve the kind of safe widespread adoption of AI tha… | N | [영상](https://www.youtube.com/watch?v=8m3MRFvrSsY) · [script](../transcripts/channels/Accenture/Faculty_joins_Accenture,_Dr._Marc_Warner_named_CTO__8m3MRFvrSsY.md) |
+| 2026-04-15 | unclassified | 자사/일반 | - | 예를 들어, 인재 혁신 기업의 93%가 AI 도입을 지원하기 위해 인재 전략을 적극적으로 재구성했습니다. | Y | [영상](https://www.youtube.com/watch?v=F1amDOMZVZY) · [script](../transcripts/channels/Accenture/Delivering_value_with_and_for_people_in_the_age_of_AI__F1amDOMZVZY.md) |
+| 2026-04-15 | unclassified | 자사/일반 | - | [음악] 인재 재창조 기업은 필요에 따라 역할이나 팀을 전환할 수 있는 민첩한 인력을 보유할 가능성이 4.4배 더 높으며 , 이는 훨씬 더 큰 회복력을 만들어냅니다 . | Y | [영상](https://www.youtube.com/watch?v=F1amDOMZVZY) · [script](../transcripts/channels/Accenture/Delivering_value_with_and_for_people_in_the_age_of_AI__F1amDOMZVZY.md) |
+| 2026-04-15 | unclassified | 자사/일반 | - | 저희 연구 결과에 따르면, 인재 혁신을 주도하는 기업의 96%가 기술 및 AI에 대한 비전과 완벽하게 통합된 인재 전략을 보유하고 있는 반면, 그렇지 않은 기업은 16%에 불과했습니다. | Y | [영상](https://www.youtube.com/watch?v=F1amDOMZVZY) · [script](../transcripts/channels/Accenture/Delivering_value_with_and_for_people_in_the_age_of_AI__F1amDOMZVZY.md) |
+| 2026-04-21 | AX | 자사/일반 | - | 다행히도 저는 지난 20년 동안 약 30명 규모의 팀을 구축했습니다 . | Y | [영상](https://www.youtube.com/watch?v=HmuEoDwZnqg) · [script](../transcripts/channels/Accenture/The_Skills_Mismatch_Economy_How_AI_is_reshaping_skill_demand__HmuEoDwZnqg.md) |
+| 2026-04-21 | AX | 협력/고객사 언급 | 액센추어 | 바로 이러한 이유로 저희는 액센추어와 파트너십을 맺었으며, 동시에 와튼이 지난 20년간 구축해 온 목표이기도 합니다. | Y | [영상](https://www.youtube.com/watch?v=HmuEoDwZnqg) · [script](../transcripts/channels/Accenture/The_Skills_Mismatch_Economy_How_AI_is_reshaping_skill_demand__HmuEoDwZnqg.md) |
+| 2026-04-21 | AX | 자사/일반 | - | 전 세계 어느 경영대학원도 이러한 유형의 전문적이고 비즈니스적인 문제에 대해 빅데이터와 머신러닝이라는 관점을 적용해 접근하지 못했습니다. | N | [영상](https://www.youtube.com/watch?v=HmuEoDwZnqg) · [script](../transcripts/channels/Accenture/The_Skills_Mismatch_Economy_How_AI_is_reshaping_skill_demand__HmuEoDwZnqg.md) |
+| 2026-06-30 | unclassified | 자사/일반 | - | 기술과 인공지능을 활용하여 데이터를 실질적인 이점으로 전환합니다. | N | [영상](https://www.youtube.com/watch?v=K5oFxN7D0fI) · [script](../transcripts/channels/Accenture/Reinventing_the_athlete_experience_through_technology,_data___K5oFxN7D0fI.md) |
+| 2026-07-08 | AX | 자사/일반 | - | 하지만 탈옥이란 인공지능이 만들어 놓은 규칙과 안전장치를 무시하고 인공지능을 괴롭히려는 시도입니다 . | N | [영상](https://www.youtube.com/watch?v=O0XheeCS3CI) · [script](../transcripts/channels/Accenture/Why_prompt_injection_is_the_#1_AI_security_risk_TQ_Tech_Talk__O0XheeCS3CI.md) |
+| 2026-07-08 | AX | 자사/일반 | - | 그리고 올해 초, ChatGPT를 개발한 OpenAI는 웹 브라우징을 대신해주는 AI가 있다면 이러한 유형의 공격은 완전히 막을 수 없을지도 모른다고 공개적으로 인정했습니다. | N | [영상](https://www.youtube.com/watch?v=O0XheeCS3CI) · [script](../transcripts/channels/Accenture/Why_prompt_injection_is_the_#1_AI_security_risk_TQ_Tech_Talk__O0XheeCS3CI.md) |
+| 2026-07-08 | AX | 자사/일반 | - | 그렇다면 이러한 인공지능을 개발하는 사람들이 문제를 해결하겠다고 약속하지 않는다면, 우리는 무엇을 할 수 있을까요? | N | [영상](https://www.youtube.com/watch?v=O0XheeCS3CI) · [script](../transcripts/channels/Accenture/Why_prompt_injection_is_the_#1_AI_security_risk_TQ_Tech_Talk__O0XheeCS3CI.md) |
 
 ## Qdrant (21건)
 
@@ -160,6 +255,28 @@
 | 2026-07-09 | unclassified | 자사/일반 | - | 그리고 인공지능은 우리가 그 목표에 도달하는 데 걸리는 시간을 더욱 단축하는 데 도움을 줄 것입니다. | N | [영상](https://www.youtube.com/watch?v=ljIAghvFCgA) · [script](../transcripts/channels/Salesforce/How_AstraZeneca_is_Defining_a_New_Era_of_Agentic_Transformat__ljIAghvFCgA.md) |
 | 2026-07-09 | unclassified | 자사/일반 | - | 그래서 발견부터 개발, 그리고 제가 하는 일의 큰 부분을 차지하는 의약품 전달에 이르기까지 모든 것이 인공지능과 그 발전의 영향을 받을 것입니다. | N | [영상](https://www.youtube.com/watch?v=ljIAghvFCgA) · [script](../transcripts/channels/Salesforce/How_AstraZeneca_is_Defining_a_New_Era_of_Agentic_Transformat__ljIAghvFCgA.md) |
 
+## Databricks (17건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-06-24 | AX | 자사/일반 | - | And what's more is AI is actually automating the entire attack process, too. | N | [영상](https://www.youtube.com/watch?v=3GhVeYY3Bmo) · [script](../transcripts/channels/Databricks/Defending_against_a_tidal_wave_of_AI_attacks_with_Lakewatch,__3GhVeYY3Bmo.md) |
+| 2026-06-24 | AX | 자사/일반 | - | Second, it has to be built with LLMs at the core of its architecture. | N | [영상](https://www.youtube.com/watch?v=Po1gXA67wdc) · [script](../transcripts/channels/Databricks/Introducing_CustomerLake_–_the_agentic_CDP_built_in_Databric__Po1gXA67wdc.md) |
+| 2026-06-24 | AX | 자사/일반 | - | And that's why we built Lake Watch, the agentic security lakehouse. | N | [영상](https://www.youtube.com/watch?v=3GhVeYY3Bmo) · [script](../transcripts/channels/Databricks/Defending_against_a_tidal_wave_of_AI_attacks_with_Lakewatch,__3GhVeYY3Bmo.md) |
+| 2026-06-24 | AX | 자사/일반 | - | However, we are one of the very first to launch an agentic CDP, and we call this Customer Lake. | N | [영상](https://www.youtube.com/watch?v=Po1gXA67wdc) · [script](../transcripts/channels/Databricks/Introducing_CustomerLake_–_the_agentic_CDP_built_in_Databric__Po1gXA67wdc.md) |
+| 2026-06-24 | AX | 자사/일반 | - | And then we build in Agent Bricks and Genie on top, so you can automate all of these manual processes and workflows. | N | [영상](https://www.youtube.com/watch?v=3GhVeYY3Bmo) · [script](../transcripts/channels/Databricks/Defending_against_a_tidal_wave_of_AI_attacks_with_Lakewatch,__3GhVeYY3Bmo.md) |
+| 2026-06-24 | AX | 자사/일반 | - | Customer Lake is an agentic CDP built specifically for the Databricks platform. | N | [영상](https://www.youtube.com/watch?v=Po1gXA67wdc) · [script](../transcripts/channels/Databricks/Introducing_CustomerLake_–_the_agentic_CDP_built_in_Databric__Po1gXA67wdc.md) |
+| 2026-06-25 | unclassified | 자사/일반 | - | At some point a few years ago, you told the board, "Hey, I want to step back from my operational role and focus on actually building and spent 100% of my day hacking." And then later on stepped back as a CEO. | Y | [영상](https://www.youtube.com/watch?v=5Knrka-uars) · [script](../transcripts/channels/Databricks/Databricks_+_Panther_advancing_the_security_lakehouse__5Knrka-uars.md) |
+| 2026-06-25 | unclassified | 자사/일반 | - | From building agents to analyzing biomedical literature to unifying fragmented [music] environmental data sets, there are endless ways to apply free edition. | N | [영상](https://www.youtube.com/watch?v=MIFS4_iD0OQ) · [script](../transcripts/channels/Databricks/What’s_coming_next_to_Free_Edition__MIFS4_iD0OQ.md) |
+| 2026-06-25 | unclassified | 자사/일반 | - | So, agents really allowed us to break that fundamental scaling problem in the sock. | N | [영상](https://www.youtube.com/watch?v=5Knrka-uars) · [script](../transcripts/channels/Databricks/Databricks_+_Panther_advancing_the_security_lakehouse__5Knrka-uars.md) |
+| 2026-06-25 | unclassified | 자사/일반 | - | Hundreds of thousands of people have already built data and AI projects and learned on Databricks. | N | [영상](https://www.youtube.com/watch?v=MIFS4_iD0OQ) · [script](../transcripts/channels/Databricks/What’s_coming_next_to_Free_Edition__MIFS4_iD0OQ.md) |
+| 2026-06-30 | unclassified | 자사/일반 | - | So, we built Omnigent, a meta harness that sits above your agents and provides composition, control, and collaboration. | N | [영상](https://www.youtube.com/watch?v=Gh7wD2u1LDI) · [script](../transcripts/channels/Databricks/Introducing_Omnigent_The_Ultimate_Meta-Harness_for_AI_Agents__Gh7wD2u1LDI.md) |
+| 2026-06-30 | unclassified | 자사/일반 | - | Omnigent gives you one unified interface where you can combine multiple models, harnesses, and techniques for building robust multi-agent workflows. | N | [영상](https://www.youtube.com/watch?v=Gh7wD2u1LDI) · [script](../transcripts/channels/Databricks/Introducing_Omnigent_The_Ultimate_Meta-Harness_for_AI_Agents__Gh7wD2u1LDI.md) |
+| 2026-07-15 | unclassified | 협력/고객사 언급 | Replit | I'm going to show you how to go from a pre-built template to a fully deployed app on Databricks, all using Replit Agent. | N | [영상](https://www.youtube.com/watch?v=H15fXX6GTSU) · [script](../transcripts/channels/Databricks/How_to_Build_Enterprise_Apps_on_Your_Databricks_Data_Using_R__H15fXX6GTSU.md) |
+| 2026-07-15 | unclassified | 자사/일반 | - | As our agent is building, it may ask a few questions if it needs to. | N | [영상](https://www.youtube.com/watch?v=H15fXX6GTSU) · [script](../transcripts/channels/Databricks/How_to_Build_Enterprise_Apps_on_Your_Databricks_Data_Using_R__H15fXX6GTSU.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | After a couple minutes, the agent will have finished building our app. | N | [영상](https://www.youtube.com/watch?v=DsjoPT3cP-g) · [script](../transcripts/channels/Databricks/How_to_Go_From_an_Agent_Prompt_to_a_Live_Databricks_App_Data__DsjoPT3cP-g.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | It'll take a couple minutes for the agent to finish deploying our app. | N | [영상](https://www.youtube.com/watch?v=DsjoPT3cP-g) · [script](../transcripts/channels/Databricks/How_to_Go_From_an_Agent_Prompt_to_a_Live_Databricks_App_Data__DsjoPT3cP-g.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | And this is the live app that our agent has built and deployed for us by using the prompt from DevHub. | N | [영상](https://www.youtube.com/watch?v=DsjoPT3cP-g) · [script](../transcripts/channels/Databricks/How_to_Go_From_an_Agent_Prompt_to_a_Live_Databricks_App_Data__DsjoPT3cP-g.md) |
+
 ## NVIDIA Developer (17건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -182,61 +299,63 @@
 | 2026-07-14 | AX | 자사/일반 | - | A massive 32% point improvement. | Y | [영상](https://www.youtube.com/watch?v=9AQkVbx3fKA) · [script](../transcripts/channels/NVIDIA_Developer/Post-Train_NVIDIA_Cosmos_3_With_TAO_7_Agent_Skills__9AQkVbx3fKA.md) |
 | 2026-07-14 | AX | 자사/일반 | - | Finally, you can ask the agent to generate a detailed experiment report including the hyperparameter sweep details and a few examples to show performance improvement. | N | [영상](https://www.youtube.com/watch?v=9AQkVbx3fKA) · [script](../transcripts/channels/NVIDIA_Developer/Post-Train_NVIDIA_Cosmos_3_With_TAO_7_Agent_Skills__9AQkVbx3fKA.md) |
 
-## Google Developers (16건)
+## Pinecone (17건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
 |---|---|---|---|---|---|---|
-| 2026-07-06 | AX | 자사/일반 | - | 지난달 출시 이후 신청 건수가 100만 건을 넘어선 것 같습니다 . | Y | [영상](https://www.youtube.com/watch?v=d9LAQWKUnx8) · [script](../transcripts/channels/Google_Developers/Build_agents_with_Gemini_API_(IO_Connect_‘26)__d9LAQWKUnx8.md) |
-| 2026-07-06 | AX | 자사/일반 | - | 그리고 저희는 노래 한 곡 전체를 뮤직비디오로 만들 수 있는 장비를 하나 가지고 있는데, 길이는 대략 3분 정도입니다. | Y | [영상](https://www.youtube.com/watch?v=nRLZqaNOrwQ) · [script](../transcripts/channels/Google_Developers/Build_creative_apps_with_the_GenMedia_suite_(IO_Connect_‘26)__nRLZqaNOrwQ.md) |
-| 2026-07-06 | AX | 협력/고객사 언급 | 구글 | 저는 구글 AI 엣지 팀 에서 개발자 관계 엔지니어로 일하는 마리암 월시입니다 . | N | [영상](https://www.youtube.com/watch?v=KIp8PAU3oAI) · [script](../transcripts/channels/Google_Developers/Create_agent_skills_for_on-device_generative_AI_(IO_Connect___KIp8PAU3oAI.md) |
-| 2026-07-06 | AX | 자사/일반 | - | 오늘은 Gemini API를 사용하여 에이전트를 구축해 보겠습니다. | N | [영상](https://www.youtube.com/watch?v=d9LAQWKUnx8) · [script](../transcripts/channels/Google_Developers/Build_agents_with_Gemini_API_(IO_Connect_‘26)__d9LAQWKUnx8.md) |
-| 2026-07-06 | AX | 자사/일반 | - | 저희는 에이전트와 모델들이 좋은 피드백과 유용한 정보를 제공해 주기 때문에, 업무를 진행하는 동안 항상 채팅을 활용하기 시작했습니다. | N | [영상](https://www.youtube.com/watch?v=nRLZqaNOrwQ) · [script](../transcripts/channels/Google_Developers/Build_creative_apps_with_the_GenMedia_suite_(IO_Connect_‘26)__nRLZqaNOrwQ.md) |
-| 2026-07-06 | AX | 자사/일반 | - | 그래서 저희는 Light RT LLM API를 개발했습니다. | N | [영상](https://www.youtube.com/watch?v=KIp8PAU3oAI) · [script](../transcripts/channels/Google_Developers/Create_agent_skills_for_on-device_generative_AI_(IO_Connect___KIp8PAU3oAI.md) |
-| 2026-07-06 | AX | 자사/일반 | - | 저는 듣는 것을 통해 배우는 것을 좋아하고 , 잠시 후에 이야기할 AI 스튜디오와의 새로운 통합 기능을 활용하여 제 이메일함을 확인하는 멋진 앱과 에이전트를 몇 개 직접 개발했습니다 . | N | [영상](https://www.youtube.com/watch?v=d9LAQWKUnx8) · [script](../transcripts/channels/Google_Developers/Build_agents_with_Gemini_API_(IO_Connect_‘26)__d9LAQWKUnx8.md) |
-| 2026-07-06 | AX | 자사/일반 | - | Flash 3.5 와 Agents API를 사용하면 자율 에이전트를 구축할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=nRLZqaNOrwQ) · [script](../transcripts/channels/Google_Developers/Build_creative_apps_with_the_GenMedia_suite_(IO_Connect_‘26)__nRLZqaNOrwQ.md) |
-| 2026-07-06 | AX | 자사/일반 | - | 앞서 언급했듯이, 이는 매우 다양한 하드웨어 환경에서 LLM용 파이프라인을 효율적으로 구축하고 배포할 수 있도록 해주는 프레임워크입니다. | N | [영상](https://www.youtube.com/watch?v=KIp8PAU3oAI) · [script](../transcripts/channels/Google_Developers/Create_agent_skills_for_on-device_generative_AI_(IO_Connect___KIp8PAU3oAI.md) |
-| 2026-07-10 | unclassified | 자사/일반 | - | 그들이 제공하는 모든 제품을 마음껏 사용해보고, 인공지능도 활용해 보세요. | N | [영상](https://www.youtube.com/watch?v=yGHi5V4sVkc) · [script](../transcripts/channels/Google_Developers/Build_With_AI_2026_Recap__yGHi5V4sVkc.md) |
-| 2026-07-10 | unclassified | 자사/일반 | - | 이것은 실제로 모든 분야의 개발자를 위한 AI 기반 도구입니다. | N | [영상](https://www.youtube.com/watch?v=yGHi5V4sVkc) · [script](../transcripts/channels/Google_Developers/Build_With_AI_2026_Recap__yGHi5V4sVkc.md) |
-| 2026-07-17 | AX | 자사/일반 | - | 새로운 빌드인 경우 서버는 5분 유효 기간의 GCS 서명된 PUT URL을 반환하고, 배포자는 ZIP 아카이브를 Google Cloud Storage 업로드 버킷으로 스트리밍합니다. | Y | [영상](https://www.youtube.com/watch?v=8I7wr2hYFec) · [script](../transcripts/channels/Google_Developers/Antigravity_Arcade_From_prompt_to_game_in_minutes__8I7wr2hYFec.md) |
-| 2026-07-17 | AX | 자사/일반 | - | 이것은 모든 제미니 모델과 에이전트를 위한 통합 인터페이스이기 때문에 매우 흥미롭습니다. | N | [영상](https://www.youtube.com/watch?v=iOK1-b_9Dlg) · [script](../transcripts/channels/Google_Developers/Get_started_with_the_Interactions_API__iOK1-b_9Dlg.md) |
-| 2026-07-17 | AX | 자사/일반 | - | 이 프로젝트를 통해 기존 개발자든 아니든 누구나 안티그래비티가 설치된 노트북과 다양한 AI 기술 및 워크플로를 활용하여 게임 아이디어만 있으면 몇 분 안에 AI가 게임을 완전히 생성하고 아케이드 기기에서 실행할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=8I7wr2hYFec) · [script](../transcripts/channels/Google_Developers/Antigravity_Arcade_From_prompt_to_game_in_minutes__8I7wr2hYFec.md) |
-| 2026-07-17 | AX | 자사/일반 | - | 따라서 당사의 코딩 에이전트는 Interactions API를 사용하여 구축할 때 수행해야 할 모든 좋은 작업을 알게 될 것입니다 . | N | [영상](https://www.youtube.com/watch?v=iOK1-b_9Dlg) · [script](../transcripts/channels/Google_Developers/Get_started_with_the_Interactions_API__iOK1-b_9Dlg.md) |
-| 2026-07-17 | AX | 자사/일반 | - | 에이전트가 배포 도구를 실행하면 운영 체제는 일시적으로 권한을 상승시켜 도구가 토큰을 읽고 업로드를 인증할 수 있도록 합니다. | N | [영상](https://www.youtube.com/watch?v=8I7wr2hYFec) · [script](../transcripts/channels/Google_Developers/Antigravity_Arcade_From_prompt_to_game_in_minutes__8I7wr2hYFec.md) |
+| 2025-09-29 | AX | 자사/일반 | - | 업계는 약 20~30년 전에 역할 기반 접근 제어라는 것이 도입되면서 약간의 변화를 겪었습니다. | Y | [영상](https://www.youtube.com/watch?v=S6xJ0Kkd7ss) · [script](../transcripts/channels/Pinecone/Secure_your_RAG_pipelines_with_fine_grained_authorization_us__S6xJ0Kkd7ss.md) |
+| 2025-09-29 | AX | 협력/고객사 언급 | 구글 | 현재 arbback과 aback은 여전히 우리 업계에서 매우 중요한 부분을 차지하고 있지만, 약 10 ~15년 전인 2010년대 초반에 구글은 자체적으로 인증 시스템을 개발하려고 시도했습니다. | Y | [영상](https://www.youtube.com/watch?v=S6xJ0Kkd7ss) · [script](../transcripts/channels/Pinecone/Secure_your_RAG_pipelines_with_fine_grained_authorization_us__S6xJ0Kkd7ss.md) |
+| 2025-09-29 | AX | 자사/일반 | - | 그리고 그들은 2019년에 초당 1천만 건의 클라이언트 쿼리를 처리할 수 있었다고 설명하는데, 이는 엄청난 수치이며 그 이후로 더욱 증가했을 것이라고 확신합니다. | Y | [영상](https://www.youtube.com/watch?v=S6xJ0Kkd7ss) · [script](../transcripts/channels/Pinecone/Secure_your_RAG_pipelines_with_fine_grained_authorization_us__S6xJ0Kkd7ss.md) |
+| 2025-11-10 | AX | 자사/일반 | - | 그래서 어쨌든, 지난 10년 동안 제품 개발이나 스타트업에 대한 조언은 대체로 "기능 처럼 보이는 아주 구체적인 것을 만들어서 시장에 내놓고, 그 다음 쐐기 모양의 구조물을 만들어서 확장해 나가라"는 것이었습니다. | Y | [영상](https://www.youtube.com/watch?v=OSvDO9VtypU) · [script](../transcripts/channels/Pinecone/AIAgents_in_Production_with_Delphi,_Seam_AI,_and_APIsec__OSvDO9VtypU.md) |
+| 2025-11-10 | AX | 자사/일반 | - | 저희는 3년 전 회사 설립 초기에 이 시스템을 구축했고, 그 이후로 계속 사용해 왔습니다. | Y | [영상](https://www.youtube.com/watch?v=OSvDO9VtypU) · [script](../transcripts/channels/Pinecone/AIAgents_in_Production_with_Delphi,_Seam_AI,_and_APIsec__OSvDO9VtypU.md) |
+| 2025-11-10 | AX | 협력/고객사 언급 | 애플 | 파이 파이퍼(Pi Piper)가 출시됐을 때, 애플리케이션 화면을 캡처한 이미지가 있었는데, 설정 버튼이 수천 개나 있더라고요. | Y | [영상](https://www.youtube.com/watch?v=OSvDO9VtypU) · [script](../transcripts/channels/Pinecone/AIAgents_in_Production_with_Delphi,_Seam_AI,_and_APIsec__OSvDO9VtypU.md) |
+| 2025-11-11 | AX | 자사/일반 | - | 음, 그리고 의미 검색이나 현재 우리가 활용하고 있는 모든 인공지능 기술 같은 것들을 사용해서 몇 가지 기능을 추가하면 되겠죠 . | N | [영상](https://www.youtube.com/watch?v=ju58amdX-OM) · [script](../transcripts/channels/Pinecone/Pinecone_demo_AI-powered_search_and_recommendation_app__ju58amdX-OM.md) |
+| 2025-11-11 | AX | 자사/일반 | - | 다른 LLM으로 전환하면 제대로 작동하지 않을 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=ju58amdX-OM) · [script](../transcripts/channels/Pinecone/Pinecone_demo_AI-powered_search_and_recommendation_app__ju58amdX-OM.md) |
+| 2025-11-11 | AX | 협력/고객사 언급 | 애플 | 에이전트 기반 애플리케이션을 개발하고 쿼리를 작성한 다음, "이 쿼리를 더 좋게 만들어 주세요. | N | [영상](https://www.youtube.com/watch?v=ju58amdX-OM) · [script](../transcripts/channels/Pinecone/Pinecone_demo_AI-powered_search_and_recommendation_app__ju58amdX-OM.md) |
+| 2025-11-20 | AX | 자사/일반 | - | MD님, 저희 agent.md 또는 cloud.md 파일을 다운로드하시면 코딩 도우미가 Pine Code와 연동하는 데 필요한 모범 사례를 자동으로 적용해 드립니다. | N | [영상](https://www.youtube.com/watch?v=pY_7RSUnotk) · [script](../transcripts/channels/Pinecone/Getting_started_with_Pinecone_monthly_webinar_(November_2025__pY_7RSUnotk.md) |
+| 2025-12-16 | AX | 협력/고객사 언급 | 애플 | 따라서 Pine Cone은 정확하고 지연 시간이 짧은 AI 애플리케이션 구축을 위한 최고의 벡터 데이터베이스입니다. | N | [영상](https://www.youtube.com/watch?v=Q7bIdv2FQzY) · [script](../transcripts/channels/Pinecone/Build_Better_Semantic_Search_Achieve_Faster,_More_Accurate,___Q7bIdv2FQzY.md) |
+| 2025-12-16 | AX | 자사/일반 | - | 저희는 정교한 압축, 캐싱, 그리고 여러 알고리즘을 사용한 인덱싱을 적용합니다. | N | [영상](https://www.youtube.com/watch?v=Q7bIdv2FQzY) · [script](../transcripts/channels/Pinecone/Build_Better_Semantic_Search_Achieve_Faster,_More_Accurate,___Q7bIdv2FQzY.md) |
+| 2025-12-16 | AX | 자사/일반 | - | 게다가, 앞서 언급했듯이 데이터를 저장하는 방식 덕분에 저장 크기와 밀도에 맞춰 조정된 인덱싱 알고리즘을 적용할 수 있습니다 . | N | [영상](https://www.youtube.com/watch?v=Q7bIdv2FQzY) · [script](../transcripts/channels/Pinecone/Build_Better_Semantic_Search_Achieve_Faster,_More_Accurate,___Q7bIdv2FQzY.md) |
+| 2026-02-18 | AX | 자사/일반 | - | 저희는 2만 명에서 3 만 명 이상의 직원을 보유한 대기업들이 AI, 특히 AI 에이전트와 AI 자동화를 도입하도록 돕고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=Gcaygufjt6M) · [script](../transcripts/channels/Pinecone/Build_RAG_Workflows_in_Minutes_with_Pinecone_+_n8n__Gcaygufjt6M.md) |
+| 2026-02-18 | AX | 자사/일반 | - | 그리고 2023년에 제가 음성 AI 에이전트 회사를 시작했을 때, NA10을 발견하고 음성 에이전트의 전체 오케스트레이션 레이어를 NA10을 사용하여 심도 있게 구축하기 시작했습니다. | Y | [영상](https://www.youtube.com/watch?v=Gcaygufjt6M) · [script](../transcripts/channels/Pinecone/Build_RAG_Workflows_in_Minutes_with_Pinecone_+_n8n__Gcaygufjt6M.md) |
+| 2026-02-18 | AX | 자사/일반 | - | 그러니까, 3월 31일 이전에 이 새로운 노드를 사용해서 구축을 시작하시면, 표준 플랜 으로 업그레이드할 때 할인을 받으실 수 있습니다 . | Y | [영상](https://www.youtube.com/watch?v=Gcaygufjt6M) · [script](../transcripts/channels/Pinecone/Build_RAG_Workflows_in_Minutes_with_Pinecone_+_n8n__Gcaygufjt6M.md) |
+| 2026-07-01 | unclassified | 자사/일반 | - | [음악] 그러니까, 문서 간 지식 통합은 에이전트가 필요한 정보를 쉽게 찾을 수 있도록 하는 가장 좋은 방법 중 하나입니다. | N | [영상](https://www.youtube.com/watch?v=yT9PwyLsSxk) · [script](../transcripts/channels/Pinecone/Getting_Started_with_the_Nexus_Public_Preview__yT9PwyLsSxk.md) |
 
-## Meta Developers (15건)
-
-| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
-|---|---|---|---|---|---|---|
-| 2026-06-04 | unclassified | 자사/일반 | - | Avista는 Atomchat의 AI 음성 상담원을 활용한 WhatsApp 통화로 고객 대기 시간을 79% 단축했습니다 . | Y | [영상](https://www.youtube.com/watch?v=evxT7d23wx4) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Calling_API__evxT7d23wx4.md) |
-| 2026-06-04 | unclassified | 협력/고객사 언급 | Google | 모든 기업이 다이렉트 전송 서비스를 이용할 수 있게 되는 GA(Google Analytics)는 2027년 상반기 출시를 목표로 하고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=cV4Tst-3X-Q) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Direct_Send_API__cV4Tst-3X-Q.md) |
-| 2026-06-04 | unclassified | 자사/일반 | - | 예를 들어 최대 가격을 20% 높여 1.25달러에 메시지 10개를 보내면 9개가 전달되므로 전달률이 크게 향상되고 , 실제 전달당 비용은 설정된 최대 가격보다 여전히 낮을 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=DlqWkqhWrzU) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Max_Pricing__DlqWkqhWrzU.md) |
-| 2026-06-04 | unclassified | 자사/일반 | - | 레드클리프 랩스는 엑소텔을 통해 고객 만족도(CSAT)가 22% 향상되었습니다. | Y | [영상](https://www.youtube.com/watch?v=evxT7d23wx4) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Calling_API__evxT7d23wx4.md) |
-| 2026-06-04 | unclassified | 자사/일반 | - | 2025년 하반기 알파 버전에서 인도의 기업들은 공시 가격보다 높은 최고 가격을 설정했음에도 불구하고 더 나은 납품 실적과 평균 비용 절감을 경험했습니다. | Y | [영상](https://www.youtube.com/watch?v=DlqWkqhWrzU) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Max_Pricing__DlqWkqhWrzU.md) |
-| 2026-06-04 | unclassified | 자사/일반 | - | Sekhar는 respond.io를 사용하여 사건 해결 속도를 20% 향상시켰습니다 . | Y | [영상](https://www.youtube.com/watch?v=evxT7d23wx4) · [script](../transcripts/channels/Meta_Developers/WhatsApp_Calling_API__evxT7d23wx4.md) |
-| 2026-06-18 | AX | 자사/일반 | - | 생성형 AI를 활용하면 마치 살아있는 것처럼 느껴질 거예요 . | N | [영상](https://www.youtube.com/watch?v=t-TaxwrmtgE) · [script](../transcripts/channels/Meta_Developers/Building_location_based_experiences_with_Meta_AI_glasses_wit__t-TaxwrmtgE.md) |
-| 2026-06-18 | AX | 자사/일반 | - | 저는 클라우드 코드를 정말 좋아하는데요, Meta는 AI 개발을 위한 지원이 아주 훌륭합니다 . | N | [영상](https://www.youtube.com/watch?v=t-TaxwrmtgE) · [script](../transcripts/channels/Meta_Developers/Building_location_based_experiences_with_Meta_AI_glasses_wit__t-TaxwrmtgE.md) |
-| 2026-06-18 | AX | 자사/일반 | - | 지금까지 제가 디스플레이 유무와 상관없이 AI 안경에 적용한 실외 및 실내 경험에 대해 이야기해 봤습니다 . | N | [영상](https://www.youtube.com/watch?v=t-TaxwrmtgE) · [script](../transcripts/channels/Meta_Developers/Building_location_based_experiences_with_Meta_AI_glasses_wit__t-TaxwrmtgE.md) |
-| 2026-06-30 | AX | 자사/일반 | - | 최초 사용자 경험(FTUE) 에서 구매 전환율이 51%에서 78%로 급증하여 월간 활성 사용자 수가 상대적으로 36% 증가한 17% 성장했습니다. | Y | [영상](https://www.youtube.com/watch?v=ebIV8ZzjMf0) · [script](../transcripts/channels/Meta_Developers/VR_Developer_Level_Up_Ep._1_Success_Stories,_Agentic_Tools_&__ebIV8ZzjMf0.md) |
-| 2026-06-30 | AX | 자사/일반 | - | 이로써 생산성이 세 배로 증가했고, 단 4주 만에 25개의 제품을 출하할 수 있게 되었습니다. | Y | [영상](https://www.youtube.com/watch?v=ebIV8ZzjMf0) · [script](../transcripts/channels/Meta_Developers/VR_Developer_Level_Up_Ep._1_Success_Stories,_Agentic_Tools_&__ebIV8ZzjMf0.md) |
-| 2026-06-30 | AX | 자사/일반 | - | 그는 7일 무료 체험 전략을 통해 다른 플랫폼에 비해 전환율을 두 배 이상 높였습니다 . | Y | [영상](https://www.youtube.com/watch?v=ebIV8ZzjMf0) · [script](../transcripts/channels/Meta_Developers/VR_Developer_Level_Up_Ep._1_Success_Stories,_Agentic_Tools_&__ebIV8ZzjMf0.md) |
-| 2026-07-01 | AX | 자사/일반 | - | 1분도 채 안 되는 시간에 AI 기반 IDE 내에서 [음악] Meta 플랫폼의 모든 통합 기능을 직접 관리하고 효율성을 높일 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=95QihrwVQnc) · [script](../transcripts/channels/Meta_Developers/Developer_Tools_MCP_Connect_Your_AI_Agent_to_Meta's_Develope__95QihrwVQnc.md) |
-| 2026-07-01 | AX | 자사/일반 | - | 개발자들은 이미 AI 비서, 음악 및 개발자 도구를 활용하여 개발하고 있으며, MCP는 이러한 도구들을 Meta 플랫폼에 쉽게 연결할 수 있도록 지원합니다. | N | [영상](https://www.youtube.com/watch?v=95QihrwVQnc) · [script](../transcripts/channels/Meta_Developers/Developer_Tools_MCP_Connect_Your_AI_Agent_to_Meta's_Develope__95QihrwVQnc.md) |
-| 2026-07-01 | AX | 자사/일반 | - | Meta의 [음악] 개발자 도구인 MCP는 플랫폼 운영을 개발자들이 이미 매일 사용하는 AI 서비스인 [음악]에 직접 통합함으로써 이러한 상황을 바꿉니다 . | N | [영상](https://www.youtube.com/watch?v=95QihrwVQnc) · [script](../transcripts/channels/Meta_Developers/Developer_Tools_MCP_Connect_Your_AI_Agent_to_Meta's_Develope__95QihrwVQnc.md) |
-
-## Accenture (10건)
+## SK hynix (14건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
 |---|---|---|---|---|---|---|
-| 2026-04-15 | unclassified | 자사/일반 | - | 예를 들어, 인재 혁신 기업의 93%가 AI 도입을 지원하기 위해 인재 전략을 적극적으로 재구성했습니다. | Y | [영상](https://www.youtube.com/watch?v=F1amDOMZVZY) · [script](../transcripts/channels/Accenture/Delivering_value_with_and_for_people_in_the_age_of_AI__F1amDOMZVZY.md) |
-| 2026-04-15 | unclassified | 자사/일반 | - | [음악] 인재 재창조 기업은 필요에 따라 역할이나 팀을 전환할 수 있는 민첩한 인력을 보유할 가능성이 4.4배 더 높으며 , 이는 훨씬 더 큰 회복력을 만들어냅니다 . | Y | [영상](https://www.youtube.com/watch?v=F1amDOMZVZY) · [script](../transcripts/channels/Accenture/Delivering_value_with_and_for_people_in_the_age_of_AI__F1amDOMZVZY.md) |
-| 2026-04-15 | unclassified | 자사/일반 | - | 저희 연구 결과에 따르면, 인재 혁신을 주도하는 기업의 96%가 기술 및 AI에 대한 비전과 완벽하게 통합된 인재 전략을 보유하고 있는 반면, 그렇지 않은 기업은 16%에 불과했습니다. | Y | [영상](https://www.youtube.com/watch?v=F1amDOMZVZY) · [script](../transcripts/channels/Accenture/Delivering_value_with_and_for_people_in_the_age_of_AI__F1amDOMZVZY.md) |
-| 2026-04-21 | AX | 자사/일반 | - | 다행히도 저는 지난 20년 동안 약 30명 규모의 팀을 구축했습니다 . | Y | [영상](https://www.youtube.com/watch?v=HmuEoDwZnqg) · [script](../transcripts/channels/Accenture/The_Skills_Mismatch_Economy_How_AI_is_reshaping_skill_demand__HmuEoDwZnqg.md) |
-| 2026-04-21 | AX | 협력/고객사 언급 | 액센추어 | 바로 이러한 이유로 저희는 액센추어와 파트너십을 맺었으며, 동시에 와튼이 지난 20년간 구축해 온 목표이기도 합니다. | Y | [영상](https://www.youtube.com/watch?v=HmuEoDwZnqg) · [script](../transcripts/channels/Accenture/The_Skills_Mismatch_Economy_How_AI_is_reshaping_skill_demand__HmuEoDwZnqg.md) |
-| 2026-04-21 | AX | 자사/일반 | - | 전 세계 어느 경영대학원도 이러한 유형의 전문적이고 비즈니스적인 문제에 대해 빅데이터와 머신러닝이라는 관점을 적용해 접근하지 못했습니다. | N | [영상](https://www.youtube.com/watch?v=HmuEoDwZnqg) · [script](../transcripts/channels/Accenture/The_Skills_Mismatch_Economy_How_AI_is_reshaping_skill_demand__HmuEoDwZnqg.md) |
-| 2026-06-30 | unclassified | 자사/일반 | - | 기술과 인공지능을 활용하여 데이터를 실질적인 이점으로 전환합니다. | N | [영상](https://www.youtube.com/watch?v=K5oFxN7D0fI) · [script](../transcripts/channels/Accenture/Reinventing_the_athlete_experience_through_technology,_data___K5oFxN7D0fI.md) |
-| 2026-07-08 | AX | 자사/일반 | - | 하지만 탈옥이란 인공지능이 만들어 놓은 규칙과 안전장치를 무시하고 인공지능을 괴롭히려는 시도입니다 . | N | [영상](https://www.youtube.com/watch?v=O0XheeCS3CI) · [script](../transcripts/channels/Accenture/Why_prompt_injection_is_the_#1_AI_security_risk_TQ_Tech_Talk__O0XheeCS3CI.md) |
-| 2026-07-08 | AX | 자사/일반 | - | 그리고 올해 초, ChatGPT를 개발한 OpenAI는 웹 브라우징을 대신해주는 AI가 있다면 이러한 유형의 공격은 완전히 막을 수 없을지도 모른다고 공개적으로 인정했습니다. | N | [영상](https://www.youtube.com/watch?v=O0XheeCS3CI) · [script](../transcripts/channels/Accenture/Why_prompt_injection_is_the_#1_AI_security_risk_TQ_Tech_Talk__O0XheeCS3CI.md) |
-| 2026-07-08 | AX | 자사/일반 | - | 그렇다면 이러한 인공지능을 개발하는 사람들이 문제를 해결하겠다고 약속하지 않는다면, 우리는 무엇을 할 수 있을까요? | N | [영상](https://www.youtube.com/watch?v=O0XheeCS3CI) · [script](../transcripts/channels/Accenture/Why_prompt_injection_is_the_#1_AI_security_risk_TQ_Tech_Talk__O0XheeCS3CI.md) |
+| 2026-05-21 | unclassified | 자사/일반 | - | AI 활용하는 조직들이랑도 요즘 저희가 AI 구축 자동화 시스템을 개발을 계속 하고 있어서 이제 해외 업체나 뭐 국내 협력 업체들이랑도 계속 &gt;&gt; 근데 좋은 질문 주셨는데 사실 이제 회사 들어오면은 소통하는 능력이 가장 중요한 거 같기는 해요. | N | [영상](https://www.youtube.com/watch?v=bFvJv16w7wM) · [script](../transcripts/channels/SK_hynix/기술_혁신을_뒷받침하는_반도체의_근본_of_근본_[기반기술]_N잡러2_EP.1__bFvJv16w7wM.md) |
+| 2026-05-21 | unclassified | 자사/일반 | - | AI 흐름에 발맞추어서 사실 매뉴얼적으로 진행이 되던 업무들을 좀 AI 자동화 시스템을 구축을 하려는 노력들을 많이 하고 있어요. | N | [영상](https://www.youtube.com/watch?v=bFvJv16w7wM) · [script](../transcripts/channels/SK_hynix/기술_혁신을_뒷받침하는_반도체의_근본_of_근본_[기반기술]_N잡러2_EP.1__bFvJv16w7wM.md) |
+| 2026-05-21 | unclassified | 자사/일반 | - | 근데 이제 AI 자동화 시스템을 구축을 하려면 거기에 들어가는 뭐 수많은 방대한 데이터들을 저희가 다 일이 눈으로 확인하고 그 정업성을 맞추기 위한 작업 진환한 작업들이 있거든요. | N | [영상](https://www.youtube.com/watch?v=bFvJv16w7wM) · [script](../transcripts/channels/SK_hynix/기술_혁신을_뒷받침하는_반도체의_근본_of_근본_[기반기술]_N잡러2_EP.1__bFvJv16w7wM.md) |
+| 2026-06-08 | unclassified | 자사/일반 | - | 우주의 빅 히스토리 관점에서 기호이기를 바라보고 환경 문제의 AI 기술이 적용되면 해결 과정이 어떻게 바뀔 수 있는지 아이들의 눈높이에서 풀어준 흥미로운 시간이었어요. | N | [영상](https://www.youtube.com/watch?v=c7lRW9i4fqk) · [script](../transcripts/channels/SK_hynix/SK하이닉스,_기후에너지환경부와_함께_‘AI_for_Green_Impact’_개최…_미래_AI_환경_과학자와__c7lRW9i4fqk.md) |
+| 2026-06-08 | unclassified | 자사/일반 | - | 13년에 SK 하이닉스에서 세계 최초로 개발을 한 걸로 알고 있는데 왜 요즘 이렇게 폭발적으로 반응이 일어나고 있는 건가요? | Y | [영상](https://www.youtube.com/watch?v=TM0HTpKgzA8) · [script](../transcripts/channels/SK_hynix/[미래인재_CLASS_제1강]_HBM_핵심_기술인_TSV,_MR-MUF!!_그다음_미래_기술은!__TM0HTpKgzA8.md) |
+| 2026-06-08 | unclassified | 자사/일반 | - | &gt;&gt; 다음으로 AI 에이전트를 활용해 SK 하이닉스 용인 반도체 클러스터 인근에서 수집된 생태 모니터를 AI로 분석해 보기도 하고 &gt;&gt; AI 도구로 영상과 스토리북, 포스터 같은 환경 콘텐츠를 만드는 시간도 진행됐습니다. | N | [영상](https://www.youtube.com/watch?v=c7lRW9i4fqk) · [script](../transcripts/channels/SK_hynix/SK하이닉스,_기후에너지환경부와_함께_‘AI_for_Green_Impact’_개최…_미래_AI_환경_과학자와__c7lRW9i4fqk.md) |
+| 2026-06-08 | unclassified | 자사/일반 | - | 하지만 그 HBM 개발 조직은 미래 반드시 활용될 제품이라고 믿었고 또 그걸 든든하게 SK하이닉스 최고 [음악] 경영진 탑팀에서 끊임없이 지원했고 그 결과 AI 시대 핵심 제품이 되었는데 그 근간이 되는 원동력 SK 아하이닉스만이 가지고 [음악] 있는 굉장히 독특한 기업 문화가 있습니다. | N | [영상](https://www.youtube.com/watch?v=TM0HTpKgzA8) · [script](../transcripts/channels/SK_hynix/[미래인재_CLASS_제1강]_HBM_핵심_기술인_TSV,_MR-MUF!!_그다음_미래_기술은!__TM0HTpKgzA8.md) |
+| 2026-06-08 | unclassified | 자사/일반 | - | 참가자들이 AI 기술을 활용해서 지구를 구할 해법을 찾아낼 거라는 확신이 됩니다. | N | [영상](https://www.youtube.com/watch?v=c7lRW9i4fqk) · [script](../transcripts/channels/SK_hynix/SK하이닉스,_기후에너지환경부와_함께_‘AI_for_Green_Impact’_개최…_미래_AI_환경_과학자와__c7lRW9i4fqk.md) |
+| 2026-06-23 | unclassified | 자사/일반 | - | 각각의 AI 칩을 서로 다른 환경에서 구현을 하다 보니 칩의 성능을 극대화하기 위해서는 칩과 잘 맞도록 따로 설계가 필요한데 그래서 요즘에는 베이스 다이에 고객의 요구 사항을 반영해서 만들고 그 위에 포다이를 만드는 커스텀 HBM 제품을 따로 개발하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=Jlf2r5VoJRk) · [script](../transcripts/channels/SK_hynix/반도체_기술의_물리적_한계를_돌파하는_핵심_동력_[PKG개발]_N잡러2_EP.2__Jlf2r5VoJRk.md) |
+| 2026-06-23 | unclassified | 자사/일반 | - | 이 이 저희가 알고리즘을 스택 공정 엔지니어 분들께서 섬세하게 짜 주셔서 적절한 힘을 조절하면서이 HBM을 잘 개발하고 있다고 볼 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=Jlf2r5VoJRk) · [script](../transcripts/channels/SK_hynix/반도체_기술의_물리적_한계를_돌파하는_핵심_동력_[PKG개발]_N잡러2_EP.2__Jlf2r5VoJRk.md) |
+| 2026-06-23 | unclassified | 자사/일반 | - | [웃음] &gt;&gt; 이제 AI 시대에 HBM과 패키징 개발은 어떤 식으로 또 발전이 되고 있는지 &gt;&gt; 패키지 개발의 중요성은 사실 날이 갈수록 점점 커지고 있는데요. | N | [영상](https://www.youtube.com/watch?v=Jlf2r5VoJRk) · [script](../transcripts/channels/SK_hynix/반도체_기술의_물리적_한계를_돌파하는_핵심_동력_[PKG개발]_N잡러2_EP.2__Jlf2r5VoJRk.md) |
+| 2026-07-03 | unclassified | 자사/일반 | - | 인공지능을 잘 활용하는 것과 음악을 통해 인공지능이 우리를 지배하지 못하도록 막는 것, 이 두 가지 모두에 대해 계속 생각해 왔습니다. | N | [영상](https://www.youtube.com/watch?v=fO2fypa8vak) · [script](../transcripts/channels/SK_hynix/Semiconductor_Humanities_EP.3_What_Makes_Humans_Irreplaceabl__fO2fypa8vak.md) |
+| 2026-07-15 | unclassified | 자사/일반 | - | 그러니까 20%밖에 안 쓰고 10배 이상의 [음악] 속도 향상을 가져온다는 거죠. | Y | [영상](https://www.youtube.com/watch?v=_fFVIgYzGB8) · [script](../transcripts/channels/SK_hynix/[미래인재_CLASS_제2강]_미래_반도체_‘PIM’,_떠오르는_이유는_바로_‘이것’___fFVIgYzGB8.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | Even for AI, you need CPUs and GPUs, which are all built from atoms. | N | [영상](https://www.youtube.com/watch?v=K3u07NaGiuk) · [script](../transcripts/channels/SK_hynix/[HY-Knowledge_EP.1]_Will_Quantum_Computers_Change_the_World___K3u07NaGiuk.md) |
+
+## LG AI Research (12건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2025-02-17 | unclassified | 자사/일반 | - | NEXUS와 함께 법률 전문가, AI 개발자, 콘텐츠 개발자 등 다양한 전문가들이 혁신을 경험할 것입니다. | N | [영상](https://www.youtube.com/watch?v=DxCCU5pgU7Q) · [script](../transcripts/channels/LG_AI_Research/Unveiling_LG's_Data_Compliance_Agent,_NEXUS!__DxCCU5pgU7Q.md) |
+| 2025-07-27 | AX | 자사/일반 | - | This has led to an improvement of over 20% in both customer satisfaction and agent productivity. | Y | [영상](https://www.youtube.com/watch?v=EGzIMo4AizA) · [script](../transcripts/channels/LG_AI_Research/LG_AI_Talk_Concert_2025_-_Shaping_the_Future_of_AI__EGzIMo4AizA.md) |
+| 2025-07-27 | AX | 자사/일반 | - | With EXAONE Data Foundry, a single expert can generate 11,000 data points in just 34 hours, ensuring consistently high-quality data This incredible automation is a testament to the capabilities of various EXAONE agents, including Query Generation, Answer Generation, and Answer Evaluator. | Y | [영상](https://www.youtube.com/watch?v=EGzIMo4AizA) · [script](../transcripts/channels/LG_AI_Research/LG_AI_Talk_Concert_2025_-_Shaping_the_Future_of_AI__EGzIMo4AizA.md) |
+| 2025-07-27 | AX | 자사/일반 | - | As a result, we've improved accuracy by over 20% compared to previous methods, achieving an annual cost saving of $54 million. | Y | [영상](https://www.youtube.com/watch?v=EGzIMo4AizA) · [script](../transcripts/channels/LG_AI_Research/LG_AI_Talk_Concert_2025_-_Shaping_the_Future_of_AI__EGzIMo4AizA.md) |
+| 2025-12-04 | unclassified | 자사/일반 | - | We need to build an AI ecosystem well. | N | [영상](https://www.youtube.com/watch?v=0lsODxgFJko) · [script](../transcripts/channels/LG_AI_Research/The_Future_of_AI_Through_Two_Geniuses’_Eyes_Honglak_Lee_&_Se__0lsODxgFJko.md) |
+| 2025-12-09 | AX | 자사/일반 | - | Whenever new AI algorithms emerge, there’s always this excitement “Ah, with this, we’re going to change the world.” Researchers and industry teams dive in, applying these methods and building new technologies. | N | [영상](https://www.youtube.com/watch?v=RmhQ5xZfwSY) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__RmhQ5xZfwSY.md) |
+| 2025-12-09 | AX | 자사/일반 | - | From the center of the AI transformation, a look at Korea’s present and future. | N | [영상](https://www.youtube.com/watch?v=RmhQ5xZfwSY) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__RmhQ5xZfwSY.md) |
+| 2025-12-09 | AX | 자사/일반 | - | Physical AI: AI whose decision-making capabilities are integrated with robots, sensors, and other physical devices, enabling it to act directly in the real world. | N | [영상](https://www.youtube.com/watch?v=RmhQ5xZfwSY) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__RmhQ5xZfwSY.md) |
+| 2025-12-16 | AX | 자사/일반 | - | So in the end, starting now, learning how to work with AI— and perhaps building communities around that— may be one of the most important things. | N | [영상](https://www.youtube.com/watch?v=vIE2XpEGJ8M) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__vIE2XpEGJ8M.md) |
+| 2025-12-16 | AX | 자사/일반 | - | At LG AI Research, our ultimate goal—our ideal vision— is to build truly excellent 'Expert AI’. | N | [영상](https://www.youtube.com/watch?v=vIE2XpEGJ8M) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__vIE2XpEGJ8M.md) |
+| 2025-12-16 | AX | 자사/일반 | - | Similarly, if we can accurately forecast financial products or stock prices, we can leverage that capability to build financial agents. | N | [영상](https://www.youtube.com/watch?v=vIE2XpEGJ8M) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__vIE2XpEGJ8M.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | [음악] LG AI 연구원의 엑사1원 디스커버리 과하게 투화된 파운데이션 모델을 활용해서 [음악] AI 데이터 센터용 액냉강에 활용될 수 있는 소재를 개발하였습니다. | N | [영상](https://www.youtube.com/watch?v=B2p4_0YW_pw) · [script](../transcripts/channels/LG_AI_Research/On_site_of_ICML_2026__B2p4_0YW_pw.md) |
 
 ## Arm (10건)
 
@@ -311,6 +430,20 @@
 | 2026-07 | DX | 자사/일반 | - | 기업에서 AI 도입의 첫 단추는 어떤 문제를 풀 것인가라는 부분입니다. | N | [영상](https://www.youtube.com/watch?v=4n4xMvpuCDY) · [script](../transcripts/2026-07-18/AI_도입을_위해_AI_도입보다_더_중요한_것은_(김유신_상무)__4n4xMvpuCDY.md) |
 | 2026-07 | AX | 자사/일반 | - | 1단계 2단계 그리고 머링 이제 성숙돼 가지고 AI를 잘 활용하고 있는 단계가 한 48% 정도였습니다. | Y | [영상](https://www.youtube.com/watch?v=GiFlOiikYso) · [script](../transcripts/2026-07-21/AI_도입,_도입만_하면_끝일까_(김유신_상무)__GiFlOiikYso.md) |
 
+## Apple Developer (9건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-06-08 | unclassified | 자사/일반 | - | Xcode에 에이전트 지원이 도입되면서, 많은 개발자들이 그 어느 때보다 많은 코드를 작성하고, 기능과 변경 사항을 빠르게 반복하여 사용자에게 더 많은 가치를 전달하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=sbdA41c2o88) · [script](../transcripts/channels/Apple_Developer/WWDC26_Build,_deliver,_and_automate_with_Xcode_Cloud_Apple__sbdA41c2o88.md) |
+| 2026-06-08 | AX | 자사/일반 | - | 안녕하세요, 저는 MLX 팀의 엔지니어 Angelos입니다 오늘은 MLX를 활용해 Mac에서 에이전트형 AI 워크플로를 구축하고 실행하는 방법을 소개하겠습니다. | N | [영상](https://www.youtube.com/watch?v=wykPErJ8M-8) · [script](../transcripts/channels/Apple_Developer/WWDC26_Run_local_agentic_AI_on_the_Mac_using_MLX_Apple__wykPErJ8M-8.md) |
+| 2026-06-08 | AX | 자사/일반 | - | Neural Accelerator를 활용하는 데 별도의 인자나 코드 변경이 필요하지 않습니다 MLX가 사용 가능한 하드웨어에 맞는 최적의 커널을 자동으로 선택합니다 이제 두 번째 과제인 동시성에 대해 이야기해 보겠습니다 실제로 에이전트는 혼자 작업하는 경우가 드뭅니다 일반적인 패턴은 에이전트가 여러 서브에이전트를 생성하고 각각이 문제의 다른 부분을 병렬로 처리하는 것입니다 하나는 문서를 읽고 다른 하나는 코드를 검색하며 세 번째는 테스트를 작성하는 이 모든 것이 동시에 진행됩니다 즉 여러 요청이 로컬 모델에 동시에 도달한다는 의미입니다 MLX-LM Server는 연속 배칭으로 이를 처리합니다 요청을 하나씩 처리하는 대신 들어오는 요청을 동적으로 배치로 묶어 GPU에서 함께 처리합니다 새로운 요청은 진행 중인… | N | [영상](https://www.youtube.com/watch?v=wykPErJ8M-8) · [script](../transcripts/channels/Apple_Developer/WWDC26_Run_local_agentic_AI_on_the_Mac_using_MLX_Apple__wykPErJ8M-8.md) |
+| 2026-06-09 | unclassified | 자사/일반 | - | 음, 아시다시피, 인공지능은 개발 방식을 완전히 바꿔놓고 있고, 도구 자체도 올해 에이전트 코딩 방향으로 엄청난 변화를 겪으면서 무언가를 만드는 것이 훨씬 쉬워졌습니다. | N | [영상](https://www.youtube.com/watch?v=KPvBUCB7RTI) · [script](../transcripts/channels/Apple_Developer/Dub_Dub_Daily_Day_2_WWDC26__KPvBUCB7RTI.md) |
+| 2026-06-09 | unclassified | 자사/일반 | - | 하지만 처음 시작할 때는 당연히 Xcode를 다운로드하고 설치해서 에이전트 기능이나 새로운 코딩 방식, 개발 방법 등 새로운 기능들을 모두 사용해 보게 될 거예요. | N | [영상](https://www.youtube.com/watch?v=KPvBUCB7RTI) · [script](../transcripts/channels/Apple_Developer/Dub_Dub_Daily_Day_2_WWDC26__KPvBUCB7RTI.md) |
+| 2026-06-11 | unclassified | 자사/일반 | - | 코딩 에이전트가 개발자에게 어떤 도움을 줄 수 있는지 예를 들어 설명해 주시겠어요? | N | [영상](https://www.youtube.com/watch?v=yuTOdNGcU_4) · [script](../transcripts/channels/Apple_Developer/Dub_Dub_Daily_Day_4_WWDC26__yuTOdNGcU_4.md) |
+| 2026-06-17 | AX | 자사/일반 | - | 안녕하세요, 저는 Ken입니다 안녕하세요, 저는 Jerome입니다 오늘은 Xcode 27에서 에이전틱 코딩이 어떤 모습인지 보여드리고자 합니다 수십 년 동안 소프트웨어 개발은 컴퓨터에게 무엇을 해야 하는지 알려주어야 했습니다 하나하나 말이죠 하지만 이를 돕기 위한 도구들이 등장했죠 자동 완성이나 예측 코드 완성 그리고 최근에는 단일 파일을 편집할 수 있는 LLM까지요 이들 각각은 컴퓨터가 할 수 있는 일을 바꿔놓았습니다 하지만 지금 일어나고 있는 에이전틱 코딩의 변화는 훨씬 더 큰 전환입니다 단 하나의 프롬프트만으로도 Xcode 27은 전체 코드베이스를 대상으로 계획을 세우고 여러 파일에 변경 사항을 적용합니다 Previews와 Playgrounds 및 기기 연동 등 다양한 도구를 활용해 아이디어를 현실로 … | N | [영상](https://www.youtube.com/watch?v=Wpwjqk1UGnQ) · [script](../transcripts/channels/Apple_Developer/Inside_Apple_Intelligence_and_Xcode_Special_Presentation_WWD__Wpwjqk1UGnQ.md) |
+| 2026-06-17 | AX | 자사/일반 | - | 제 컬렉션을 내놓을 계획은 없으니 아니라고 대답하겠습니다 좋습니다, 전송하죠 이제 Xcode가 방금 제가 답한 내용을 바탕으로 에이전트와 함께 계획을 세우고 있습니다 Xcode와 에이전트가 화이트보드 앞에서 함께 논의한다고 생각하면 됩니다 지금은 탐색 단계라 아직 코드는 작성되지 않습니다 그래서 언제든 세부사항을 추가하거나 방금 한 답변을 바꾸거나 할 수도 있습니다 계획이 완성될 때까지 기다려 보죠 완성이 되었네요 앱 개발 계획이 준비됐습니다! | N | [영상](https://www.youtube.com/watch?v=Wpwjqk1UGnQ) · [script](../transcripts/channels/Apple_Developer/Inside_Apple_Intelligence_and_Xcode_Special_Presentation_WWD__Wpwjqk1UGnQ.md) |
+| 2026-06-17 | AX | 자사/일반 | - | [박수] 이처럼 에이전틱 코딩은 Apple 플랫폼과 프레임워크 및 도구들과 함께 아이디어를 실제 결과물로 만드는 데 도움을 줍니다 그리고 그런 아이디어를 자신이나 친구들 또는 커뮤니티를 위해 구현할 수 있죠 Xcode의 에이전트는 새로운 API 도입과 앱 접근성 향상 등 다양한 작업을 도와줍니다 예를 들어 앱을 사용할 때 가장 개인적으로 느껴지는 순간 중 하나는 앱이 자신의 언어로 현지화되어 있을 때입니다 에이전틱 코딩이 이 과정을 어떻게 도와주는지 살펴보겠습니다 앱 현지화는 단순히 문자열을 단어 대 단어로 번역하는 것보다 훨씬 복잡한 작업입니다 각 문자열이 앱 안에서 어떤 맥락으로 사용되는지 이해하는 것이 중요하죠 예를 들어, 같은 단어라도 사용되는 상황에 따라 전혀 다른 의미를 가질 수 있습니다 그래서 … | N | [영상](https://www.youtube.com/watch?v=Wpwjqk1UGnQ) · [script](../transcripts/channels/Apple_Developer/Inside_Apple_Intelligence_and_Xcode_Special_Presentation_WWD__Wpwjqk1UGnQ.md) |
+
 ## Boston Dynamics (9건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -366,18 +499,41 @@
 | 2026-07 | AX | 자사/일반 | - | 결국에는 AI 도구가 정형업무화돼서 흐르는 부분들을 흡수할수록 초년차 AI 도구를 사고적으로 구조적으로 활용하는 인재들에 대한 영향이 조금 더 빨리 평가되고 필요하다고 생각합니다. | N | [영상](https://www.youtube.com/watch?v=7s8O1R8p0Rk) · [script](../transcripts/2026-07-18/AI_전환(AX)_시대,_어떤_직무가_끝까지_살아남을까ㅣ『AI_전환_절대_공식』저자_김건우__7s8O1R8p0Rk.md) |
 | 2026-07 | AX | 자사/일반 | - | 특히 첫 번째 AI 도입이라는 것을 저희가 살펴보면요. | N | [영상](https://www.youtube.com/watch?v=Kaaq7_9vzYs) · [script](../transcripts/2026-07-18/AX_(AI_전환)_제대로_모르면_망합니다_개념·사례·원리_완벽_정리_(AI_전환_절대공식_저자)__Kaaq7_9vzYs.md) |
 
-## LG AI Research (8건)
+## NTT DATA (7건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
 |---|---|---|---|---|---|---|
-| 2025-12-04 | unclassified | 자사/일반 | - | We need to build an AI ecosystem well. | N | [영상](https://www.youtube.com/watch?v=0lsODxgFJko) · [script](../transcripts/channels/LG_AI_Research/The_Future_of_AI_Through_Two_Geniuses’_Eyes_Honglak_Lee_&_Se__0lsODxgFJko.md) |
-| 2025-12-09 | AX | 자사/일반 | - | Whenever new AI algorithms emerge, there’s always this excitement “Ah, with this, we’re going to change the world.” Researchers and industry teams dive in, applying these methods and building new technologies. | N | [영상](https://www.youtube.com/watch?v=RmhQ5xZfwSY) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__RmhQ5xZfwSY.md) |
-| 2025-12-09 | AX | 자사/일반 | - | From the center of the AI transformation, a look at Korea’s present and future. | N | [영상](https://www.youtube.com/watch?v=RmhQ5xZfwSY) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__RmhQ5xZfwSY.md) |
-| 2025-12-09 | AX | 자사/일반 | - | Physical AI: AI whose decision-making capabilities are integrated with robots, sensors, and other physical devices, enabling it to act directly in the real world. | N | [영상](https://www.youtube.com/watch?v=RmhQ5xZfwSY) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__RmhQ5xZfwSY.md) |
-| 2025-12-16 | AX | 자사/일반 | - | So in the end, starting now, learning how to work with AI— and perhaps building communities around that— may be one of the most important things. | N | [영상](https://www.youtube.com/watch?v=vIE2XpEGJ8M) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__vIE2XpEGJ8M.md) |
-| 2025-12-16 | AX | 자사/일반 | - | At LG AI Research, our ultimate goal—our ideal vision— is to build truly excellent 'Expert AI’. | N | [영상](https://www.youtube.com/watch?v=vIE2XpEGJ8M) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__vIE2XpEGJ8M.md) |
-| 2025-12-16 | AX | 자사/일반 | - | Similarly, if we can accurately forecast financial products or stock prices, we can leverage that capability to build financial agents. | N | [영상](https://www.youtube.com/watch?v=vIE2XpEGJ8M) · [script](../transcripts/channels/LG_AI_Research/Two_Geniuses_Discuss_'The_Future_of_AI'_Honglak_Lee_&_Saedol__vIE2XpEGJ8M.md) |
-| 2026-07-16 | unclassified | 자사/일반 | - | [음악] LG AI 연구원의 엑사1원 디스커버리 과하게 투화된 파운데이션 모델을 활용해서 [음악] AI 데이터 센터용 액냉강에 활용될 수 있는 소재를 개발하였습니다. | N | [영상](https://www.youtube.com/watch?v=B2p4_0YW_pw) · [script](../transcripts/channels/LG_AI_Research/On_site_of_ICML_2026__B2p4_0YW_pw.md) |
+| 2024-04-09 | unclassified | 자사/일반 | - | 3 년 반 정도에 걸쳐 개발한 안건이 서비스 개시 나는 보람있는 느낌이었습니다. | Y | [영상](https://www.youtube.com/watch?v=TsV162esYwE) · [script](../transcripts/channels/NTT_DATA/【NTTデータ】文系出身からSEへ！きっかけは「改札の自動化」への感動...【ITアーキテクト】__TsV162esYwE.md) |
+| 2024-04-10 | unclassified | 자사/일반 | - | 1년째와 2년째의 일로 나누어 이야기하면 1 년째는 그 CO2를 시각화하는 프로 시스템을 구축하는 일을 했어요 그러나 그 일 중에서도 시스템 개발 일련의 흐름이거나 시스템 습득 도구의 습득을 경험한 후 주로 시스템을 사용하는 공장용 수동 작성이거나 교육입니다. | Y | [영상](https://www.youtube.com/watch?v=lZdJDT_dYCk) · [script](../transcripts/channels/NTT_DATA/【NTTデータ】理系院卒コンサルタントに聞く！強みは◯◯まで担える故のスピード感！？__lZdJDT_dYCk.md) |
+| 2024-04-13 | unclassified | 자사/일반 | - | IT의 그 일은 뭐라고 말하는 것이 전혀 정보가 없고 상상이 역시 스스로도 내가 붙지 않았다는 것에서 분명히 시스템 개발이라는 것은 그 규모에 따라 34년 하나의 시스템을 만드는 것도 있다면 1 년 하나의 시스템을 만드는 것도 라는 곳을 취업 활동 때 알 글쎄, 나는이 3 년 프로젝트에서 1 년 동안 계속 테스트 기간이라고합니다. | Y | [영상](https://www.youtube.com/watch?v=5eR0atHHbzw) · [script](../transcripts/channels/NTT_DATA/【NTTデータ】仕事との両立は大変？社内の制度は？その後のキャリアも含めぶっちゃけトーク【育児経験者が集合】__5eR0atHHbzw.md) |
+| 2024-04-13 | unclassified | 자사/일반 | - | 그 회사 외부의 고객을 만질 수있는 기회 없었지만 6 년째의 끝 정도 도서를 이동하여 외부 고객과 음 개발할 기회가 있고 프로젝트 너무 마음에 남아 있습니다. | Y | [영상](https://www.youtube.com/watch?v=5eR0atHHbzw) · [script](../transcripts/channels/NTT_DATA/【NTTデータ】仕事との両立は大変？社内の制度は？その後のキャリアも含めぶっちゃけトーク【育児経験者が集合】__5eR0atHHbzw.md) |
+| 2024-10-11 | unclassified | 자사/일반 | - | NTT 데이터는 1988 년 총 이후 35 기간 연속으로 증가를 계속합니다. | Y | [영상](https://www.youtube.com/watch?v=yZF7OC3Imio) · [script](../transcripts/channels/NTT_DATA/NTT_DATA_MOVIE_～会社紹介編～__yZF7OC3Imio.md) |
+| 2024-10-11 | unclassified | 자사/일반 | - | NTT 데이터를 통해 사업 확장을 위해 2023년 7월부터 지주회사 체제로 마이그레이션 국내 사업 회사의 NTT 데이터 해외 사업 회사의 NTT 데이터 잉크는 각각 지역권을 보유한 주식회사인 NTT 데이터 그룹은 글로벌 전략을 수립하고 글로벌 시너지 창출 글로벌 거버넌스 강화에 주력 또한 경쟁력을 엄선한 기술의 연구 개발 전략투자 국내 해외에서 활용가능 오퍼링의 전개 지시 등의 기능을 집계 1NTT 데이터로서의 통합력을 발휘해 경쟁력 우위 확보 여기에서 중기 경영 계획에 대해 NTT 데이터로 글로벌 성장 3 단계에서 진행되고 있으며 현재는 최종 무대의 위치입니다. | Y | [영상](https://www.youtube.com/watch?v=yZF7OC3Imio) · [script](../transcripts/channels/NTT_DATA/NTT_DATA_MOVIE_～会社紹介編～__yZF7OC3Imio.md) |
+| 2024-10-11 | unclassified | 자사/일반 | - | 2022년부터 2025년까지 중기 경영 계획 슬로건 리어 라이징은 지속 가능한 미래와 말하는 것 미래를 향한 가치를 만드는 다양한 사람들 기술로 묶어 고객과 함께 지속 가능한 사회를 실현하는 기본 정책도 해외사업의 질과 함께 성장고객 기반 확대 일하러 가자. | Y | [영상](https://www.youtube.com/watch?v=yZF7OC3Imio) · [script](../transcripts/channels/NTT_DATA/NTT_DATA_MOVIE_～会社紹介編～__yZF7OC3Imio.md) |
+
+## Runway (7건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-06-26 | unclassified | 자사/일반 | - | 특히 AI 분야에 있어서는 전 세계 영화 제작자, 아티스트, 부서 책임자들이 다양한 방식으로 AI를 적극적으로 활용하는 모습을 볼 수 있었습니다. | N | [영상](https://www.youtube.com/watch?v=veMhi9i_UyM) · [script](../transcripts/channels/Runway/A_Conversation_with_Girish_Balakrishnan_&_Joel_Kuwahara_Runw__veMhi9i_UyM.md) |
+| 2026-06-26 | unclassified | 자사/일반 | - | AI 영화 제작자들이 이러한 도구를 활용하여 이미지를 조합하기 시작하면서, 영화에서 유일하게 영화관만의 고유한 요소인 편집이 더욱 중요해지고 있습니다. | N | [영상](https://www.youtube.com/watch?v=BxNvQ1VamhU) · [script](../transcripts/channels/Runway/A_Conversation_with_Roger_Avary_&_Gala_Avary_Runway_AI_Festi__BxNvQ1VamhU.md) |
+| 2026-06-26 | unclassified | 자사/일반 | - | 그래서 저희 스튜디오의 시각 효과 및 혁신 허브인 아이라인 팀과 협력할 수 있었고, 그들을 한데 모아 실사 촬영과 시각 효과 프로세스의 장점을 결합하는 동시에 생성형 도구를 활용하여 감정을 불러일으키고 거대한 경기장을 가득 채운 실감나는 군중을 구현하는 방법을 모색했습니다. | N | [영상](https://www.youtube.com/watch?v=veMhi9i_UyM) · [script](../transcripts/channels/Runway/A_Conversation_with_Girish_Balakrishnan_&_Joel_Kuwahara_Runw__veMhi9i_UyM.md) |
+| 2026-06-26 | unclassified | 자사/일반 | - | 저는 지금 영화계에서 독립 영화 제작이 다시금 부흥하고 있다고 생각하며, AI 도구를 활용하면 진정한 독립 영화를 만들 수 있다고 생각합니다. | N | [영상](https://www.youtube.com/watch?v=BxNvQ1VamhU) · [script](../transcripts/channels/Runway/A_Conversation_with_Roger_Avary_&_Gala_Avary_Runway_AI_Festi__BxNvQ1VamhU.md) |
+| 2026-07-01 | unclassified | 자사/일반 | - | 오늘은 음악 마케팅을 위해 Agent 2.0을 활용하는 방법에 대해 알아보겠습니다 . | N | [영상](https://www.youtube.com/watch?v=OfqZtW4b8ZE) · [script](../transcripts/channels/Runway/How_to_Use_Agent_2.0_Runway_Academy__OfqZtW4b8ZE.md) |
+| 2026-07-01 | unclassified | 자사/일반 | - | 실적이 저조한 콘텐츠를 공유하면 에이전트가 문제점을 진단한 후 더 나은 버전으로 다시 구축합니다. | N | [영상](https://www.youtube.com/watch?v=OfqZtW4b8ZE) · [script](../transcripts/channels/Runway/How_to_Use_Agent_2.0_Runway_Academy__OfqZtW4b8ZE.md) |
+| 2026-07-01 | unclassified | 자사/일반 | - | Agent에게 출시하려는 제품을 알려주면 Agent가 어디에 제품을 홍보하고 필요한 모든 곳에 필요한 결과물을 생성하는 데 도움을 줄 것입니다. | N | [영상](https://www.youtube.com/watch?v=OfqZtW4b8ZE) · [script](../transcripts/channels/Runway/How_to_Use_Agent_2.0_Runway_Academy__OfqZtW4b8ZE.md) |
+
+## TCS (7건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07-03 | unclassified | 자사/일반 | - | 향후 10년은 더욱 스마트한 음악 AI를 위한 스마트 데이터 구축의 시대가 될 것입니다 . | Y | [영상](https://www.youtube.com/watch?v=1bqOed8_IKY) · [script](../transcripts/channels/TCS/The_Future_of_AI_is_Built_on_Data._And_It_Starts_Here.__1bqOed8_IKY.md) |
+| 2026-07-14 | unclassified | 자사/일반 | - | 그래서 우리가 가진 책임감, 즉 어머니로서 저는 제 아이의 어머니이자 다양한 AI 도구들의 어머니이며, 제가 그것들을 어떻게 지도하고 활용하는지가 미래의 모습일 것입니다. | N | [영상](https://www.youtube.com/watch?v=GD4CCpTQa3k) · [script](../transcripts/channels/TCS/TechTonic_Shifts_2.0_-_Coding_Cultures_and_Museum_Futures__GD4CCpTQa3k.md) |
+| 2026-07-14 | unclassified | 자사/일반 | - | 5G와 인공지능이 결합될 때 , 엣지 컴퓨팅 활용 사례와 클라우드 컴퓨팅에서의 활용 가능성 모두를 고려할 때, 이는 투자 수익률(ROI)을 크게 향상시킬 수 있는 또 다른 중요한 요소가 될 것이라고 생각합니다. | N | [영상](https://www.youtube.com/watch?v=0KaGMvYEDHw) · [script](../transcripts/channels/TCS/Turning_5G_into_Real_ROI_The_3E_Formula_Driving_Enterprise_S__0KaGMvYEDHw.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | 이는 통합된 물리적 AI 스택입니다. | N | [영상](https://www.youtube.com/watch?v=Zu9G8-LjKwI) · [script](../transcripts/channels/TCS/TCS_×_NVIDIA_Industrial_AI_Innovation_Lab__Zu9G8-LjKwI.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | TCS [음악]의 Indigenously를 사용하여 특허받은 알고리즘 및 그것은 Dis For입니다 다양한 승용차에 적용 가능 상용 차량은 오프로드에서 내구성이 뛰어납니다. | N | [영상](https://www.youtube.com/watch?v=Zu9G8-LjKwI) · [script](../transcripts/channels/TCS/TCS_×_NVIDIA_Industrial_AI_Innovation_Lab__Zu9G8-LjKwI.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | TCS가 답입니다 [음악] AI 기반 차량 개발을 위하여 처음부터 끝까지. | N | [영상](https://www.youtube.com/watch?v=Zu9G8-LjKwI) · [script](../transcripts/channels/TCS/TCS_×_NVIDIA_Industrial_AI_Innovation_Lab__Zu9G8-LjKwI.md) |
+| 2026-07-20 | unclassified | 자사/일반 | - | [음악] 2004년에 저는 개인적인 프로 체스 활동을 희생하고 기술 인프라 구축에 모든 시간을 쏟기로 의식적인 결정을 내렸습니다 . | Y | [영상](https://www.youtube.com/watch?v=jxkj4EMVPyw) · [script](../transcripts/channels/TCS/Dr._Charudatta_Jadhav_People_of_TCS__jxkj4EMVPyw.md) |
 
 ## BOI (Board of Innovation) (6건)
 
@@ -401,6 +557,17 @@
 | 2026-07 | unclassified | 자사/일반 | - | Then the next piece is obviously getting into the technology transformation that you sometimes also need to do to implement agents, to implement AI technology. | N | [영상](https://www.youtube.com/watch?v=hd6L4DRWgvY) · [script](../transcripts/2026-07-18/How_to_Drive_AI_Adoption_Internally__hd6L4DRWgvY.md) |
 | 2026-07 | AX | 자사/일반 | - | Your own company, you just led Growth Loop through a full AI transformation. | N | [영상](https://www.youtube.com/watch?v=5VMbGgInp0E) · [script](../transcripts/2026-07-18/Leading_an_AI_Transformation__5VMbGgInp0E.md) |
 
+## Google DeepMind (6건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-05-19 | unclassified | 자사/일반 | - | 저는 항상 음악을 통해 인공지능을 제대로 구축할 수 있다면, 과학자들이 우리 주변의 우주를 탐구하는 데 도움이 되는 최고의 도구가 될 수 있을 거라고 생각해 왔습니다. | N | [영상](https://www.youtube.com/watch?v=aSY_vFFmkW0) · [script](../transcripts/channels/Google_DeepMind/Generating_novel_scientific_hypotheses_with_Co-Scientist__aSY_vFFmkW0.md) |
+| 2026-06-23 | AX | 협력/고객사 언급 | 구글 | 구글 딥마인드는 게임 분야의 강화 학습부터 시작하여 음악 분야까지 아우르는 오랜 에이전트 개발 역사를 가지고 있지만 , 우리 대부분에게는 아직 그 수준에 도달하지 못했습니다. | N | [영상](https://www.youtube.com/watch?v=V04bm-3d6EQ) · [script](../transcripts/channels/Google_DeepMind/When_millions_of_AI_agents_meet__V04bm-3d6EQ.md) |
+| 2026-06-23 | AX | 자사/일반 | - | 반면 에이전트는 이러한 과정을 자동화하는 도구를 제공하여 사용자의 작업량을 줄이고 언어 모델이나 에이전트가 작업을 완료하는 데 더 많은 자율성을 부여합니다 . | N | [영상](https://www.youtube.com/watch?v=V04bm-3d6EQ) · [script](../transcripts/channels/Google_DeepMind/When_millions_of_AI_agents_meet__V04bm-3d6EQ.md) |
+| 2026-06-23 | AX | 협력/고객사 언급 | 구글 | 제가 생각하기에 우리가 많은 에너지를 집중하고 있는 부분은 , 여기서 ' 우리'는 구글을 의미하는 것이 아니라 업계 전체를 말하는 것입니다만, [목을 가다듬으며] 에이전트의 코딩 기능 개발입니다. | N | [영상](https://www.youtube.com/watch?v=V04bm-3d6EQ) · [script](../transcripts/channels/Google_DeepMind/When_millions_of_AI_agents_meet__V04bm-3d6EQ.md) |
+| 2026-07-10 | AX | 자사/일반 | - | 고양이 사진 몇 장, 강아지 사진 몇 장을 모아놓고 아주 간단한 알고리즘으로 어떤 게 고양이고 어떤 게 강아지인지 구분하도록 학습시키면 됩니다. | N | [영상](https://www.youtube.com/watch?v=1DtMiRKg-cs) · [script](../transcripts/channels/Google_DeepMind/Understanding_the_inner_thoughts_of_AI__1DtMiRKg-cs.md) |
+| 2026-07-10 | AX | 자사/일반 | - | 당신 팀이 훨씬 더 실용적인 해석 가능성 쪽으로 방향을 전환한 것은 당신이 해석 가능성 연구자들이 일반 인공지능( AGI) 개발에 어떻게 도움을 줄 수 있는지에 대한 논문을 발표했기 때문입니다. | N | [영상](https://www.youtube.com/watch?v=1DtMiRKg-cs) · [script](../transcripts/channels/Google_DeepMind/Understanding_the_inner_thoughts_of_AI__1DtMiRKg-cs.md) |
+
 ## Meta (6건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -412,16 +579,45 @@
 | 2026-07-02 | unclassified | 자사/일반 | - | And it's been really rewarding to see how much the army has adopted these recommendations over the last 6 months or &gt;&gt; very little to do with what Meta has to do with so [laughter] so it's a it's a it's a broad range of school of skill sets that we're trying to bring to bear on the problems. | Y | [영상](https://www.youtube.com/watch?v=bOTy3Q5_trw) · [script](../transcripts/channels/Meta/Boz_To_The_Future_#27_The_Future_According_to_Shyam_Sankar__bOTy3Q5_trw.md) |
 | 2026-07-02 | unclassified | 자사/일반 | - | Like, this is like this is these are real AI dollars going to real American people in a very like World War II kind of ask like intense build-out period. | N | [영상](https://www.youtube.com/watch?v=bOTy3Q5_trw) · [script](../transcripts/channels/Meta/Boz_To_The_Future_#27_The_Future_According_to_Shyam_Sankar__bOTy3Q5_trw.md) |
 
-## SK hynix (6건)
+## ElevenLabs (5건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
 |---|---|---|---|---|---|---|
-| 2026-06-23 | unclassified | 자사/일반 | - | 각각의 AI 칩을 서로 다른 환경에서 구현을 하다 보니 칩의 성능을 극대화하기 위해서는 칩과 잘 맞도록 따로 설계가 필요한데 그래서 요즘에는 베이스 다이에 고객의 요구 사항을 반영해서 만들고 그 위에 포다이를 만드는 커스텀 HBM 제품을 따로 개발하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=Jlf2r5VoJRk) · [script](../transcripts/channels/SK_hynix/반도체_기술의_물리적_한계를_돌파하는_핵심_동력_[PKG개발]_N잡러2_EP.2__Jlf2r5VoJRk.md) |
-| 2026-06-23 | unclassified | 자사/일반 | - | 이 이 저희가 알고리즘을 스택 공정 엔지니어 분들께서 섬세하게 짜 주셔서 적절한 힘을 조절하면서이 HBM을 잘 개발하고 있다고 볼 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=Jlf2r5VoJRk) · [script](../transcripts/channels/SK_hynix/반도체_기술의_물리적_한계를_돌파하는_핵심_동력_[PKG개발]_N잡러2_EP.2__Jlf2r5VoJRk.md) |
-| 2026-06-23 | unclassified | 자사/일반 | - | [웃음] &gt;&gt; 이제 AI 시대에 HBM과 패키징 개발은 어떤 식으로 또 발전이 되고 있는지 &gt;&gt; 패키지 개발의 중요성은 사실 날이 갈수록 점점 커지고 있는데요. | N | [영상](https://www.youtube.com/watch?v=Jlf2r5VoJRk) · [script](../transcripts/channels/SK_hynix/반도체_기술의_물리적_한계를_돌파하는_핵심_동력_[PKG개발]_N잡러2_EP.2__Jlf2r5VoJRk.md) |
-| 2026-07-03 | unclassified | 자사/일반 | - | 인공지능을 잘 활용하는 것과 음악을 통해 인공지능이 우리를 지배하지 못하도록 막는 것, 이 두 가지 모두에 대해 계속 생각해 왔습니다. | N | [영상](https://www.youtube.com/watch?v=fO2fypa8vak) · [script](../transcripts/channels/SK_hynix/Semiconductor_Humanities_EP.3_What_Makes_Humans_Irreplaceabl__fO2fypa8vak.md) |
-| 2026-07-15 | unclassified | 자사/일반 | - | 그러니까 20%밖에 안 쓰고 10배 이상의 [음악] 속도 향상을 가져온다는 거죠. | Y | [영상](https://www.youtube.com/watch?v=_fFVIgYzGB8) · [script](../transcripts/channels/SK_hynix/[미래인재_CLASS_제2강]_미래_반도체_‘PIM’,_떠오르는_이유는_바로_‘이것’___fFVIgYzGB8.md) |
-| 2026-07-16 | unclassified | 자사/일반 | - | Even for AI, you need CPUs and GPUs, which are all built from atoms. | N | [영상](https://www.youtube.com/watch?v=K3u07NaGiuk) · [script](../transcripts/channels/SK_hynix/[HY-Knowledge_EP.1]_Will_Quantum_Computers_Change_the_World___K3u07NaGiuk.md) |
+| 2026-07-02 | AX | 자사/일반 | - | GPT 이미지 2 또는 나노 바나나 프로를 사용하여 원하는 새로운 스타일이나 변경 사항을 적용하고, 해당 새 이미지를 원본 비디오와 함께 Aleph 2.0 내의 대상 이미지로 사용하세요 . | N | [영상](https://www.youtube.com/watch?v=Y7vmIshLgXs) · [script](../transcripts/channels/ElevenLabs/Swap_Any_Object_in_Video_with_AI_(Aleph_2.0_+_GPT_Image_2)__Y7vmIshLgXs.md) |
+| 2026-07-09 | AX | 자사/일반 | - | 하지만 시간을 들여 ChatGPT나 Claude 같은 LLM 도구를 활용해 프롬프트를 직접 작성하면 정말 멋진 결과물을 얻을 수 있고, 다양한 스타일을 연출할 수도 있습니다 . | N | [영상](https://www.youtube.com/watch?v=6G5-tz6yiYs) · [script](../transcripts/channels/ElevenLabs/8_Insane_Ways_to_Use_Gemini_Omni_Flash__6G5-tz6yiYs.md) |
+| 2026-07-17 | AX | 자사/일반 | - | But, when you're creating bigger projects like this, and you want consistency throughout the entire thing, well, you can save a lot of time by actually asking the Flows Agent to help you build it. | N | [영상](https://www.youtube.com/watch?v=lzcjK4jyAv8) · [script](../transcripts/channels/ElevenLabs/Put_Yourself_in_a_Football_Match_with_AI_(Full_Workflow)__lzcjK4jyAv8.md) |
+| 2026-07-17 | AX | 자사/일반 | - | And if I zoom out a little bit, the Flows agent should then start building out the nodes it needs for [music] these scenes. | N | [영상](https://www.youtube.com/watch?v=lzcjK4jyAv8) · [script](../transcripts/channels/ElevenLabs/Put_Yourself_in_a_Football_Match_with_AI_(Full_Workflow)__lzcjK4jyAv8.md) |
+| 2026-07-17 | AX | 자사/일반 | - | And so as we can see, the agent has built out the first step of our flow. | N | [영상](https://www.youtube.com/watch?v=lzcjK4jyAv8) · [script](../transcripts/channels/ElevenLabs/Put_Yourself_in_a_Football_Match_with_AI_(Full_Workflow)__lzcjK4jyAv8.md) |
+
+## Nokia (5건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07-15 | unclassified | 자사/일반 | - | So, what Gaia does, Gaia is the first AI driven and purpose-built platform [music] for ISPs. | N | [영상](https://www.youtube.com/watch?v=keg-Q6UmX9M) · [script](../transcripts/channels/Nokia/OSSBSS_Connected_Partner_Video_-_Gaiia__keg-Q6UmX9M.md) |
+| 2026-07-15 | unclassified | 자사/일반 | - | I think that everyone's talking about AI, but it's really important to look for organizations, partners that are actually implementing AI and that are AI-ready. | N | [영상](https://www.youtube.com/watch?v=GYxJFEgS1KQ) · [script](../transcripts/channels/Nokia/OSSBSS_Connected_partner_video-Innovative_Systems__GYxJFEgS1KQ.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | At Nokia, we are building AI RAN to deliver the performance of AI without the price of AI. | N | [영상](https://www.youtube.com/watch?v=t3p-eLS78Vg) · [script](../transcripts/channels/Nokia/Nokia_defines_the_next_era_of_radio_with_the_industry's_firs__t3p-eLS78Vg.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | And our AI RAN is ready for integrated sensing and physical AI. | N | [영상](https://www.youtube.com/watch?v=t3p-eLS78Vg) · [script](../transcripts/channels/Nokia/Nokia_defines_the_next_era_of_radio_with_the_industry's_firs__t3p-eLS78Vg.md) |
+| 2026-07-16 | unclassified | 자사/일반 | - | Ultimately, the capabilities we build will enable the activation of AI-native RAN with software. | N | [영상](https://www.youtube.com/watch?v=t3p-eLS78Vg) · [script](../transcripts/channels/Nokia/Nokia_defines_the_next_era_of_radio_with_the_industry's_firs__t3p-eLS78Vg.md) |
+
+## Schneider Electric (5건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07-11 | unclassified | 자사/일반 | - | 오칸은 구리 사용량을 30% 절감하고 기타 최적화된 재료 사용을 통해 이산화탄소 배출량을 최대 30%까지 줄입니다. | Y | [영상](https://www.youtube.com/watch?v=DDP383ZNV3k) · [script](../transcripts/channels/Schneider_Electric/Okken_Lean_Partner_Story_Powering_the_Future_Together_with_C__DDP383ZNV3k.md) |
+| 2026-07-13 | unclassified | 자사/일반 | - | 그리고 이 규칙은 2024년 초에 700미터로 변경되었는데, 이로 인해 훨씬 ​​더 많은 지역이 풍력 발전 개발 자격을 갖추게 되었습니다. | Y | [영상](https://www.youtube.com/watch?v=DLosOzD2WQU) · [script](../transcripts/channels/Schneider_Electric/Hungary’s_Energy_Transition_Growth,_Policy,_and_Market_Oppor__DLosOzD2WQU.md) |
+| 2026-07-15 | unclassified | 자사/일반 | - | 더 많은 도구나 더 복잡한 시스템이 아니라, 인공지능을 핵심으로 하는 하나의 통합 플랫폼입니다 . | N | [영상](https://www.youtube.com/watch?v=q_lFt5urGIQ) · [script](../transcripts/channels/Schneider_Electric/Why_EcoStruxure_Foresight_is_the_Future_of_Facilities_Manage__q_lFt5urGIQ.md) |
+| 2026-07-15 | unclassified | 자사/일반 | - | AI 기반의 개방형 확장 플랫폼으로, 전력, 에너지 및 건물 시스템을 기본적으로 통합하도록 설계되었습니다. | N | [영상](https://www.youtube.com/watch?v=q_lFt5urGIQ) · [script](../transcripts/channels/Schneider_Electric/Why_EcoStruxure_Foresight_is_the_Future_of_Facilities_Manage__q_lFt5urGIQ.md) |
+| 2026-07-15 | unclassified | 자사/일반 | - | 하나의 시스템, 하나의 신뢰할 수 있는 데이터 소스, AI 기반 인사이트를 통해 지속적으로 개선되어 소유자에게 성능과 명확성을 제공합니다. | N | [영상](https://www.youtube.com/watch?v=q_lFt5urGIQ) · [script](../transcripts/channels/Schneider_Electric/Why_EcoStruxure_Foresight_is_the_Future_of_Facilities_Manage__q_lFt5urGIQ.md) |
+
+## Swisscom (5건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-03-11 | unclassified | 자사/일반 | - | 자, 이제 인공지능을 활용한 음악 작업이 과제입니다. | N | [영상](https://www.youtube.com/watch?v=SoFnOITn7c8) · [script](../transcripts/channels/Swisscom/KI_im_Alltag_von_Kinder_und_Jugendlichen__SoFnOITn7c8.md) |
+| 2026-03-11 | unclassified | 자사/일반 | - | 인공지능을 위한 통일된 법적 체계 자동차 출시는 영화나 게임처럼요. | N | [영상](https://www.youtube.com/watch?v=SoFnOITn7c8) · [script](../transcripts/channels/Swisscom/KI_im_Alltag_von_Kinder_und_Jugendlichen__SoFnOITn7c8.md) |
+| 2026-03-31 | AX | 자사/일반 | - | 저는 끊임없이 인공지능을 개발하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=zNFVjqSv5rU) · [script](../transcripts/channels/Swisscom/Kids_&_KI_-_Chancen_und_Risiken_Online-Elternabend__zNFVjqSv5rU.md) |
+| 2026-03-31 | AX | 자사/일반 | - | 주로 K와 이야기하기 전에 챗봇 또는 부가가치세 및 GPT를 출시하는 곳 사실 세상이 통제하고 있지만, 사실 K는 이미 매우 랑구스라서 예를 들어, 저는 K명의 십대 자녀를 두고 있는데, 그들은 소셜 미디어를 사용합니다. | N | [영상](https://www.youtube.com/watch?v=zNFVjqSv5rU) · [script](../transcripts/channels/Swisscom/Kids_&_KI_-_Chancen_und_Risiken_Online-Elternabend__zNFVjqSv5rU.md) |
+| 2026-03-31 | AX | 자사/일반 | - | 우리는 항상 가르침을 받았고 간단히 말해, 챗봇은 성능을 향상시키기 위해 사용됩니다. | N | [영상](https://www.youtube.com/watch?v=zNFVjqSv5rU) · [script](../transcripts/channels/Swisscom/Kids_&_KI_-_Chancen_und_Risiken_Online-Elternabend__zNFVjqSv5rU.md) |
 
 ## Mayo Clinic (4건)
 
@@ -432,14 +628,14 @@
 | 2026-07-15 | unclassified | 자사/일반 | - | 귀 연구실에서도 이러한 과정을 가속화하기 위해 AI 시스템을 활용하고 있습니다 . | N | [영상](https://www.youtube.com/watch?v=0WC6fBSDauk) · [script](../transcripts/channels/Mayo_Clinic/Could_milk-derived_nanoparticles_change_bile_duct_cancer_car__0WC6fBSDauk.md) |
 | 2026-07-16 | unclassified | 자사/일반 | - | 호기심을 전문성으로 전환한 수천 명의 임상의들과 함께하세요. | Y | [영상](https://www.youtube.com/watch?v=39SBhX_NU3E) · [script](../transcripts/channels/Mayo_Clinic/Pulsed_Field_Ablation_for_Atrial_Fibrillation_with_Left_Atri__39SBhX_NU3E.md) |
 
-## Pinecone (4건)
+## kakao tech (4건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
 |---|---|---|---|---|---|---|
-| 2026-02-18 | AX | 자사/일반 | - | 저희는 2만 명에서 3 만 명 이상의 직원을 보유한 대기업들이 AI, 특히 AI 에이전트와 AI 자동화를 도입하도록 돕고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=Gcaygufjt6M) · [script](../transcripts/channels/Pinecone/Build_RAG_Workflows_in_Minutes_with_Pinecone_+_n8n__Gcaygufjt6M.md) |
-| 2026-02-18 | AX | 자사/일반 | - | 그리고 2023년에 제가 음성 AI 에이전트 회사를 시작했을 때, NA10을 발견하고 음성 에이전트의 전체 오케스트레이션 레이어를 NA10을 사용하여 심도 있게 구축하기 시작했습니다. | Y | [영상](https://www.youtube.com/watch?v=Gcaygufjt6M) · [script](../transcripts/channels/Pinecone/Build_RAG_Workflows_in_Minutes_with_Pinecone_+_n8n__Gcaygufjt6M.md) |
-| 2026-02-18 | AX | 자사/일반 | - | 그러니까, 3월 31일 이전에 이 새로운 노드를 사용해서 구축을 시작하시면, 표준 플랜 으로 업그레이드할 때 할인을 받으실 수 있습니다 . | Y | [영상](https://www.youtube.com/watch?v=Gcaygufjt6M) · [script](../transcripts/channels/Pinecone/Build_RAG_Workflows_in_Minutes_with_Pinecone_+_n8n__Gcaygufjt6M.md) |
-| 2026-07-01 | unclassified | 자사/일반 | - | [음악] 그러니까, 문서 간 지식 통합은 에이전트가 필요한 정보를 쉽게 찾을 수 있도록 하는 가장 좋은 방법 중 하나입니다. | N | [영상](https://www.youtube.com/watch?v=yT9PwyLsSxk) · [script](../transcripts/channels/Pinecone/Getting_Started_with_the_Nexus_Public_Preview__yT9PwyLsSxk.md) |
+| 2026-06-17 | unclassified | 자사/일반 | - | 22년 출시를 목표하고 있고 출시 이후 지원 서비스도 확장할 계획입니다. | Y | [영상](https://www.youtube.com/watch?v=7EZriCravk0) · [script](../transcripts/channels/kakao_tech/[ifkakao2021]_비즈니스를_더욱_쉽게_카카오비즈니스_플랫ᄑ__7EZriCravk0.md) |
+| 2026-06-17 | unclassified | 협력/고객사 언급 | 카카오 | 카카오 지갑은 2020년 12월에 출시된 서비스입니다. | Y | [영상](https://www.youtube.com/watch?v=XHVFS4mYKyg) · [script](../transcripts/channels/kakao_tech/[ifkakao2021]_카카오지갑_지갑서비스의_현황과_미래__XHVFS4mYKyg.md) |
+| 2026-06-17 | unclassified | 자사/일반 | - | 난저블닷컴의 데이터에 따르면 디지털 아트 컬렉터블스 등의 시장은 2020년 약 3,억 원 규모에서 2021년 2분기 기준으로 약 1.5조원 규모로 2021년 반기만에 이미 전년 대비 420% 증가하는 놀라운 성장을 나타내고 있는 상황입니다. | Y | [영상](https://www.youtube.com/watch?v=ygYCxyAh8d4) · [script](../transcripts/channels/kakao_tech/[ifkakao2021]_한정판_디지털_아트_플랫폼_Klip_Drops__ygYCxyAh8d4.md) |
+| 2026-06-17 | unclassified | 자사/일반 | - | 폐기되는 백신을 보다 잘 활용할 수 없을까 하고 정부 부처와 협업한 결과 7시간 자녀 백신 예약 서비스를 만들 수 있었습니다. | Y | [영상](https://www.youtube.com/watch?v=XHVFS4mYKyg) · [script](../transcripts/channels/kakao_tech/[ifkakao2021]_카카오지갑_지갑서비스의_현황과_미래__XHVFS4mYKyg.md) |
 
 ## 조코딩AX파트너스-랩스 and 조코딩AX파트너스 (3건)
 
@@ -681,6 +877,14 @@
 | 2026-07 | AX | 자사/일반 | - | It's you the AI transformation workshop. | N | [영상](https://www.youtube.com/watch?v=OcTMwjqje5Q) · [script](../transcripts/2026-07-21/The_Complete_AI_Transformation_Blueprint_-_Live_Workshop__OcTMwjqje5Q.md) |
 | 2026-07 | AX | 자사/일반 | - | So, what does it look like to build with AI? | N | [영상](https://www.youtube.com/watch?v=OcTMwjqje5Q) · [script](../transcripts/2026-07-21/The_Complete_AI_Transformation_Blueprint_-_Live_Workshop__OcTMwjqje5Q.md) |
 
+## Nasdaq (3건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | AX | 자사/일반 | - | 오늘 우리는 기업의 AI 도입에 있어 어떤 격차가 존재하는지, 그리고 기업들이 2026년에 AI를 어떻게 활용할 것인지에 대해 논의하기 위해 이 자리에 모였습니다. | Y | [영상](https://www.youtube.com/watch?v=cE4ppGayicY) · [script](../transcripts/2026-07-21/Where_the_Gaps_Exist_With_Enterprise_AI_Adoption__cE4ppGayicY.md) |
+| 2026-07 | AX | 자사/일반 | - | 제 생각에는 , 아시다시피, 최근 MIT 보고서에 따르면 모델 중 5%만이 실제 제품에 적용된다고 합니다. | Y | [영상](https://www.youtube.com/watch?v=cE4ppGayicY) · [script](../transcripts/2026-07-21/Where_the_Gaps_Exist_With_Enterprise_AI_Adoption__cE4ppGayicY.md) |
+| 2026-07 | AX | 자사/일반 | - | 지난 3 ~4년간 제가 목격한 기업 실패 사례 중 하나를 꼽자면, 핵심성과지표( KPI)가 무엇인지, 무엇이 효과가 있고 무엇이 효과가 없는지 어떻게 평가할지에 대한 명확한 계획 없이 무언가를 구축하기 시작한다는 점입니다. | Y | [영상](https://www.youtube.com/watch?v=cE4ppGayicY) · [script](../transcripts/2026-07-21/Where_the_Gaps_Exist_With_Enterprise_AI_Adoption__cE4ppGayicY.md) |
+
 ## 빅데이터닥터 BIGDATA DOCTOR (3건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -705,6 +909,14 @@
 | 2026-07-14 | AX | 자사/일반 | - | Agent Core is a collection of components for building, deploying, and operating AI agents in production. | N | [영상](https://www.youtube.com/watch?v=S_ZRZFDJ6wE) · [script](../transcripts/channels/AWS_Developers/Deploying_Agents_to_the_Cloud__S_ZRZFDJ6wE.md) |
 | 2026-07-14 | AX | 자사/일반 | - | Let's deploy the same customer service agent we've been building throughout the course. | N | [영상](https://www.youtube.com/watch?v=S_ZRZFDJ6wE) · [script](../transcripts/channels/AWS_Developers/Deploying_Agents_to_the_Cloud__S_ZRZFDJ6wE.md) |
 
+## LinkedIn (3건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-01-15 | AX | 자사/일반 | - | LinkedIn에는 [음악] 데이터 센터 구축, 모델 학습 및 조직의 신기술 도입 지원 등 새로운 AI 기능과 관련된 130만 개의 일자리가 있습니다 . | Y | [영상](https://www.youtube.com/watch?v=qulCIGxnTUs) · [script](../transcripts/channels/LinkedIn/2026_Labor_Market_Report_Building_a_Future_of_Work_That_Work__qulCIGxnTUs.md) |
+| 2026-01-15 | AX | 자사/일반 | - | 전반적인 채용은 2021년에서 2022년경 최고치를 기록한 이후 둔화되었으며, 전 세계 음악 업계에서 채용 규모가 지속적으로 감소하는 추세를 보이고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=qulCIGxnTUs) · [script](../transcripts/channels/LinkedIn/2026_Labor_Market_Report_Building_a_Future_of_Work_That_Work__qulCIGxnTUs.md) |
+| 2026-01-15 | AX | 자사/일반 | - | 저희는 지난 10년(2015년~2025년) 동안 전 세계에 본사를 둔 기업들이 인도에서 얼마나 많은 인력을 채용하는지 분석해 왔으며, 그 비율은 전 세계적으로 약 2~3%에서 6~8%로 증가했습니다 . | Y | [영상](https://www.youtube.com/watch?v=qulCIGxnTUs) · [script](../transcripts/channels/LinkedIn/2026_Labor_Market_Report_Building_a_Future_of_Work_That_Work__qulCIGxnTUs.md) |
+
 ## Microsoft Azure (3건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -713,14 +925,6 @@
 | 2026-07-20 | unclassified | 협력/고객사 언급 | AMD | [음악] 하나는 AMD에서 출시한 새로운 AI 가속기 또는 GPU이고 , 다른 하나는 특정 작업에 최적화된 AMD 제작 CPU를 제공하는 Azure의 새로운 VM 유형 시리즈입니다 . | N | [영상](https://www.youtube.com/watch?v=CWEwR9OXzGA) · [script](../transcripts/channels/Microsoft_Azure/Microsoft_expands_Azure_AI_and_HPC_infrastructure_with_AMD__CWEwR9OXzGA.md) |
 | 2026-07-20 | unclassified | 자사/일반 | - | 관리자는 어플라이언스를 배포하고 등록한 다음, 어플라이언스가 온라인 상태가 되었음을 에이전트에 알립니다 . | N | [영상](https://www.youtube.com/watch?v=KjQJTNq4a7c) · [script](../transcripts/channels/Microsoft_Azure/Storage_migrations_simplified_with_the_Azure_Copilot_migrati__KjQJTNq4a7c.md) |
 
-## NTT DATA (3건)
-
-| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
-|---|---|---|---|---|---|---|
-| 2024-10-11 | unclassified | 자사/일반 | - | NTT 데이터는 1988 년 총 이후 35 기간 연속으로 증가를 계속합니다. | Y | [영상](https://www.youtube.com/watch?v=yZF7OC3Imio) · [script](../transcripts/channels/NTT_DATA/NTT_DATA_MOVIE_～会社紹介編～__yZF7OC3Imio.md) |
-| 2024-10-11 | unclassified | 자사/일반 | - | NTT 데이터를 통해 사업 확장을 위해 2023년 7월부터 지주회사 체제로 마이그레이션 국내 사업 회사의 NTT 데이터 해외 사업 회사의 NTT 데이터 잉크는 각각 지역권을 보유한 주식회사인 NTT 데이터 그룹은 글로벌 전략을 수립하고 글로벌 시너지 창출 글로벌 거버넌스 강화에 주력 또한 경쟁력을 엄선한 기술의 연구 개발 전략투자 국내 해외에서 활용가능 오퍼링의 전개 지시 등의 기능을 집계 1NTT 데이터로서의 통합력을 발휘해 경쟁력 우위 확보 여기에서 중기 경영 계획에 대해 NTT 데이터로 글로벌 성장 3 단계에서 진행되고 있으며 현재는 최종 무대의 위치입니다. | Y | [영상](https://www.youtube.com/watch?v=yZF7OC3Imio) · [script](../transcripts/channels/NTT_DATA/NTT_DATA_MOVIE_～会社紹介編～__yZF7OC3Imio.md) |
-| 2024-10-11 | unclassified | 자사/일반 | - | 2022년부터 2025년까지 중기 경영 계획 슬로건 리어 라이징은 지속 가능한 미래와 말하는 것 미래를 향한 가치를 만드는 다양한 사람들 기술로 묶어 고객과 함께 지속 가능한 사회를 실현하는 기본 정책도 해외사업의 질과 함께 성장고객 기반 확대 일하러 가자. | Y | [영상](https://www.youtube.com/watch?v=yZF7OC3Imio) · [script](../transcripts/channels/NTT_DATA/NTT_DATA_MOVIE_～会社紹介編～__yZF7OC3Imio.md) |
-
 ## SK텔레콤 (3건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -728,14 +932,6 @@
 | 2026-06-12 | unclassified | 자사/일반 | - | 특히 통신 3사의 AI 데이터를 바탕으로 긴급 차단 번호를 확대해 약 65,000개의 회선을 차단했습니다. | Y | [영상](https://www.youtube.com/watch?v=gp_2-GLDsq8) · [script](../transcripts/channels/SK텔레콤/완도_용암마을에_나타난_피싱_보안관의_정체는🕵️‍♂️__gp_2-GLDsq8.md) |
 | 2026-06-12 | unclassified | 자사/일반 | - | 지난해 10월 통합 대영단 출범 이후 6개월간 범죄 발생권수가 약 31% 감소했습니다. | Y | [영상](https://www.youtube.com/watch?v=gp_2-GLDsq8) · [script](../transcripts/channels/SK텔레콤/완도_용암마을에_나타난_피싱_보안관의_정체는🕵️‍♂️__gp_2-GLDsq8.md) |
 | 2026-06-12 | unclassified | 자사/일반 | - | [음악] SK텔레콤은 스미식 문자를 사전에 막기 위해 AI 기술을 적극 활용하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=gp_2-GLDsq8) · [script](../transcripts/channels/SK텔레콤/완도_용암마을에_나타난_피싱_보안관의_정체는🕵️‍♂️__gp_2-GLDsq8.md) |
-
-## Schneider Electric (3건)
-
-| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
-|---|---|---|---|---|---|---|
-| 2026-07-15 | unclassified | 자사/일반 | - | 더 많은 도구나 더 복잡한 시스템이 아니라, 인공지능을 핵심으로 하는 하나의 통합 플랫폼입니다 . | N | [영상](https://www.youtube.com/watch?v=q_lFt5urGIQ) · [script](../transcripts/channels/Schneider_Electric/Why_EcoStruxure_Foresight_is_the_Future_of_Facilities_Manage__q_lFt5urGIQ.md) |
-| 2026-07-15 | unclassified | 자사/일반 | - | AI 기반의 개방형 확장 플랫폼으로, 전력, 에너지 및 건물 시스템을 기본적으로 통합하도록 설계되었습니다. | N | [영상](https://www.youtube.com/watch?v=q_lFt5urGIQ) · [script](../transcripts/channels/Schneider_Electric/Why_EcoStruxure_Foresight_is_the_Future_of_Facilities_Manage__q_lFt5urGIQ.md) |
-| 2026-07-15 | unclassified | 자사/일반 | - | 하나의 시스템, 하나의 신뢰할 수 있는 데이터 소스, AI 기반 인사이트를 통해 지속적으로 개선되어 소유자에게 성능과 명확성을 제공합니다. | N | [영상](https://www.youtube.com/watch?v=q_lFt5urGIQ) · [script](../transcripts/channels/Schneider_Electric/Why_EcoStruxure_Foresight_is_the_Future_of_Facilities_Manage__q_lFt5urGIQ.md) |
 
 ## Zapier (3건)
 
@@ -800,6 +996,12 @@
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
 |---|---|---|---|---|---|---|
 | 2026-07 | AX | 자사/일반 | - | 우리는 사용자 경험의 시대에서 에이전트 기반 경험의 시대로 전환하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=VC6nM0t-bUw) · [script](../transcripts/2026-07-21/From_UX_to_AX_Why_Agent_Experience_is_the_Next_Frontier_in_B__VC6nM0t-bUw.md) |
+
+## SK AX (1건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | AX | 자사/일반 | - | [음악] 모두가 AI 혁신에 대해 이야기 하지만, 진정한 경쟁력을 구축하는 것은 결코 쉬운 일이 아닙니다. | N | [영상](https://www.youtube.com/watch?v=IIUd_CB4azI) · [script](../transcripts/2026-07-21/SK_AX,_a_new_partner_for_AX_innovation_in_the_era_of_AI_tran__IIUd_CB4azI.md) |
 
 ## 삼성SDS (1건)
 
