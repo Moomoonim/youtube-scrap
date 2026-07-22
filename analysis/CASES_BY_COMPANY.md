@@ -390,6 +390,36 @@
 | 2026-07-08 | AX | 자사/일반 | - | 그리고 올해 초, ChatGPT를 개발한 OpenAI는 웹 브라우징을 대신해주는 AI가 있다면 이러한 유형의 공격은 완전히 막을 수 없을지도 모른다고 공개적으로 인정했습니다. | N | [영상](https://www.youtube.com/watch?v=O0XheeCS3CI) · [script](../transcripts/channels/Accenture/Why_prompt_injection_is_the_#1_AI_security_risk_TQ_Tech_Talk__O0XheeCS3CI.md) |
 | 2026-07-08 | AX | 자사/일반 | - | 그렇다면 이러한 인공지능을 개발하는 사람들이 문제를 해결하겠다고 약속하지 않는다면, 우리는 무엇을 할 수 있을까요? | N | [영상](https://www.youtube.com/watch?v=O0XheeCS3CI) · [script](../transcripts/channels/Accenture/Why_prompt_injection_is_the_#1_AI_security_risk_TQ_Tech_Talk__O0XheeCS3CI.md) |
 
+## Qdrant (25건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-06-24 | AX | 자사/일반 | - | 그래서 이제 기가바이트 나 페타바이트 규모의 데이터로 학습시켜야 했던 것을, 단 몇백 개, 많아야 1,000개, 또는 1,000개 조금 넘는 샘플로 학습시킬 수 있게 되었습니다. | Y | [영상](https://www.youtube.com/watch?v=lfW9CjAh7a0) · [script](../transcripts/channels/Qdrant/AWS_Tell_the_Robot_What_You_Want_Sandhya_Subramani__lfW9CjAh7a0.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 날짜, 출처, 권한 수준을 기준으로 필터를 적용하여 3년 된 문서가 중복된 문서나 올해의 적합한 문서를 가리지 않도록 합니다. | Y | [영상](https://www.youtube.com/watch?v=mhhMjHq2yN8) · [script](../transcripts/channels/Qdrant/Arize_Stop_Vibe_Shipping_Evaluate_Your_Retrieval_Laurie_Voss__mhhMjHq2yN8.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 이 모든 것이 AI 메모리 공간에서 하나로 통합되고 있습니다. | N | [영상](https://www.youtube.com/watch?v=UKw6PUgsUTQ) · [script](../transcripts/channels/Qdrant/Cognee_The_Long_and_the_Short_of_AI_Memory_Dave_Nielsen__UKw6PUgsUTQ.md) |
+| 2026-06-24 | AX | 자사/일반 | - | Light Parse를 사용하면 기존 OCR 및 차세대 요인 분석 방식의 장점을 결합하고 최신 머신러닝 기술을 통해 이를 개선할 수 있습니다 . | N | [영상](https://www.youtube.com/watch?v=eO7l6j55PxE) · [script](../transcripts/channels/Qdrant/LlamaIndex_The_Document_Harness_What_Your_AI_Misses_in_the_9__eO7l6j55PxE.md) |
+| 2026-06-24 | unclassified | 자사/일반 | - | 그리고 그건 440배 더 빠른 속도입니다. | Y | [영상](https://www.youtube.com/watch?v=RRhbORtWeMI) · [script](../transcripts/channels/Qdrant/Qdrant_The_World_is_Becoming_More_Searchable_Dylan_Couzon__RRhbORtWeMI.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 안녕하세요, 기기 내 생성형 AI를 개발하면서 발견한 실용적이고 흥미로운 패턴들에 대해 이야기하게 되어 매우 기쁩니다. | N | [영상](https://www.youtube.com/watch?v=FlAmmVSYbZY) · [script](../transcripts/channels/Qdrant/Qualcomm_Practical_Patterns_for_On-Device_GenAI_Alan_Zhu__FlAmmVSYbZY.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 네, 1.5는 저희가 약 2개월 전에 출시한 페가수스의 최신 버전입니다. | Y | [영상](https://www.youtube.com/watch?v=i8xZeKP6t6k) · [script](../transcripts/channels/Qdrant/Twelve_Labs_Beyond_the_Single_API_Call_with_Agentic_Video_In__i8xZeKP6t6k.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 이 시스템은 8천만 개 이상의 인스턴스에 배포되며, 전 세계 인구의 90%에게 2~40밀리초 이내에 서비스를 제공할 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=6t9EC8bSJ64) · [script](../transcripts/channels/Qdrant/Vultr_Building_Distributed,_Enterprise-ready_Agentic_AI_Gabr__6t9EC8bSJ64.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 그렇다면 이것이 어떻게 작동하냐면, 스탠스 에이전트는 AWS가 구축한 오픈 소스 에이전트 프레임워크입니다. | N | [영상](https://www.youtube.com/watch?v=lfW9CjAh7a0) · [script](../transcripts/channels/Qdrant/AWS_Tell_the_Robot_What_You_Want_Sandhya_Subramani__lfW9CjAh7a0.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 저는 관련성을 대규모로 판별하는 기준으로 LLM(법학 석사)을 활용하는 쪽에 상당히 집중하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=mhhMjHq2yN8) · [script](../transcripts/channels/Qdrant/Arize_Stop_Vibe_Shipping_Evaluate_Your_Retrieval_Laurie_Voss__mhhMjHq2yN8.md) |
+| 2026-06-24 | AX | 협력/고객사 언급 | 애플 | 제가 간단히 말씀드리고 싶었던 것은 사람이 애플리케이션과 상호작용하는 방식에서 에이전트로의 전환입니다. | N | [영상](https://www.youtube.com/watch?v=UKw6PUgsUTQ) · [script](../transcripts/channels/Qdrant/Cognee_The_Long_and_the_Short_of_AI_Memory_Dave_Nielsen__UKw6PUgsUTQ.md) |
+| 2026-06-24 | AX | 협력/고객사 언급 | 퀄컴 | 이번 발표에서는 NPU 기반 온디바이스 생성형 AI 구축이 어떻게 더 많은 흥미로운 새로운 활용 사례를 열어줄 수 있는지에 대한 멋진 데모를 보여드리고, 퀄컴 AI 허브에 대해서도 자세히 소개하겠습니다. | N | [영상](https://www.youtube.com/watch?v=FlAmmVSYbZY) · [script](../transcripts/channels/Qdrant/Qualcomm_Practical_Patterns_for_On-Device_GenAI_Alan_Zhu__FlAmmVSYbZY.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 이제 동일한 기반 위에 콘텐츠 검색, 추천, 콘텐츠 검토, 이상 탐지, 스팟 분석, 미디어 자산 관리 및 에이전트 기반 워크플로를 구축할 수 있습니다 . | N | [영상](https://www.youtube.com/watch?v=i8xZeKP6t6k) · [script](../transcripts/channels/Qdrant/Twelve_Labs_Beyond_the_Single_API_Call_with_Agentic_Video_In__i8xZeKP6t6k.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 이건 실제 상황을 다루는 내용으로, 기업용 AI 워크로드를 배포할 때 볼 수 있는 것들과 성공적인 배포 방법, 그리고 문제가 발생하기 시작할 때 실제로 어떤 일이 일어나는지에 대해 이야기합니다 . | N | [영상](https://www.youtube.com/watch?v=6t9EC8bSJ64) · [script](../transcripts/channels/Qdrant/Vultr_Building_Distributed,_Enterprise-ready_Agentic_AI_Gabr__6t9EC8bSJ64.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 그러면 제 에이전트는 해당 특정 VLA를 도구로 활용할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=lfW9CjAh7a0) · [script](../transcripts/channels/Qdrant/AWS_Tell_the_Robot_What_You_Want_Sandhya_Subramani__lfW9CjAh7a0.md) |
+| 2026-06-24 | AX | 협력/고객사 언급 | 애플 | 그러한 정보는 여러분의 보조 조종사나 커서 코드 등에 다시 입력될 수 있으며, LLM의 피드백을 심사위원으로 활용하여 애플리케이션을 수정할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=mhhMjHq2yN8) · [script](../transcripts/channels/Qdrant/Arize_Stop_Vibe_Shipping_Evaluate_Your_Retrieval_Laurie_Voss__mhhMjHq2yN8.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 그래서 저희는 Cogni를 백엔드로 사용하는 LLM 위키 프로젝트라는 오픈 소스 프로젝트를 개발했습니다 . | N | [영상](https://www.youtube.com/watch?v=UKw6PUgsUTQ) · [script](../transcripts/channels/Qdrant/Cognee_The_Long_and_the_Short_of_AI_Memory_Dave_Nielsen__UKw6PUgsUTQ.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 그리고 MPU가 다양한 기기에서 훨씬 더 많은 온디바이스 생성형 AI 활용 사례를 가능하게 하는 이유를 보여드리겠습니다. | N | [영상](https://www.youtube.com/watch?v=FlAmmVSYbZY) · [script](../transcripts/channels/Qdrant/Qualcomm_Practical_Patterns_for_On-Device_GenAI_Alan_Zhu__FlAmmVSYbZY.md) |
+| 2026-06-24 | AX | 자사/일반 | - | 아시다시피, 에이전트 루프에서 발생하는 모든 종류의 데이터 검색 단계는 지연 시간 증가로 이어집니다. | N | [영상](https://www.youtube.com/watch?v=6t9EC8bSJ64) · [script](../transcripts/channels/Qdrant/Vultr_Building_Distributed,_Enterprise-ready_Agentic_AI_Gabr__6t9EC8bSJ64.md) |
+| 2026-06-26 | AX | 자사/일반 | - | 그들은 인공지능 개발 기준으로 2015년에 머물러 있는 것 같아요. | Y | [영상](https://www.youtube.com/watch?v=EEXUuI6ZSu8) · [script](../transcripts/channels/Qdrant/Vector_Space_Meetup_2026_Highlights__EEXUuI6ZSu8.md) |
+| 2026-06-26 | AX | 자사/일반 | - | 저는 2023년부터 AI 에이전트를 사용하고 개발해 왔습니다. | Y | [영상](https://www.youtube.com/watch?v=EEXUuI6ZSu8) · [script](../transcripts/channels/Qdrant/Vector_Space_Meetup_2026_Highlights__EEXUuI6ZSu8.md) |
+| 2026-06-26 | AX | 자사/일반 | - | 그리고 마지막으로, 모든 질문과 질문 방법을 정리했으니 이제 2026년에 구축하고 있는 쿼드런트 로드맵을 좀 살펴볼 수 있겠습니다. | Y | [영상](https://www.youtube.com/watch?v=EEXUuI6ZSu8) · [script](../transcripts/channels/Qdrant/Vector_Space_Meetup_2026_Highlights__EEXUuI6ZSu8.md) |
+| 2026-07-09 | AX | 자사/일반 | - | 음, 그럼 이제 약 35분 동안 자체 검색 결과를 평가하고 그에 따라 전략을 조정하는 에이전트를 구축해 보겠습니다. | Y | [영상](https://www.youtube.com/watch?v=VZ2p3dLsFOs) · [script](../transcripts/channels/Qdrant/Building_Retrieval_Agents_that_Evaluate_and_Adapt__VZ2p3dLsFOs.md) |
+| 2026-07-09 | AX | 자사/일반 | - | 음, 기본적으로 이 통계적 공식을 사용하면 검색 오류 의 78%를 잡아내면서 쿼리 의 50%만 증가시키는 방법을 찾을 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=VZ2p3dLsFOs) · [script](../transcripts/channels/Qdrant/Building_Retrieval_Agents_that_Evaluate_and_Adapt__VZ2p3dLsFOs.md) |
+| 2026-07-09 | AX | 자사/일반 | - | 이번 웨비나에서는 쿼리 도중 상황을 평가하고, 적응하고, 개선하는 검색 에이전트 구축에 대해 알아보겠습니다 . | N | [영상](https://www.youtube.com/watch?v=VZ2p3dLsFOs) · [script](../transcripts/channels/Qdrant/Building_Retrieval_Agents_that_Evaluate_and_Adapt__VZ2p3dLsFOs.md) |
+
 ## Zapier (24건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -471,32 +501,6 @@
 | 2026-06-17 | AX | 자사/일반 | - | 안녕하세요, 저는 Ken입니다 안녕하세요, 저는 Jerome입니다 오늘은 Xcode 27에서 에이전틱 코딩이 어떤 모습인지 보여드리고자 합니다 수십 년 동안 소프트웨어 개발은 컴퓨터에게 무엇을 해야 하는지 알려주어야 했습니다 하나하나 말이죠 하지만 이를 돕기 위한 도구들이 등장했죠 자동 완성이나 예측 코드 완성 그리고 최근에는 단일 파일을 편집할 수 있는 LLM까지요 이들 각각은 컴퓨터가 할 수 있는 일을 바꿔놓았습니다 하지만 지금 일어나고 있는 에이전틱 코딩의 변화는 훨씬 더 큰 전환입니다 단 하나의 프롬프트만으로도 Xcode 27은 전체 코드베이스를 대상으로 계획을 세우고 여러 파일에 변경 사항을 적용합니다 Previews와 Playgrounds 및 기기 연동 등 다양한 도구를 활용해 아이디어를 현실로 … | N | [영상](https://www.youtube.com/watch?v=Wpwjqk1UGnQ) · [script](../transcripts/channels/Apple_Developer/Inside_Apple_Intelligence_and_Xcode_Special_Presentation_WWD__Wpwjqk1UGnQ.md) |
 | 2026-06-17 | AX | 자사/일반 | - | 제 컬렉션을 내놓을 계획은 없으니 아니라고 대답하겠습니다 좋습니다, 전송하죠 이제 Xcode가 방금 제가 답한 내용을 바탕으로 에이전트와 함께 계획을 세우고 있습니다 Xcode와 에이전트가 화이트보드 앞에서 함께 논의한다고 생각하면 됩니다 지금은 탐색 단계라 아직 코드는 작성되지 않습니다 그래서 언제든 세부사항을 추가하거나 방금 한 답변을 바꾸거나 할 수도 있습니다 계획이 완성될 때까지 기다려 보죠 완성이 되었네요 앱 개발 계획이 준비됐습니다! | N | [영상](https://www.youtube.com/watch?v=Wpwjqk1UGnQ) · [script](../transcripts/channels/Apple_Developer/Inside_Apple_Intelligence_and_Xcode_Special_Presentation_WWD__Wpwjqk1UGnQ.md) |
 | 2026-06-17 | AX | 자사/일반 | - | [박수] 이처럼 에이전틱 코딩은 Apple 플랫폼과 프레임워크 및 도구들과 함께 아이디어를 실제 결과물로 만드는 데 도움을 줍니다 그리고 그런 아이디어를 자신이나 친구들 또는 커뮤니티를 위해 구현할 수 있죠 Xcode의 에이전트는 새로운 API 도입과 앱 접근성 향상 등 다양한 작업을 도와줍니다 예를 들어 앱을 사용할 때 가장 개인적으로 느껴지는 순간 중 하나는 앱이 자신의 언어로 현지화되어 있을 때입니다 에이전틱 코딩이 이 과정을 어떻게 도와주는지 살펴보겠습니다 앱 현지화는 단순히 문자열을 단어 대 단어로 번역하는 것보다 훨씬 복잡한 작업입니다 각 문자열이 앱 안에서 어떤 맥락으로 사용되는지 이해하는 것이 중요하죠 예를 들어, 같은 단어라도 사용되는 상황에 따라 전혀 다른 의미를 가질 수 있습니다 그래서 … | N | [영상](https://www.youtube.com/watch?v=Wpwjqk1UGnQ) · [script](../transcripts/channels/Apple_Developer/Inside_Apple_Intelligence_and_Xcode_Special_Presentation_WWD__Wpwjqk1UGnQ.md) |
-
-## Qdrant (21건)
-
-| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
-|---|---|---|---|---|---|---|
-| 2026-06-24 | AX | 자사/일반 | - | 그래서 이제 기가바이트 나 페타바이트 규모의 데이터로 학습시켜야 했던 것을, 단 몇백 개, 많아야 1,000개, 또는 1,000개 조금 넘는 샘플로 학습시킬 수 있게 되었습니다. | Y | [영상](https://www.youtube.com/watch?v=lfW9CjAh7a0) · [script](../transcripts/channels/Qdrant/AWS_Tell_the_Robot_What_You_Want_Sandhya_Subramani__lfW9CjAh7a0.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 날짜, 출처, 권한 수준을 기준으로 필터를 적용하여 3년 된 문서가 중복된 문서나 올해의 적합한 문서를 가리지 않도록 합니다. | Y | [영상](https://www.youtube.com/watch?v=mhhMjHq2yN8) · [script](../transcripts/channels/Qdrant/Arize_Stop_Vibe_Shipping_Evaluate_Your_Retrieval_Laurie_Voss__mhhMjHq2yN8.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 이 모든 것이 AI 메모리 공간에서 하나로 통합되고 있습니다. | N | [영상](https://www.youtube.com/watch?v=UKw6PUgsUTQ) · [script](../transcripts/channels/Qdrant/Cognee_The_Long_and_the_Short_of_AI_Memory_Dave_Nielsen__UKw6PUgsUTQ.md) |
-| 2026-06-24 | unclassified | 자사/일반 | - | 그리고 그건 440배 더 빠른 속도입니다. | Y | [영상](https://www.youtube.com/watch?v=RRhbORtWeMI) · [script](../transcripts/channels/Qdrant/Qdrant_The_World_is_Becoming_More_Searchable_Dylan_Couzon__RRhbORtWeMI.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 안녕하세요, 기기 내 생성형 AI를 개발하면서 발견한 실용적이고 흥미로운 패턴들에 대해 이야기하게 되어 매우 기쁩니다. | N | [영상](https://www.youtube.com/watch?v=FlAmmVSYbZY) · [script](../transcripts/channels/Qdrant/Qualcomm_Practical_Patterns_for_On-Device_GenAI_Alan_Zhu__FlAmmVSYbZY.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 네, 1.5는 저희가 약 2개월 전에 출시한 페가수스의 최신 버전입니다. | Y | [영상](https://www.youtube.com/watch?v=i8xZeKP6t6k) · [script](../transcripts/channels/Qdrant/Twelve_Labs_Beyond_the_Single_API_Call_with_Agentic_Video_In__i8xZeKP6t6k.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 그렇다면 이것이 어떻게 작동하냐면, 스탠스 에이전트는 AWS가 구축한 오픈 소스 에이전트 프레임워크입니다. | N | [영상](https://www.youtube.com/watch?v=lfW9CjAh7a0) · [script](../transcripts/channels/Qdrant/AWS_Tell_the_Robot_What_You_Want_Sandhya_Subramani__lfW9CjAh7a0.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 저는 관련성을 대규모로 판별하는 기준으로 LLM(법학 석사)을 활용하는 쪽에 상당히 집중하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=mhhMjHq2yN8) · [script](../transcripts/channels/Qdrant/Arize_Stop_Vibe_Shipping_Evaluate_Your_Retrieval_Laurie_Voss__mhhMjHq2yN8.md) |
-| 2026-06-24 | AX | 협력/고객사 언급 | 애플 | 제가 간단히 말씀드리고 싶었던 것은 사람이 애플리케이션과 상호작용하는 방식에서 에이전트로의 전환입니다. | N | [영상](https://www.youtube.com/watch?v=UKw6PUgsUTQ) · [script](../transcripts/channels/Qdrant/Cognee_The_Long_and_the_Short_of_AI_Memory_Dave_Nielsen__UKw6PUgsUTQ.md) |
-| 2026-06-24 | AX | 협력/고객사 언급 | 퀄컴 | 이번 발표에서는 NPU 기반 온디바이스 생성형 AI 구축이 어떻게 더 많은 흥미로운 새로운 활용 사례를 열어줄 수 있는지에 대한 멋진 데모를 보여드리고, 퀄컴 AI 허브에 대해서도 자세히 소개하겠습니다. | N | [영상](https://www.youtube.com/watch?v=FlAmmVSYbZY) · [script](../transcripts/channels/Qdrant/Qualcomm_Practical_Patterns_for_On-Device_GenAI_Alan_Zhu__FlAmmVSYbZY.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 이제 동일한 기반 위에 콘텐츠 검색, 추천, 콘텐츠 검토, 이상 탐지, 스팟 분석, 미디어 자산 관리 및 에이전트 기반 워크플로를 구축할 수 있습니다 . | N | [영상](https://www.youtube.com/watch?v=i8xZeKP6t6k) · [script](../transcripts/channels/Qdrant/Twelve_Labs_Beyond_the_Single_API_Call_with_Agentic_Video_In__i8xZeKP6t6k.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 그러면 제 에이전트는 해당 특정 VLA를 도구로 활용할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=lfW9CjAh7a0) · [script](../transcripts/channels/Qdrant/AWS_Tell_the_Robot_What_You_Want_Sandhya_Subramani__lfW9CjAh7a0.md) |
-| 2026-06-24 | AX | 협력/고객사 언급 | 애플 | 그러한 정보는 여러분의 보조 조종사나 커서 코드 등에 다시 입력될 수 있으며, LLM의 피드백을 심사위원으로 활용하여 애플리케이션을 수정할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=mhhMjHq2yN8) · [script](../transcripts/channels/Qdrant/Arize_Stop_Vibe_Shipping_Evaluate_Your_Retrieval_Laurie_Voss__mhhMjHq2yN8.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 그래서 저희는 Cogni를 백엔드로 사용하는 LLM 위키 프로젝트라는 오픈 소스 프로젝트를 개발했습니다 . | N | [영상](https://www.youtube.com/watch?v=UKw6PUgsUTQ) · [script](../transcripts/channels/Qdrant/Cognee_The_Long_and_the_Short_of_AI_Memory_Dave_Nielsen__UKw6PUgsUTQ.md) |
-| 2026-06-24 | AX | 자사/일반 | - | 그리고 MPU가 다양한 기기에서 훨씬 더 많은 온디바이스 생성형 AI 활용 사례를 가능하게 하는 이유를 보여드리겠습니다. | N | [영상](https://www.youtube.com/watch?v=FlAmmVSYbZY) · [script](../transcripts/channels/Qdrant/Qualcomm_Practical_Patterns_for_On-Device_GenAI_Alan_Zhu__FlAmmVSYbZY.md) |
-| 2026-06-26 | AX | 자사/일반 | - | 그들은 인공지능 개발 기준으로 2015년에 머물러 있는 것 같아요. | Y | [영상](https://www.youtube.com/watch?v=EEXUuI6ZSu8) · [script](../transcripts/channels/Qdrant/Vector_Space_Meetup_2026_Highlights__EEXUuI6ZSu8.md) |
-| 2026-06-26 | AX | 자사/일반 | - | 저는 2023년부터 AI 에이전트를 사용하고 개발해 왔습니다. | Y | [영상](https://www.youtube.com/watch?v=EEXUuI6ZSu8) · [script](../transcripts/channels/Qdrant/Vector_Space_Meetup_2026_Highlights__EEXUuI6ZSu8.md) |
-| 2026-06-26 | AX | 자사/일반 | - | 그리고 마지막으로, 모든 질문과 질문 방법을 정리했으니 이제 2026년에 구축하고 있는 쿼드런트 로드맵을 좀 살펴볼 수 있겠습니다. | Y | [영상](https://www.youtube.com/watch?v=EEXUuI6ZSu8) · [script](../transcripts/channels/Qdrant/Vector_Space_Meetup_2026_Highlights__EEXUuI6ZSu8.md) |
-| 2026-07-09 | AX | 자사/일반 | - | 음, 그럼 이제 약 35분 동안 자체 검색 결과를 평가하고 그에 따라 전략을 조정하는 에이전트를 구축해 보겠습니다. | Y | [영상](https://www.youtube.com/watch?v=VZ2p3dLsFOs) · [script](../transcripts/channels/Qdrant/Building_Retrieval_Agents_that_Evaluate_and_Adapt__VZ2p3dLsFOs.md) |
-| 2026-07-09 | AX | 자사/일반 | - | 음, 기본적으로 이 통계적 공식을 사용하면 검색 오류 의 78%를 잡아내면서 쿼리 의 50%만 증가시키는 방법을 찾을 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=VZ2p3dLsFOs) · [script](../transcripts/channels/Qdrant/Building_Retrieval_Agents_that_Evaluate_and_Adapt__VZ2p3dLsFOs.md) |
-| 2026-07-09 | AX | 자사/일반 | - | 이번 웨비나에서는 쿼리 도중 상황을 평가하고, 적응하고, 개선하는 검색 에이전트 구축에 대해 알아보겠습니다 . | N | [영상](https://www.youtube.com/watch?v=VZ2p3dLsFOs) · [script](../transcripts/channels/Qdrant/Building_Retrieval_Agents_that_Evaluate_and_Adapt__VZ2p3dLsFOs.md) |
 
 ## SAP (21건)
 
@@ -622,6 +626,29 @@
 | 2026-07-16 | unclassified | 자사/일반 | - | 여기 녹색 선에서 보시 다시피 65 세 미만 환자에서는 41%, 65세 이상 환자에서는 51% 감소했습니다. | Y | [영상](https://www.youtube.com/watch?v=JDpie3clGfw) · [script](../transcripts/channels/GE_HealthCare/Seeing_the_Unseen_How_Quanititiave_PET_Unlocks_Hidden_Corona__JDpie3clGfw.md) |
 | 2026-07-16 | unclassified | 자사/일반 | - | 동시에 빨간색 선은 폐쇄성 질환의 유병률이 젊은 환자에서는 35%, 고령 환자에서는 25% 감소했음을 보여줍니다. | Y | [영상](https://www.youtube.com/watch?v=JDpie3clGfw) · [script](../transcripts/channels/GE_HealthCare/Seeing_the_Unseen_How_Quanititiave_PET_Unlocks_Hidden_Corona__JDpie3clGfw.md) |
 | 2026-07-17 | unclassified | 자사/일반 | - | 하지만 동시에 저는 인공지능의 활용으로 더 나은 돌봄과 환자와 더 많은 시간을 보낼 수 있게 될 것이라고 매우 낙관적으로 생각합니다. | N | [영상](https://www.youtube.com/watch?v=gu1uoSsLyj0) · [script](../transcripts/channels/GE_HealthCare/Antonio_Spera_intervista_Peter_Arduini__gu1uoSsLyj0.md) |
+
+## Hugging Face (18건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-05-21 | AX | 자사/일반 | - | 제 생각에는 이런 기술을 개발할 수 있는 사람이 고작 몇백 명밖에 없다는 생각 자체가 좀 터무니없다고 봅니다. | Y | [영상](https://www.youtube.com/watch?v=7knwihgj0fU) · [script](../transcripts/channels/Hugging_Face/On_the_slow_death_of_Scaling_(birth_of_Adaption_Labs)_Sara_H__7knwihgj0fU.md) |
+| 2026-05-21 | AX | 자사/일반 | - | 이는 알고리즘 개선이나 아키텍처 개선과 같은 다른 유형의 개선보다 위험 부담이 훨씬 적은 것으로 여겨집니다. | N | [영상](https://www.youtube.com/watch?v=7knwihgj0fU) · [script](../transcripts/channels/Hugging_Face/On_the_slow_death_of_Scaling_(birth_of_Adaption_Labs)_Sara_H__7knwihgj0fU.md) |
+| 2026-05-21 | AX | 자사/일반 | - | 그래서 GPT-4.5는 크기가 훨씬 커졌음에도 불구하고 성능 면에서 극적인 향상을 보여주지는 못했다는 것이 일반적인 견해입니다 . | N | [영상](https://www.youtube.com/watch?v=7knwihgj0fU) · [script](../transcripts/channels/Hugging_Face/On_the_slow_death_of_Scaling_(birth_of_Adaption_Labs)_Sara_H__7knwihgj0fU.md) |
+| 2026-05-27 | AX | 자사/일반 | - | Transformers JS는 최첨단 머신 러닝 기술을 JavaScript에 적용합니다. | N | [영상](https://www.youtube.com/watch?v=A_6UOxQSvvY) · [script](../transcripts/channels/Hugging_Face/How_Transformers.js_Works_AI_Models_in_JavaScript,_Explained__A_6UOxQSvvY.md) |
+| 2026-05-27 | AX | 자사/일반 | - | 대부분의 최신 머신러닝 시스템은 인공 신경망을 기반으로 구축됩니다. | N | [영상](https://www.youtube.com/watch?v=A_6UOxQSvvY) · [script](../transcripts/channels/Hugging_Face/How_Transformers.js_Works_AI_Models_in_JavaScript,_Explained__A_6UOxQSvvY.md) |
+| 2026-05-27 | AX | 자사/일반 | - | 요약하자면, 비동기 자바스크립트 함수를 호출할 수 있다면 이 방법을 사용하여 웹 앱에서 로컬 머신러닝 기능을 배포할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=A_6UOxQSvvY) · [script](../transcripts/channels/Hugging_Face/How_Transformers.js_Works_AI_Models_in_JavaScript,_Explained__A_6UOxQSvvY.md) |
+| 2026-06-02 | unclassified | 자사/일반 | - | 그리고 2023년 이후, LLM의 대표적인 단어들이 폭발적으로 증가하기 시작했습니다. | Y | [영상](https://www.youtube.com/watch?v=vB9pHTZKoGQ) · [script](../transcripts/channels/Hugging_Face/How_to_Create_an_LLM_Dataset_FineWeb_Overview__vB9pHTZKoGQ.md) |
+| 2026-06-02 | unclassified | 자사/일반 | - | 저희는 이 거대한 700억 개의 매개변수 모델을 사용하여 모든 데이터 포인트에 점수를 매겼지만, 15조 개의 토큰 데이터 세트에 이 거대한 모델을 그대로 적용할 수는 없었을 것입니다. | Y | [영상](https://www.youtube.com/watch?v=vB9pHTZKoGQ) · [script](../transcripts/channels/Hugging_Face/How_to_Create_an_LLM_Dataset_FineWeb_Overview__vB9pHTZKoGQ.md) |
+| 2026-06-02 | unclassified | 자사/일반 | - | 그래서 저희는 Llama 3 70B를 사용하여 1,500,000개의 데이터 포인트에 레이블을 지정한 다음, 이미 점수가 매겨진 이 문서들을 기반으로 더 작은 모델을 학습시켰습니다. | Y | [영상](https://www.youtube.com/watch?v=vB9pHTZKoGQ) · [script](../transcripts/channels/Hugging_Face/How_to_Create_an_LLM_Dataset_FineWeb_Overview__vB9pHTZKoGQ.md) |
+| 2026-06-17 | AX | 자사/일반 | - | 이를 통해 에이전트 사용법을 좀 더 잘 이해하고, 나중에 직접 에이전트를 구축하고 싶을 때 어떻게 해야 하는지도 알 수 있을 것입니다 . | N | [영상](https://www.youtube.com/watch?v=n32qq7Kwzh0) · [script](../transcripts/channels/Hugging_Face/Hermes_Architecture_EXPLAINED_Memory,_Context_&_Gateways__n32qq7Kwzh0.md) |
+| 2026-06-17 | AX | 자사/일반 | - | 그리고 그게 바로 헤르메스가 사용하면 할수록 지속적으로 학습하고 개선되는 에이전트인 이유입니다. | N | [영상](https://www.youtube.com/watch?v=n32qq7Kwzh0) · [script](../transcripts/channels/Hugging_Face/Hermes_Architecture_EXPLAINED_Memory,_Context_&_Gateways__n32qq7Kwzh0.md) |
+| 2026-06-17 | AX | 자사/일반 | - | 앞서 간단히 언급했지만, 에이전트를 구축할 때 매우 중요한 부분이므로 별도의 섹션으로 자세히 다루겠습니다 . | N | [영상](https://www.youtube.com/watch?v=n32qq7Kwzh0) · [script](../transcripts/channels/Hugging_Face/Hermes_Architecture_EXPLAINED_Memory,_Context_&_Gateways__n32qq7Kwzh0.md) |
+| 2026-06-22 | unclassified | 자사/일반 | - | 정확히 1년 전, 로봇 월드 와이드 해커톤은 수십 개 도시에서 수천 명의 개발자를 한자리에 모았습니다. | Y | [영상](https://www.youtube.com/watch?v=FLxFBU-Kodk) · [script](../transcripts/channels/Hugging_Face/What_can_you_build_during_48h_Robotics_Hackathon__FLxFBU-Kodk.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 오늘은 교육적인 목적으로 설계되었으며 여러분이 직접 코딩 에이전트를 구축하는 데 도움을 주는 코딩 에이전트인 Tao를 소개하겠습니다. | N | [영상](https://www.youtube.com/watch?v=4ItFgQI2NOM) · [script](../transcripts/channels/Hugging_Face/Introducing_Tau_An_Educational_Coding_Agent__4ItFgQI2NOM.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 따라서 이 프로젝트의 목표는 Pi나 Open Code와 같은 기존 에이전트와 경쟁하는 것이 아니라, 코딩 에이전트가 실제로 어떻게 작동하는지 이해하는 데 도움이 되는 교육 자료로 활용하는 것입니다. | N | [영상](https://www.youtube.com/watch?v=4ItFgQI2NOM) · [script](../transcripts/channels/Hugging_Face/Introducing_Tau_An_Educational_Coding_Agent__4ItFgQI2NOM.md) |
+| 2026-07-06 | AX | 자사/일반 | - | 그래서 우리는 모든 추론 제공업체를 통합하는 역할을 하는 Tao AI 레이어를 가지고 있습니다. | N | [영상](https://www.youtube.com/watch?v=4ItFgQI2NOM) · [script](../transcripts/channels/Hugging_Face/Introducing_Tau_An_Educational_Coding_Agent__4ItFgQI2NOM.md) |
+| 2026-07-21 | unclassified | 자사/일반 | - | 음, 더 큰 모델일수록 차이는 조금 덜하지만, 대략 1.5배에서 2배 정도 속도 향상이 있다고 할 수 있겠네요. | Y | [영상](https://www.youtube.com/watch?v=ZWuFMVmKXrI) · [script](../transcripts/channels/Hugging_Face/Hugging_Face_Journal_Club_AsyncOPD_and_How_Stale_Can_On-Poli__ZWuFMVmKXrI.md) |
+| 2026-07-21 | unclassified | 자사/일반 | - | 제 생각에는 단기 배포에는 괜찮지만, 1,000~2,000대 규모로 배포를 시작하면 비용이 많이 들기 시작합니다. | Y | [영상](https://www.youtube.com/watch?v=ZWuFMVmKXrI) · [script](../transcripts/channels/Hugging_Face/Hugging_Face_Journal_Club_AsyncOPD_and_How_Stale_Can_On-Poli__ZWuFMVmKXrI.md) |
 
 ## Salesforce (18건)
 
@@ -1056,6 +1083,18 @@
 | 2026-07-15 | AX | 자사/일반 | - | 저장소 생성, 브랜치 생성 및 전환 , 변경 사항 스테이징 및 커밋 , 브랜치 병합, GitHub에 게시 , 기존 저장소 복제 등을 비롯하여 약간의 AI 기능까지 활용합니다 . | N | [영상](https://www.youtube.com/watch?v=zZuqjoLEYzo) · [script](../transcripts/channels/GitHub/A_complete_beginner's_guide_to_mastering_GitHub__zZuqjoLEYzo.md) |
 | 2026-07-15 | AX | 자사/일반 | - | [음악] 추가로, Copilot의 코드 리뷰 기능은 풀 리퀘스트를 이해하고 개선 사항을 제안하는 데에도 도움이 될 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=zZuqjoLEYzo) · [script](../transcripts/channels/GitHub/A_complete_beginner's_guide_to_mastering_GitHub__zZuqjoLEYzo.md) |
 | 2026-07-20 | unclassified | 자사/일반 | - | 코드 품질은 AI 시대 소프트웨어 개발의 핵심적인 강제 요소입니다 . | N | [영상](https://www.youtube.com/watch?v=NNSghZ84GSU) · [script](../transcripts/channels/GitHub/How_to_use_GitHub_Code_Quality_to_ship_reliable_code__NNSghZ84GSU.md) |
+
+## Intel (7건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07-16 | AX | 자사/일반 | - | 이 컴퓨터가 AI 기반이라 정말 멋진 AI 기능들(음악)을 활용할 수 있어서 창의력을 한층 더 높일 수 있어요. | N | [영상](https://www.youtube.com/watch?v=98RfEqmdgJo) · [script](../transcripts/channels/Intel/Acer_Swift_16_AI_(Intel®_Core™_Ultra_Series_3_X_processors)___98RfEqmdgJo.md) |
+| 2026-07-16 | AX | 자사/일반 | - | 이 PC는 AI 기반이라 창의력을 향상시키는 데 매우 유용한 AI 기능을 사용할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=m87vHzmdmx4) · [script](../transcripts/channels/Intel/Asus_Zenbook_DUO_(Intel®_Core™_Ultra_Series_3_X_processors)___m87vHzmdmx4.md) |
+| 2026-07-16 | AX | 자사/일반 | - | 이 제품은 Copilot Plus PC 인증을 받았기 때문에 향상된 검색 기능 과 실시간 자막 기능은 물론 키보드에 편리한 Copilot 키까지 해당 인증의 모든 이점을 누릴 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=dxSuz7imHaQ) · [script](../transcripts/channels/Intel/HP_Omnibook_X_(Intel®_Core™_Ultra_Series_3)_-_Tech_Rundown_I__dxSuz7imHaQ.md) |
+| 2026-07-16 | AX | 자사/일반 | - | 이제 이 컴퓨터가 AI PC이기 때문에 창의력을 향상시켜 줄 훌륭한 AI 기능들을 이용할 수 있게 되었습니다. | N | [영상](https://www.youtube.com/watch?v=F7GVqX5_S60) · [script](../transcripts/channels/Intel/Lenovo_Yoga_7i_(Intel®_Core™_Ultra_Series_3)_-_Tech_Rundown___F7GVqX5_S60.md) |
+| 2026-07-16 | AX | 자사/일반 | - | 이 제품은 향상된 다이내믹 AMOLED 2X [음악] 디스플레이를 자랑하며, 매우 밝고 명암비가 뛰어난 영상을 제공하여 게임이나 [음악] 콘텐츠 제작에 최적입니다. | Y | [영상](https://www.youtube.com/watch?v=8J2kahP5NPY) · [script](../transcripts/channels/Intel/Samsung_GalaxyBook_6_Pro_(Intel®_Core™_Ultra_Series_3_X_proc__8J2kahP5NPY.md) |
+| 2026-07-16 | AX | 자사/일반 | - | 그런 다음 잡티 제거 및 기타 편집 도구와 같은 다른 AI 기능을 활용하여 사진을 마무리하고 한 번의 클릭으로 지정된 폴더로 내보낼 수 있습니다 . | N | [영상](https://www.youtube.com/watch?v=F7GVqX5_S60) · [script](../transcripts/channels/Intel/Lenovo_Yoga_7i_(Intel®_Core™_Ultra_Series_3)_-_Tech_Rundown___F7GVqX5_S60.md) |
+| 2026-07-16 | AX | 자사/일반 | - | 이 PC가 AI 기반이라 창의력을 향상시키는 데 도움이 되는 훌륭한 AI 기능들을 이용할 수 있습니다. | N | [영상](https://www.youtube.com/watch?v=8J2kahP5NPY) · [script](../transcripts/channels/Intel/Samsung_GalaxyBook_6_Pro_(Intel®_Core™_Ultra_Series_3_X_proc__8J2kahP5NPY.md) |
 
 ## NAVER Cloud (7건)
 
@@ -1499,6 +1538,14 @@
 | 2026-07 | AX | 자사/일반 | - | 전 세계 기업에 자문을 제공하면서 저는 AI 리드 프레임워크라는 음악 프레임워크를 개발했습니다 . | N | [영상](https://www.youtube.com/watch?v=W78IQB-4kHA) · [script](../transcripts/2026-07-22/How_essential_is_leadership_to_AI_transformation_LSE_Executi__W78IQB-4kHA.md) |
 | 2026-07 | AX | 자사/일반 | - | 조직 전체의 리더십을 일치시켜 모든 구성원이 AI 투자와 관련하여 나아가고자 하는 음악적 방향과 이 새로운 기술을 도입하는 이유를 명확히 이해하도록 해야 합니다. | N | [영상](https://www.youtube.com/watch?v=W78IQB-4kHA) · [script](../transcripts/2026-07-22/How_essential_is_leadership_to_AI_transformation_LSE_Executi__W78IQB-4kHA.md) |
 
+## 데이브의 개발 생활 | AI 소모임 대표 채널 (3건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | AX | 자사/일반 | - | 저는이 AI 자동화로 일주일에 최소 16시간의 시간이 생겨 났거든요. | Y | [영상](https://www.youtube.com/watch?v=W3AtQ9LvteU) · [script](../transcripts/2026-07-22/How_to_Implement_AX_The_Ultimate_Guide_for_Team_Leaders__W3AtQ9LvteU.md) |
+| 2026-07 | AX | 자사/일반 | - | 저는 100억 대출을 내고 있는 IT 커마스 회사에서 백엔드 개발자로 근무를 하고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=W3AtQ9LvteU) · [script](../transcripts/2026-07-22/How_to_Implement_AX_The_Ultimate_Guide_for_Team_Leaders__W3AtQ9LvteU.md) |
+| 2026-07 | AX | 자사/일반 | - | 이 이 시간으로 신규 서비스도 런칭하고 광고 모델들을 확대해서 월 8% 이상의 수익을 성장시키고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=W3AtQ9LvteU) · [script](../transcripts/2026-07-22/How_to_Implement_AX_The_Ultimate_Guide_for_Team_Leaders__W3AtQ9LvteU.md) |
+
 ## 비디오머그 - VIDEOMUG (3건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -1506,6 +1553,14 @@
 | 2026-07 | AX | 자사/일반 | - | 영국에서 진행된 설문 조사에서 AI를 써 본 경험이 없는 학생의 비율은 2024년 34%에서 2025년 8%로 감소했습니다. | Y | [영상](https://www.youtube.com/watch?v=ubFNT5egsF0) · [script](../transcripts/2026-07-22/이제_AI_없으면_수업_못_들어요..._돌이킬_수_없어진_대학생들_근황_오그랲_비디오머그__ubFNT5egsF0.md) |
 | 2026-07 | AX | 자사/일반 | - | AI를 어떤 방식으로든 활용해 본 학생이 전체 91%나 된다는 겁니다. | Y | [영상](https://www.youtube.com/watch?v=ubFNT5egsF0) · [script](../transcripts/2026-07-22/이제_AI_없으면_수업_못_들어요..._돌이킬_수_없어진_대학생들_근황_오그랲_비디오머그__ubFNT5egsF0.md) |
 | 2026-07 | AX | 자사/일반 | - | 특히 튜터링의 경우 127% 향상될 정도로 크게 늘어났죠. | Y | [영상](https://www.youtube.com/watch?v=ubFNT5egsF0) · [script](../transcripts/2026-07-22/이제_AI_없으면_수업_못_들어요..._돌이킬_수_없어진_대학생들_근황_오그랲_비디오머그__ubFNT5egsF0.md) |
+
+## 자동차 미생 Auto Engineer American Life (3건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | unclassified | 자사/일반 | - | 회사에다가 구축하는 시스템이 생겨나고 있는 초창기에 아주 가장 처음 나온 7월 2일 뉴스 3일 지나고 지금 오늘 라이브 해 드리니까 여러분들 얼마나 럭키 하십니까? | Y | [영상](https://www.youtube.com/watch?v=RY3DvlFCw1E) · [script](../transcripts/2026-07-22/테슬라,_팔란티어_다음은_AI_판이_바뀌고_있다.__RY3DvlFCw1E.md) |
+| 2026-07 | unclassified | 자사/일반 | - | 그러니까 이제 우리 AI가 들어가서 해 주는데 뭐 존디언니 비바니 막 여런 회사들한테 가서 우리가서 여러분들이 아하려고 하는 AI 시스템 우리가 만들어 줄게 하고선 실제 가서 배포 제품 솔루션까지 다 개발해 주겠다라는 회사를 또 차렸어. | N | [영상](https://www.youtube.com/watch?v=RY3DvlFCw1E) · [script](../transcripts/2026-07-22/테슬라,_팔란티어_다음은_AI_판이_바뀌고_있다.__RY3DvlFCw1E.md) |
+| 2026-07 | unclassified | 자사/일반 | - | 파일럿 같은 거 할 필요 없이 그냥 우리가 우리 프론티어 컴퍼니에서 사람들 가서 너네들 거 AI 시스템 구축해 줄게라는 걸로 간 겁니다. | N | [영상](https://www.youtube.com/watch?v=RY3DvlFCw1E) · [script](../transcripts/2026-07-22/테슬라,_팔란티어_다음은_AI_판이_바뀌고_있다.__RY3DvlFCw1E.md) |
 
 ## LinkedIn (3건)
 
@@ -1641,6 +1696,12 @@
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
 |---|---|---|---|---|---|---|
 | 2026-07 | AX | 자사/일반 | - | 우리도 채치 피티 같은 거 만들어 보자 언어 모델 만들자 그럼 이제 거기서부터 사단이 나는 겁니다 이게 한두 푼으로내는게 아니잖아요 거의 뭐 채치 PT 만 오픈해야하는 거의 수전을 쓰고 있는데 후 사이트에서 결제를 딱 하려고 하는데 새벽 3시에 전화가 오는 거예요 그래서 아오 왜 그러세요 막 이랬더니 혹시 지금 결제하신 거 고객님이 하신 거예요 이러는 거예요 그래서네 그러면 이렇게 데이터 분석 얘기도 나왔으니까 얼마 전까지 DX 아는 용어가 좀 많이 유행을 했었는데 그거 AI 또 이렇게 대두가 되면서 ax 아는 용어가 또 나왔어요 그래서이 용어가 어떤 건지 여기에 대해서 좀 설명 부탁드려도 되네요네 뭐 말씀하신 것처럼 DX 혹은 DT고 불렀었던게 디지털 트랜스포메이션 그러니까 디지털로의 전환이 아아 AI 혹… | N | [영상](https://www.youtube.com/watch?v=_FfB0sPuhr8) · [script](../transcripts/2026-07-21/[2024_AI_트렌드_총정리_2]_AI_도입시_기업이_반드시_고려해야_할_것_│_AI_시대,_기업들의_성공___FfB0sPuhr8.md) |
+
+## 이효석아카데미 (1건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | unclassified | 자사/일반 | - | 지금 이제 기대치는 67% YY 성장할 거라고 보고 있는데 이게 얼마나 빠른 속도로 증가하느냐가 전 제일 관심이 많습니다. | Y | [영상](https://www.youtube.com/watch?v=B04fLKEfjkM) · [script](../transcripts/2026-07-22/[속보효]_2분기_하이퍼스케일러_실적_분석!_과감하게_들어갑니다__B04fLKEfjkM.md) |
 
 ## Amazon (1건)
 
