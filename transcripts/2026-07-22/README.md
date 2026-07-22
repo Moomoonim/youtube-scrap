@@ -11,3 +11,7 @@
 - [테슬라, 팔란티어 다음은? AI 판이 바뀌고 있다.](테슬라,_팔란티어_다음은_AI_판이_바뀌고_있다.__RY3DvlFCw1E.md) (ko) — [원본](https://www.youtube.com/watch?v=RY3DvlFCw1E)
 - [[속보효] 2분기 하이퍼스케일러 실적 분석! 과감하게 들어갑니다]([속보효]_2분기_하이퍼스케일러_실적_분석!_과감하게_들어갑니다__B04fLKEfjkM.md) (ko) — [원본](https://www.youtube.com/watch?v=B04fLKEfjkM)
 - [How to Implement AX: The Ultimate Guide for Team Leaders](How_to_Implement_AX_The_Ultimate_Guide_for_Team_Leaders__W3AtQ9LvteU.md) (ko) — [원본](https://www.youtube.com/watch?v=W3AtQ9LvteU)
+
+## 15:41 수집 (1개)
+
+- [기업의 생성형 AI 도입, 선택이 아닌 생존의 문제](기업의_생성형_AI_도입,_선택이_아닌_생존의_문제__Cd9fw24VdLM.md) (ko) — [원본](https://www.youtube.com/watch?v=Cd9fw24VdLM)
