@@ -1,8 +1,9 @@
-# 수집 콘텐츠 검토 보고서 (v4, 2026-07-22)
+# 수집 콘텐츠 검토 보고서 (v4.1, 2026-07-22)
 
-> **954건 전체 코퍼스** 기준 전수 정독 분석. 심층 정독 ~830건(키워드 74 + 채널 90여 개 대부분), 최신 자동수집 잔여분 일부는 인벤토리 상태.
-> 자동분류: **AX 297 / DX 20 / AT 4 / 미분류 633** (채널 131개, 한국어 792 / 영어 162).
+> **1,105건 전체 코퍼스** 기준 전수 정독 분석. 심층 정독 ~860건(키워드 76 + 채널 95여 개 대부분), 최신 자동수집 잔여분 일부는 인벤토리 상태.
+> 자동분류: **AX 341 / DX 21 / AT 4 / 미분류 739** (채널 135개, 한국어 다수).
 > 다음 회귀분석·코딩 작업 전에 읽을 것. v3(771) 대비 신규·심층 채널: **OpenAI·Stability AI·Mercedes-Benz·Google Cloud Tech·Zapier·AWS Developers·Hugging Face**(+ Apple·Siemens·Pinecone·SAP·ServiceNow 백필 심화)와 인사이트를 반영.
+> **v4.1 증분(954→1,105, +151)**: 신규 채널 **Infosys·Anthropic·IKEA**. 결론은 **거의 전부 확증적**(기존 인사이트를 바꾸는 자료 없음). 두 가지 미세 뉘앙스만 추가 — (a) **화자 대리(proxy) 구조**, (b) **채널 내부 분열**(아래 §1·§0-3 참조).
 
 ---
 
@@ -32,7 +33,7 @@
 ### B. 그 외 반복 구조
 1. **"95% 실패" 개막 의식** — MIT "95% 실패", 맥킨지 "88% 도입 vs 39% 수익화", "AI 프로젝트 80% 실패", Google Emergent "코딩앱 95% 상용화 실패, 나는 되는 5%를 찾는다" — 한/영·컨설턴트·학계·벤더 불문 반복. 문법: [파국적 실패율 인용]→["기술이 아니라 사람·프로세스·데이터 탓"]→[내 프레임만 예외]. = **책임 전가 알고리즘**.
 2. **"AI는 기술 문제가 아니라 사람 문제"** — 범용 명제로 확정(Upstage·Palantir·김건우·BCG·McKinsey·Zapier Amit·Google Home Depot). 책임전가 문법의 핵심.
-3. **공급/수요 담론의 분열** — 공급측("OpenClaw 모멘트, 추론 15배 폭발", Hugging Face 모델·데이터 제조)과 수요측("95%가 성과 없음", Qdrant/AX강의 도입·비용·규정)이 양립 불가. 이 간극이 버블 질문의 실체이자 검증가능한 특이점.
+3. **공급/수요 담론의 분열 + "화자 대리(proxy)" 세탁**(v4.1) — 공급측("OpenClaw 모멘트, 추론 15배 폭발", Hugging Face 모델·데이터 제조)과 수요측("95%가 성과 없음", Qdrant/AX강의 도입·비용·규정)이 양립 불가. 이 간극이 버블 질문의 실체이자 검증가능한 특이점. 🔑 **혼합 변종**: Infosys의 on-topic 자료는 컨설팅사가 *직접* 말하지 않고 고객사 임원(Sandvik 디지털책임자·Swedbank CIO)을 화자로 세워 **공급측 담론을 수요측 증언으로 세탁**한다. "누가 말하는가"를 K1 태깅 시 벤더 자신 vs 대리 고객으로 구분 필요(OpenAI 레퍼런스 고객 포맷과 동형).
 4. **온톨로지/컨텍스트 계층 = 격전지, 이제 "문서 하네스"까지 확장** — Palantir(온톨로지)·ServiceNow(context graph)·Databricks(Unity Catalog)·Pinecone/Weaviate/Qdrant(벡터)·**LlamaIndex("기업가치 90%가 비정형 문서에 묻힘"→PDF 파싱 관문화)·Vultr("데이터 중력·주권"→벡터DB 위치 관문화)·Google(OTel·App Hub)** 모두 "데이터+거버넌스 계층을 쥔 자가 에이전트 시대 지배"라 주장. AX의 진짜 락인은 모델이 아니라 컨텍스트/거버넌스 계층.
 5. **정량성의 역설** — AI를 전면에 내세운 채널일수록 검증가능 정량 성과가 부재. 가장 단단한 숫자는 AX가 아니라 인접 상품(칩·영상장비)을 파는 채널, 또는 자사 실무를 공개하는 소규모 채널(AX 강의)에서 나옴.
 6. **배수(multiple) 수사학** — 컨설턴트·벤더는 분모 없는 배수("4.4배", "16.5배", "10배 은행", "6배 전환")로 말함. 반증 불가하면서 인상적.
@@ -53,12 +54,12 @@
 | ★★★ | **OpenAI** | 위임(delegation)·에이전트·레퍼런스 고객(BNY·Shopify·Virgin) 포맷 |
 | ★★☆ | Meta(Boz), Boston Dynamics, Microsoft Azure, Google Developers·DeepMind, Meta Developers, SK하이닉스, GE HealthCare, Accenture, TCS, **Zapier**, ElevenLabs, Runway, Apple Developer, GitHub, Replit, NAVER Cloud, Unilever(IR), **Stability AI** | AX를 자사 제품/비전·투자자 서사·GTM에 접합 |
 | ★★☆ | **Hugging Face** | ⚠️ 예외 — 엔터프라이즈 비용 담론이 아니라 **연구/OSS 공급측**(모델·데이터·로보틱스 제조). "채널명≠담론성격"의 최신 사례 |
-| ★☆☆ | SK텔레콤, Telenor, Amazon, Waymo, Mayo Clinic, LinkedIn, Schneider, Microsoft(Nation PR) | AI가 마케팅 소재(보안·안전·감성·노동시장·정당성) |
-| ☆ | Swisscom, Reckitt, Nissan, Volvo, BMW, **Mercedes-Benz**, NTT DATA, Suno, Luma, Philips, Perplexity, Cohere(학술), kakao_tech(2021) | AI 담론 희박 — 그 자체가 신호(자동차 침묵/서사적 침묵, 학술, pre-AX 기준선 등) |
+| ★☆☆ | SK텔레콤, Telenor, Amazon, Waymo, Mayo Clinic, LinkedIn, Schneider, Microsoft(Nation PR), **Infosys(고객증언 2편만 실질)** | AI가 마케팅 소재(보안·안전·감성·노동시장·정당성) |
+| ☆ | Swisscom, Reckitt, Nissan, Volvo, BMW, **Mercedes-Benz**, NTT DATA, Suno, Luma, Philips, Perplexity, Cohere(학술), **Anthropic(모델제작사 자체 안전/제품 코뮤)**, **IKEA(리테일·자막 사실상 공백)**, kakao_tech(2021) | AI 담론 희박 — 그 자체가 신호(자동차 침묵/서사적 침묵, 학술, 모델제작사 PR, pre-AX 기준선 등) |
 
-키워드 수집분(74건, `transcripts/2026-*/`)은 한국어 AX 강의·컨설팅·정책·언론 콘텐츠가 주력이며 연구 주제에 최고 밀도. 특히 2026-07-22 "데이브의 개발 생활" AX 강의는 **의사결정 알고리즘화의 교과서적 실연**(아래 §6).
+키워드 수집분(76건, `transcripts/2026-*/`)은 한국어 AX 강의·컨설팅·정책·언론 콘텐츠가 주력이며 연구 주제에 최고 밀도. 특히 2026-07-22 "데이브의 개발 생활" AX 강의는 **의사결정 알고리즘화의 교과서적 실연**(아래 §6).
 
-⚠️ **"채널명 ≠ 담론 성격"**: Cohere·Hugging Face(학술/OSS)·Microsoft(대부분 브랜드 PR)·BMW/Mercedes(광고·헤리티지)·Zoox/TCS(오수집) — 채널명으로 성격을 예단하면 안 됨. 코퍼스 분류는 채널이 아니라 **영상 단위**로 해야 함.
+⚠️ **"채널명 ≠ 담론 성격"**: Cohere·Hugging Face(학술/OSS)·Microsoft·Anthropic(브랜드/모델PR)·BMW/Mercedes/IKEA(광고·헤리티지·리테일)·Zoox/TCS(오수집) — 채널명으로 성격을 예단하면 안 됨. 코퍼스 분류는 채널이 아니라 **영상 단위**로 해야 함. 🔑 **v4.1: 명제가 "채널 내부" 수준으로 확장** — Infosys 한 채널이 순수 AX담론(Sandvik·Swedbank 고객증언)과 순수 채용PR노이즈("Power Programmer" 시리즈·Carlos Alcaraz)로 갈린다. 채널 필터가 아니라 영상 단위 라벨링이 필수임을 재확인.
 
 ---
 
@@ -68,7 +69,7 @@
 
 **글로벌**: 젠슨 황·Kevin Deierling(NVIDIA), Will Abbey(Arm), Rainer Brehm·Rev Lebaredian(Siemens/NVIDIA), Alex Kendall(Wayve), Akshay(Palantir 수석아키텍트), Michael Park(ServiceNow), 일론 머스크(Tesla TERAFAB), 페르난도 페르난데스(Unilever CEO), Amjad Masad(Replit CEO), Rana El Kaliouby(MS/Affectiva), 페이(Alibaba DB BU), Boz+게스트 Shyam Sankar(Palantir CTO)·Ed Catmull·Dylan Field, Aaron Levie(Box), Peter Arduini(GE)
 
-**v4 신규**: **Sara Hooker**(Adaption Labs 공동창립·前 Cohere For AI — "스케일링의 느린 죽음→적응"), **Eric Ries**(Lean Startup — 코퍼스 최강 메타비판자), **Amit Bendov**(Gong CEO), **Ryan Meadows**(Lovable CRO), **Guy Yalif**(Webflow CPO), **Wade Foster**(Zapier CEO), **로빈 빈스(BNY CEO, 사내 플랫폼 "Eliza")**, Shopify·Virgin Atlantic·Peter Steinberger(OpenAI France), Home Depot(Ashish·Chuma)·MediaMarkt·PayPal(Mir)·BBVA(Gerardo Monzelli)·Anthropic Lydia(Google 플랫폼 출연)
+**v4 신규**: **Sara Hooker**(Adaption Labs 공동창립·前 Cohere For AI — "스케일링의 느린 죽음→적응"), **Eric Ries**(Lean Startup — 코퍼스 최강 메타비판자), **Amit Bendov**(Gong CEO), **Ryan Meadows**(Lovable CRO), **Guy Yalif**(Webflow CPO), **Wade Foster**(Zapier CEO), **로빈 빈스(BNY CEO, 사내 플랫폼 "Eliza")**, Shopify·Virgin Atlantic·Peter Steinberger(OpenAI France), Home Depot(Ashish·Chuma)·MediaMarkt·PayPal(Mir)·BBVA(Gerardo Monzelli)·Anthropic Lydia(Google 플랫폼 출연). **v4.1**: Sofia Sirvell(Sandvik 그룹 디지털책임자 — "사람 문제" 트로프), Lotta Lovén(Swedbank CIO — 미팅요약 60개 저축은행 확산)
 
 ---
 
