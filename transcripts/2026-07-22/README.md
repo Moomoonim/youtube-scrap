@@ -15,3 +15,10 @@
 ## 15:41 수집 (1개)
 
 - [기업의 생성형 AI 도입, 선택이 아닌 생존의 문제](기업의_생성형_AI_도입,_선택이_아닌_생존의_문제__Cd9fw24VdLM.md) (ko) — [원본](https://www.youtube.com/watch?v=Cd9fw24VdLM)
+
+## 19:34 수집 (4개)
+
+- [AX 100배의 법칙- 나와 조직의 능력을 100배 높이는 AI 경영의 실제 책 리뷰](AX_100배의_법칙-_나와_조직의_능력을_100배_높이는_AI_경영의_실제_책_리뷰__5z-KnbcVX2o.md) (ko) — [원본](https://www.youtube.com/watch?v=5z-KnbcVX2o)
+- [AMD Unveils 'Monster' AI Chip… Explosive Demand for HBM4 / KOREA ECONOMIC TV NEWS](AMD_Unveils_'Monster'_AI_Chip…_Explosive_Demand_for_HBM4_KOR__G_mcx0Xxwi4.md) (ko) — [원본](https://www.youtube.com/watch?v=G_mcx0Xxwi4)
+- [(정보) 중소기업 AI 도입, 90%가 실패하는 이유 (성공을 위한 5단계 AI 도입 가이드)]((정보)_중소기업_AI_도입,_90%가_실패하는_이유_(성공을_위한_5단계_AI_도입_가이드)__WkSjlcTee-g.md) (ko) — [원본](https://www.youtube.com/watch?v=WkSjlcTee-g)
+- [Vietnam’s AI Transformation (AX) 2025: Telecom Giants & National Strategy](Vietnam’s_AI_Transformation_(AX)_2025_Telecom_Giants_&_Natio__B0uORjKIPFo.md) (ko) — [원본](https://www.youtube.com/watch?v=B0uORjKIPFo)
