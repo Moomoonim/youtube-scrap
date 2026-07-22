@@ -1,0 +1,13 @@
+# 2025 Happy Holidays from L'Oréal Groupe
+
+- 영상 링크: https://www.youtube.com/watch?v=GQ7aFws0V1A
+- 채널: L'Oréal
+- 업로드일: 2025-12-18
+- 자막 언어: en
+- 단어 수: 약 421개
+
+---
+
+## 스크립트
+
+[music] This year we journeyed far, very far. Boldly going where no beauty [music] company has gone before. Together we navigated some dangerous black holes and began to embark [music] on our conquest of new beauty galaxies. Our [music] mission to conquer new consumers, explore new geographies, and pioneer new technologies. This year, our regional crews have outmaneuvered enemy tactics. [music] Can you hear me? And charted new frontiers of growth. Hishi, we have a problem. Do you hear me? &gt;&gt; We're here. &gt;&gt; What's the problem? &gt;&gt; It's not working. &gt;&gt; I think it will fix it. Ready for takeoff. &gt;&gt; Copy. &gt;&gt; Ready, guys. [music] &gt;&gt; Start the ignition. Doors opening. [music] &gt;&gt; Ready to launch. &gt;&gt; Here we go. Beam me up. [music] Hey L'Oreal, can you suggest a product for me that could nourish my hair in deep space? &gt;&gt; Affirmative. You should use Garnier fractus. &gt;&gt; A [music] product with a kin complex. &gt;&gt; Wow, I didn't know you spoke robot Barbara. &gt;&gt; We augmented our marketeteers with AI and a special blend of math and magic. [music] Our innovation teams explore the furthest reaches of the beauty cosmos to deliver [music] out of this world products to power our iconic galaxy of brands and put us light years ahead of competition. &gt;&gt; We're entering a zone of turbulence. Once again, our operations [music] team showed their W speed agility, delivering 7 billion products to Infinity and beyond. [music] And we continue to champion diversity. Hello. I'm happy to see you in presence &gt;&gt; in all its forms. &gt;&gt; I don't speak alien. &gt;&gt; What can I do without? But however far we travel, [music] it's Earth we call home. And we always champion our environmental and social responsibilities to help the planet live long and prosper. &gt;&gt; [music] &gt;&gt; New planets joined the L'Oreal galaxy and we forged a new stellar [music] alliance. &gt;&gt; Approaching destination. [music] &gt;&gt; Landing approach. 5 [music] 4 3 2 1 &gt;&gt; [music] &gt;&gt; A small step for L'Oreal, a big leap for beauty kind. We'd like to thank you, our extraordinary crew of L'Orealians, for your hard work and dedication to our shared mission. This year, we started to conquer new galaxies, but this is just the beginning, and we will [music] need to accelerate to warp speed. &gt;&gt; [music] &gt;&gt; I look forward to our next liftoff in as we set course to [music] a new dimension in the great L'Oreal adventure. [music] Yeah, [music] Heat. Heat. [laughter]
