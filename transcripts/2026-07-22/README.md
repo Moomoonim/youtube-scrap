@@ -22,3 +22,10 @@
 - [AMD Unveils 'Monster' AI Chip… Explosive Demand for HBM4 / KOREA ECONOMIC TV NEWS](AMD_Unveils_'Monster'_AI_Chip…_Explosive_Demand_for_HBM4_KOR__G_mcx0Xxwi4.md) (ko) — [원본](https://www.youtube.com/watch?v=G_mcx0Xxwi4)
 - [(정보) 중소기업 AI 도입, 90%가 실패하는 이유 (성공을 위한 5단계 AI 도입 가이드)]((정보)_중소기업_AI_도입,_90%가_실패하는_이유_(성공을_위한_5단계_AI_도입_가이드)__WkSjlcTee-g.md) (ko) — [원본](https://www.youtube.com/watch?v=WkSjlcTee-g)
 - [Vietnam’s AI Transformation (AX) 2025: Telecom Giants & National Strategy](Vietnam’s_AI_Transformation_(AX)_2025_Telecom_Giants_&_Natio__B0uORjKIPFo.md) (ko) — [원본](https://www.youtube.com/watch?v=B0uORjKIPFo)
+
+## 23:20 수집 (4개)
+
+- [이젠 AI 가성비 전쟁? 오픈AI, GPT-5.6으로 판 뒤집을까 / 오그랲 / 비디오머그](이젠_AI_가성비_전쟁_오픈AI,_GPT-5.6으로_판_뒤집을까_오그랲_비디오머그__PWfBdBbZZNs.md) (ko) — [원본](https://www.youtube.com/watch?v=PWfBdBbZZNs)
+- [소버린AI에 한국의 미래가 달렸습니다.](소버린AI에_한국의_미래가_달렸습니다.__xduBTqb_mXM.md) (ko) — [원본](https://www.youtube.com/watch?v=xduBTqb_mXM)
+- [English Academies Are Finished, Insane AI Simultaneous Interpretation (Director Kim Deok-jin, IT ...](English_Academies_Are_Finished,_Insane_AI_Simultaneous_Inter__SLXNQqS8JF4.md) (ko) — [원본](https://www.youtube.com/watch?v=SLXNQqS8JF4)
+- [삼성전자도 ‘AI 안경’ 출격…스마트폰 다음 판 노리나 [경제콘서트] / KBS  2026.07.22.](삼성전자도_‘AI_안경’_출격…스마트폰_다음_판_노리나_[경제콘서트]_KBS_2026.07.22.__QNdJaY6oKc0.md) (ko) — [원본](https://www.youtube.com/watch?v=QNdJaY6oKc0)
