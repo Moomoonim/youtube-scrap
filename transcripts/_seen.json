@@ -17163,5 +17163,755 @@
     "lang": "en",
     "upload_date": "20260327",
     "fetched_at": "2026-07-24"
+  },
+  "0pchn3bkgs8": {
+    "title": "Don't go to the Police - Full documentary",
+    "channel": "Orange",
+    "lang": "ko",
+    "upload_date": "20260312",
+    "fetched_at": "2026-07-24"
+  },
+  "w1PnVy-oe5I": {
+    "title": "Otilia Anton about the importance of trust in our solutions at #MWC26",
+    "channel": "Orange",
+    "lang": "ko",
+    "upload_date": "20260309",
+    "fetched_at": "2026-07-24"
+  },
+  "RWwsb9p19FE": {
+    "title": "Teaser Don’t Go To The Police (FR)",
+    "channel": "Orange",
+    "lang": "ko",
+    "upload_date": "20260309",
+    "fetched_at": "2026-07-24"
+  },
+  "9P1rTWqqNLw": {
+    "title": "Teaser Don’t Go To The Police (EN)",
+    "channel": "Orange",
+    "lang": "ko",
+    "upload_date": "20260309",
+    "fetched_at": "2026-07-24"
+  },
+  "xPpwRnoZzlo": {
+    "title": "Bruno Zerbib on AI, Intelligent Networks and the Future of Connectivity | MWC 2026",
+    "channel": "Orange",
+    "lang": "ko",
+    "upload_date": "20260306",
+    "fetched_at": "2026-07-24"
+  },
+  "Sz4qc5FtJRs": {
+    "title": "Philippe Lucas about the new trends at #MWC26",
+    "channel": "Orange",
+    "lang": "ko",
+    "upload_date": "20260306",
+    "fetched_at": "2026-07-24"
+  },
+  "4wpvQI5w__s": {
+    "title": "Laurent Leboucher speaking at #MWC26.",
+    "channel": "Orange",
+    "lang": "ko",
+    "upload_date": "20260305",
+    "fetched_at": "2026-07-24"
+  },
+  "fLr4_fPK-hQ": {
+    "title": "Family Protection demo with Lyse Brillouet #MWC26",
+    "channel": "Orange",
+    "lang": "ko",
+    "upload_date": "20260304",
+    "fetched_at": "2026-07-24"
+  },
+  "t8Ej9aeW388": {
+    "title": "How IT Admins can manage ChatGPT Work at scale | OpenAI",
+    "channel": "OpenAI",
+    "lang": "en",
+    "upload_date": "20260723",
+    "fetched_at": "2026-07-24"
+  },
+  "zq88iLsSfMA": {
+    "title": "How Enterprise Teams Use ChatGPT Work | Zapier, Shopify & Virgin Atlantic",
+    "channel": "OpenAI",
+    "lang": "en",
+    "upload_date": "20260723",
+    "fetched_at": "2026-07-24"
+  },
+  "E0ZMOschrTU": {
+    "title": "Building with ChatGPT Voice",
+    "channel": "OpenAI",
+    "lang": "ko",
+    "upload_date": "20260723",
+    "fetched_at": "2026-07-24"
+  },
+  "lR58Dge8jE8": {
+    "title": "Health in ChatGPT is coming to U.S. users",
+    "channel": "OpenAI",
+    "status": "no_subs",
+    "fetched_at": "2026-07-24"
+  },
+  "E3dDr_QtBuo": {
+    "title": "Work with docs, sheets, and slides in ChatGPT",
+    "channel": "OpenAI",
+    "lang": "ko",
+    "upload_date": "20260723",
+    "fetched_at": "2026-07-24"
+  },
+  "MX95QbxSc9Q": {
+    "title": "How AI Agents Will Redesign Enterprise Work | Barak Kaufman, Wonderful",
+    "channel": "OpenAI",
+    "lang": "ko",
+    "upload_date": "20260723",
+    "fetched_at": "2026-07-24"
+  },
+  "4Nv--b12hxQ": {
+    "title": "How European Small Businesses Are Using ChatGPT and Codex | OpenAI Academy",
+    "channel": "OpenAI",
+    "lang": "ko",
+    "upload_date": "20260722",
+    "fetched_at": "2026-07-24"
+  },
+  "cFyFF3Ad2aM": {
+    "title": "How California Small Businesses Are Using ChatGPT | OpenAI Academy",
+    "channel": "OpenAI",
+    "lang": "ko",
+    "upload_date": "20260722",
+    "fetched_at": "2026-07-24"
+  },
+  "SvGLxXHYCd8": {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "channel": "OpenAI",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "V_l4vOL_1Ms": {
+    "title": "Shuo Li Liu - Coherence in RLHF Preference Data",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20260424",
+    "fetched_at": "2026-07-24"
+  },
+  "ZB5IAlFvt1c": {
+    "title": "Jiafei Duan  - Building Robotics Foundation Model with Reasoning in the loop",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20260424",
+    "fetched_at": "2026-07-24"
+  },
+  "-F69RzaY3bU": {
+    "title": "Aashish Rai  - Video Native Representations for 4D Gaussian Scenes",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20260420",
+    "fetched_at": "2026-07-24"
+  },
+  "F9eEYWX64ZA": {
+    "title": "Ekdeep Singh Lubana - From Probes to Rewards  Using Interpretability to Shape Training",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20260420",
+    "fetched_at": "2026-07-24"
+  },
+  "X84gmuT9RI8": {
+    "title": "Zifeng Liu - Human–AI Collaboration in Educational Assessment  Evaluating AI Generated Distractors",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20260413",
+    "fetched_at": "2026-07-24"
+  },
+  "kGu2lueXH9A": {
+    "title": "Juan Sebastian Rojas - A Differential Perspective on Risk Aware Reinforcement Learning",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20260413",
+    "fetched_at": "2026-07-24"
+  },
+  "ZXeRjVnVndQ": {
+    "title": "Niloofar Mireshghallah - Contextual Integrity in LLMs Benchmarking",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20260406",
+    "fetched_at": "2026-07-24"
+  },
+  "YD-9qyo9O4c": {
+    "title": "Yasser Benigmin - Domain Adaptation in the Era of Foundation Models",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20260327",
+    "fetched_at": "2026-07-24"
+  },
+  "0jlKxqP6QKo": {
+    "title": "We're Wired Differently - Trusted to deliver | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "zRnA2nbh-Xc": {
+    "title": "We're Wired Differently - Services Sales | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "U0iYojyeoYA": {
+    "title": "We're Wired Differently - Selling as a team sport | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "WAt6tkfKPdk": {
+    "title": "We're Wired Differently - Keep curious, keep growing | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "b7Ej7me-UgM": {
+    "title": "We're Wired Differently - Meet Olivia | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "cWxC6HLv2xg": {
+    "title": "We're Wired Differently - Meet Joseph | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "MdMCphxIQfQ": {
+    "title": "We're Wired Differently - Excited about tech | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "tgnn5ALRTO0": {
+    "title": "We're Wired Differently - Build partnerships not pipelines | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260710",
+    "fetched_at": "2026-07-24"
+  },
+  "plNDqkB116M": {
+    "title": "Expert AI Alliance Workshop - Teaser Trailer",
+    "channel": "LG AI Research",
+    "status": "no_subs",
+    "fetched_at": "2026-07-24"
+  },
+  "UGGdyGo659Q": {
+    "title": "LG AI Talk Concert 2021 | 초거대 AI 세션  4 - 조현직님",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20211229",
+    "fetched_at": "2026-07-24"
+  },
+  "b6B43VNW1jk": {
+    "title": "LG AI Talk Concert 2021 | 초거대 AI 세션  3 - 한장훈님",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20211229",
+    "fetched_at": "2026-07-24"
+  },
+  "gs6giF7RQ24": {
+    "title": "LG AI Talk Concert 2021 | 초거대 AI 세션  2 - 김태훈님",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20211229",
+    "fetched_at": "2026-07-24"
+  },
+  "l2jT5a4mc2M": {
+    "title": "LG AI Talk Concert 2021 | 초거대 AI 세션  1 - 이시행 리더",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20211229",
+    "fetched_at": "2026-07-24"
+  },
+  "IHI8w8f32D4": {
+    "title": "LG AI Talk Concert 2021 | 초거대 AI 세션 좌장 - 이홍락 CSAI",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20211229",
+    "fetched_at": "2026-07-24"
+  },
+  "yVyWzPzkjGo": {
+    "title": "LG AI Talk Concert 2021 | Applied AI 세션 5 - 민경구 리더",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20211229",
+    "fetched_at": "2026-07-24"
+  },
+  "zikZEWOD6LI": {
+    "title": "LG AI Talk Concert 2021 | Applied AI 세션 4 - 양진석 리더",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20211229",
+    "fetched_at": "2026-07-24"
+  },
+  "Pld4Xw5MexQ": {
+    "title": "LG AI Talk Concert 2021 | Applied AI 세션 3 - 심예슬 리더",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20211229",
+    "fetched_at": "2026-07-24"
+  },
+  "CtqKJV6gyGQ": {
+    "title": "Snowflake Summit 2026 Platform Keynote",
+    "channel": "Snowflake",
+    "lang": "en",
+    "upload_date": "20260611",
+    "fetched_at": "2026-07-24"
+  },
+  "XFNg0ouhRlg": {
+    "title": "Snowflake Summit 2026 Conference Highlights",
+    "channel": "Snowflake",
+    "lang": "en",
+    "upload_date": "20260610",
+    "fetched_at": "2026-07-24"
+  },
+  "Blcrurhsy5A": {
+    "title": "Simplify The Entire Data Development Lifecycle with Snowflake CoCo",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260609",
+    "fetched_at": "2026-07-24"
+  },
+  "z7KADy9iB7k": {
+    "title": "Snowflake Dev Day 2026 Highlights",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260606",
+    "fetched_at": "2026-07-24"
+  },
+  "J3NVppNR6_w": {
+    "title": "Set the Foundation for Trusted AI and Data with Snowflake AI Security",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260605",
+    "fetched_at": "2026-07-24"
+  },
+  "Dj7FhD7Ntng": {
+    "title": "Summit 2026 | Days 3 Highlights",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260605",
+    "fetched_at": "2026-07-24"
+  },
+  "AFMuEtyC8gg": {
+    "title": "Work Smarter with, Snowflake CoWork, Your Personal Work Agent",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260603",
+    "fetched_at": "2026-07-24"
+  },
+  "PJALep3Lxbo": {
+    "title": "Summit 2026 | Days 1 & 2 Highlights",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260603",
+    "fetched_at": "2026-07-24"
+  },
+  "UTfg-_EGurw": {
+    "title": "What Is NVFP4? Faster LLM Inference Without Losing Quality",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20260723",
+    "fetched_at": "2026-07-24"
+  },
+  "Bc8SMuzWvgc": {
+    "title": "How to Customize NVIDIA Nemotron 3 Nano With RLVR in Prime Intellect Lab",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20260723",
+    "fetched_at": "2026-07-24"
+  },
+  "AZ2zr0zOi5M": {
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20260428",
+    "fetched_at": "2026-07-24"
+  },
+  "Zlh49mWVydo": {
+    "title": "Two Ways to Fine-Tune JAX on NVIDIA GPUs: PEFT and SFT with Tunix and MaxText",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20260424",
+    "fetched_at": "2026-07-24"
+  },
+  "nHNUTptdveQ": {
+    "title": "How MITRE Corporation Harnesses NVIDIA Earth-2 to Forecast Wildfire Risk | GTC 2026",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20260422",
+    "fetched_at": "2026-07-24"
+  },
+  "nCy5Hpg-ozU": {
+    "title": "Build an Always-On AI Assistant with OpenClaw and NemoClaw on DGX Spark",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20260417",
+    "fetched_at": "2026-07-24"
+  },
+  "Kz-i33toG2g": {
+    "title": "Practical Context Engineering: Eliminate Bugs with High-Signal AI Code Reviews | NVIDIA GTC",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20260415",
+    "fetched_at": "2026-07-24"
+  },
+  "x3hK5x5-Bwk": {
+    "title": "How to Set Up and Use NVIDIA NemoClaw with MiniMax M2.7 | Demo",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20260415",
+    "fetched_at": "2026-07-24"
+  },
+  "Gc5AywQwGU4": {
+    "title": "Episode 4 Mercedes-Benz World Tour | Legends & Mountains: Argentina to Chile",
+    "channel": "Mercedes-Benz",
+    "lang": "en",
+    "upload_date": "20260319",
+    "fetched_at": "2026-07-24"
+  },
+  "ep3k4hsbS9w": {
+    "title": "TV Commercial with Kimi Antonelli: The all-new electric GLC.",
+    "channel": "Mercedes-Benz",
+    "lang": "en",
+    "upload_date": "20260317",
+    "fetched_at": "2026-07-24"
+  },
+  "IasPbYdD0DY": {
+    "title": "TV Commercial all-new electric GLB: Where everyone feels safe.",
+    "channel": "Mercedes-Benz",
+    "lang": "en",
+    "upload_date": "20260317",
+    "fetched_at": "2026-07-24"
+  },
+  "_PMKJ-Qyi98": {
+    "title": "Episode 3 Mercedes-Benz World Tour | Exploring South America’s Mountain Passes & Coastal Roads",
+    "channel": "Mercedes-Benz",
+    "lang": "en",
+    "upload_date": "20260312",
+    "fetched_at": "2026-07-24"
+  },
+  "v22HHcGyJS8": {
+    "title": "The all-new electric VLE | The Walkaround",
+    "channel": "Mercedes-Benz",
+    "lang": "ko",
+    "upload_date": "20260310",
+    "fetched_at": "2026-07-24"
+  },
+  "cn7UTobfO0E": {
+    "title": "Tomorrow xx: Does circular design give a new meaning to 'A Mercedes is built to last'?",
+    "channel": "Mercedes-Benz",
+    "lang": "ko",
+    "upload_date": "20260226",
+    "fetched_at": "2026-07-24"
+  },
+  "GHeGYyhLVDs": {
+    "title": "Episode 2 Mercedes-Benz World Tour | Motorsport Heritage & Rare Classics",
+    "channel": "Mercedes-Benz",
+    "lang": "ko",
+    "upload_date": "20260223",
+    "fetched_at": "2026-07-24"
+  },
+  "cMige6W4SzE": {
+    "title": "Episode 1 Mercedes-Benz World Tour | 140 Years. 140 Places. One Global Journey",
+    "channel": "Mercedes-Benz",
+    "lang": "ko",
+    "upload_date": "20260216",
+    "fetched_at": "2026-07-24"
+  },
+  "xnCH6zlKHcg": {
+    "title": "Duck Tales: Marketing at DuckDuckGo — how we practice the privacy we preach (Episode #9)",
+    "channel": "DuckDuckGo",
+    "lang": "ko",
+    "upload_date": "20251119",
+    "fetched_at": "2026-07-24"
+  },
+  "-jPBOoqHw9s": {
+    "title": "Duck Tales: Improving AI chat organization, and design decisions at DuckDuckGo (Episode 8)",
+    "channel": "DuckDuckGo",
+    "lang": "ko",
+    "upload_date": "20251112",
+    "fetched_at": "2026-07-24"
+  },
+  "s5WQmpMLUfc": {
+    "title": "Duck Tales: How DuckDuckGo protects users from different types of scams (Episode 7)",
+    "channel": "DuckDuckGo",
+    "lang": "en",
+    "upload_date": "20251105",
+    "fetched_at": "2026-07-24"
+  },
+  "-8B_NKltvGE": {
+    "title": "Duck Tales: The internet’s privacy problem, and how DuckDuckGo is solving it (Episode 6)",
+    "channel": "DuckDuckGo",
+    "lang": "en",
+    "upload_date": "20251029",
+    "fetched_at": "2026-07-24"
+  },
+  "kNE6lG4EDgM": {
+    "title": "Duck Tales: Customizing DuckDuckGo — now you can exclude certain websites from search results (EP5)",
+    "channel": "DuckDuckGo",
+    "lang": "ko",
+    "upload_date": "20251022",
+    "fetched_at": "2026-07-24"
+  },
+  "bxKEXFiPO14": {
+    "title": "Duck Tales: Delight at DuckDuckGo — & why we’ve created 350+ versions of our mascot (Dax) (EP4)",
+    "channel": "DuckDuckGo",
+    "lang": "ko",
+    "upload_date": "20251015",
+    "fetched_at": "2026-07-24"
+  },
+  "zeMMz0cUg3s": {
+    "title": "Duck Tales: DuckDuckGo now lets you customize the ‘personality’ of AI responses (episode 3)",
+    "channel": "DuckDuckGo",
+    "lang": "ko",
+    "upload_date": "20251008",
+    "fetched_at": "2026-07-24"
+  },
+  "wTIqhI5awnA": {
+    "title": "Duck Tales: Why DuckDuckGo built a way to filter out AI-generated images (episode 2)",
+    "channel": "DuckDuckGo",
+    "lang": "ko",
+    "upload_date": "20251001",
+    "fetched_at": "2026-07-24"
+  },
+  "Q9k9nX9WULs": {
+    "title": "Orange's approach to building networks of the future - AI RAN",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-24"
+  },
+  "R3b2BKzAv-Y": {
+    "title": "Telia leading the next wave of mobile network innovation with Nokia",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-24"
+  },
+  "6j-MJ-tIADE": {
+    "title": "Discoveries: when fiber becomes a sensor. A field trial on tomography",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-24"
+  },
+  "HTLBP2w_MuA": {
+    "title": "MCA & Nokia partnership | Powering the next generation mission-critical microwave transport networks",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260605",
+    "fetched_at": "2026-07-24"
+  },
+  "H6ZKIxCKisA": {
+    "title": "Tune Talk’s 5G Innovation Journey",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260603",
+    "fetched_at": "2026-07-24"
+  },
+  "PSPfAZ654eY": {
+    "title": "Small Cells: high-performance capacity and coverage for indoor and outdoor spaces",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-24"
+  },
+  "WXmWvgNPf5c": {
+    "title": "What is Orange's approach to building networks of the future?",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-24"
+  },
+  "EM33bROBOso": {
+    "title": "Private 5G in Industry: Denmark's First Standalone Testbed together with Nokia",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260601",
+    "fetched_at": "2026-07-24"
+  },
+  "CDnkFbW-uEQ": {
+    "title": "MoE Token Routing Explained: How Mixture of Experts Works (with Code)",
+    "channel": "Hugging Face",
+    "lang": "ko",
+    "upload_date": "20260122",
+    "fetched_at": "2026-07-24"
+  },
+  "3IpvO8KXjWg": {
+    "title": "Training Dashboards with Trackio + Hugging Face",
+    "channel": "Hugging Face",
+    "lang": "ko",
+    "upload_date": "20260122",
+    "fetched_at": "2026-07-24"
+  },
+  "kKc0FwiuRg8": {
+    "title": "OpenAI Agents SDK Crash Course (with Hugging Face Models)",
+    "channel": "Hugging Face",
+    "lang": "en",
+    "upload_date": "20260112",
+    "fetched_at": "2026-07-24"
+  },
+  "acBv3G8r-1Y": {
+    "title": "Reachy Mini at Nvidia's Jensen CES keynote",
+    "channel": "Hugging Face",
+    "lang": "en",
+    "upload_date": "20260109",
+    "fetched_at": "2026-07-24"
+  },
+  "dSGS6-iGhyo": {
+    "title": "Building Agents with Smolagents",
+    "channel": "Hugging Face",
+    "lang": "ko",
+    "upload_date": "20260105",
+    "fetched_at": "2026-07-24"
+  },
+  "I6Bgu2QV1D4": {
+    "title": "How to contribute to Open Source - 7 EASY steps 🤗",
+    "channel": "Hugging Face",
+    "lang": "ko",
+    "upload_date": "20251228",
+    "fetched_at": "2026-07-24"
+  },
+  "KZWY1lQlZG4": {
+    "title": "HuggingChat | Chat with Open Models",
+    "channel": "Hugging Face",
+    "lang": "ko",
+    "upload_date": "20251221",
+    "fetched_at": "2026-07-24"
+  },
+  "F2jd5WuT-zg": {
+    "title": "Steering LLM Behavior Without Fine-Tuning",
+    "channel": "Hugging Face",
+    "lang": "ko",
+    "upload_date": "20251217",
+    "fetched_at": "2026-07-24"
+  },
+  "wVItfYIcPKw": {
+    "title": "Understanding Hydrogenation of Alkenes Ft. Professor Dave",
+    "channel": "Chegg",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-07-24"
+  },
+  "p_YTjUPlSqg": {
+    "title": "Understanding the Wolff-Kishner Reaction Ft. Professor Dave",
+    "channel": "Chegg",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-07-24"
+  },
+  "krkDGN3CQaA": {
+    "title": "Introduction to Ethers Ft. Professor Dave",
+    "channel": "Chegg",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-07-24"
+  },
+  "ieED2XCLEJ4": {
+    "title": "What Is Zaitsev's Rule? Ft. Professor Dave",
+    "channel": "Chegg",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-07-24"
+  },
+  "a9PAk6oTQg0": {
+    "title": "Understanding Vapor Pressure | Professor Dave & Chegg Explain",
+    "channel": "Chegg",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-07-24"
+  },
+  "WApqcD91OjU": {
+    "title": "What is the VSEPR Model? | Professor Dave & Chegg Explain",
+    "channel": "Chegg",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-07-24"
+  },
+  "TsLvNwOIVC0": {
+    "title": "Introduction to Titrations | Professor Dave & Chegg Explain",
+    "channel": "Chegg",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-07-24"
+  },
+  "QrEB8H3wmuY": {
+    "title": "What Is the Doppler Effect? | Physics",
+    "channel": "Chegg",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-07-24"
+  },
+  "FC4dnJR1ap8": {
+    "title": "ソフトバンク株式会社 2025年度 事業報告",
+    "channel": "SoftBank",
+    "lang": "ko",
+    "upload_date": "20260623",
+    "fetched_at": "2026-07-24"
+  },
+  "5z_v9C-HSNc": {
+    "title": "ソフトバンクCM「白戸家 ケンティー参上」篇",
+    "channel": "SoftBank",
+    "lang": "ko",
+    "upload_date": "20260612",
+    "fetched_at": "2026-07-24"
+  },
+  "Nm10GvsZkV4": {
+    "title": "スマホなんでもサポート号のご紹介",
+    "channel": "SoftBank",
+    "lang": "ko",
+    "upload_date": "20260612",
+    "fetched_at": "2026-07-24"
+  },
+  "ialjiIyBdqo": {
+    "title": "「AIの利用が増え続けると…」データ処理需要にどう応えるか。北海道苫小牧市で建設が進む次世代AIデータセンター",
+    "channel": "SoftBank",
+    "lang": "ko",
+    "upload_date": "20260610",
+    "fetched_at": "2026-07-24"
+  },
+  "1ZrdyHO1N-0": {
+    "title": "Wi-Fiルーターはいつ替えるべき？ 通信が遅く感じたときのチェックポイント",
+    "channel": "SoftBank",
+    "lang": "ko",
+    "upload_date": "20260603",
+    "fetched_at": "2026-07-24"
+  },
+  "fijKFCIOITs": {
+    "title": "【SoftBank Cross Voices vol2】",
+    "channel": "SoftBank",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-24"
+  },
+  "04-2wtsfKmU": {
+    "title": "通話中にスマホの画面を開く方法（連絡先、Safari、メールなど）［iPhone］",
+    "channel": "SoftBank",
+    "status": "no_subs",
+    "fetched_at": "2026-07-24"
+  },
+  "4ecYfsLp-c8": {
+    "title": "通話中にスピーカーに切り替える方法［iPhone］",
+    "channel": "SoftBank",
+    "status": "no_subs",
+    "fetched_at": "2026-07-24"
+  },
+  "iA7E0ZGLMCs": {
+    "title": "海外からの電話番号メールを拒否する方法［My SoftBankアプリ］",
+    "channel": "SoftBank",
+    "status": "no_subs",
+    "fetched_at": "2026-07-24"
+  },
+  "OVQz7oGBxS0": {
+    "title": "海外からの電話番号メールを拒否する方法［My SoftBankウェブ］",
+    "channel": "SoftBank",
+    "status": "no_subs",
+    "fetched_at": "2026-07-24"
   }
 }

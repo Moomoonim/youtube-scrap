@@ -1,0 +1,13 @@
+# Snowflake Summit 2026 Conference Highlights
+
+- 영상 링크: https://www.youtube.com/watch?v=XFNg0ouhRlg
+- 채널: Snowflake
+- 업로드일: 2026-06-10
+- 자막 언어: en
+- 단어 수: 약 410개
+
+---
+
+## 스크립트
+
+[music] &gt;&gt; The future of AI isn't just getting an answer. It's about turning fragmented systems into actionable insights. &gt;&gt; We went all in with Snowflake because it's the cohesion or the continuum of data was a necessity for us. &gt;&gt; We care about developing artificial intelligence responsibly and safely. &gt;&gt; The opportunity in front of every organization, it is [music] transformational. &gt;&gt; The Snowflake AI data cloud delivers the ideal foundation [music] to power new agency enterprise. &gt;&gt; We think of Cortex as the tool that you need to get in front of [music] everyone in your organization. &gt;&gt; Cortex for desktop &gt;&gt; generally available today. &gt;&gt; We're bringing SpaceX's AI models available in the Cortex. [music] &gt;&gt; We are extremely excited about the acquisition of Natooma. &gt;&gt; We've really leveraged our partnership with Snowflake. It's really enabled us to move forward with speed. [music] &gt;&gt; That partnership is what enabled us to go beyond the great technology that you all deliver, make sure performance meets the business needs. &gt;&gt; That's the transformation we came [music] to Snowflake. &gt;&gt; So, where does your road map take you? &gt;&gt; I think we're just getting started. &gt;&gt; [music] &gt;&gt; The time is now. We have a very exciting talk coming up. This is from real production stories. [music] &gt;&gt; [applause] &gt;&gt; We wanted to take advantage of the Snowflake scalability. &gt;&gt; I'm going to talk about what would an ML [music] engineer do, how they can be assisted by Cortex. &gt;&gt; Once the sample is generated from our model, [music] we want to make it available in Snowflake as soon as possible. &gt;&gt; [music] &gt;&gt; Welcome to Dev Day 26. &gt;&gt; Everyone is supercharging outcomes. The curious are truly leading the way. &gt;&gt; I want to set the tone up front. Today is all about you. &gt;&gt; There's this broader trend in the industry to this role of AI engineering. &gt;&gt; These are tools that amplify what we can do. &gt;&gt; Welcome to the grand finale of the Snowflake Startup Challenge. How we doing? &gt;&gt; What is the size of the problem these companies are solving? And do they have the passion [music] and the grit to go after it? &gt;&gt; San Francisco, make some noise. &gt;&gt; I hope you folks had an amazing summit. &gt;&gt; [music] &gt;&gt; Lots of energy. &gt;&gt; It's the best summit ever. &gt;&gt; Summit is out of this world. &gt;&gt; See you next year with Snowflake.
