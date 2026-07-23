@@ -8,3 +8,8 @@
 ## 06:21 수집 (1개)
 
 - [AX란 무엇인가  시니어를 위한 인공지능 전환가이드](AX란_무엇인가_시니어를_위한_인공지능_전환가이드__exmuGNCG00g.md) (ko) — [원본](https://www.youtube.com/watch?v=exmuGNCG00g)
+
+## 15:39 수집 (2개)
+
+- [수십대 Ai PC로 일 안 해도 50억 자동 현금자판기 만든 40대 만물상](수십대_Ai_PC로_일_안_해도_50억_자동_현금자판기_만든_40대_만물상__Ohfme0K4GMM.md) (ko) — [원본](https://www.youtube.com/watch?v=Ohfme0K4GMM)
+- [Why SMB Companies Fail at AI Transformation and How to Avoid Such Failure](Why_SMB_Companies_Fail_at_AI_Transformation_and_How_to_Avoid__gbP_TrZnPTs.md) (ko) — [원본](https://www.youtube.com/watch?v=gbP_TrZnPTs)
