@@ -1,6 +1,6 @@
 # 채널/출처별 수집 요약
 
-총 2169건 · 163개 채널/출처
+총 2187건 · 165개 채널/출처
 
 ## Weights & Biases (64건)
 
@@ -196,6 +196,176 @@
 - **[Taking agents from demo to production: Product overview from Weights & Biases by CoreWeave](https://www.youtube.com/watch?v=AQXCG6v6D10)** — 2025-12-01 · ko · `unclassified`
   대규모 언어 모델이 수학 올림피아드에서 만점을 받고, 새로운 단백질을 설계하고, 변호사 시험에 합격할 수 있다면, 왜 인공지능 에이전트가 아직 모든 곳에 보급되지 않았을까요? 그들은 어려운 과제를 훌륭하게 수행하지만, 인간이라면 하지 않을 간단한 실수도 저지릅니다. 데모에서 실제 제품으로의 전환을 가로막는 장애물은 기능이 아니라 신뢰성입니다. 신뢰성 문제에도 불구하고, 소수 의 기업들이 이미 에이전트를 운영 중입니다. 그들은 어떻게 해냈을까? 그 비결은 바로 새로운 AI 개발자 툴 스택에 있습니다.
 
+## Boston Dynamics (56건)
+
+- **[Spot Mariana Minerals | Boston Dynamics](https://www.youtube.com/watch?v=KywMP9_SyRg)** — 2026-07-22 · ko · `unclassified`
+  Mariana Minerals는 소프트웨어 우선 [음악] 채굴 회사로서 사실상 유일한 회사입니다. 핵심은 현장에 배치된 센서 솔루션을 데이터 저장, 분석 , 운영자에게 시각화, 그리고 더 나은 의사 결정을 통해 운영 프로세스를 최적화하는 데 사용하는 소프트웨어 프레임워크에 통합하는 것입니다. 코브레 1은 유타주 모압 근처에 있는 저희 시설입니다 . 저희는 퇴적암 모암에서 광석을 채굴한 다음 분쇄하여 침출 패드에 넣고 구리 광석을 추출한 후 정제하여 순도 99%의 구리 음극을 만들어 고객에게 판매합니다.
+
+- **[Atlas' Journey to FIFA World Cup 2026™ | Boston Dynamics](https://www.youtube.com/watch?v=cCNkgD3qXvg)** — 2026-07-15 · en · `unclassified`
+  We brought Atlas to the New York, New Jersey Stadium for one of the round of 16 games and we were able to use the robot to hand the game ball off to the referees at halftime to start the second half of the game. It was great. I'm Seth Davis. I am a senior program manager on the Atlas team. &gt;&gt; [music] &gt;&gt; It was really important with Atlas to build a robot that could kind of do anything.
+
+- **[Going the Extra Mile with Spot | Boston Dynamics](https://www.youtube.com/watch?v=EI1zFxLVkrs)** — 2026-07-14 · en · `unclassified`
+  [music] &gt;&gt; Woo!
+
+- **[Spot at Coca-Cola Europacific Partners | Boston Dynamics](https://www.youtube.com/watch?v=em5RQCq5zyc)** — 2026-07-08 · en · `unclassified`
+  [music] &gt;&gt; For CCEP, we're always looking at new technology [music] that will enhance the production, will enhance the maintenance, [music] and Spot fits right in. With the inspections that he does and the information, the data [music] that we get back, really helps us for one, reliability, maintenance, basically [music] capturing issues out in the line prior to them becoming a big issue. It's is paramount, [music] paramount.
+
+- **[School of Football | Making Of | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=qYy-BwBpxBI)** — 2026-06-04 · en · `unclassified`
+  The biggest challenge in robotics is getting robots to move more naturally. To move naturally, a robot must learn balance, timing, coordination, and adaptation simultaneously. [music] So, we looked for an activity that demands all of them. Football. A sport built on balance, coordination, precision, the world's most complete school of movement. So, we asked ourselves, could football teach a robot to move more naturally?
+
+- **[School of Football | The Ghost Rabona | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=V1Lxp-Q6Y9g)** — 2026-05-29 · en · `unclassified`
+  These past weeks, Atlas learned to move through football and while doing so, he mastered a new move. We called it the ghost rabona. Not just any rabona. It's a new kind of rabona that's made to deceive. Start with a normal shot. Swing toward the ball like you're about to strike it, forcing the keeper to commit early. Lift your leg over the ball instead of hitting it.
+
+- **[School of Football | The Rabona | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=mCcv90sUNbY)** — 2026-05-28 · en · `unclassified`
+  Oh, la la. &gt;&gt; [music] &gt;&gt; Oh, la la. &gt;&gt; [singing] &gt;&gt; Oh, la la.
+
+- **[School of Football | The Basics | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=ITCklufC25Y)** — 2026-05-26 · ko · `unclassified`
+  가 들다가
+
+- **[How does Atlas learn? | Inside the Lab | Boston Dynamics](https://www.youtube.com/watch?v=xKK5ze3FukQ)** — 2026-05-18 · ko · `unclassified`
+  셋, 둘, 하나 필요해. [음악] 보스턴 다이내믹스에서 일한 지 6주째인데 , [음악] 냉장고가 제 첫 번째 프로젝트였어요. 원래는 연말 프로젝트로 목표로 삼고 있다고 들었는데, 아시다시피 2주짜리 프로젝트가 되어버렸어요 . 차세대 아틀라스는 정말 흥미로운 로봇입니다. 설계 작업을 시작했을 때, 우리는 저렴한 비용, 손쉬운 제조, 신뢰성 및 단순성을 고려한 로봇을 만드는 것을 목표로 삼았습니다. 오른쪽? 그러니까, 사실 이건 우리가 최대한 복잡성을 줄이려고 노력한 로봇이에요 .
+
+- **[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)** — 2026-04-14 · ko · `unclassified`
+  [음악] 우.
+
+- **[The To Do List with Spot | Boston Dynamics](https://www.youtube.com/watch?v=LP4-c5AK30g)** — 2026-04-14 · en · `unclassified`
+  [music] &gt;&gt; Woo!
+
+- **[Form & Function of Enterprise Humanoid Design | Boston Dynamics Tech Talk | Atlas](https://www.youtube.com/watch?v=wL0-Pu_8F0U)** — 2026-03-18 · ko · `unclassified`
+  함께해 주셔서 감사합니다. 저는 크리스 쏜입니다. 저는 지금 아론 아브로프, 제임스 쿠체라와 함께 있습니다. 오늘은 새로운 Atlas 하드웨어 설계에 대해 논의하겠습니다. 저는 Atlas 하드웨어 팀을 이끌고 있습니다. 저는 보스턴 다이내믹스에서 약 15년 ​​동안 근무했습니다. 그중 절반 이상은 아틀라스 개발에만 전념한 시간이었다 . BD에 합류하기 전에는 펜실베이니아 대학교의 GRASP 연구실에 있었고 , 그곳에서 기계공학 박사 학위를 받았습니다 . 애런, 간단하게 자기소개를 해주시겠어요 ? 저는 보스턴 다이내믹스에서 6년 동안 근무했습니다.
+
+- **[ST Engineering MRAS | Boston Dynamics](https://www.youtube.com/watch?v=mH4NLGI64MM)** — 2026-02-18 · ko · `unclassified`
+  Spot이 우리를 위해 무엇을 하고 있냐고 물으신다면 , Spot은 우리가 이전에는 갖지 못했던 데이터를 수집하고 있다고 말씀드릴 수 있습니다 . 이를 통해 우리는 중요한 장비 통계 기록으로 가득 찬 데이터베이스를 구축할 수 있으며, 궁극적으로 이를 사용하여 기계 고장을 진단하거나 예방하여 가동 시간을 유지하고 기계 주변에서 작업하는 사람들의 안전을 확보할 수 있습니다 . 제 이름은 마크 헤밍입니다. 저는 SD 엔지니어링 소속입니다. 저희 시설은 150만 평방피트 규모이며 항공기용 복합 소재 보너스를 제조합니다.
+
+- **[Spot Cam 2  | Boston Dynamics](https://www.youtube.com/watch?v=de06_CLqrM0)** — 2026-01-20 · ko · `unclassified`
+  [음악] 오.
+
+- **[The Beginning of Your Tomorrow I Boston Dynamics](https://www.youtube.com/watch?v=sd8ivhpjI6g)** — 2026-01-05 · ko · `unclassified`
+  어린 시절, 우리는 내일의 희망을 꿈꿨습니다 . 공상 과학 소설이 현실이 되는 미래. 우리의 여정은 거기서 시작되었습니다. 우리의 목표는 간단했습니다. 무엇이 가능한지 알아보기 위해서. 동물과 인간은 음악을 통해 세상 속에서 너무나 쉽게 움직인다. 우리의 관심사는 '어떻게'였다. 그래서 우리는 그들에게 다리, 팔, 손을 달아주었습니다. 여러분은 우리 로봇들이 불가능한 일을 해내는 것을 보셨습니다 . 점프하고, 달리고, 오르고, 뒤집으세요. 그러고 나서 우리는 " 힘든 작업을 자동화할 수 있다면 어떨까?
+
+- **[The Humanoid Mission in Manufacturing | Boston Dynamics Tech Talk](https://www.youtube.com/watch?v=SRZ9E48B6aM)** — 2025-12-17 · ko · `AX`
+  환영. 저는 잭 지코스키이고, 이쪽은 알베르토 로드리게스입니다. 저희는 보스턴 다이내믹스 스튜디오에서 아틀라스의 휴머노이드 제조 사업 과 휴머노이드 두뇌를 만드는 방법에 대해 이야기하기 위해 왔습니다 . 저는 잭입니다. 저는 보스턴 다이내믹스에서 휴머노이드 로봇, 즉 아틀라스 부문을 이끌고 있습니다. 음, 저는 이 회사에 약 15년 ​​정도 근무했습니다. 음, 아틀라스의 리더를 맡기 전에는 스팟을 이끌었습니다. 간단하게 자기소개를 해주시겠어요? 응. 안녕, 잭. 안녕하세요, 제 이름은 알베르토 로드리게스이고, 약 4년 전에 보스턴 다이내믹스에 입사했습니다.
+
+- **[Why Humanoids Are the Future of Manufacturing | Boston Dynamics Webinar](https://www.youtube.com/watch?v=laexcnaTrDM)** — 2025-11-18 · ko · `AX`
+  안녕하세요 여러분. 오늘 함께해 주셔서 정말 감사합니다. 그리고 알베르토 씨도 오늘 함께해 주셔서 감사합니다. 저는 야 더반이고, 아틀라스 제품 팀에서 휴머노이드 애플리케이션 제품 전략을 총괄하고 있습니다. 즉, 저는 이 로봇을 어디서부터 시작할지, 그리고 고객이 장기적으로 이 로봇에게 무엇을 기대하는지 결정하여, 시간이 지남에 따라 그 목표를 달성하기 위한 훌륭한 전략을 수립할 수 있도록 합니다. 제 전공은 창고 로봇공학입니다. 저는 식스 리버 시스템즈라는 회사 출신인데, 그 회사에서는 사람들이 직접 작업하는 창고 환경에 AMR(자율 이동 로봇)을 도입했습니다
+
+- **[Inside the Stretch Test Lab | Boston Dynamics](https://www.youtube.com/watch?v=RpvSMqOT7ls)** — 2025-10-28 · ko · `unclassified`
+  안녕. 스트레치 테스트 웨어하우스에 오신 것을 환영합니다 . 저는 샤론 알루마이고, 보스턴 다이내믹스의 창고 로봇 팀에서 제품 관리자로 일하고 있습니다. 이곳에서 Stretch 엔지니어들은 다양한 작동 시나리오에서 로봇에 대한 일련의 테스트를 수행하여 고객 현장에 배포하기 훨씬 전에 솔루션을 평가하고 미세 조정할 수 있습니다 . [음악] 이건 진짜 창고처럼 지어졌어요 . 저희는 테스트 시설 내에서 고객의 환경을 최대한 재현하기 위해 노력합니다. 이를 통해 시스템이 실제 환경에서와 마찬가지로 이곳에서도 정상적으로 작동하고 동작하는지 확인할 수 있습니다
+
+- **[What's in a humanoid hand? | Boston Dynamics](https://www.youtube.com/watch?v=gS4rOqNDTBk)** — 2025-10-08 · ko · `unclassified`
+  유압식에서 전기식으로의 전환은 우리에게 흥미로운 출발점을 제공했습니다. 우리는 보스턴 다이내믹스와 아틀라스가 단순히 이동과 운동뿐 아니라 조작에도 더 집중하고 싶어한다는 것을 거의 동시에 알게 되었습니다 . 그리고 그것은 더 높은 정밀도를 가진 집게를 탐구하는 자연스러운 계기가 되었습니다 . 우리는 처음부터 집게 개발 과정이 긴 여정이라는 것을 알고 있었습니다. 그리퍼는 휴머노이드 로봇에서 가장 복잡한 부품 중 하나입니다 . 어, 그 제품들은 엄청나게 많은 기능을 갖추고 있어요.
+
+- **[Air Spot | RL Behavior Research | Boston Dynamics](https://www.youtube.com/watch?v=LMPxtcEgtds)** — 2025-08-27 · ko · `unclassified`
+  제자리에서 트리플 백플립을 할 때 가장 무서운 점은 아마도 이러한 상황에서 장비가 고장날 수 있는 모든 가능성을 파악하고, 그 고장을 최소화하는 방법을 찾는 것일 겁니다 . 이것이 트리플 백플립을 할 때 가장 무섭고 어려운 부분일 것입니다. [음악] 저는 아룬 쿠마르입니다. 저는 Spot 행동 팀 소속이며 현재 Spot을 위한 강화 학습 연구를 진행하고 있습니다 . 스팟은 계단을 걸어 올라갈 수 있는 등 유용한 행동들을 많이 가지고 있습니다 .
+
+- **[Spot at POSCO | Boston Dynamics](https://www.youtube.com/watch?v=V7D7jXF2pj8)** — 2025-07-09 · ko · `unclassified`
+  철강 제조 현장, 제철 현장이라고도 하는데요. 이런 것들은 직원들의 안전 확보가 최우선적인 과제입니다. 스팟 같은 경우에 무엇보다도 작업자의 위험 노출을 최소화하고 안전 리스크를 제거하는데도 큰 도움이 되고 있습니다. 포스코 그룹은 2016년부터 스마트 팩토리 추진을 통해 제조 공정 중심으로 자동화 AI 모델을 적용하였고 2019년 세계 경제 포럼으로부터 철강사 최초 등대 공장에 선정되어 4차 산업 혁명 기술을 선도적으로 활용하는 제조 기업으로 인정받았습니다. 고로 주변 같은 경우는 고온 가스 분진 이런 것들로 작업자들이 위험에 노출될 수밖에 없는 그런 환경인데요.
+
+- **[Spot at Cargill | Boston Dynamics](https://www.youtube.com/watch?v=AqRquSReZHY)** — 2025-06-17 · en · `unclassified`
+  Our vision is to have autonomous plant operations where the operators go from reactive work to more proactive work. And by using new technologies such as spot, we want to free up time for the operators and to have more stable process operations. We're here in Amsterdam at Cargo Multi Seedat. My name is Martin Blommenstein. I'm plant manager of this location and we're going to have a look inside at spot the robbo do.
+
+- **[Check it off the list, with Spot & Orbit | Boston Dynamics](https://www.youtube.com/watch?v=xWmWmhRt-fs)** — 2025-06-04 · en · `unclassified`
+  [Music] What if you could start your day ready for everything that needs to be done? With Orbit and Spot, you can. Your operation has a lot of moving parts, but your team is always one step ahead with a digital record of your facility. Orbit has the pulse on operations, catching overheating equipment, air leaks, and now with AI powered inspections, things that shouldn't be there at all.
+
+- **[Perception and Adaptability | Inside the Lab with Atlas](https://www.youtube.com/watch?v=oe1dke3Cf7I)** — 2025-05-28 · en · `AX`
+  [Music] Things that are simple for humans, such as social or motoral skills, are difficult for robots. things are easy for robots which is like large scale calculations or large scale data analysis are very difficult for humans in robotics. This is what we call the Moravex paradox. This is because uh motor and perception skills were developed in humans by millions of years of evolution.
+
+- **[Stretch at Gap | Boston Dynamics](https://www.youtube.com/watch?v=_dhwRYdZs9w)** — 2025-03-26 · ko · `unclassified`
+  [음악] 저희 시설은 캐나다 온타리오주에서 텍사스주까지, 그리고 미국 동서 해안까지 넓게 펼쳐져 있습니다. 그러니까 영하의 날씨에 트레일러에서 짐을 내릴 수도 있고, 섭씨 40도가 넘는 무더운 날씨에 작업을 할 수도 있다는 거죠. 그래서 좀처럼 용서가 없는 편이죠. 스트레칭이 실제로 우리 선수들의 컨디션을 향상시키고 부상률을 줄이는 데 도움이 된다는 사실입니다. 이건 우리에게 엄청난 이점입니다. [음악] 스트레치는 창고용으로 설계된 이동형 조작 로봇입니다. 기본적으로 운영자가 장비를 컨테이너 안으로 옮기면 그 후로는 자체적으로 작동합니다.
+
+- **[Pick, Carry, Place, Repeat | Inside the Lab with Atlas](https://www.youtube.com/watch?v=v8UaiRgqvlc)** — 2025-03-05 · ko · `unclassified`
+  좋아요, 다시 시도해 볼게요. 확대해서 3, 2, [음악] 1. 오늘날 사람들이 휴머노이드 로봇에 그토록 관심을 갖는 핵심 이유는 이전에는 볼 수 없었던 방식으로 다양한 작업과 응용 분야를 자유자재로 전환할 수 있는 진정으로 유연한 로봇 솔루션이라는 가능성 때문입니다. 로봇 공학의 세계는 인간을 위해 만들어졌고, 휴머노이드 로봇의 가장 큰 가능성은 인간이 만든 환경에 들어가 즉시 가치를 더할 수 있다는 것입니다. 이전 세대의 앨리스는 뛰어다니고, 점프하고, 뒤집는 등 매우 역동적인 동작을 많이 수행할 수 있었습니다
+
+- **[Spot at Ash Grove Cement | Boston Dynamics](https://www.youtube.com/watch?v=4s7_ng-pSow)** — 2025-02-25 · en · `unclassified`
+  [Music] SP is able to reach areas that are difficult for human beings uh areas that could have risk to them like high temperature areas that we have in our process he has already a bundle of sensors which human beings don't have them so ashko is one of the leading cement producers in America almost 100 years so the facility has been here for almost 100 years we've got …
+
+- **[Spot at Code & Circuit | Boston Dynamics](https://www.youtube.com/watch?v=UVpkyJto-DQ)** — 2024-11-26 · en · `unclassified`
+  every presentation that I do regardless of age not only do we get into Robotics and what spot is made of what a robot is made of how a robot is operated and controlled and coded but we have students who have collaborated to code voice command for spot who created a scratch interface for spot so that when I go out into schools students can actually code spot using …
+
+- **[Spot Watches Its Step | Boston Dynamics](https://www.youtube.com/watch?v=YD9EaS3VRbc)** — 2024-11-14 · en · `AX`
+  we're always trying to make spots smarter so we're trying to constantly improve its ability to interact with and understand the world around [Music] it I work on the spot autonomy team and since I've joined I've been working a lot with integrating deep learning into our perception stack for spot spot has five stereo cameras it largely sees the world through those we mostly use the depth data from …
+
+- **[Stretch at Arvato | Boston Dynamics](https://www.youtube.com/watch?v=MGbsDK3Cjxw)** — 2024-10-29 · ko · `unclassified`
+  [음악] 여기 아르바도에서는 고객과 긴밀히 협력하여 물류 및 공급망 운영에서 발생하는 다양한 문제를 해결하고 있습니다. 저희는 컨테이너에 낱개로 적재된 박스부터 출고 과정까지 완전히 자동화하는 비전을 가지고 있었습니다. 이미 스캐닝, 체계적인 팔레트 구축 및 분류 시스템은 갖추고 있었고, Stretch는 진정한 자동화된 로로( Lo-Lo) 적재/하역 솔루션을 완성하는 데 필요한 마지막 퍼즐 조각이었습니다. Stretch는 낱개로 적재된 모든 박스를 하역할 수 있으며, 약간의 로직 변경만으로 백엔드 분류 작업을 개선하고 상상 이상으로 높은 처리량을 달성할 수 있게 해줍니다.
+
+- **[Spot at Michelin | Boston Dynamics](https://www.youtube.com/watch?v=DTNWH9wN57s)** — 2024-10-23 · en · `unclassified`
+  we manufactured the future here at Michin tire and I don't think you can get more into future than a mobile [Music] robot my name is Wayne Pender I'm the tech methods and reliability manager here at us5 in lexton South Carolina we're a passenger tire and lightake truck division of Michelin my name is Ryan Burns I work in the reliability and methods Department we make sure that all …
+
+- **[Music to Your Ears | Boston Dynamics](https://www.youtube.com/watch?v=_5gzV4Q3VXE)** — 2024-09-24 · ko · `unclassified`
+  [음악] 재앙적인 사건을 사전에 예측하고 회전 장비의 미세한 진동 변화까지 감지하는 것이 이렇게 쉬웠다면 얼마나 좋을까요? 음향 진동 감지 기능을 갖춘 Spot을 소개합니다.
+
+- **[Stretch Debuts in Europe at Otto Group](https://www.youtube.com/watch?v=q6TuHGJamR8)** — 2024-09-19 · ko · `unclassified`
+  [음악] 오토 그룹은 지속적으로 물류의 미래를 적극적으로 만들어가고 있으며, 창고에 스트레치(Stretch)를 최초로 도입한 것은 우리가 올바른 방향으로 나아가고 있음을 증명하고 보스턴 다이내믹스와 오토 그룹 간의 전략적 파트너십의 힘을 보여줍니다. 우리의 목표는 운영 효율성을 높이고 창고 업무를 더욱 매력적으로 만들어 물류 프로세스를 강화하는 것이며, 스트레치와 같은 기술 혁신 및 자동화는 이러한 목표 달성에 매우 효과적인 도구입니다. [음악] 스트레치는 창고용 이동식 케이스 핸들링 로봇으로, 바닥에 적재된 박스가 있는 해상 컨테이너와 트레일러를 하역할 수 있습니다
+
+- **[Meet Sparkles | Boston Dynamics](https://www.youtube.com/watch?v=MG4PPkCyJig)** — 2024-04-29 · ko · `unclassified`
+  [음악] k h [음악]
+
+- **[Farewell to HD Atlas](https://www.youtube.com/watch?v=-9EM5_VFlt8)** — 2024-04-16 · ko · `unclassified`
+  [음악] h [음악] Oh [음악] p [음악] [박수] W [음악] [박수] [음악] k [음악] h [음악]
+
+- **[What does it take to put Spot to work? | Boston Dynamics](https://www.youtube.com/watch?v=_Ux-N-NK2GM)** — 2024-04-10 · ko · `unclassified`
+  [음악] 알라 [음악] [박수 갈채] [음악]
+
+- **[First for You | Spot for First Responders | Boston Dynamics](https://www.youtube.com/watch?v=sll6EB810mg)** — 2024-03-26 · ko · `unclassified`
+  보스턴 다이내믹스는 인간의 창의력이 인간의 삶에 도움이 되어야 한다고 믿습니다. 그래서 우리는 당신을 위해 스팟을 설계했습니다. 스팟은 위험에 가장 먼저 뛰어드는 로봇입니다. 다른 사람들이 도망칠 때 먼저 뛰어드는 로봇, 가장 위험한 상황을 해결하는 로봇, 항상 다른 사람들의 안전을 최우선으로 생각하는 로봇입니다. 우리는 이러한 단순한 생각이 보스턴 다이내믹스의 모든 혁신을 이끌어가는 원동력이라는 점에 감사드립니다. 스팟은 단순한 로봇이 아니라, 인류에게 힘을 실어주고 삶을 향상시키는 놀라운 기계를 만들고자 하는 우리의 신념을 완벽하게 구현한 것입니다
+
+- **[Stepping Up | Reinforcement Learning with Spot | Boston Dynamics](https://www.youtube.com/watch?v=Kf9WDqYKYQQ)** — 2024-03-19 · ko · `AX`
+  매일 로봇들이 움직이고 , 매일 우리 사무실에서 놀라운 일들을 해내고 있습니다. 매일매일 그런 모습을 볼 수 있다는 게 정말 멋진 일이죠. 저는 폴 데모니코이고, Spot Locomotion 팀의 로봇 엔지니어입니다. 저희 팀은 로봇 공학자와 소프트웨어 엔지니어들로 구성되어 있으며, Spot이 전 세계 어디든 이동할 수 있도록 만드는 일을 담당하고 있습니다. 보스턴 다이내믹스는 수십 년 동안 다족 로봇을 개발해 왔는데, 이는 로봇에 대한 이해 와 모델링 능력, 특히 모델 예측 제어(MPC) 기술 덕분입니다.
+
+- **[Stretch at MODEX 2024 | Boston Dynamics](https://www.youtube.com/watch?v=rCZHlfS_pdM)** — 2024-03-13 · ko · `unclassified`
+  제 이름은 알렉스 퍼킨스입니다. 저는 스트레치 프로그램의 수석 로봇 엔지니어 로서, 오늘 여러분이 보실 자율 주행 기능을 개발하는 소프트웨어 팀을 이끌고 있습니다. 오늘 저희는 스트레치가 트레일러, 트럭, 선적 컨테이너에서 자율적으로 하역하는 모습을 시연하고 있습니다. 이러한 컨테이너는 바닥에 쌓인 최대 50파운드(약 23kg) 무게의 상자들로 구성되어 있으며, 크기는 최대 90cm에 달합니다. 상당히 큰 상자들도 있습니다. 하역된 상자들은 컨베이어 벨트 로 옮겨져 제조 또는 물류 시설의 나머지 부분으로 운반됩니다.
+
+- **[Spot at Chevron | Boston Dynamics](https://www.youtube.com/watch?v=H-df4_VNEvk)** — 2024-02-20 · ko · `unclassified`
+  [음악] 로봇을 다루는 것은 제 열정입니다. 지상 로봇이든 비행 드론이든 상관없이 로봇 과 로봇 공학을 접하며 기술을 활용하는 방법, 현재 안전하거나 경제적으로 수집하기 어려운 정보를 지상 로봇을 통해 얻는 방법을 연구하는 것을 즐깁니다. 그래서 보스턴 다이내믹스의 프로젝트에 참여하게 되었고, 지난 몇 년간 운영 로봇 공학 분야에서 일하며 현장 작업자들이 더 쉽고 효율적으로 작업하고 더 나은 데이터를 얻을 수 있도록 기술을 제공하는 데 주력해 왔습니다. 또한 작업자들이 위험에 노출되지 않도록 돕는 기술도 개발하고 있습니다
+
+- **[Predictably Spot-On Industrial Inspection | Boston Dynamics](https://www.youtube.com/watch?v=VVpgsd9Jsw0)** — 2024-02-13 · ko · `DX`
+  [음악] 안녕하세요 여러분, 오늘 하드웨어 및 소프트웨어 발표를 시청해 주셔서 감사합니다. 지난 몇 년 동안 저희는 수백 개의 기업과 협력하여 지루하고 더럽고 위험한 작업들을 해결해 왔습니다. 고객들은 저희 로봇을 상상 이상으로 활용해 왔습니다. Spot은 수천 마일을 이동하며 전 세계 백만 개의 산업 시설을 검사했고, 매일 실질적인 영향을 미치고 있습니다. Spot을 통해 운영 효율성이 향상되고, 사람들의 안전을 확보하며, 더 밝은 미래를 만들어가는 사례를 점점 더 많이 볼 수 있습니다.
+
+- **[No More Surprises | Boston Dynamics](https://www.youtube.com/watch?v=zb_3Phq3v98)** — 2024-02-12 · ko · `unclassified`
+  당신은 문제보다는 해답을 선호하고, 예상치 못한 상황을 싫어합니다. 당신의 업무에서 예상치 못한 상황은 대개 나쁜 소식으로 이어지기 때문이죠. 밤늦게 갑작스러운 생산 라인 중단이나 장비 고장에 대한 다급한 전화를 받는 건 정말 원치 않는 일입니다. 아무 일도 일어나지 않는 게 바로 좋은 하루의 비결이니까요. 보스턴 다이내믹스의 오빗(Orbit)을 소개합니다. 오빗은 Spots의 세계를 들여다볼 수 있는 창입니다.
+
+- **[Spot at AB InBev Belgium | Boston Dynamics](https://www.youtube.com/watch?v=9pZQ29RSz4I)** — 2024-01-10 · en · `unclassified`
+  [Music] we're actually here in the Cradle of stalak this is where it all started for the for the company we are gathered here in the biggest Brewery uh of Europe and this is uh the home of [Music] St we cover in total 30 soccer fields we can go up to 10 million hect liters of of capacity St one of the brands we grew here but we BW …
+
+- **[Put a Bow on It | Happy Holidays from Boston Dynamics](https://www.youtube.com/watch?v=Cdc5iVqjNVs)** — 2023-12-12 · en · `unclassified`
+  [Music] [Applause] la [Applause] oh [Music]
+
+- **[Robotics at Louisville Central High | Boston Dynamics](https://www.youtube.com/watch?v=2sZphMFJ-x8)** — 2023-12-06 · en · `unclassified`
+  As we move away from traditional education, we really have to get into the twenty first century learner. And the twenty first century learner is a hands on all do it type of learner. Here at Central High School, we pride ourselves on being one of the very first schools in Jefferson County to offer a career and technical educational magnet.
+
+- **[The Evolution of Stretch | Boston Dynamics](https://www.youtube.com/watch?v=8WZoVJIV9V0)** — 2023-11-08 · en · `AX`
+  So, At Boston Dynamics, we really focus on doing closed loop control for robots. What I mean by that is it's always learning from the environment and reacting to it. Stretch is our first robot that's really purpose built for the warehouse. Moves cases all day long. It doesn't get tired, and it doesn't get injured.
+
+- **[Spot at Nestlé Purina | Boston Dynamics](https://www.youtube.com/watch?v=XPOpnJSldUg)** — 2023-10-30 · en · `unclassified`
+  We don't see Spot as just thermal and acoustic inspection. We see Spot as something more of a tool that we can use for other applications, and we're just starting to explore that and see what can we do in collaboration with Boston Dynamics to make Spot even more useful for our factories. My name is Roger Brecht. I'm the vice president of digital manufacturing for Nestle Purina Petcare.
+
+- **[Making Chat (ro)Bots](https://www.youtube.com/watch?v=djzOBZUFzTw)** — 2023-10-26 · en · `AX`
+  greetings good sir may I have the pleasure of knowing your names I'm Matt and that's v a pleasure to meet you Matt and vacher shall we commence our journey the charging stations where spot robots rest and recharge is our first point of Interest follow me Gentlemen let's proceed to the Rock P hey spot how do you like your job ah Mr Matt my employment as a tour …
+
+- **[Introducing Multipick for Stretch | Boston Dynamics](https://www.youtube.com/watch?v=9J0M6kMjX6c)** — 2023-10-17 · ko · `unclassified`
+  [음악] 현재 창고에서 수동 하역 작업을 하는 사람들을 보면 적응력이 정말 뛰어납니다. 불안정한 적재 상황, 다양한 크기의 상자들을 처리하는 등 새로운 상황에도 잘 대처할 수 있죠. 저희도 그런 하역 작업자들의 장점을 배워 최대한 적응력 과 성능을 향상시키려고 노력하고 있습니다. 하지만 스마트 그리어에 탑재된 스트레치의 독특한 형태를 활용하면 인간의 능력을 뛰어넘어 여러 개의 대형 상자를 한 번에 집어 올릴 수 있는 방법도 모색하고 있습니다. 스트레치는 주기적으로 상자를 집어 올립니다.
+
+- **[The Complete Asset Reliability Solution | Boston Dynamics](https://www.youtube.com/watch?v=LOFRjd5qR3c)** — 2023-09-21 · ko · `unclassified`
+  [음악]
+
+- **[Spot at Ontario Power Generation: Automating Circuit Breaker Tripping and Racking](https://www.youtube.com/watch?v=CyjYIgnsIeY)** — 2023-07-26 · ko · `unclassified`
+  1년 만에 임시 요청에서 시작하여 완벽하게 개발된 상용 도구로 발전하는 과정을 직접 목격했습니다. [음악] 저는 마이크 델리시입니다. 온타리오 전력 발전(OPG)에서 약 15 년간 주로 혁신팀 또는 xlab 팀에서 근무해 왔습니다. 저희는 기술 통합자 역할을 하며, 세상에 존재하는 최첨단 기술들을 평가하고 OPG 내에서 이러한 기술을 활용하면 이점을 얻을 수 있는 특정 사용 사례를 찾아냅니다. 사람이 직접 작업에 참여하지 않도록 하면 안전성이 향상된다는 것을 알고 있기 때문에 Spot이 적합하다고 판단했습니다.
+
+- **[What's New in Spot Release 3.3 | Boston Dynamics](https://www.youtube.com/watch?v=nASTVKX0gpo)** — 2023-06-20 · ko · `unclassified`
+  [음악]
+
+- **[Spot Levels Up | Boston Dynamics](https://www.youtube.com/watch?v=qgHeCfMa39E)** — 2023-06-07 · ko · `unclassified`
+  [박수] 외국어 [음악] [박수] 오늘 Spot 제품 발표에 참여해 주셔서 감사합니다. 지난 몇 년간 수많은 기술 분야에서 혁신적인 변화가 있었습니다. AI, 자동화, 데이터 관리 분야에서 빠른 발전이 이루어지고 있으며, 이러한 도구를 구동하기 위한 더 나은 데이터 수집에 대한 필요성이 증가하고 있습니다. 이러한 변화는 기업 리더들이 차세대 기술에 대비하여 새롭고 흥미로운 방식으로 산업 과제를 해결해야 할 필요성을 증대시키고 있습니다. 세계 유수의 기업들이 인력 보강을 위해 로봇을 활용하고 있으며, Spot은 35개국 이상에 1,000대 이상의 로봇을 배치하여 모바일 로봇 시장을 선도하고 있습니다
+
+- **[See Spot Work | Boston Dynamics](https://www.youtube.com/watch?v=gvzljfK-PiU)** — 2023-04-19 · ko · `unclassified`
+  [음악] 오 [음악] 너
+
+- **[Stretch at Promat 2023 | Boston Dynamics](https://www.youtube.com/watch?v=TVL4S05O-C8)** — 2023-03-30 · ko · `unclassified`
+  [음악] 스트레치는 창고용 자율 케이스 핸들링 로봇입니다. 지금 보여드리는 것은 컨테이너 하역 작업입니다. 스트레치는 로봇에 단단히 고정된 아코디언 컨베이어를 사용하여 작업하고 있지만, 텔레스코픽 컨베이어도 사용할 수 있습니다. 스트레치는 사용법을 배우기 매우 쉽습니다. 이는 의도적으로 설계한 것으로, 설정 조작에 소요되는 시간을 최소화할수록 더 많은 박스를 처리할 수 있기 때문입니다. 스트레치 의 핵심 목표는 최대한 효율적으로 작동하고 가동 시간을 극대화하는 것입니다. 스트레치는 기존 창고에 추가적인 인프라 구축 없이 원활하게 통합될 수 있도록 유연한 자동화 시스템으로 설계되었습니다
+
+- **[Paris Underground: Spot Inspects Transportation Infrastructure with RATP Group](https://www.youtube.com/watch?v=bKDhmENcKto)** — 2023-03-29 · ko · `unclassified`
+  감사합니다 [음악] 저희 ATP 그룹은 세계 3위의 대중교통 운영사입니다. 파리 지하철과 버스를 비롯한 대중교통 시스템으로 매우 유명하지만, 전 세계 곳곳에서 사업을 운영하고 있습니다. 런던, 카이로, 이탈리아 토스카나, 홍콩, 심지어 워싱턴에서도 운영하고 있으며, 매일 1,600만 명의 승객을 수송하고 있습니다. 저희는 파리에서 최초로 자동화된 지하철 노선 중 하나를 운영했으며, 90년대에는 세계 최초로 비접촉식 티켓팅 시스템을 개발했습니다. 이는 저희 DNA의 일부이며, 더 나은 고객 경험과 도시 생활의 질 향상을 위해 매일 혁신하고 있습니다.
+
 ## SK hynix (56건)
 
 - **[[HY-Knowledge EP.1] Will Quantum Computers Change the World? | Physicist Kim Sang-wook](https://www.youtube.com/watch?v=K3u07NaGiuk)** — 2026-07-16 · en · `unclassified`
@@ -365,152 +535,6 @@
 
 - **[[세미의 시대 2편] 당신이 사랑하는 존재가 로봇이라면?](https://www.youtube.com/watch?v=5X46eUcM1YU)** — 2025-11-14 · ko · `AX`
   마치 영화속 장면처럼 점점 인간을 닮아가는 로봇 휴먼노이드. 움직임과 언어 그리고 감정까지 경계가 흐려질수록 우리는 스스로에게 묻게 됩니다. 만약 당신이 사랑하는 존재가 휴먼노이드라면 그 사랑을 받아들일 수 있을까요? 사랑에 빠질만큼 인간을 닮은 그들은 과연 언제쯤 우리 앞에 나타날까요? [음악] 우리는 이미 로봇과 밀접한 관계 속에 살고 있습니다. 국제로봇 연맹 IFR에 따르면 [음악] 2023년 전 세계 산업 로봇 가동 대수는 428만 대. 역사상 최다 기록입니다. 로봇 한대는 사람 3.3명의 업무를 대신합니다.
-
-## Boston Dynamics (48건)
-
-- **[Spot Mariana Minerals | Boston Dynamics](https://www.youtube.com/watch?v=KywMP9_SyRg)** — 2026-07-22 · ko · `unclassified`
-  Mariana Minerals는 소프트웨어 우선 [음악] 채굴 회사로서 사실상 유일한 회사입니다. 핵심은 현장에 배치된 센서 솔루션을 데이터 저장, 분석 , 운영자에게 시각화, 그리고 더 나은 의사 결정을 통해 운영 프로세스를 최적화하는 데 사용하는 소프트웨어 프레임워크에 통합하는 것입니다. 코브레 1은 유타주 모압 근처에 있는 저희 시설입니다 . 저희는 퇴적암 모암에서 광석을 채굴한 다음 분쇄하여 침출 패드에 넣고 구리 광석을 추출한 후 정제하여 순도 99%의 구리 음극을 만들어 고객에게 판매합니다.
-
-- **[Atlas' Journey to FIFA World Cup 2026™ | Boston Dynamics](https://www.youtube.com/watch?v=cCNkgD3qXvg)** — 2026-07-15 · en · `unclassified`
-  We brought Atlas to the New York, New Jersey Stadium for one of the round of 16 games and we were able to use the robot to hand the game ball off to the referees at halftime to start the second half of the game. It was great. I'm Seth Davis. I am a senior program manager on the Atlas team. &gt;&gt; [music] &gt;&gt; It was really important with Atlas to build a robot that could kind of do anything.
-
-- **[Going the Extra Mile with Spot | Boston Dynamics](https://www.youtube.com/watch?v=EI1zFxLVkrs)** — 2026-07-14 · en · `unclassified`
-  [music] &gt;&gt; Woo!
-
-- **[Spot at Coca-Cola Europacific Partners | Boston Dynamics](https://www.youtube.com/watch?v=em5RQCq5zyc)** — 2026-07-08 · en · `unclassified`
-  [music] &gt;&gt; For CCEP, we're always looking at new technology [music] that will enhance the production, will enhance the maintenance, [music] and Spot fits right in. With the inspections that he does and the information, the data [music] that we get back, really helps us for one, reliability, maintenance, basically [music] capturing issues out in the line prior to them becoming a big issue. It's is paramount, [music] paramount.
-
-- **[School of Football | Making Of | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=qYy-BwBpxBI)** — 2026-06-04 · en · `unclassified`
-  The biggest challenge in robotics is getting robots to move more naturally. To move naturally, a robot must learn balance, timing, coordination, and adaptation simultaneously. [music] So, we looked for an activity that demands all of them. Football. A sport built on balance, coordination, precision, the world's most complete school of movement. So, we asked ourselves, could football teach a robot to move more naturally?
-
-- **[School of Football | The Ghost Rabona | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=V1Lxp-Q6Y9g)** — 2026-05-29 · en · `unclassified`
-  These past weeks, Atlas learned to move through football and while doing so, he mastered a new move. We called it the ghost rabona. Not just any rabona. It's a new kind of rabona that's made to deceive. Start with a normal shot. Swing toward the ball like you're about to strike it, forcing the keeper to commit early. Lift your leg over the ball instead of hitting it.
-
-- **[School of Football | The Rabona | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=mCcv90sUNbY)** — 2026-05-28 · en · `unclassified`
-  Oh, la la. &gt;&gt; [music] &gt;&gt; Oh, la la. &gt;&gt; [singing] &gt;&gt; Oh, la la.
-
-- **[School of Football | The Basics | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=ITCklufC25Y)** — 2026-05-26 · ko · `unclassified`
-  가 들다가
-
-- **[How does Atlas learn? | Inside the Lab | Boston Dynamics](https://www.youtube.com/watch?v=xKK5ze3FukQ)** — 2026-05-18 · ko · `unclassified`
-  셋, 둘, 하나 필요해. [음악] 보스턴 다이내믹스에서 일한 지 6주째인데 , [음악] 냉장고가 제 첫 번째 프로젝트였어요. 원래는 연말 프로젝트로 목표로 삼고 있다고 들었는데, 아시다시피 2주짜리 프로젝트가 되어버렸어요 . 차세대 아틀라스는 정말 흥미로운 로봇입니다. 설계 작업을 시작했을 때, 우리는 저렴한 비용, 손쉬운 제조, 신뢰성 및 단순성을 고려한 로봇을 만드는 것을 목표로 삼았습니다. 오른쪽? 그러니까, 사실 이건 우리가 최대한 복잡성을 줄이려고 노력한 로봇이에요 .
-
-- **[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)** — 2026-04-14 · ko · `unclassified`
-  [음악] 우.
-
-- **[The To Do List with Spot | Boston Dynamics](https://www.youtube.com/watch?v=LP4-c5AK30g)** — 2026-04-14 · en · `unclassified`
-  [music] &gt;&gt; Woo!
-
-- **[Form & Function of Enterprise Humanoid Design | Boston Dynamics Tech Talk | Atlas](https://www.youtube.com/watch?v=wL0-Pu_8F0U)** — 2026-03-18 · ko · `unclassified`
-  함께해 주셔서 감사합니다. 저는 크리스 쏜입니다. 저는 지금 아론 아브로프, 제임스 쿠체라와 함께 있습니다. 오늘은 새로운 Atlas 하드웨어 설계에 대해 논의하겠습니다. 저는 Atlas 하드웨어 팀을 이끌고 있습니다. 저는 보스턴 다이내믹스에서 약 15년 ​​동안 근무했습니다. 그중 절반 이상은 아틀라스 개발에만 전념한 시간이었다 . BD에 합류하기 전에는 펜실베이니아 대학교의 GRASP 연구실에 있었고 , 그곳에서 기계공학 박사 학위를 받았습니다 . 애런, 간단하게 자기소개를 해주시겠어요 ? 저는 보스턴 다이내믹스에서 6년 동안 근무했습니다.
-
-- **[ST Engineering MRAS | Boston Dynamics](https://www.youtube.com/watch?v=mH4NLGI64MM)** — 2026-02-18 · ko · `unclassified`
-  Spot이 우리를 위해 무엇을 하고 있냐고 물으신다면 , Spot은 우리가 이전에는 갖지 못했던 데이터를 수집하고 있다고 말씀드릴 수 있습니다 . 이를 통해 우리는 중요한 장비 통계 기록으로 가득 찬 데이터베이스를 구축할 수 있으며, 궁극적으로 이를 사용하여 기계 고장을 진단하거나 예방하여 가동 시간을 유지하고 기계 주변에서 작업하는 사람들의 안전을 확보할 수 있습니다 . 제 이름은 마크 헤밍입니다. 저는 SD 엔지니어링 소속입니다. 저희 시설은 150만 평방피트 규모이며 항공기용 복합 소재 보너스를 제조합니다.
-
-- **[Spot Cam 2  | Boston Dynamics](https://www.youtube.com/watch?v=de06_CLqrM0)** — 2026-01-20 · ko · `unclassified`
-  [음악] 오.
-
-- **[The Beginning of Your Tomorrow I Boston Dynamics](https://www.youtube.com/watch?v=sd8ivhpjI6g)** — 2026-01-05 · ko · `unclassified`
-  어린 시절, 우리는 내일의 희망을 꿈꿨습니다 . 공상 과학 소설이 현실이 되는 미래. 우리의 여정은 거기서 시작되었습니다. 우리의 목표는 간단했습니다. 무엇이 가능한지 알아보기 위해서. 동물과 인간은 음악을 통해 세상 속에서 너무나 쉽게 움직인다. 우리의 관심사는 '어떻게'였다. 그래서 우리는 그들에게 다리, 팔, 손을 달아주었습니다. 여러분은 우리 로봇들이 불가능한 일을 해내는 것을 보셨습니다 . 점프하고, 달리고, 오르고, 뒤집으세요. 그러고 나서 우리는 " 힘든 작업을 자동화할 수 있다면 어떨까?
-
-- **[The Humanoid Mission in Manufacturing | Boston Dynamics Tech Talk](https://www.youtube.com/watch?v=SRZ9E48B6aM)** — 2025-12-17 · ko · `AX`
-  환영. 저는 잭 지코스키이고, 이쪽은 알베르토 로드리게스입니다. 저희는 보스턴 다이내믹스 스튜디오에서 아틀라스의 휴머노이드 제조 사업 과 휴머노이드 두뇌를 만드는 방법에 대해 이야기하기 위해 왔습니다 . 저는 잭입니다. 저는 보스턴 다이내믹스에서 휴머노이드 로봇, 즉 아틀라스 부문을 이끌고 있습니다. 음, 저는 이 회사에 약 15년 ​​정도 근무했습니다. 음, 아틀라스의 리더를 맡기 전에는 스팟을 이끌었습니다. 간단하게 자기소개를 해주시겠어요? 응. 안녕, 잭. 안녕하세요, 제 이름은 알베르토 로드리게스이고, 약 4년 전에 보스턴 다이내믹스에 입사했습니다.
-
-- **[Why Humanoids Are the Future of Manufacturing | Boston Dynamics Webinar](https://www.youtube.com/watch?v=laexcnaTrDM)** — 2025-11-18 · ko · `AX`
-  안녕하세요 여러분. 오늘 함께해 주셔서 정말 감사합니다. 그리고 알베르토 씨도 오늘 함께해 주셔서 감사합니다. 저는 야 더반이고, 아틀라스 제품 팀에서 휴머노이드 애플리케이션 제품 전략을 총괄하고 있습니다. 즉, 저는 이 로봇을 어디서부터 시작할지, 그리고 고객이 장기적으로 이 로봇에게 무엇을 기대하는지 결정하여, 시간이 지남에 따라 그 목표를 달성하기 위한 훌륭한 전략을 수립할 수 있도록 합니다. 제 전공은 창고 로봇공학입니다. 저는 식스 리버 시스템즈라는 회사 출신인데, 그 회사에서는 사람들이 직접 작업하는 창고 환경에 AMR(자율 이동 로봇)을 도입했습니다
-
-- **[Inside the Stretch Test Lab | Boston Dynamics](https://www.youtube.com/watch?v=RpvSMqOT7ls)** — 2025-10-28 · ko · `unclassified`
-  안녕. 스트레치 테스트 웨어하우스에 오신 것을 환영합니다 . 저는 샤론 알루마이고, 보스턴 다이내믹스의 창고 로봇 팀에서 제품 관리자로 일하고 있습니다. 이곳에서 Stretch 엔지니어들은 다양한 작동 시나리오에서 로봇에 대한 일련의 테스트를 수행하여 고객 현장에 배포하기 훨씬 전에 솔루션을 평가하고 미세 조정할 수 있습니다 . [음악] 이건 진짜 창고처럼 지어졌어요 . 저희는 테스트 시설 내에서 고객의 환경을 최대한 재현하기 위해 노력합니다. 이를 통해 시스템이 실제 환경에서와 마찬가지로 이곳에서도 정상적으로 작동하고 동작하는지 확인할 수 있습니다
-
-- **[What's in a humanoid hand? | Boston Dynamics](https://www.youtube.com/watch?v=gS4rOqNDTBk)** — 2025-10-08 · ko · `unclassified`
-  유압식에서 전기식으로의 전환은 우리에게 흥미로운 출발점을 제공했습니다. 우리는 보스턴 다이내믹스와 아틀라스가 단순히 이동과 운동뿐 아니라 조작에도 더 집중하고 싶어한다는 것을 거의 동시에 알게 되었습니다 . 그리고 그것은 더 높은 정밀도를 가진 집게를 탐구하는 자연스러운 계기가 되었습니다 . 우리는 처음부터 집게 개발 과정이 긴 여정이라는 것을 알고 있었습니다. 그리퍼는 휴머노이드 로봇에서 가장 복잡한 부품 중 하나입니다 . 어, 그 제품들은 엄청나게 많은 기능을 갖추고 있어요.
-
-- **[Air Spot | RL Behavior Research | Boston Dynamics](https://www.youtube.com/watch?v=LMPxtcEgtds)** — 2025-08-27 · ko · `unclassified`
-  제자리에서 트리플 백플립을 할 때 가장 무서운 점은 아마도 이러한 상황에서 장비가 고장날 수 있는 모든 가능성을 파악하고, 그 고장을 최소화하는 방법을 찾는 것일 겁니다 . 이것이 트리플 백플립을 할 때 가장 무섭고 어려운 부분일 것입니다. [음악] 저는 아룬 쿠마르입니다. 저는 Spot 행동 팀 소속이며 현재 Spot을 위한 강화 학습 연구를 진행하고 있습니다 . 스팟은 계단을 걸어 올라갈 수 있는 등 유용한 행동들을 많이 가지고 있습니다 .
-
-- **[Spot at POSCO | Boston Dynamics](https://www.youtube.com/watch?v=V7D7jXF2pj8)** — 2025-07-09 · ko · `unclassified`
-  철강 제조 현장, 제철 현장이라고도 하는데요. 이런 것들은 직원들의 안전 확보가 최우선적인 과제입니다. 스팟 같은 경우에 무엇보다도 작업자의 위험 노출을 최소화하고 안전 리스크를 제거하는데도 큰 도움이 되고 있습니다. 포스코 그룹은 2016년부터 스마트 팩토리 추진을 통해 제조 공정 중심으로 자동화 AI 모델을 적용하였고 2019년 세계 경제 포럼으로부터 철강사 최초 등대 공장에 선정되어 4차 산업 혁명 기술을 선도적으로 활용하는 제조 기업으로 인정받았습니다. 고로 주변 같은 경우는 고온 가스 분진 이런 것들로 작업자들이 위험에 노출될 수밖에 없는 그런 환경인데요.
-
-- **[Spot at Cargill | Boston Dynamics](https://www.youtube.com/watch?v=AqRquSReZHY)** — 2025-06-17 · en · `unclassified`
-  Our vision is to have autonomous plant operations where the operators go from reactive work to more proactive work. And by using new technologies such as spot, we want to free up time for the operators and to have more stable process operations. We're here in Amsterdam at Cargo Multi Seedat. My name is Martin Blommenstein. I'm plant manager of this location and we're going to have a look inside at spot the robbo do.
-
-- **[Check it off the list, with Spot & Orbit | Boston Dynamics](https://www.youtube.com/watch?v=xWmWmhRt-fs)** — 2025-06-04 · en · `unclassified`
-  [Music] What if you could start your day ready for everything that needs to be done? With Orbit and Spot, you can. Your operation has a lot of moving parts, but your team is always one step ahead with a digital record of your facility. Orbit has the pulse on operations, catching overheating equipment, air leaks, and now with AI powered inspections, things that shouldn't be there at all.
-
-- **[Perception and Adaptability | Inside the Lab with Atlas](https://www.youtube.com/watch?v=oe1dke3Cf7I)** — 2025-05-28 · en · `AX`
-  [Music] Things that are simple for humans, such as social or motoral skills, are difficult for robots. things are easy for robots which is like large scale calculations or large scale data analysis are very difficult for humans in robotics. This is what we call the Moravex paradox. This is because uh motor and perception skills were developed in humans by millions of years of evolution.
-
-- **[Stretch at Gap | Boston Dynamics](https://www.youtube.com/watch?v=_dhwRYdZs9w)** — 2025-03-26 · ko · `unclassified`
-  [음악] 저희 시설은 캐나다 온타리오주에서 텍사스주까지, 그리고 미국 동서 해안까지 넓게 펼쳐져 있습니다. 그러니까 영하의 날씨에 트레일러에서 짐을 내릴 수도 있고, 섭씨 40도가 넘는 무더운 날씨에 작업을 할 수도 있다는 거죠. 그래서 좀처럼 용서가 없는 편이죠. 스트레칭이 실제로 우리 선수들의 컨디션을 향상시키고 부상률을 줄이는 데 도움이 된다는 사실입니다. 이건 우리에게 엄청난 이점입니다. [음악] 스트레치는 창고용으로 설계된 이동형 조작 로봇입니다. 기본적으로 운영자가 장비를 컨테이너 안으로 옮기면 그 후로는 자체적으로 작동합니다.
-
-- **[Pick, Carry, Place, Repeat | Inside the Lab with Atlas](https://www.youtube.com/watch?v=v8UaiRgqvlc)** — 2025-03-05 · ko · `unclassified`
-  좋아요, 다시 시도해 볼게요. 확대해서 3, 2, [음악] 1. 오늘날 사람들이 휴머노이드 로봇에 그토록 관심을 갖는 핵심 이유는 이전에는 볼 수 없었던 방식으로 다양한 작업과 응용 분야를 자유자재로 전환할 수 있는 진정으로 유연한 로봇 솔루션이라는 가능성 때문입니다. 로봇 공학의 세계는 인간을 위해 만들어졌고, 휴머노이드 로봇의 가장 큰 가능성은 인간이 만든 환경에 들어가 즉시 가치를 더할 수 있다는 것입니다. 이전 세대의 앨리스는 뛰어다니고, 점프하고, 뒤집는 등 매우 역동적인 동작을 많이 수행할 수 있었습니다
-
-- **[Spot at Ash Grove Cement | Boston Dynamics](https://www.youtube.com/watch?v=4s7_ng-pSow)** — 2025-02-25 · en · `unclassified`
-  [Music] SP is able to reach areas that are difficult for human beings uh areas that could have risk to them like high temperature areas that we have in our process he has already a bundle of sensors which human beings don't have them so ashko is one of the leading cement producers in America almost 100 years so the facility has been here for almost 100 years we've got …
-
-- **[Spot at Code & Circuit | Boston Dynamics](https://www.youtube.com/watch?v=UVpkyJto-DQ)** — 2024-11-26 · en · `unclassified`
-  every presentation that I do regardless of age not only do we get into Robotics and what spot is made of what a robot is made of how a robot is operated and controlled and coded but we have students who have collaborated to code voice command for spot who created a scratch interface for spot so that when I go out into schools students can actually code spot using …
-
-- **[Spot Watches Its Step | Boston Dynamics](https://www.youtube.com/watch?v=YD9EaS3VRbc)** — 2024-11-14 · en · `AX`
-  we're always trying to make spots smarter so we're trying to constantly improve its ability to interact with and understand the world around [Music] it I work on the spot autonomy team and since I've joined I've been working a lot with integrating deep learning into our perception stack for spot spot has five stereo cameras it largely sees the world through those we mostly use the depth data from …
-
-- **[Stretch at Arvato | Boston Dynamics](https://www.youtube.com/watch?v=MGbsDK3Cjxw)** — 2024-10-29 · ko · `unclassified`
-  [음악] 여기 아르바도에서는 고객과 긴밀히 협력하여 물류 및 공급망 운영에서 발생하는 다양한 문제를 해결하고 있습니다. 저희는 컨테이너에 낱개로 적재된 박스부터 출고 과정까지 완전히 자동화하는 비전을 가지고 있었습니다. 이미 스캐닝, 체계적인 팔레트 구축 및 분류 시스템은 갖추고 있었고, Stretch는 진정한 자동화된 로로( Lo-Lo) 적재/하역 솔루션을 완성하는 데 필요한 마지막 퍼즐 조각이었습니다. Stretch는 낱개로 적재된 모든 박스를 하역할 수 있으며, 약간의 로직 변경만으로 백엔드 분류 작업을 개선하고 상상 이상으로 높은 처리량을 달성할 수 있게 해줍니다.
-
-- **[Spot at Michelin | Boston Dynamics](https://www.youtube.com/watch?v=DTNWH9wN57s)** — 2024-10-23 · en · `unclassified`
-  we manufactured the future here at Michin tire and I don't think you can get more into future than a mobile [Music] robot my name is Wayne Pender I'm the tech methods and reliability manager here at us5 in lexton South Carolina we're a passenger tire and lightake truck division of Michelin my name is Ryan Burns I work in the reliability and methods Department we make sure that all …
-
-- **[Music to Your Ears | Boston Dynamics](https://www.youtube.com/watch?v=_5gzV4Q3VXE)** — 2024-09-24 · ko · `unclassified`
-  [음악] 재앙적인 사건을 사전에 예측하고 회전 장비의 미세한 진동 변화까지 감지하는 것이 이렇게 쉬웠다면 얼마나 좋을까요? 음향 진동 감지 기능을 갖춘 Spot을 소개합니다.
-
-- **[Stretch Debuts in Europe at Otto Group](https://www.youtube.com/watch?v=q6TuHGJamR8)** — 2024-09-19 · ko · `unclassified`
-  [음악] 오토 그룹은 지속적으로 물류의 미래를 적극적으로 만들어가고 있으며, 창고에 스트레치(Stretch)를 최초로 도입한 것은 우리가 올바른 방향으로 나아가고 있음을 증명하고 보스턴 다이내믹스와 오토 그룹 간의 전략적 파트너십의 힘을 보여줍니다. 우리의 목표는 운영 효율성을 높이고 창고 업무를 더욱 매력적으로 만들어 물류 프로세스를 강화하는 것이며, 스트레치와 같은 기술 혁신 및 자동화는 이러한 목표 달성에 매우 효과적인 도구입니다. [음악] 스트레치는 창고용 이동식 케이스 핸들링 로봇으로, 바닥에 적재된 박스가 있는 해상 컨테이너와 트레일러를 하역할 수 있습니다
-
-- **[Meet Sparkles | Boston Dynamics](https://www.youtube.com/watch?v=MG4PPkCyJig)** — 2024-04-29 · ko · `unclassified`
-  [음악] k h [음악]
-
-- **[Farewell to HD Atlas](https://www.youtube.com/watch?v=-9EM5_VFlt8)** — 2024-04-16 · ko · `unclassified`
-  [음악] h [음악] Oh [음악] p [음악] [박수] W [음악] [박수] [음악] k [음악] h [음악]
-
-- **[What does it take to put Spot to work? | Boston Dynamics](https://www.youtube.com/watch?v=_Ux-N-NK2GM)** — 2024-04-10 · ko · `unclassified`
-  [음악] 알라 [음악] [박수 갈채] [음악]
-
-- **[First for You | Spot for First Responders | Boston Dynamics](https://www.youtube.com/watch?v=sll6EB810mg)** — 2024-03-26 · ko · `unclassified`
-  보스턴 다이내믹스는 인간의 창의력이 인간의 삶에 도움이 되어야 한다고 믿습니다. 그래서 우리는 당신을 위해 스팟을 설계했습니다. 스팟은 위험에 가장 먼저 뛰어드는 로봇입니다. 다른 사람들이 도망칠 때 먼저 뛰어드는 로봇, 가장 위험한 상황을 해결하는 로봇, 항상 다른 사람들의 안전을 최우선으로 생각하는 로봇입니다. 우리는 이러한 단순한 생각이 보스턴 다이내믹스의 모든 혁신을 이끌어가는 원동력이라는 점에 감사드립니다. 스팟은 단순한 로봇이 아니라, 인류에게 힘을 실어주고 삶을 향상시키는 놀라운 기계를 만들고자 하는 우리의 신념을 완벽하게 구현한 것입니다
-
-- **[Stepping Up | Reinforcement Learning with Spot | Boston Dynamics](https://www.youtube.com/watch?v=Kf9WDqYKYQQ)** — 2024-03-19 · ko · `AX`
-  매일 로봇들이 움직이고 , 매일 우리 사무실에서 놀라운 일들을 해내고 있습니다. 매일매일 그런 모습을 볼 수 있다는 게 정말 멋진 일이죠. 저는 폴 데모니코이고, Spot Locomotion 팀의 로봇 엔지니어입니다. 저희 팀은 로봇 공학자와 소프트웨어 엔지니어들로 구성되어 있으며, Spot이 전 세계 어디든 이동할 수 있도록 만드는 일을 담당하고 있습니다. 보스턴 다이내믹스는 수십 년 동안 다족 로봇을 개발해 왔는데, 이는 로봇에 대한 이해 와 모델링 능력, 특히 모델 예측 제어(MPC) 기술 덕분입니다.
-
-- **[Stretch at MODEX 2024 | Boston Dynamics](https://www.youtube.com/watch?v=rCZHlfS_pdM)** — 2024-03-13 · ko · `unclassified`
-  제 이름은 알렉스 퍼킨스입니다. 저는 스트레치 프로그램의 수석 로봇 엔지니어 로서, 오늘 여러분이 보실 자율 주행 기능을 개발하는 소프트웨어 팀을 이끌고 있습니다. 오늘 저희는 스트레치가 트레일러, 트럭, 선적 컨테이너에서 자율적으로 하역하는 모습을 시연하고 있습니다. 이러한 컨테이너는 바닥에 쌓인 최대 50파운드(약 23kg) 무게의 상자들로 구성되어 있으며, 크기는 최대 90cm에 달합니다. 상당히 큰 상자들도 있습니다. 하역된 상자들은 컨베이어 벨트 로 옮겨져 제조 또는 물류 시설의 나머지 부분으로 운반됩니다.
-
-- **[Spot at Chevron | Boston Dynamics](https://www.youtube.com/watch?v=H-df4_VNEvk)** — 2024-02-20 · ko · `unclassified`
-  [음악] 로봇을 다루는 것은 제 열정입니다. 지상 로봇이든 비행 드론이든 상관없이 로봇 과 로봇 공학을 접하며 기술을 활용하는 방법, 현재 안전하거나 경제적으로 수집하기 어려운 정보를 지상 로봇을 통해 얻는 방법을 연구하는 것을 즐깁니다. 그래서 보스턴 다이내믹스의 프로젝트에 참여하게 되었고, 지난 몇 년간 운영 로봇 공학 분야에서 일하며 현장 작업자들이 더 쉽고 효율적으로 작업하고 더 나은 데이터를 얻을 수 있도록 기술을 제공하는 데 주력해 왔습니다. 또한 작업자들이 위험에 노출되지 않도록 돕는 기술도 개발하고 있습니다
-
-- **[Predictably Spot-On Industrial Inspection | Boston Dynamics](https://www.youtube.com/watch?v=VVpgsd9Jsw0)** — 2024-02-13 · ko · `DX`
-  [음악] 안녕하세요 여러분, 오늘 하드웨어 및 소프트웨어 발표를 시청해 주셔서 감사합니다. 지난 몇 년 동안 저희는 수백 개의 기업과 협력하여 지루하고 더럽고 위험한 작업들을 해결해 왔습니다. 고객들은 저희 로봇을 상상 이상으로 활용해 왔습니다. Spot은 수천 마일을 이동하며 전 세계 백만 개의 산업 시설을 검사했고, 매일 실질적인 영향을 미치고 있습니다. Spot을 통해 운영 효율성이 향상되고, 사람들의 안전을 확보하며, 더 밝은 미래를 만들어가는 사례를 점점 더 많이 볼 수 있습니다.
-
-- **[No More Surprises | Boston Dynamics](https://www.youtube.com/watch?v=zb_3Phq3v98)** — 2024-02-12 · ko · `unclassified`
-  당신은 문제보다는 해답을 선호하고, 예상치 못한 상황을 싫어합니다. 당신의 업무에서 예상치 못한 상황은 대개 나쁜 소식으로 이어지기 때문이죠. 밤늦게 갑작스러운 생산 라인 중단이나 장비 고장에 대한 다급한 전화를 받는 건 정말 원치 않는 일입니다. 아무 일도 일어나지 않는 게 바로 좋은 하루의 비결이니까요. 보스턴 다이내믹스의 오빗(Orbit)을 소개합니다. 오빗은 Spots의 세계를 들여다볼 수 있는 창입니다.
-
-- **[Spot at AB InBev Belgium | Boston Dynamics](https://www.youtube.com/watch?v=9pZQ29RSz4I)** — 2024-01-10 · en · `unclassified`
-  [Music] we're actually here in the Cradle of stalak this is where it all started for the for the company we are gathered here in the biggest Brewery uh of Europe and this is uh the home of [Music] St we cover in total 30 soccer fields we can go up to 10 million hect liters of of capacity St one of the brands we grew here but we BW …
-
-- **[Put a Bow on It | Happy Holidays from Boston Dynamics](https://www.youtube.com/watch?v=Cdc5iVqjNVs)** — 2023-12-12 · en · `unclassified`
-  [Music] [Applause] la [Applause] oh [Music]
-
-- **[Robotics at Louisville Central High | Boston Dynamics](https://www.youtube.com/watch?v=2sZphMFJ-x8)** — 2023-12-06 · en · `unclassified`
-  As we move away from traditional education, we really have to get into the twenty first century learner. And the twenty first century learner is a hands on all do it type of learner. Here at Central High School, we pride ourselves on being one of the very first schools in Jefferson County to offer a career and technical educational magnet.
-
-- **[The Evolution of Stretch | Boston Dynamics](https://www.youtube.com/watch?v=8WZoVJIV9V0)** — 2023-11-08 · en · `AX`
-  So, At Boston Dynamics, we really focus on doing closed loop control for robots. What I mean by that is it's always learning from the environment and reacting to it. Stretch is our first robot that's really purpose built for the warehouse. Moves cases all day long. It doesn't get tired, and it doesn't get injured.
-
-- **[Spot at Nestlé Purina | Boston Dynamics](https://www.youtube.com/watch?v=XPOpnJSldUg)** — 2023-10-30 · en · `unclassified`
-  We don't see Spot as just thermal and acoustic inspection. We see Spot as something more of a tool that we can use for other applications, and we're just starting to explore that and see what can we do in collaboration with Boston Dynamics to make Spot even more useful for our factories. My name is Roger Brecht. I'm the vice president of digital manufacturing for Nestle Purina Petcare.
-
-- **[Making Chat (ro)Bots](https://www.youtube.com/watch?v=djzOBZUFzTw)** — 2023-10-26 · en · `AX`
-  greetings good sir may I have the pleasure of knowing your names I'm Matt and that's v a pleasure to meet you Matt and vacher shall we commence our journey the charging stations where spot robots rest and recharge is our first point of Interest follow me Gentlemen let's proceed to the Rock P hey spot how do you like your job ah Mr Matt my employment as a tour …
 
 ## Google Developers (48건)
 
@@ -3950,6 +3974,80 @@
 - **[Future Forward: Full Length Trailer](https://www.youtube.com/watch?v=OSpwESjq3oE)** — 2023-03-31 · ko · `unclassified`
   우리 업계가 탄소 배출원이라는 사실은 누구나 알고 있습니다. 어떤 업계에 종사하든 기후 변화나 탄소 중립에 대해 생각하지 않는다면 큰 오산입니다. 우리의 목표는 2040년까지 탄소 순배출량 제로(Net Zero)를 달성하는 것입니다. 이를 위해 파트너들을 찾았고, 오늘 우리가 함께 하는 일이 바로 그 시작입니다. 우리 혼자서 이 길을 가는 것보다 함께라면 훨씬 더 큰 성과를 낼 수 있습니다. 이산화탄소를 콘크리트에 담아 영구적으로 제거하는 것이죠. 우리의 목표는 2030년까지 전기 밴 10만 대를 운행하는 것입니다.
 
+## Arm (24건)
+
+- **[Arm CMO Ami Badani on power, sovereign AI and edge computing at Web Summit Vancouver 2026](https://www.youtube.com/watch?v=On0HqN-UpYo)** — 2026-07-23 · en · `AX`
+  Well, good afternoon. Lunch hour, just when you want to be holding a panel when people are getting hungry. Uh, but welcome everyone. It's a great week for those who are from British Columbia to have a panel like this. We know that here in Vancouver just this week as part of WebSummit uh we had our federal government, provincial government and the telecom Telus announce two new data centers for the city and uh an expansion of a third um in another part of the province.
+
+- **[How PSYONIC and Arm are advancing bionic dexterity in robotics](https://www.youtube.com/watch?v=R2y2tmO66U4)** — 2026-07-13 · ko · `unclassified`
+  안녕하세요, 저는 Arm의 물리적 AI 사업부에서 시장 진출 및 고객 솔루션을 담당하는 더못 오드리스콜입니다 . 오늘은 아딜 아크타르 박사님과 그의 회사인 사이 오닉(Psyonic) 및 그들이 의수족 분야에서 하고 있는 놀라운 연구에 대해 이야기 나눌 수 있게 되어 매우 기쁩니다. [음악] Psyonic에 대해 간단히 설명해 주시겠어요? 네, 그래서 저희 Psyonic은 인간과 로봇의 손재주 문제를 해결하고 있습니다. 그리고 우리는 인간과 로봇 모두에게 장착되는 의수인 어빌리티 핸드와 같은 생체공학 하드웨어를 통해 이를 실현합니다.
+
+- **[How to use Arm Metis to find software security vulnerabilities](https://www.youtube.com/watch?v=wJsS2qFi5IE)** — 2026-07-08 · ko · `unclassified`
+  안녕하세요, 저는 미칼리스 스피루입니다. 저는 Armis 제품 보안 팀에서 근무하고 있습니다. [음악] 오늘은 메티스족에 대해 이야기하려고 합니다. 음, 메티스는 소프트웨어의 보안 취약점을 찾는 데 사용되는 유전적 AI 보안 프레임워크입니다 . 네 , 저희는 메티스족과 최근의 LLM들이 보안 문제를 찾아내는 데 매우 뛰어나다는 것을 확인했습니다. 그리고 기본적으로 이 도구를 기존 SAS 도구와 비교해 보면 성능이 약 10배 향상되었고, 결과도 훨씬 좋아졌으며, 오 탐지율도 크게 감소했습니다.
+
+- **[Will Abbey talks about Arm, on-device and agentic AI, and the future of human-centered technology](https://www.youtube.com/watch?v=p8XJMLVq5V8)** — 2026-06-17 · ko · `AX`
+  이번 세션에서는 인공지능이 채팅창을 넘어 우리가 이미 사용하고 있는 기기들로 빠르게 확장되고 있는 현상에 대해 다룹니다. 우리의 휴대폰, 웨어러블 기기, 자동차, 그리고 집. 그리고 그러한 변화와 함께 질문도 바뀌고 있습니다. 인공지능이 무엇을 할 수 있는지뿐만 아니라, 우리의 일상생활에 어떻게 나타나야 하는가에 대한 이야기입니다 . 내부 소식을 전해드리기 위해, 멋진 진행자 카말 아메드와 큰 화제를 모으고 있는 ARM의 수석 부사장 겸 최고영업책임자인 윌 애비를 무대 위로 모시겠습니다 . 즐기다. [박수] 감사합니다, 바즈.
+
+- **[Arm COO Will Abbey on AI chips, power efficiency, and why Arm is building silicon](https://www.youtube.com/watch?v=a34XmrudBjE)** — 2026-06-16 · ko · `AX`
+  시원한. 만나서 반가워요. 안녕 나키, 만나서 반가워. 자, 바로 본론으로 들어가서, 지난 몇 달은 Arm에게 정말 중요한 시기였습니다. Arm은 자체 컴퓨터 칩을 제작하고 설계자일 뿐만 아니라 제조업체로서 시장에 진출하는 엄청난 변화를 이루었습니다. 그리고 저는 왜 지금 그런 일이 일어나는지 알고 싶었습니다. 왜 지금이 적절한 시기일까요? 왜 지금 이 시점에 이직을 결정하셨나요? 헤이 나키, 정말 정말 좋은 질문이네요. 음, 솔직히 저는 많은 사람들이 Arm이 누구인지 잘 모른다는 사실에 조금 놀랄 때가 있어요.
+
+- **[Arm Viewpoints: The Arm AGI CPU launch and future of AI infrastructure](https://www.youtube.com/watch?v=M_7MUDwMUvI)** — 2026-06-11 · ko · `AX`
+  [벨] 안녕하세요, 인공지능과 인간의 상상력이 만나는 지점에 있는 주제들을 살펴보는 Arm Viewpoints 팟캐스트의 또 다른 에피소드에 오신 것을 환영합니다 . 저는 Arm의 편집장인 브라이언 풀러입니다. 오늘 우리는 Arm 역사상 가장 중요한 순간 ​​중 하나인 Arm AGI CPU 출시를 살펴보고 있습니다. 이는 Arm이 단순히 IP 회사나 컴퓨팅 서브시스템 회사가 아닌, AI 시대를 위한 즉시 사용 가능한 실리콘 공급업체로서 시장에 진출하는 방식에 새로운 장을 여는 행보입니다. 오늘 제 게스트는 에디 라미레즈입니다.
+
+- **[Reachy Mini robot powered by NVIDIA DGX Spark and Arm](https://www.youtube.com/watch?v=wBPISPlpMZI)** — 2026-06-11 · ko · `unclassified`
+  Reachy, 컴퓨텍스 재밌게 즐기고 있나요? 여기 있는 기발한 아이디어와 똑똑한 기계들이 모두 마음에 들어요. [음악] 친절한 사람들을 만나 인사하고, 작은 로봇들이 어떻게 미래를 더 즐겁게 만들 수 있는지 보여줄 수 있어요 . 이 로봇은 리치(Reachy)로, 주변 세상을 인지할 수 있습니다. 이 Reachy는 특별한데요, [음악] 누가 말을 걸고 있는지 인식하고 반응할 수 있기 때문입니다 . 네, 정말 기대돼요. NVIDIA DGX Spac 덕분입니다. 이 덕분에 [음악] 여러분이 보고 있는 모든 것이 로컬에서 실행되고 있습니다
+
+- **[AI video streaming at scale — Powered by Arm AGI CPU](https://www.youtube.com/watch?v=KaZn1XiOUp8)** — 2026-06-09 · ko · `unclassified`
+  버퍼링, 렉, 또는 저화질 재생만큼 영상 시청 경험을 망치는 것은 없습니다. 라이브 이벤트를 스트리밍하든, 화상 통화에 참여하든, 제품 리뷰를 시청하든, 사람들은 영상이 즉시 로드 되고 끊김 없이 재생되기를 기대합니다. 그리고 오늘날 영상은 어디에나 있습니다. 실제로 인터넷 트래픽의 약 82%가 비디오입니다. 대규모로 비디오를 전송하려면 엄청난 컴퓨팅 성능이 필요합니다 . 바로 이런 점에서 Arm AGI CPU가 중요한 역할을 합니다. Arm AGI CPU는 데이터 센터에서 더욱 부드럽고 고품질의 비디오 및 음악 경험을 제공하는 동시에 전력 소비를 줄이고 랙당 더 많은 스트림을 지원할 수 있도록 도와줍니다.
+
+- **[Accelerating electronic design automation (EDA) workloads — Powered by Arm AGI CPU](https://www.youtube.com/watch?v=U7SjDJ3Z0b8)** — 2026-06-09 · ko · `unclassified`
+  오늘날 가장 발전된 칩들은 전자 설계 자동화(EDA) 워크로드에 의존합니다. 이러한 작업 부하는 방대한 데이터 세트, 수천 개의 동시 프로세스, 그리고 음악 작업에 며칠 또는 몇 주가 걸릴 수 있는 런타임으로 인해 컴퓨팅 인프라를 한계까지 몰아붙입니다 . 전통적으로 팀들은 이러한 워크로드를 처리하기 위해 클라우드 인프라에 크게 의존해 왔지만, 클라우드와 온프레미스 환경 전반에 걸쳐 성능, 비용 및 워크로드 배치를 균형 있게 유지하는 것은 여전히 ​​어려운 과제입니다. 지멘스 퀘 스타 원 비주얼라이저 [음악] 와 케이던스 이노부스를 입력하세요.
+
+- **[Agentic AI for finance — Powered by Arm AGI CPU](https://www.youtube.com/watch?v=KDyX7PSz3m4)** — 2026-06-09 · ko · `unclassified`
+  기업들은 매일 수백만 건의 재무 문서, 운영 이벤트, 그리고 고객과의 상호 작용을 처리합니다. 이제 이를 수천 개의 워크플로에 걸쳐 확장해 보세요. 조직적인 의사 결정 시스템과 수십 명의 에이전트가 필요합니다. 그러한 수준의 조정에는 엄청난 컴퓨팅 성능이 필요합니다. 업계 최고 수준의 랙당 성능을 제공하는 Arm AGI CPU는 대규모 멀티 에이전트 AI 워크플로우를 지속적으로 지원합니다. AI 에이전트는 SAP 데이터베이스를 스캔하여 재무 데이터를 즉시 송장 문서로 변환합니다 .
+
+- **[COMPUTEX 2026 Arm CEO Keynote: The foundation for the agentic AI era](https://www.youtube.com/watch?v=wTa3qCHJjtQ)** — 2026-06-02 · ko · `unclassified`
+  [음악] 세상이 변하기 직전에 느껴지는 특정한 종류의 고요함이 있어요. 깨달음의 순간이죠. [음악] 당신이 살아왔던 삶이 완전히 새로운 무언가로 변모하려 한다는 것을 깨닫는 순간. [콧방귀] 35년이 넘는 세월 동안 우리는 그 순간의 음악을 알아차리는 법을 배워왔습니다. 캠브리지에서 미국, 대만, 그리고 전 세계에 이르기까지, 우리는 생태계와 협력하여 함께 문제를 해결해 왔습니다. 저희는 인공지능의 초기부터 함께하며 다가올 미래를 위해 세상을 준비시켜 왔습니다. 우리가 함께 생활하고, 일하고, 놀고, 이동하는 모든 방식에서 지능을 강화합니다 .
+
+- **[COMPUTEX 2026 Arm CEO Keynote highlights](https://www.youtube.com/watch?v=RKqvMQUtvDw)** — 2026-06-02 · ko · `unclassified`
+  GPU와 XPU는 토큰 생성에 매우 뛰어납니다 . 그것이 그들의 목적입니다. 하지만 요원들은 인간과 달리 잠을 자지 않습니다. 그리고 에이전트는 에이전트를 낳고, 그 에이전트는 또 다른 에이전트를 낳는다. 그리고 이러한 모든 토큰을 배포, 관리, 조정하고 목적지로 전달하는 작업은 오직 CPU만이 처리할 수 있는 작업입니다. 물론 CPU는 전체 시스템 설계와 함께 사용됩니다. 이건 완전히 폭발적인 인기야. 클로드 코드(Claude Code)를 활용한 앤트로픽(Anthropic)과 오픈아이얼(OpenAI)의 코덱스(Codex) 등 에이전트 기반 워크로드의 폭발적인 성장은 수요 증가를 견인하고 있습니다
+
+- **[Internship at Arm: Hussein's experience](https://www.youtube.com/watch?v=pu1wOINPEus)** — 2026-05-20 · ko · `unclassified`
+  저는 이전에 인턴십을 해본 적이 있지만, Arm보다 훨씬 작은 회사였습니다. 회사로 가는 길에 나는 매우 긴장했다. 캠퍼스에서의 첫날이었다. 새로운 인턴들과 이야기를 나누기 시작하자마자 그런 느낌은 사라졌습니다. 그리고 그날 이후로, 저는 다시는 그런 일을 겪지 않았습니다. 모두가 매우 친절하고 포용적입니다. 그들은 여러분이 새로운 사람들을 만나고 다른 인턴들과 친목을 다질 수 있도록 많은 활동을 합니다 . Arm에서 일하는 데 있어 가장 중요한 부분 중 하나는 회사 내부의 업무 방식을 이해하는 것입니다.
+
+- **[Arm Viewpoints: From IP to silicon, inside the Arm AGI CPU and the future of AI Compute](https://www.youtube.com/watch?v=bXrlZWzjE20)** — 2026-05-19 · ko · `unclassified`
+  [벨] 2026년 3월 24일 Arm Everywhere에서 라이브로 녹음된 Arm Viewpoint 팟캐스트 특별 에피소드에 오신 것을 환영합니다. 이 행사는 AI 컴퓨팅에 있어 중요한 순간이었으며, Arm에게는 역사적인 첫걸음이었습니다. [음악] 이번 세션에서는 그 여정의 중심 역할을 해온 네 명의 리더의 이야기를 들어보실 수 있습니다 . Arm의 최고 영업책임자(CCO)인 Will Abbey, 클라우드 AI 제품 솔루션 담당 부사장인 Dermot O'Driscoll, 솔루션 엔지니어링을 이끄는 Steve Halter, 그리고 운영 담당 부사장인 Eric Hayes.
+
+- **[What is Arm’s 10x Mindset?](https://www.youtube.com/watch?v=Nqtfus-CEU8)** — 2026-05-05 · ko · `unclassified`
+  근본적인 질문은 하나입니다. 어떻게 하면 이것을 10 배 더 좋게 만들 수 있을까? 하는 질문입니다. 그리고 물론, 그 질문에 답할 때, 무엇이 필요할까요? 혁신이 필요합니다. 혁신은 팀과 개인이 번창할 수 있는 적절한 환경을 조성하는 데서 비롯됩니다. 하지만 우리는 회사의 다음 단계에서 성공하기 위해 무엇이 필요한지 진지하게 검토했습니다. 우리는 과거에 비해 성능이 기하급수적으로 향상된 차세대 제품들을 목격하고 있습니다. 그래서 우리는 문화를 바꾸고 있고, 그것이 바로 10X가 탄생한 이유입니다.
+
+- **[Find and fix performance bottlenecks using Arm Performix](https://www.youtube.com/watch?v=KCtp_d_axlY)** — 2026-04-28 · ko · `unclassified`
+  Arm Performance는 Arm AGI CPU를 포함한 Arm Neoverse 기반 서버에서 애플리케이션 워크로드를 최적화하는 개발자를 위한 성능 분석 툴킷입니다 . 이 도구는 심층적인 분석 정보와 접근하기 쉬운 안내를 결합하여 성능 분석을 간소화함으로써 모든 경험 수준의 개발자와 엔지니어가 Arm 기반 애플리케이션의 잠재력을 최대한 활용할 수 있도록 지원합니다. 에이전트 기반 AI 워크플로우를 위해 설계된 Performance는 MCP 서버를 통해 사용하거나 Performance CLI를 사용하여 자동화된 워크플로우의 일부로 사용할 수 있습니다.
+
+- **[How AGIBOT is bringing more AI on-device with Arm](https://www.youtube.com/watch?v=ssjiaS_A68I)** — 2026-04-16 · ko · `unclassified`
+  [음악] AG로서 우리가 찾고 있는 것은 우리의 요구 사항을 충족하는 가장 전력 효율적이고 비용 최적화된 컴퓨팅 플랫폼입니다 . 그리고 우리는 기기에 더 많은 AI를 도입하여 음악을 실시간으로 더욱 풍부한 인간 상호작용과 연결할 수 있도록 하고 싶습니다. 이를 통해 우리 로봇의 산업 및 소비자 활용 사례가 확대될 것입니다. 현재 우리가 직면한 과제는 로봇에 더 많은 컴퓨팅 성능을 탑재하면서도 움직임, 동작 및 원활한 상호 작용을 구현하기 위한 컴퓨터 성능 예산을 준수하는 것입니다.
+
+- **[Will Abbey, EVP CCO at Arm, discusses the business reality of AI adoption](https://www.youtube.com/watch?v=n5J_8Cm0k8Y)** — 2026-04-15 · en · `AX`
+  Well, we have a lot to talk about because &gt;&gt; We do. Arm has had some fascinating news over the last month getting into the CPU race yourselves. Share it with the audience for those who may not know, and I'd love to hear some context on why it made sense for you guys as the kind of architects of chips to really get into the business of chips yourselves.
+
+- **[Internship at Arm: Lin's experience](https://www.youtube.com/watch?v=dJRLuqngM-0)** — 2026-04-08 · en · `unclassified`
+  At [music] first, I didn't think of applying to Arm. I was thinking, oh, am I not good enough to join? The only difference between the current me and previous me is that I applied. [music] When I got the offer, I knew that I'd be working not only with the cutting-edge [music] technology, but with people that had these kind of experiences as well. It's scary. It feels scary.
+
+- **[How Panasonic vSkipGen scales cloud-native cockpit development for software-defined vehicles](https://www.youtube.com/watch?v=zBiSWMrT4rw)** — 2026-03-31 · en · `unclassified`
+  [music] &gt;&gt; Hi, I'm Senthil Nathan Subramanian, a senior staff architect at Panasonic Automotive, a global supplier for automotive and mobility technologies to the world's leading OEMs. Currently, there is a significant shift in the automotive industry as we move away from hardware-centric designs to software-driven architectures, making vehicles essentially a data centers on wheels. This evolution brings unique challenges as suppliers work to adapt new operating systems and software designs.
+
+- **[Arm Everywhere Keynote: Rene Haas, new Arm AGI CPU, Meta, OpenAI & role of CPUs in AI data centers](https://www.youtube.com/watch?v=yBUm2AZZfhY)** — 2026-03-30 · en · `AX`
+  There's a specific kind of silence right before the world changes. It's that split second of realization. The moment when you know that life as you've lived it is about to become something entirely new. For more than 35 years, we've learned to recognize that moment. From Cambridge to the world, we partnered with our ecosystem solving problems together. We've been here from the start of AI preparing the world for what's next.
+
+- **[Hiring tips from Arm's Emerging Talent Team](https://www.youtube.com/watch?v=aM7m6_FSQDo)** — 2026-03-30 · en · `unclassified`
+  To stand out in our interview process, it's really important that we see the real authentic you. We want to know what you enjoy doing, what your passions are, your technical strengths and skills and understanding. So, it's really important that our graduates are comfortable with that changing landscape and that ambiguity at times. One thing that candidates shouldn't worry about is the friendliness and the approachableness of our interviewers.
+
+- **[Arm AGI CPU: Reactions from Arm's deployment partners](https://www.youtube.com/watch?v=uYmzRoxe1nY)** — 2026-03-27 · en · `unclassified`
+  Arms been building IP for hardware for generations. [music] Over the last decade built processors for heavier weight compute. Cloudflare is one of the largest networks [music] in the world and Arm is a really important part of our ability to keep innovating not just at the speed we've always innovated at but at speed that [music] keeps up with what's going on. &gt;&gt; Arm has consistently delivered predictable scalability and excellent power efficiency.
+
+- **[The making of the Arm AGI CPU](https://www.youtube.com/watch?v=4IxOMp_bOFw)** — 2026-03-27 · en · `AX`
+  [music] &gt;&gt; Over 350 billion chips have been shipped with ARM. We're the most pervasive computer architecture ever invented. [music] We touch 100% of the connected population. Anyone with [music] any digital device is likely using ARM. ARM is one of the great secrets of the technology space. People use ARM technology every day multiple times. When you look at the ARM ecosystem, it is the de facto platform that everybody is building on top of.
+
 ## Cohere (24건)
 
 - **[Claas Voelcker - On-policy value learning at 10000 frames per second](https://www.youtube.com/watch?v=g83cuGL6N9Y)** — 2026-07-17 · en · `AX`
@@ -5251,56 +5349,6 @@
 
 - **[Philips Body Groomer 7000 – Pflege, die mit dir geht.](https://www.youtube.com/watch?v=lMahKJCFvKU)** — 2026-05-04 · en · `unclassified`
   [music] &gt;&gt; Wow. Wow. &gt;&gt; [music] &gt;&gt; Wow. &gt;&gt; [music] [music] &gt;&gt; Wow. Wow. &gt;&gt; [music] [music] &gt;&gt; Wow. &gt;&gt; [music] &gt;&gt; Wow.
-
-## Arm (16건)
-
-- **[How PSYONIC and Arm are advancing bionic dexterity in robotics](https://www.youtube.com/watch?v=R2y2tmO66U4)** — 2026-07-13 · ko · `unclassified`
-  안녕하세요, 저는 Arm의 물리적 AI 사업부에서 시장 진출 및 고객 솔루션을 담당하는 더못 오드리스콜입니다 . 오늘은 아딜 아크타르 박사님과 그의 회사인 사이 오닉(Psyonic) 및 그들이 의수족 분야에서 하고 있는 놀라운 연구에 대해 이야기 나눌 수 있게 되어 매우 기쁩니다. [음악] Psyonic에 대해 간단히 설명해 주시겠어요? 네, 그래서 저희 Psyonic은 인간과 로봇의 손재주 문제를 해결하고 있습니다. 그리고 우리는 인간과 로봇 모두에게 장착되는 의수인 어빌리티 핸드와 같은 생체공학 하드웨어를 통해 이를 실현합니다.
-
-- **[How to use Arm Metis to find software security vulnerabilities](https://www.youtube.com/watch?v=wJsS2qFi5IE)** — 2026-07-08 · ko · `unclassified`
-  안녕하세요, 저는 미칼리스 스피루입니다. 저는 Armis 제품 보안 팀에서 근무하고 있습니다. [음악] 오늘은 메티스족에 대해 이야기하려고 합니다. 음, 메티스는 소프트웨어의 보안 취약점을 찾는 데 사용되는 유전적 AI 보안 프레임워크입니다 . 네 , 저희는 메티스족과 최근의 LLM들이 보안 문제를 찾아내는 데 매우 뛰어나다는 것을 확인했습니다. 그리고 기본적으로 이 도구를 기존 SAS 도구와 비교해 보면 성능이 약 10배 향상되었고, 결과도 훨씬 좋아졌으며, 오 탐지율도 크게 감소했습니다.
-
-- **[Will Abbey talks about Arm, on-device and agentic AI, and the future of human-centered technology](https://www.youtube.com/watch?v=p8XJMLVq5V8)** — 2026-06-17 · ko · `AX`
-  이번 세션에서는 인공지능이 채팅창을 넘어 우리가 이미 사용하고 있는 기기들로 빠르게 확장되고 있는 현상에 대해 다룹니다. 우리의 휴대폰, 웨어러블 기기, 자동차, 그리고 집. 그리고 그러한 변화와 함께 질문도 바뀌고 있습니다. 인공지능이 무엇을 할 수 있는지뿐만 아니라, 우리의 일상생활에 어떻게 나타나야 하는가에 대한 이야기입니다 . 내부 소식을 전해드리기 위해, 멋진 진행자 카말 아메드와 큰 화제를 모으고 있는 ARM의 수석 부사장 겸 최고영업책임자인 윌 애비를 무대 위로 모시겠습니다 . 즐기다. [박수] 감사합니다, 바즈.
-
-- **[Arm COO Will Abbey on AI chips, power efficiency, and why Arm is building silicon](https://www.youtube.com/watch?v=a34XmrudBjE)** — 2026-06-16 · ko · `AX`
-  시원한. 만나서 반가워요. 안녕 나키, 만나서 반가워. 자, 바로 본론으로 들어가서, 지난 몇 달은 Arm에게 정말 중요한 시기였습니다. Arm은 자체 컴퓨터 칩을 제작하고 설계자일 뿐만 아니라 제조업체로서 시장에 진출하는 엄청난 변화를 이루었습니다. 그리고 저는 왜 지금 그런 일이 일어나는지 알고 싶었습니다. 왜 지금이 적절한 시기일까요? 왜 지금 이 시점에 이직을 결정하셨나요? 헤이 나키, 정말 정말 좋은 질문이네요. 음, 솔직히 저는 많은 사람들이 Arm이 누구인지 잘 모른다는 사실에 조금 놀랄 때가 있어요.
-
-- **[Arm Viewpoints: The Arm AGI CPU launch and future of AI infrastructure](https://www.youtube.com/watch?v=M_7MUDwMUvI)** — 2026-06-11 · ko · `AX`
-  [벨] 안녕하세요, 인공지능과 인간의 상상력이 만나는 지점에 있는 주제들을 살펴보는 Arm Viewpoints 팟캐스트의 또 다른 에피소드에 오신 것을 환영합니다 . 저는 Arm의 편집장인 브라이언 풀러입니다. 오늘 우리는 Arm 역사상 가장 중요한 순간 ​​중 하나인 Arm AGI CPU 출시를 살펴보고 있습니다. 이는 Arm이 단순히 IP 회사나 컴퓨팅 서브시스템 회사가 아닌, AI 시대를 위한 즉시 사용 가능한 실리콘 공급업체로서 시장에 진출하는 방식에 새로운 장을 여는 행보입니다. 오늘 제 게스트는 에디 라미레즈입니다.
-
-- **[Reachy Mini robot powered by NVIDIA DGX Spark and Arm](https://www.youtube.com/watch?v=wBPISPlpMZI)** — 2026-06-11 · ko · `unclassified`
-  Reachy, 컴퓨텍스 재밌게 즐기고 있나요? 여기 있는 기발한 아이디어와 똑똑한 기계들이 모두 마음에 들어요. [음악] 친절한 사람들을 만나 인사하고, 작은 로봇들이 어떻게 미래를 더 즐겁게 만들 수 있는지 보여줄 수 있어요 . 이 로봇은 리치(Reachy)로, 주변 세상을 인지할 수 있습니다. 이 Reachy는 특별한데요, [음악] 누가 말을 걸고 있는지 인식하고 반응할 수 있기 때문입니다 . 네, 정말 기대돼요. NVIDIA DGX Spac 덕분입니다. 이 덕분에 [음악] 여러분이 보고 있는 모든 것이 로컬에서 실행되고 있습니다
-
-- **[AI video streaming at scale — Powered by Arm AGI CPU](https://www.youtube.com/watch?v=KaZn1XiOUp8)** — 2026-06-09 · ko · `unclassified`
-  버퍼링, 렉, 또는 저화질 재생만큼 영상 시청 경험을 망치는 것은 없습니다. 라이브 이벤트를 스트리밍하든, 화상 통화에 참여하든, 제품 리뷰를 시청하든, 사람들은 영상이 즉시 로드 되고 끊김 없이 재생되기를 기대합니다. 그리고 오늘날 영상은 어디에나 있습니다. 실제로 인터넷 트래픽의 약 82%가 비디오입니다. 대규모로 비디오를 전송하려면 엄청난 컴퓨팅 성능이 필요합니다 . 바로 이런 점에서 Arm AGI CPU가 중요한 역할을 합니다. Arm AGI CPU는 데이터 센터에서 더욱 부드럽고 고품질의 비디오 및 음악 경험을 제공하는 동시에 전력 소비를 줄이고 랙당 더 많은 스트림을 지원할 수 있도록 도와줍니다.
-
-- **[Accelerating electronic design automation (EDA) workloads — Powered by Arm AGI CPU](https://www.youtube.com/watch?v=U7SjDJ3Z0b8)** — 2026-06-09 · ko · `unclassified`
-  오늘날 가장 발전된 칩들은 전자 설계 자동화(EDA) 워크로드에 의존합니다. 이러한 작업 부하는 방대한 데이터 세트, 수천 개의 동시 프로세스, 그리고 음악 작업에 며칠 또는 몇 주가 걸릴 수 있는 런타임으로 인해 컴퓨팅 인프라를 한계까지 몰아붙입니다 . 전통적으로 팀들은 이러한 워크로드를 처리하기 위해 클라우드 인프라에 크게 의존해 왔지만, 클라우드와 온프레미스 환경 전반에 걸쳐 성능, 비용 및 워크로드 배치를 균형 있게 유지하는 것은 여전히 ​​어려운 과제입니다. 지멘스 퀘 스타 원 비주얼라이저 [음악] 와 케이던스 이노부스를 입력하세요.
-
-- **[Agentic AI for finance — Powered by Arm AGI CPU](https://www.youtube.com/watch?v=KDyX7PSz3m4)** — 2026-06-09 · ko · `unclassified`
-  기업들은 매일 수백만 건의 재무 문서, 운영 이벤트, 그리고 고객과의 상호 작용을 처리합니다. 이제 이를 수천 개의 워크플로에 걸쳐 확장해 보세요. 조직적인 의사 결정 시스템과 수십 명의 에이전트가 필요합니다. 그러한 수준의 조정에는 엄청난 컴퓨팅 성능이 필요합니다. 업계 최고 수준의 랙당 성능을 제공하는 Arm AGI CPU는 대규모 멀티 에이전트 AI 워크플로우를 지속적으로 지원합니다. AI 에이전트는 SAP 데이터베이스를 스캔하여 재무 데이터를 즉시 송장 문서로 변환합니다 .
-
-- **[COMPUTEX 2026 Arm CEO Keynote: The foundation for the agentic AI era](https://www.youtube.com/watch?v=wTa3qCHJjtQ)** — 2026-06-02 · ko · `unclassified`
-  [음악] 세상이 변하기 직전에 느껴지는 특정한 종류의 고요함이 있어요. 깨달음의 순간이죠. [음악] 당신이 살아왔던 삶이 완전히 새로운 무언가로 변모하려 한다는 것을 깨닫는 순간. [콧방귀] 35년이 넘는 세월 동안 우리는 그 순간의 음악을 알아차리는 법을 배워왔습니다. 캠브리지에서 미국, 대만, 그리고 전 세계에 이르기까지, 우리는 생태계와 협력하여 함께 문제를 해결해 왔습니다. 저희는 인공지능의 초기부터 함께하며 다가올 미래를 위해 세상을 준비시켜 왔습니다. 우리가 함께 생활하고, 일하고, 놀고, 이동하는 모든 방식에서 지능을 강화합니다 .
-
-- **[COMPUTEX 2026 Arm CEO Keynote highlights](https://www.youtube.com/watch?v=RKqvMQUtvDw)** — 2026-06-02 · ko · `unclassified`
-  GPU와 XPU는 토큰 생성에 매우 뛰어납니다 . 그것이 그들의 목적입니다. 하지만 요원들은 인간과 달리 잠을 자지 않습니다. 그리고 에이전트는 에이전트를 낳고, 그 에이전트는 또 다른 에이전트를 낳는다. 그리고 이러한 모든 토큰을 배포, 관리, 조정하고 목적지로 전달하는 작업은 오직 CPU만이 처리할 수 있는 작업입니다. 물론 CPU는 전체 시스템 설계와 함께 사용됩니다. 이건 완전히 폭발적인 인기야. 클로드 코드(Claude Code)를 활용한 앤트로픽(Anthropic)과 오픈아이얼(OpenAI)의 코덱스(Codex) 등 에이전트 기반 워크로드의 폭발적인 성장은 수요 증가를 견인하고 있습니다
-
-- **[Internship at Arm: Hussein's experience](https://www.youtube.com/watch?v=pu1wOINPEus)** — 2026-05-20 · ko · `unclassified`
-  저는 이전에 인턴십을 해본 적이 있지만, Arm보다 훨씬 작은 회사였습니다. 회사로 가는 길에 나는 매우 긴장했다. 캠퍼스에서의 첫날이었다. 새로운 인턴들과 이야기를 나누기 시작하자마자 그런 느낌은 사라졌습니다. 그리고 그날 이후로, 저는 다시는 그런 일을 겪지 않았습니다. 모두가 매우 친절하고 포용적입니다. 그들은 여러분이 새로운 사람들을 만나고 다른 인턴들과 친목을 다질 수 있도록 많은 활동을 합니다 . Arm에서 일하는 데 있어 가장 중요한 부분 중 하나는 회사 내부의 업무 방식을 이해하는 것입니다.
-
-- **[Arm Viewpoints: From IP to silicon, inside the Arm AGI CPU and the future of AI Compute](https://www.youtube.com/watch?v=bXrlZWzjE20)** — 2026-05-19 · ko · `unclassified`
-  [벨] 2026년 3월 24일 Arm Everywhere에서 라이브로 녹음된 Arm Viewpoint 팟캐스트 특별 에피소드에 오신 것을 환영합니다. 이 행사는 AI 컴퓨팅에 있어 중요한 순간이었으며, Arm에게는 역사적인 첫걸음이었습니다. [음악] 이번 세션에서는 그 여정의 중심 역할을 해온 네 명의 리더의 이야기를 들어보실 수 있습니다 . Arm의 최고 영업책임자(CCO)인 Will Abbey, 클라우드 AI 제품 솔루션 담당 부사장인 Dermot O'Driscoll, 솔루션 엔지니어링을 이끄는 Steve Halter, 그리고 운영 담당 부사장인 Eric Hayes.
-
-- **[What is Arm’s 10x Mindset?](https://www.youtube.com/watch?v=Nqtfus-CEU8)** — 2026-05-05 · ko · `unclassified`
-  근본적인 질문은 하나입니다. 어떻게 하면 이것을 10 배 더 좋게 만들 수 있을까? 하는 질문입니다. 그리고 물론, 그 질문에 답할 때, 무엇이 필요할까요? 혁신이 필요합니다. 혁신은 팀과 개인이 번창할 수 있는 적절한 환경을 조성하는 데서 비롯됩니다. 하지만 우리는 회사의 다음 단계에서 성공하기 위해 무엇이 필요한지 진지하게 검토했습니다. 우리는 과거에 비해 성능이 기하급수적으로 향상된 차세대 제품들을 목격하고 있습니다. 그래서 우리는 문화를 바꾸고 있고, 그것이 바로 10X가 탄생한 이유입니다.
-
-- **[Find and fix performance bottlenecks using Arm Performix](https://www.youtube.com/watch?v=KCtp_d_axlY)** — 2026-04-28 · ko · `unclassified`
-  Arm Performance는 Arm AGI CPU를 포함한 Arm Neoverse 기반 서버에서 애플리케이션 워크로드를 최적화하는 개발자를 위한 성능 분석 툴킷입니다 . 이 도구는 심층적인 분석 정보와 접근하기 쉬운 안내를 결합하여 성능 분석을 간소화함으로써 모든 경험 수준의 개발자와 엔지니어가 Arm 기반 애플리케이션의 잠재력을 최대한 활용할 수 있도록 지원합니다. 에이전트 기반 AI 워크플로우를 위해 설계된 Performance는 MCP 서버를 통해 사용하거나 Performance CLI를 사용하여 자동화된 워크플로우의 일부로 사용할 수 있습니다.
-
-- **[How AGIBOT is bringing more AI on-device with Arm](https://www.youtube.com/watch?v=ssjiaS_A68I)** — 2026-04-16 · ko · `unclassified`
-  [음악] AG로서 우리가 찾고 있는 것은 우리의 요구 사항을 충족하는 가장 전력 효율적이고 비용 최적화된 컴퓨팅 플랫폼입니다 . 그리고 우리는 기기에 더 많은 AI를 도입하여 음악을 실시간으로 더욱 풍부한 인간 상호작용과 연결할 수 있도록 하고 싶습니다. 이를 통해 우리 로봇의 산업 및 소비자 활용 사례가 확대될 것입니다. 현재 우리가 직면한 과제는 로봇에 더 많은 컴퓨팅 성능을 탑재하면서도 움직임, 동작 및 원활한 상호 작용을 구현하기 위한 컴퓨터 성능 예산을 준수하는 것입니다.
 
 ## BMW (16건)
 
@@ -6824,6 +6872,16 @@
 
 - **[오픈AI x 무신사 비공개 행사 후기, 코덱스 기업 도입 사례와 AI 네이티브 워크플로우 인사이트 총정리](https://www.youtube.com/watch?v=jYwDdt_3L8Q)** — 2026-07 · ko · `AX`
   안녕하세요. AI 겸민교수 이종보입니다. 어, 제가 얼마 전에 오픈 AI에서 초청을 받아서 무신사회에 다녀온 적이 있습니다.이 무신사의 코덱스를 활용해서 AI 네이티브 워크플로우를 어떻게 구축하고 있는지에 대해서 어, CTO분이 직접 나와서 이야기해 주는 거를 듣고 왔는데요. 굉장히 인사이트도 많았고 또 여러분들과 나누고 싶은 이야기도 있어서 오늘이 영상을 찍게 됐습니다. 어, 그 현장에서 있었던 생생한 이야기 그리고 제가 느꼈던 그런 인사이트를 같이 한번 어, 나누도록 하겠습니다. 일단 성수동에서 진행을 했었고요.
+
+## 투이컨설팅-투이톡 (1건)
+
+- **[AI First 병원으로 전환중인 메이요 클리닉ㅣ의료ai 활용 사례](https://www.youtube.com/watch?v=umf8hIWkVfs)** — 2026-07 · ko · `AX`
+  2024년 3월 5일 뉴스위크가 공개한 2024 세계의 최고 병원에 따르면 글로벌 병원 위안에 국내 빅파 병원이 이름을 올렸습니다 서울 아산 병원이 22위로 국내 1위를 차지했고 삼성서울병원이 34위 세브란스 42위 서울대병원 43위 분당 서울대 병원이 81위 차지했습니다 그렇다면 뉴스위크가 선정한 전 세계 최고 병원은 어디일까요 바로 미국 미네스타 주 로체스터에 위치한 150년 역사를 자랑하는 메이오 클리닉이 1위를 차지했습니다
+
+## Sema4ai (1건)
+
+- **[Enterprise AI Adoption: From Idea to Deployment](https://www.youtube.com/watch?v=xofWoVQ-ic4)** — 2026-07 · ko · `AX`
+  안녕하세요, 저는 믹 홀리슨이고 오늘은 폴 코팅 씨와 이야기를 나누겠습니다. 폴은 Semaphore.ai의 수석 부사장 겸 제품 책임자입니다. 그는 공동 창업자이기도 합니다. 오늘은 폴과 함께 기업용 AI 에이전트 도입에 대해 이야기해 보겠습니다. 기업들이 직면하는 장애물과 과제에는 어떤 것들이 있으며, semaphore.ai 플랫폼은 이러한 문제들을 어떻게 독창적으로 해결할 수 있을까요? 폴, 우리 둘 다 기업용 소프트웨어 업계에 꽤 오랫동안 몸담아 왔고, 그 과정에서 어려움도 겪고 상처도 입고, 어쩌면 몇 가지 성과도 얻었을 거라고 생각해요 .
 
 ## Perplexity (1건)
 

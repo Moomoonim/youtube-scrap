@@ -1,8 +1,8 @@
 # 월 × 분류(DX/AX/AT)별 수집 요약
 
-## 2026-07 (총 509건)
+## 2026-07 (총 512건)
 
-### AX (175건)
+### AX (178건)
 
 - **[AI adoption? Watch this video 10 times. (I'll feed you everything.)](https://www.youtube.com/watch?v=1f5ijgzt1-I)** · 조코딩AX파트너스-랩스 and 조코딩AX파트너스 (keyword)
   AI 전환 아직도 모르신다고요. 그렇다면 회사는 3년 안에 다른 회사에 먹힐 가능성이 굉장히 [음악] 높습니다. 이건 겁주려는 말이 아니라 실제로 벌어지고 있는 현실이에요. 안녕하세요. 데모상 개발단 라균입니다. 기업들 AI 전환 그러니까 AX를 실제로 구축해 주는 일을 하고 있습니다. 오늘 영상에서는 AX가 뭔지 그리고 기업들은 어떻게 AI를 쓰고 있는지 그 사례에 대해서 전달드리도록 할게요. 대표님들이 영상 끝까지 보시면 우리 회사에 AI를 어디서부터 써야 하는지 어떤 부분을 AI로 대체할 수 있는지 머릿속에 그림 그려 주실 거예요.
@@ -211,6 +211,12 @@
 - **[현장에서 AI 트랜스포메이션 이끌면서 배운 것 (황재선 SK 부사장)](https://www.youtube.com/watch?v=b-tgY8Q0SbA)** · 티타임즈TV (keyword)
   국내 최고의 AX 전문가 황제선 SK 부사장이 AI 트랜스포메이션에 생생한 경험을 전소합니다. 5단계 AX 로드맵에서부터 AX 유형별 사례와 조직 운영 전략까지 조직의 능력을 100배 올리는 AX 실전 로드맵 강조. 어느 회사는 생산성이 10배가 늘어났고 어느 회사는 지금에 있는 그대로다라고 하면은 원가 차이가 나지 않을까요? AI로 트랜스포메이션 한다라는 거는 기업의 생존이자 앞으로 적게는 10년 이상은 유지되지 않을까? 일하는 방식 그리고 일의 유형이 변화할 거다. 회사를 다니고 있는 분들은 변화가 필요한 식인 거 같다.
 
+- **[AI First 병원으로 전환중인 메이요 클리닉ㅣ의료ai 활용 사례](https://www.youtube.com/watch?v=umf8hIWkVfs)** · 투이컨설팅-투이톡 (keyword)
+  2024년 3월 5일 뉴스위크가 공개한 2024 세계의 최고 병원에 따르면 글로벌 병원 위안에 국내 빅파 병원이 이름을 올렸습니다 서울 아산 병원이 22위로 국내 1위를 차지했고 삼성서울병원이 34위 세브란스 42위 서울대병원 43위 분당 서울대 병원이 81위 차지했습니다 그렇다면 뉴스위크가 선정한 전 세계 최고 병원은 어디일까요 바로 미국 미네스타 주 로체스터에 위치한 150년 역사를 자랑하는 메이오 클리닉이 1위를 차지했습니다
+
+- **[Enterprise AI Adoption: From Idea to Deployment](https://www.youtube.com/watch?v=xofWoVQ-ic4)** · Sema4ai (keyword)
+  안녕하세요, 저는 믹 홀리슨이고 오늘은 폴 코팅 씨와 이야기를 나누겠습니다. 폴은 Semaphore.ai의 수석 부사장 겸 제품 책임자입니다. 그는 공동 창업자이기도 합니다. 오늘은 폴과 함께 기업용 AI 에이전트 도입에 대해 이야기해 보겠습니다. 기업들이 직면하는 장애물과 과제에는 어떤 것들이 있으며, semaphore.ai 플랫폼은 이러한 문제들을 어떻게 독창적으로 해결할 수 있을까요? 폴, 우리 둘 다 기업용 소프트웨어 업계에 꽤 오랫동안 몸담아 왔고, 그 과정에서 어려움도 겪고 상처도 입고, 어쩌면 몇 가지 성과도 얻었을 거라고 생각해요 .
+
 - **[AMD EPYC™ Server CPUs in the Era of Agentic AI](https://www.youtube.com/watch?v=N9pm6NlLuQo)** · AMD (channel)
   Agentic AI is transforming the datacenter. The current knowledge worker could soon manage hundreds of agents to augment their work, increasing their speed and productivity. For a data center to orchestrate thousands of agents that can plan, act, and execute work autonomously requires massive compute resources. AMD EPYC Server CPUs offer the best Agentic AI solution with leadership performance, core density, and the broadest CPU portfolio.
 
@@ -252,6 +258,9 @@
 
 - **[I Cut My LLM API Costs by 85% With One Parameter Change](https://www.youtube.com/watch?v=jRx2pLL0-3o)** · Alibaba Cloud (channel)
   여러분, 안녕하세요. 오늘은 컨텍스트 캐싱 또는 프롬프트 캐싱이라고 하는 기술을 사용하여 비용을 절감하는 방법을 살펴보겠습니다. 조건이 다릅니다. 그리고 문서에서 매개변수를 확인하는 대신, 19가지 시나리오를 실행하고 결과를 비교했습니다. 예를 들어 첫 번째 시나리오에서는 어떤 API 호출이 사용되었는지, 모든 시나리오가 통과한 후 얼마나 비용을 절감했는지 등을 확인했습니다 . 물론, 토큰 금액을 전부 써버렸지만 괜찮아요. 좋아요, 결국 저는 비용을 7~9% 절감할 수 있다는 것을 확실히 알게 됐습니다. 음, 제가 오늘 이 주제를 꺼내는 이유는 무엇일까요?
+
+- **[Arm CMO Ami Badani on power, sovereign AI and edge computing at Web Summit Vancouver 2026](https://www.youtube.com/watch?v=On0HqN-UpYo)** · Arm (channel)
+  Well, good afternoon. Lunch hour, just when you want to be holding a panel when people are getting hungry. Uh, but welcome everyone. It's a great week for those who are from British Columbia to have a panel like this. We know that here in Vancouver just this week as part of WebSummit uh we had our federal government, provincial government and the telecom Telus announce two new data centers for the city and uh an expansion of a third um in another part of the province.
 
 - **[AI at the International Linguistics Olympiad: A Fireside Chat on Linguistic Reasoning with LLMs](https://www.youtube.com/watch?v=z_rDUFxwGmM)** · Cohere (channel)
   [음악] 자, 오늘 벽난로 앞 담소에 오신 여러분 모두 환영합니다 . 여기 불이 났어요, 채팅이 곧 시작될 거예요. [웃음] IOL AI 챌린지에 대해 이야기해 볼까요? 음, 그럼 오늘 한 시간 드릴게요. 오늘 저희 사무실에는 두 분의 귀빈이 계십니다. 제가 채팅을 진행하겠습니다. 제 이름은 줄리아입니다. 저는 쿠힐 연구소 의 선임 연구 과학자이며 이번 챌린지를 공동으로 기획하고 있습니다. 또한, 이 통화에는 여러 명의 공동 주최자가 더 참여하고 있습니다. 그러니까, 나중에 질문이 있으시면 다 같이 답변할 수 있겠죠.
@@ -3847,12 +3856,15 @@
 - **[ZooxCast](https://www.youtube.com/watch?v=FBwjGXLNiBU)** · Zoox (channel)
   앗.
 
-## 2026-04 (총 164건)
+## 2026-04 (총 166건)
 
-### AX (39건)
+### AX (40건)
 
 - **[The Skills Mismatch Economy | How AI is reshaping skill demand](https://www.youtube.com/watch?v=HmuEoDwZnqg)** · Accenture (channel)
   [음악] 안녕하세요, 저는 하버드 비즈니스 리뷰의 선임 편집자 후안 마르티네스입니다 . 액센츄어 리서치 경영진 브리핑에 오신 것을 환영합니다. 우리는 노동 시장의 근본적인 구조조정을 겪고 있습니다. 직책의 의미가 퇴색하고, 이력서에는 더 이상 인재를 구분할 수 없는 정보들로 가득하며 , 인공지능이 대부분의 조직이 아직 따라잡지 못한 변화를 가속화하는 세상 . 오늘 저는 펜실베이니아 대학교 인공지능 및 분석학 부학장이신 에릭 브래들로우 교수님을 모셨습니다 . 그는 이 연구에서 와튼 스쿨 측을 이끌었고 , 지수를 개발하고 제공한 학생 팀을 감독했습니다
+
+- **[Will Abbey, EVP CCO at Arm, discusses the business reality of AI adoption](https://www.youtube.com/watch?v=n5J_8Cm0k8Y)** · Arm (channel)
+  Well, we have a lot to talk about because &gt;&gt; We do. Arm has had some fascinating news over the last month getting into the CPU race yourselves. Share it with the audience for those who may not know, and I'd love to hear some context on why it made sense for you guys as the kind of architects of chips to really get into the business of chips yourselves.
 
 - **[Pedro Ortiz Suarez & Laurie Burchell – Expanding Linguistic and Cultural Coverage in Common Crawl](https://www.youtube.com/watch?v=Q4_e7Pnj6Yw)** · Cohere (channel)
   [음악] 자 , 여러분 모두 환영합니다. 네, 여기 저희가 왔고, 또 다른 게스트 세션을 진행할 예정입니다. 안녕하세요, 저는 브론슨입니다. 저는 아프리카 지역 출신입니다. 안녕하세요, 저와 스티븐은 아프리카 지역 그룹에서 일하고 있습니다. 오늘 페드로와 로리를 모시고 Common Crawl에서 언어 및 문화적 범위를 확장하는 방법에 대한 세션을 진행하게 되어 매우 기쁩니다. 그리고 혹시 여기 처음 오신 분이라면, 이곳은 Go Here Labs 커뮤니티입니다. 아직 가입하지 않으셨다면 환영합니다. 저희는 누구나 머신러닝 연구를 할 수 있는 공간을 제공하는 곳입니다
@@ -3968,7 +3980,7 @@
 - **[Zoom to ChatGPT to Gmail | Your Meeting Summary Now Sends Itself!](https://www.youtube.com/watch?v=F7rJx81xP-A)** · Zapier (channel)
   줌 회의 요약본이 생성된 후 후속 이메일을 보낼 수 있기를 원하십니까 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 노코드 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " Zoom에서 새 회의 요약이 생성되면 ChatGPT를 사용하여 참석자에게 감사를 표하고, 논의 내용을 요약하고, 다음 단계를 안내하는 짧고 전문적인 후속 Gmail 이메일을 생성하세요.
 
-### unclassified (125건)
+### unclassified (126건)
 
 - **[Accenture at Google Cloud Next 2026](https://www.youtube.com/watch?v=huGkOyhioqM)** · Accenture (channel)
   All of human progress has come down [music] to people are not being afraid to say two questions, what if and why not? Since I've become CEO is people inside and outside the company keep asking me, so when will the transformation end? Change cannot stop. Change doesn't stop.
@@ -3993,6 +4005,9 @@
 
 - **[How AGIBOT is bringing more AI on-device with Arm](https://www.youtube.com/watch?v=ssjiaS_A68I)** · Arm (channel)
   [음악] AG로서 우리가 찾고 있는 것은 우리의 요구 사항을 충족하는 가장 전력 효율적이고 비용 최적화된 컴퓨팅 플랫폼입니다 . 그리고 우리는 기기에 더 많은 AI를 도입하여 음악을 실시간으로 더욱 풍부한 인간 상호작용과 연결할 수 있도록 하고 싶습니다. 이를 통해 우리 로봇의 산업 및 소비자 활용 사례가 확대될 것입니다. 현재 우리가 직면한 과제는 로봇에 더 많은 컴퓨팅 성능을 탑재하면서도 움직임, 동작 및 원활한 상호 작용을 구현하기 위한 컴퓨터 성능 예산을 준수하는 것입니다.
+
+- **[Internship at Arm: Lin's experience](https://www.youtube.com/watch?v=dJRLuqngM-0)** · Arm (channel)
+  At [music] first, I didn't think of applying to Arm. I was thinking, oh, am I not good enough to join? The only difference between the current me and previous me is that I applied. [music] When I got the offer, I knew that I'd be working not only with the cutting-edge [music] technology, but with people that had these kind of experiences as well. It's scary. It feels scary.
 
 - **[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)** · Boston Dynamics (channel)
   [음악] 우.
@@ -4345,9 +4360,15 @@
 - **[Seeing the world differently: Inside the Zoox robotaxi’s 360° vision](https://www.youtube.com/watch?v=5uNBa7bmRmY)** · Zoox (channel)
   The Zoox robot taxi doesn't have a front or a [music] back because it's not a car and it's driven by AI not humans [music] and that changes everything including how it sees the world. [music] Four sensor pods positioned on each corner give it a higher vantage point helping it see over traffic on busy city streets.
 
-## 2026-03 (총 86건)
+## 2026-03 (총 91건)
 
-### AX (23건)
+### AX (25건)
+
+- **[Arm Everywhere Keynote: Rene Haas, new Arm AGI CPU, Meta, OpenAI & role of CPUs in AI data centers](https://www.youtube.com/watch?v=yBUm2AZZfhY)** · Arm (channel)
+  There's a specific kind of silence right before the world changes. It's that split second of realization. The moment when you know that life as you've lived it is about to become something entirely new. For more than 35 years, we've learned to recognize that moment. From Cambridge to the world, we partnered with our ecosystem solving problems together. We've been here from the start of AI preparing the world for what's next.
+
+- **[The making of the Arm AGI CPU](https://www.youtube.com/watch?v=4IxOMp_bOFw)** · Arm (channel)
+  [music] &gt;&gt; Over 350 billion chips have been shipped with ARM. We're the most pervasive computer architecture ever invented. [music] We touch 100% of the connected population. Anyone with [music] any digital device is likely using ARM. ARM is one of the great secrets of the technology space. People use ARM technology every day multiple times. When you look at the ARM ecosystem, it is the de facto platform that everybody is building on top of.
 
 - **[10 years of AlphaGo: The turning point for AI | Thore Graepel & Pushmeet Kohli](https://www.youtube.com/watch?v=qoinGjj60Fo)** · Google DeepMind (channel)
   구글 딥마인드 팟캐스트에 다시 오신 것을 환영합니다 . 저는 한나 프라이 교수입니다. 그 장면을 상상해 보세요. 2016년 3월, 대한민국 서울의 한 호텔 스위트룸에서 두 사람이 고대 게임인 바둑을 두고 있다. 상상을 초월하는 복잡성을 지닌 게임으로, 오랫동안 기계가 마스터하는 것은 불가능하다고 여겨져 왔다. 한쪽에는 바둑 세계 챔피언을 18번이나 차지한 전설적인 인물, 이세돌이 있습니다. 반면 알파고는 강화 학습이라는 강력한 기술을 기반으로 구축된 신경망 기반 AI 시스템입니다 . 한국 서울에서 진행되는 DeepMind Challenge에 오신 것을 환영합니다.
@@ -4418,7 +4439,7 @@
 - **[Youtube to Hopscotch | This Is Your Content Distribution in Seconds!](https://www.youtube.com/watch?v=ITEN9LDyshg)** · Zapier (channel)
   YouTube 영상을 다른 소셜 미디어 플랫폼에도 게시하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 새로운 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있습니다 . 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다 . 예를 들어, 홉스콧 소셜 미디어 앱을 사용하여 유튜브 영상을 소셜 미디어에 자동으로 게시한다고 말할 수 있겠네요 .
 
-### unclassified (63건)
+### unclassified (66건)
 
 - **[Accenture at NVIDIA GTC | Powering AI reinvention at enterprise scale](https://www.youtube.com/watch?v=POzoHBBwtNg)** · Accenture (channel)
   [음악] 음.
@@ -4449,6 +4470,15 @@
 
 - **[The new MacBook Pro with M5 Pro and M5 Max](https://www.youtube.com/watch?v=GriXfu4tL30)** · Apple (channel)
   [Metronome ticks steadily] ♪ Piano slowly emerges, tentatively building ♪ [Piano stops abruptly] [Squeaky wheels] ♪ Piano returns with a confident, steady rhythm ♪ ♪ Drums enter ♪ ♪ Rhythm builds ♪ ♪ Bass line joins ♪ ♪ Sound swells ♪ ♪ Piano flourishes ♪ ♪ Organ emerges ♪ ♪ Instruments drop to silence ♪ ♪ Trumpet bursts in ♪ ♪ ♪ Full ensemble kicks back in ♪ ♪ Instruments …
+
+- **[Arm AGI CPU: Reactions from Arm's deployment partners](https://www.youtube.com/watch?v=uYmzRoxe1nY)** · Arm (channel)
+  Arms been building IP for hardware for generations. [music] Over the last decade built processors for heavier weight compute. Cloudflare is one of the largest networks [music] in the world and Arm is a really important part of our ability to keep innovating not just at the speed we've always innovated at but at speed that [music] keeps up with what's going on. &gt;&gt; Arm has consistently delivered predictable scalability and excellent power efficiency.
+
+- **[Hiring tips from Arm's Emerging Talent Team](https://www.youtube.com/watch?v=aM7m6_FSQDo)** · Arm (channel)
+  To stand out in our interview process, it's really important that we see the real authentic you. We want to know what you enjoy doing, what your passions are, your technical strengths and skills and understanding. So, it's really important that our graduates are comfortable with that changing landscape and that ambiguity at times. One thing that candidates shouldn't worry about is the friendliness and the approachableness of our interviewers.
+
+- **[How Panasonic vSkipGen scales cloud-native cockpit development for software-defined vehicles](https://www.youtube.com/watch?v=zBiSWMrT4rw)** · Arm (channel)
+  [music] &gt;&gt; Hi, I'm Senthil Nathan Subramanian, a senior staff architect at Panasonic Automotive, a global supplier for automotive and mobility technologies to the world's leading OEMs. Currently, there is a significant shift in the automotive industry as we move away from hardware-centric designs to software-driven architectures, making vehicles essentially a data centers on wheels. This evolution brings unique challenges as suppliers work to adapt new operating systems and software designs.
 
 - **[Form & Function of Enterprise Humanoid Design | Boston Dynamics Tech Talk | Atlas](https://www.youtube.com/watch?v=wL0-Pu_8F0U)** · Boston Dynamics (channel)
   함께해 주셔서 감사합니다. 저는 크리스 쏜입니다. 저는 지금 아론 아브로프, 제임스 쿠체라와 함께 있습니다. 오늘은 새로운 Atlas 하드웨어 설계에 대해 논의하겠습니다. 저는 Atlas 하드웨어 팀을 이끌고 있습니다. 저는 보스턴 다이내믹스에서 약 15년 ​​동안 근무했습니다. 그중 절반 이상은 아틀라스 개발에만 전념한 시간이었다 . BD에 합류하기 전에는 펜실베이니아 대학교의 GRASP 연구실에 있었고 , 그곳에서 기계공학 박사 학위를 받았습니다 . 애런, 간단하게 자기소개를 해주시겠어요 ? 저는 보스턴 다이내믹스에서 6년 동안 근무했습니다.
@@ -6485,14 +6515,17 @@
 - **[🏕️ 힐링 가을 야유회ㅣ풀 재택 AI 스타트업ㅣ업스테이지ㅣ사내행사](https://www.youtube.com/watch?v=cCIHoVClBM0)** · Upstage (channel)
   [음악] [박수] [음악] vai [음악] 하겠 [음악] 녕서 [박수] 와 [음악] 오늘요 어 너무 즐거울 거 같은데 아 저희가 평소에는 다들 못 만나니까 그 얼굴을 볼 수 있는게 좋네요 많이 기대가 되고 이렇게 많은 스카 분들을 보니까 기분이 묘하네요 뭐요 온라인으로만 보시던 분들 실물로 보니까 약간 연예인 같은 기분도 나고 아주 재밌네요 일단 지금 너무 배고파서 바비큐가 기대되고 있고요 다른 분들 실물로 배서 너무 신기합니다 누구라고요 너무 야네 오늘 너무 기대되고 있고요 맛있는 거 많이 먹고 경품도 다 가져가겠습니다
 
-## 2023-10 (총 7건)
+## 2023-10 (총 8건)
 
 ### AX (1건)
 
 - **[Making Chat (ro)Bots](https://www.youtube.com/watch?v=djzOBZUFzTw)** · Boston Dynamics (channel)
   greetings good sir may I have the pleasure of knowing your names I'm Matt and that's v a pleasure to meet you Matt and vacher shall we commence our journey the charging stations where spot robots rest and recharge is our first point of Interest follow me Gentlemen let's proceed to the Rock P hey spot how do you like your job ah Mr Matt my employment as a tour …
 
-### unclassified (6건)
+### unclassified (7건)
+
+- **[Introducing Multipick for Stretch | Boston Dynamics](https://www.youtube.com/watch?v=9J0M6kMjX6c)** · Boston Dynamics (channel)
+  [음악] 현재 창고에서 수동 하역 작업을 하는 사람들을 보면 적응력이 정말 뛰어납니다. 불안정한 적재 상황, 다양한 크기의 상자들을 처리하는 등 새로운 상황에도 잘 대처할 수 있죠. 저희도 그런 하역 작업자들의 장점을 배워 최대한 적응력 과 성능을 향상시키려고 노력하고 있습니다. 하지만 스마트 그리어에 탑재된 스트레치의 독특한 형태를 활용하면 인간의 능력을 뛰어넘어 여러 개의 대형 상자를 한 번에 집어 올릴 수 있는 방법도 모색하고 있습니다. 스트레치는 주기적으로 상자를 집어 올립니다.
 
 - **[Spot at Nestlé Purina | Boston Dynamics](https://www.youtube.com/watch?v=XPOpnJSldUg)** · Boston Dynamics (channel)
   We don't see Spot as just thermal and acoustic inspection. We see Spot as something more of a tool that we can use for other applications, and we're just starting to explore that and see what can we do in collaboration with Boston Dynamics to make Spot even more useful for our factories. My name is Roger Brecht. I'm the vice president of digital manufacturing for Nestle Purina Petcare.
@@ -6512,33 +6545,47 @@
 - **[“자니…? 이거 해볼까…?” | 문화를 만드는 이야기 EP.1](https://www.youtube.com/watch?v=Qp-WzlFR1Lg)** · LG AI Research (channel)
   Jihee – Member Haewon - Member Wow! Isn’t this, like 100% US? I had that. When Jihee used, “NTMY,” I had no idea what that meant. Jihee is an Millennial, I’m a Gen Z. No, I’m Gen Z. (Firm) Wow! Bring it up, bring it up. Bring it up! I'm not sure we are on a right path... Why do you ask. Are we going to retake it? Hello.
 
-## 2023-09 (총 1건)
+## 2023-09 (총 2건)
 
 ### AX (1건)
 
 - **[챗GPT를 넘어선 스타트업!? 😲ㅣLLM 성능 세계 1위 달성ㅣ업스테이지ㅣHugging Face](https://www.youtube.com/watch?v=D1aJpugoCfQ)** · Upstage (channel)
   llm이라는 이제 되게 큰 파도가 왔고 그 다음에 많은 회사들이 파도 위에 올라탔는데요 또 이왕 하는 거 글로벌 1등 정도는 찍어봐야 뭔가 제대로 한다고 생각했던 것 같네요 [음악] 안녕하세요 lnm 엔진 팀의 파운데이션 모델 파트에서 테크니컬 리더 역할을 하고 있는 김상원입니다 안녕하세요 에베레스트의 파운데이션 모델 파트에서 모델 개발하고 있는 송원호라고 합니다 [음악] 저희가 자체적으로 한국어 llm을 학습해낼 수 있는지 검증하는 것을 목표로 시작을 하게 됐고요 저희는 허깅 페이스에 오픈 에러램 리더보드를 도전하기로 결정했습니다
 
-## 2023-07 (총 2건)
+### unclassified (1건)
+
+- **[The Complete Asset Reliability Solution | Boston Dynamics](https://www.youtube.com/watch?v=LOFRjd5qR3c)** · Boston Dynamics (channel)
+  [음악]
+
+## 2023-07 (총 3건)
 
 ### AX (1건)
 
 - **[LG AI Talk Concert 2023](https://www.youtube.com/watch?v=tbeGE19qIk4)** · LG AI Research (channel)
   [음악] [박수] [음악] [박수] [음악] [박수] [음악] 안녕하세요 LG AI 연구원의 경우입니다 오늘 LG AI 토크 콘서트 2023에 와주신 모든 분들께 감사의 말씀드리겠습니다 어드밴싱 AI probetter life 2020년 12월 ai를 통해 보다 나은 섬을 만드는 것을 꿈꾸며 LG AI 연구원이 설립되었습니다 LG AI 연구원의 첫 번째 미션은 산업현장에 존재하는 난제를 해결하는 것이었습니다 정밀 부품의 생산 공정부터 신약개발 전기차 배터리 회로 설계 대형 플랜트 섭이 운영까지 다양한 산업 분야에서 난제를 발굴하고 해결하는데 집중해 왔습니다
 
-### unclassified (1건)
+### unclassified (2건)
+
+- **[Spot at Ontario Power Generation: Automating Circuit Breaker Tripping and Racking](https://www.youtube.com/watch?v=CyjYIgnsIeY)** · Boston Dynamics (channel)
+  1년 만에 임시 요청에서 시작하여 완벽하게 개발된 상용 도구로 발전하는 과정을 직접 목격했습니다. [음악] 저는 마이크 델리시입니다. 온타리오 전력 발전(OPG)에서 약 15 년간 주로 혁신팀 또는 xlab 팀에서 근무해 왔습니다. 저희는 기술 통합자 역할을 하며, 세상에 존재하는 최첨단 기술들을 평가하고 OPG 내에서 이러한 기술을 활용하면 이점을 얻을 수 있는 특정 사용 사례를 찾아냅니다. 사람이 직접 작업에 참여하지 않도록 하면 안전성이 향상된다는 것을 알고 있기 때문에 Spot이 적합하다고 판단했습니다.
 
 - **[빅테크를 집어삼킨 AI 스타트업 🏆ㅣICDAR 4부문 1위ㅣOCR](https://www.youtube.com/watch?v=e5PGdcxwD_Y)** · Upstage (channel)
   저는 [음악] 업스테이지에서 자연어 처리 연구원으로 일하고 있는 신수원입니다 저는 엔지니어링이랑 영구 쪽 같이 도맡아 하고 있는 하연서라고 합니다 업스테이지에서 멀티모달 인공지능 연구원으로 일하고 있는 김다현입니다 [음악] ictar은 미국에서 개최되는 문서 분석 및 인식 국제학술회의가 주관하는 AI OCR 분야 세계 최고의 경쟁률 중 하나입니다 올해 열린 대회 업스에 참여해서 우승한 성과를 보여드렸는데요 각 부분에 대해서 설명을 드리도록 하겠습니다 하이얼 텍스트 대회 같은 경우는 이미지에서 단어를 검출하는 것에서 나아가서 대충 구조까지 추출해내는 것을 목표로 하고 있는 구글 리서치 주최 대회입니다
 
-## 2023-06 (총 2건)
+## 2023-06 (총 4건)
 
 ### AX (1건)
 
 - **[[풀영상] 업스테이지 기자간담회 Press StageㅣAI 기업ㅣDocument AIㅣAskUp SeargestㅣOCR](https://www.youtube.com/watch?v=dA39O0GhJjA)** · Upstage (channel)
   [음악] nlp나 비전 관련된 전문가들이 모여 있는 곳이고요 그리고 뭐 큰 회사들 네이버나 카카오 그리고 엔비디아 메타 아마존 글로벌 기업에서 큰 일을 하셨던 분들이 모여 있습니다 특히나 우리가 이야기를 해봤고 여기에 그치는게 아니라 처음부터 끝까지 엔터테인더라고 하죠 제품도 처음부터 끝까지 만들어보고 사업도 처음부터 끝까지 만들어 봤던 멤버들이 모여서 회사를 만들었고 그래서 뭐 글로벌로도 가장 스트롱한 ai팀 중에 하나가 아닐까 생각하고 있습니다
 
-### unclassified (1건)
+### unclassified (3건)
+
+- **[Spot Levels Up | Boston Dynamics](https://www.youtube.com/watch?v=qgHeCfMa39E)** · Boston Dynamics (channel)
+  [박수] 외국어 [음악] [박수] 오늘 Spot 제품 발표에 참여해 주셔서 감사합니다. 지난 몇 년간 수많은 기술 분야에서 혁신적인 변화가 있었습니다. AI, 자동화, 데이터 관리 분야에서 빠른 발전이 이루어지고 있으며, 이러한 도구를 구동하기 위한 더 나은 데이터 수집에 대한 필요성이 증가하고 있습니다. 이러한 변화는 기업 리더들이 차세대 기술에 대비하여 새롭고 흥미로운 방식으로 산업 과제를 해결해야 할 필요성을 증대시키고 있습니다. 세계 유수의 기업들이 인력 보강을 위해 로봇을 활용하고 있으며, Spot은 35개국 이상에 1,000대 이상의 로봇을 배치하여 모바일 로봇 시장을 선도하고 있습니다
+
+- **[What's New in Spot Release 3.3 | Boston Dynamics](https://www.youtube.com/watch?v=nASTVKX0gpo)** · Boston Dynamics (channel)
+  [음악]
 
 - **[업스테이지 기자간담회 Press Stage 현장 스케치](https://www.youtube.com/watch?v=BvxNRTvtod4)** · Upstage (channel)
   외국 [음악] 당신의 모든 짐들, 네, 그리고 난 말했죠, 하지만 난 당신을 사랑해요, 그 말들을 제발 들어주세요 [음악] 당신이 겪어온 일들을 감히 헤아릴 수가 없어요, 모든 게 그저 거짓이었으면 좋겠어요 [음악] 에드, 제발 마음이 식지 않게 해주세요 [음악] 삶에 희망과 은혜와 진실이 있기를, 고마워요 [음악]
@@ -6564,14 +6611,14 @@
 - **[모두를 위한 ChatGPT UP! 강의소개 (Teaser 2) - Hanna Kroukamp (Copilot Applied AI Engineering team @Microsoft)](https://www.youtube.com/watch?v=rVDM_sprpGg)** · Upstage (channel)
   안녕하세요 저는 현재 마크소프트 내에서 데이터 과학자로 일하고 있는 하나로 간다고 합니다 인터넷에서는 양파라는 닉네임으로 아시는 분들 더 많을 것 같아요 얼굴이 동그래서 그렇습니다 이번에 업스테이션 강의를 계획하면서 저는 펌 엔지니어링 부분을 맡았습니다 저는 사실 지난 몇 년 동안 lnm 거대 언어 모델이 아닌 다른 AI 모델이 주로 다루다가 지난해부터 lnm의 한 종류인 gp도 이렇게 반으로 이런저런 개발을 하게 됐는데요 이게 사실 인간 역사상 가장 강력한 가장 사랑과 비슷하게 말을 알아듣고 그리고 저희가 이해하기 쉬운 방법을 저에게 말을 하는 AI 모델이잖아요 이제 그런 모델에게 일을 시키는게 이전 모델과는 많이 달랐습니다
 
-## 2023-04 (총 6건)
+## 2023-04 (총 7건)
 
 ### DX (1건)
 
 - **[Telco Tech Talks: How do we develop our people to meet the future?](https://www.youtube.com/watch?v=fythNeXmXnM)** · Telenor (channel)
   안녕하세요 여러분, 텔코 테크 토크에 오신 것을 환영합니다. 저는 터미널 그룹의 CTO이신 헤르민 메타 씨와 함께하고 있으며, 저는 터미널 그룹의 CEO입니다. 이번이 러시아에서 여섯 번째 진행인데요, 저희는 기술 분야에 대해 좀 더 심도 있는 대화를 나누고자 합니다. 기존의 링크드인 영상들과는 달리, 기술이 어디로 향하고 있는지, 그리고 새로운 기술이 우리 업계에 어떤 기회와 위협을 가져다주는지 이해하고자 합니다. 오늘은 특별한 게스트를 모시게 되어 기쁩니다. 헤르민 메타 씨, 토크에 오신 것을 환영합니다.
 
-### unclassified (5건)
+### unclassified (6건)
 
 - **[Future Forward: The Future of Buildings](https://www.youtube.com/watch?v=keuFY6UU21M)** · Amazon (channel)
   I think what motivates me is my kids and thinking about the kind of future that they'll have. My grandfather said to me that all of the generations that came before him have had a relatively similar lifestyle. Well, you guys want some breaky? Yes, that's good. I would like my kids to have a similar life that I've had. We were able to go to the beach.
@@ -6588,17 +6635,26 @@
 - **[Future Forward: The Future of Transportation](https://www.youtube.com/watch?v=nSDn5-MwlV4)** · Amazon (channel)
   오늘은 평범한 화요일 아침이었지만, 조금 더 즐거운 일이 있었어요. 차량 연구소에 갈 예정이거든요. 좋은 하루네요. 최근 유엔 기후변화 보고서가 발표되었는데, 내용이 암울합니다. 기후변화에 관한 정부간 패널(IPCC)은 지구 온난화의 최악의 영향으로부터 지구를 효율적으로 구하기 위해 지금 당장 행동해야 한다는 점을 다시 한번 분명히 했습니다. 다소 실망스럽지만, 제 생각에 가장 중요한 점은 이 문제가 우리에게 달려 있다는 것입니다. 다른 누구도 마법처럼 이 문제를 해결해 줄 수는 없습니다. 대기업의 일원으로서 우리는 할 일이 있습니다
 
-## 2023-03 (총 10건)
+- **[See Spot Work | Boston Dynamics](https://www.youtube.com/watch?v=gvzljfK-PiU)** · Boston Dynamics (channel)
+  [음악] 오 [음악] 너
+
+## 2023-03 (총 12건)
 
 ### AX (1건)
 
 - **[LG의 초거대 AI 연구를 이끄는 EXAONE Lab 이진식 리더 인터뷰!](https://www.youtube.com/watch?v=w-_mdGJG5wk)** · LG AI Research (channel)
   구성원 모두가 열정과 폐기로 똘똘 뭉쳐져 있습니다 다른 곳에서는 경험할 수 없는 초고대 AI 모델을 다뤄본 귀중한 경험을 보유하고 있고 초거대 AI 모델에서도 각자가 막고 있는 분야에서 매우 높은 수준의 전문성을 보유하고 있는 정의 멤버라고 자랑하고 싶습니다 lgi 연구원 파이팅 안녕하세요 LG AI 연구원 엑 앱을 맡고 있는 이진식 있니다 학교에서는 음성 합성을 위한 자연언어처리 연구를 을 했고요 졸로프는 자연언어 처리 분야 중에서 사람의 의도를 파악하는 언어 이해 분야랑 그다음에이를 활용한 대화 분야를 연구했습니다
 
-### unclassified (9건)
+### unclassified (11건)
 
 - **[Future Forward: Full Length Trailer](https://www.youtube.com/watch?v=OSpwESjq3oE)** · Amazon (channel)
   우리 업계가 탄소 배출원이라는 사실은 누구나 알고 있습니다. 어떤 업계에 종사하든 기후 변화나 탄소 중립에 대해 생각하지 않는다면 큰 오산입니다. 우리의 목표는 2040년까지 탄소 순배출량 제로(Net Zero)를 달성하는 것입니다. 이를 위해 파트너들을 찾았고, 오늘 우리가 함께 하는 일이 바로 그 시작입니다. 우리 혼자서 이 길을 가는 것보다 함께라면 훨씬 더 큰 성과를 낼 수 있습니다. 이산화탄소를 콘크리트에 담아 영구적으로 제거하는 것이죠. 우리의 목표는 2030년까지 전기 밴 10만 대를 운행하는 것입니다.
+
+- **[Paris Underground: Spot Inspects Transportation Infrastructure with RATP Group](https://www.youtube.com/watch?v=bKDhmENcKto)** · Boston Dynamics (channel)
+  감사합니다 [음악] 저희 ATP 그룹은 세계 3위의 대중교통 운영사입니다. 파리 지하철과 버스를 비롯한 대중교통 시스템으로 매우 유명하지만, 전 세계 곳곳에서 사업을 운영하고 있습니다. 런던, 카이로, 이탈리아 토스카나, 홍콩, 심지어 워싱턴에서도 운영하고 있으며, 매일 1,600만 명의 승객을 수송하고 있습니다. 저희는 파리에서 최초로 자동화된 지하철 노선 중 하나를 운영했으며, 90년대에는 세계 최초로 비접촉식 티켓팅 시스템을 개발했습니다. 이는 저희 DNA의 일부이며, 더 나은 고객 경험과 도시 생활의 질 향상을 위해 매일 혁신하고 있습니다.
+
+- **[Stretch at Promat 2023 | Boston Dynamics](https://www.youtube.com/watch?v=TVL4S05O-C8)** · Boston Dynamics (channel)
+  [음악] 스트레치는 창고용 자율 케이스 핸들링 로봇입니다. 지금 보여드리는 것은 컨테이너 하역 작업입니다. 스트레치는 로봇에 단단히 고정된 아코디언 컨베이어를 사용하여 작업하고 있지만, 텔레스코픽 컨베이어도 사용할 수 있습니다. 스트레치는 사용법을 배우기 매우 쉽습니다. 이는 의도적으로 설계한 것으로, 설정 조작에 소요되는 시간을 최소화할수록 더 많은 박스를 처리할 수 있기 때문입니다. 스트레치 의 핵심 목표는 최대한 효율적으로 작동하고 가동 시간을 극대화하는 것입니다. 스트레치는 기존 창고에 추가적인 인프라 구축 없이 원활하게 통합될 수 있도록 유연한 자동화 시스템으로 설계되었습니다
 
 - **[Introducing Figure](https://www.youtube.com/watch?v=b37rQZ4maPo)** · Figure (channel)
   [음악] 감사합니다 [음악] 외국 [음악]
