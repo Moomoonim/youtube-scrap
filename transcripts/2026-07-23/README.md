@@ -17,3 +17,9 @@
 ## 19:34 수집 (1개)
 
 - [AI 반도체 판도가 뒤집힌다?...엔비디아 비상, 구글  Frozen v2가 던진 경고](AI_반도체_판도가_뒤집힌다...엔비디아_비상,_구글_Frozen_v2가_던진_경고__uv1DAiV49gs.md) (ko) — [원본](https://www.youtube.com/watch?v=uv1DAiV49gs)
+
+## 23:29 수집 (3개)
+
+- [[AX Summit] 2. (키노트)AI Native 기업으로의 전환 방안과 사례(AX센터 AI사업팀장 신계영 부사장)]([AX_Summit]_2._(키노트)AI_Native_기업으로의_전환_방안과_사례(AX센터_AI사업팀장_신계__PsfnMJwSoXs.md) (ko) — [원본](https://www.youtube.com/watch?v=PsfnMJwSoXs)
+- [Breaking Down Google's Earnings: They're Scaling Up Investments - CEO Hong Chun-wook (Prism Inves...](Breaking_Down_Google's_Earnings_They're_Scaling_Up_Investmen__CpKLKwscstc.md) (ko) — [원본](https://www.youtube.com/watch?v=CpKLKwscstc)
+- [현장에서 AI 트랜스포메이션 이끌면서 배운 것 (황재선 SK 부사장)](현장에서_AI_트랜스포메이션_이끌면서_배운_것_(황재선_SK_부사장)__b-tgY8Q0SbA.md) (ko) — [원본](https://www.youtube.com/watch?v=b-tgY8Q0SbA)
