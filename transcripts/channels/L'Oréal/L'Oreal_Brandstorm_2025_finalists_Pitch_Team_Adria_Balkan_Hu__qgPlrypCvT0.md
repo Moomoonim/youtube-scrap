@@ -1,0 +1,13 @@
+# L'Oreal Brandstorm 2025 finalists Pitch Team Adria Balkan Hub
+
+- 영상 링크: https://www.youtube.com/watch?v=qgPlrypCvT0
+- 채널: L'Oréal
+- 업로드일: 2025-10-17
+- 자막 언어: en
+- 단어 수: 약 441개
+
+---
+
+## 스크립트
+
+Let's give it up for team Adria Balcon Hub. Come on up to the stage. Okay. Are you ready? &gt;&gt; Yes. &gt;&gt; The floor is you. Uh I guess I should give you the clicker. That might be helpful. Okay. When you're ready, your three minutes starts now. Take it away. &gt;&gt; Good afternoon. My name is Eva. I'm joined by Bono and Eva. And we are team I2B from Croatia. So over 50% of men are interested in skincare, but less than one in four actually buy it. Why? Because skincare feels unfamiliar. Too many steps and too much effort. But there's one ritual men know by heart. Shaving. So we thought, what if skincare didn't feel like something new, but simply continued where shaving ends? So meet Roland Care, a threein-one facial cream. It hydrates, soothes, and protects with SPF all in one step. And what makes it different? A roller top applicator that mimics the motion of shaving. Inspired by muscle memory. So no thinking, just rolling. &gt;&gt; Rolling career is refillable with biodegradable cream tube. The roller head stays. The cream tube swaps. Less plastic, less waste, more loyalty. It's responsible by design and profitable. The full set starts at €15 with Riffle's price to keep him coming back. It's a product built for loyalty, aligned with L'Oreal's value for sustainability and smart innovation. We are inspired by generation of men who are redefining masculinity. Gen Z and young millennials are more open than ever to skin care. Men's grooming grew 12% and for over 60% of Gen Z, skin care is a part of who they are. They want fast, functional, no fluff products that fit their pace and their mindset. That's who Roland Care is made about. &gt;&gt; Rolling Care also integrates into L'Oreal Skin Genius app, but we take it one step further. Inside the app, we create a Rolling Care space with routine reminders, visible skin progress, and a real community. A space where men can share experiences, track results, and unlock small rewards for sticking to the habit. We launch Rory and Care where men already are online, on the move, and in their routines. In store, Roland Care lives next to razors, not moisturizers, meeting him where he shops. On Instagram, the tone is bold and relatable. Skincare that speaks his language in his scroll. On Tik Tok, the 10-second skincare challenge makes skincare something men actually want to talk about. Because real confidence starts with feeling good in your skin. And every man deserves that. That's the future we see and the one L'Oreal helps us build. Thank you. [Applause]

@@ -1,0 +1,13 @@
+# How to Build Slide Decks with Replit Agent
+
+- 영상 링크: https://www.youtube.com/watch?v=7DBXOoLvqoQ
+- 채널: Replit
+- 업로드일: 2026-05-04
+- 자막 언어: en
+- 단어 수: 약 475개
+
+---
+
+## 스크립트
+
+If you've ever needed to throw together a pitch deck or presentation really quickly, this is the video for you. In Replit, you can build a complete polished slide deck just by describing what you want. Let me show you how. Open the Replit homepage and just type in what you want. I'm going to say, "Create a pitch deck for a travel planner app." Agent might ask you some questions about what you want. They might ask [music] you how many pages you want or the style you're looking for. I'm going to choose seven pages and type in a clean and minimal style, and then send that in and [music] wait for Agent to do its magic. Agent now will generate a complete deck with visuals, layouts, and text. All right, it looks like it's done. It has a [music] travel planner look and this really beautiful minimal style. I think this is really professional and probably better than anything I could have made. Once you have your first version, you can refine it through conversation. You don't have to start over. I'm going to ask Agent to add a picture [music] to the problem slide. Wow, look at that. It added an animation of a brainstorming page and I think it looks really good. You can also select an element [music] on your slide and adjust it. You can change the text, what it's going to say. You can [music] also change the color of it, the size of it, anything you want. I'm going to change it to say, "This is Wayfair." and change the font size [music] to be a little bit bigger. And then once I'm happy with that, I'm going to save the changes. These edits don't use any AI credits. It's just [music] you tweaking the design. If you're starting a deck from scratch, there's a few ways to start a slide deck. You can upload your brand guidelines and Agent will match your fonts, colors, and visuals across every slide. You can also upload an existing presentation as a starting point that Agent can use. When your deck is ready, you can hit this top right present button and it will show your slide deck in full screen. If you need to take your presentation outside of Replit, you can export it as a PDF, PowerPoint, or Google Slides. [music] Because the slides are built using React, they will look exactly the same outside of Replit as they do inside. Or you can skip the export entirely, hit publish, and your slide deck becomes a live shareable URL. Anyone with the link can view it and present from their browser. Slide [music] decks are available on all Replit plans, so go build something with Replit. Check out the link in the description for the full docs.
