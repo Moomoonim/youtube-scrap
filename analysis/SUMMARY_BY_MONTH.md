@@ -1,8 +1,8 @@
 # 월 × 분류(DX/AX/AT)별 수집 요약
 
-## 2026-07 (총 542건)
+## 2026-07 (총 551건)
 
-### AX (186건)
+### AX (187건)
 
 - **[AI adoption? Watch this video 10 times. (I'll feed you everything.)](https://www.youtube.com/watch?v=1f5ijgzt1-I)** · 조코딩AX파트너스-랩스 and 조코딩AX파트너스 (keyword)
   AI 전환 아직도 모르신다고요. 그렇다면 회사는 3년 안에 다른 회사에 먹힐 가능성이 굉장히 [음악] 높습니다. 이건 겁주려는 말이 아니라 실제로 벌어지고 있는 현실이에요. 안녕하세요. 데모상 개발단 라균입니다. 기업들 AI 전환 그러니까 AX를 실제로 구축해 주는 일을 하고 있습니다. 오늘 영상에서는 AX가 뭔지 그리고 기업들은 어떻게 AI를 쓰고 있는지 그 사례에 대해서 전달드리도록 할게요. 대표님들이 영상 끝까지 보시면 우리 회사에 AI를 어디서부터 써야 하는지 어떤 부분을 AI로 대체할 수 있는지 머릿속에 그림 그려 주실 거예요.
@@ -213,6 +213,9 @@
 
 - **[AI First 병원으로 전환중인 메이요 클리닉ㅣ의료ai 활용 사례](https://www.youtube.com/watch?v=umf8hIWkVfs)** · 투이컨설팅-투이톡 (keyword)
   2024년 3월 5일 뉴스위크가 공개한 2024 세계의 최고 병원에 따르면 글로벌 병원 위안에 국내 빅파 병원이 이름을 올렸습니다 서울 아산 병원이 22위로 국내 1위를 차지했고 삼성서울병원이 34위 세브란스 42위 서울대병원 43위 분당 서울대 병원이 81위 차지했습니다 그렇다면 뉴스위크가 선정한 전 세계 최고 병원은 어디일까요 바로 미국 미네스타 주 로체스터에 위치한 150년 역사를 자랑하는 메이오 클리닉이 1위를 차지했습니다
+
+- **[AI 없이 버틸 수 없는 시대 🚀 제조업을 뒤집을  AI 혁신의 모든 것 🤖](https://www.youtube.com/watch?v=3qzcqWlIcec)** · 미스릴 AI (keyword)
+  기술적인 용어로 데이터 사일로 현상이라고도 하죠. 데이터 자체가 뭐 각각의 파트별, 각각의 현장별로 계속 쌓이거나 그런 상황이고 그렇기 때문에 AI가 들어가더라도 문제를 해결할 수 없는 케이스가 많은데 &gt;&gt; 그런 의미에서 사실 중요한게 저는 [음악] 생각을 합니다. 대표적으로 이제 팔란티어가 아마 이게 기술적인 단어라기보다는 철학적으로 제시해서 약간의 마케팅을 결합시켜서 쓰는 용어인 거 같은데 일단은 뭐 데이터가 있어야 단순히 그냥 모아진 데이터가 있으니까가 아니라 앞으로 5년 내에 AI 산업에서 좀 가장 크게 바뀔 부분이 어떤 거라고 생각하세요?
 
 - **[Enterprise AI Adoption: From Idea to Deployment](https://www.youtube.com/watch?v=xofWoVQ-ic4)** · Sema4ai (keyword)
   안녕하세요, 저는 믹 홀리슨이고 오늘은 폴 코팅 씨와 이야기를 나누겠습니다. 폴은 Semaphore.ai의 수석 부사장 겸 제품 책임자입니다. 그는 공동 창업자이기도 합니다. 오늘은 폴과 함께 기업용 AI 에이전트 도입에 대해 이야기해 보겠습니다. 기업들이 직면하는 장애물과 과제에는 어떤 것들이 있으며, semaphore.ai 플랫폼은 이러한 문제들을 어떻게 독창적으로 해결할 수 있을까요? 폴, 우리 둘 다 기업용 소프트웨어 업계에 꽤 오랫동안 몸담아 왔고, 그 과정에서 어려움도 겪고 상처도 입고, 어쩌면 몇 가지 성과도 얻었을 거라고 생각해요 .
@@ -562,7 +565,7 @@
 - **[The Good, the Bad, and the Ugly: How Zapier Is Building an AI-First GTM Team](https://www.youtube.com/watch?v=tqnLffBM-og)** · Zapier (channel)
   Welcome to today's webinar. Before we get started, let's go over a few quick housekeeping items. First, yes, we've had a few people ask, this webinar is being recorded. You can access the recording at any time after we close by using the same link you used to join today. We'll also send you an email with the recording link [music] once the webinar has ended.
 
-### DX (19건)
+### DX (20건)
 
 - **[AI 도입을 위한 데이터 거버넌스 구축 전략은? (김유신 상무)](https://www.youtube.com/watch?v=vH_g9HIm154)** · 티타임즈TV (keyword)
   안녕하십니까. 김유신입니다. 이번 시간에는 기업에서 AI를 활용하는 방법들 중에서 AI 시대에서도 중요한 것은 데이터다라는 부분에 대해서 좀 더 심도 있게 말씀을 드리려고 합니다. AI는 주로 예측을 하거나 탐지를 하거나 생성을 하는 일에 잘 활용됩니다.이 이 예측과 탐지와 생성을 위해서는이 AI를 학습시키기 위한 데이터가 필요합니다. 새로운 단어를 한 가지 말씀드리고 싶은데요. 데이터 센트릭 AI라는 단어입니다. 샘포드 대학의 앤드리응 교수가이 부분을 되게 강조를 하셨었는데요. 이전에는 우리가 모델 센트릭이라고 해서 AI의 모델을 어떻게 하면 더 좋게 만들 수 있는가?
@@ -590,6 +593,9 @@
 
 - **[6 Ways to Enhance Developer Productivity with AI](https://www.youtube.com/watch?v=9LfJq4xXifg)** · IBM Technology (channel)
   곰곰이 생각해 볼 만한 모순이 하나 있습니다 . 2026년에는 지구상에서 출하되는 코드의 41%가 AI에 의해 작성될 것이다. 맥켄지는 최고의 AI 활용 소프트웨어 기업들이 생산성에서 16~30%의 향상을, 코드 품질에서는 최대 45%의 향상을 경험하고 있다고 말합니다 . 이 수치들은 실제 팀들의 실제 기록입니다 . 2026년에는 개발자들이 AI가 제시하는 제안의 70%를 거부하는 현상도 나타날 것입니다 . Stack Overflow 개발자 설문조사에서 가장 많이 언급된 불만 사항은 "거의 맞지만, 완벽하진 않다"였습니다.
+
+- **[Create and manage Azure Migrate projects](https://www.youtube.com/watch?v=af5nYtGdFYw)** · Microsoft Azure (channel)
+  Azure 마이그레이션 비디오 시리즈에 오신 것을 환영합니다 . 이 시리즈에서는 Azure Migrate 도구를 시연하고 이를 사용하여 마이그레이션 준비 상태를 검색 및 평가하는 방법과 IT 상태를 마이그레이션 및 현대화하는 방법을 보여드리겠습니다. 이 비디오에서는 마이그레이션 과정의 단계 와 Azure Migrate 프로젝트를 생성하고 관리하는 방법을 다룹니다 . 기업의 일반적인 마이그레이션 과정은 세 단계로 나눌 수 있습니다. 결정하고, 계획하고, 실행하라. 하나씩 차근차근 설명해 드리겠습니다.
 
 - **[Network modernisation across Air Traffic Management: Why ANSPs are embracing IP/MPLS](https://www.youtube.com/watch?v=TBR-3S7W59Q)** · Nokia (channel)
   네, 지난 몇 년 동안 많은 고객들이 그러한 변화를 이뤄낸 것을 볼 수 있습니다 . 제 생각에 첫 번째 작품들은 아마 10년 전쯤이었을 거예요. 따라서 이는 고객이 모든 네트워크를 완벽한 복원력을 갖추고 모든 애플리케이션에 적응할 수 있는 단일 플랫폼으로 통합할 수 있도록 해주는 검증된 기술입니다. 그래서 유럽과 전 세계에서 고객들이 IP/MPLS를 통해 안전한 단일 플랫폼으로 이전할 수 있다는 수많은 입증 사례를 보유하고 있습니다. 자동화는 네트워킹 분야에서 매우 중요한 단어입니다 .
@@ -629,7 +635,7 @@
 - **[Agentic AI Frameworks Explained: Workflows, Multi-Agent, & Production](https://www.youtube.com/watch?v=ZVPlLaehjLk)** · IBM Technology (channel)
   안녕. 제 생각엔 당신 주변 세상은 에이전트형 AI 시스템과 그 엄청난 잠재력으로 떠들썩할 것 같네요. 그래서 당신은 에이전트형 AI 시스템을 구축하기로 결정합니다. 최고의 프레임워크를 찾다 보니 어느새 GitHub 탭이 17개나 열려 있고, Medium 블로그도 5개나 북마크되어 있는데, 정작 어떻게 진행해야 할지는 전혀 모르겠다. 네, 우리 모두 그런 경험이 있죠. LangChain, LangGraph, Crew AI, AutoGen, Semantic Kernel 등 강력한 프레임워크가 정말 많습니다. 그렇다면, 당신은 어느 쪽을 선택하시겠습니까?
 
-### unclassified (335건)
+### unclassified (342건)
 
 - **[(Quick Overview) Korea's Real Engine of the AI Revolution: M.AX](https://www.youtube.com/watch?v=EDHZlKgvwm4)** · KOTRA TV (keyword)
   [music] 2025. [music] The world is different. Supply chains are fragmenting, [music] getting only deeper. The climate and energy risks are rising, getting only sharper. The race for AI leadership and sovereignty is accelerating, [music] getting only faster. What is Korea's choice, and where must we focus? Let me introduce Korea's gamechanging initiative, [music] Max. Max is manufacturing AI transformation. It's about [music] scaling advanced manufacturing with AI.
@@ -1138,11 +1144,20 @@
 - **[Assess Azure VM readiness with Azure Migrate](https://www.youtube.com/watch?v=gsz-XqQ-Xn8)** · Microsoft Azure (channel)
   [음악] Azure Migrate 시리즈의 새로운 에피소드에 오신 것을 환영합니다. [음악] 이 비디오에서는 Azure VM 대상에 대한 Azure Migrate 평가에 대해 설명합니다. 평가의 중요성과 활용법을 다룬 이전 영상들을 시청하고, 평가에 필요한 사전 요건을 모두 충족한 후에 다음 단계로 진행하는 것이 좋습니다. Azure Migrate 프로젝트를 생성하고 Windows 및 Linux 서버의 인벤토리를 검색했는지 확인하십시오. Azure Migrate 어플라이언스를 사용하거나 RVTools 또는 CMDB에서 캡처한 인벤토리를 가져와 인벤토리를 검색할 수 있습니다.
 
+- **[Assess security vulnerabilities during migrations with Azure Migrate](https://www.youtube.com/watch?v=mFia4nhoxqw)** · Microsoft Azure (channel)
+  [음악] 콘토소는 온프레미스 IT 환경을 현대화하기 위해 Azure로 마이그레이션할 계획입니다. 알렉스는 콘토소의 IT 보안 관리자입니다. 그는 워크로드를 Azure로 마이그레이션하는 과정을 감독하고, 클라우드 환경으로 마이그레이션한 후에도 모든 워크로드가 강력한 보안 상태를 유지하도록 보장하는 책임을 맡고 있습니다 . Alex는 Azure Migrate를 사용하여 마이그레이션 프로젝트를 추적합니다. Azure Migrate는 마이그레이션을 위해 검색된 서버, 데이터베이스 및 웹 애플리케이션에 대한 포괄적인 인벤토리를 제공합니다 . 인사이트 뷰는 알렉스에게 환경에 대한 보안 중심의 요약 정보를 제공합니다 .
+
 - **[Assess your .NET and Java Webapps for modernization to App Service or AKS with Azure Migrate](https://www.youtube.com/watch?v=bQfhnZucBck)** · Microsoft Azure (channel)
   안녕하세요 여러분, 반갑습니다. 이 영상에서는 웹 애플리케이션의 마이그레이션 및 현대화 계획을 수립하는 방법을 살펴보겠습니다 . 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 영상에서는 웹 애플리케이션 평가에 대해 다룹니다. 웹 애플리케이션 평가는 일반적으로 마이그레이션 과정의 계획 단계에서 진행됩니다. 웹 앱 평가는 대상 서비스 전반에 걸친 평가를 철저히 분석하고 마이그레이션 준비 상태 및 관련 비용을 고려하여 Azure 앱 서비스와 Azure Kubernetes 서비스 모두에 대한 준비 상태 점검을 수행합니다.
 
+- **[Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate](https://www.youtube.com/watch?v=-gNXQHTHj0s)** · Microsoft Azure (channel)
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 Microsoft SQL Server 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다. Azure Migrate를 사용하면 독립형 또는 고 가용성 대규모 SQL Server 인스턴스 및 데이터베이스를 검색하고 평가할 수 있습니다. 구체적으로 말하자면, SQL 워크로드 의 마이그레이션 및 현대화를 가능하게 한다는 측면에서 이야기하는 것입니다 . 새로운 Azure SQL 평가 기능을 사용하면 마이그레이션 준비 상태 및 장애 요인, 권장 대상 Azure 서비스, 적정 규모의 분산 정도, 그리고 권장 사항의 근거를 파악할 수 있습니다
+
 - **[Assess your applications for migration or modernization with Azure Migrate](https://www.youtube.com/watch?v=u7emCnZfH-Q)** · Microsoft Azure (channel)
   [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 애플리케이션을 Azure로 마이그레이션하거나 현대화하는 계획을 세우는 방법을 살펴보겠습니다. 먼저 계획 단계를 살펴보겠습니다. Azure Migrate를 사용하면 ASP.NET 웹 애플리케이션, SQL Server, Windows Server, Linux Server 등과 같은 다양한 워크플로를 검색하고 이러한 워크로드를 적절하게 그룹화하여 애플리케이션을 정의할 수 있습니다.
+
+- **[Discover and plan lift-and-shift migrations with Migration Agent](https://www.youtube.com/watch?v=9N6QUGp7xw0)** · Microsoft Azure (channel)
+  [음악] 콘토소 헬스의 클라우드 관리자 알렉스를 만나보세요. 그녀는 회사 애플리케이션을 Azure로 마이그레이션할 준비가 되었지만, 마이그레이션 계획을 세우는 데 도움이 필요합니다. 그녀는 Azure 탐색을 시작하기 위해 Azure Migrate 프로젝트를 생성하고 마이그레이션 에이전트(대화형 도우미)로 이동하여 마이그레이션 여정을 안내받고 마이그레이션 프로젝트에 대한 결정을 내립니다 . VMware 워크로드를 Azure로 신속하게 마이그레이션할 수 있는 경로를 찾는 데 도움을 주세요. 상담원은 그녀에게 마이그레이션, Azure Migrate, 그리고 마이그레이션 여정의 단계, 특히 시작하는 데 필수적인 검색 단계에 대해 교육합니다 .
 
 - **[Discover workloads and applications managed by VMware vCenter with Azure Migrate](https://www.youtube.com/watch?v=KwUTKyUiBaU)** · Microsoft Azure (channel)
   [음악] 이 비디오에서는 Azure Migrate 어플라이언스를 사용하여 VMware 환경을 검색하는 방법을 배우게 됩니다 . 진행하기 전에 이 비디오 링크를 시청하고 Azure Migrate 프로젝트를 생성했는지 확인하십시오. 어플라이언스를 배포하기 전에 다음 필수 조건이 충족되었는지 확인하십시오. 해당 장비가 모든 네트워킹 요구 사항을 충족하고 필요한 엔드포인트에 연결되는지 확인하십시오. 읽기 전용 및 게스트 운영 권한이 있는 vCenter 계정을 프로비저닝합니다. 이 계정을 통해 어플라이언스는 VMware 서버 의 기본 구성을 검색 하고 성능 데이터를 수집할 수 있습니다.
@@ -1150,11 +1165,23 @@
 - **[Enrich discovered data with business context in Azure Migrate](https://www.youtube.com/watch?v=NUv4O37dLjE)** · Microsoft Azure (channel)
   안녕하세요 여러분, 반갑습니다. 이 비디오에서는 검색된 워크로드에 개발, 테스트 또는 프로덕션과 같은 환경 유형과 마이그레이션 의도를 할당하여 검색 데이터를 보강하는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 검색된 워크로드에 환경 유형과 마이그레이션 의도를 할당하여 워크로드 마이그레이션을 효과적으로 계획할 수 있습니다. 비프로덕션 워크로드를 개발 환경으로 태그하여 환경 유형별로 워크로드를 풍부하게 만드는 관점에서 이야기하자면 , 비프로덕션 워크로드도 범용 및 메모리 최적화 서비스 계층과 함께 버스터블 계층에 대한 평가가 이루어지므로 Azure 목표 및 비용을 더 정확하게 예측할 수 있습니다
 
+- **[Execute migration waves with Azure Migrate](https://www.youtube.com/watch?v=B5-3TqNAq6E)** · Microsoft Azure (channel)
+  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. [음악] 이번 비디오에서는 해당 도구와 그 기능에 대한 데모를 다룹니다 . 이번 에피소드에서는 대규모 인프라 마이그레이션을 Azure로 단계적으로 실행하는 방법을 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 계획 단계의 일환으로, 지원서를 그룹화하고 실행 계획을 수립하여 단계별 진행 상황을 파악했을 것입니다. 자 , 이제 이러한 파동을 어떻게 이동시킬 수 있는지 살펴보겠습니다
+
 - **[Lift and shift (migrate) your Windows and Linux servers to Azure VM with Azure Migrate](https://www.youtube.com/watch?v=xVEjE0Z9QYY)** · Microsoft Azure (channel)
   [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 [음악] 도구 와 그 기능에 대한 데모를 다룹니다. 이 비디오에서는 서버를 Azure로 이전(리프트 앤 시프트)하거나 리호스팅하는 방법을 보여드리겠습니다. 이러한 접근 방식은 조직이 데이터 센터 규모를 신속하게 축소하고 즉각적인 비용 절감을 달성하는 데 도움이 됩니다. 새롭게 설계된 엔드투엔드 경험은 고객 여러분이 체계적이고 조직적인 방식으로 마이그레이션 여정을 진행할 수 있도록 안내합니다.
 
 - **[Microsoft expands Azure AI and HPC infrastructure with AMD](https://www.youtube.com/watch?v=CWEwR9OXzGA)** · Microsoft Azure (channel)
   [음악] 사실, 이 거대한 AI 시대에 컴퓨팅에 대한 고객의 요구 사항이 복잡해짐에 따라 , 모든 것에 맞는 단일 솔루션은 존재하지 않습니다 . 이는 고객들이 컴퓨팅 작업을 수행하는 방식의 다양화를 촉진하고 있습니다 . 일반적으로 이는 CPU 또는 별도의 GPU [음악] 클러스터에서만 실행되었지만, 거대한 AI를 처리하려면 CPU와 GPU 모두가 필요합니다 . 우리는 새로운 세상을 위해 설계되었고, 안전하고 뛰어난 성능을 제공하면서도 비용을 크게 절감할 수 있는 새로운 유형의 하드웨어(음악)와 소프트웨어가 필요합니다.
+
+- **[Plan MongoDB migrations to Azure with Azure Migrate](https://www.youtube.com/watch?v=g8ieJXrQNHs)** · Microsoft Azure (channel)
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 MongoDB 서버 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 MongoDB 인스턴스를 검색하고 Azure Document DB 및 Azure VM으로 마이그레이션할 수 있는지 평가할 수 있습니다. 구체적으로 말하자면, MongoDB 워크로드 의 마이그레이션 및 현대화를 가능하게 하는 측면에서 이야기하는 것입니다 . Azure 로의 마이그레이션을 위한 새로운 MongoDB 평가 기능을 통해 마이그레이션 준비 상태 및 장애 요인, 권장 대상 Azure 서비스 및 적절한 크기의 SKU, 그리고 권장 사항의 근거를 파악할 수 있습니다
+
+- **[Plan PostgreSQL migrations to Azure with Azure Migrate](https://www.youtube.com/watch?v=zuiCIZycJxs)** · Microsoft Azure (channel)
+  안녕하세요 여러분, 반갑습니다. 이 비디오에서는 Azure Migrate를 사용하여 PostgreSQL 서버 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다. Azure Migrate를 사용하면 PostgreSQL 인스턴스를 검색하고 평가하여 Azure Database for PostgreSQL 및 Azure VM으로 마이그레이션할 수 있습니다. 특히 새로운 Azure PostgreSQL 평가 기능을 통해 PostgreSQL 워크로드의 마이그레이션 및 현대화를 지원하는 측면에서 이야기하고 있습니다 . 권장 대상 Azure 서비스로의 마이그레이션 준비 상태 및 장애 요인, 적정 규모의 편향, 그리고 권장 사항의 근거를 이해할 수 있습니다
+
+- **[Plan migration waves with Azure Migrate](https://www.youtube.com/watch?v=n9W-xLyS64I)** · Microsoft Azure (channel)
+  [음악] Azure 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다 . 이번 에피소드에서는 Azure 마이그레이션 웨이브 계획 기능을 사용하여 대규모 인프라를 Azure로 마이그레이션하기 위한 정밀한 계획을 수립하는 방법을 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . Azure로 마이그레이션하기로 결정했다면 Azure 마이그레이션 평가를 사용하여 애플리케이션 에 적합한 대상 Azure 서비스를 확인할 수 있습니다 . 또한 애플리케이션 마이그레이션을 언제 어떻게 수행할지에 대한 계획도 세워야 합니다 .
 
 - **[Storage migrations simplified with the Azure Copilot migration agent](https://www.youtube.com/watch?v=KjQJTNq4a7c)** · Microsoft Azure (channel)
   이 데모에서는 스토리지 마이그레이션 에이전트가 Azure 포털에서 단일 대화를 통해 온프레미스 SMB 파일 공유를 Azure 파일로 직접 마이그레이션하는 전체 과정을 안내합니다 . 시작하기 전에 준비해야 할 네 가지가 있습니다. 먼저, 마이그레이션 에이전트가 실행되는 Azure 마이그레이션 프로젝트가 포함된 Azure 구독이 필요합니다. 둘째, 마이그레이션할 SMB 공유 경로와 해당 자격 증명을 입력하세요. 셋째, 마이그레이션 어플라이언스를 실행할 호스트가 필요합니다. 네 번째는 해당 기기의 네트워크 연결성입니다.
@@ -5812,7 +5839,7 @@
 - **[Steering the Future | Episode 7: Peter](https://www.youtube.com/watch?v=2ykc8cNp-oc)** · Zoox (channel)
   출퇴근길에 레고 세트를 완성할 수 있는 차량은 많지 않습니다. 알로하. 저는 피터입니다. 저는 Zuks의 수석 모델 제작자입니다. 그리고 이쪽은 피오나입니다. 그리고 이쪽은 플로입니다. 피오나는 내 인생의 동반자야. 이 차는 1963년식 포드 팰컨 클럽 왜건입니다. 서핑이든, 캠핑이든, 음악 축제든, 그녀는 항상 내 곁에 있어요. 이분은 플로예요. 이분은 피오나의 여동생입니다. 그녀는 1965년식 포드 에코라인 픽업트럭입니다. 저는 이 바디 디자인이 정말 마음에 들어요. 요즘엔 이런 차를 길에서 보기 힘들죠.
 
-## 2025-11 (총 55건)
+## 2025-11 (총 56건)
 
 ### AX (13건)
 
@@ -5860,7 +5887,7 @@
 - **[Palantir Ontology Overview](https://www.youtube.com/watch?v=YDAxITCNcko)** · Palantir (channel)
   오늘은 온톨로지가 무엇인지, 왜 중요한지, 현실 세계에서 의사 결정 중심 시스템을 구축하는 데 실제로 어떻게 사용하는지에 대해 이야기하겠습니다. 온톨로지가 무엇인지 생각해보면 어떨까요? 비즈니스를 구성하는 것은 명사와 동사죠? 이 제조 사례에서는 창고에서 플랜트를 공급하고 있는 플랜트와 창고가 있습니다. 그렇죠. 저는 고객에게 제품을 배송하고 있습니다. 이는 여러분의 비즈니스가 실제로 어떻게 운영되고 있는지에 대한 점점 커져가는 진실을 그대로 반영하고 있습니다. 서로 연결된 복잡한 관계가 있죠, 그렇죠. 그러니까.
 
-### unclassified (41건)
+### unclassified (42건)
 
 - **[20X Microsoft Partner of the Year - Accenture at Ignite 2025](https://www.youtube.com/watch?v=kqKyNdrlyVg)** · Accenture (channel)
   เฮ
@@ -5955,6 +5982,9 @@
 - **[Highlights Online Elternabend: Cybersecurity](https://www.youtube.com/watch?v=zvCnlRuzaWs)** · Swisscom (channel)
   가짜, 사기, 악랄한 속임수 인터넷과 아이가 그 안에 앉아 있는 것처럼 인터넷에서 더 보기: 온라인 부모 보호 하지만 전문가와 함께라면 더 자세히 알 수 있습니다. 기기에 대한 정보와 가장 흥미로운 점은 다음과 같습니다. 잠깐, 돈과 관련된 위험 요소들이 있잖아. abzlucken은 위험한 곳입니다. 개인 데이터 비용을 지불하다 사기, 부정 계획, 온라인 쇼핑몰 하나 또는 그 장소 어디에 어디에 데이터, 개인 데이터, 그 위험성 사이버모바일입니다 온라인은 다양한 가능성을 제공합니다.
 
+- **[Forming the Future Grid | Tesla Megapack](https://www.youtube.com/watch?v=aN0rctOAEFk)** · Tesla (channel)
+  [음악] 지금 우리는 빅토리아주 케랑 외곽에 위치한 185MW(370MWh) 규모의 카란지 배터리 에너지 저장 시스템에 접근하고 있습니다 . 이 프로젝트는 국가 전력 시장에 더 많은 재생 에너지를 공급할 수 있도록 하는 일련의 전력망 형성 배터리 저장 프로젝트 중 첫 번째 사례입니다 . 이 지역에는 청정에너지, 특히 태양광이 풍부하지만, 송전망이 시스템 안정성이 낮아 운영상의 어려움에 직면해 있으며, 이로 인해 기존 인프라에 연결할 수 있는 재생에너지의 양이 제한되고 있습니다.
+
 - **[Automating Underwriting Intake with Upstage](https://www.youtube.com/watch?v=Jo8QY9tZALo)** · Upstage (channel)
   So, Gabriel Mayer, I'm the founder of uh Triricura Insurance Group, which is a hypers specialized MGU focused exclusively on senior living liability exposure. Um, and we work to price uh manage and resolve risk for those provider businesses. We grew a lot in 2024 uh which posed a significant um challenge for uh the underwriting team in handling that volume.
 
@@ -5985,7 +6015,7 @@
 - **[The Zoox Explorers program is now live in San Francisco](https://www.youtube.com/watch?v=eKQrBB1elDE)** · Zoox (channel)
   [music] Oops.
 
-## 2025-10 (총 52건)
+## 2025-10 (총 57건)
 
 ### AX (10건)
 
@@ -6019,7 +6049,7 @@
 - **[Saurabh Mishra and Bob van Luijt on Weaviate and SAS - Weaviate Podcast #129!](https://www.youtube.com/watch?v=INKV21AaYjE)** · Weaviate (channel)
   [음악] 안녕하세요 여러분, Wev8 팟캐스트의 또 다른 에피소드를 시청해 주셔서 정말 감사합니다 . 오늘은 Wevate와 SAS의 파트너십에 대해 자세히 알아보겠습니다. SAS는 SAS 검색 에이전트 관리 시스템과 WeVate와의 파트너십을 통해 놀라운 일들을 많이 하고 있습니다 . 이 주제에 대해 더 자세히 이야기 나눌 수 있게 되어 정말 기쁩니다. 먼저 weva 공동 창립자인 밥 밴라우트 씨를 환영하게 되어 매우 기쁩니다 . 밥, 팟캐스트에 다시 한번 출연해 주셔서 정말 감사합니다.
 
-### unclassified (42건)
+### unclassified (47건)
 
 - **[NFL's international events marketing strategy](https://www.youtube.com/watch?v=TVeUjocfzmQ)** · Accenture (channel)
   [음악] [박수] [음악] 저는 우리가 국제적으로 성공하는 비결이 바로 미식축구의 원칙들을 접목시키는 데 있다고 생각합니다. 그것은 통합의 힘입니다. 사람들을 하나로 모아줍니다 . 액센츄어는 직원 교육에 있어 우리에게 훌륭한 파트너였습니다. 어떻게 하면 차별화된 모습을 보이면서도 미국 문화를 축구 경기에 접목시킬 수 있을까요? 또한, 개최국에 대한 존중을 잊지 말아야 합니다. 우리는 자연스럽고 본능적으로 글로벌 기업으로서 운영합니다 . 그것이 바로 우리의 정체성이며, 우리의 DNA에 깊이 새겨져 있습니다.
@@ -6120,6 +6150,21 @@
 - **[Wenn Chats zu Albträumen werden – Cybergrooming und Sextortion](https://www.youtube.com/watch?v=3Jx0SVyver0)** · Swisscom (channel)
   십 대 직전의 아이와 거의 같습니다. 스위스 사람들, 온라인에서 성관계를 해본 적 있나요? 이전보다 28% 더 많은 괴롭힘을 당했습니다. 2014년 제임스 포커스 연구 (2022년 이전) 그녀의 치아 경첩에 관한 실제 이야기 사이버 사기의 명확한 메커니즘 및 성착취 사이버그로밍은 성인을 대상으로 기도합니다 채팅, 소셜 미디어 등을 통해 온라인으로 검색하세요. 게임은 특히 왕과의 접촉을 목표로 합니다. 칭찬이나 말로 십대들을 대하는 방법 이해, 미끼, 그리고 나중에 대한 신뢰 사적인 질문을 하거나 심지어 만나기도 합니다.
 
+- **[Change Today for Tomorrow | Megapack](https://www.youtube.com/watch?v=_3QAXxUjpbU)** · Tesla (channel)
+  저희는 지금 콜리에 있어요. 여기는 마리 농장이고, 저희 농장은 퍼스에서 약 200km 떨어져 있습니다. 퍼스는 외딴 곳에 위치하고 자급 자족하는 생활 방식 때문에 세계에서 가장 고립된 도시로 알려져 있습니다. 저희는 기후 변화의 영향을 완화하기 위해 매우 열심히 노력하고 있으며 , 그렇기 때문에 저희 지역에서 재생 에너지 개발이 활발히 진행되는 것을 적극적으로 지지합니다. 저희 농부들이 농사를 짓는 데에는 날씨와 기후가 필수적이기 때문입니다. 지구 온난화가 계속되고 수자원이 계속 줄어든다면, 우리는 기후 변화의 영향에 가장 직접적으로 노출되는 최전선에 서게 될 것입니다
+
+- **[Designing the New Model Y Performance](https://www.youtube.com/watch?v=DYcNfFeRPIk)** · Tesla (channel)
+  Model Y Performance is really a vehicle that's [music] designed for the person who really cares about their activity, really pays attention [music] to the training, the equipment, the pieces that go into their adventure, their activity, the thing that they're really passionate about. The Model Y Performance is better than it's ever been in terms of its performance specs. We go 0 to 60 in 3.3 seconds, 0 to 100 in 3.
+
+- **[Introducing Model Y Standard & Model 3 Standard](https://www.youtube.com/watch?v=gQ92igDGBHQ)** · Tesla (channel)
+  [음악] 다운. [음악] 열기. 열.
+
+- **[TRON Mode](https://www.youtube.com/watch?v=2Jm95xz0Q3I)** · Tesla (channel)
+  Heat. [Music] Heat.
+
+- **[Vote Your Tesla Shares](https://www.youtube.com/watch?v=6JwClvNwoYw)** · Tesla (channel)
+  11월 6일에 저희 연례 주주총회를 개최할 예정입니다. 올해 투표에는 몇 가지 중요한 사안들이 있습니다. 저희는 테슬라의 차세대 성장과 주주 여러분을 위한 가치 창출을 이끌어갈 대담하고 야심찬 계획을 가지고 있습니다 . [음악] 이 계획을 실행하고 주주들에게 탁월한 가치를 지속적으로 실현하기 위해서는 CEO를 위한 적절한 인센티브 체계를 마련하고 이사회의 안정성을 확보해야 합니다 . 테슬라의 미래와 여러분의 투자 미래는 여러분의 손에 달려 있으며, 주주 투표에 참여하셔야 합니다 . 여러분의 목소리를 들려주시길 기대합니다.
+
 - **[Complete an insurance submission with AI Space | Upstage](https://www.youtube.com/watch?v=Hjp8K5kge9k)** · Upstage (channel)
   Hi, I'd like to show you Upstage's AI space tool in action. For this example, an account manager is responsible for putting together a complete and accurate submission. Submissions generally consist of multiple documents that are tens or hundreds of pages long. There could be spreadsheets, financials, applications, and more. In this example, we have an accord 125, an accord 127, loss runs, and an existing application.
 
@@ -6147,7 +6192,7 @@
 - **[Steering the Future | Episode 6: Ian](https://www.youtube.com/watch?v=a6s39ZGMNQc)** · Zoox (channel)
   안녕하세요, 제 이름은 이안 파커입니다. 저는 Zuks에서 작가 인터페이스 엔지니어로 일하고 있습니다. 그리고 여기가 제 차고입니다. 들어오세요. 한때 차를 네 대나 소유했었는데, 이제 세 대로 줄여야 했어요. 이 차는 제가 매일 타는 차입니다. 이건 리비안 R1T예요. 이 차는 제가 장거리 여행을 갈 때 타는 차입니다. 이 차는 일본에서 수입된 1997년식 힐럭스 서프입니다. 그리고 마지막으로 , 제가 가장 좋아하는 차, 2016년형 포르쉐 박스터 스파이더를 소개합니다. 저는 개인적으로 이 차들에 대해 상당한 작업을 해왔습니다
 
-## 2025-09 (총 25건)
+## 2025-09 (총 27건)
 
 ### AX (3건)
 
@@ -6160,7 +6205,7 @@
 - **[Building AI in London](https://www.youtube.com/watch?v=U33cGVFbuCo)** · Weaviate (channel)
   저희는 런던 AI 해커톤에 참가 중입니다. 오늘 이 자리에 함께하기 위해 500명이 넘는 건설업자들이 등록했습니다. 한번 살펴볼까요? [음악] Tech Europe에서 주최하고 Granola AI 사무실에서 진행되었습니다. 이번 해커톤은 혁신과 구축에 관한 모든 것입니다. 그리고 여기에는 OpenAI, 11 Labs, Weev8 등 뛰어난 기술 스택을 보유한 기업들이 많이 있습니다. 물론, 저희는 여러분께 행사의 비하인드 스토리를 살짝 보여드릴 예정입니다. 먼저, 팀원들을 만나보시죠. 이분들이 바로 행사 진행자 두 분입니다 . 여기는 베일러 이고, 여기는 안녕하세요, 저는 대니입니다
 
-### unclassified (22건)
+### unclassified (24건)
 
 - **[Beyond the goalposts | Accenture](https://www.youtube.com/watch?v=W7u5CZNwKQQ)** · Accenture (channel)
   인생에서든 사업에서든 목표는 종종 바뀝니다. 하지만 액센츄어에서는 "게임 시작!"이라고 말합니다. 당신이 어떤 목표를 향해 나아가든 , 우리는 함께 그곳에 도달할 것입니다.
@@ -6200,6 +6245,12 @@
 
 - **[Google Pixel 10 Pro: Dein smarter Begleiter](https://www.youtube.com/watch?v=J57lHjR8vu0)** · Swisscom (channel)
   이것은 일반적인 언박싱 영상입니다. [음악] 이것이 바로 구글로 할 수 있는 일의 핵심입니다. Pixel Z Pro는 불편함을 느낄 때 사용하기 쉽습니다. 이제는 일상생활에 새로운 것들을 더할 때입니다. 지지할 뿐만 아니라 영감을 주기도 합니다. 그건 얀, 너한테 딱 맞아! 그리고 구글 픽셀 [음악] 첫 번째 인쇄본 에델. 구글 픽셀 Z 프로는 고품질처럼 보이거나 생각해서 만든 것 같습니다. 훨씬 더 가치 있게 느껴진다. 설계 미학과 결합 일상생활에 적합합니다.
+
+- **[Las Megas | Tesla Megablock Event](https://www.youtube.com/watch?v=wNSS19XKXRE)** · Tesla (channel)
+  [박수] 안녕하세요, 안녕하세요, 안녕하세요 여러분. 모두 와주셔서 감사합니다. 반가운 얼굴들을 많이 보니 정말 좋네요 . 온라인으로 시청하시는 분들을 위해 말씀드리자면, 저희는 최신 제품 공개를 위해 보링 컴퍼니 터널에 나와 있습니다. 그리고 브랜드 이미지에 걸맞게 , 이번 행사는 Mega Packs와 Cybertruck의 후원으로 진행됩니다. 좋습니다, 그럼 시작하겠습니다. 테슬라는 지속 가능한 에너지 로 구동되는 지속 가능한 풍요로움으로 가득 찬 세상을 만들어가고 있습니다 . 그리고 오늘 밤 우리는 그 비전의 다음 장을 시작합니다 .
+
+- **[Sustainable Abundance | Master Plan Part IV](https://www.youtube.com/watch?v=AnunTXBwOlk)** · Tesla (channel)
+  인간은 도구를 만드는 존재이며, 테슬라는 모두의 삶을 더 나아지게 하는 물리적 제품을 대규모로 생산하는 기업입니다. 우리는 전기 자동차, 에너지 제품 및 휴머노이드 로봇 개발을 통해 기술적 르네상스의 토대를 마련하기 위해 끊임없이 노력해 왔습니다. 다음 장은 우리가 지금까지 보아온 것보다 훨씬 더 웅장한 규모로 펼쳐질 것입니다. [박수] 저희는 인공지능을 현실 세계에 접목시키는 제품과 서비스를 개발하고 있습니다. 우리는 제조 역량과 자율 주행 기술을 결합하여 글로벌 번영을 가속화하고 있습니다.
 
 - **[Waymo Summer Internships](https://www.youtube.com/watch?v=x4Zd0pPRUFI)** · Waymo (channel)
   [음악] 저는 항상 Whimo에서 일하고 싶었어요 . 처음 위모에 대해 알게 되고, 핸들이 저절로 돌아가는 영상을 본 날부터 "세상에, 정말 멋지다!"라고 생각했어요. 저는 교통 의 다음 단계를 위한 이러한 혁명에 동참하고 싶습니다 . 저는 현재 컴퓨터 비전 분야에서 다양한 주제 영역을 연구하는 박사 과정 학생입니다. 이미지 작업을 좋아하고 텍스트 작업은 그다지 좋아하지 않습니다. 컴퓨터 비전 연구에 관심이 있다면 현재 Whimo보다 더 흥미로운 곳은 없을 거라고 생각합니다.

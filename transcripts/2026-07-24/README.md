@@ -9,3 +9,7 @@
 
 - [Only 2 employees left, yet... The shocking sign of Google's decline as it loses AI dominance and ...](Only_2_employees_left,_yet..._The_shocking_sign_of_Google's___syU5o1-BPUI.md) (ko) — [원본](https://www.youtube.com/watch?v=syU5o1-BPUI)
 - [[마지막화] 메모리 부족은 시작일 뿐? 돈이 고이는 AI 병목들  | 빈난새의 빈틈없이월가]([마지막화]_메모리_부족은_시작일_뿐_돈이_고이는_AI_병목들_빈난새의_빈틈없이월가__Wr8-UEAQgQ8.md) (ko) — [원본](https://www.youtube.com/watch?v=Wr8-UEAQgQ8)
+
+## 19:27 수집 (1개)
+
+- [AI 없이 버틸 수 없는 시대 🚀 제조업을 뒤집을  AI 혁신의 모든 것 🤖](AI_없이_버틸_수_없는_시대_🚀_제조업을_뒤집을_AI_혁신의_모든_것_🤖__3qzcqWlIcec.md) (ko) — [원본](https://www.youtube.com/watch?v=3qzcqWlIcec)

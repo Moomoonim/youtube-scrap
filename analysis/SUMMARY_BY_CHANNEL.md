@@ -1,6 +1,6 @@
 # 채널/출처별 수집 요약
 
-총 2441건 · 168개 채널/출처
+총 2458건 · 169개 채널/출처
 
 ## Boston Dynamics (64건)
 
@@ -6668,6 +6668,56 @@
 - **[L'Oréal Brandstorm 2025 International Final - Paris](https://www.youtube.com/watch?v=Y43vdHR2pkM)** — 2025-10-23 · en · `unclassified`
   So, the winner of the runtorm 2025 is team. [music] [music] &gt;&gt; I like [music] it real loud. Can you feel it? Can you feel it? Can you feel it? [music] us. [music] &gt;&gt; So, [music] the winner of the largest youth innovation competition [singing] of the world, Frantorm 2025, [music] is team Chile. Real loud. [music] Real loud.
 
+## Microsoft Azure (16건)
+
+- **[Microsoft expands Azure AI and HPC infrastructure with AMD](https://www.youtube.com/watch?v=CWEwR9OXzGA)** — 2026-07-20 · ko · `unclassified`
+  [음악] 사실, 이 거대한 AI 시대에 컴퓨팅에 대한 고객의 요구 사항이 복잡해짐에 따라 , 모든 것에 맞는 단일 솔루션은 존재하지 않습니다 . 이는 고객들이 컴퓨팅 작업을 수행하는 방식의 다양화를 촉진하고 있습니다 . 일반적으로 이는 CPU 또는 별도의 GPU [음악] 클러스터에서만 실행되었지만, 거대한 AI를 처리하려면 CPU와 GPU 모두가 필요합니다 . 우리는 새로운 세상을 위해 설계되었고, 안전하고 뛰어난 성능을 제공하면서도 비용을 크게 절감할 수 있는 새로운 유형의 하드웨어(음악)와 소프트웨어가 필요합니다.
+
+- **[Storage migrations simplified with the Azure Copilot migration agent](https://www.youtube.com/watch?v=KjQJTNq4a7c)** — 2026-07-20 · ko · `unclassified`
+  이 데모에서는 스토리지 마이그레이션 에이전트가 Azure 포털에서 단일 대화를 통해 온프레미스 SMB 파일 공유를 Azure 파일로 직접 마이그레이션하는 전체 과정을 안내합니다 . 시작하기 전에 준비해야 할 네 가지가 있습니다. 먼저, 마이그레이션 에이전트가 실행되는 Azure 마이그레이션 프로젝트가 포함된 Azure 구독이 필요합니다. 둘째, 마이그레이션할 SMB 공유 경로와 해당 자격 증명을 입력하세요. 셋째, 마이그레이션 어플라이언스를 실행할 호스트가 필요합니다. 네 번째는 해당 기기의 네트워크 연결성입니다.
+
+- **[Assess Azure VM readiness with Azure Migrate](https://www.youtube.com/watch?v=gsz-XqQ-Xn8)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure Migrate 시리즈의 새로운 에피소드에 오신 것을 환영합니다. [음악] 이 비디오에서는 Azure VM 대상에 대한 Azure Migrate 평가에 대해 설명합니다. 평가의 중요성과 활용법을 다룬 이전 영상들을 시청하고, 평가에 필요한 사전 요건을 모두 충족한 후에 다음 단계로 진행하는 것이 좋습니다. Azure Migrate 프로젝트를 생성하고 Windows 및 Linux 서버의 인벤토리를 검색했는지 확인하십시오. Azure Migrate 어플라이언스를 사용하거나 RVTools 또는 CMDB에서 캡처한 인벤토리를 가져와 인벤토리를 검색할 수 있습니다.
+
+- **[Assess security vulnerabilities during migrations with Azure Migrate](https://www.youtube.com/watch?v=mFia4nhoxqw)** — 2026-07-15 · ko · `unclassified`
+  [음악] 콘토소는 온프레미스 IT 환경을 현대화하기 위해 Azure로 마이그레이션할 계획입니다. 알렉스는 콘토소의 IT 보안 관리자입니다. 그는 워크로드를 Azure로 마이그레이션하는 과정을 감독하고, 클라우드 환경으로 마이그레이션한 후에도 모든 워크로드가 강력한 보안 상태를 유지하도록 보장하는 책임을 맡고 있습니다 . Alex는 Azure Migrate를 사용하여 마이그레이션 프로젝트를 추적합니다. Azure Migrate는 마이그레이션을 위해 검색된 서버, 데이터베이스 및 웹 애플리케이션에 대한 포괄적인 인벤토리를 제공합니다 . 인사이트 뷰는 알렉스에게 환경에 대한 보안 중심의 요약 정보를 제공합니다 .
+
+- **[Assess your .NET and Java Webapps for modernization to App Service or AKS with Azure Migrate](https://www.youtube.com/watch?v=bQfhnZucBck)** — 2026-07-15 · ko · `unclassified`
+  안녕하세요 여러분, 반갑습니다. 이 영상에서는 웹 애플리케이션의 마이그레이션 및 현대화 계획을 수립하는 방법을 살펴보겠습니다 . 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 영상에서는 웹 애플리케이션 평가에 대해 다룹니다. 웹 애플리케이션 평가는 일반적으로 마이그레이션 과정의 계획 단계에서 진행됩니다. 웹 앱 평가는 대상 서비스 전반에 걸친 평가를 철저히 분석하고 마이그레이션 준비 상태 및 관련 비용을 고려하여 Azure 앱 서비스와 Azure Kubernetes 서비스 모두에 대한 준비 상태 점검을 수행합니다.
+
+- **[Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate](https://www.youtube.com/watch?v=-gNXQHTHj0s)** — 2026-07-15 · ko · `unclassified`
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 Microsoft SQL Server 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다. Azure Migrate를 사용하면 독립형 또는 고 가용성 대규모 SQL Server 인스턴스 및 데이터베이스를 검색하고 평가할 수 있습니다. 구체적으로 말하자면, SQL 워크로드 의 마이그레이션 및 현대화를 가능하게 한다는 측면에서 이야기하는 것입니다 . 새로운 Azure SQL 평가 기능을 사용하면 마이그레이션 준비 상태 및 장애 요인, 권장 대상 Azure 서비스, 적정 규모의 분산 정도, 그리고 권장 사항의 근거를 파악할 수 있습니다
+
+- **[Assess your applications for migration or modernization with Azure Migrate](https://www.youtube.com/watch?v=u7emCnZfH-Q)** — 2026-07-15 · ko · `unclassified`
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 애플리케이션을 Azure로 마이그레이션하거나 현대화하는 계획을 세우는 방법을 살펴보겠습니다. 먼저 계획 단계를 살펴보겠습니다. Azure Migrate를 사용하면 ASP.NET 웹 애플리케이션, SQL Server, Windows Server, Linux Server 등과 같은 다양한 워크플로를 검색하고 이러한 워크로드를 적절하게 그룹화하여 애플리케이션을 정의할 수 있습니다.
+
+- **[Create and manage Azure Migrate projects](https://www.youtube.com/watch?v=af5nYtGdFYw)** — 2026-07-15 · ko · `DX`
+  Azure 마이그레이션 비디오 시리즈에 오신 것을 환영합니다 . 이 시리즈에서는 Azure Migrate 도구를 시연하고 이를 사용하여 마이그레이션 준비 상태를 검색 및 평가하는 방법과 IT 상태를 마이그레이션 및 현대화하는 방법을 보여드리겠습니다. 이 비디오에서는 마이그레이션 과정의 단계 와 Azure Migrate 프로젝트를 생성하고 관리하는 방법을 다룹니다 . 기업의 일반적인 마이그레이션 과정은 세 단계로 나눌 수 있습니다. 결정하고, 계획하고, 실행하라. 하나씩 차근차근 설명해 드리겠습니다.
+
+- **[Discover and plan lift-and-shift migrations with Migration Agent](https://www.youtube.com/watch?v=9N6QUGp7xw0)** — 2026-07-15 · ko · `unclassified`
+  [음악] 콘토소 헬스의 클라우드 관리자 알렉스를 만나보세요. 그녀는 회사 애플리케이션을 Azure로 마이그레이션할 준비가 되었지만, 마이그레이션 계획을 세우는 데 도움이 필요합니다. 그녀는 Azure 탐색을 시작하기 위해 Azure Migrate 프로젝트를 생성하고 마이그레이션 에이전트(대화형 도우미)로 이동하여 마이그레이션 여정을 안내받고 마이그레이션 프로젝트에 대한 결정을 내립니다 . VMware 워크로드를 Azure로 신속하게 마이그레이션할 수 있는 경로를 찾는 데 도움을 주세요. 상담원은 그녀에게 마이그레이션, Azure Migrate, 그리고 마이그레이션 여정의 단계, 특히 시작하는 데 필수적인 검색 단계에 대해 교육합니다 .
+
+- **[Discover workloads and applications managed by VMware vCenter with Azure Migrate](https://www.youtube.com/watch?v=KwUTKyUiBaU)** — 2026-07-15 · ko · `unclassified`
+  [음악] 이 비디오에서는 Azure Migrate 어플라이언스를 사용하여 VMware 환경을 검색하는 방법을 배우게 됩니다 . 진행하기 전에 이 비디오 링크를 시청하고 Azure Migrate 프로젝트를 생성했는지 확인하십시오. 어플라이언스를 배포하기 전에 다음 필수 조건이 충족되었는지 확인하십시오. 해당 장비가 모든 네트워킹 요구 사항을 충족하고 필요한 엔드포인트에 연결되는지 확인하십시오. 읽기 전용 및 게스트 운영 권한이 있는 vCenter 계정을 프로비저닝합니다. 이 계정을 통해 어플라이언스는 VMware 서버 의 기본 구성을 검색 하고 성능 데이터를 수집할 수 있습니다.
+
+- **[Enrich discovered data with business context in Azure Migrate](https://www.youtube.com/watch?v=NUv4O37dLjE)** — 2026-07-15 · ko · `unclassified`
+  안녕하세요 여러분, 반갑습니다. 이 비디오에서는 검색된 워크로드에 개발, 테스트 또는 프로덕션과 같은 환경 유형과 마이그레이션 의도를 할당하여 검색 데이터를 보강하는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 검색된 워크로드에 환경 유형과 마이그레이션 의도를 할당하여 워크로드 마이그레이션을 효과적으로 계획할 수 있습니다. 비프로덕션 워크로드를 개발 환경으로 태그하여 환경 유형별로 워크로드를 풍부하게 만드는 관점에서 이야기하자면 , 비프로덕션 워크로드도 범용 및 메모리 최적화 서비스 계층과 함께 버스터블 계층에 대한 평가가 이루어지므로 Azure 목표 및 비용을 더 정확하게 예측할 수 있습니다
+
+- **[Execute migration waves with Azure Migrate](https://www.youtube.com/watch?v=B5-3TqNAq6E)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. [음악] 이번 비디오에서는 해당 도구와 그 기능에 대한 데모를 다룹니다 . 이번 에피소드에서는 대규모 인프라 마이그레이션을 Azure로 단계적으로 실행하는 방법을 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 계획 단계의 일환으로, 지원서를 그룹화하고 실행 계획을 수립하여 단계별 진행 상황을 파악했을 것입니다. 자 , 이제 이러한 파동을 어떻게 이동시킬 수 있는지 살펴보겠습니다
+
+- **[Lift and shift (migrate) your Windows and Linux servers to Azure VM with Azure Migrate](https://www.youtube.com/watch?v=xVEjE0Z9QYY)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 [음악] 도구 와 그 기능에 대한 데모를 다룹니다. 이 비디오에서는 서버를 Azure로 이전(리프트 앤 시프트)하거나 리호스팅하는 방법을 보여드리겠습니다. 이러한 접근 방식은 조직이 데이터 센터 규모를 신속하게 축소하고 즉각적인 비용 절감을 달성하는 데 도움이 됩니다. 새롭게 설계된 엔드투엔드 경험은 고객 여러분이 체계적이고 조직적인 방식으로 마이그레이션 여정을 진행할 수 있도록 안내합니다.
+
+- **[Plan MongoDB migrations to Azure with Azure Migrate](https://www.youtube.com/watch?v=g8ieJXrQNHs)** — 2026-07-15 · ko · `unclassified`
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 MongoDB 서버 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 MongoDB 인스턴스를 검색하고 Azure Document DB 및 Azure VM으로 마이그레이션할 수 있는지 평가할 수 있습니다. 구체적으로 말하자면, MongoDB 워크로드 의 마이그레이션 및 현대화를 가능하게 하는 측면에서 이야기하는 것입니다 . Azure 로의 마이그레이션을 위한 새로운 MongoDB 평가 기능을 통해 마이그레이션 준비 상태 및 장애 요인, 권장 대상 Azure 서비스 및 적절한 크기의 SKU, 그리고 권장 사항의 근거를 파악할 수 있습니다
+
+- **[Plan PostgreSQL migrations to Azure with Azure Migrate](https://www.youtube.com/watch?v=zuiCIZycJxs)** — 2026-07-15 · ko · `unclassified`
+  안녕하세요 여러분, 반갑습니다. 이 비디오에서는 Azure Migrate를 사용하여 PostgreSQL 서버 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다. Azure Migrate를 사용하면 PostgreSQL 인스턴스를 검색하고 평가하여 Azure Database for PostgreSQL 및 Azure VM으로 마이그레이션할 수 있습니다. 특히 새로운 Azure PostgreSQL 평가 기능을 통해 PostgreSQL 워크로드의 마이그레이션 및 현대화를 지원하는 측면에서 이야기하고 있습니다 . 권장 대상 Azure 서비스로의 마이그레이션 준비 상태 및 장애 요인, 적정 규모의 편향, 그리고 권장 사항의 근거를 이해할 수 있습니다
+
+- **[Plan migration waves with Azure Migrate](https://www.youtube.com/watch?v=n9W-xLyS64I)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다 . 이번 에피소드에서는 Azure 마이그레이션 웨이브 계획 기능을 사용하여 대규모 인프라를 Azure로 마이그레이션하기 위한 정밀한 계획을 수립하는 방법을 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . Azure로 마이그레이션하기로 결정했다면 Azure 마이그레이션 평가를 사용하여 애플리케이션 에 적합한 대상 Azure 서비스를 확인할 수 있습니다 . 또한 애플리케이션 마이그레이션을 언제 어떻게 수행할지에 대한 계획도 세워야 합니다 .
+
 ## SAP (16건)
 
 - **[Smarter Shipbuilding with SAP Business AI](https://www.youtube.com/watch?v=yofNa6E4CsY)** — 2026-07-20 · ko · `unclassified`
@@ -6817,6 +6867,56 @@
 
 - **[Women with Patents, Ep 1 | Ratnamala Manna: Giving Someone a Voice](https://www.youtube.com/watch?v=uTc1IL5RRRk)** — 2026-04-28 · ko · `unclassified`
   저는 어렸을 때부터 음악에 대한 호기심이 많았습니다. 부모님께는 안타깝게도, 저는 시계나 손목시계, 펌프 같은 수동 기기들을 많이 분해해서 어떻게 작동하는지, 어떻게 고칠 수 있는지 알아보곤 했지만, 다시 조립하는 법은 전혀 몰랐습니다. [음악] 그래서 아마도 그런 관심이 성인이 되어서도 계속 이어져 제 경력을 쌓는 데 도움이 된 것 같습니다. [음악] 저희 팀은 루게릭병 환자 한 분을 도와야 한다는 제보를 받았습니다. 저희에게는 ALS 환자를 위한 오픈 소스 소프트웨어를 보유한 대형 파트너가 있었습니다.
+
+## Tesla (16건)
+
+- **[Autobidder | Tesla Megapack](https://www.youtube.com/watch?v=NqQnHWa-Vxs)** — 2026-07-07 · ko · `unclassified`
+  저희는 프랑스 서부 낭트에 위치한 셰브리에 배터리 에너지 저장 시스템 현장에 있습니다 . [음악] 이곳은 예전에 석탄 화력 발전소가 있던 자리입니다. 그 발전소는 프랑스 서부 지역 상당 부분에 전기를 공급하고 있었습니다 . 1990년대에 그 발전소는 가동을 중단했습니다. [음악] 이는 프랑스의 재생 에너지 전환 과정의 일환이었고, 시간이 흘러 테슬라 와 네오엔이 협력하여 이 시설을 배터리 에너지 저장 시스템으로 탈바꿈시켰습니다. 저희는 포괄적인 EPC(설계, 조달, 시공) 계약을 기반으로 테슬라와 계약을 체결했습니다 .
+
+- **[Tesla Home: Home Energy Management, Powered by AI](https://www.youtube.com/watch?v=8aGMLbS3NAo)** — 2026-06-23 · en · `unclassified`
+  Tesla home is your home energy management system that can help you save money on your electricity costs by automatically adjusting how energy is used to power your home. Tesla home is powered by Opticaster, our AI optimization software. It assesses your energy usage and the weather forecast to predict your home's energy needs and then decides where to source your energy from and how best to use it in your home.
+
+- **[How Tesla Vision Helps Deploy Airbags Earlier](https://www.youtube.com/watch?v=Vb-OqxUWPDE)** — 2026-06-22 · ko · `unclassified`
+  70밀리초는 눈 깜빡할 사이에 지나가는 시간입니다. 이 비전 시스템을 사용하면 에어백 전개 여부를 최대 70밀리초 더 일찍 결정할 수 있는데, 이는 심각한 부상을 막고 사고 현장에서 무사히 빠져나오는 데 결정적인 차이를 만들 수 있습니다. 우리는 카메라 시스템과 가속도계를 결합하여 이전에는 불가능했던 일들을 해내고 있습니다. 저희는 기존 안전벨트 시스템을 보완하는 테슬라 비전의 새로운 기능을 활용할 수 있었고 , 이를 통해 최적의 안전벨트 착용 여부를 결정하는 데 더욱 가까워질 수 있었습니다.
+
+- **[TERAFAB | The Largest Chip Manufacturing Facility Ever](https://www.youtube.com/watch?v=Txt3Wodav1o)** — 2026-04-06 · ko · `unclassified`
+  우주를 이해하려면 우주를 탐험해야 한다. 그것이 바로 인류가 우주를 이해하고 의식의 빛을 별까지 확장하는 데 있어 미래를 앞당기려는 동기입니다. [음악] [음악] [음악] [음악] 자, 저희는 아주 중요한 발표를 하려고 합니다. 바로 역사상 가장 멋진 여행 계획 수립 활동입니다. [환호] [박수] 이건 정말 한 단계 더 도약할 거예요. 네, 아마 지금 사람들이 생각조차 하지 못하는 수준일 거예요 . 이건 제가 보기엔 맥락에서 벗어난 문제인 것 같아요. 그건 그들의 맥락에 맞지 않아요.
+
+- **[TERAFAB](https://www.youtube.com/watch?v=HcxEGykMZc4)** — 2026-03-22 · ko · `unclassified`
+  우주를 이해하려면 우주를 탐험해야 한다. 그것이 바로 인류가 우주를 이해하고 의식의 빛을 별까지 확장하는 데 있어 미래를 앞당기려는 동기입니다.
+
+- **[Getting railed | Cybertruck](https://www.youtube.com/watch?v=zZHOpr3O-D0)** — 2026-03-06 · ko · `unclassified`
+  너무 오랫동안 연락을 끊고 지낼 수 없다는 걸 아신다면요. 하지만 그곳에는 그 모든 스트레스를 덜어줄 사람이 아무도 없었다. 너희들은 예전에는 어린아이들이었는데 이제는 나를 부르네 . 나는 하루 종일 음악을 기다렸고, 할 말이 있어요 . 당신에 관한 일이라면, 저는 조금도 망설이지 않아요. 우와!
+
+- **[Tesla Lithium Refinery](https://www.youtube.com/watch?v=rxYTx6aj96k)** — 2026-01-14 · ko · `unclassified`
+  이 정제소는 북미 최초의 스포이메인을 수산화리튬으로 정제하는 시설입니다 . 저희는 본질적으로 훨씬 더 환경 친화적 이고 깨끗한 새로운 기술 플랫폼을 도입하고 있습니다. 더 간단한 과정입니다. 비용이 덜 드는 과정입니다. 저는 제이슨 비브넌입니다. 저는 텍사스주 코퍼스 크리스티 외곽에 위치한 테슬라의 GF 코스트 리튬 정제소 현장 관리자입니다 . 스파민은 리튬을 함유하는 광석입니다. 리튬이 풍부한 단단한 암석 물질입니다. 저희는 지속 가능한 방식으로 스팸마인을 조달하여 현장으로 운반한 후, 일련의 이송 시스템을 거쳐 가마와 냉각기를 통과시킵니다.
+
+- **[Powering Chile's Renewable Future | Megapack](https://www.youtube.com/watch?v=_iytMHw6uJY)** — 2025-12-08 · ko · `unclassified`
+  칠레는 여러 가지 독특한 특징을 가지고 있습니다. 칠레는 세계에서 가장 남쪽에 위치한 나라입니다. 하지만 음악의 북쪽에서도 마찬가지입니다. 칠레에는 아타카마 사막이 있습니다. 그 아타카마 사막은 가장 메마른 세상, 동시에 [음악] 그것은 방사능 수치가 가장 높은 것입니다. 세계. 그러므로 그것은 많은 것을 가져왔습니다. 태양광 발전소에 대한 투자. [음악] 칠레에서 그 점을 확실히 볼 수 있습니다. 오늘 같은 날처럼 발전에 탁월한 조명 태양 에너지지만, 이 [음악] 낮 시간에 할 수 있습니다.
+
+- **[Forming the Future Grid | Tesla Megapack](https://www.youtube.com/watch?v=aN0rctOAEFk)** — 2025-11-05 · ko · `unclassified`
+  [음악] 지금 우리는 빅토리아주 케랑 외곽에 위치한 185MW(370MWh) 규모의 카란지 배터리 에너지 저장 시스템에 접근하고 있습니다 . 이 프로젝트는 국가 전력 시장에 더 많은 재생 에너지를 공급할 수 있도록 하는 일련의 전력망 형성 배터리 저장 프로젝트 중 첫 번째 사례입니다 . 이 지역에는 청정에너지, 특히 태양광이 풍부하지만, 송전망이 시스템 안정성이 낮아 운영상의 어려움에 직면해 있으며, 이로 인해 기존 인프라에 연결할 수 있는 재생에너지의 양이 제한되고 있습니다.
+
+- **[Designing the New Model Y Performance](https://www.youtube.com/watch?v=DYcNfFeRPIk)** — 2025-10-29 · en · `unclassified`
+  Model Y Performance is really a vehicle that's [music] designed for the person who really cares about their activity, really pays attention [music] to the training, the equipment, the pieces that go into their adventure, their activity, the thing that they're really passionate about. The Model Y Performance is better than it's ever been in terms of its performance specs. We go 0 to 60 in 3.3 seconds, 0 to 100 in 3.
+
+- **[TRON Mode](https://www.youtube.com/watch?v=2Jm95xz0Q3I)** — 2025-10-10 · en · `unclassified`
+  Heat. [Music] Heat.
+
+- **[Change Today for Tomorrow | Megapack](https://www.youtube.com/watch?v=_3QAXxUjpbU)** — 2025-10-09 · ko · `unclassified`
+  저희는 지금 콜리에 있어요. 여기는 마리 농장이고, 저희 농장은 퍼스에서 약 200km 떨어져 있습니다. 퍼스는 외딴 곳에 위치하고 자급 자족하는 생활 방식 때문에 세계에서 가장 고립된 도시로 알려져 있습니다. 저희는 기후 변화의 영향을 완화하기 위해 매우 열심히 노력하고 있으며 , 그렇기 때문에 저희 지역에서 재생 에너지 개발이 활발히 진행되는 것을 적극적으로 지지합니다. 저희 농부들이 농사를 짓는 데에는 날씨와 기후가 필수적이기 때문입니다. 지구 온난화가 계속되고 수자원이 계속 줄어든다면, 우리는 기후 변화의 영향에 가장 직접적으로 노출되는 최전선에 서게 될 것입니다
+
+- **[Introducing Model Y Standard & Model 3 Standard](https://www.youtube.com/watch?v=gQ92igDGBHQ)** — 2025-10-07 · ko · `unclassified`
+  [음악] 다운. [음악] 열기. 열.
+
+- **[Vote Your Tesla Shares](https://www.youtube.com/watch?v=6JwClvNwoYw)** — 2025-10-06 · ko · `unclassified`
+  11월 6일에 저희 연례 주주총회를 개최할 예정입니다. 올해 투표에는 몇 가지 중요한 사안들이 있습니다. 저희는 테슬라의 차세대 성장과 주주 여러분을 위한 가치 창출을 이끌어갈 대담하고 야심찬 계획을 가지고 있습니다 . [음악] 이 계획을 실행하고 주주들에게 탁월한 가치를 지속적으로 실현하기 위해서는 CEO를 위한 적절한 인센티브 체계를 마련하고 이사회의 안정성을 확보해야 합니다 . 테슬라의 미래와 여러분의 투자 미래는 여러분의 손에 달려 있으며, 주주 투표에 참여하셔야 합니다 . 여러분의 목소리를 들려주시길 기대합니다.
+
+- **[Las Megas | Tesla Megablock Event](https://www.youtube.com/watch?v=wNSS19XKXRE)** — 2025-09-17 · ko · `unclassified`
+  [박수] 안녕하세요, 안녕하세요, 안녕하세요 여러분. 모두 와주셔서 감사합니다. 반가운 얼굴들을 많이 보니 정말 좋네요 . 온라인으로 시청하시는 분들을 위해 말씀드리자면, 저희는 최신 제품 공개를 위해 보링 컴퍼니 터널에 나와 있습니다. 그리고 브랜드 이미지에 걸맞게 , 이번 행사는 Mega Packs와 Cybertruck의 후원으로 진행됩니다. 좋습니다, 그럼 시작하겠습니다. 테슬라는 지속 가능한 에너지 로 구동되는 지속 가능한 풍요로움으로 가득 찬 세상을 만들어가고 있습니다 . 그리고 오늘 밤 우리는 그 비전의 다음 장을 시작합니다 .
+
+- **[Sustainable Abundance | Master Plan Part IV](https://www.youtube.com/watch?v=AnunTXBwOlk)** — 2025-09-02 · ko · `unclassified`
+  인간은 도구를 만드는 존재이며, 테슬라는 모두의 삶을 더 나아지게 하는 물리적 제품을 대규모로 생산하는 기업입니다. 우리는 전기 자동차, 에너지 제품 및 휴머노이드 로봇 개발을 통해 기술적 르네상스의 토대를 마련하기 위해 끊임없이 노력해 왔습니다. 다음 장은 우리가 지금까지 보아온 것보다 훨씬 더 웅장한 규모로 펼쳐질 것입니다. [박수] 저희는 인공지능을 현실 세계에 접목시키는 제품과 서비스를 개발하고 있습니다. 우리는 제조 역량과 자율 주행 기술을 결합하여 글로벌 번영을 가속화하고 있습니다.
 
 ## Unilever (16건)
 
@@ -6985,32 +7085,6 @@
 - **[What is sycophancy in AI models?](https://www.youtube.com/watch?v=nvbq39yVYRk)** — 2025-12-18 · en · `unclassified`
   [music] Hi there, my name is Kira and I'm on the safeguards team at Anthropic. I have a PhD in mental health, specifically psychiatric epidemiology. And at Anthropic, I work on mitigating risks related to user well-being. What that means is we think a lot about how to keep users safe on Claude. Today I'm here to talk to you about sycophincency.
 
-## Microsoft Azure (8건)
-
-- **[Microsoft expands Azure AI and HPC infrastructure with AMD](https://www.youtube.com/watch?v=CWEwR9OXzGA)** — 2026-07-20 · ko · `unclassified`
-  [음악] 사실, 이 거대한 AI 시대에 컴퓨팅에 대한 고객의 요구 사항이 복잡해짐에 따라 , 모든 것에 맞는 단일 솔루션은 존재하지 않습니다 . 이는 고객들이 컴퓨팅 작업을 수행하는 방식의 다양화를 촉진하고 있습니다 . 일반적으로 이는 CPU 또는 별도의 GPU [음악] 클러스터에서만 실행되었지만, 거대한 AI를 처리하려면 CPU와 GPU 모두가 필요합니다 . 우리는 새로운 세상을 위해 설계되었고, 안전하고 뛰어난 성능을 제공하면서도 비용을 크게 절감할 수 있는 새로운 유형의 하드웨어(음악)와 소프트웨어가 필요합니다.
-
-- **[Storage migrations simplified with the Azure Copilot migration agent](https://www.youtube.com/watch?v=KjQJTNq4a7c)** — 2026-07-20 · ko · `unclassified`
-  이 데모에서는 스토리지 마이그레이션 에이전트가 Azure 포털에서 단일 대화를 통해 온프레미스 SMB 파일 공유를 Azure 파일로 직접 마이그레이션하는 전체 과정을 안내합니다 . 시작하기 전에 준비해야 할 네 가지가 있습니다. 먼저, 마이그레이션 에이전트가 실행되는 Azure 마이그레이션 프로젝트가 포함된 Azure 구독이 필요합니다. 둘째, 마이그레이션할 SMB 공유 경로와 해당 자격 증명을 입력하세요. 셋째, 마이그레이션 어플라이언스를 실행할 호스트가 필요합니다. 네 번째는 해당 기기의 네트워크 연결성입니다.
-
-- **[Assess Azure VM readiness with Azure Migrate](https://www.youtube.com/watch?v=gsz-XqQ-Xn8)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure Migrate 시리즈의 새로운 에피소드에 오신 것을 환영합니다. [음악] 이 비디오에서는 Azure VM 대상에 대한 Azure Migrate 평가에 대해 설명합니다. 평가의 중요성과 활용법을 다룬 이전 영상들을 시청하고, 평가에 필요한 사전 요건을 모두 충족한 후에 다음 단계로 진행하는 것이 좋습니다. Azure Migrate 프로젝트를 생성하고 Windows 및 Linux 서버의 인벤토리를 검색했는지 확인하십시오. Azure Migrate 어플라이언스를 사용하거나 RVTools 또는 CMDB에서 캡처한 인벤토리를 가져와 인벤토리를 검색할 수 있습니다.
-
-- **[Assess your .NET and Java Webapps for modernization to App Service or AKS with Azure Migrate](https://www.youtube.com/watch?v=bQfhnZucBck)** — 2026-07-15 · ko · `unclassified`
-  안녕하세요 여러분, 반갑습니다. 이 영상에서는 웹 애플리케이션의 마이그레이션 및 현대화 계획을 수립하는 방법을 살펴보겠습니다 . 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 영상에서는 웹 애플리케이션 평가에 대해 다룹니다. 웹 애플리케이션 평가는 일반적으로 마이그레이션 과정의 계획 단계에서 진행됩니다. 웹 앱 평가는 대상 서비스 전반에 걸친 평가를 철저히 분석하고 마이그레이션 준비 상태 및 관련 비용을 고려하여 Azure 앱 서비스와 Azure Kubernetes 서비스 모두에 대한 준비 상태 점검을 수행합니다.
-
-- **[Assess your applications for migration or modernization with Azure Migrate](https://www.youtube.com/watch?v=u7emCnZfH-Q)** — 2026-07-15 · ko · `unclassified`
-  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 애플리케이션을 Azure로 마이그레이션하거나 현대화하는 계획을 세우는 방법을 살펴보겠습니다. 먼저 계획 단계를 살펴보겠습니다. Azure Migrate를 사용하면 ASP.NET 웹 애플리케이션, SQL Server, Windows Server, Linux Server 등과 같은 다양한 워크플로를 검색하고 이러한 워크로드를 적절하게 그룹화하여 애플리케이션을 정의할 수 있습니다.
-
-- **[Discover workloads and applications managed by VMware vCenter with Azure Migrate](https://www.youtube.com/watch?v=KwUTKyUiBaU)** — 2026-07-15 · ko · `unclassified`
-  [음악] 이 비디오에서는 Azure Migrate 어플라이언스를 사용하여 VMware 환경을 검색하는 방법을 배우게 됩니다 . 진행하기 전에 이 비디오 링크를 시청하고 Azure Migrate 프로젝트를 생성했는지 확인하십시오. 어플라이언스를 배포하기 전에 다음 필수 조건이 충족되었는지 확인하십시오. 해당 장비가 모든 네트워킹 요구 사항을 충족하고 필요한 엔드포인트에 연결되는지 확인하십시오. 읽기 전용 및 게스트 운영 권한이 있는 vCenter 계정을 프로비저닝합니다. 이 계정을 통해 어플라이언스는 VMware 서버 의 기본 구성을 검색 하고 성능 데이터를 수집할 수 있습니다.
-
-- **[Enrich discovered data with business context in Azure Migrate](https://www.youtube.com/watch?v=NUv4O37dLjE)** — 2026-07-15 · ko · `unclassified`
-  안녕하세요 여러분, 반갑습니다. 이 비디오에서는 검색된 워크로드에 개발, 테스트 또는 프로덕션과 같은 환경 유형과 마이그레이션 의도를 할당하여 검색 데이터를 보강하는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 검색된 워크로드에 환경 유형과 마이그레이션 의도를 할당하여 워크로드 마이그레이션을 효과적으로 계획할 수 있습니다. 비프로덕션 워크로드를 개발 환경으로 태그하여 환경 유형별로 워크로드를 풍부하게 만드는 관점에서 이야기하자면 , 비프로덕션 워크로드도 범용 및 메모리 최적화 서비스 계층과 함께 버스터블 계층에 대한 평가가 이루어지므로 Azure 목표 및 비용을 더 정확하게 예측할 수 있습니다
-
-- **[Lift and shift (migrate) your Windows and Linux servers to Azure VM with Azure Migrate](https://www.youtube.com/watch?v=xVEjE0Z9QYY)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 [음악] 도구 와 그 기능에 대한 데모를 다룹니다. 이 비디오에서는 서버를 Azure로 이전(리프트 앤 시프트)하거나 리호스팅하는 방법을 보여드리겠습니다. 이러한 접근 방식은 조직이 데이터 센터 규모를 신속하게 축소하고 즉각적인 비용 절감을 달성하는 데 도움이 됩니다. 새롭게 설계된 엔드투엔드 경험은 고객 여러분이 체계적이고 조직적인 방식으로 마이그레이션 여정을 진행할 수 있도록 안내합니다.
-
 ## Nike (8건)
 
 - **[Nike Sabrina 4 | Behind the Design](https://www.youtube.com/watch?v=G0sUuHddK_M)** — 2026-07-16 · en · `unclassified`
@@ -7088,32 +7162,6 @@
 
 - **[Stability Seconds: Using Stable Diffusion 3.5 and Stable Image Ultra in ComfyUI](https://www.youtube.com/watch?v=QUskpP5JLPg)** — 2025-05-23 · en · `unclassified`
   Let me show you how easy it is to get started using stability offerings inside of Comfy UI. First, you're going to go to comfy.org. From comfy.org, you're going to go down here and hit this download button. From the download button, you're going to select whichever your operating system is. M on Windows, and you're going to download it. From there, you're going to boot up Comfy UI.
-
-## Tesla (8건)
-
-- **[Autobidder | Tesla Megapack](https://www.youtube.com/watch?v=NqQnHWa-Vxs)** — 2026-07-07 · ko · `unclassified`
-  저희는 프랑스 서부 낭트에 위치한 셰브리에 배터리 에너지 저장 시스템 현장에 있습니다 . [음악] 이곳은 예전에 석탄 화력 발전소가 있던 자리입니다. 그 발전소는 프랑스 서부 지역 상당 부분에 전기를 공급하고 있었습니다 . 1990년대에 그 발전소는 가동을 중단했습니다. [음악] 이는 프랑스의 재생 에너지 전환 과정의 일환이었고, 시간이 흘러 테슬라 와 네오엔이 협력하여 이 시설을 배터리 에너지 저장 시스템으로 탈바꿈시켰습니다. 저희는 포괄적인 EPC(설계, 조달, 시공) 계약을 기반으로 테슬라와 계약을 체결했습니다 .
-
-- **[Tesla Home: Home Energy Management, Powered by AI](https://www.youtube.com/watch?v=8aGMLbS3NAo)** — 2026-06-23 · en · `unclassified`
-  Tesla home is your home energy management system that can help you save money on your electricity costs by automatically adjusting how energy is used to power your home. Tesla home is powered by Opticaster, our AI optimization software. It assesses your energy usage and the weather forecast to predict your home's energy needs and then decides where to source your energy from and how best to use it in your home.
-
-- **[How Tesla Vision Helps Deploy Airbags Earlier](https://www.youtube.com/watch?v=Vb-OqxUWPDE)** — 2026-06-22 · ko · `unclassified`
-  70밀리초는 눈 깜빡할 사이에 지나가는 시간입니다. 이 비전 시스템을 사용하면 에어백 전개 여부를 최대 70밀리초 더 일찍 결정할 수 있는데, 이는 심각한 부상을 막고 사고 현장에서 무사히 빠져나오는 데 결정적인 차이를 만들 수 있습니다. 우리는 카메라 시스템과 가속도계를 결합하여 이전에는 불가능했던 일들을 해내고 있습니다. 저희는 기존 안전벨트 시스템을 보완하는 테슬라 비전의 새로운 기능을 활용할 수 있었고 , 이를 통해 최적의 안전벨트 착용 여부를 결정하는 데 더욱 가까워질 수 있었습니다.
-
-- **[TERAFAB | The Largest Chip Manufacturing Facility Ever](https://www.youtube.com/watch?v=Txt3Wodav1o)** — 2026-04-06 · ko · `unclassified`
-  우주를 이해하려면 우주를 탐험해야 한다. 그것이 바로 인류가 우주를 이해하고 의식의 빛을 별까지 확장하는 데 있어 미래를 앞당기려는 동기입니다. [음악] [음악] [음악] [음악] 자, 저희는 아주 중요한 발표를 하려고 합니다. 바로 역사상 가장 멋진 여행 계획 수립 활동입니다. [환호] [박수] 이건 정말 한 단계 더 도약할 거예요. 네, 아마 지금 사람들이 생각조차 하지 못하는 수준일 거예요 . 이건 제가 보기엔 맥락에서 벗어난 문제인 것 같아요. 그건 그들의 맥락에 맞지 않아요.
-
-- **[TERAFAB](https://www.youtube.com/watch?v=HcxEGykMZc4)** — 2026-03-22 · ko · `unclassified`
-  우주를 이해하려면 우주를 탐험해야 한다. 그것이 바로 인류가 우주를 이해하고 의식의 빛을 별까지 확장하는 데 있어 미래를 앞당기려는 동기입니다.
-
-- **[Getting railed | Cybertruck](https://www.youtube.com/watch?v=zZHOpr3O-D0)** — 2026-03-06 · ko · `unclassified`
-  너무 오랫동안 연락을 끊고 지낼 수 없다는 걸 아신다면요. 하지만 그곳에는 그 모든 스트레스를 덜어줄 사람이 아무도 없었다. 너희들은 예전에는 어린아이들이었는데 이제는 나를 부르네 . 나는 하루 종일 음악을 기다렸고, 할 말이 있어요 . 당신에 관한 일이라면, 저는 조금도 망설이지 않아요. 우와!
-
-- **[Tesla Lithium Refinery](https://www.youtube.com/watch?v=rxYTx6aj96k)** — 2026-01-14 · ko · `unclassified`
-  이 정제소는 북미 최초의 스포이메인을 수산화리튬으로 정제하는 시설입니다 . 저희는 본질적으로 훨씬 더 환경 친화적 이고 깨끗한 새로운 기술 플랫폼을 도입하고 있습니다. 더 간단한 과정입니다. 비용이 덜 드는 과정입니다. 저는 제이슨 비브넌입니다. 저는 텍사스주 코퍼스 크리스티 외곽에 위치한 테슬라의 GF 코스트 리튬 정제소 현장 관리자입니다 . 스파민은 리튬을 함유하는 광석입니다. 리튬이 풍부한 단단한 암석 물질입니다. 저희는 지속 가능한 방식으로 스팸마인을 조달하여 현장으로 운반한 후, 일련의 이송 시스템을 거쳐 가마와 냉각기를 통과시킵니다.
-
-- **[Powering Chile's Renewable Future | Megapack](https://www.youtube.com/watch?v=_iytMHw6uJY)** — 2025-12-08 · ko · `unclassified`
-  칠레는 여러 가지 독특한 특징을 가지고 있습니다. 칠레는 세계에서 가장 남쪽에 위치한 나라입니다. 하지만 음악의 북쪽에서도 마찬가지입니다. 칠레에는 아타카마 사막이 있습니다. 그 아타카마 사막은 가장 메마른 세상, 동시에 [음악] 그것은 방사능 수치가 가장 높은 것입니다. 세계. 그러므로 그것은 많은 것을 가져왔습니다. 태양광 발전소에 대한 투자. [음악] 칠레에서 그 점을 확실히 볼 수 있습니다. 오늘 같은 날처럼 발전에 탁월한 조명 태양 에너지지만, 이 [음악] 낮 시간에 할 수 있습니다.
 
 ## Figure (7건)
 
@@ -7635,6 +7683,11 @@
 
 - **[AI First 병원으로 전환중인 메이요 클리닉ㅣ의료ai 활용 사례](https://www.youtube.com/watch?v=umf8hIWkVfs)** — 2026-07 · ko · `AX`
   2024년 3월 5일 뉴스위크가 공개한 2024 세계의 최고 병원에 따르면 글로벌 병원 위안에 국내 빅파 병원이 이름을 올렸습니다 서울 아산 병원이 22위로 국내 1위를 차지했고 삼성서울병원이 34위 세브란스 42위 서울대병원 43위 분당 서울대 병원이 81위 차지했습니다 그렇다면 뉴스위크가 선정한 전 세계 최고 병원은 어디일까요 바로 미국 미네스타 주 로체스터에 위치한 150년 역사를 자랑하는 메이오 클리닉이 1위를 차지했습니다
+
+## 미스릴 AI (1건)
+
+- **[AI 없이 버틸 수 없는 시대 🚀 제조업을 뒤집을  AI 혁신의 모든 것 🤖](https://www.youtube.com/watch?v=3qzcqWlIcec)** — 2026-07 · ko · `AX`
+  기술적인 용어로 데이터 사일로 현상이라고도 하죠. 데이터 자체가 뭐 각각의 파트별, 각각의 현장별로 계속 쌓이거나 그런 상황이고 그렇기 때문에 AI가 들어가더라도 문제를 해결할 수 없는 케이스가 많은데 &gt;&gt; 그런 의미에서 사실 중요한게 저는 [음악] 생각을 합니다. 대표적으로 이제 팔란티어가 아마 이게 기술적인 단어라기보다는 철학적으로 제시해서 약간의 마케팅을 결합시켜서 쓰는 용어인 거 같은데 일단은 뭐 데이터가 있어야 단순히 그냥 모아진 데이터가 있으니까가 아니라 앞으로 5년 내에 AI 산업에서 좀 가장 크게 바뀔 부분이 어떤 거라고 생각하세요?
 
 ## Sema4ai (1건)
 

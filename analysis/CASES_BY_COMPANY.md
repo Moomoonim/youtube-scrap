@@ -2686,6 +2686,19 @@
 | 2026-01-30 | DX | 자사/일반 | - | FTP 도입 이후 이미 80,000건 이상의 추가 시술을 제공했습니다. | Y | [영상](https://www.youtube.com/watch?v=NANvLfyDQBI) · [script](../transcripts/channels/Palantir/Palantir_and_the_NHS_UK_Stories__NANvLfyDQBI.md) |
 | 2026-02-09 | unclassified | 자사/일반 | - | 완전히 통합된 AI 및 시뮬레이션을 통해서입니다. | N | [영상](https://www.youtube.com/watch?v=kA-RPdosEm0) · [script](../transcripts/channels/Palantir/Palantir_and_Hadean_UK_Stories__kA-RPdosEm0.md) |
 
+## Tesla (8건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2025-09-02 | unclassified | 자사/일반 | - | [박수] 저희는 인공지능을 현실 세계에 접목시키는 제품과 서비스를 개발하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=AnunTXBwOlk) · [script](../transcripts/channels/Tesla/Sustainable_Abundance_Master_Plan_Part_IV__AnunTXBwOlk.md) |
+| 2025-09-17 | unclassified | 자사/일반 | - | Auto Bidder는 2017년에 출시되었으며, 알고리즘을 지속적으로 개선하고 발전시켜 사업을 운영하는 모든 시장에서 선두 자리를 유지해 왔습니다. | Y | [영상](https://www.youtube.com/watch?v=wNSS19XKXRE) · [script](../transcripts/channels/Tesla/Las_Megas_Tesla_Megablock_Event__wNSS19XKXRE.md) |
+| 2025-09-17 | unclassified | 자사/일반 | - | 전 세계 전력 수요는 전력화, 제조업 및 데이터 센터의 성장에 힘입어 매년 3%씩 증가할 것으로 예상됩니다 . | Y | [영상](https://www.youtube.com/watch?v=wNSS19XKXRE) · [script](../transcripts/channels/Tesla/Las_Megas_Tesla_Megablock_Event__wNSS19XKXRE.md) |
+| 2025-09-17 | unclassified | 자사/일반 | - | 이러한 수요 증가율은 2000년대 초반 이후 미국에서 볼 수 없었던 수준입니다. | Y | [영상](https://www.youtube.com/watch?v=wNSS19XKXRE) · [script](../transcripts/channels/Tesla/Las_Megas_Tesla_Megablock_Event__wNSS19XKXRE.md) |
+| 2025-10-09 | unclassified | 자사/일반 | - | 지난 40년간 우리 농장에서는 강우량이 30% 감소하는 것을 목격했습니다. | Y | [영상](https://www.youtube.com/watch?v=_3QAXxUjpbU) · [script](../transcripts/channels/Tesla/Change_Today_for_Tomorrow_Megapack___3QAXxUjpbU.md) |
+| 2025-11-05 | unclassified | 자사/일반 | - | 따라서 이는 특히 100% 재생 에너지로 전환하는 과정에서 전력망을 지원하는 이 기술에 대한 신뢰도가 크게 높아진 것을 의미합니다. | Y | [영상](https://www.youtube.com/watch?v=aN0rctOAEFk) · [script](../transcripts/channels/Tesla/Forming_the_Future_Grid_Tesla_Megapack__aN0rctOAEFk.md) |
+| 2026-01-14 | unclassified | 자사/일반 | - | 2023년 착공부터 2024년 가마를 통한 방부 처리, 그리고 2025년 완전 통합형 플랜트 가동에 이르기까지, 우리는 대규모 프로젝트에서 흔히 볼 수 있는 기존의 단계별 장애물을 제거함으로써 업계 최초의 이 기술을 가장 빠른 시간 내에 시장에 출시했습니다 . | Y | [영상](https://www.youtube.com/watch?v=rxYTx6aj96k) · [script](../transcripts/channels/Tesla/Tesla_Lithium_Refinery__rxYTx6aj96k.md) |
+| 2026-04-06 | unclassified | 자사/일반 | - | 그리고 저희가 놀라운 칩을 설계하고 만들고, 1테라와트 규모의 칩과 1테라와트 규모의 태양광 발전 시설을 구축하고, 매년 1억 톤의 화물을 궤도에 올릴 수 있도록 도와주세요. | Y | [영상](https://www.youtube.com/watch?v=Txt3Wodav1o) · [script](../transcripts/channels/Tesla/TERAFAB_The_Largest_Chip_Manufacturing_Facility_Ever__Txt3Wodav1o.md) |
+
 ## Zoox (8건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -2805,6 +2818,15 @@
 | 2026-07 | AX | 자사/일반 | - | GPT 5 출시 이후 버전을 계속 업데이트해 나간 오픈 AI. | N | [영상](https://www.youtube.com/watch?v=PWfBdBbZZNs) · [script](../transcripts/2026-07-22/이젠_AI_가성비_전쟁_오픈AI,_GPT-5.6으로_판_뒤집을까_오그랲_비디오머그__PWfBdBbZZNs.md) |
 | 2026-07 | AX | 자사/일반 | - | AI를 어떤 방식으로든 활용해 본 학생이 전체 91%나 된다는 겁니다. | Y | [영상](https://www.youtube.com/watch?v=ubFNT5egsF0) · [script](../transcripts/2026-07-22/이제_AI_없으면_수업_못_들어요..._돌이킬_수_없어진_대학생들_근황_오그랲_비디오머그__ubFNT5egsF0.md) |
 | 2026-07 | AX | 자사/일반 | - | 특히 튜터링의 경우 127% 향상될 정도로 크게 늘어났죠. | Y | [영상](https://www.youtube.com/watch?v=ubFNT5egsF0) · [script](../transcripts/2026-07-22/이제_AI_없으면_수업_못_들어요..._돌이킬_수_없어진_대학생들_근황_오그랲_비디오머그__ubFNT5egsF0.md) |
+
+## Microsoft Azure (4건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07-15 | unclassified | 자사/일반 | - | 종량제, 1년 또는 3년 예약 인스턴스, Azure 절약 계획 및 평가 기준과 같은 통화 절약 옵션을 통해 최대 절감 효과를 얻으면서 총소유비용(TCO)을 예측하고 VM 대상에 가장 적합한 규모의 인스턴스를 식별할 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=gsz-XqQ-Xn8) · [script](../transcripts/channels/Microsoft_Azure/Assess_Azure_VM_readiness_with_Azure_Migrate__gsz-XqQ-Xn8.md) |
+| 2026-07-15 | unclassified | 자사/일반 | - | 에이전트는 Alex의 환경에서 기본값을 가져와 템플릿에 적용한 다음 Alex가 다운로드하고 배포할 수 있는 Terraform 템플릿을 제공합니다. | N | [영상](https://www.youtube.com/watch?v=9N6QUGp7xw0) · [script](../transcripts/channels/Microsoft_Azure/Discover_and_plan_lift-and-shift_migrations_with_Migration_A__9N6QUGp7xw0.md) |
+| 2026-07-20 | unclassified | 협력/고객사 언급 | AMD | [음악] 하나는 AMD에서 출시한 새로운 AI 가속기 또는 GPU이고 , 다른 하나는 특정 작업에 최적화된 AMD 제작 CPU를 제공하는 Azure의 새로운 VM 유형 시리즈입니다 . | N | [영상](https://www.youtube.com/watch?v=CWEwR9OXzGA) · [script](../transcripts/channels/Microsoft_Azure/Microsoft_expands_Azure_AI_and_HPC_infrastructure_with_AMD__CWEwR9OXzGA.md) |
+| 2026-07-20 | unclassified | 자사/일반 | - | 관리자는 어플라이언스를 배포하고 등록한 다음, 어플라이언스가 온라인 상태가 되었음을 에이전트에 알립니다 . | N | [영상](https://www.youtube.com/watch?v=KjQJTNq4a7c) · [script](../transcripts/channels/Microsoft_Azure/Storage_migrations_simplified_with_the_Azure_Copilot_migrati__KjQJTNq4a7c.md) |
 
 ## Nissan (4건)
 
@@ -3225,6 +3247,14 @@
 | 2026-07 | AX | 자사/일반 | - | 그래서 처음에 무신사도 AI를 이렇게 도입을 했을 때 어 요걸로 뭔가 업무 효율화를 많이 이룰 수 있지 않을까라고 생각을 했지만 어 실제로 초기에 도입을 했을 때에는 어 코드 짜는 속도가 굉장히 빨랐지만은 마지막에이 완성을 하는 그 10% 어 요기를 이제 완벽하게 해내지 못했기 때문에 사람이 투입될 수밖에 없었고 이런 10%의 세밀한 UI 조정이나 예외 처리 이런 것들을 위해서 AI한테 계속 뭐 20번 넘게 이렇게 프롬프트를 수정하는 그런 과정에서 어 굉장한 필요함을 느꼈다고 합니다. | Y | [영상](https://www.youtube.com/watch?v=jYwDdt_3L8Q) · [script](../transcripts/2026-07-23/오픈AI_x_무신사_비공개_행사_후기,_코덱스_기업_도입_사례와_AI_네이티브_워크플로우_인사이트_총정리__jYwDdt_3L8Q.md) |
 | 2026-07 | AX | 자사/일반 | - | 어 비개발자의 반란이라고 해서 어 개발 지식이 없는 현업 매니저가 코덱스를 활용해서 기획서나 화면 설계를 직접 완성하기도 하고 어 산해 개발 팀이 두 달 만에 핵심 기능을 완전 내제화했다고 하는데 이게 굉장히 비싼 거의 3억원 이상 총 다해 한 4.5억 정도 되는 그런 어 사스 서비스가 있었고 이거는 이제 무신사에서는 사용할 수밖에 없는 뭐 회원들한테 뭐 문자 보내고 뭐 이런 서비스인데요. | Y | [영상](https://www.youtube.com/watch?v=jYwDdt_3L8Q) · [script](../transcripts/2026-07-23/오픈AI_x_무신사_비공개_행사_후기,_코덱스_기업_도입_사례와_AI_네이티브_워크플로우_인사이트_총정리__jYwDdt_3L8Q.md) |
 
+## 미스릴 AI (3건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | AX | 자사/일반 | - | 그리고 조금 더 경제적인 부분을 얘기를 하자면은 실제로는 그런 로봇들이 비싸다고 생각했는데 굉장히 지금 싸고 구동료가 제가 듣기로도 뭐 월 700달러 70만 원 뭐이 정도밖에 안 된다고 들어서 사실은 굉장히 숙련 고급 인원도 대체를 하겠지만은 동시에 굉장히 저임금 [음악] 그리고 단순 노동자들 역시도 굉장히 어 대체가 많이 될 것 같습니다. | Y | [영상](https://www.youtube.com/watch?v=3qzcqWlIcec) · [script](../transcripts/2026-07-24/AI_없이_버틸_수_없는_시대_🚀_제조업을_뒤집을_AI_혁신의_모든_것_🤖__3qzcqWlIcec.md) |
+| 2026-07 | AX | 자사/일반 | - | 그럼에도 불구하고 AI 도입이 왜 중요할 [음악] 수 있을까요? | N | [영상](https://www.youtube.com/watch?v=3qzcqWlIcec) · [script](../transcripts/2026-07-24/AI_없이_버틸_수_없는_시대_🚀_제조업을_뒤집을_AI_혁신의_모든_것_🤖__3qzcqWlIcec.md) |
+| 2026-07 | AX | 자사/일반 | - | 데이터 자체가 뭐 각각의 파트별, 각각의 현장별로 계속 쌓이거나 그런 상황이고 공개가 되거나 공유가 되지도 않고 정제가 되지도 않고 그렇기 때문에 AI가 들어가더라도 문제를 해결할 [음악] 수 없는 케이스가 많은데 지금 AI 도입이 중요한 이유는 쉽게 말해서 이미 늦었기 때문 아닐까요? | N | [영상](https://www.youtube.com/watch?v=3qzcqWlIcec) · [script](../transcripts/2026-07-24/AI_없이_버틸_수_없는_시대_🚀_제조업을_뒤집을_AI_혁신의_모든_것_🤖__3qzcqWlIcec.md) |
+
 ## Sema4ai (3건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -3264,14 +3294,6 @@
 | 2026-05-26 | unclassified | 자사/일반 | - | 실제로 이전 버전보다 20배 빠른 [음악] 속도입니다. | Y | [영상](https://www.youtube.com/watch?v=c9SJF7n7zZw) · [script](../transcripts/channels/BMW/Innovation_Insights_BMW_Symbiotic_Drive__c9SJF7n7zZw.md) |
 | 2026-06-30 | unclassified | 자사/일반 | - | 이 액센트 바는 통합형 앰비언트 라이트[음악] 기능을 갖추고 있으며, 새로운 BMW X5만의 개성을 드러냅니다. | Y | [영상](https://www.youtube.com/watch?v=-lAE9sOJX5c) · [script](../transcripts/channels/BMW/The_new_BMW_X5_Walkaround.__-lAE9sOJX5c.md) |
 | 2026-06-30 | unclassified | 자사/일반 | - | 주행 가능 거리 증가 측면에서 보면, 단 10분 만에 350km 이상을 주행할 수 있게 되는 겁니다 . | Y | [영상](https://www.youtube.com/watch?v=-lAE9sOJX5c) · [script](../transcripts/channels/BMW/The_new_BMW_X5_Walkaround.__-lAE9sOJX5c.md) |
-
-## Microsoft Azure (3건)
-
-| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
-|---|---|---|---|---|---|---|
-| 2026-07-15 | unclassified | 자사/일반 | - | 종량제, 1년 또는 3년 예약 인스턴스, Azure 절약 계획 및 평가 기준과 같은 통화 절약 옵션을 통해 최대 절감 효과를 얻으면서 총소유비용(TCO)을 예측하고 VM 대상에 가장 적합한 규모의 인스턴스를 식별할 수 있습니다. | Y | [영상](https://www.youtube.com/watch?v=gsz-XqQ-Xn8) · [script](../transcripts/channels/Microsoft_Azure/Assess_Azure_VM_readiness_with_Azure_Migrate__gsz-XqQ-Xn8.md) |
-| 2026-07-20 | unclassified | 협력/고객사 언급 | AMD | [음악] 하나는 AMD에서 출시한 새로운 AI 가속기 또는 GPU이고 , 다른 하나는 특정 작업에 최적화된 AMD 제작 CPU를 제공하는 Azure의 새로운 VM 유형 시리즈입니다 . | N | [영상](https://www.youtube.com/watch?v=CWEwR9OXzGA) · [script](../transcripts/channels/Microsoft_Azure/Microsoft_expands_Azure_AI_and_HPC_infrastructure_with_AMD__CWEwR9OXzGA.md) |
-| 2026-07-20 | unclassified | 자사/일반 | - | 관리자는 어플라이언스를 배포하고 등록한 다음, 어플라이언스가 온라인 상태가 되었음을 에이전트에 알립니다 . | N | [영상](https://www.youtube.com/watch?v=KjQJTNq4a7c) · [script](../transcripts/channels/Microsoft_Azure/Storage_migrations_simplified_with_the_Azure_Copilot_migrati__KjQJTNq4a7c.md) |
 
 ## Stability AI (3건)
 
@@ -3336,13 +3358,6 @@
 |---|---|---|---|---|---|---|
 | 2026-03-13 | unclassified | 자사/일반 | - | Luma Agents are built from the ground up for multiplayer. | N | [영상](https://www.youtube.com/watch?v=p59rcSJ3n8A) · [script](../transcripts/channels/Luma_AI/Introducing_Luma_Agents__p59rcSJ3n8A.md) |
 | 2026-04-24 | unclassified | 자사/일반 | - | When creating the launch video for Luma agents, we wanted to use Luma to create case studies for three different creative industries and how they would benefit from the Luma [music] workflow. | N | [영상](https://www.youtube.com/watch?v=uBvh6XQOLQo) · [script](../transcripts/channels/Luma_AI/Behind_the_Scenes_-_Introducing_Luma_Agents__uBvh6XQOLQo.md) |
-
-## Tesla (2건)
-
-| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
-|---|---|---|---|---|---|---|
-| 2026-01-14 | unclassified | 자사/일반 | - | 2023년 착공부터 2024년 가마를 통한 방부 처리, 그리고 2025년 완전 통합형 플랜트 가동에 이르기까지, 우리는 대규모 프로젝트에서 흔히 볼 수 있는 기존의 단계별 장애물을 제거함으로써 업계 최초의 이 기술을 가장 빠른 시간 내에 시장에 출시했습니다 . | Y | [영상](https://www.youtube.com/watch?v=rxYTx6aj96k) · [script](../transcripts/channels/Tesla/Tesla_Lithium_Refinery__rxYTx6aj96k.md) |
-| 2026-04-06 | unclassified | 자사/일반 | - | 그리고 저희가 놀라운 칩을 설계하고 만들고, 1테라와트 규모의 칩과 1테라와트 규모의 태양광 발전 시설을 구축하고, 매년 1억 톤의 화물을 궤도에 올릴 수 있도록 도와주세요. | Y | [영상](https://www.youtube.com/watch?v=Txt3Wodav1o) · [script](../transcripts/channels/Tesla/TERAFAB_The_Largest_Chip_Manufacturing_Facility_Ever__Txt3Wodav1o.md) |
 
 ## 홍소장 (1건)
 
