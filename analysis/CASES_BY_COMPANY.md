@@ -3097,6 +3097,22 @@
 | 2026-07 | AX | 자사/일반 | - | 두 번째 이유는 에이전트를 기존 기업 레거시 시스템과 통합하는 과정이 매우 복잡하다는 점입니다. | N | [영상](https://www.youtube.com/watch?v=xofWoVQ-ic4) · [script](../transcripts/2026-07-24/Enterprise_AI_Adoption_From_Idea_to_Deployment__xofWoVQ-ic4.md) |
 | 2026-07 | AX | 자사/일반 | - | 그리고 제 생각에는 이러한 AI 에이전트를 구축하고 배포하고 유지 관리하는 것이 사람들이 한두 개의 에이전트로 초기 성공을 거둔 후에는 가장 어려운 부분 중 하나로 드러나는 경우가 많습니다 . | N | [영상](https://www.youtube.com/watch?v=xofWoVQ-ic4) · [script](../transcripts/2026-07-24/Enterprise_AI_Adoption_From_Idea_to_Deployment__xofWoVQ-ic4.md) |
 
+## 백만사전 (3건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | AX | 자사/일반 | - | 그리고 그 경고가 잔인할 정도로 참혹한 현실로 바뀐 결정적 순간이 바로 2022년 11월 전 세계 테크 생태계를 뒤흔든 오픈 AI의 채 GPT 출시였습니다. | Y | [영상](https://www.youtube.com/watch?v=syU5o1-BPUI) · [script](../transcripts/2026-07-24/Only_2_employees_left,_yet..._The_shocking_sign_of_Google's___syU5o1-BPUI.md) |
+| 2026-07 | AX | 자사/일반 | - | 출시단 다세만의 사용자 100만 명을 돌파하고 불과 두 달 만에 월간 활성자 수억 명을 돌파했죠. | Y | [영상](https://www.youtube.com/watch?v=syU5o1-BPUI) · [script](../transcripts/2026-07-24/Only_2_employees_left,_yet..._The_shocking_sign_of_Google's___syU5o1-BPUI.md) |
+| 2026-07 | AX | 자사/일반 | - | 바로 람다의 전신이자 인간과 완벽하게 대화할 수 있는 초거대 AI 모델화를 개발해 낸 노암 샤지어와 다니엘 프레이타스였는데요. | N | [영상](https://www.youtube.com/watch?v=syU5o1-BPUI) · [script](../transcripts/2026-07-24/Only_2_employees_left,_yet..._The_shocking_sign_of_Google's___syU5o1-BPUI.md) |
+
+## 한경 글로벌마켓 (3건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | DX | 자사/일반 | - | 뭐 예를 들어서 오픈 AI도 22일 날 프레젠스라고 하는이 새로운 어 서비스를 도입을 했는데 이제 모델 API가 아니라 기업용 에이전트를 실제 업무에 어 쉽게 배포할 수 있도록 도와주는 이제 그런 제품입니다. | Y | [영상](https://www.youtube.com/watch?v=Wr8-UEAQgQ8) · [script](../transcripts/2026-07-24/[마지막화]_메모리_부족은_시작일_뿐_돈이_고이는_AI_병목들_빈난새의_빈틈없이월가__Wr8-UEAQgQ8.md) |
+| 2026-07 | DX | 협력/고객사 언급 | 모건 스탠리 | 어, 이런 것들이 어, 최근이 모건 스탠리가 실제로 소프트웨어 기업들한테 AI를 도입하는 데에 향후 12개월 동안 과제가 무엇이냐라고 했을 때 인프라 에너지 제약 다음으로 어, 이야기 됐었던 것입니다. | Y | [영상](https://www.youtube.com/watch?v=Wr8-UEAQgQ8) · [script](../transcripts/2026-07-24/[마지막화]_메모리_부족은_시작일_뿐_돈이_고이는_AI_병목들_빈난새의_빈틈없이월가__Wr8-UEAQgQ8.md) |
+| 2026-07 | DX | 자사/일반 | - | 또 실제 도입 과정에서의 병목도 최근에이 AI가 에이전트 시대로 나아가고 또 기업들이 AI를 빠르게 도입을 하려고 하면서 주목을 받고 있는 상황인데 아무리 좋은 AI 시스템이 있고 아무리 뛰어난 모델이 있어도 그거를 실제로 내 기업의 업무에 도입해서 이전보다 더 효율적으로 생산성을 어 끌어올릴 수 있는지는 또 다른 문제이기 때문입니다. | N | [영상](https://www.youtube.com/watch?v=Wr8-UEAQgQ8) · [script](../transcripts/2026-07-24/[마지막화]_메모리_부족은_시작일_뿐_돈이_고이는_AI_병목들_빈난새의_빈틈없이월가__Wr8-UEAQgQ8.md) |
+
 ## Amazon (3건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |

@@ -1,8 +1,8 @@
 # 월 × 분류(DX/AX/AT)별 수집 요약
 
-## 2026-07 (총 530건)
+## 2026-07 (총 532건)
 
-### AX (184건)
+### AX (185건)
 
 - **[AI adoption? Watch this video 10 times. (I'll feed you everything.)](https://www.youtube.com/watch?v=1f5ijgzt1-I)** · 조코딩AX파트너스-랩스 and 조코딩AX파트너스 (keyword)
   AI 전환 아직도 모르신다고요. 그렇다면 회사는 3년 안에 다른 회사에 먹힐 가능성이 굉장히 [음악] 높습니다. 이건 겁주려는 말이 아니라 실제로 벌어지고 있는 현실이에요. 안녕하세요. 데모상 개발단 라균입니다. 기업들 AI 전환 그러니까 AX를 실제로 구축해 주는 일을 하고 있습니다. 오늘 영상에서는 AX가 뭔지 그리고 기업들은 어떻게 AI를 쓰고 있는지 그 사례에 대해서 전달드리도록 할게요. 대표님들이 영상 끝까지 보시면 우리 회사에 AI를 어디서부터 써야 하는지 어떤 부분을 AI로 대체할 수 있는지 머릿속에 그림 그려 주실 거예요.
@@ -216,6 +216,9 @@
 
 - **[Enterprise AI Adoption: From Idea to Deployment](https://www.youtube.com/watch?v=xofWoVQ-ic4)** · Sema4ai (keyword)
   안녕하세요, 저는 믹 홀리슨이고 오늘은 폴 코팅 씨와 이야기를 나누겠습니다. 폴은 Semaphore.ai의 수석 부사장 겸 제품 책임자입니다. 그는 공동 창업자이기도 합니다. 오늘은 폴과 함께 기업용 AI 에이전트 도입에 대해 이야기해 보겠습니다. 기업들이 직면하는 장애물과 과제에는 어떤 것들이 있으며, semaphore.ai 플랫폼은 이러한 문제들을 어떻게 독창적으로 해결할 수 있을까요? 폴, 우리 둘 다 기업용 소프트웨어 업계에 꽤 오랫동안 몸담아 왔고, 그 과정에서 어려움도 겪고 상처도 입고, 어쩌면 몇 가지 성과도 얻었을 거라고 생각해요 .
+
+- **[Only 2 employees left, yet... The shocking sign of Google's decline as it loses AI dominance and ...](https://www.youtube.com/watch?v=syU5o1-BPUI)** · 백만사전 (keyword)
+  세계 최고의 IT 기업이자 매일 수십억 명이 이용하는 검색 제국 구글의 거대한 왕국이 단 두 명의 퇴사로 인해 순식간에 흔들리기 시작했다면 믿어지시나요? 시가 총액이 하룻밤 사이에 380조원 넘게 증발하고 10수년간 압도적으로 지켜온 인공지능 분야의 절대 주도권을 단숨에 빼앗껴 버린 사태가 벌어졌습니다. 오늘 영상에서는 거대테크 기업 구글을 휘청이게 만든 두 천재 인재의 이탈 사건을 시작으로 내부에서 조용히 일어난 권력의 균열과 거대 공룡 기업이 빠질 수밖에 없었던 치명적인 함정을 깊이 파헤쳐 봅니다.
 
 - **[AMD EPYC™ Server CPUs in the Era of Agentic AI](https://www.youtube.com/watch?v=N9pm6NlLuQo)** · AMD (channel)
   Agentic AI is transforming the datacenter. The current knowledge worker could soon manage hundreds of agents to augment their work, increasing their speed and productivity. For a data center to orchestrate thousands of agents that can plan, act, and execute work autonomously requires massive compute resources. AMD EPYC Server CPUs offer the best Agentic AI solution with leadership performance, core density, and the broadest CPU portfolio.
@@ -556,7 +559,7 @@
 - **[The Good, the Bad, and the Ugly: How Zapier Is Building an AI-First GTM Team](https://www.youtube.com/watch?v=tqnLffBM-og)** · Zapier (channel)
   Welcome to today's webinar. Before we get started, let's go over a few quick housekeeping items. First, yes, we've had a few people ask, this webinar is being recorded. You can access the recording at any time after we close by using the same link you used to join today. We'll also send you an email with the recording link [music] once the webinar has ended.
 
-### DX (18건)
+### DX (19건)
 
 - **[AI 도입을 위한 데이터 거버넌스 구축 전략은? (김유신 상무)](https://www.youtube.com/watch?v=vH_g9HIm154)** · 티타임즈TV (keyword)
   안녕하십니까. 김유신입니다. 이번 시간에는 기업에서 AI를 활용하는 방법들 중에서 AI 시대에서도 중요한 것은 데이터다라는 부분에 대해서 좀 더 심도 있게 말씀을 드리려고 합니다. AI는 주로 예측을 하거나 탐지를 하거나 생성을 하는 일에 잘 활용됩니다.이 이 예측과 탐지와 생성을 위해서는이 AI를 학습시키기 위한 데이터가 필요합니다. 새로운 단어를 한 가지 말씀드리고 싶은데요. 데이터 센트릭 AI라는 단어입니다. 샘포드 대학의 앤드리응 교수가이 부분을 되게 강조를 하셨었는데요. 이전에는 우리가 모델 센트릭이라고 해서 AI의 모델을 어떻게 하면 더 좋게 만들 수 있는가?
@@ -575,6 +578,9 @@
 
 - **[Without Palantir, enterprise AI agents fail.](https://www.youtube.com/watch?v=fiGxCy6i8hk)** · 빅데이터닥터 BIGDATA DOCTOR (keyword)
   시장도 안 좋고 이제 전쟁 때문에 주가도 많이 힘을 못 받고 있죠. 이럴 때일수록 그 기업의 본질을 알아간 자세가 되게 중요하다라고 생각을 합니다. 기업 내 AI 에이전트를 도입하기 위해서 구축하기 위해서 밸런티웨어의 온톨로지가 굉장히 중요하다고 이야기를 하죠. 여러분들은 왜 필요하다고 생각하세요? 느낌적으로론 알긴 하는데 풀어서 설명하려고 하면 생각보다 쉽지가 않죠. 뭐 여러 가지 이유가 있겠죠? 자, 이런 얘기를 들었다고 해 봅시다. 남자는 주먹이지. 근데 여러분, 어떤 느낌이 드시죠? 어, 남자는 주먹이지.
+
+- **[[마지막화] 메모리 부족은 시작일 뿐? 돈이 고이는 AI 병목들  | 빈난새의 빈틈없이월가](https://www.youtube.com/watch?v=Wr8-UEAQgQ8)** · 한경 글로벌마켓 (keyword)
+  네, 여러분 안녕하세요. 오늘도 빈틈 없이 시장을 움직이는 월과의 뷰와 뉴스를 짚어드리는 비난세의 특파원입니다. 네, 오늘은이 AI의 병목들 어, 그리고 핵심 기업들을 한번 좀 충리해 볼까 합니다. 언젠가부터이 병목이라는 말 AI 특히 이야기를 할 때 정말 많이 듣고 있는데 이게 사실 뭐 공급 부족, 뭐 수요가 폭발한다, 뭐 이런 것들과 거의 같은 말처럼 쓰이는 거 같습니다. 사실은 차이가 좀 있어요. 병목과이 바틀넥이라고 하는 말은 이름 그대로이 병의 좁은 목.
 
 - **[How Digital Infrastructure Brings Cardiac Care to Rural Areas](https://www.youtube.com/watch?v=Fii9aqiUUVk)** · Huawei (channel)
   케냐의 리프트 밸리 위에 자리 잡은 텐웨크 병원은 전문 의료 분야의 강자입니다. 시골에 있는 시설이지만, 전국에서 시행되는 심장 교정 수술의 절반 이상을 담당하고 있습니다. 그리고 2024년에 대통령이 개원한 대규모 새 심흉부외과 센터를 통해 텐웨크는 매년 더 많은 생명을 구할 수 있기를 기대하고 있습니다 . 하지만 의료 서비스 제공에는 의사와 태블릿뿐만 아니라 음악 데이터와 기술도 필요합니다 . 효율적인 [음악] IT 인프라는 절대적으로 중요합니다. 병원 정보 시스템부터 영상 저장 및 전송 시스템까지.
