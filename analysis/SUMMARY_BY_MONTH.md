@@ -1,8 +1,8 @@
 # 월 × 분류(DX/AX/AT)별 수집 요약
 
-## 2026-07 (총 669건)
+## 2026-07 (총 673건)
 
-### AX (216건)
+### AX (220건)
 
 - **[AI adoption? Watch this video 10 times. (I'll feed you everything.)](https://www.youtube.com/watch?v=1f5ijgzt1-I)** · 조코딩AX파트너스-랩스 and 조코딩AX파트너스 (keyword)
   AI 전환 아직도 모르신다고요. 그렇다면 회사는 3년 안에 다른 회사에 먹힐 가능성이 굉장히 [음악] 높습니다. 이건 겁주려는 말이 아니라 실제로 벌어지고 있는 현실이에요. 안녕하세요. 데모상 개발단 라균입니다. 기업들 AI 전환 그러니까 AX를 실제로 구축해 주는 일을 하고 있습니다. 오늘 영상에서는 AX가 뭔지 그리고 기업들은 어떻게 AI를 쓰고 있는지 그 사례에 대해서 전달드리도록 할게요. 대표님들이 영상 끝까지 보시면 우리 회사에 AI를 어디서부터 써야 하는지 어떤 부분을 AI로 대체할 수 있는지 머릿속에 그림 그려 주실 거예요.
@@ -244,8 +244,20 @@
 - **[The Fall of 'Agent AI': Companies Everywhere Are Banning AI!](https://www.youtube.com/watch?v=nKFB9dic_0I)** · 피셔인베스트 (keyword)
   기업들 내부에서 벌어지고 있는 실제 AI가 어떻게 도입되고 있고 어떤 방향으로 흘러가고 있는지이 말씀을 드릴 텐데 에이전트 AI라는 말 다 들어보셨죠? 그냥 답변만 인공지능이 내주는게 아니라 사람처럼 모든 업무를 스스로 처리한다. 이게 바로 에이전트 AI입니다. 이런 화려한 홍보 문구 들어오셨을 거고 아 이거 기업들은 무조건 도입해서 사용할 수밖에 없다. 이렇게 얘기하는 이런 홍보 문구부터 시작해서 뭐 유튜버들 그런 얘기들 많이 들어 보셨죠?
 
+- **[AI-Native 기업으로 전환 전략과 사례](https://www.youtube.com/watch?v=Y-ApGj-9ceI)** · 삼성SDS AX (keyword)
+  어, 오늘 제가 발표드릴 주제는 어, AX라는 얘기들을 많이 하시는데 기업에서 그러면 AX AI 네이티브 기업으로 전환할 때 고려해야 될 사항들이 어떤 것들인가를 제가 좀 필드에서 경험한 내용들 중심으로 설명드릴 거고요. 어, 마지막에 혹시 시간이 되면 뒷부분에 어, 제가 몇 가지 기업 사례들도 좀 가져왔는데 시간 되는 대로 또 진행하도록 하겠습니다. 정차 아젠단는 어, 들어가기에 앞서서 최근에 지금 화대가 되고 있는 기술에 대해서 간략하게 설명을 드리고 어, 진행하도록 하겠습니다.
+
+- **[AI전환(AX)편  - 쉽게 보는 AI 한 컷](https://www.youtube.com/watch?v=tuOckXOKa_Y)** · 부산 상수도 데이터분석TF (keyword)
+  안녕하세요. 오늘은 상수도 시설의 AI 전환 즉 AX가 가져오는 변화에 대해 이야기해 보겠습니다. 상수도는 도시의 가장 기본적인 인프라입니다. 우리는 매일 물을 사용하지만이 물이 어떤 과정을 거쳐 공급되는지는 잘 알지 못합니다. [음악] 정수장에서는 수지를 관리하고 관로에서는 물을 안정적으로 공급하며 모든 과정은 24시간 멈추지 않고 운영됩니다. 하지만 이러한 상수도 운영은 점점 더 복잡해지고 있습니다. 수질 기준은 강화되고 시설은 노후화되며 관리해야 할 데이터는 계속 [음악] 증가하고 있습니다. 이제 기존의 방식만으로는 한 개가 있습니다.
+
 - **[Agentic AI Adoption Secrets You Need to Know Now](https://www.youtube.com/watch?v=-0V6XUskt-k)** · Kore.ai (keyword)
   고마워요, 마이클. 음, 아시다시피, 저희가 받는 혜택 중 하나는 매일 400개 회사를 살펴보면서 그들이 직면한 어려움을 파악하고 해결하려고 노력할 수 있다는 것입니다. 작년 말, 저희는 BCG와 파트너십을 맺었고, 그 덕분에 저희의 영향력과 시야, 그리고 미래가 더욱 넓어졌습니다. 그리고 여러분도 스스로에게 던지고 있는 많은 질문은 아마도 '어떻게 하면 영향력을 유지하고, 어떻게 하면 시대의 흐름에 발맞춰 나갈 수 있을까?'일 것입니다. 오늘 무대에는 제가 생각하기에 오늘날 인공지능 분야에서 가장 뛰어난 사상가 중 한 분을 모시겠습니다
+
+- **[ChatGPT Enterprise 도입전략](https://www.youtube.com/watch?v=oXxq-xeAoJQ)** · 삼성SDS AX (keyword)
+  안녕하세요. 오늘 웨비나 사회를 맡은 삼성 SDS AI 사업팀 김혜식 프로입니다. 오늘은 세치피 엔터프라이즈 도입 전략이라는 주제로 AI 시대의 새로운 업무 표준으로 자리잡고 있는 채치비T 엔터프라이즈 그리고이 채치비T 엔터프라이즈와 삼성 SDS가 함께하는 기업의 AI 혁신을 위한 실전 활용 사례를 소개해 드리겠습니다. 오늘 발표를 진행해 주실 전문가 두 분을 모셨는데요. 먼저 두 분 자기 소개 부탁드립니다. &gt;&gt; 아, 네. 안녕하세요. 저는 오픈 AI에서 전략 고객사를 담당하고 있는 어카운트 디렉터 한지은입니다. 반갑습니다.
+
+- **[기다렸다는 듯 "AI 차량·로봇…" 정의선, 기습 질문에 답변 '술술' [현장FACT]](https://www.youtube.com/watch?v=Tb5Zx8aMOKg)** · 더팩트 (keyword)
+  [음악] 그렇다면 AI가 실제 산업 현장과 물리적 공간을 어떻게 현재 바꾸고 있는지도 한번 한번 살펴보겠습니다. 현대 자동차 그룹의 정의선 회장님 말씀을 들어보도록 하겠습니다. Let me turn to you. A what ision AI for? &gt;&gt; 예, 안녕하십니까? 음, 현대학차 그룹 정의선입니다. 오늘 대통령님 모시고 그리고 AI과 거대한 기업의 회장님들 모시고 같이 말씀드릴 수 있어서 영광이고요. 근데 아무래도 저희는 최종 소비자 쪽에 가장 가까운 쪽이기 때문에 어 저희가 어떻게 여기 계신 분들 회사와 어떻게 연결이 되고 무엇을 구축하고 있는지 좀 간단히 설명을 드리겠습니다
 
 - **[AMD Advancing AI 2026 | Opening Video](https://www.youtube.com/watch?v=YgOgBju_nfs)** · AMD (channel)
   The next wave of AI is here... Evolving beyond thinking to acting. And it's bigger than anyone imagined. Except AMD. We recognize this agentic era would require the highest-performing GPUs and CPUs working together... So, we're the only ones who built both. It's how agentic AI moves from answers to action... Pushing inference compute to tremendous scale. Like an agent that frees thousands of employees from smaller tasks to focus on bigger things.

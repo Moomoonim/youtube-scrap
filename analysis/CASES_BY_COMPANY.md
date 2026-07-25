@@ -3560,6 +3560,20 @@
 | 2026-07 | AX | 자사/일반 | - | 그래서 규제와 내부 정책에 대한 수립의 필요성들이 점점점 강화되고 있고 2025년까지 A의 거버넌스 프레임워크 자체를 글로벌 기업들은 대부분 고려하거나 도입하는 부분을 생각하고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=ErviFf8I6K4) · [script](../transcripts/2026-07-18/In_the_era_of_AI_transformation_(AX),_we'll_teach_you_everyt__ErviFf8I6K4.md) |
 | 2026-07 | AX | 자사/일반 | - | 그래서 AI 전환의 실전 철학의 핵심은요. | N | [영상](https://www.youtube.com/watch?v=wdqRyiqH_OI) · [script](../transcripts/2026-07-21/The_Secret_to_Successful_AI_Transition_A_Step-by-Step_AX_Str__wdqRyiqH_OI.md) |
 
+## 삼성SDS AX (9건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | AX | 자사/일반 | - | 이렇게 위에 있는 에이전트를 만들고 등록하고 같이 쉐어하고 재활용하고 사용하는 이런 어 1년 에이전트 오수 체계가 있다면 기업 관점에서는 전체이 에이전트들을 많은 돈을 투자해서 만들고 운영을 하고 있는데 아까 앞에서 말씀드린 것처럼 ROI KPI가 정말 달성이 되고 있는지 보기 위해서는 다양한 관점에서의 거버넌스 체계가 좀 필요하게 됩니다. | Y | [영상](https://www.youtube.com/watch?v=PsfnMJwSoXs) · [script](../transcripts/2026-07-23/[AX_Summit]_2._(키노트)AI_Native_기업으로의_전환_방안과_사례(AX센터_AI사업팀장_신계__PsfnMJwSoXs.md) |
+| 2026-07 | AX | 자사/일반 | - | 어, 오늘 제가 발표드릴 주제는 어, AX라는 얘기들을 많이 하시는데 기업에서 그러면 AX AI 네이티브 기업으로 전환할 때 고려해야 될 사항들이 어떤 것들인가를 제가 좀 필드에서 경험한 내용들 중심으로 설명드릴 거고요. | N | [영상](https://www.youtube.com/watch?v=Y-ApGj-9ceI) · [script](../transcripts/2026-07-26/AI-Native_기업으로_전환_전략과_사례__Y-ApGj-9ceI.md) |
+| 2026-07 | AX | 자사/일반 | - | 오늘은 세치피 엔터프라이즈 도입 전략이라는 주제로 AI 시대의 새로운 업무 표준으로 자리잡고 있는 채치비T 엔터프라이즈 그리고이 채치비T 엔터프라이즈와 삼성 SDS가 함께하는 기업의 AI 혁신을 위한 실전 활용 사례를 소개해 드리겠습니다. | N | [영상](https://www.youtube.com/watch?v=oXxq-xeAoJQ) · [script](../transcripts/2026-07-26/ChatGPT_Enterprise_도입전략__oXxq-xeAoJQ.md) |
+| 2026-07 | AX | 자사/일반 | - | 우리는 금융 회사지만 우리는 앞으로 AX 회사다라고 선언을 어 대표님께서 선언을 하시면서 1년 동안 5대 업무를 선정을 하고 5대 업무에이 27개 핵심 업무에 175개 이상의 에이전트를 만들겠다라고 디자인을 하셨고 어 올해부터는 저희 STS와 함께 해당 에이전트들을 고객 관리 기업 여신에서부터 자산 관리 업무자동화까지이 전반적인 전체의 업무 프로세스들을 에이전트 기반으로 바꾸는 작업 여전 여정을 어 저희 SS와 진행을 하고 계십니다. | Y | [영상](https://www.youtube.com/watch?v=PsfnMJwSoXs) · [script](../transcripts/2026-07-23/[AX_Summit]_2._(키노트)AI_Native_기업으로의_전환_방안과_사례(AX센터_AI사업팀장_신계__PsfnMJwSoXs.md) |
+| 2026-07 | AX | 자사/일반 | - | 자 그럼 이제 본격적으로 AI 네이티브 기업으로 전환한다는 거에 대해서 좀 설명을 드릴 텐데요. | N | [영상](https://www.youtube.com/watch?v=Y-ApGj-9ceI) · [script](../transcripts/2026-07-26/AI-Native_기업으로_전환_전략과_사례__Y-ApGj-9ceI.md) |
+| 2026-07 | AX | 자사/일반 | - | 삼성 SDS에서 AI 사업 개발을 담당하고 있는 조규어 프로입니다. | N | [영상](https://www.youtube.com/watch?v=oXxq-xeAoJQ) · [script](../transcripts/2026-07-26/ChatGPT_Enterprise_도입전략__oXxq-xeAoJQ.md) |
+| 2026-07 | AX | 자사/일반 | - | 어, 오늘 제가 주제로 발표드릴 부분은 AI 네이티브 기업의 전환이라는 주제입니다. | N | [영상](https://www.youtube.com/watch?v=PsfnMJwSoXs) · [script](../transcripts/2026-07-23/[AX_Summit]_2._(키노트)AI_Native_기업으로의_전환_방안과_사례(AX센터_AI사업팀장_신계__PsfnMJwSoXs.md) |
+| 2026-07 | AX | 자사/일반 | - | 어, AI를 단순한 도구가 아니라 AI가 실제로 업무의 핵심적인 수단으로서 어, 같이 재설계 되는 것이 이제 저희는 AX 또는 AI 네이비티 전환 저희는 정의를 하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=Y-ApGj-9ceI) · [script](../transcripts/2026-07-26/AI-Native_기업으로_전환_전략과_사례__Y-ApGj-9ceI.md) |
+| 2026-07 | AX | 자사/일반 | - | 세상이 정말 빠르게 바뀌고 있는데 AI 도입 속도는 전 세계적으로 그 어느 때 제품이나 서비스 기술보다도 빠르게 진행이 되고 있습니다. | N | [영상](https://www.youtube.com/watch?v=oXxq-xeAoJQ) · [script](../transcripts/2026-07-26/ChatGPT_Enterprise_도입전략__oXxq-xeAoJQ.md) |
+
 ## L'Oréal (8건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -4101,14 +4115,6 @@
 | 2026-07 | AX | 자사/일반 | - | 많은 기업들이 AI 전환을 시도 하지만, 이를 조직 내부에 제대로 정착시키는 데 어려움을 겪습니다 . | N | [영상](https://www.youtube.com/watch?v=gbP_TrZnPTs) · [script](../transcripts/2026-07-23/Why_SMB_Companies_Fail_at_AI_Transformation_and_How_to_Avoid__gbP_TrZnPTs.md) |
 | 2026-07 | AX | 자사/일반 | - | 데이터는 도처에 흩어져 있고, 저렴하고 빠른 자동화라는 환상 때문에 AI 예산이 완전히 확보되지 못하고 있습니다. | N | [영상](https://www.youtube.com/watch?v=gbP_TrZnPTs) · [script](../transcripts/2026-07-23/Why_SMB_Companies_Fail_at_AI_Transformation_and_How_to_Avoid__gbP_TrZnPTs.md) |
 
-## 삼성SDS AX (3건)
-
-| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
-|---|---|---|---|---|---|---|
-| 2026-07 | AX | 자사/일반 | - | 이렇게 위에 있는 에이전트를 만들고 등록하고 같이 쉐어하고 재활용하고 사용하는 이런 어 1년 에이전트 오수 체계가 있다면 기업 관점에서는 전체이 에이전트들을 많은 돈을 투자해서 만들고 운영을 하고 있는데 아까 앞에서 말씀드린 것처럼 ROI KPI가 정말 달성이 되고 있는지 보기 위해서는 다양한 관점에서의 거버넌스 체계가 좀 필요하게 됩니다. | Y | [영상](https://www.youtube.com/watch?v=PsfnMJwSoXs) · [script](../transcripts/2026-07-23/[AX_Summit]_2._(키노트)AI_Native_기업으로의_전환_방안과_사례(AX센터_AI사업팀장_신계__PsfnMJwSoXs.md) |
-| 2026-07 | AX | 자사/일반 | - | 우리는 금융 회사지만 우리는 앞으로 AX 회사다라고 선언을 어 대표님께서 선언을 하시면서 1년 동안 5대 업무를 선정을 하고 5대 업무에이 27개 핵심 업무에 175개 이상의 에이전트를 만들겠다라고 디자인을 하셨고 어 올해부터는 저희 STS와 함께 해당 에이전트들을 고객 관리 기업 여신에서부터 자산 관리 업무자동화까지이 전반적인 전체의 업무 프로세스들을 에이전트 기반으로 바꾸는 작업 여전 여정을 어 저희 SS와 진행을 하고 계십니다. | Y | [영상](https://www.youtube.com/watch?v=PsfnMJwSoXs) · [script](../transcripts/2026-07-23/[AX_Summit]_2._(키노트)AI_Native_기업으로의_전환_방안과_사례(AX센터_AI사업팀장_신계__PsfnMJwSoXs.md) |
-| 2026-07 | AX | 자사/일반 | - | 어, 오늘 제가 주제로 발표드릴 부분은 AI 네이티브 기업의 전환이라는 주제입니다. | N | [영상](https://www.youtube.com/watch?v=PsfnMJwSoXs) · [script](../transcripts/2026-07-23/[AX_Summit]_2._(키노트)AI_Native_기업으로의_전환_방안과_사례(AX센터_AI사업팀장_신계__PsfnMJwSoXs.md) |
-
 ## AI 겸임교수 이종범 (3건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -4189,6 +4195,14 @@
 | 2026-07 | AX | 자사/일반 | - | 클라우드 도입을 통해 교훈을 얻으려는 기업들이 앞으로 5년, 10년을 내다보며 소수의 AI 기업에 핵심 사업 운영을 전적으로 의존하게 되는 상황을 우려한다면, 어떤 조언을 하시겠습니까? | Y | [영상](https://www.youtube.com/watch?v=-0V6XUskt-k) · [script](../transcripts/2026-07-26/Agentic_AI_Adoption_Secrets_You_Need_to_Know_Now__-0V6XUskt-k.md) |
 | 2026-07 | AX | 자사/일반 | - | [코웃음] 낮은 수치는 7~12% 정도입니다. | Y | [영상](https://www.youtube.com/watch?v=-0V6XUskt-k) · [script](../transcripts/2026-07-26/Agentic_AI_Adoption_Secrets_You_Need_to_Know_Now__-0V6XUskt-k.md) |
 
+## 더팩트 (3건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | AX | 협력/고객사 언급 | 엔비디아 | 먼저 엔비디아와는 어 포 포 포괄적 파트너십을 통해서 2024년부터 어 AI 인프라 제조 어 제조 디지털 트윈, 자율주행 등 협 협력 범위를 지속 확대해 오고 있습니다. | Y | [영상](https://www.youtube.com/watch?v=Tb5Zx8aMOKg) · [script](../transcripts/2026-07-26/기다렸다는_듯_AI_차량·로봇…_정의선,_기습_질문에_답변_'술술'_[현장FACT]__Tb5Zx8aMOKg.md) |
+| 2026-07 | AX | 협력/고객사 언급 | 현대 | 현대장 그룹이 전통적인 자동차 제조를 해 왔었고 지금은 현재 자율주행 로보틱스 AI 팩토리 등의 피지ical AI 솔루션 기업으로 전환을 추진 중입니다. | N | [영상](https://www.youtube.com/watch?v=Tb5Zx8aMOKg) · [script](../transcripts/2026-07-26/기다렸다는_듯_AI_차량·로봇…_정의선,_기습_질문에_답변_'술술'_[현장FACT]__Tb5Zx8aMOKg.md) |
+| 2026-07 | AX | 협력/고객사 언급 | 현대 | 현대차 그룹이 추구하는 피지컬 A에는 자동차 그리고 로봇과 같은 어 개별 디바이스를 진능화를 시작으로 해서 AI 팩토리 같은 특정 공간의 진흥화를 거쳐서 궁극적으로 전체 도시 인프라가 유기적으로 연결 운영되는 도시 레벨의 통합 진흥화를 실현하는 것입니다. | N | [영상](https://www.youtube.com/watch?v=Tb5Zx8aMOKg) · [script](../transcripts/2026-07-26/기다렸다는_듯_AI_차량·로봇…_정의선,_기습_질문에_답변_'술술'_[현장FACT]__Tb5Zx8aMOKg.md) |
+
 ## Amazon (3건)
 
 | 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
@@ -4261,6 +4275,13 @@
 |---|---|---|---|---|---|---|
 | 2026-07 | unclassified | 자사/일반 | - | 그런데 진짜 놀라운 건이 숫자 자체가 아니라 딱 1년 전과 비교했을 때의 증가율입니다. | Y | [영상](https://www.youtube.com/watch?v=jUNIeQTGqMM) · [script](../transcripts/2026-07-25/스마트폰_다음은_AI_안경_삼성이_메타에_정면승부_건_진짜_이유__jUNIeQTGqMM.md) |
 | 2026-07 | unclassified | 협력/고객사 언급 | 삼성 | 이미 85%를 차지한 메타를 상대로 뒤늦게 뛰어든 삼성이 대체 무슨 수로 이기겠다는 걸까요? | Y | [영상](https://www.youtube.com/watch?v=jUNIeQTGqMM) · [script](../transcripts/2026-07-25/스마트폰_다음은_AI_안경_삼성이_메타에_정면승부_건_진짜_이유__jUNIeQTGqMM.md) |
+
+## 부산 상수도 데이터분석TF (2건)
+
+| 날짜 | 분류 | 유형 | 언급 기업 | 사례 주장 (스크립트 발췌) | 수치 | 근거 |
+|---|---|---|---|---|---|---|
+| 2026-07 | AX | 자사/일반 | - | 오늘은 상수도 시설의 AI 전환 즉 AX가 가져오는 변화에 대해 이야기해 보겠습니다. | N | [영상](https://www.youtube.com/watch?v=tuOckXOKa_Y) · [script](../transcripts/2026-07-26/AI전환(AX)편_-_쉽게_보는_AI_한_컷__tuOckXOKa_Y.md) |
+| 2026-07 | AX | 자사/일반 | - | 그래서 등장한 것이 바로 AI 전환 AX입니다. | N | [영상](https://www.youtube.com/watch?v=tuOckXOKa_Y) · [script](../transcripts/2026-07-26/AI전환(AX)편_-_쉽게_보는_AI_한_컷__tuOckXOKa_Y.md) |
 
 ## Philips (2건)
 
