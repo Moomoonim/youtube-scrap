@@ -1,8 +1,8 @@
 # 월 × 분류(DX/AX/AT)별 수집 요약
 
-## 2026-07 (총 589건)
+## 2026-07 (총 592건)
 
-### AX (193건)
+### AX (195건)
 
 - **[AI adoption? Watch this video 10 times. (I'll feed you everything.)](https://www.youtube.com/watch?v=1f5ijgzt1-I)** · 조코딩AX파트너스-랩스 and 조코딩AX파트너스 (keyword)
   AI 전환 아직도 모르신다고요. 그렇다면 회사는 3년 안에 다른 회사에 먹힐 가능성이 굉장히 [음악] 높습니다. 이건 겁주려는 말이 아니라 실제로 벌어지고 있는 현실이에요. 안녕하세요. 데모상 개발단 라균입니다. 기업들 AI 전환 그러니까 AX를 실제로 구축해 주는 일을 하고 있습니다. 오늘 영상에서는 AX가 뭔지 그리고 기업들은 어떻게 AI를 쓰고 있는지 그 사례에 대해서 전달드리도록 할게요. 대표님들이 영상 끝까지 보시면 우리 회사에 AI를 어디서부터 써야 하는지 어떤 부분을 AI로 대체할 수 있는지 머릿속에 그림 그려 주실 거예요.
@@ -225,6 +225,12 @@
 
 - **[AI Essentials Explained by an AI Major | [AI 101] - Lecture 1](https://www.youtube.com/watch?v=OIY2tWT3HHI)** · 허성범 Horang (keyword)
   제가 보기에 지금 대한민국은 대위기 상황입니다 하... 앞으로 살아가는데 이런 것까지 모르면 좀 곤란한데? 비전을 제시하는 수뇌부가 없다는 생각을 우리나라는 되게 후발주자로 살아야 할 수도 있어요 (대위기 상황입니다) 네, 안녕하세요 이번 학기부터 AI학개론 강의를 담당하게 된 교수 허성범이라고 합니다 반갑습니다 제 수업은 비전공자든 누구든 쉽게 이해할 수 있도록 AI에 진짜 필요한 지식들만 담아서 한번 얘기를 해보려고 합니다 그럼 1주차 첫 번째 강의 AI 이것만 알아도 반응 간다 바로 시작해보도록 하겠습니다
+
+- **[SME AI Transformation: Where to Start? | 3 Key 2026 AX Strategies](https://www.youtube.com/watch?v=76tr6w1s72M)** · AI 전환공식 김건우 (keyword)
+  AI는 중소 기업에게는 유니콘이 아니라 전략 전차산이다라는 말을 하고 있습니다. 소기업, 중기업, 대기업의 AI를 활용하는 비율들이 점점점 대기업으로 갈수록 더 많이 늘어나고 있는데요. 중소 기업의 AI 전환 반드시 알아야 될 세 가지를 한번 키워드로 정리해 봤는데요. 중소 기업이 결국에는 생성 AI를 많이 활용하는 지연무에서는요. 마케팅 영업 그리고 IT, 경영 관리, 고객 서비스. 아마 영상을 보시면서 굉장히 공감하시는 부분도 있고 어 우리는 조금 다른데라고 할 수 있는데 여기서 포인트는요. 안녕하십니까? 김건루입니다.
+
+- **[The Fall of 'Agent AI': Companies Everywhere Are Banning AI!](https://www.youtube.com/watch?v=nKFB9dic_0I)** · 피셔인베스트 (keyword)
+  기업들 내부에서 벌어지고 있는 실제 AI가 어떻게 도입되고 있고 어떤 방향으로 흘러가고 있는지이 말씀을 드릴 텐데 에이전트 AI라는 말 다 들어보셨죠? 그냥 답변만 인공지능이 내주는게 아니라 사람처럼 모든 업무를 스스로 처리한다. 이게 바로 에이전트 AI입니다. 이런 화려한 홍보 문구 들어오셨을 거고 아 이거 기업들은 무조건 도입해서 사용할 수밖에 없다. 이렇게 얘기하는 이런 홍보 문구부터 시작해서 뭐 유튜버들 그런 얘기들 많이 들어 보셨죠?
 
 - **[AMD Advancing AI 2026 | Opening Video](https://www.youtube.com/watch?v=YgOgBju_nfs)** · AMD (channel)
   The next wave of AI is here... Evolving beyond thinking to acting. And it's bigger than anyone imagined. Except AMD. We recognize this agentic era would require the highest-performing GPUs and CPUs working together... So, we're the only ones who built both. It's how agentic AI moves from answers to action... Pushing inference compute to tremendous scale. Like an agent that frees thousands of employees from smaller tasks to focus on bigger things.
@@ -662,7 +668,7 @@
 - **[Agentic AI Frameworks Explained: Workflows, Multi-Agent, & Production](https://www.youtube.com/watch?v=ZVPlLaehjLk)** · IBM Technology (channel)
   안녕. 제 생각엔 당신 주변 세상은 에이전트형 AI 시스템과 그 엄청난 잠재력으로 떠들썩할 것 같네요. 그래서 당신은 에이전트형 AI 시스템을 구축하기로 결정합니다. 최고의 프레임워크를 찾다 보니 어느새 GitHub 탭이 17개나 열려 있고, Medium 블로그도 5개나 북마크되어 있는데, 정작 어떻게 진행해야 할지는 전혀 모르겠다. 네, 우리 모두 그런 경험이 있죠. LangChain, LangGraph, Crew AI, AutoGen, Semantic Kernel 등 강력한 프레임워크가 정말 많습니다. 그렇다면, 당신은 어느 쪽을 선택하시겠습니까?
 
-### unclassified (371건)
+### unclassified (372건)
 
 - **[(Quick Overview) Korea's Real Engine of the AI Revolution: M.AX](https://www.youtube.com/watch?v=EDHZlKgvwm4)** · KOTRA TV (keyword)
   [music] 2025. [music] The world is different. Supply chains are fragmenting, [music] getting only deeper. The climate and energy risks are rising, getting only sharper. The race for AI leadership and sovereignty is accelerating, [music] getting only faster. What is Korea's choice, and where must we focus? Let me introduce Korea's gamechanging initiative, [music] Max. Max is manufacturing AI transformation. It's about [music] scaling advanced manufacturing with AI.
@@ -717,6 +723,9 @@
 
 - **[(긴급) 머스크 2030년 AI 경고 [한글자막 인터뷰]](https://www.youtube.com/watch?v=Dojb83Bu6fs)** · 미래남자 (keyword)
   저는 인공지능이 약 5년 안에 인류 전체 지능의 총합을 넘어설 수 있을 거라고 생각합니다 . 5년 후, 대략 5년 정도 걸릴 거라고 예상합니다. 음, 그러니까 인공지능이 인간보다 더 잘할 수 없는 일은 거의 없을 거예요. 다만 좀 더 일상적인 면에서 인간과 똑같다는 점 정도만 다를 뿐이죠. 삶은 어떤 모습일까요 ? 가장 가능성이 높은 결과는 누구나 생각하는 모든 것을 가질 수 있는 엄청난 풍요의 시대가 도래하는 것입니다 .
+
+- **[AI 전환(AX)이 지속 가능한 에너지 혁신 해법 #SKAX #AI전환 #AX #제조업](https://www.youtube.com/watch?v=gN1hZXut2JM)** · SK AX (keyword)
+  제조 산업은 지금 에너지 위기에 직면해 있습니다. 원자재 가격 급등, 에너지 비용 상승, 그리고 탄속 감축 압력. 이제 에너지는 비용을 넘어 생산 경쟁력의 핵심 변수가 되었습니다. 많은 기업들이 설비 교체나 단순 절감 활동을 시도했지만 높은 초기 투자 비용과 물리적 한계 때문에 근본적인 해결은 어려웠습니다. 지금 제조업에는 새로운 접근이 필요합니다. 해법은 AX입니다. AI가 공정과 설비에 방대한 에너지 데이터를 실시간으로 분석해 스스로 최적의 운영 방식을 찾아 적용합니다. 비효율을 줄이고 생산성과 효율성은 동시에 높입니다
 
 - **[AMD AI PCs, Ready When You Are](https://www.youtube.com/watch?v=y6wd2Hp4k40)** · AMD (channel)
   When you're always moving, being prepared matters more than being fast. With an AMD AI PC, your insights, data, and talking points are right on device. So when the conversation starts, you're prepared with the best story.
@@ -1777,9 +1786,9 @@
 - **[Add the Zapier Claude Connector](https://www.youtube.com/watch?v=TlrwiOHL3Mk)** · Zapier (channel)
   In this video, you'll learn how to connect Zapier to Claude using Claude connectors step-by-step. Claude connectors allow your AI to interact with your apps. For example, you can look at your calendar events for the next week. Now with Zapier MCP connected, you can do three times as much across 9,000 different apps. For instance, with Zapier, you can then ask Claude to add someone else to an existing event and move it to a different time.
 
-## 2026-06 (총 642건)
+## 2026-06 (총 650건)
 
-### AX (191건)
+### AX (196건)
 
 - **[AI and Trust at Scale: S3 E3](https://www.youtube.com/watch?v=WOXtvwYq-7o)** · AMD (channel)
   Welcome to Advanced Insight, where we provide just what the show name suggests, advanced insights in some of the most exciting trends and topics in technology. In this episode, I'm joined by Kathy Pham, computer scientist and a force in responsible product leadership. She is currently faculty and senior fellow for responsible AI at Harvard.
@@ -1817,8 +1826,17 @@
 - **[WWDC26: Build agentic app experiences with the Foundation Models framework | Apple](https://www.youtube.com/watch?v=nxW29TKIL0w)** · Apple Developer (channel)
   안녕하세요, 여러분 함께해 주셔서 감사합니다 저는 Erik입니다 저는 Oliver예요 오늘은 완전히 새로운 가능성을 열어주는 새 API 세트를 살펴봅니다 여러분 앱을 위한 Dynamic profiles입니다 코드로 넘어가기 전에 먼저 기반을 다져볼게요 이 API가 해결하는 문제와 설계 철학을 살펴봅니다 이 API가 해결하는 첫 번째 과제는 컨텍스트 관리입니다 긴 세션에서 dynamic profiles를 사용하면 트랜스크립트를 정리하거나 요약해서 모델의 컨텍스트 윈도우 내에 유지할 수 있습니다 이 API가 해결하는 두 번째 문제는 경계 설정입니다
 
+- **[WWDC26: Build real-time neural rendering pipelines with Metal | Apple](https://www.youtube.com/watch?v=Yblpgbe9B9U)** · Apple Developer (channel)
+  안녕하세요, 저는 Yulia입니다 Apple의 GPU 소프트웨어 엔지니어예요 오늘은 머신 러닝을 실시간 렌더링에 Metal 4로 통합하는 방법을 소개해 드릴게요 머신 러닝을 렌더러에 통합하는 실용적인 방법을 배울 수 있어요 고성능 파이프라인 구축을 위한 모범 사례 오늘부터 바로 적용할 수 있는 두 가지 기법도 알아볼게요 머신 러닝은 연구 단계를 벗어나 실시간 렌더링 프로덕션에 진입했어요 렌더링 파이프라인 전반에 걸쳐 기존에 분석적 방법에 의존하던 다양한 검증된 기법들이 머신 러닝으로도 구현될 수 있어요 뉴럴 디노이징, 뉴럴 …
+
+- **[WWDC26: Create UI prototypes using agents in Xcode | Apple](https://www.youtube.com/watch?v=QleOvMW9vTU)** · Apple Developer (channel)
+  안녕하세요, 저는 Sam이고 Apple 디자인 팀의 프로토타이퍼입니다 생태계 전반에서 사람들이 사랑하는 상호작용과 즐거운 순간들은 반복, 시행착오, 세밀한 튜닝의 결과물입니다 앱 제작이 그 어느 때보다 쉬워진 지금 의도를 담은 디자인이 차별화의 핵심입니다 바로 여기서 프로토타이핑이 등장합니다 프로토타이핑은 다양한 디자인 아이디어를 빠르게 시험하는 과정이며, 그 어느 때보다 중요합니다 오늘은 Xcode의 새 도구를 활용해 앱 개발 초기 디자인 과제를 해결하는 방법을 알려드리겠습니다 미완성된 초기 생성 인터페이스에서 의도적이고 독창적인 디자인으로 나아가는 방법입니다
+
 - **[WWDC26: Create high-quality images using Image Playground | Apple](https://www.youtube.com/watch?v=skch01qhxDw)** · Apple Developer (channel)
   안녕하세요, 저는 Antonio입니다 Image Playground 팀의 엔지니어예요 오늘은 앱에 Image Playground를 추가하는 방법을 알려드리겠습니다 사람들은 Messages의 Image Playground로 이미지를 만들고 있고 Freeform과 여러분의 앱에서도 활용하고 있습니다 다양한 장면을 조합하고 여러 스타일을 시도해 보며 개성 있는 이미지를 만들어 왔습니다 강력한 이미지 모델을 핵심으로 경험을 새롭게 재구상했습니다 이제 획기적인 도약이 이루어집니다 사실상 어떤 스타일로든 고품질 이미지를 만들 수 있고 사진처럼 사실적인 이미지까지 실제처럼 보이게 됐습니다
+
+- **[WWDC26: Create robust evaluations for agentic apps | Apple](https://www.youtube.com/watch?v=YPJd4AV8Om0)** · Apple Developer (channel)
+  안녕하세요, 저는 Ada입니다! 저는 Kyle입니다! 저희는 Evaluations 팀 소속 엔지니어입니다! 오늘은 여러분께 Evaluations 프레임워크의 고급 기능을 안내해 드리게 되어 기쁩니다! Evaluations 프레임워크는 Swift 앱에서 인텔리전스 기반 기능을 평가하는 방법을 제공합니다 시간 경과에 따른 개선을 추적하고 프로덕션 품질을 보장합니다 이 프레임워크는 Xcode 27의 새로운 기능으로 macOS, iOS, watchOS, visionOS를 지원합니다 아직 확인하지 않으셨다면 "Meet the Evaluations framework" 영상을 통해 Evaluations 프레임워크의 기본 구성 요소를 학습하세요 또한 "Improve your prompts by hill climbing with Evaluations" 영상을 통해 인텔리전스 기능 개선을 위한 다양한 전략을 살펴보세요 이 영상에서는 평가의 복잡성과 확장성을 어떻게 해결하는지 알아봅니다 먼저 평가 데이터셋을 확장하는 방법을 살펴보겠습니다
 
 - **[WWDC26: Explore numerical computing in Swift with MLX | Apple](https://www.youtube.com/watch?v=KCL8f9ztKFk)** · Apple Developer (channel)
   안녕하세요! 저는 David Koski이고 MLX Swift를 개발하고 있어요 수치 컴퓨팅은 수치 해석이라고도 하며 과학적 컴퓨팅이라고도 해요 수학적 문제를 해결하기 위한 기법과 알고리즘의 집합이에요 이런 문제들은 대부분 비현실적인 경우가 많아요 기호로나 손으로는 풀기 어려운 문제들이에요 방대한 양의 연산이 필요해요 응용 분야로는 화학 시뮬레이션이 있고 생물학, 물리학, 금융 시스템도 포함돼요 오디오와 신호 처리 같은 다른 분야에도 활용돼요 시각적 응용 분야에는 렌더링, 레이 트레이싱, 프랙탈이 있어요 대규모 경사 하강법으로 임의의 곡선 피팅을 할 …
@@ -1832,6 +1850,9 @@
 - **[WWDC26: LLM search using Core Spotlight | Apple](https://www.youtube.com/watch?v=sij24ohbRSg)** · Apple Developer (channel)
   안녕하세요, 저는 Jennifer입니다. Spotlight 엔지니어링 팀 소속입니다. 올해, 저희는 검색을 완전히 새로운 수준으로 끌어올리려 합니다. Foundation Models와 Core Spotlight를 통해서요. 앱 내에서 풍부하고 대화형 경험을 구축할 수 있습니다. 앱 콘텐츠를 제공하는 것만으로 대규모 언어 모델이 추론하고 응답을 생성하는 데 활용할 수 있습니다. 저는 캘리포니아 출신인데, 이 지역에는 정말 아름다운 하이킹 코스가 많습니다. 저는 멋진 트레일들을 천천히 하나씩 걷고 있는 중입니다. 그래서 이를 도와줄 앱을 만들어보기로 했습니다.
 
+- **[WWDC26: Meet Core AI | Apple](https://www.youtube.com/watch?v=XJFfCVW1UZ0)** · Apple Developer (channel)
+  안녕하세요, 저는 Ben이고 Core AI 팀 엔지니어입니다 오늘은 Core AI를 소개해 드리겠습니다 그리고 여러분의 앱에 지능형 기능을 추가하는 방법을 보여드릴게요 AI는 그 어느 때보다 빠르게 발전하고 있습니다 이전에는 달성하기 어려웠던 새로운 모델과 기능들이 끊임없이 등장하고 있습니다 Core AI는 그 흐름을 활용하고 그 위에서 개발할 수 있도록 구축되었습니다 Core AI는 기기 내 AI 실행의 다음 단계를 제시하며 Apple 플랫폼 전반에서 활용됩니다 최신 워크로드를 위해 처음부터 새롭게 구축되었으며 여러분에게 필요한 고성능 추론 기능을 제공하여 고급 AI 기능을 구현할 수 있게 해줍니다 Core AI는 기기 내 Apple Intelligence를 구동하는 추론 프레임워크입니다
+
 - **[WWDC26: Meet the Evaluations framework | Apple](https://www.youtube.com/watch?v=sexp6TEkoWU)** · Apple Developer (channel)
   사와디 카. 저는 야라예요. 저는 롭입니다. 평가 프레임워크를 소개하게 되어 기쁩니다. 지능형 기능의 품질을 측정하는 새로운 프레임워크입니다. 따라서 안심하고 앱을 배포할 수 있습니다 . 작년에 저희는 기기 내 모델을 사용하여 앱에 지능형 기능을 추가할 수 있도록 지원하는 파운데이션 모델 프레임워크를 도입했습니다 . 애플 인텔리전스에 사용되는 것과 동일한 모델입니다 . 생성형 AI를 사용하여 앱 기능을 구축하는 것은 동일한 입력이 다양한 출력을 생성할 수 있기 때문에 새로운 테스트 문제를 야기합니다 .
 
@@ -1843,6 +1864,9 @@
 
 - **[WWDC26: Run local agentic AI on the Mac using MLX | Apple](https://www.youtube.com/watch?v=wykPErJ8M-8)** · Apple Developer (channel)
   안녕하세요, 저는 MLX 팀의 엔지니어 Angelos입니다 오늘은 MLX를 활용해 Mac에서 에이전트형 AI 워크플로를 구축하고 실행하는 방법을 소개하겠습니다. 클라우드도, API 키도 필요 없이 하드웨어만으로 모든 작업이 처리됩니다 지난 한 해 동안 AI 에이전트는 연구 프로토타입에서 일상적인 생산성 도구로 발전했습니다 에이전트에 대해 이야기하기 전에 이전에는 어떤 방식이었는지 살펴보겠습니다 여러분에게 익숙한 채팅 경험입니다 언어 모델에 프롬프트를 보내면 모델이 응답을 돌려보냅니다 그 응답을 바탕으로 명령을 실행하거나 파일을 확인하거나 오류를 수정하는 건 여러분의 몫이었습니다
+
+- **[WWDC26: What’s new in the Foundation Models framework | Apple](https://www.youtube.com/watch?v=Xrv8m_EHCbg)** · Apple Developer (channel)
+  안녕하세요, 환영합니다! 저는 Erik입니다! 저는 Zhen입니다! 지난해 저희는 Foundation Models 프레임워크를 소개했습니다 guided generation, snapshot streaming 같은 기능과 강력한 tool 프로토콜을 갖추고 있었죠 여러분의 뜨거운 반응에 Foundation Models 프레임워크 첫 해에 정말 놀랐습니다 올해 준비한 내용은 더욱 마음에 드실 거라 생각합니다! 올해 프레임워크의 모든 새로운 내용을 함께 살펴보겠습니다 이번 릴리스는 정말 알차게 구성되어 있습니다! 2027 릴리스는 OS 내외의 통합, 다양한 모델, 에이전틱 경험 구축을 위한 새로운 기본 요소에 초점을 맞췄습니다
 
 - **[Arm COO Will Abbey on AI chips, power efficiency, and why Arm is building silicon](https://www.youtube.com/watch?v=a34XmrudBjE)** · Arm (channel)
   시원한. 만나서 반가워요. 안녕 나키, 만나서 반가워. 자, 바로 본론으로 들어가서, 지난 몇 달은 Arm에게 정말 중요한 시기였습니다. Arm은 자체 컴퓨터 칩을 제작하고 설계자일 뿐만 아니라 제조업체로서 시장에 진출하는 엄청난 변화를 이루었습니다. 그리고 저는 왜 지금 그런 일이 일어나는지 알고 싶었습니다. 왜 지금이 적절한 시기일까요? 왜 지금 이 시점에 이직을 결정하셨나요? 헤이 나키, 정말 정말 좋은 질문이네요. 음, 솔직히 저는 많은 사람들이 Arm이 누구인지 잘 모른다는 사실에 조금 놀랄 때가 있어요.
@@ -2409,7 +2433,7 @@
 - **[OSS/BSS connected partner video- IQGeo](https://www.youtube.com/watch?v=CqGBxknoTNQ)** · Nokia (channel)
   제 이름은 조지 휴즈입니다. 저는 IFGO의 가치 컨설팅 책임자이며, 저희 회사는 고객이 자율 운영 분야에서 발전할 수 있도록 지원하는 다양한 제품을 제공합니다 . 저희는 광섬유 및 동축 케이블용 자동 설계 제품을 제공하며, 구리 케이블 관련 서비스도 제공합니다. 주로 광섬유에 중점을 두고 있습니다. 저희가 하는 일은 단순히 건물을 설계하는 것뿐만 아니라, 실제 광섬유 네트워크를 운영하고 현대화하는 것까지 포함합니다. 저희가 하는 일 중 하나는 시스템에 AI를 접목시켜 처음부터 제대로 작동하도록 하는 것입니다.
 
-### unclassified (434건)
+### unclassified (437건)
 
 - **[AMD PRO: The Platform IT Leaders Choose](https://www.youtube.com/watch?v=eg854UmIUuQ)** · AMD (channel)
   AMD PRO is the platform IT leaders choose for AI-ready performance, multi-layered protection, and seamless workflow integration. The enterprise no longer lives in one place. Modern business happens everywhere. And IT leaders need technology that keeps people productive, connected, and secure. AI is reshaping how work gets done. From everyday productivity to advanced business workflows, data sensitivity is paramount. And security must begin at the silicon before extending through the OS to face threats at every layer.
@@ -2552,6 +2576,9 @@
 - **[Dub Dub Daily: Day 5 | WWDC26](https://www.youtube.com/watch?v=0FTsR2abIYE)** · Apple Developer (channel)
   이게 다입니다. [음악] WWDC 26의 마지막 날, 덥덥 데일리에 오신 것을 환영합니다. 정말 정신없는 한 주였네요. 오늘 오전에 그룹 실험 수업이 두 개 더 있는데, 아주 재밌는 수업들이에요. 다시 한번 말씀드리지만, 모든 [음악] 그룹 랩 영상은 언제든지 다시 보실 수 있도록 제공될 예정입니다 . [음악] 하지만 마무리하기 전에, 여러분이 꼭 들어야 할 이야기가 하나 더 있습니다. 스위프트는 이번 주 내내 중요한 주제였고, 홀리 보를 라(음악)는 이번 주를 마무리하기에 딱 맞는 인물입니다
 
+- **[WWDC26: Best practices for integrating visual intelligence in your app | Apple](https://www.youtube.com/watch?v=ZBmjBdNYtaM)** · Apple Developer (channel)
+  안녕하세요, 저는 David입니다. System Experience 팀의 ML 엔지니어입니다. Visual Intelligence로 무언가를 함께 만들어 봅시다. 이 세션에서는 단계별로 안내해 드리겠습니다. 여러분의 앱을 Visual Intelligence와 통합하는 방법과 함께 몇 가지 모범 사례를 소개해 드리겠습니다. Visual Intelligence가 도입된 이후, 많은 사람들이 이를 활용해 왔습니다. 주변에 있는 것들에 대해 빠르게 더 많은 정보를 얻기 위해 실제 주변 환경이든 iPhone 화면이든 관계없이요. 올해는 연락처에 추가하는 기능 등 새로운 기능들을 추가합니다.
+
 - **[WWDC26: Bringing Cyberpunk 2077 to Mac | Apple](https://www.youtube.com/watch?v=XN_ZkjNNgvk)** · Apple Developer (channel)
   안녕하세요, 환영합니다 저는 Garrett Austin입니다 저는 Apple 게임 퍼포먼스 팀의 엔지니어입니다 오늘은 특별 게스트와 함께합니다 Paweł Sasko, CD PROJEKT RED 부 게임 디렉터입니다 Paweł는 Cyberpunk 2077: Ultimate Edition을 소개해 주실 예정입니다 Mac에서 이룬 놀라운 성과입니다 독특한 플랫폼 기능을 활용하여 다양한 Mac 기기에서 뛰어난 성능을 제공합니다 이제 Paweł께서 Mac에서의 구현 과정을 소개해 주실 것입니다 그리고 어떻게 두드러지게 만들었는지도 알려주실 겁니다 Paweł? 고마워, 내 친구! 여러분과 더 많은 이야기를 나눠드리겠습니다
 
@@ -2561,11 +2588,17 @@
 - **[WWDC26: Build a responsive camera app that launches quickly | Apple](https://www.youtube.com/watch?v=nXUsStRc7Tc)** · Apple Developer (channel)
   안녕하세요, 저는 Jake입니다. 저는 카메라 성능 팀의 엔지니어입니다. 환영합니다 빠르게 실행되는 반응형 카메라 앱 빌드하기. 실행이 느리면, 사람들은 알아챕니다. 네이티브 카메라 앱을 수년간 최적화하면서, 저는 카메라 실행을 빠르게 느끼게 하는 가장 중요한 요소가 카메라 실행을 빠르게 느끼게 만드는 프리뷰 프레임이 화면에 얼마나 빨리 나타나느냐라는 것을 배웠습니다. 도미노 멋진 장면을 찍고 싶었는데, 도미노가 이미 쓰러지기 시작하기 전에 카메라를 실행하는 것을 깜빡했습니다. 중간에 빨간 도미노를 놓았기 때문에, 빨간 도미노가 쓰러지기 직전의 순간을 실행하고 촬영하는 것이 필수적입니다
 
+- **[WWDC26: Build next-generation experiences with visionOS 27 | Apple](https://www.youtube.com/watch?v=S_qt8iu_Ljw)** · Apple Developer (channel)
+  안녕하세요, 저는 Norman입니다 Vision Products Group의 디렉터입니다 이 세션에서는 강력한 새로운 방법을 소개합니다 visionOS 27로 차세대 경험을 만드는 방법입니다 지난 한 해를 돌아보면 여러분이 플랫폼에서 만들어낸 것들에 깜짝 놀랐습니다 YouTube와 같은 앱이 세계 수준의 콘텐츠를 거실에서 선보이고 Valve는 Steam Link를 Apple Vision Pro에 도입해 2D Mac 및 PC 게임을 무한한 캔버스에서 끊김 없이 스트리밍합니다 Resolution Games는 새로운 방식으로 클래식 경험을 재현합니다 Kia와 Innoactive 같은 기업들도 있습니다
+
 - **[WWDC26: Collaborate on structured 3D models in visionOS | Apple](https://www.youtube.com/watch?v=zEyH34eLRlw)** · Apple Developer (channel)
   visionOS에서 구조화된 3D 모델로 협업하기에 오신 것을 환영합니다. 저는 Bill입니다. 오늘은 Apple Vision Pro에서 공간 경험을 구축하는 방법에 대해 이야기하겠습니다. 구체적으로, 복잡한 어셈블리와 다차원 데이터를 다루는 방법, 즉 평면 화면에서는 불가능한 방식으로 작업하는 방법을 소개합니다. 먼저 어떤 느낌인지 살펴보겠습니다. 여기 SharePlay 통화 중인 팀이 보입니다, AirPods Pro 디자인 검토 중입니다. 통화 중인 모든 사람이 동일한 에셋을, 동일한 화질로, 동일한 공간에서 봅니다. 케이스가 가까이 당겨집니다. 잠금이 해제됩니다. 작업대에서처럼, 다만 작업대는 어디에 있든 바로 그곳입니다
 
 - **[WWDC26: Create web extensions for Safari | Apple](https://www.youtube.com/watch?v=hXxdyx6iQN0)** · Apple Developer (channel)
   안녕하세요! 저는 Kiara이고, Safari 팀의 엔지니어예요 Safari에 추가하고 싶은 기능에 대한 아이디어가 있었다면 그 아이디어를 현실로 만들 수 있어요 이 세션이 바로 여러분을 위한 거예요 익스텐션을 빌드하고 배포하는 데 필요한 모든 내용을 알려드릴게요 Safari용 웹 익스텐션을요 다룰 내용이 많으니 자유롭게 쉬거나 유용한 섹션으로 건너뛰어도 돼요 가장 도움이 되는 섹션으로요 Safari 웹 익스텐션은 앱 안에 패키징돼요 솔직히 App Store에서 제가 가장 좋아하는 것들 중 하나예요 광고 차단이나 맞춤 새 탭 페이지 …
+
+- **[WWDC26: Discover container machines | Apple](https://www.youtube.com/watch?v=Q2xD6zkDz-s)** · Apple Developer (channel)
+  안녕하세요, 저는 Michael이고 오늘은 Containerization을 기반으로 한 새로운 기능을 소개하겠습니다 Containerization은 Linux 컨테이너를 실행하기 위한 Swift 프레임워크로 보안, 개인 정보 보호 성능에 중점을 두고 있습니다 Linux 컨테이너는 서버 사이드 애플리케이션을 빌드, 테스트, 배포하기 적합합니다 이 기반 위에 구축된 Container machine은 고도로 통합된 Linux 환경을 제공하는 새로운 기능입니다 Mac에서 원활하게 작동합니다 Container machine은 컨테이너처럼 빠르고 가볍습니다 그리고 가상 머신처럼 지속적입니다 호스트 통합을 통해 Container machine은 macOS에 기본처럼 느껴집니다 Container machine에 대해 더 알아보기 전에 Containerization 프레임워크를 살펴보는 시간을 갖겠습니다
 
 - **[WWDC26: Dive into lazy stacks and scrolling with SwiftUI | Apple](https://www.youtube.com/watch?v=4FNbTRr5MtQ)** · Apple Developer (channel)
   안녕하세요, 저는 Rens이고 UI Frameworks 엔지니어입니다. 레이지 스택은 필수적인 컴포넌트입니다. 길고 커스텀 스크롤 콘텐츠를 표시하는 모든 SwiftUI 앱에서 말이죠. 그리고 레이지 스택은 오랫동안 SwiftUI의 일부였습니다. 다른 많은 SwiftUI 컴포넌트처럼 레이지 스택의 강점은 그 단순함에서 나옵니다. 다양한 SwiftUI 컴포넌트들은 다른 많은 SwiftUI 컴포넌트와 혼합하여 복잡한 앱을 만들 수 있습니다. 예를 들어, 2027 릴리즈부터는 reorderable을 사용하여 뷰를 드래그하고 재정렬할 수 있습니다. 더 자세한 내용은 "Code-along: Build powerful drag and drop in SwiftUI"에서 확인하세요.
