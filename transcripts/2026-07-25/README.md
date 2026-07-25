@@ -10,3 +10,8 @@
 - [SME AI Transformation: Where to Start? | 3 Key 2026 AX Strategies](SME_AI_Transformation_Where_to_Start_3_Key_2026_AX_Strategie__76tr6w1s72M.md) (ko) — [원본](https://www.youtube.com/watch?v=76tr6w1s72M)
 - [The Fall of 'Agent AI': Companies Everywhere Are Banning AI!](The_Fall_of_'Agent_AI'_Companies_Everywhere_Are_Banning_AI!__nKFB9dic_0I.md) (ko) — [원본](https://www.youtube.com/watch?v=nKFB9dic_0I)
 - [AI 전환(AX)이 지속 가능한 에너지 혁신 해법 #SKAX #AI전환 #AX #제조업](AI_전환(AX)이_지속_가능한_에너지_혁신_해법_#SKAX_#AI전환_#AX_#제조업__gN1hZXut2JM.md) (ko) — [원본](https://www.youtube.com/watch?v=gN1hZXut2JM)
+
+## 15:28 수집 (2개)
+
+- [99% 모르는 AI로 주식수익 극대화 하는 법ㅣ대외비 EP.29](99%_모르는_AI로_주식수익_극대화_하는_법ㅣ대외비_EP.29__QWYnZG7LfEs.md) (ko) — [원본](https://www.youtube.com/watch?v=QWYnZG7LfEs)
+- [Microsoft AI Transformation Leader: The 5 Rules To Pass](Microsoft_AI_Transformation_Leader_The_5_Rules_To_Pass__YRZEjVGBDSA.md) (ko) — [원본](https://www.youtube.com/watch?v=YRZEjVGBDSA)
