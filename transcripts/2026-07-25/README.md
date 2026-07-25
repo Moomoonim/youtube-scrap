@@ -15,3 +15,8 @@
 
 - [99% 모르는 AI로 주식수익 극대화 하는 법ㅣ대외비 EP.29](99%_모르는_AI로_주식수익_극대화_하는_법ㅣ대외비_EP.29__QWYnZG7LfEs.md) (ko) — [원본](https://www.youtube.com/watch?v=QWYnZG7LfEs)
 - [Microsoft AI Transformation Leader: The 5 Rules To Pass](Microsoft_AI_Transformation_Leader_The_5_Rules_To_Pass__YRZEjVGBDSA.md) (ko) — [원본](https://www.youtube.com/watch?v=YRZEjVGBDSA)
+
+## 18:59 수집 (2개)
+
+- [AX 전략 세미나 발표 - AI 전환의 다음 목적지, Revenue AI](AX_전략_세미나_발표_-_AI_전환의_다음_목적지,_Revenue_AI__1EThrc_f49o.md) (ko) — [원본](https://www.youtube.com/watch?v=1EThrc_f49o)
+- [AI 활용 수준을 바꾸는 SKILL을 상위 1%처럼 쓰는 나만의 노하우 모음 (w. 콘텐츠 시스템)](AI_활용_수준을_바꾸는_SKILL을_상위_1%처럼_쓰는_나만의_노하우_모음_(w._콘텐츠_시스템)__8P_U-9GaNYA.md) (ko) — [원본](https://www.youtube.com/watch?v=8P_U-9GaNYA)
