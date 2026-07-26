@@ -1,0 +1,13 @@
+# Hear from our people why IT & Digital means more at Reckitt
+
+- 영상 링크: https://www.youtube.com/watch?v=vjMPgI9dado
+- 채널: Reckitt
+- 업로드일: 2023-04-04
+- 자막 언어: en
+- 단어 수: 약 453개
+
+---
+
+## 스크립트
+
+[Music] thank you um I have a smiley name because I can't I still feel like it was yesterday when I joined every day I'm learning through formal learning through conversations with others through different perspectives and different points of view I don't think that's changed at all in 16 years the best way to describe it is there's no two days that are the same you're given a great sense of ownership you have a team around you that's always going to support you it sort of has that that large company stability with that entrepreneurial kind of flame underneath it is a company that makes a difference in the Health Organization helping vulnerable people around the world that don't have the simplest facilities as we take for granted for day to day so being a part of that really makes me proud if you join record you'll actually be able to work on products and actually be able to change in an impactful way which is which is pretty cool thank you a culture where all workplaces should be and I'm not just saying that because I'm being filmed I think what's great is that there's always people to learn from and there's always people wanting to help you even despite the level of ownership that we give to people in terms of their their freedom to own and drive an agenda you know there's there's really all walks of life in this this building which is which is great you need all those sort of different brains to to spark some of the best ideas It's always important to have that rich and diverse view of of opinions on whether something is good bad or indifferent whether it's an opportunity whether it's not an opportunity whether it fixes a problem whether it doesn't it's less about how good you are technically it's more about your your mentality we've taken people that have come from very rich and diverse backgrounds not necessarily in a traditional technology upbringing and they have done extremely well I've always been in situations where leaders give me the opportunity on big projects big scale projects problem solvers people with an open mind exactly think outside the box bring some Innovation into the organization people who are willing to challenge themselves and grow [Music] I can't say in one word because I like to talk a bit um but I'd say if you're looking to go further with your career that you're going to learn on the job making you think differently about things you can have a lot of fun doing it making a positive change I'd say definitely wreck is the place to be foreign

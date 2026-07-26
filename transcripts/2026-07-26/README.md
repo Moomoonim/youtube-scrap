@@ -22,3 +22,9 @@
 
 - [EP 105. AI가 연구를 할 수 있을까?](EP_105._AI가_연구를_할_수_있을까__ZwjWj6aw2BY.md) (ko) — [원본](https://www.youtube.com/watch?v=ZwjWj6aw2BY)
 - [How AI Is Changing Enterprise](How_AI_Is_Changing_Enterprise__aIKfA3gIXwo.md) (ko) — [원본](https://www.youtube.com/watch?v=aIKfA3gIXwo)
+
+## 22:54 수집 (3개)
+
+- [꿀 빠는 애플 잡으러 오픈AI가 간다](꿀_빠는_애플_잡으러_오픈AI가_간다__snPfEfGLIH4.md) (ko) — [원본](https://www.youtube.com/watch?v=snPfEfGLIH4)
+- [AI 없는 세상은 이제 없습니다, 투자 기준이 바뀌었습니다 | 오투도감 2편](AI_없는_세상은_이제_없습니다,_투자_기준이_바뀌었습니다_오투도감_2편__JtCnSyodlW8.md) (ko) — [원본](https://www.youtube.com/watch?v=JtCnSyodlW8)
+- [AI for AI: Building the Transformation Office That Drives Enterprise AI Adoption](AI_for_AI_Building_the_Transformation_Office_That_Drives_Ent__OJwpw-8SkBM.md) (ko) — [원본](https://www.youtube.com/watch?v=OJwpw-8SkBM)

@@ -28750,5 +28750,1193 @@
     "lang": "ko",
     "upload_date": "20260709",
     "fetched_at": "2026-07-26"
+  },
+  "snPfEfGLIH4": {
+    "title": "꿀 빠는 애플 잡으러 오픈AI가 간다",
+    "url": "https://www.youtube.com/watch?v=snPfEfGLIH4",
+    "fetched_at": "2026-07-26",
+    "lang": "ko"
+  },
+  "JtCnSyodlW8": {
+    "title": "AI 없는 세상은 이제 없습니다, 투자 기준이 바뀌었습니다 | 오투도감 2편",
+    "url": "https://www.youtube.com/watch?v=JtCnSyodlW8",
+    "fetched_at": "2026-07-26",
+    "lang": "ko"
+  },
+  "OJwpw-8SkBM": {
+    "title": "AI for AI: Building the Transformation Office That Drives Enterprise AI Adoption",
+    "url": "https://www.youtube.com/watch?v=OJwpw-8SkBM",
+    "fetched_at": "2026-07-26",
+    "lang": "ko"
+  },
+  "O-VifLpZluM": {
+    "title": "WWDC26: Translate your app using agents in Xcode | Apple",
+    "channel": "Apple Developer",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-26"
+  },
+  "NDwoB2PpwgY": {
+    "title": "WWDC26: Learn CSS Grid Lanes | Apple",
+    "channel": "Apple Developer",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-26"
+  },
+  "ML67J6l8NLs": {
+    "title": "WWDC26: Debug and profile agentic app experiences with Instruments | Apple",
+    "channel": "Apple Developer",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-26"
+  },
+  "M-nlZjvyGB0": {
+    "title": "WWDC26: Unwrap PaperKit | Apple",
+    "channel": "Apple Developer",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-26"
+  },
+  "LrwQZpIizBY": {
+    "title": "WWDC26: Prepare your tvOS apps for Dynamic Type | Apple",
+    "channel": "Apple Developer",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-26"
+  },
+  "KZ0__d74oNA": {
+    "title": "WWDC26: Refine accessibility for custom controls | Apple",
+    "channel": "Apple Developer",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-26"
+  },
+  "I55O4NIQglc": {
+    "title": "WWDC26: Meet the Now Playing framework | Apple",
+    "channel": "Apple Developer",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-26"
+  },
+  "91YwhLUPKcg": {
+    "title": "WWDC26: Discover USDKit and what’s new in OpenUSD | Apple",
+    "channel": "Apple Developer",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-26"
+  },
+  "HjhxQtZIK3s": {
+    "title": "How to Use Nemotron 3 Nano: Connecting OpenAI API Endpoint and Build LangChain Agents",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20251215",
+    "fetched_at": "2026-07-26"
+  },
+  "vHCVNr0uX_k": {
+    "title": "Techniques for Efficient and Reproducible Foundation Model Pre-Training",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20251214",
+    "fetched_at": "2026-07-26"
+  },
+  "26mn5RmoE-M": {
+    "title": "Improving LLM Throughput via Data Center-Scale Inference Optimizations",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20251213",
+    "fetched_at": "2026-07-26"
+  },
+  "s_o0myJzh30": {
+    "title": "Building Synthetic Data Pipelines for Open Research and Scalable AI Development",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20251213",
+    "fetched_at": "2026-07-26"
+  },
+  "viwXM78twfs": {
+    "title": "Benchmarking and Scaling Web Agents with LLMs and VLMs",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20251212",
+    "fetched_at": "2026-07-26"
+  },
+  "YUfveVThBIU": {
+    "title": "Post-Training, Alignment, and Advanced Reasoning with Nemotron",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20251212",
+    "fetched_at": "2026-07-26"
+  },
+  "tG8TCkfpJ-Y": {
+    "title": "Building Faster and Smarter AI Systems with Nemotron",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20251211",
+    "fetched_at": "2026-07-26"
+  },
+  "AThOsk2qJbs": {
+    "title": "NVIDIA MultiTalker ASR Demo: Real-Time, Multi-Speaker Transcription Made Easy",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20251205",
+    "fetched_at": "2026-07-26"
+  },
+  "yAb84O3mO0A": {
+    "title": "Chuanyang Zheng and Jiankai Sun   Understanding the Mixture of Experts with Nadaraya Watson Kernel",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20251219",
+    "fetched_at": "2026-07-26"
+  },
+  "PivqwIoCVmQ": {
+    "title": "Anthony Fuller & Yousef Yassin - LookWhere? Efficient Visual Recognition by Learning Where to Look",
+    "channel": "Cohere",
+    "lang": "en",
+    "upload_date": "20251219",
+    "fetched_at": "2026-07-26"
+  },
+  "OeiyQ5SS9R8": {
+    "title": "Alexander Soare - Smooth Robot Policies",
+    "channel": "Cohere",
+    "lang": "en",
+    "upload_date": "20251219",
+    "fetched_at": "2026-07-26"
+  },
+  "UkwxPGh1pOU": {
+    "title": "Gaurav Gaonkar - From Academia Research to Applied ML Lessons from Academia & Industry",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20251204",
+    "fetched_at": "2026-07-26"
+  },
+  "mM6I9sTJHQY": {
+    "title": "Scrappy research drives real innovation.",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-07-26"
+  },
+  "gFL-Jo8i_2c": {
+    "title": "Harry Amad - Improving the Generation and Evaluation of Synthetic Data for Downstream Medical Causal",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20251128",
+    "fetched_at": "2026-07-26"
+  },
+  "b0ydOb6e_T0": {
+    "title": "How  Collaboration Accelerates Progress in AI Research - Shayne Longpre Keynote | Connect 2025",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20251126",
+    "fetched_at": "2026-07-26"
+  },
+  "T9LJDHdaGuM": {
+    "title": "Building an Open Science Community – Fireside Chat with Ivan Zhang | Connect 2025",
+    "channel": "Cohere",
+    "lang": "ko",
+    "upload_date": "20251126",
+    "fetched_at": "2026-07-26"
+  },
+  "yNXxuzmiwEo": {
+    "title": "Gen-4.5 Updates — Research Demo Day 2025 | Runway",
+    "channel": "Runway",
+    "lang": "ko",
+    "upload_date": "20251216",
+    "fetched_at": "2026-07-26"
+  },
+  "2AyAlE99_-A": {
+    "title": "Research Demo Day 2025 | Runway",
+    "channel": "Runway",
+    "lang": "en",
+    "upload_date": "20251215",
+    "fetched_at": "2026-07-26"
+  },
+  "ei2PsDpPbB4": {
+    "title": "Introducing Gen-4.5 | Runway",
+    "channel": "Runway",
+    "lang": "en",
+    "upload_date": "20251201",
+    "fetched_at": "2026-07-26"
+  },
+  "mmDGqHM0clU": {
+    "title": "Runway This Week | November 22",
+    "channel": "Runway",
+    "lang": "en",
+    "upload_date": "20251122",
+    "fetched_at": "2026-07-26"
+  },
+  "KQ1nXVT8iJM": {
+    "title": "How to Build Custom Workflows | Runway Academy",
+    "channel": "Runway",
+    "lang": "ko",
+    "upload_date": "20251121",
+    "fetched_at": "2026-07-26"
+  },
+  "MsVl_CKu_gk": {
+    "title": "Using Workflows | Runway Academy",
+    "channel": "Runway",
+    "lang": "ko",
+    "upload_date": "20251121",
+    "fetched_at": "2026-07-26"
+  },
+  "8dYXU3iiyD0": {
+    "title": "Imagine a World | Runway",
+    "channel": "Runway",
+    "lang": "ko",
+    "upload_date": "20251001",
+    "fetched_at": "2026-07-26"
+  },
+  "f8s65xJdQkY": {
+    "title": "Runway This Week | September 13",
+    "channel": "Runway",
+    "lang": "ko",
+    "upload_date": "20250913",
+    "fetched_at": "2026-07-26"
+  },
+  "igYyYZhCAR0": {
+    "title": "Microsoft Azure - the platform intelligence runs on",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20260610",
+    "fetched_at": "2026-07-26"
+  },
+  "stvhA0IoTmg": {
+    "title": "Foundry IQ: unlocking knowledge for agents",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20260609",
+    "fetched_at": "2026-07-26"
+  },
+  "GwMw_IdB3_4": {
+    "title": "Ship at scale: Octopus Deploy on Microsoft Marketplace",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-26"
+  },
+  "IEGtTgN-Tmg": {
+    "title": "Your Fine-Tuned Model Is Your IP: Open Model Strategy for Developers",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-26"
+  },
+  "Ic2ctmKipKo": {
+    "title": "A new way to shop Microsoft Marketplace: say hello to intelligent discovery",
+    "channel": "Microsoft Azure",
+    "lang": "en",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-26"
+  },
+  "n9_8IgVNZp0": {
+    "title": "Introducing intelligent discovery in Microsoft Marketplace | demo walkthrough",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-26"
+  },
+  "fLZ56u1ftl4": {
+    "title": "Microsoft Foundry Labs - the home for AI experiments from Microsoft",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-26"
+  },
+  "CUsJrodGnxw": {
+    "title": "Embed intelligence into physical systems",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-26"
+  },
+  "-686ITdC1Gg": {
+    "title": "MGI event: Leading voices discuss what’s next for growth, wealth, and debt",
+    "channel": "McKinsey & Company",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "YqFDEhfHK-M": {
+    "title": "60 seconds with Cezara Lisman in Romania",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260312",
+    "fetched_at": "2026-07-26"
+  },
+  "ALtozzdMSrM": {
+    "title": "60 seconds with Matea Kocevska in Croatia",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260312",
+    "fetched_at": "2026-07-26"
+  },
+  "UELdlnIIRRA": {
+    "title": "60 seconds with Marta Matecsa in Hungary",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260312",
+    "fetched_at": "2026-07-26"
+  },
+  "mD7laipR3ZU": {
+    "title": "MGI event: Experts discuss how foreign direct investment today may shape industry and trade tomorrow",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260311",
+    "fetched_at": "2026-07-26"
+  },
+  "y5N1f0-t9z8": {
+    "title": "#60SecondsWith preview – Celebrating our women colleagues in Central Europe",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260311",
+    "fetched_at": "2026-07-26"
+  },
+  "G93jAgrSLIE": {
+    "title": "Beyond ESG: How Organizations Can Address the World’s Biggest Challenges",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260310",
+    "fetched_at": "2026-07-26"
+  },
+  "yHFybnKxy1I": {
+    "title": "MGI event: Book authors discuss how to achieve the next century of plenty",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260310",
+    "fetched_at": "2026-07-26"
+  },
+  "-T0dS-YxP00": {
+    "title": "60 seconds with Helena Sarkanova in the Czech Republic",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260309",
+    "fetched_at": "2026-07-26"
+  },
+  "vjMPgI9dado": {
+    "title": "Hear from our people why IT & Digital means more at Reckitt",
+    "channel": "Reckitt",
+    "lang": "en",
+    "upload_date": "20230404",
+    "fetched_at": "2026-07-26"
+  },
+  "CHGH2lDtT5M": {
+    "title": "Hear our leaders talk about our IT & Digital transformation",
+    "channel": "Reckitt",
+    "lang": "en",
+    "upload_date": "20230404",
+    "fetched_at": "2026-07-26"
+  },
+  "ZHngsEcIxr8": {
+    "title": "Social Impact Report 2022",
+    "channel": "Reckitt",
+    "lang": "ko",
+    "upload_date": "20230215",
+    "fetched_at": "2026-07-26"
+  },
+  "8nRDmkq7KDQ": {
+    "title": "Meet Rafaella Martins - Our R&D Senior Manager",
+    "channel": "Reckitt",
+    "lang": "ko",
+    "upload_date": "20230210",
+    "fetched_at": "2026-07-26"
+  },
+  "DaNQNBJQzzk": {
+    "title": "Meet Lesley Johnson - Our Regional Packaging Director Europe and America",
+    "channel": "Reckitt",
+    "lang": "ko",
+    "upload_date": "20230210",
+    "fetched_at": "2026-07-26"
+  },
+  "m5b1vUk4D2M": {
+    "title": "Meet Lisa Dreilinger - Our Global Head of Regulatory Affairs Hygiene",
+    "channel": "Reckitt",
+    "lang": "ko",
+    "upload_date": "20230210",
+    "fetched_at": "2026-07-26"
+  },
+  "MxcBoaCj9WI": {
+    "title": "Meet Shay Phillips - Our R&D Director FEI and Analytical Science",
+    "channel": "Reckitt",
+    "lang": "ko",
+    "upload_date": "20230210",
+    "fetched_at": "2026-07-26"
+  },
+  "YZjfJ_N3i7s": {
+    "title": "Reckitt's Fight For Access Accelerator",
+    "channel": "Reckitt",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "QCfvlMXgb8o": {
+    "title": "Transformation is delivering: Strong momentum continues",
+    "channel": "Reckitt",
+    "lang": "ko",
+    "upload_date": "20220727",
+    "fetched_at": "2026-07-26"
+  },
+  "JZ8CiJ4es7Q": {
+    "title": "봄을 맞아 열린 LG AI연구원 AI SPRING PARTY🌱",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20210315",
+    "fetched_at": "2026-07-26"
+  },
+  "j-P5EDYcFm4": {
+    "title": "Data Intelligence 분야를 속 시원히 알려줄 LG AI연구원 임우형 랩장 인터뷰!",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20210310",
+    "fetched_at": "2026-07-26"
+  },
+  "QVSocHATHOM": {
+    "title": "LG AI연구원에서 일한다는 것은? (Working at LG AI Research) / ENG",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20210202",
+    "fetched_at": "2026-07-26"
+  },
+  "dEtin3P-PgE": {
+    "title": "인공지능(AI) 전문가들이 모인 싱크탱크, LG AI연구원을 소개합니다!",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20201216",
+    "fetched_at": "2026-07-26"
+  },
+  "Ejtylrxtvcs": {
+    "title": "Learning Representations and Compositional Reasoning for Solving Complex Tasks - Honglak Lee (이홍락)",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20201210",
+    "fetched_at": "2026-07-26"
+  },
+  "8HY21kUXxZs": {
+    "title": "LG AI연구원 온라인 출범식",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20201207",
+    "fetched_at": "2026-07-26"
+  },
+  "Z2MUjGuTRyE": {
+    "title": "LG AI, Human, and Business - Hwayoung Lee (이화영)",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20201207",
+    "fetched_at": "2026-07-26"
+  },
+  "Qn_u9Rl0EL0": {
+    "title": "AI in Chemical Science - Prof. Yousung Jung (정유성)",
+    "channel": "LG AI Research",
+    "lang": "ko",
+    "upload_date": "20201207",
+    "fetched_at": "2026-07-26"
+  },
+  "MA4VvM2_zts": {
+    "title": "The Snowflake Startup Challenge 2026 Gets Underway",
+    "channel": "Snowflake",
+    "lang": "en",
+    "upload_date": "20260410",
+    "fetched_at": "2026-07-26"
+  },
+  "4snYMbw6S-U": {
+    "title": "The Agentic Enterprise: From Strategy To ROI | Virtual Event April 9",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260327",
+    "fetched_at": "2026-07-26"
+  },
+  "E17bqBxIFbs": {
+    "title": "Cortex Code Just Got a Massive Upgrade (March 2026 Updates)",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260326",
+    "fetched_at": "2026-07-26"
+  },
+  "srnMmEwwy1c": {
+    "title": "Mukuru Delivers Personalized Financial Services Across Africa with Snowflake",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260319",
+    "fetched_at": "2026-07-26"
+  },
+  "yPbDuR047uQ": {
+    "title": "The End of Busywork: Meet Project SnowWork",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260318",
+    "fetched_at": "2026-07-26"
+  },
+  "CBaLM0qkIr0": {
+    "title": "Securely Transforming Healthcare Data In The AI Data Cloud",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260313",
+    "fetched_at": "2026-07-26"
+  },
+  "i6sVPVKPU30": {
+    "title": "Snow Report: What's Happening At Snowflake In March",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260309",
+    "fetched_at": "2026-07-26"
+  },
+  "EAxOrdkEr8k": {
+    "title": "Bynder Eliminates Content Chaos With Snowflake",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260306",
+    "fetched_at": "2026-07-26"
+  },
+  "kBWrbvJoto4": {
+    "title": "The Download: Microsoft Build, GitHub mobile, open source keyboards & more",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260515",
+    "fetched_at": "2026-07-26"
+  },
+  "WldXhauP024": {
+    "title": "Getting started with open source contributions for beginners",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260511",
+    "fetched_at": "2026-07-26"
+  },
+  "PpL7vQupWqM": {
+    "title": "The Download: Linux 486 retirement, DeepSeek v4, TanStack AI & more",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260501",
+    "fetched_at": "2026-07-26"
+  },
+  "bglVc9HDfwg": {
+    "title": "How to use hooks in the GitHub Copilot CLI | demo",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260430",
+    "fetched_at": "2026-07-26"
+  },
+  "LxeclcePg-c": {
+    "title": "Getting started with Markdown on GitHub",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260427",
+    "fetched_at": "2026-07-26"
+  },
+  "ws_3hiXLKjQ": {
+    "title": "Fixing merge conflicts and PRs with Copilot cloud agent | GitHub Checkout",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260423",
+    "fetched_at": "2026-07-26"
+  },
+  "5TN6l7JGWvs": {
+    "title": "Build a Personal Assistant with GitHub Copilot SDK + Copilot CLI",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260422",
+    "fetched_at": "2026-07-26"
+  },
+  "Vd1y45pMRCk": {
+    "title": "How to use MCPUI and Goose to manage GitHub issues",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260421",
+    "fetched_at": "2026-07-26"
+  },
+  "_rGEywKbKYI": {
+    "title": "BHD837/03 : Powerful high-speed motor + ThermoShield Advanced smart sensors",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260602",
+    "fetched_at": "2026-07-26"
+  },
+  "NAsae6zqhGY": {
+    "title": "Conoce la historia de crecimiento de Karla en Philips Costa Rica",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260527",
+    "fetched_at": "2026-07-26"
+  },
+  "tggFjht-91I": {
+    "title": "Alles in einem: Der Philips 17-in-1 Trimmer!",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260522",
+    "fetched_at": "2026-07-26"
+  },
+  "NNtbD7quRTg": {
+    "title": "Crescimento na Philips: da estagiária à técnica em P&D 🚀",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260521",
+    "fetched_at": "2026-07-26"
+  },
+  "NSHEM2qeCn4": {
+    "title": "Philips Sonicare Confident Clean – exclusively at Costco Canada – French",
+    "channel": "Philips",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "hH_VCR2zZKI": {
+    "title": "Philips Sonicare Confident Clean – exclusively at Costco Canada – English",
+    "channel": "Philips",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "DuekvM2cemI": {
+    "title": "Understanding the value of physiology",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260512",
+    "fetched_at": "2026-07-26"
+  },
+  "SKGIQehvrZQ": {
+    "title": "Philips - 135 years of improving lives",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260512",
+    "fetched_at": "2026-07-26"
+  },
+  "RiNspYNmBnQ": {
+    "title": "Philips set beauté série 9900",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260506",
+    "fetched_at": "2026-07-26"
+  },
+  "En0q2HmeNuQ": {
+    "title": "Philips OneBlade Squad ⚔ – join a new one-of-a-kind Fortnite team.",
+    "channel": "Philips",
+    "lang": "en",
+    "upload_date": "20260505",
+    "fetched_at": "2026-07-26"
+  },
+  "deWN8SZF7N8": {
+    "title": "Putting FSD Safety to the Test | Tesla",
+    "channel": "Tesla",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "8zxQpYYSvTM": {
+    "title": "Cybertruck Rave",
+    "channel": "Tesla",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "fED50IVzutU": {
+    "title": "Goodbye Gas Generators | Tesla Powerwall",
+    "channel": "Tesla",
+    "lang": "en",
+    "upload_date": "20241121",
+    "fetched_at": "2026-07-26"
+  },
+  "z7PsJWApdeU": {
+    "title": "Next-Gen Tesla Supercharger",
+    "channel": "Tesla",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "ZTrebszENNw": {
+    "title": "We, Robot Recap",
+    "channel": "Tesla",
+    "lang": "en",
+    "upload_date": "20241030",
+    "fetched_at": "2026-07-26"
+  },
+  "Qfj4urMF8CU": {
+    "title": "Cybercab | The Future is Autonomous",
+    "channel": "Tesla",
+    "lang": "en",
+    "upload_date": "20241029",
+    "fetched_at": "2026-07-26"
+  },
+  "n7Pwpxj3eQg": {
+    "title": "Actually Smart Summon (ASS)",
+    "channel": "Tesla",
+    "lang": "ko",
+    "upload_date": "20241022",
+    "fetched_at": "2026-07-26"
+  },
+  "sDUOky6TYtw": {
+    "title": "Cybercab Wireless Charging | Tesla",
+    "channel": "Tesla",
+    "lang": "ko",
+    "upload_date": "20241021",
+    "fetched_at": "2026-07-26"
+  },
+  "DrNcXgoFv20": {
+    "title": "Optimus Navigating Around | Tesla",
+    "channel": "Tesla",
+    "lang": "ko",
+    "upload_date": "20241018",
+    "fetched_at": "2026-07-26"
+  },
+  "IMnFVbUMxvc": {
+    "title": "Replacing Hawaii’s Last Coal Plant | Tesla Megapack",
+    "channel": "Tesla",
+    "lang": "ko",
+    "upload_date": "20240920",
+    "fetched_at": "2026-07-26"
+  },
+  "TUDiG7PcLBs": {
+    "title": "Full Self-Driving (Supervised) | Tesla",
+    "channel": "Tesla",
+    "lang": "ko",
+    "upload_date": "20240910",
+    "fetched_at": "2026-07-26"
+  },
+  "5cl9CQBG4Iw": {
+    "title": "The Case for Open Data Architecture | Ali Ghodsi at RSAC 2026",
+    "channel": "Databricks",
+    "lang": "en",
+    "upload_date": "20260409",
+    "fetched_at": "2026-07-26"
+  },
+  "KmF_Y3oFDs4": {
+    "title": "Ali Ghodsi on the Open Security Lakehouse Architectural Pattern | RSAC 2026",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20260409",
+    "fetched_at": "2026-07-26"
+  },
+  "-PkjDG1fFQw": {
+    "title": "The Challenges of Legacy SIEM Models | Ali Ghodsi at RSAC 2026",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20260409",
+    "fetched_at": "2026-07-26"
+  },
+  "0tAfUVFLtAg": {
+    "title": "Fighting Every Threat with AI Agents: The Future of Security Operations | Ali Ghodsi at RSAC 2026",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20260409",
+    "fetched_at": "2026-07-26"
+  },
+  "R7XU7rZ3zq4": {
+    "title": "Why AI Will Kill the SIEM This Year | Ali Ghodsi at RSAC",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20260409",
+    "fetched_at": "2026-07-26"
+  },
+  "mNT4b0yVmLE": {
+    "title": "How To Connect Power Automate to Databricks for Secure, Zero‑Copy Data Access",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20260408",
+    "fetched_at": "2026-07-26"
+  },
+  "EH208ljANzo": {
+    "title": "Govern Access at Scale with ABAC in Unity Catalog",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20260403",
+    "fetched_at": "2026-07-26"
+  },
+  "kqvHJl8l05E": {
+    "title": "7‑Eleven, Lenovo, AT&T and KPMG Build Their Data and AI Future on Azure Databricks",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20260402",
+    "fetched_at": "2026-07-26"
+  },
+  "N7FGbBq1mI4": {
+    "title": "Deploy ANY AI Agent to Production in Minutes | Amazon Bedrock AgentCore Tutorial",
+    "channel": "AWS Developers",
+    "lang": "ko",
+    "upload_date": "20251013",
+    "fetched_at": "2026-07-26"
+  },
+  "dKJ8v4wpYxk": {
+    "title": "AWS MCP Servers Tutorial: How Game Developers Can Use Amazon Q with Blender, Unity & Perforce",
+    "channel": "AWS Developers",
+    "lang": "ko",
+    "upload_date": "20251009",
+    "fetched_at": "2026-07-26"
+  },
+  "8F0JE3G_vEo": {
+    "title": "Automating Your Dev Workflow with Jira & GitHub Integration feat. Amazon Q CLI",
+    "channel": "AWS Developers",
+    "lang": "ko",
+    "upload_date": "20250925",
+    "fetched_at": "2026-07-26"
+  },
+  "e36xut_NGWg": {
+    "title": "Mistral AI Models on Amazon Bedrock: When to Use Pixtral Large vs Mistral Small 3.0",
+    "channel": "AWS Developers",
+    "lang": "ko",
+    "upload_date": "20250924",
+    "fetched_at": "2026-07-26"
+  },
+  "mvgVO3FIvo0": {
+    "title": "Building Fintech on AWS: How Zilch's Buy Now Pay Later Works | The AWS Developers Podcast",
+    "channel": "AWS Developers",
+    "lang": "ko",
+    "upload_date": "20250919",
+    "fetched_at": "2026-07-26"
+  },
+  "q-pzNAu9mb8": {
+    "title": "How to Build an AI-Powered MCP Server with Heroku & Amazon Q Developer",
+    "channel": "AWS Developers",
+    "lang": "ko",
+    "upload_date": "20250916",
+    "fetched_at": "2026-07-26"
+  },
+  "iLa0d8WF-ng": {
+    "title": "Build Production-Ready AI Agents with TypeScript Effect & Amazon Bedrock (Complete Tutorial)",
+    "channel": "AWS Developers",
+    "lang": "ko",
+    "upload_date": "20250909",
+    "fetched_at": "2026-07-26"
+  },
+  "9RTglcxR9QA": {
+    "title": "From Developer to Game Creator: Getting Started in Game Development | The AWS Developers Podcast",
+    "channel": "AWS Developers",
+    "lang": "ko",
+    "upload_date": "20250905",
+    "fetched_at": "2026-07-26"
+  },
+  "fIf_2aaWDF4": {
+    "title": "Keke Palmer Flies Like a Hero on Marvel's Iron Man VR I “Are We There Yet?”",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20230224",
+    "fetched_at": "2026-07-26"
+  },
+  "zgzfrlt2Ipk": {
+    "title": "Possibilities with the metaverse",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20230223",
+    "fetched_at": "2026-07-26"
+  },
+  "u3R6DqJ_WWA": {
+    "title": "Keke Palmer Sculpts in VR with Friends | \"Are We There Yet?\"",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20230221",
+    "fetched_at": "2026-07-26"
+  },
+  "rAN8GfoI1LM": {
+    "title": "Keke Palmer Flies Like Marvel's Iron Man VR | “Are We There Yet?”",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20230221",
+    "fetched_at": "2026-07-26"
+  },
+  "gN678KKeYJU": {
+    "title": "Keke Palmer Beats an NFL Pro at His Own Game 🏈  | “Are We There Yet?”",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20230213",
+    "fetched_at": "2026-07-26"
+  },
+  "WaCJMN8x1eM": {
+    "title": "Valentine's Day Bouquets - Meta - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20230209",
+    "fetched_at": "2026-07-26"
+  },
+  "Lt3VcUqKm10": {
+    "title": "Join Keke Palmer Front Row at VR Concerts 🎤 | “Are We There Yet?”",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20230203",
+    "fetched_at": "2026-07-26"
+  },
+  "w8bnCaFmoaM": {
+    "title": "LGBTQ+ VR Museum - Meta - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20230202",
+    "fetched_at": "2026-07-26"
+  },
+  "VTDU4wf3Jug": {
+    "title": "Unboxing und Installation WLAN-Box 5 Pro – Swisscom Help",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20250625",
+    "fetched_at": "2026-07-26"
+  },
+  "D7qTTmWFjuU": {
+    "title": "Unboxing e installazione del WLAN-Box 5 – Swisscom Help",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20250625",
+    "fetched_at": "2026-07-26"
+  },
+  "FUkvb6h-tlk": {
+    "title": "Unboxing et installation de la WLAN-Box 5 – Swisscom Help",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20250625",
+    "fetched_at": "2026-07-26"
+  },
+  "6Euo1GmTlt0": {
+    "title": "Unboxing und Installation WLAN-Box 5 – Swisscom Help",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20250625",
+    "fetched_at": "2026-07-26"
+  },
+  "TBtiSXnfTXk": {
+    "title": "Discover your possibilities with AI",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20250622",
+    "fetched_at": "2026-07-26"
+  },
+  "gKKCyOJ3aoQ": {
+    "title": "DeepDive - Multimodal AI goes beyond Text and Images",
+    "channel": "Swisscom",
+    "lang": "en",
+    "upload_date": "20250610",
+    "fetched_at": "2026-07-26"
+  },
+  "TWRnU0MpbZ8": {
+    "title": "How AI Shapes Video Creations",
+    "channel": "Swisscom",
+    "lang": "en",
+    "upload_date": "20250520",
+    "fetched_at": "2026-07-26"
+  },
+  "gcrGUnSN5Dc": {
+    "title": "Ein KI Märchen wird zum Buch",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20250519",
+    "fetched_at": "2026-07-26"
+  },
+  "4Pk5ghLjKHY": {
+    "title": "Zoox: Fully Autonomous Driving in San Francisco's Russian Hill and North Beach Districts",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "kPgvjlXkNQE": {
+    "title": "Code to Road: How Zoox Uses Simulation to Test and Validate its Self-Driving Technology",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "Tgre20TpG_c": {
+    "title": "Safety Innovation at Zoox. Ep. 3: Lessons Learned from NTSB Investigations",
+    "channel": "Zoox",
+    "lang": "en",
+    "upload_date": "20200917",
+    "fetched_at": "2026-07-26"
+  },
+  "xgXH4y0s5Ho": {
+    "title": "Zoox: Fully Autonomous Driving in Downtown San Francisco",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "tmBdMaOU5PI": {
+    "title": "Safety Innovation at Zoox. Ep. 2: Safety Delayed is Safety Denied",
+    "channel": "Zoox",
+    "lang": "en",
+    "upload_date": "20200805",
+    "fetched_at": "2026-07-26"
+  },
+  "fZfeSY2hrY4": {
+    "title": "Zoox: Fully Autonomous Driving in San Francisco's Mission and SoMa Districts",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "8yxkOK--1L8": {
+    "title": "Safety Innovation at Zoox. Ep. 1: The Zoox Safety Philosophy",
+    "channel": "Zoox",
+    "lang": "en",
+    "upload_date": "20200618",
+    "fetched_at": "2026-07-26"
+  },
+  "HdEzPOI3ceE": {
+    "title": "Zoox: ~1-Hour Fully Autonomous Freeway Drive from Menlo Park to San Francisco with Commentary",
+    "channel": "Zoox",
+    "lang": "en",
+    "upload_date": "20200521",
+    "fetched_at": "2026-07-26"
+  },
+  "6sBpkgRA6sM": {
+    "title": "Zoox: 1-Hour Fully Autonomous Drive in Las Vegas with Commentary",
+    "channel": "Zoox",
+    "lang": "en",
+    "upload_date": "20200429",
+    "fetched_at": "2026-07-26"
+  },
+  "t-wLOeJpQVw": {
+    "title": "Zoox: Reveal Teaser",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "6r7vDhPXmiM": {
+    "title": "Zoox: ~1-Hour Fully Autonomous Drive in San Francisco with Commentary",
+    "channel": "Zoox",
+    "lang": "en",
+    "upload_date": "20200417",
+    "fetched_at": "2026-07-26"
+  },
+  "wH_T62d7_Xg": {
+    "title": "Zoox: Navigating Around Construction Zone Followed by Open Car Doors",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "6EV9aUQ9jxc": {
+    "title": "Zoox: Navigating Through 4-Way Intersection Followed by Double-Parked Vehicle",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "RpaDu61bufE": {
+    "title": "Zoox: Lane Change in Busy Traffic",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "ff-ycwZh41s": {
+    "title": "Zoox: Unprotected Left Turn and Narrow Passage Past Oncoming Traffic",
+    "channel": "Zoox",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "xatyxfEevZA": {
+    "title": "AI Fluency for nonprofits course trailer",
+    "channel": "Anthropic",
+    "lang": "en",
+    "upload_date": "20251202",
+    "fetched_at": "2026-07-26"
+  },
+  "R-KJgjIrh24": {
+    "title": "Getting started with research in Claude.ai",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-07-26"
+  },
+  "GJ5jTgcbRHA": {
+    "title": "Getting started with projects in Claude.ai",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-07-26"
+  },
+  "0vZ_UVLhSQQ": {
+    "title": "Getting started with Claude.ai",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-07-26"
+  },
+  "fOxC44g8vig": {
+    "title": "Claude Agent Skills Explained",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20251126",
+    "fetched_at": "2026-07-26"
+  },
+  "zrcCS9oHjtI": {
+    "title": "Claude Code on desktop",
+    "channel": "Anthropic",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "LpGpwhORWr0": {
+    "title": "Claude works with you on slides, spreadsheets, and contract redlines",
+    "channel": "Anthropic",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "56kq0VTkU4k": {
+    "title": "Introducing Claude Opus 4.5",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20251124",
+    "fetched_at": "2026-07-26"
+  },
+  "2MJDdzSXL74": {
+    "title": "Claude Opus 4.5 solves a puzzle game",
+    "channel": "Anthropic",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "lvMMZLYoDr4": {
+    "title": "What is Al \"reward hacking\"—and why do we worry about it?",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20251121",
+    "fetched_at": "2026-07-26"
+  },
+  "VHsp6Hp7Stw": {
+    "title": "Turning Claude into your thinking partner",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20251120",
+    "fetched_at": "2026-07-26"
+  },
+  "UVqBD8-Hua8": {
+    "title": "Meet the new Volvo EX30 Cross Country",
+    "channel": "Volvo Cars",
+    "lang": "ko",
+    "upload_date": "20250210",
+    "fetched_at": "2026-07-26"
+  },
+  "4iuL9eSx_8g": {
+    "title": "Volvo EX90: Everything you need to know",
+    "channel": "Volvo Cars",
+    "lang": "ko",
+    "upload_date": "20250115",
+    "fetched_at": "2026-07-26"
+  },
+  "4yx1HZCV1vE": {
+    "title": "Route EX90: Volvo's Coast to Coast US Roadtrip in the new electric SUV | Full Film",
+    "channel": "Volvo Cars",
+    "lang": "ko",
+    "upload_date": "20241210",
+    "fetched_at": "2026-07-26"
+  },
+  "O2bem17GC6g": {
+    "title": "Extreme Vehicle Testing: Behind the Gates at Hällered Proving Ground",
+    "channel": "Volvo Cars",
+    "lang": "ko",
+    "upload_date": "20241121",
+    "fetched_at": "2026-07-26"
+  },
+  "qGTK92uvR6Y": {
+    "title": "Volvo EX90 | Tested for life",
+    "channel": "Volvo Cars",
+    "status": "no_subs",
+    "fetched_at": "2026-07-26"
+  },
+  "BOhxwv5fPL8": {
+    "title": "EX90 / XC90: A Tale of Two Flagships",
+    "channel": "Volvo Cars",
+    "lang": "ko",
+    "upload_date": "20240917",
+    "fetched_at": "2026-07-26"
+  },
+  "Eym760X6Sxk": {
+    "title": "The new Volvo XC90: 10 things you need to know",
+    "channel": "Volvo Cars",
+    "lang": "ko",
+    "upload_date": "20240916",
+    "fetched_at": "2026-07-26"
+  },
+  "Ree2rHOSgZc": {
+    "title": "Route EX90 - Trailer",
+    "channel": "Volvo Cars",
+    "lang": "ko",
+    "upload_date": "20240910",
+    "fetched_at": "2026-07-26"
+  },
+  "O9Z_vzJyToA": {
+    "title": "EX90: Designed to be the safest Volvo car ever made",
+    "channel": "Volvo Cars",
+    "lang": "ko",
+    "upload_date": "20240906",
+    "fetched_at": "2026-07-26"
   }
 }
