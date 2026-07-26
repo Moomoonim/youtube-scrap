@@ -1,8 +1,8 @@
 # 월 × 분류(DX/AX/AT)별 수집 요약
 
-## 2026-07 (총 712건)
+## 2026-07 (총 715건)
 
-### AX (236건)
+### AX (237건)
 
 - **[AI adoption? Watch this video 10 times. (I'll feed you everything.)](https://www.youtube.com/watch?v=1f5ijgzt1-I)** · 조코딩AX파트너스-랩스 and 조코딩AX파트너스 (keyword)
   AI 전환 아직도 모르신다고요. 그렇다면 회사는 3년 안에 다른 회사에 먹힐 가능성이 굉장히 [음악] 높습니다. 이건 겁주려는 말이 아니라 실제로 벌어지고 있는 현실이에요. 안녕하세요. 데모상 개발단 라균입니다. 기업들 AI 전환 그러니까 AX를 실제로 구축해 주는 일을 하고 있습니다. 오늘 영상에서는 AX가 뭔지 그리고 기업들은 어떻게 AI를 쓰고 있는지 그 사례에 대해서 전달드리도록 할게요. 대표님들이 영상 끝까지 보시면 우리 회사에 AI를 어디서부터 써야 하는지 어떤 부분을 AI로 대체할 수 있는지 머릿속에 그림 그려 주실 거예요.
@@ -282,6 +282,9 @@
 
 - **[AX(AI전환)의 현황과 추진방향](https://www.youtube.com/watch?v=ksXsgaS0cGg)** · Matt Song (keyword)
   안녕하세요. 워크인더우의 매트입니다. 오늘은 AX라고 하는 AI 전환에 대한 이야기를 해 보겠습니다. 최근 전 세계적으로 AX AI 트랜스폼이라고 하는 AI 전환이 주요 과제로 떠오르고 있고 많은 기업들이 이에 도전하고 있습니다. 하지만 현장의 이야기를 들어보면 글이 잘 진행되고 있지는 못한 것으로 보입니다. 이러한 AX의 현실을 살펴보고 어떠한 전략으로 AX에 접근해야 할지를 짚어보는 시간을 갖도록 하겠습니다. 기업 열 곳 중 아홉 곳이 AI를 도입했습니다. 그런데 손익 개선서의 이익으로 나타난 곳은 20곳 중 단 한 곳입니다
+
+- **[Look at companies that only mimic AX. How to set up an environment that delivers results with AI ...](https://www.youtube.com/watch?v=PLaXDf3UzLg)** · 채널 원티드 (keyword)
+  원티드가 정의하는 그리고 기술님이 정의하는 원티드 AX는 어떤 방향성을 가지고 있는지 궁금해요. &gt;&gt; 네. 사실 저는 그 실수가 잘못된 건 절대 아니다라고 [음악] 생각을 하고 무조건 겪어야 될 어떤 과정인 거 같은데음. &gt;&gt; 최신 기술을 따라가고 싶어도 어디서 제일 먼저 발생할까? &gt;&gt; 구트위터죠. X가 사실은 &gt;&gt; 아 그죠. 더 구체적으로 알려 주세요. 왜냐면 제 X는 그런게 올라오지 않는단 말이에요. [음악] &gt;&gt; 안녕하세요. 여기는 커리어를 위한 잡소리입니다. 와, 안녕하세요. &gt;&gt; 와, 안녕하십니까?
 
 - **[AMD Advancing AI 2026 | Opening Video](https://www.youtube.com/watch?v=YgOgBju_nfs)** · AMD (channel)
   The next wave of AI is here... Evolving beyond thinking to acting. And it's bigger than anyone imagined. Except AMD. We recognize this agentic era would require the highest-performing GPUs and CPUs working together... So, we're the only ones who built both. It's how agentic AI moves from answers to action... Pushing inference compute to tremendous scale. Like an agent that frees thousands of employees from smaller tasks to focus on bigger things.
@@ -806,7 +809,7 @@
 - **[Agentic AI Frameworks Explained: Workflows, Multi-Agent, & Production](https://www.youtube.com/watch?v=ZVPlLaehjLk)** · IBM Technology (channel)
   안녕. 제 생각엔 당신 주변 세상은 에이전트형 AI 시스템과 그 엄청난 잠재력으로 떠들썩할 것 같네요. 그래서 당신은 에이전트형 AI 시스템을 구축하기로 결정합니다. 최고의 프레임워크를 찾다 보니 어느새 GitHub 탭이 17개나 열려 있고, Medium 블로그도 5개나 북마크되어 있는데, 정작 어떻게 진행해야 할지는 전혀 모르겠다. 네, 우리 모두 그런 경험이 있죠. LangChain, LangGraph, Crew AI, AutoGen, Semantic Kernel 등 강력한 프레임워크가 정말 많습니다. 그렇다면, 당신은 어느 쪽을 선택하시겠습니까?
 
-### unclassified (446건)
+### unclassified (448건)
 
 - **[(Quick Overview) Korea's Real Engine of the AI Revolution: M.AX](https://www.youtube.com/watch?v=EDHZlKgvwm4)** · KOTRA TV (keyword)
   [music] 2025. [music] The world is different. Supply chains are fragmenting, [music] getting only deeper. The climate and energy risks are rising, getting only sharper. The race for AI leadership and sovereignty is accelerating, [music] getting only faster. What is Korea's choice, and where must we focus? Let me introduce Korea's gamechanging initiative, [music] Max. Max is manufacturing AI transformation. It's about [music] scaling advanced manufacturing with AI.
@@ -876,6 +879,9 @@
 
 - **["일본 독점 끝났다" 7000조 로봇 시장 판도 바꾼 LG의 60년 된 비밀병기?!](https://www.youtube.com/watch?v=heTDUcsmn7g)** · 더 리치 - 돈의 흐름을 읽어라 (keyword)
   지금 여러분덱 세탁기 안에서는 모터가 하나 돌아가고 있습니다. 아무도 신경 쓰지 않는 부품입니다. 고장나기 전까지는 그런게 있다는 것조차 입고서 사는 물건이죠. 그런데 그 모터를 만드는 기술이 지금 전 세계 로봇의 관절값을 정하고 있습니다. 그리고 그 기술을 자기 눈으로 확인하겠다며 지구에서 가장 비싼 의사를 이끄는 사람이 여의도까지 직접 날아왔습니다. 엔비디아의 젠슨 황입니다. 여기에 이상한 구석이 있습니다. 엔비디아에 필요한 건 반도체를 만들어 줄 회사이거나 자기 칩을 대량으로 사 줄 회사입니다.
+
+- **[Korean Semiconductors & Big Tech Kick Off '$1.04 Trillion' Investment Through Massive AI Alliance...](https://www.youtube.com/watch?v=5xMUHPiDSJg)** · 머니올라_KBS (keyword)
+  자, 이제 7월도 일주일이 채 안 남았습니다. 다음 주말이면은 이제 8월인데요. 증시 일정부터 살펴볼게요. &gt;&gt; 네. 7월 27일은 댈러스 여는 제조업 지수가 나오고 LG노텍이 실적을 발표하고요. 7월 28일은 미국의 7월 컨퍼런스 보드 소비자 신뢰 지수가 나오고 7월 29일은 FMC에서 금리를 결정하고 메타 마이크로소프트 SK 하이닉스가 실적을 발표합니다. 7월 30일은 미국의 2분기 GDP가 나오고 미국의 6월 PC 물가 지수 삼성전자 아마존이 실적을 발표하고요. 7월 31일은 BOJ에서 일본 중앙은행이 금리를 결정하고 미국 미식원대에서 소비자 심리 지수가 나올 예정입니다
 
 - **[AMD AI PCs, Ready When You Are](https://www.youtube.com/watch?v=y6wd2Hp4k40)** · AMD (channel)
   When you're always moving, being prepared matters more than being fast. With an AMD AI PC, your insights, data, and talking points are right on device. So when the conversation starts, you're prepared with the best story.
@@ -984,6 +990,9 @@
 
 - **[Want More AI Video Output? Start Here](https://www.youtube.com/watch?v=aCuY7H1b3Zc)** · Alibaba Cloud (channel)
   훌륭한 영상 아이디어가 과도한 AI 비용으로 이어져서는 안 됩니다. [음악] 알리바바 클라우드 AI 절약 플랜으로 대용량 AI 비디오 제작 비용을 최대 47%까지 절약하세요 . [음악] 영화 같은 영상미, 일관성 있는 멀티샷 스토리텔링, 그리고 대규모 생산 시 더욱 뛰어난 가치를 제공하는 선도적인 AI 비디오 모델을 이용해 보세요. [음악] 게임, 마케팅, 미디어, 전자상거래 등 다양한 분야에서 더 적은 비용으로 더 많은 영상을 제작하세요. [음악] 알리바바 클라우드로 AI 비디오 제작 비용을 절약해 보세요 .
+
+- **[Econ 101 with Cash (Back) Cobain](https://www.youtube.com/watch?v=E3-VlnxVCsI)** · Amazon (channel)
+  시간이 지남에 따라 불필요한 지출을 줄이면서 현금 흐름을 개선합니다. 경제학 개론, 지금 당장 캐시백 코비에게 박수! 실례합니다, 이게 뭔가요? [음악] 이거 경제학 수업이야? 제 이름은 캐시백 코비인데, 그냥 캐시백이라고 불러주셔도 돼요. [음악] 젊은이와 노인 모두 이익을 얻고, 나스닥에서 코비 캐시백을 받으세요 . 젊은이든 노인이든 모두에게 이익이 되고, 좋은 곳을 소개해 주고, 공짜 운동화도 주고, 약한 몸을 위해 아령도 주고, 냄새 나지 않게 향수도 줘. 어쩌면 연애 생활도 나아질지도 몰라.
 
 - **[Prime Air: Drone Delivery Customer Operations](https://www.youtube.com/watch?v=xk0mLgs_72w)** · Amazon (channel)
   We deliver what keeps your [music] day moving at the speed of life. Years of developing the highest safety standards brought us here. Countless flights across diverse environments, navigating [music] crowded skies with precision, purpose-built through real-world conditions, &gt;&gt; [music] &gt;&gt; traffic patterns, weather systems, changing environments. Safety [music] built into every flight. We ask one question repeatedly. How do we make this better? Every variable becomes an opportunity.
@@ -5428,9 +5437,9 @@
 - **[ZooxCast](https://www.youtube.com/watch?v=FBwjGXLNiBU)** · Zoox (channel)
   앗.
 
-## 2026-04 (총 376건)
+## 2026-04 (총 380건)
 
-### AX (101건)
+### AX (102건)
 
 - **[AI at the Edge: S3 E2](https://www.youtube.com/watch?v=Aw4AKbPgdQA)** · AMD (channel)
   Welcome to Advanced Insights, where we provide just what the show name suggests, advanced insights into some of the most exciting trends and topics in technology. On this episode, I'm joined by Ramin Hasani, co-founder and CEO of Liquid AI and a machine learning scientist at the Computer Science and Artificial Intelligence Lab, or CSAIL, at MIT. I'm looking forward to what I think will be a very exciting discussion with Ramin.
@@ -5654,6 +5663,9 @@
 - **[Agentic Orchestration Explained: How Salesforce Coordinates AI at Scale](https://www.youtube.com/watch?v=guC0IQxVd0w)** · Salesforce (channel)
   AI 에이전트는 우리가 일하는 방식을 혁신하고 있습니다. 단일 AI 에이전트는 마치 재능 있는 솔로 음악가처럼, 그 자체로 강력한 힘을 발휘합니다. 하지만 여러 담당자들이 더 큰 목표를 향해 협력하도록 하려면, 지휘자가 필요합니다 . 하나가 없으면 서로 연결되지 않은 소음만 남게 됩니다. 재능 있는 선수들이지만 호흡이 맞지 않는다. 에이전트 기반 오케스트레이션을 시작하세요. 음악을 최고의 밴드 리더라고 생각해 보세요. 드럼 연주자는 드럼 키트 뒤에서 템포를 조절하고, 모든 연주자를 하나로 묶고, 공연을 앞으로 나아가게 하는 역할을 합니다.
 
+- **[Making AI Cheaper and Faster: Efficient Model Distillation](https://www.youtube.com/watch?v=lgIyxR7HBEc)** · ServiceNow (channel)
+  Welcome everyone to a brand new AI research bite. Thank you so much for joining us today. My name is Marylis and I will be your host for today. For those of you who are new here, the AI research bites is a series of short informative talks where we showcase cutting-edge research from ServiceNow's AI research team. These sessions are open to everyone, especially those of you who want to stay connected with the fast-paced moving world of AI research.
+
 - **[‘No, Of Course I Can!’: Deeper Fine-Tuning Attacks That Bypass Token-Level Safety](https://www.youtube.com/watch?v=abe9FXr7eEc)** · ServiceNow (channel)
   새로운 AI 연구 소식에 오신 여러분을 환영합니다. 오늘 함께해 주셔서 정말 감사합니다. 제 이름은 메리 리즈 이고 오늘 세션의 진행을 맡겠습니다. 이곳을 처음 방문하시는 분들을 위해 설명드리자면, AI 연구 발표 시리즈는 ServiceNow의 AI 연구팀이 진행하는 최첨단 연구 결과를 소개하는 짧고 유익한 강연입니다. 이 세션은 모든 분들께 열려 있으며, 특히 빠르게 변화하는 AI 연구 분야와 지속적으로 소통하고 싶으신 분들께 적합합니다.
 
@@ -5754,7 +5766,7 @@
 - **[Juan Sebastian Rojas - A Differential Perspective on Risk Aware Reinforcement Learning](https://www.youtube.com/watch?v=kGu2lueXH9A)** · Cohere (channel)
   제 이름은 후안 로아스입니다. 저는 토론토 대학교 박사 과정 학생이며, 오늘 이 자리에 참석하여 제가 박사 학위 연구의 일환으로 진행해 온 연구 내용을 여러분과 공유하게 되어 매우 기쁩니다 . 오늘 발표의 제목은 ' 위험 인식 강화 학습에 대한 차별적 관점'입니다 . 그래서 이 발표를 한 문장으로 요약하자면, 차별적 강화 학습은 위험을 인지한 의사 결정을 더 쉽게 만들어준다는 것입니다. 그래서 오늘 강연에서는 왜 이것이 사실인지 여러분 모두를 설득하려고 합니다.
 
-### unclassified (270건)
+### unclassified (273건)
 
 - **[Advancing with Purpose: Designing for Product Energy Efficiency](https://www.youtube.com/watch?v=_KxR6W2KHIg)** · AMD (channel)
   When customers come to us, they say we want to reduce the total cost of ownership. It's our responsibility to reduce the power consumption as much as possible while delivering the performance that they're looking for. I think it's a win-win situation, both from a sustainability perspective, corporate responsibility perspective, but also from basically a corporation perspective. We're building things that people want and need.
@@ -6419,6 +6431,9 @@
 - **[CRM with AI in the flow of work | Autonomous CRM](https://www.youtube.com/watch?v=xePI-R7M2UY)** · ServiceNow (channel)
   기존 CRM 시스템은 AI 기능을 마치 나중에 덧붙인 것처럼 어설프게 처리했습니다. [음악] ServiceNow의 자율형 CRM은 단일 AI 플랫폼을 기반으로 구축되었습니다. 이는 소방 훈련이 시작되기 전에 중단시킵니다. 우리는 더위를 견딜 수 있어요. 이제 우리 CRM 시스템도 가능해졌습니다.
 
+- **[ServiceNow is rated one of the world’s most ethical companies](https://www.youtube.com/watch?v=koWwERXcEXk)** · ServiceNow (channel)
+  [music] &gt;&gt; When I first started at ServiceNow, it was really like we hire people with high ethics and high values. And as we evolved, we formalized it in our culture and we say this is what is expected of you and we are only going to bring on new talent that is aligned in the same [music] value system. When you're talking about doing [music] the right thing, it makes or breaks trust.
+
 - **[We are ServiceNow Costa Rica!](https://www.youtube.com/watch?v=1Qgq0D_eyA8)** · ServiceNow (channel)
   코스타리카를 생각하면 아마 이것이 떠오를 겁니다. ServiceNow를 생각하면 아마 이것이 떠오를 겁니다. 아마 여러분은 그 두 가지를 동시에 생각하지는 않을 겁니다 . 아무튼, ServiceNow 코스타리카에 대한 2분짜리 영상입니다. 시계를 보세요. 2분. 맞습니다. 그건 별로 많은 돈이 아니에요. 벌써 5 초가 지났습니다. 좋아요. 코스타리카는 50만 종 이상의 야생 동물이 서식하는 곳이며, ServiceNow 코스타리카 지사에는 50개 이상의 직무가 있습니다 . 예를 들어, AI 컨설턴트. 플랫폼 컨설턴트. 디지털 기술. 고객 만족을 최우선으로 생각합니다.
 
@@ -6455,8 +6470,14 @@
 - **[「駆け出す前に書き出せ」 ースマホと手帳で上手にタスク管理をするコツとは？](https://www.youtube.com/watch?v=fd5JQgZPrio)** · SoftBank (channel)
   픽업 소프트 백 뉴스. 이번은 소프트뱅크 뉴스의 기사에서 달리기 전에 내보낼 수 있어 스마트폰과 수첩으로 능숙하게 태스크 관리를 하는 요령이란에 대해 해설합니다. 그 기사 수첩 평론가의 종지의 인터뷰군요. 그, 작업 관리, 뭐, 모두 학위는 좌절을 경험하는 그 영원한 주제가 아닌가? 그래, 정말로 청취자의 당신도 왠지 아름다운 수첩을 샀는데 새하얀 그대로라든지 기합 넣어 새로운 어플리를 넣었는데 뭔가 통지의 빨간 배치가 모이는 만큼이 되어 있다든가 그런 경험 있는 것이 아닐까요. 그래. 있어요.
 
+- **[ソフトバンクCM「白戸家　お父さん衛星になる」篇 | メイキング映像](https://www.youtube.com/watch?v=Z6WZgaRJtcE)** · SoftBank (channel)
+  안녕하세요. 안녕하세요. 안녕하세요. 잘 부탁드립니다. 오 소원 좋은 아침입니다. 있습니다. 네. 네. 쉬운 모두가 된다. 시작. [웃음] 축하 메일을 주자. 하지만 이렇게 산이라고 현 밖이니까. 네. 반년 만에, 만날 수 있었기 때문에 대단히 기뻤습니다. 오랜만에 만날 수 있어 어쩐지 벌써 이렇게 착심 알고 있다고 할까 안심하는 멤버가 되었다고 해 느낌이 자꾸자꾸 하네요. 그래. 이제 더 많은 것입니다. 그래. 백시에 들어 있다. 그건, 매번 그 이야기가 되는데. 맞아. 나는 이미 좋다.
+
 - **[フィルター強度の変更［あんしんフィルター/ お子さまの端末：iPhone］](https://www.youtube.com/watch?v=Uur-vqVK8YE)** · SoftBank (channel)
   안심 필터로 안심 필터 관리 사이트에서 아이가 사용하는 iPhone 의 필터 강도를 변경하는 방법 안내 합니다. 어린이의 지식과 사용법에 따라 보호자의 판단으로 필터 강도 설정 제발. 필터 관리 사이트에서 설정 내용 맞춤설정을 하려면 사전에 앱의 초기 설정과 관리자 등록이 필요합니다. 또 안심 필터 관리 사이트에 로그인 관리자 등록시 설정된 부모님 이메일 주소와 비밀번호가 필요합니다. 처음에 관리 사이트에 로그인하는 방법을 안내합니다. 합니다. 부모님의 스마트 폰 등에서 관리 사이트로 이동합니다.
+
+- **[ロックスクリーンメディアサービス「Glance」のご紹介](https://www.youtube.com/watch?v=CiAit3oo88E)** · SoftBank (channel)
+  잠금 화면에서 다양한 콘텐츠로 손쉽게 에 액세스. 잠금 화면에서 [음악]으로 완결되는 조금 기쁜 우연의 만남. [음악] 얼굴 사진을 등록하기만 하면 [음악] 나에게 딱 맞는 패션을 쉽게 찾을 수 있습니다. . 추천 코디 [음악]이 차례로 에 표시됩니다. 좋아하는 코디네이션 [음악]을 선택하자. 원하는 아이템을 선택하면 그 자리에서 구입 할 수 있어. 새로운 AI 쇼핑 체험이 시작된다. 지금 [음악] 바로 공백을 즐기자.
 
 - **[気になるAIを選んでボタンを押すだけ！「だれでもAI」](https://www.youtube.com/watch?v=b3XlGin_8gk)** · SoftBank (channel)
   SNS에서 볼 수 있는 유행 AI 서비스 시도하고 싶었던 적이 있습니까? 그런 당신에게 누구나 AI를 시도해보십시오. 원하는 AI 서비스를 선택하면 가공하고 싶습니다. 자신의 사진을 선택하기만 하면 됩니다. 버튼을 누르면 누구나 쉽게 지금 화제의 AI를 즐길 수 있습니다. . 그 외에도 인기의 AI 서비스를 소개 . 버튼 하나로 화제의 AI를 즐길 수 있는 누구나 심지어 AI 꼭 시도해주세요.
@@ -6566,9 +6587,9 @@
 - **[Seeing the world differently: Inside the Zoox robotaxi’s 360° vision](https://www.youtube.com/watch?v=5uNBa7bmRmY)** · Zoox (channel)
   The Zoox robot taxi doesn't have a front or a [music] back because it's not a car and it's driven by AI not humans [music] and that changes everything including how it sees the world. [music] Four sensor pods positioned on each corner give it a higher vantage point helping it see over traffic on busy city streets.
 
-## 2026-03 (총 256건)
+## 2026-03 (총 279건)
 
-### AX (75건)
+### AX (77건)
 
 - **[AI Browser Automation on AWS (Zero Setup)](https://www.youtube.com/watch?v=yF2jj4M_m4c)** · AWS Developers (channel)
   그러니까, 1년 조금 넘게 전에, 바로 이 유튜브 채널에서 제가 클로드에게 피자를 주문해달라고 부탁하는 영상을 올렸었죠. 당시 이게 실험적인 거였으니까 엄청 기대했었어요. 이러한 모델들, 즉 대규모 언어 모델이나 멀티모달 모델들이 실제로 당신이 가진 컴퓨터를 제어하고 당신을 위해 어떤 작업을 수행할 수 있다는 생각입니다. 그래서 피자를 주문했어요. 제가 그 영상을 만들었을 때와는 많은 것이 달라졌죠 . 이번 영상에서는 새로 나온 제품들에 대한 최신 정보를 알려드리고, 저도 다시 배가 고파졌으니 어떤 것들을 할 수 있는지 이야기해 보려고 합니다.
@@ -6720,11 +6741,17 @@
 - **[Replit Agent 4 Launch Announcement](https://www.youtube.com/watch?v=-2xHmkpmCBM)** · Replit (channel)
   [음악] 환영합니다. 이러한 건축물은 미래지향적 이면서도 공학적으로 뛰어납니다. 창의성과 시스템 사이의 균형이야말로 음악을 특별하고 확장 가능한 것으로 만드는 요소입니다. 이제는 소프트웨어에도 똑같이 적용됩니다. 이제는 단순히 기술적인 작업이 아니라 창의적인 [음악] 작업이 되었습니다. 오늘, 저희는 그 아이디어의 다음 단계인 Replit Agent 4를 출시합니다. Replit Agent 4는 창의적인 흐름을 위해 설계된 네 가지 핵심 요소로 구성되어 있습니다 . 그들은 함께 상상력과 실행 사이의 새로운 리듬을 만들어냅니다.
 
+- **[Put AI to work in procurement](https://www.youtube.com/watch?v=KlqbDTaq7Ns)** · ServiceNow (channel)
+  [음악] 와우. 블레이크는 어떻게 알았을까? [음악] 그는 초능력자일까? 니콜라스. 당신이 들를 것 같다는 예감이 들었어요. 느낌? 당신은 정말 초능력자군요. 그렇게 해서 제 구매 요청에 대해 알게 되셨군요. 저는 초능력자가 아닙니다. 그럴 필요는 없어요. [음악] 저는 AI 에이전트를 가지고 있습니다. 잘 해보려고 했어, 블레이크. 저는 AI 에이전트에 대해 모든 것을 알고 있습니다. 그들은 ServiceNow의 AI 플랫폼을 사용하고 있습니다. 저도 [음악] 직접 사용해 본 적이 있어요.
+
 - **[Industrial AI Is Scaling Now | Roland Busch Keynote | Siemens RXD Summit Beijing](https://www.youtube.com/watch?v=S3vM-v8cbjY)** · Siemens (channel)
   Let's jump back in time to a world before electricity. Back then, horses bridged our distances, and steam powered our machines. Then electricity arrived. This general-purpose technology became the foundation of modern life, an industrial revolution, and Siemens was there from the very beginning. We scaled electricity, grids, electric trams, telecommunication, power plants everywhere around the globe. We brought this new world to life. Now, today, another general-purpose technology arrived.
 
 - **[Snow Report: What's Happening At Snowflake In March](https://www.youtube.com/watch?v=i6sVPVKPU30)** · Snowflake (channel)
   [음악] 스노우플레이크의 3월 적설량 보고서에 다시 오신 것을 환영합니다 . 산에서 돌아와서 지금 멘로파크에 새로 문을 연 스노우플레이크 TV 스튜디오에서 최신 소식을 전해드리고 있습니다. 자, 그럼 시작해 볼까요? 개발자 여러분, 주목하세요! 차세대 Snowflake 노트북이 이제 정식 출시되었습니다. 익숙한 Jupiter 기본 [음악] 환경을 작업 공간에서 바로 이용할 수 있으므로 기존 스크립트와 모델 학습 자료를 즐겨 사용하는 라이브러리나 파일 기반 구성 방식을 잃지 않고 Snowflake로 가져올 수 있습니다.
+
+- **[個人投資家向けオンライン説明会「ソフトバンクの成長戦略」](https://www.youtube.com/watch?v=PfLNjF0aJoU)** · SoftBank (channel)
+  여러분 안녕하세요. 오늘은 Softbank 주식회사의 온라인 설명회에 참가 정말 고마워요. 오늘 사회를 맡습니다 소프트뱅크 주식회사 IR 무로 출장의 후지와라입니다. 처음으로 재무통괄 집행 임원 총괄 담당 아키야마 님보다 약 25 분간 설명 후 여러분이 보내주신 질문 실시간으로 대답했습니다. 합니다. 설명회 전체 시간은 잘 45분을 예정하고 있습니다. 그럼 설명회 시작 합니다. 여러분 안녕하세요. Softbank 산입니다. 오늘, 네, 시청 해 주셔서 감사합니다. . 그, 오늘이지만, 우선 나 에서 보는 것과 같은 흐름으로, 네, 이야기하자.
 
 - **[Kids & KI - Chancen und Risiken | Online-Elternabend](https://www.youtube.com/watch?v=zNFVjqSv5rU)** · Swisscom (channel)
   eem 노인 온라인 커뮤니티에 오신 것을 환영합니다. 제목이 Kids와 K S인 더 오래된 것들 기회와 위험은 인위적으로 만들어진 것이다. 지능 K. 두 글자 Ees와 Wald Kstand를 내부로 변경했습니다. 아이는 아이이고 선물입니다. 당신이 말합니다 음성 비서와 함께 또는 그녀는 qu입니다 알고리즘이 있는 모든 피드 그들을 위해 자료를 모아두었습니다. 그건 질문이네요. 제게 있어서, 노인분들은 당연히... 아직 괜찮은 건가요? 똥이란 무엇인가요? 그렇다면 상황이 정말로 심각해지는 지점은 어디일까요? 어린이와 청소년을 위한 것입니다.
@@ -6795,7 +6822,7 @@
 - **[Zapier MCP in Claude Chat: From Zero to Working Setup | Build Along Workshop](https://www.youtube.com/watch?v=ZlAr1wx_50c)** · Zapier (channel)
   안녕하세요 여러분. 안녕하세요, 환영합니다. 이렇게 여러분 모두를 만나게 되어 정말 기쁩니다. 벌써 100명이 넘는 사람들이 모였어요. 몇 분 안에 몇몇 분들이 참여하실 거라는 걸 알고 있습니다. 자, 그럼 , 사람들이 들어오는 동안 채팅창에 두 가지 질문을 남겨주시겠어요? 우선, 전통적으로 어디에서 접속하셨는지 여쭤보겠지만, 제가 가장 중요하게 생각하는 것은 지난 48시간 동안 가장 맛있게 드신 음식입니다. 그러니까, 먹은 음식, 마신 음료, 들은 것, 본 것 중 무엇이 원인일 수도 있어요.
 
-### DX (3건)
+### DX (4건)
 
 - **[S3 at 20: How AWS Built the Internet's Storage](https://www.youtube.com/watch?v=XmytPmyzDcs)** · AWS Developers (channel)
   아마존 S3는 2026년 3월 14일에 20주년을 맞이합니다. S3는 여러분이 매일 사용하는 스마트폰보다도, 여러분이 즐겨 찾는 소셜 미디어 웹사이트보다도 역사가 오래되었습니다. 현재 S3는 500조 개 이상의 객체를 저장하고 초당 2억 건의 요청을 처리합니다. 곰곰이 생각해 보면 꽤 인상적인 일이죠 . 오늘은 아마존 S3의 놀라운 20년 여정을 개발자 의 관점에서 살펴보고 , 개발자에게 가장 중요한 S3 기능들을 알아보겠습니다.
@@ -6803,10 +6830,13 @@
 - **[Angela Lopez Cardona  - How cognitive data can improve LLM alignment](https://www.youtube.com/watch?v=HK2yB3fwYMY)** · Cohere (channel)
   So I start um yeah so I'm Angela and as she was mentioning I'm doing a PhD in here in Barcelona in Telefonica and the main topic that I'm studying is how to improve FL language models with cognitive processing signals. So today I'm going to explain briefly kind of different projects all related to this task that uh I have developed during my thesis with the collaboration of my colleagues Carlos Mleia Sian and Yianis and others and some of them appear here in this in this photo that we took last year in a conference.
 
+- **[Driving AI Data Center Innovation for the Intelligent Future](https://www.youtube.com/watch?v=uUWTLhl6qM4)** · Huawei (channel)
+  여러분, 안녕하세요. 이분은 올리비에입니다. 저는 스페인 바르셀로나에서 열리는 모바일 월드 콩그레스 2026에 참석 중입니다. [음악] 인공지능이 이제 제 주변 어디에나 있는 것 같네요. 컴퓨팅 성능에 대한 수요가 폭발적으로 증가하고 있습니다 . 컴퓨팅, 네트워크 및 스토리지에 전례 없는 압력이 가해지고 있습니다 . 그리고 그것이 데이터 인프라 (음악)를 전 세계적인 주목을 받게 만들었습니다. 저를 따라오세요. [음악] 저는 화웨이 글로벌 데이터 스토리지 마케팅 및 솔루션 영업 부서의 사장님과 함께 이 새로운 시대를 위한 최신 솔루션을 살펴보기 위해 왔습니다
+
 - **[Bynder Eliminates Content Chaos With Snowflake](https://www.youtube.com/watch?v=EAxOrdkEr8k)** · Snowflake (channel)
   특히 우리가 살고 있는 디지털 우선 세상에서는 콘텐츠가 끊임없이 증가하고 있기 때문에 모든 기업은 콘텐츠 중심적입니다 . 고객들은 이를 콘텐츠 혼란으로 여길 수 있습니다 . 바로 그 부분에서 저희가 도움을 드릴 수 있습니다. 콘텐츠 혼란을 확실하게 통제할 수 있도록 도와드리겠습니다. 바인더는 디지털 자산 관리 회사입니다. 저희는 고객이 마케팅 자료를 저장할 수 있는 포털을 제공합니다 . 또한, 원하는 경우 해당 파일을 인터넷의 다른 곳에 삽입할 수 있도록 호스팅 역할도 합니다.
 
-### unclassified (178건)
+### unclassified (198건)
 
 - **[Retail AI Runs on AMD EPYC™](https://www.youtube.com/watch?v=vvBHNVNcM0k)** · AMD (channel)
   Shopping has evolved into a fast paced digital experience, but slow checkouts and disconnected systems can frustrate customers and cost retailers sales. AMD Retail AI solutions, powered by AMD EPYC Server CPUs, bring intelligence directly to the point of sale. Fast, reliable checkout cameras for AI-powered shopping assistants help customers find exactly what they need, all running efficiently on cost-effective, enterprise-ready EPYC CPUs. No massive infrastructure overhaul required.
@@ -6901,6 +6931,27 @@
 - **[Keras Tutorial: Checkpointing distributed models with Orbax](https://www.youtube.com/watch?v=DF9cvunST58)** · Google Developers (channel)
   대규모 머신러닝 모델을 학습시킬 때 , 특히 분산 환경에서는 안정적인 직렬화 및 상태 관리가 매우 중요합니다. JAX 생태계를 사용하는 Keras 사용자의 경우 , 체크포인트를 위해 전용 라이브러리를 활용해야 할 수도 있습니다. 안녕하세요. 제 이름은 유펑이고, 오늘은 Orbax 체크포인팅을 Keras 모델과 함께 사용하는 방법을 살펴보겠습니다. 특히 Orbax가 Keras를 유연하게 확장하여 JAX 백엔드와 통합함으로써 안정적인 모델 저장을 가능하게 하는 방법에 초점을 맞추겠습니다. 오랜 기간 케라스를 사용해 온 사람들은 알겠지만, 케라스에는 체크포인트를 위한 편리한 내장 콜백 기능이 있습니다
 
+- **[30‑Millisecond Scans? Huawei's AI‑Powered Ultrasound Delivers](https://www.youtube.com/watch?v=qGFsQYHQvmM)** · Huawei (channel)
+  수 세기 동안 이 병원[음악]은 의료의 중심지였으며 의학 발전의 증인이었습니다. MWC에서 화웨이 부스에 모인 저희는 단순히 의료 서비스를 발전시키는 것을 넘어 , 의료 서비스에 대한 새로운 관점을 제시합니다. 더욱 스마트한 시스템, 더욱 뛰어난 결과, 이것이 바로 새롭게 정의 된 의료 서비스입니다. 진짜 그렇게 빨리? 저는 MWC 바르셀로나 2026에 왔습니다. [음악] 오늘 제 임무는 간단합니다. 갑상선 검사를 완료하세요. 하지만 반전이 있습니다. [음악] 1초 안에 해내야 해. 갑시다 .
+
+- **[AI Could Widen the Digital Divide – Unless We Act](https://www.youtube.com/watch?v=me5Ue4jFTXE)** · Huawei (channel)
+  [음악] 바르셀로나에서 열리는 모바일 월드 콩그레스에 오시면 미래에 대한 비전에 눈이 휘둥그레지기 쉽습니다. AI 기반 네트워크, 차세대 음악 연결성, 혁신된 산업, 그리고 획기적인 음악 관련 발표들이 쏟아지고 있습니다. 하지만 이러한 혁신 속에서도 한 가지 질문이 계속해서 머릿속을 맴돕니다 . 우리가 만들어가고 있는 이 모든 지능적인 [음악] 세상에서 누가 포함되고 누가 배제될까요? 그리고 디지털 포용은 단순히 사회적인 문제만이 아닙니다. 음악은 전 세계 경제, 사회, 그리고 기회의 판도를 바꿀 것입니다.
+
+- **[AI is the Foundation for Transforming Industries](https://www.youtube.com/watch?v=5xLjNzJKuHA)** · Huawei (channel)
+  안녕하세요, 바르셀로나. 저는 인공지능이 음악 분야의 가장 어려운 문제들을 어떻게 해결하고, 어떻게 모든 산업을 변화시키고 있는지 보여드리기 위해 이 자리에 왔습니다. 기온이 영하 40도까지 내려가는 이븐 노천광산에서는 [음악] 이 트럭들이 모두 자율 주행할 수 있습니다. 자율주행차는 인간 운전자보다 20% 더 효율적 이며 심각한 부상 위험을 없애줍니다 . 이제 음악 채굴은 더욱 안전하고, 스마트하며, 지속 가능해졌습니다. 석유를 발견하는 건 마치 지구에 CT 촬영을 하는 것 같은 느낌이에요.
+
+- **[Advancing Al-Centric Networks to Create More Value in the Agent Age](https://www.youtube.com/watch?v=vSYElnPuNgA)** · Huawei (channel)
+  올해 우리는 거대한 인터넷 시대로 진입하고 있습니다. 이는 브랜드 가치를 높이고 10조 달러 규모의 시장을 개척할 수 있는 엄청난 기회입니다. 이제 AI 도입이 확대됨에 따라 AI 기반 서비스를 통한 수익 창출의 세 번째 단계가 열렸습니다. AI는 소비자, 가정, 기업의 수익 창출 방식 또한 재편하고 있습니다. 화웨이는 5G와 AI를 최대한 활용하기 위해 통신 사업자들과 긴밀히 협력할 준비가 되어 있습니다. 저희는 통신 사업자들이 AI 중심의 네트워크를 구축하도록 지원할 수 있습니다.
+
+- **[Huawei Advances AI Ready Classrooms with Smart Education Tools](https://www.youtube.com/watch?v=_osW9MDS7fI)** · Huawei (channel)
+  지식은 한때 책 속에 존재했다. 이제 음악은 실행 속에서 살아 숨 쉰다. 인공지능에 대해 읽는 것이 인공지능을 만드는 것은 아닙니다. MWC의 화웨이 부스에서는 이론이 아니라 실제 훈련이 진행됩니다. 배움은 실천으로 이어지고, 실천은 미래를 만들어간다. 저게 뭐에요? 지금 저는 MWC 바르셀로나 2026에 참석 중입니다. 스마트 교육에 대해 더 자세히 알아보기 위해 오늘 이곳에 왔습니다. 가서 확인해 보자. 어, 저게 뭐죠? 아주 오래된 노트북일까요, 아니면 정체 불명의 기기일까요?
+
+- **[Network Goals: Teaming Up for Win-Win Connectivity](https://www.youtube.com/watch?v=RYaAvI-xLLg)** · Huawei (channel)
+  Hi, I'm Lucas. I'm working on it, it 's not a bar and in a few days there's going to be a very important match. The network is somewhat stable and needs to be fixed. My name is Lucas Marengo. Business development manager internet. We are an IT distributor in Argentina. I do n't have much information about that place. Well, I think we're going to have to call in a specialist.
+
+- **[Orange and Huawei Expand Remote Connectivity in Africa Using AI Solar](https://www.youtube.com/watch?v=JtTgykhgtCk)** · Huawei (channel)
+  [음악] 오렌지는 18개국에서 179,000명 이상의 가입자를 보유하고 [음악] 서비스를 운영하고 있습니다. 알겠죠? 해당 모바일 데이터 가입자가 90명이 넘습니다 . 이 글에서는 해당 분야에서 오렌지(Orange)에 대해 간략하게 소개합니다. 농촌 지역의 가장 큰 어려움은 무엇보다도 서비스 범위 확보라고 생각합니다. [음악] 보도 범위가 핵심 과제입니다. 그리고 기기 가격 부담도 또 다른 문제이고, 특히 농촌 지역에서는 음악 감상에 필요한 전기 에너지가 큰 어려움입니다. 우리는 음악과 관련된 이러한 에너지 문제를 극복하기 위해 많은 해결책을 시도하고 있습니다
+
 - **[Build a PyTorch ReLU Kernel with Hugging Face Kernels (CPU + Metal)](https://www.youtube.com/watch?v=wQR-QC7pbqQ)** · Hugging Face (channel)
   안녕하세요 여러분. 오늘은 허깅 페이스 커널 라이브러리에 대해 이야기하고, 실제로 커널을 빌드한 다음, 이 커널 라이브러리를 사용하여 패키징하고 배포하는 간단한 데모를 진행해 보겠습니다. 기본적으로 이 패키지를 사용하는 전체 워크플로를 살펴보겠습니다. 기본적으로 이 영상은 제가 일주일 전에 라이브 행사에서 발표했던 내용을 간략하게 압축한 것으로, 특히 라이브 데모에 초점을 맞추고 있습니다. 자, 이제 함께 코딩을 해볼까요? 하지만 우선 가장 중요한 질문은 " 허깅 페이스 커널 라이브러리"란 무엇인가 하는 것입니다.
 
@@ -6970,8 +7021,14 @@
 - **[Crackers in Space](https://www.youtube.com/watch?v=HDv4N4WwA80)** · Luma AI (channel)
   [music] &gt;&gt; It's all sad &gt;&gt; [music] &gt;&gt; being in space. There's nothing to do. [music] You float around, and that's [music] pretty much it. But that's not the worst [singing] part. Oh, no. It gets worse. You can't [singing] eat a Lunar Crackers &gt;&gt; [music] &gt;&gt; in space. You can't eat &gt;&gt; [singing] &gt;&gt; a Lunar Crackers in space. You can't [music] eat a Lunar Crackers &gt;&gt; [singing] &gt;&gt; in space.
 
+- **[Flow State - Made with Luma](https://www.youtube.com/watch?v=mRwL4bUnrEs)** · Luma AI (channel)
+  I got what you need, I'm a one-stop shop. Won't stop till I pop and I get what I want. I got what you need, I'm a one-stop shop. Won't stop till I pop and I get what I want. [music] I got what you need, I'm a one-stop shop. Won't stop till I pop and I get what I want. I got what you need, I'm a one-stop shop.
+
 - **[Introducing Luma Agents](https://www.youtube.com/watch?v=p59rcSJ3n8A)** · Luma AI (channel)
   The question we asked ourselves is what would creative work actually look like in the age of unified intelligence. When you have this amount of power, how do you work with it? But AI for such work today looks like a mess. The best solution right now that people have come up with is the spaghetti of nodes, which we call node monsters at Luma.
+
+- **[Introducing Luma Agents](https://www.youtube.com/watch?v=rYehPO_MwMI)** · Luma AI (channel)
+  Creative ambition is expanding. But the creative process hasn't changed. But what if the process finally caught up? Imagine a new kind of collaborator. &gt;&gt; [music] &gt;&gt; You set the direction. They scale execution with you. Creative agents that understand the physical world. See what [music] comes next. Explore more possibilities. Collaborate with other creatives. Ideas multiply. And what once took weeks happens in moments.
 
 - **[Introducing Uni-1](https://www.youtube.com/watch?v=tkgEb5hO6iM)** · Luma AI (channel)
   They built intelligence in pieces. We built it as one. This is the era of unified intelligence. Uni, one. A reasoning model that can generate images based on real-world understanding. &gt;&gt; [music] &gt;&gt; It imagines, reasons with the same forward [music] pass. Not a language model or an image model, something [music] entirely new. It's intelligent. It's directable. [music] It's cultured. Left and right brain [music] together. This is Uni One.
@@ -7243,11 +7300,29 @@
 - **[[전해드림] 펭대리가 다 챙겨줄게!  T 우주 x 티빙 역대급 포인트 혜택 정리 (필독) ⚠️](https://www.youtube.com/watch?v=3lwj9cLllM4)** · SK텔레콤 (channel)
   이번 시즌 프로 야구 중게 어디서 보는지 아직도 모르고 있어. 지금부터는 그냥 외워. 이미 정답은 티오즈 티빙으로 정해졌거든. 2년에 단종 1200만 찍고 난리났었잖아. 올해도 그 열기 그대로 야구 즐길 팬들 진짜 많을 텐데 야구 팬이라면 티우즈 빙은 이제 선택이 아니라 필수인 거 알지? 그래서 나 팽대리가 야구도 보고 네이버 페이 포인트도 버는 방법 끼려왔다이 말이야. 지금 티 우주에서 티빙 첫 구독 콩 이벤트 참여하잖아. 최대망 9,000원 네이버 페이 포인트를 단계별로 지급해 줘.
 
+- **[Dear IT: You change the world](https://www.youtube.com/watch?v=-aGdHuOPxpo)** · ServiceNow (channel)
+  안녕하세요. 안녕. 안녕하세요, 제 이름은 펠리시티이고 오늘 여러분께 편지를 읽어드리도록 초대받았습니다 . 우리는 월스트리트 저널에 IT [음악] 업계가 해주는 모든 일에 감사한다는 내용의 큰 광고를 냈습니다. 음악계 뒤에서 이 모든 것을 가능하게 하기 위해 애쓰는 사람들에게 감사를 표하기 위해서입니다. 좋아요, 제가 시작할게요. IT 부서 여러분께, 세상은 빠르게 변화하고 있으며, 그 변화를 주도하는 것은 바로 여러분입니다. 인터넷은 저절로 생겨난 것이 아닙니다. 구름은 갑자기 나타난 것이 아닙니다. 워크플로는 단순히 [음악]의 흐름만 있는 것이 아니었습니다
+
+- **[How does ServiceNow use ServiceNow to empower employees?](https://www.youtube.com/watch?v=_vnaLlAHkcQ)** · ServiceNow (channel)
+  No tickets to chase, no searching across systems, and no waiting. Employees are looking for a frictionless experience so that they can really focus on the work that matters. ServiceNow EmployeeWorks gives our employees access to a connected set of capabilities behind one single front door offering intelligent, contextual support powered by agentic AI. This is what it means to put AI to work for people.
+
+- **[How does ServiceNow use ServiceNow to govern AI at scale?](https://www.youtube.com/watch?v=YaE68I5yKHs)** · ServiceNow (channel)
+  우리가 인공지능을 사용하고 있는지 여부가 문제가 아닙니다. 핵심은 우리가 그것을 측정할 수 있는가, 관리할 수 있는가, 그리고 대규모로 신뢰할 수 있는가 하는 점입니다. 좋아요, 그럼 준비해 봅시다. [음악] ServiceNow에서는 단순히 AI 플랫폼만 구축하는 것이 아닙니다. 저희는 최초 고객입니다. ServiceNow는 사업의 모든 영역에서 AI를 활용합니다 . 모든 기능, 모든 워크플로, 매일매일. AI 관제탑은 대시보드가 ​​아닙니다. 이는 부분적인 해결책이 아닙니다. 이는 서로 다른 워크플로우들을 하나의 인터페이스로 묶어주는 연결고리 역할을 합니다.
+
+- **[Meet Chris Bedi, ServiceNow chief customer officer](https://www.youtube.com/watch?v=OHV44YvmJI4)** · ServiceNow (channel)
+  가장 즐겨 부르는 노래방 곡이나 가사를 전부 외우고 있는 노래는 무엇인가요? 에미넴의 "Lose Yourself"를 좋아하지만, 가사를 전부 아는 건 아니에요. 아, 너랑 닉이 ' Lose Yourself'에서 그 걸로 정면 승부를 펼칠 수 있다는 거 알아? 우리는 그렇게 하지 않을 겁니다. [웃음] 우리 애들이요. 제 아들은 17살인데, 대학에 가기 전까지 집에서 1년 더 지낼 예정입니다 . 그건 좀 실망스럽네요 . 그리고 제게는 14살 된 , 중학교 1학년인 딸이 있어요.
+
+- **[Put AI to work for developers](https://www.youtube.com/watch?v=eZCc65ZgSv8)** · ServiceNow (channel)
+  안녕하세요, L. 안녕. 직감적으로 빠르게 확인해 보세요. 전에 저를 위해 만들어주셨던 무료 점심 앱 기억하세요? 아, 그러니까 제가 여가 시간에 진행하는 프로젝트 덕분에 지난 7개월 동안 점심을 무료로 드시고 계셨다는 말씀이시군요? 너는 아직 나에게 빚을 졌어. [음악] 당신에게 신세를 졌어요. 알았어요. 오, 부리토네. 좋아요, 정말 빨리 말씀드릴게요. 좋아요. 무료 점심 2.0 AI 기반의 개인 맞춤형 서비스. ServiceNow의 AI 플랫폼을 사용하면 이걸 바이브 코딩으로 할 수 있겠죠 ? [웃음] 물론 가능하죠.
+
 - **[SIMATIC Robotic Pick-AI: Object Recognition and Demo](https://www.youtube.com/watch?v=wMv-s2ooJJk)** · Siemens (channel)
   안녕하세요, 줄리안. 재밌어 보이네요. 그것에 대해 좀 더 자세히 설명해 주시겠어요? 본질적으로, 이는 우리의 포장 작업에 도움이 됩니다. 저희 물류 부서에서 직면하는 가장 큰 어려움은 외부 파트너로부터 받는 제품의 양이 매우 많다는 것입니다. 저희는 해당 제품의 크기와 무게에 대한 정보가 없으며, 때로는 포장이 변경될 수도 있어 이러한 물류 프로세스를 자동화하기 어렵습니다 . 바로 이런 점에서 공생 로봇 픽 AI가 중요한 역할을 합니다. 이 AI 덕분에 우리는 알 수 없는 물체를 자동으로 쉽게 집어 올릴 수 있습니다
 
 - **[The Industry Disruptors: How Haddy, Siemens, and Disney Built a 3D Printing Ecosystem](https://www.youtube.com/watch?v=BYIhsQW-e20)** · Siemens (channel)
   혁신의 삼각형이라는 주제로 진행되는 이번 세션에 오신 것을 환영합니다 . 오늘 이 자리에는 스타트업 헤들(Heddle), 기술 기반 기업 지멘스(Siemens), 그리고 선구적인 최종 사용자 기업 디즈니가 함께합니다. 제 이름은 세바스찬 볼프이고 오늘 이 자리를 맡게 되어 매우 기쁩니다. 아시다시피, 우리는 업계뿐 아니라 아마도 전 세계가 목격한 가장 큰 변화의 한가운데에 있습니다. 이는 우리 모두에게 영향을 미칩니다. 그것은 우리 삶의 모든 측면에 영향을 미칩니다. 그리고 업계 혁신가들은 이러한 변화를 주도하는 핵심적인 역할을 하고 있거나, 바로 그 핵심적인 역할을 하고 있습니다
+
+- **[Transforming Biopharma production with Siemens Xcelerator](https://www.youtube.com/watch?v=uKcDpiB0h-s)** · Siemens (channel)
+  I love this project with ZETA and LOBA because it really shows what is possible if you have companies that simply just want to be innovative, want to drive things forward, and it shows us that in Europe, we can make it. LOBA and pharma&amp; took on the challenge in ‘21 with the decision to build our own biotech with not a lot of experience in doing that.
 
 - **[Cortex Code Just Got a Massive Upgrade (March 2026 Updates)](https://www.youtube.com/watch?v=E17bqBxIFbs)** · Snowflake (channel)
   Cortex 코드를 사용하면 더 빠르게 개발할 수 있습니다. 저희는 [음악]에 대한 네 가지 새로운 업데이트를 발표하게 되어 매우 기쁩니다 . 이제 모든 사용자는 Snowflake 데이터, 컴퓨팅, 음악 및 거버넌스의 전체 컨텍스트를 유지하면서 워크 스페이스, [음악] 노트북 및 Snowsight 페이지 전반에서 Cortex 코드에 액세스할 수 있습니다 . 이는 에이전트 기반 머신러닝과 같은 고급 사용 사례를 지원합니다. [음악] 완전 아는 척쟁이네. 에디터에서 많은 시간을 보내는 개발자들을 위해, Cortex 코드 [음악] CLI가 이제 Windows 환경을 지원합니다.
@@ -7263,6 +7338,21 @@
 
 - **[The End of Busywork: Meet Project SnowWork](https://www.youtube.com/watch?v=yPbDuR047uQ)** · Snowflake (channel)
   AI는 음악에 대한 해답을 제시할 수 있을 뿐만 아니라, 이제는 결과까지 이끌어낼 수 있습니다. 프로젝트 Snow Work [음악]을 소개합니다. 이 프로젝트는 모든 직무 분야의 비즈니스 팀이 작업을 자동화하여 더 빠르게 업무를 처리할 수 있도록 지원합니다 . [음악] 주간 매출 현황을 빠르게 작성해 보세요 . 예측 실패의 근본 원인을 파악하십시오. [음악] 그리고 다음 단계를 포함한 요약 슬라이드를 만드세요 . Project Snow work [음악]은 코딩 경험 없이도 여러 단계를 거치는 워크플로를 처음부터 끝까지 자동화하여 생산성 [음악]과 효율성을 향상시키는 데 도움을 줍니다 .
+
+- **[ソフトバンク AIましゃはるのナンダコレ？「HAPS」篇（30秒）](https://www.youtube.com/watch?v=i-OTJclgatk)** · SoftBank (channel)
+  이게 뭐야? 은빛으로 빛나는 비행 물체. 이것은 소프트 뱅크의 합스라는 비행 기지국입니다. 청소권으로 상승하여 하늘에서 전파를 전달합니다. 하지만 왜 일부러 하늘을 날 수 있을까? 재해로 지상의 기지국이 망가져도 전파를 전달할 수 있도록 하늘로부터 갖추고 있습니다. 투머리 연결하기 어려운 장소에도 안정된 전파를 전달할 수 있다는 것이군요. [음악] 그래.
+
+- **[ソフトバンク AIましゃはるのナンダコレ？「HELPO~ヘルスケア~」篇](https://www.youtube.com/watch?v=UF1o6cvSWwI)** · SoftBank (channel)
+  이게 뭐야? 의사와 전화? 이것은 온라인 진료 기능을 갖춘 앱 헬포입니다. 의사와 이야기 할 수 있습니까? 네. 365 일 의사에게 봐 주어 초방전도 낼 수 있습니다. 이렇게? 지역의 의료기관과 제휴했던 사람들이 건강할 수 있는 사회를 목표로 하고 있군요. 날카로운. 괜찮아. Softbank. 그래.
+
+- **[ソフトバンク AIましゃはるのナンダコレ？「スマホ詐欺対策」篇](https://www.youtube.com/watch?v=WfMbD6HjyaM)** · SoftBank (channel)
+  이게 어쨌든 스마트 폰 작 사기를하려고합니다. 이건 괜찮아요. Softbank는 그러한 범죄로부터 자신을 보호하기위한 보안 앱을 제공합니다. 아, 이것은 AI를 활용하고 있네요. 나도 AI이니까 알겠습니다. 모두가 스마트 폰을 안심 안전하게 사용할 수있는 사회를 만들고 싶네요. 맞습니다. Softbank. 그래. Softbank. 원.
+
+- **[ソフトバンク AIましゃはるのナンダコレ？「人流データ~防災~」篇](https://www.youtube.com/watch?v=aRkk6nEk3lk)** · SoftBank (channel)
+  이게 뭐야? 루트 검색이 아니야. 이것은 실제 사람의 움직임을 알 수있는 소프트 뱅크의 인류 데이터입니다. 좌우로 전혀 다르네요. 비교하면 재해 때 사람이 어떻게 피난하고 있는지 알 수 있습니다. [음악] 즉 구조에 갈 수 있다는 것이군요. 지자체의 방재 계획 등 재해에 강한 마을 만들기에도 도움이 되고 있습니다. 멋지다. Softbank. 그래. Softbank. 네.
+
+- **[ソフトバンク AIましゃはるのナンダコレ？「災害対策ドローン」篇（30秒）](https://www.youtube.com/watch?v=1LreU83hDDg)** · SoftBank (channel)
+  이게 뭐야? 이것은 소프트 뱅크의 재해 대책 무인 항공기입니다. 재해시 탑재한 스피커로 피난 지시를 하거나 카메라를 사용하여 [음악] 2차 재해를 조사하기도 합니다. 영적. 또한 지원 물자의 관리도 AI 에서 하고 있기 때문에 필요한 양을 필요한 장소에 전달됩니다. 과연 AI Softbank.
 
 - **[KI im Alltag von Kinder und Jugendlichen](https://www.youtube.com/watch?v=SoFnOITn7c8)** · Swisscom (channel)
   한 세대 전체가 그렇게 되면 무슨 일이 일어날까요? AI가 가르치나요? Ler James 포커스 연구 2025년까지 왕과 슈베드쇼 AI 도구의 청소년. 12세에서 13세 사이의 [음악] 약 53%이며 18세에서 19세 청년층에서는 그 비율이 80%를 넘습니다. [음악] 한 세대 전체가 가르치고 있습니다 연구 및 구조 음악의 도움으로 이미 일상생활이 풍요로워졌습니다. K 이전과 h folge는 sch older 및 비유적인 표현입니다. 이 연구는 AI [음악]을 명확하게 보여줍니다. 주로 학교 교육 목적으로 사용됩니다.
@@ -7342,9 +7432,9 @@
 - **[Zoox | How to: Gossip in a Zoox](https://www.youtube.com/watch?v=fGlu3C0N94s)** · Zoox (channel)
   주츠에서 뒷담화하는 방법. 첫 번째 단계는 Zutes를 요청하는 것입니다. 두 번째 단계는 Zutes에 탑승하는 것입니다. 세 번째 단계, 이제 음식을 담기 시작하세요. 이봐, 엿듣지 마. Zutes에서만 가능한 얼굴을 마주보고 대화하는 즐거움을 만끽하세요.
 
-## 2026-02 (총 99건)
+## 2026-02 (총 121건)
 
-### AX (35건)
+### AX (37건)
 
 - **[Build a Sports AI Agent with Vector Search on AWS](https://www.youtube.com/watch?v=920RxyYaPHM)** · AWS Developers (channel)
   인공지능 에이전트의 성능은 제공하는 데이터의 질에 따라 좌우됩니다. [음악] 이 영상에서는 스포츠 데이터 세트를 사용하여 임베딩을 생성하고, 벡터화한 다음, 에이전트에 추가하는 방법을 보여드리겠습니다. 그다음에는 몇 가지 예측과 분석을 실행하고 그 결과가 얼마나 좋은지 살펴보겠습니다. 이 영상을 끝까지 보시면 데이터 세트를 의미 검색 기능을 갖춘 대화형 AI 에이전트로 변환하는 방법을 더 잘 이해하게 될 것입니다 . 저희는 NFL 데이터를 일부 사용할 예정 이지만, 음악은 원하시는 대로 사용하셔도 됩니다 .
@@ -7397,6 +7487,9 @@
 - **[Build RAG Workflows in Minutes with Pinecone + n8n](https://www.youtube.com/watch?v=Gcaygufjt6M)** · Pinecone (channel)
   그렇게 생각해요. 좋아요, 시작해 봅시다. 음, 제가 준비한 건데요, 이게 어떻게 진행될지 모두를 위해 간단히 설명드리자면, 먼저 여기서 시작할게요. 지난주에 출시한 것에 대해 이야기해 보겠습니다 . 파인콘과 네이든에 대해 이야기해 보겠습니다 . 음, 그리고 나서 매디와 아말을 다시 모시고 한 분 한 분과 개별적으로 이야기를 나누겠습니다. 하지만 음, 두 분에 대해 좀 더 알아보고, 두 분이 어떤 작업을 해오셨는지, 그리고 저희가 나눈 이야기에 대한 여러분의 반응을 들어보고 싶었습니다 .
 
+- **[Agentic PubMed Navigator using Vector Search and GraphRAG with Qdrant and Neo4j](https://www.youtube.com/watch?v=3NWTi90i6C4)** · Qdrant (channel)
+  안녕하세요, 저는 제니 쿼드런트 스트릴입니다. Mena Ventures 보고서에 따르면 2025년은 의학과 AI 분야에 있어 중요한 한 해였습니다. 미국 의료기관의 22%가 인공지능 기반 영역별 도구를 도입했습니다. 이러한 모든 도입은 시간을 절약하려는 단 하나의 목표에서 비롯됩니다 . 예를 들어 파자마 시간처럼요. 따라서 2026년에도 이러한 채택률은 떨어지지 않을 것입니다. 이러한 도구에는 의사가 환자 기록을 처리하는 데 도움을 주는 AI 필기 도우미가 포함됩니다 . 여기에는 신약 개발 전 과정에 걸친 AI 활용과 문헌 연구를 지원하는 의료 파일럿 프로그램이 포함됩니다 .
+
 - **[Hallucination Mitigation in RAG using LLM Steering and Qdrant](https://www.youtube.com/watch?v=UqyOaOkDaM4)** · Qdrant (channel)
   안녕하세요, 저는 쿼드런트의 커뮤니티 매니저인 마누스 딘입니다 . 자, 우리와 함께 하신 분은 존경받고 뛰어난 쿼드런트의 스타, 파반입니다. 시작하기 전에 간단히 말씀드릴 게 있습니다. 이번 세션은 정기적인 웹 세미나 및 워크숍에 중점을 두는 저희 계획의 일환입니다 . 목표는 간단합니다. 커뮤니티가 시장에서 실제로 무슨 일이 일어나고 있는지, 특히 검색 결과 검색과 관련된 실제 사례를 통해 단기간에 실용적인 프로덕션 수준의 예제를 학습할 수 있도록 돕는 것입니다 .
 
@@ -7405,6 +7498,9 @@
 
 - **[How to Turn an Image into an Entire Story with Story Panels Workflow | Runway](https://www.youtube.com/watch?v=nlReW9osT48)** · Runway (channel)
   안녕하세요 여러분, 저는 마크입니다. 오늘은 단 하나의 레퍼런스 이미지로 전체 세계를 구축할 수 있는 새로운 워크플로우에 대해 알아보겠습니다 . 30초짜리 광고든 장편 영화든, 시작하는 데 필요한 모든 단계를 안내해 드리겠습니다. 그럼 바로 시작해 볼까요? 저는 일관성 있는 배경과 등장인물들이 많이 필요한 매머드 사냥을 중심으로 한 시퀀스를 만들고 싶습니다. 스토리 패널 워크플로를 사용해서 가능한지 한번 살펴보겠습니다. 워크플로의 첫 번째 단계는 시작 이미지 생성입니다.
+
+- **[Biggest AI Bets for 2026: Smart Glasses, Autonomous Vehicles & Agentic AI](https://www.youtube.com/watch?v=Rz0HYtSZK48)** · Siemens (channel)
+  Welcome. I am Magnus Edholm and with me today I&nbsp; have Jason Hiner, the editor-in-chief of The Deep&nbsp;&nbsp; View. You're basically writing a lot about AI.&nbsp; Before we start digging into that though, yeah,&nbsp;&nbsp; Jason, give us the background. I mean, I'm reading&nbsp; here you've been doing a lot of stuff. Yeah,&nbsp;&nbsp; so I've covered technology for the past couple&nbsp; decades. Especially focused on enterprise tech.
 
 - **[What To Expect When You're Expected to Adopt AI](https://www.youtube.com/watch?v=MwP_BI69uW8)** · Stability AI (channel)
   Hey, Alex. Great to meet you. Here at Cability AI, we're spending a lot of time helping brands figure out how to take AI from, you know, a number of interesting experiments to creative workflows that actually scale and drive value for you. I'd love to, you know, hear more about what you're responsible for and what's top of mind for you creatively this year. &gt;&gt; Yeah.
@@ -7451,7 +7547,18 @@
 - **[[AMA] Kickstart Your AI Fluency: Exec Ops & HR Transformation with Zapier and Zoominfo](https://www.youtube.com/watch?v=jONuMTU-_uM)** · Zapier (channel)
   여러분, 안녕하세요. 어서 오세요. 어서 오세요. 채팅창에 남겨주세요. 어디 에서 전화하고 계신가요? 데보라가 타이핑하는 게 보여요. 많은 분들이 알고 계시는 사랑스러운 팀 동료 에밀리 메이비가 위스콘신주 매디슨에서 우리의 시작을 알립니다 . 너무 맛있어요. 어서 오세요. 어서 오세요. 마음에 들어요. 밴쿠버, 미니애폴리스, 그 외 모든 곳. 채팅창에 올려주세요. 모두 와주셔서 정말 반가워요 . 저희는 Satu와 Courtney와의 멋진 AMA로 AI 활용 능력 시리즈를 마무리합니다 . 저는 브라이스 버논입니다. 저는 테네시주 내슈빌에서 전화하고 있습니다
 
-### unclassified (64건)
+### DX (3건)
+
+- **[Overcoming Dark Data in Engineering: AI, Digital Twins & Digital Thread Agents](https://www.youtube.com/watch?v=HQqpd51xyQA)** · Siemens (channel)
+  Hello and welcome. My name is Magnus Edholm and&nbsp; joining us today is Siemens' own Joe Bohmann and&nbsp;&nbsp; I tell you one thing, if there's anything you&nbsp; want to know about products, software solutions,&nbsp;&nbsp; Joe is the man to talk to and I tell you,&nbsp; you're particularly good in the field of&nbsp;&nbsp; product development. So, I'm going to ask you&nbsp; a pretty stupid question. There are no stupid&nbsp;&nbsp; questions.
+
+- **[Unleashing the Promise: How Siemens and Commonwealth Fusion Systems Are Bringing Fusion to Reality](https://www.youtube.com/watch?v=dyhxadwuQn4)** · Siemens (channel)
+  Hello. Thank you for joining us today. I'm Dale&nbsp; Tutt and today's host of what promises to be a&nbsp;&nbsp; very exciting topic and very engaging. And I work&nbsp; at Siemens. I lead the industries for electronics,&nbsp;&nbsp; semiconductor, industrial machinery, and battery.&nbsp; I'm also the host of the Industry Forward podcast&nbsp;&nbsp; at Siemens. Today with me we have Joe Paluska from&nbsp; Commonwealth Fusion Systems and also John Nixon&nbsp;&nbsp; from Siemens industries as well.
+
+- **[World's Largest Two-Wheeler Manufacturer Hero MotorCorp Adopts Cloud-Based Product Development](https://www.youtube.com/watch?v=IaMPTBOxF5o)** · Siemens (channel)
+  Hi and welcome. I'm Magnus Edholm and I'm not&nbsp; sitting here. I'm driving the Digital Enterprise&nbsp;&nbsp; for Siemens. Today I have a very exciting show&nbsp; for you. We have the world's largest two-wheel&nbsp;&nbsp; manufacturer visiting Hero MotoCorp. We're going&nbsp; to talk with them and about them. And with me&nbsp;&nbsp; here I have an amazing setup of people which we're&nbsp; going to go through. We have Kausalya Nandakumar&nbsp;&nbsp; from Hero MotoCorp.
+
+### unclassified (81건)
 
 - **[Build a Voice AI Agent with Nova Sonic and Kiro](https://www.youtube.com/watch?v=nqOrydK9ie8)** · AWS Developers (channel)
   개발자들은 문제를 논의하며 협업합니다 . IDE가 그 대화에 참여할 수 있다면 어떨까요? 저희는 음성 우선 접근 방식을 위해 Amazon Nova 2 Sonic을 사용하여 구축하고 있습니다 . 이 시스템은 사용자의 말을 경청하고, 질문을 던지고, 실시간으로 제안을 제공하면서 스티어링 파일을 생성하여 대화를 스티어링 파일과 코드로 변환합니다. 저희는 자연스러운 음성 인터페이스를 위해 Amazon Nova 2 Sonic을 사용하여 Kirao를 개발할 예정입니다 . 그리고 마지막으로, 저희가 만든 이 프로젝트를 통해 ' 키라 스티어링 스튜디오'라는 피트니스 앱을 개발할 예정입니다
@@ -7521,6 +7628,24 @@
 
 - **[Anatomies | A Short Film by Falabracks: Thierry Demaizière & Alban Teurlai](https://www.youtube.com/watch?v=rzpoy-ryjFU)** · L'Oréal (channel)
   거울 난 내 모습만 봐. 성공하기까지 아주 오랜 시간이 걸렸습니다. 만지다 나는 내 머리카락이 좋아. 내 머리카락과 나는 절대 그러고 싶지 않아 나는 내 얼굴이 풍경이라고 생각한다 내 이야기를 들려주세요 내 삶의 흔적 나는 그들이 내 일부이기 때문에 그들을 사랑한다. 나. 거울은 내가 겪어온 일들을 보여준다 흉터들, 하지만 내가 잃은 것과는 전혀 다른 것들이에요. 나는 내가 그렇다는 것을 말하는 것을 두려워하지 않는다. 꽤 크죠? 나는 언제 심지어 큰 규모입니다.
+
+- **[Camcorder Superpowers - Made with Ray3.14](https://www.youtube.com/watch?v=jCtnrGrUSFk)** · Luma AI (channel)
+  All right. All right. Okay. Give it a go. &gt;&gt; Ready? &gt;&gt; Yeah. Yeah. Yeah. Go. Go. GO. Get him. Get her. &gt;&gt; One trick. Wonder. &gt;&gt; Oh, let's go. &gt;&gt; Yeah. &gt;&gt; Yo, is gas too expensive? What?
+
+- **[Dead Inside? - Made with Ray3.14](https://www.youtube.com/watch?v=BijwNca72Ss)** · Luma AI (channel)
+  Just let a smile be a rainy rainy day. Let a smile. &gt;&gt; You ever have one of those days? Don't worry.
+
+- **[“Fashion” - Luma Dream Brief](https://www.youtube.com/watch?v=JYxH0DKtqqw)** · Luma AI (channel)
+  Do you have a great idea for a fashion ad that never got made because it was a production nightmare? [singing] Make it yourself with Luma AI for the chance to have it run as a real ad and entered into the CAN advertising festival. If it wins gold, you could win a million dollars.
+
+- **[“Pizza Baby!” - Luma Dream Brief](https://www.youtube.com/watch?v=zrdS6u2e_rw)** · Luma AI (channel)
+  Did you have an idea for a big game commercial that never aired because a focus group said it made them feel uncomfortable? Don't let that stop you. Make it yourself with Luma AI for the chance to have it run [music] as a real ad and entered into the CANN advertising festival. If it wins gold, you could win a million [music] dollars. Luma.
+
+- **[“Runner” - Luma Dream Brief](https://www.youtube.com/watch?v=ckuLjqPTC_E)** · Luma AI (channel)
+  논란이 될 만한 내용 때문에 제작되지 못한 훌륭한 운동화 광고 아이디어가 있으신가요? Luma AI를 이용해 직접 광고를 제작하고, 실제 광고로 제작되어 칸 광고제에 출품될 기회를 잡으세요 . [음악] 금메달을 따면 백만 달러를 받을 수 있어요. 루마.
+
+- **[“Space Piano” - Luma Dream Brief](https://www.youtube.com/watch?v=Fgv1nJhdgM0)** · Luma AI (channel)
+  클라이언트가 당신의 예술적 [음악적] 비전을 이해하지 못해서 결국 제작되지 못한, 당신이 작곡한 아름답고 웅장한 광고 음악 기억하시나요? Luma AI를 이용해 직접 광고를 제작하고, 실제 광고로 게재되어 캔 광고 페스티벌에 출품될 기회를 잡으세요. 만약 금메달을 따면 백만 달러를 받을 수 있습니다.
 
 - **[Episode 1 Mercedes-Benz World Tour | 140 Years. 140 Places. One Global Journey](https://www.youtube.com/watch?v=cMige6W4SzE)** · Mercedes-Benz (channel)
   안녕하세요, 메르세데스-벤츠 커뮤니티 여러분. 이것은 완전히 새로운 메르세데스-벤츠 S클래스입니다. 우리는 이 차를 타고 평생 잊지 못할 여행을 떠나려고 합니다. 140개의 서로 다른 장소, 7개월 의 여행, 그리고 5만 킬로미터의 여정. 이건 절대 놓치고 싶지 않을 거예요 . 정말 신나지 않나요 ? 이거 정말 멋지네요. 메르세데스- 벤츠의 역사를 통해 세계 곳곳을 누비는 여정에 오신 것을 환영합니다. 보시다시피, 저희는 많은 메르세데스-벤츠 애호가들에게 둘러싸여 있습니다. 패션, 디자인, 예술, 자동차 업계의 유명 인사들.
@@ -7606,11 +7731,44 @@
 - **[슈퍼 모멘텀 Ep.2 | 언더독에서 AI시대의 중심까지. SK하이닉스를 만든 슈퍼 모멘텀](https://www.youtube.com/watch?v=TMmnc4RIe6k)** · SK hynix (channel)
   자, 그리고 이어지는 세 번째 키워드 스피릿입니다. SK 인수되기 이전 하이닉스는 회사의 존폐가 흔들리는 고난의 시기를 무려 10년이나 버텨낸 역사가 있습니다. 그러면서 하이닉스 DNA라는게 생겼다고 하죠. 하이닉스 DNA 구체적으로 이게 뭔가요? 최태현회장이 하이닉스를 인수할 때 하이닉스의 야성을 어 SK 그룹에 심고 싶었다라고 이렇게 회고하시더라고요. 실제 어 인수 후에 하이닉스에 이제 100명의 임원들과 어 1대일 면담 후에 그 야성을 재확인했다라고 표현을 하시기도 했는데요. 어가 봤더니 화장실의 실제 독하게라고 쓰였다는 거예요.
 
+- **[3D Printing Meets Industrial Automation: Haddy's Digital Manufacturing Approach with Siemens](https://www.youtube.com/watch?v=KBN3Y8TL2ow)** · Siemens (channel)
+  We could jump up on the throne. Here you are.&nbsp;&nbsp; And we can stay in the frame. So we&nbsp; like people jumping on our thrones. We are at the lowest throughput of energy per&nbsp; cubic centimeter of any of the making methods,&nbsp;&nbsp; steel, aluminum, fiberglass. The energy&nbsp; is less in the resource utilization is&nbsp;&nbsp; better. You're making a more refined product&nbsp; that is more livable over a period of time.
+
+- **[Industrial Metaverse Explained: How Siemens Designs Factories Using Virtual Simulation](https://www.youtube.com/watch?v=jGLpvXifz5Y)** · Siemens (channel)
+  Metaverse sounds like something from a video game. What is it in a factory? Well, you're not entirely wrong, right? When we talk about a metaverse, it's a computer-generated environment where, you know, in your private life, you could meet up with others and play a little bit like a video game. But for factories, industrial metaverse is all about making our processes, products, whole factories more flexible, smarter, and also sustainable.
+
+- **[What Is Artificial Intelligence in Factories? Practical AI Applications at Siemens](https://www.youtube.com/watch?v=oy3fNbvmAto)** · Siemens (channel)
+  I'm here with Felix, an expert on industrial AI applications. Felix, when we talk about AI, artificial intelligence, it often sounds very abstract. Can you explain in simple words to someone who maybe never worked with AI what it is? Sure. Artificial intelligence is a field in computer science that tries to enable machines with human capabilities like decision making, pattern recognition, or natural language processing. So, AI is basically already around us.
+
 - **[Highlights: Das neue Samsung Galaxy S26 Ultra ist da](https://www.youtube.com/watch?v=yj3nhsdfKcI)** · Swisscom (channel)
   이것은 삼성 갤럭시 S26 울트라입니다. 삼성은 해당 기기가 단지...라고 약속합니다. 더 빠른 카메라 또는 더 특별한 카메라 뒷면에 지지되는 것들이지만 가져오는 것들 저걸 보고 계신 건가요, 아니면 다음 걸 보고 계신 건가요? [음악] 롱 디어의 업데이트 저는 야니크이고 스위스콤에서 근무합니다. 그리고 H 로그 삼성 갤럭시 S26 울트라 A 삼성의 최신 플래그십 모델 그 해. 갤럭시 S26 울트라는 4점을 줬습니다. 다양한 색상, 검정색, 하늘색 및 개인적으로 가장 좋아하는 색은 코발트 바이올렛입니다.
 
 - **[Consumer Analyst Group of New York Conference 2026 | Unilever](https://www.youtube.com/watch?v=SXT5EV4VR-U)** · Unilever (channel)
   좋은 오후에요. 자리에 앉아주세요. 잠시 후 시작하세요. 괜찮은. 좋은 오후에요. 세계에서 가장 중요한 글로벌 소비재 기업 중 하나인 유니레버를 소개하게 되어 기쁩니다. 유니레버는 웰빙, 홈, 퍼스널 케어, 식품 분야에서 업계를 선도하는 입지를 구축하고 있으며, 세계에서 가장 빠르게 성장하는 최종 시장에 깊이 관여하고 있습니다. 지난 한 해 동안 유니레버는 새로운 이사회, 신임 CEO, 그리고 CFO의 부임 아래 뚜렷한 전환점을 맞이했습니다.
+
+- **[How desire is driving growth for our Personal care Business | Unilever](https://www.youtube.com/watch?v=ybAMSTnCquU)** · Unilever (channel)
+  열. [음악] 열기. [음악] 열기. [음악] 열기. [음악] 열기. 열. N.
+
+- **[Premium product launches are powering growth in Oral Care | Unilever](https://www.youtube.com/watch?v=VBYoN5AwPLM)** · Unilever (channel)
+  [음악] 열기. 열. [음악] 열기.
+
+- **[Q4 and full-year 2025 results webcast and Q&A | Unilever](https://www.youtube.com/watch?v=G86AGZQwVVo)** · Unilever (channel)
+  안녕하세요, 유니레버의 전이 제품 결과 발표에 오신 것을 환영합니다 . 함께해 주셔서 감사합니다. 잠시 후, 저희 최고재무책임자인 시니파탁이 2025년 유니레버의 실적에 대한 자세한 분석을 설명해 드릴 것입니다. 하지만 그 전에, 작년 실적에 대한 몇 가지 소감을 여러분과 나누고 싶습니다 . 먼저 말씀드리고 싶은 것은, 어려운 여건 속에서도 저희는 약속한 바를 충실히 이행하며 견실한 한 해를 보냈다는 점입니다 . 제가 CEO로 취임했을 때, 가장 중요한 우선순위 중 하나는 유니레버가 성과를 내는 동시에 혁신을 이룰 수 있도록 하는 것이라고 분명히 밝혔습니다
+
+- **[Redefining beauty and wellbeing to meet evolving consumer needs | Unilever](https://www.youtube.com/watch?v=UkrxQLsu9u8)** · Unilever (channel)
+  여기요 [음악] 여기요 [음악]
+
+- **[South American and Asian cuisines lead UFS menu trends book | Unilever](https://www.youtube.com/watch?v=OiHWNxIxsYs)** · Unilever (channel)
+  열.열. 열.
+
+- **[The cutting-edge R&D behind product innovation and growth | Unilever](https://www.youtube.com/watch?v=R29Z1bai1gk)** · Unilever (channel)
+  어떻게 하면 최첨단 과학 (음악)을 소비자들이 사랑하는 제품으로 만들 수 있을까요? 5,000명이 넘는 세계 최고 수준의 과학자들이 AI 도구를 활용한 디지털 생태계를 구축하여 데이터를 신속하게 처리하고 통찰력을 도출합니다. 이를 통해 수십 년간 축적된 과학적 발견을 뛰어넘는 가상 설계 실험을 실행하고, 학습 속도를 높여 획기적인 새로운 발견을 가능하게 합니다 . 리버풀 대학교와의 협력을 통해, 우리는 세계에서 가장 많은 수의 로봇이 재료 화학 실험을 수행하는 시설을 보유하고 있으며 , 이 로봇들은 다양한 시나리오에서 제품을 테스트하기 위해 24시간 내내 가동됩니다 .
+
+- **[Unilever Food Solutions launch disrupts China soy sauce market | Unilever](https://www.youtube.com/watch?v=DZA6zExpREk)** · Unilever (channel)
+  유니레버 식품 솔루션은 셰프들을 위해 맞춤 제작된 새로운 혁신 제품으로 42억 유로 규모의 중국 간장 시장을 뒤흔들고 있습니다. 소비자 조사 결과, 중국 요리사 중 63%가 독특하고 풍부한 감칠맛을 지닌 전문가급 간장을 원하는 것으로 나타났습니다 . 그래서 유니레버 푸드 솔루션은 최첨단 연구 개발을 통해 셰프들의 입맛을 사로잡고 이 핵심 시장에서 경쟁 우위를 확보할 수 있는 프리미엄 제품을 만들어냈습니다 . 백만 명이 넘는 전문가들이 직접 사용해보고 검증한 만큼 , Professional Soy Source는 이미 혁신 제품 출시 부문에서 기록적인 성과[음악]를 세우고 있습니다
+
+- **[Unilever launches two new variants for Wonder Wash | Unilever](https://www.youtube.com/watch?v=h4BcffqFcBw)** · Unilever (channel)
+  열. 열. 열.
 
 - **[The Volvo C30 Electric: On the road to electrification](https://www.youtube.com/watch?v=yX_ButA5Myw)** · Volvo Cars (channel)
   [음악] 볼보 자동차의 전기차 전환 여정은 오랜 시간이 걸렸습니다. [음악] 우리는 수십 년 동안 세상이 완전히 받아들일 준비가 되기 전에 여러 아이디어를 실험해 왔습니다 . 하지만 2010년에 [음악] 한 대의 자동차가 그러한 실험을 도로 위로 가져왔습니다 . 이것은 볼보 C30 전기차에 대한 이야기입니다 . C30 전기차는 C30 해치백을 기반으로 제작되었습니다. [음악] 모양은 비슷하지만 정신은 혁명적이다. 그것은 도시 생활에 맞춰 설계된 작고 완전 전기식 볼보 자동차였습니다 .
@@ -7645,7 +7803,7 @@
 - **[Meet Bailey Zappe: The Zapier Quarterback Powering Automation](https://www.youtube.com/watch?v=tCrMveIJK6Y)** · Zapier (channel)
   And we're back with [music] &gt;&gt; Zapier. &gt;&gt; Kids, I'm here today to show you how anyone can use AI and automation. Who here has heard of Zapier before? &gt;&gt; It's a no code solution that anyone can use to automate AI workflows. &gt;&gt; Uh, that's right. Zapier connects what grown-ups call API, &gt;&gt; application programming interfaces. It basically lets the [music] different apps talk to each other.
 
-## 2026-01 (총 111건)
+## 2026-01 (총 112건)
 
 ### AX (40건)
 
@@ -7774,7 +7932,7 @@
 - **[Palantir and the NHS | UK Stories](https://www.youtube.com/watch?v=NANvLfyDQBI)** · Palantir (channel)
   후배 간호사 중 한 명이 제게 이렇게 말했습니다. “예전에는 주머니에 종이가 가득 차 있었는데, 교대 근무가 끝나기 전에 모든 것을 다 했는지 확인하기 위해 모든 서류를 살펴봐야 했어요. 이제 Federated Data Platform을 사용하면 모든 것이 시스템 내에 있기 때문에 그녀는 걱정할 필요가 없습니다. 그녀가 집에 가서 차 안이나 주차장에 앉아서 “오 세상에, 내가 부인에 대해 잊어버렸어.” 라고 생각하곤 했으니까요. 뭐가 됐든, 그녀는 다시 달려가거나 누군가에게 전화를 걸곤 했어요.
 
-### unclassified (70건)
+### unclassified (71건)
 
 - **[Your tools are now interactive in Claude](https://www.youtube.com/watch?v=bluAmTHoEow)** · Anthropic (channel)
   [Music] Ooh.
@@ -7920,6 +8078,9 @@
 - **[The Future of AI and Work](https://www.youtube.com/watch?v=8qXIoUxisxk)** · Palantir (channel)
   Akshay, 오늘 여러분과 함께하게 되어 기쁩니다. 우리는 인력에서의 AI의 미래와 인간과 인공 지능 간의 연결에 대해 이야기할 것입니다. 지난 주와 지난 몇 달 동안 많은 대화가 오갔던 주제임에 틀림없습니다. Akshaya는 Palantir의 수석 아키텍트로 수년 동안 이러한 문제의 최전선에서 일해 왔습니다. Palantire가 세상을 어떻게 바라보는지에 대해 많은 이야기를 나누게 되어 정말 기쁩니다. 서로 다른 의견을 많이 듣습니다. 인공 지능 회사들은 AI가 인력에 어떤 영향을 미칠 것인지에 대한 질문을 던지고 있습니다.
 
+- **[Qdrant Office Hours | Tiered Multitenancy & Disk-Efficient Vector Search](https://www.youtube.com/watch?v=72Ux-Lgx93w)** · Qdrant (channel)
+  네, 그래서 이번 발표의 주제는 계층형 멀티테넌트입니다. 안녕하세요 여러분 어 저는 Kumar Shivendu입니다. 저는 코던트에서 소프트웨어 엔지니어로 일하고 있습니다. 저는 검색 엔진, 데이터베이스, 분산 시스템을 좋아합니다. 이번 시간에는 멀티테넌시란 무엇인지, 기존 콘텐츠 관리 방식과 멀티테넌시를 통해 해결하고자 하는 문제점, 아키텍처 등에 대해 살펴보고 간단한 데모도 진행할 예정입니다. 우선, 멀티엔시란 무엇일까요? 아시 다시피, 멀티엔티언시란 기본적으로 하나의 데이터베이스를 통해 여러 테넌트에게 서비스를 제공하는 것을 의미합니다 .
+
 - **[How a design leader built his app with AI](https://www.youtube.com/watch?v=27PFkvwjJ7k)** · Replit (channel)
   If you ever end up in the back of a Mayback, if you go on the massage settings there, I helped design that screen. &gt;&gt; That's the biggest flex. &gt;&gt; It's way better to have all the components on one page than have multiple pages for every component. &gt;&gt; Just hot takes immediately. Figma components, one page, that's it.
 
@@ -7986,9 +8147,9 @@
 - **[ReelData x Weights & Biases: The impact of AI on sustainable land-based aquaculture](https://www.youtube.com/watch?v=7_BDs6z8Z54)** · Weights & Biases (channel)
   [음악] 저희 회사는 지속 가능한 식품 생산을 늘리는 것을 핵심 가치로 삼고 있습니다. 연어는 매우 지속 가능한 어종입니다. 사람들에게 건강에 좋습니다 . 수요와 공급 사이에 격차가 있습니다. 그래서 우리는 공급과 수요의 격차를 해소하는 데 도움을 주고 있습니다. 하지만 제가 농업계 종사자들과 음악에 대한 대화를 계속 나누면서 , 그들은 통화할 때마다 거의 똑같은 말을 했습니다. 마치, 내가 잡은 물고기 무게가 얼마나 나가는지 모르는 것 같았어요. 얼마나 먹여야 할지 모르겠어요 .
 
-## 2025-12 (총 158건)
+## 2025-12 (총 166건)
 
-### AX (55건)
+### AX (58건)
 
 - **[3 Powerful Ways to Use MCP in Serverless Environments](https://www.youtube.com/watch?v=BxpjNZcdrgY)** · AWS Developers (channel)
   AI 비서는 강력할 수 있지만, 사용자의 최신 데이터에 접근하거나, 개인 API에 연결하거나, 실시간 시스템과 상호 작용할 수는 없습니다. 바로 여기서 모델 컨텍스트 프로토콜(MCP)이 등장합니다. MCP는 AI 비서를 외부 음악 도구 및 데이터 소스와 연결하여 성능을 극대화하는 표준 프로토콜로 전 세계적으로 빠르게 확산되고 있습니다. MCP의 기본 사항에 대해 더 자세히 알고 싶으시면 설명란에 링크된 마이크의 "MCP란 무엇인가" 영상을 확인해 보세요 . 하지만 오늘은 서버리스를 도입해 보겠습니다. 안녕하세요, 저는 줄리안입니다.
@@ -8044,6 +8205,9 @@
 - **[Building Synthetic Data Pipelines for Open Research and Scalable AI Development](https://www.youtube.com/watch?v=s_o0myJzh30)** · NVIDIA Developer (channel)
   안녕하세요 여러분. 제 이름은 마틴입니다. 저는 엔비디아에서 합성 데이터 생성 관련 팀을 이끌고 있습니다. 그래서 오늘 저는 우리가 구축하고 있는 모든 AI 애플리케이션과 모델에 동력을 공급하는 연료, 즉 데이터에 대해 이야기하고 싶습니다. 음, 저는 데이터 마이닝, 데이터 수집에서 데이터를 제조, 설계, 합성, 확장하는 단계로 나아가는 과정, 그리고 이 모든 것을 개방적인 방식으로 진행하고 전체 커뮤니티를 위한 협업을 촉진하는 방법에 대해 이야기하고 싶습니다 .
 
+- **[CUDA 13.0—New Features and Beyond | NVIDIA GTC D.C.](https://www.youtube.com/watch?v=_vL8uz7kf0M)** · NVIDIA Developer (channel)
+  Hey, good afternoon everybody. My name is Rob like&nbsp; mentioned and I work with the CUDA team here at&nbsp;&nbsp; NVIDIA. And today I have kind of the daunting task&nbsp; of condensing all of the work that's happening&nbsp;&nbsp; in CUDA into about a 30-minute presentation for&nbsp; you. So if you remember anything is that I love&nbsp;&nbsp; talking about CUDA and you can always grab me or&nbsp; my co-workers in the hall.
+
 - **[How to Use Nemotron 3 Nano: Connecting OpenAI API Endpoint and Build LangChain Agents](https://www.youtube.com/watch?v=HjhxQtZIK3s)** · NVIDIA Developer (channel)
   안녕하세요 여러분! 제 이름은 크리스이고, 오늘은 여러분께 네오트론 3 나노를 어떻게 활용할 수 있는지에 대해 이야기하게 되어 정말 기쁩니다 . 오늘 이 모델을 출시했으며, 제작 과정, 직접 네오트론 3 나노를 조립하는 방법, 그리고 네오트론 3 제품군에 대한 자세한 기술 보고서와 백서 등 다양한 자료를 준비했습니다 . 하지만 오늘 튜토리얼에서는 모델을 실제로 활용하여 무언가를 하는 방법에만 집중해 보겠습니다. 먼저 OpenAI API 호환 엔드포인트를 통해 사용하는 방법을 살펴보겠습니다.
 
@@ -8053,8 +8217,14 @@
 - **[Introduction to Physical AI & Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)** · NVIDIA Developer (channel)
   오늘은 물리적 인공지능 과 로봇공학에 대해 이야기해 보겠습니다. 안녕하세요, 제 이름은 칼얀 바드라부입니다. 저는 엔비디아에서 제품 마케팅을 담당하고 있습니다 . 음, 오늘 일정은 아주 간단하고 명료합니다. 우리는 물리적 AI가 무엇인지, 그리고 물리적 AI가 다른 방식의 AI와 어떻게 다른지에 대해 이야기할 것입니다. 시뮬레이션 초기 개발이란 무엇이며, 실제 배포에서 어떤 어려움과 진전을 이루었는지 살펴보고, 마지막으로 몇 가지 유용한 자료를 소개하며 마무리하겠습니다. 아주 간단한 오늘의 이야기입니다. 시작하기 전에 제 소개를 간단히 하겠습니다.
 
+- **[Open-Source AI 101: Enabling American Innovation | NVIDIA GTC D.C.](https://www.youtube.com/watch?v=VqIc2LJzZG0)** · NVIDIA Developer (channel)
+  I'd like to welcome the panel. We're going&nbsp; to start with Joseph Jacks, JJ. So JJ is the&nbsp;&nbsp; founder and general partner of OSS Capital. And&nbsp; since 2018, JJ has directed more than 40 rounds&nbsp;&nbsp; of inception and seed-stage investments&nbsp; representing over 200 million in funding.&nbsp;&nbsp; JJ is also co-founder of Latent Holdings,&nbsp; the leading Bittensor-Lab, stewarding&nbsp;&nbsp; most of the open source toolchain. Welcome, JJ. All right.
+
 - **[Post-Training, Alignment, and Advanced Reasoning with Nemotron](https://www.youtube.com/watch?v=YUfveVThBIU)** · NVIDIA Developer (channel)
   네, 여러분 모두 좋은 저녁입니다. 안녕하세요, 저는 알렉시입니다. 저는 응용 인공지능 연구팀에서 일하고 있는데, 저희 팀은 Neatron 모델의 학습 후 처리를 담당하고 있습니다 . 그리고 오늘 저는 여러분과 몇 가지 자세한 내용을 공유하게 되어 기쁩니다. 그럼 먼저 포스트트레이닝이 무엇인지 정의부터 시작해 보겠습니다. 포스트트레이닝은 프리트레이닝 팀의 동료들이 탄탄한 기초 모델을 구축한 후, 그 위에 기능을 강화하고 추가하며 정렬을 맞추는 단계입니다.
+
+- **[Scaling Python Analytics: NVIDIA cuPyNumeric and Legate Boost for HPC | NVIDIA GTC D.C.](https://www.youtube.com/watch?v=LL3NAkjg9d4)** · NVIDIA Developer (channel)
+  Hello everyone. Thank you for coming to scaling&nbsp; Python analytics. We're going to take a look at&nbsp;&nbsp; some pretty interesting stuff. How to scale your&nbsp; numpy scripts, how to scale your pandas scripts,&nbsp;&nbsp; how to scale your XGBoost training algorithms&nbsp; for machine learning. My name is Daniel. I'm&nbsp;&nbsp; a technical program manager for the CUDA Python&nbsp; team. I work in the many Python libraries that we&nbsp;&nbsp; have to in order to scale CUDA from single node&nbsp; as well.
 
 - **[Techniques for Efficient and Reproducible Foundation Model Pre-Training](https://www.youtube.com/watch?v=vHCVNr0uX_k)** · NVIDIA Developer (channel)
   여러분, 안녕하세요. 네이모트론 서밋에 참석해 주셔서 감사합니다 . 제 이름은 단수입니다. 저는 네 이모트론 사전 훈련팀의 선임 연구 과학자입니다. 오늘은 Neimotron 내부를 살펴보고 효율적이고 재현 가능한 기초 모델 사전 학습을 위한 핵심 기술을 공유하겠습니다. 현재 기초 모델의 가용성은 빠르게 변화하고 있습니다. Q1 DeepSeek Lama와 같은 대규모 언어 모델을 연구원과 개발자가 이용할 수 있습니다. 그래서 제 말은, 이것이 인공지능 분야에서 많은 혁신을 촉진한다는 뜻입니다. 하지만 사전 학습 측면에서는 모델 사전 학습 방법에 대한 세부 정보가 매우 부족합니다.
@@ -8155,7 +8325,7 @@
 - **[Using MCP to analyse your experiments & create reports in natural language](https://www.youtube.com/watch?v=RocYCoZbHI8)** · Weights & Biases (channel)
   안녕. 음, 제 이름은 안나예요. 저는 미스트롤의 제품 팀 소속입니다. 이 프레젠테이션은 MCP에 관한 내용입니다. 음, MCP가 무엇인지, 왜 사용하기로 결정했는지, 어떻게 사용하고 있는지에 대해 설명하고 , 그 다음에는 가중치 및 편향 환경을 활용하여 무엇을 할 수 있는지에 대해 좀 더 자세히 살펴보겠습니다. 음, MCP를 사용해서 개발하고 계신 분, 그리고 MCP에 대해 들어보신 분 중에 손을 들어보실 수 있을까요? 더 많아야 할 텐데. 네, 사람들이 듣기는 했지만 MCP와 직접 협력하고 있다는 얘기는 아직 안 들었을 수도 있어요.
 
-### unclassified (103건)
+### unclassified (108건)
 
 - **[Empowering film creatives with digital twins](https://www.youtube.com/watch?v=Uys_ofb75iU)** · Accenture (channel)
   The Walt Disney Studios has been producing more content than ever before, and this has led to the need for new and innovative methods of pre-production and collaboration. With filmmakers often geographically spread out across the globe while on sets, the challenge was to build digital solutions that enable storytellers to focus on creating their world-class content. Accenture and the Walt Disney Studios StudioLAB work together across two projects focused on digital twinning.
@@ -8277,6 +8447,9 @@
 - **[Shedding Light on Darkness: How Does Digital Light Make Night Driving Safer? | Tech Explained](https://www.youtube.com/watch?v=oNpdmbqQBpQ)** · Mercedes-Benz (channel)
   어둠의 세계에 오신 것을 환영합니다. 하지만 이 주제에 대해 좀 더 자세히 설명해 드리겠습니다 . 저는 롭입니다. 저는 여러분의 기술 설명 담당자이고, 여기는 테크 익스플레인입니다. 자동차 업계에서 가장 첨단적인 조명 테스트 센터에 오신 것을 환영합니다 . 저는 지금 너무나 소중한 아스팔트 위를 걷고 있어서 이 특별한 부드러운 슬리퍼를 신어야 합니다. [음악] 자, 이제 제 새로운 빛의 터널을 작동시키려고 합니다. 그러니, 볼라드를 가져오세요. 야간 운전은 전체 운전량의 20%에 불과 하지만, 심각한 사고의 40%는 야간에 발생합니다.
 
+- **[Walkaround all-new electric GLB | space, tech and charging](https://www.youtube.com/watch?v=Wcq9pSb-jSU)** · Mercedes-Benz (channel)
+  Attention, we start in five minutes. Five minutes? That’s more than enough time to go for a quick test drive. You’re ready? Let's go. So you're ready? Always, let's go – and before you ask, our furry friend here from Mercedes-Benz, in the back, insisted on coming along and we couldn't say no. Are you buckled up? Let's go. Tom, they said five minutes. Okay, let's go back. Just in time.
+
 - **[We Time-Traveled to Build the New CLA | Because it’s Mercedes-Benz Episode 6](https://www.youtube.com/watch?v=0Hczb8M8RNA)** · Mercedes-Benz (channel)
   이것. 응. 아니면 이렇게도 괜찮을지도 몰라요. AI 통합. 운전자 주변의 사람과 차량을 보여주는 운전석 디스플레이 한 번 충전으로 750km 이상 주행 가능. 사람들은 이런 생각을 어떻게 떠올리는 걸까요? 당연히 연구 개발이죠. 이 일에 얼마나 많은 똑똑한 사람들이 참여하는지 모르시나요? 네 , 그렇긴 한데, 그건 제 질문에 대한 답이 아니잖아요. 정말 알고 싶으세요? 그렇다면 그들이 어떻게 하는지 직접 경험해 볼 수 있는 방법이 있다면 어떨까요? 나를 따라오되, 아무 말도 하지 마.
 
@@ -8343,8 +8516,17 @@
 - **[Worlds Free‑to‑Play Pricing 💸🌎](https://www.youtube.com/watch?v=IgJPyId3zKo)** · Meta Developers (channel)
   마지막으로 무료 게임을 해본 게 언제였는지 생각해 보세요. 스킨, 부스터 또는 번들 상품을 구매해 본 적이 있나요? 왜 그럴 만한 가치가 있다고 느껴졌을까? 무료 플레이 방식의 가격 전략은 도처에 있으며, 제대로만 활용하면 성장을 촉진하는 동시에 플레이어들이 계속해서 게임을 즐기도록 유도할 수 있습니다. 안녕하세요, 크리에이터 여러분! 저는 알렉시아입니다. 오늘은 무료 플레이 게임에서 게임 내 구매를 위한 가격 전략에 대해 자세히 알아보겠습니다. 여러분의 사업 분야에 맞는 수익 창출 모델을 선택하는 방법에 대해 이야기해 보겠습니다
 
+- **[Accelerating Science and Engineering With NVIDIA CUDA-X Libraries | NVIDIA GTC D.C.](https://www.youtube.com/watch?v=jbpzSnQxC5c)** · NVIDIA Developer (channel)
+  Thank you very much. I want to talk to you&nbsp; today about the wide range of libraries and&nbsp;&nbsp; frameworks and and just the concept of CUDA-X.&nbsp; Jensen talked about in the keynote, you know,&nbsp;&nbsp; that we built CUDA over 20 years ago and CUDA is&nbsp; this core foundational software piece that that&nbsp;&nbsp; marries our hardware to your software.
+
 - **[Benchmarking and Scaling Web Agents with LLMs and VLMs](https://www.youtube.com/watch?v=viwXM78twfs)** · NVIDIA Developer (channel)
   응. 안녕하세요, 저는 서비스나우의 알렉스 오스트입니다 . 저는 여기서 약간 이방인 같은 존재이고, 당신과 간식 사이에 마지막으로 이야기를 나누는 사람입니다. 그러니 부디 양해해 주시기 바랍니다. 웹 에이전트와 브라우저 짐(Browser Gym) 생태계에 대해 이야기하고, 네모짐(Nemojim)과의 통합 가능성에 대해서도 이야기하겠습니다. 여기 제시된 모든 작업은 제 팀과 수많은 협력자들, 그리고 오픈 소스 코드에 기여한 사람들과 함께 진행한 것입니다. [목을 가다듬으며] 작년에 Nerfs 행사에서 기조연설을 했는데, Suits에서 2025년이 요원의 해가 될 거라고 했었죠.
+
+- **[Deep Dive: How to Use cuTile Python](https://www.youtube.com/watch?v=YFrP03KuMZ8)** · NVIDIA Developer (channel)
+  cuTile is an array oriented programming&nbsp; model for NVIDIA GPUs that automates block&nbsp;&nbsp; level parallelism, memory movement, and tensor&nbsp; core utilization. We've built it to simplify&nbsp;&nbsp; GPU programming and to improve portability for&nbsp; hardware features like tensor cores and tensor&nbsp;&nbsp; memory accelerators. cuTile is simpler and higher&nbsp; productivity than traditional simpy programming.&nbsp;&nbsp; You should be able to get good performance faster&nbsp; with it. However, you do have less control than&nbsp;&nbsp; with simpy.
+
+- **[Get Started with cuTile Python](https://www.youtube.com/watch?v=cNDbqFaoQ9k)** · NVIDIA Developer (channel)
+  Today I'm going to show you how to get&nbsp; started with cuTile Python. To get started,&nbsp;&nbsp; we'll need a couple of things. First, we're&nbsp; going to need a Blackwell GPU. That means&nbsp;&nbsp; a GPU with compute capability 10 or compute&nbsp; capability 12. We're going to need the NVIDIA&nbsp;&nbsp; driver version R580 or later installed. We're&nbsp; going to need the CUDA Toolkit version 13.1 or&nbsp;&nbsp; later installed.
 
 - **[Intro to Nsight Python: Automating CUDA Kernel Profiling in Minutes](https://www.youtube.com/watch?v=CLlYmawyga4)** · NVIDIA Developer (channel)
   안녕하세요, Nsight Python이라는 새로운 파이썬 커널 프로파일링 인터페이스에 대한 소개 영상에 오신 것을 환영합니다 . Ensite Python은 NVIDIA의 프로파일링 도구의 강력한 기능을 새로운 API, 데코레이터 및 컨텍스트 관리자를 통해 Python 개발자에게 직접 제공하며, 이러한 기능은 Python 코드에서 바로 사용할 수 있습니다 . 이번 초기 릴리스를 통해 최소한의 코드 변경만으로 다양한 구성에서 모든 Python 프레임워크를 사용하여 CUDA 커널 프로파일링을 원활하게 수행할 수 있으며 , 이 모든 작업은 Python 애플리케이션을 종료하지 않고도 가능합니다.
@@ -8378,6 +8560,9 @@
 
 - **[Crisis Has No Calendar | Paragon 2025](https://www.youtube.com/watch?v=SZ_eZGmmpQU)** · Palantir (channel)
   사흘째, 로스앤젤레스 일부 지역을 휩쓸고 있는 산불이 한 블록씩 이어졌습니다. 화산재 외에는 아무것도 없습니다. 도널드 트럼프 미국 대통령이 미국의 주요 교역 상대국에 관세를 부과했다는 속보. 이러한 공급망은 인플레이션과 미국 가정의 복지에 중대한 영향을 미칠 것입니다. 미국 국내외에서 메이븐에 대한 수요가 매우 높아지고 있습니다. 오늘 밤 저는 이러한 공격이 놀라운 군사적 성공을 거두었다는 사실을 전 세계에 알릴 수 있습니다. 불과 몇 시간 만에 여름이 넘는 비가 내리면서 전례 없는 돌발 홍수가 발생했습니다
+
+- **[Qdrant Essentials | Finding Vector Similarity with Distance Metrics](https://www.youtube.com/watch?v=P_vsVPsCgTQ)** · Qdrant (channel)
+  벡터 탐색에서 거리를 정의하는 방식은 유사성을 정의하는 방식과 동일합니다. 데이터가 벡터에 임베딩되면 위치가 의미를 인코딩하는 공간에서 작업하게 됩니다 . 하지만 그 공간에서의 친밀감은 주관적입니다. 측정 기준에 따라 완전히 달라집니다 . 그리고 각 지표는 유사성에 대해 서로 다른 이야기를 들려줍니다. 그럼 가장 일반적인 거리 측정 방법을 하나씩 살펴보겠습니다. 코사인 유사도, 우클리드 거리, 그리고 내적. 그것들이 실제로 무엇을 측정하는지, 언제 사용해야 하는지, 그리고 언제 피해야 하는지.
 
 - **[Our story l Our heritage](https://www.youtube.com/watch?v=gPCF4p3SY74)** · Reckitt (channel)
   At Wreckit, we are incredibly proud of our long-standing heritage, a history full of stories of the people who work here, the communities we serve, and our power brands that have made us the worldclass consumer health and hygiene company we are today. It all started in 1840 when Isaac and Thomas Racket leased a factory in Hull, Yorkshire, UK. Fun fact, their first product was laundry starch.
@@ -8466,9 +8651,9 @@
 - **[Steering the Future | Episode 7: Peter](https://www.youtube.com/watch?v=2ykc8cNp-oc)** · Zoox (channel)
   출퇴근길에 레고 세트를 완성할 수 있는 차량은 많지 않습니다. 알로하. 저는 피터입니다. 저는 Zuks의 수석 모델 제작자입니다. 그리고 이쪽은 피오나입니다. 그리고 이쪽은 플로입니다. 피오나는 내 인생의 동반자야. 이 차는 1963년식 포드 팰컨 클럽 왜건입니다. 서핑이든, 캠핑이든, 음악 축제든, 그녀는 항상 내 곁에 있어요. 이분은 플로예요. 이분은 피오나의 여동생입니다. 그녀는 1965년식 포드 에코라인 픽업트럭입니다. 저는 이 바디 디자인이 정말 마음에 들어요. 요즘엔 이런 차를 길에서 보기 힘들죠.
 
-## 2025-11 (총 90건)
+## 2025-11 (총 98건)
 
-### AX (29건)
+### AX (31건)
 
 - **[60-Minute AI Coding Challenge: Building a Pictionary Game with Amazon Q Developer & Amazon Nova](https://www.youtube.com/watch?v=kZ0Zeqh43Qw)** · AWS Developers (channel)
   안녕하세요 여러분, 제 이름은 에릭이고 저는 음악 과 웹사이트 제작에 열정적인 팬입니다. 오늘은 60분 동안 게임을 만들어보는 재밌는 도전을 해보면 어떨까 생각했어요 . 저는 프런트엔드 부분은 꽤 잘하는데, 백엔드 부분은 좀 도움이 필요합니다. 그래서 제 친구 드완을 불러서 도움을 받았습니다. 에드, 잘 지내? 야, 잘 지내? 좋아요. 게임을 만들고 싶으신 건가요? 네, 그렇습니다. 어떤 종류의 게임인가요? 음, 저는 이미지 맞추기 게임 같은 걸 생각하고 있었어요. 픽셔너리 같은 거요.
@@ -8514,6 +8699,12 @@
 
 - **[Unlocking Worlds with GenAI Assistant 🔓🤖](https://www.youtube.com/watch?v=IxL7rVBYLPM)** · Meta Developers (channel)
   전혀 없더라도 몇 분 만에 작동하는 게임 메커니즘을 스크립트로 만들 수 있다면 어떨까요 ? 이것이 바로 AI 비서의 힘입니다 . 안녕하세요, 크리에이터 여러분! 저는 알렉시아입니다. 이번 영상에서는 Worlds에서 생성 형 AI 비서 도구를 사용하는 방법을 알려드리겠습니다 . 데스크톱 편집기 에서 어시스턴트에 액세스하고 설정하는 방법을 단계별로 안내해 드리겠습니다 . 이 과정에서는 함수형 TypeScript 코드를 생성하는 프롬프트를 작성하는 방법을 배우게 됩니다 . 그리고 이러한 결과를 더욱 정교하게 다듬고, 스크립트를 발전시키고, 다른 Genaii 도구와 결합하여 더욱 풍부하고 역동적인 경험을 만드는 방법을 보여드리겠습니다
+
+- **[Livestream: From Data to Deployment Building European AI at Scale](https://www.youtube.com/watch?v=KwSwxb2GBOM)** · NVIDIA Developer (channel)
+  Welcome to our live stream here from the very sunny Munich. And I'm very honored and exciting to be moderating and guiding you through this afternoon session and to this special event with from with the title from the data to deployment with hosting DL and Nvidia. We will talk about what it takes for largecale AI training and inference, the business impact of localized language models and we will gain some insights into real AI use cases for the AIdriven future communication.
+
+- **[Webinar: Accelerate Robotics and Real-Time AI Inference on NVIDIA Jetson Thor](https://www.youtube.com/watch?v=5y7awlP6lvw)** · NVIDIA Developer (channel)
+  Hey, good morning everybody. Uh, welcome to uh, Nvidia's webinar. Today we'll talk about Nvidia Justin Thor, our newly launched uh, AGI processor, robotics processor. Um, and today we will have some amazing news to share with you. Um, we will talk about how you can accelerate robotics and real-time AI inference on a media grass Thor. So let's get started and look at what we got to cover today.
 
 - **[AI/Agents in Production with Delphi, Seam AI, and APIsec](https://www.youtube.com/watch?v=OSvDO9VtypU)** · Pinecone (channel)
   [음악] 좋아요, 여러분. 오늘 저녁 사우스 비치 요트 클럽의 멋진 전망을 감상하며 저희와 함께해 주셔서 진심으로 감사드립니다. 오늘 밤, 아주 멋진 세션이 있어요. 오늘 저희와 함께 해주신 세 분의 멋진 분들을 소개합니다. 그럼, 더 이상 지체하지 않고 바로 시작하겠습니다. 궁금한 점이 있으시면 질의응답 시간에 질문해 주세요 . 그럼 이제 패널 여러분께서 자기소개를 해주시도록 하겠습니다. 흠뻑. 여러분 모두 잘 지내시나요? 저는 Deli의 공동 창업자 겸 CTO이며, 약 3년 동안 이 프로젝트를 진행해 왔습니다
@@ -8562,7 +8753,7 @@
 - **[Palantir Ontology Overview](https://www.youtube.com/watch?v=YDAxITCNcko)** · Palantir (channel)
   오늘은 온톨로지가 무엇인지, 왜 중요한지, 현실 세계에서 의사 결정 중심 시스템을 구축하는 데 실제로 어떻게 사용하는지에 대해 이야기하겠습니다. 온톨로지가 무엇인지 생각해보면 어떨까요? 비즈니스를 구성하는 것은 명사와 동사죠? 이 제조 사례에서는 창고에서 플랜트를 공급하고 있는 플랜트와 창고가 있습니다. 그렇죠. 저는 고객에게 제품을 배송하고 있습니다. 이는 여러분의 비즈니스가 실제로 어떻게 운영되고 있는지에 대한 점점 커져가는 진실을 그대로 반영하고 있습니다. 서로 연결된 복잡한 관계가 있죠, 그렇죠. 그러니까.
 
-### unclassified (60건)
+### unclassified (66건)
 
 - **[Build Production-Ready Apps: AWS Serverless Full Stack Tutorial (Beginner Friendly!)](https://www.youtube.com/watch?v=pXVDDeG9Dsg)** · AWS Developers (channel)
   아셰타, 요즘 뭐 하고 있어? 개인 지출 내역 관리 앱을 간단히 테스트해보고 있어요 . 와, 멋지네요. 그건 모든 개발자를 위한 공식적인 시작 사이트 프로젝트와 같아요. 클래식 제품 같죠? 정확히. 목요일은 지출 내역을 기록하는 날입니다. 금요일 날씨 앱. 우리 모두 그런 걸 몇 개쯤은 만들어 봤을 거라고 확신해요. 물론이죠. 그리고 온라인에서 볼 수 있는 대부분의 풀스택 데모가 기본적으로 고전적인 CRUD 앱이라는 사실을 눈치채셨나요? 정확히.
@@ -8570,11 +8761,23 @@
 - **[20X Microsoft Partner of the Year - Accenture at Ignite 2025](https://www.youtube.com/watch?v=kqKyNdrlyVg)** · Accenture (channel)
   เฮ
 
+- **[Accelerating private equity deal flows with Claude](https://www.youtube.com/watch?v=AY3lif2E4zI)** · Anthropic (channel)
+  클로드가 어떻게 사모펀드 거래 처리 시간을 며칠에서 몇 시간으로 단축하는지 살펴보겠습니다. 우리는 매도 측을 담당하는 리버사이드 파트너스의 어소시에이트인 사라 와 매수 측을 담당하는 월트 캐피털의 부사장인 젠을 따라갈 것입니다 . 그들은 8,500만 달러 규모의 의료 서비스 사업인 호라이즌 헬스 그룹(Horizon Health Group)을 추진하고 있습니다 . 사라는 거래를 성사시키기 위한 티저 자료가 필요해서 클로드에게 거래 티저 제작 기술을 활용해 고객에게 보여줄 수 있는 프레젠테이션을 만들어 달라고 부탁합니다 .
+
+- **[Claude Code modernizes a legacy COBOL codebase](https://www.youtube.com/watch?v=OwMu0pyYZBc)** · Anthropic (channel)
+  Let's explore how developers can use Cloud Code to modernize a Cobalt codebase. For the purposes of this demo, we'll use AWS's mainframe modernization demo repository. This is a medium-siz credit card management system with around 100 files, including Cobalt programs, copy books, and JCL scripts. Phase one, discovery and documentation. Our sample Cobalt codebase has almost no documentation.
+
+- **[Generating real-time credit intelligence with Claude](https://www.youtube.com/watch?v=Y6wiWlcH5jM)** · Anthropic (channel)
+  클로드가 신용 분석가들이 시장 신호에서 투자 결정을 내리는 데 몇 시간이 아닌 단 몇 분밖에 걸리지 않도록 어떻게 돕는지 보여드리겠습니다 . 우리는 멀티전략 펀드인 스테디 캐피털의 신용 분석가인 유리 씨를 따라가 보고 있습니다. 오전 10시, 그는 월마트 2030 채권의 금리가 점점 더 높아지는 것을 알아차렸다. 포트폴리오 검토는 오후 2시에 진행됩니다. 유리는 이것이 단기적인 거래 기회인지 아니면 근본적인 변화인지 알고 싶어합니다. 그는 간단하게 시작한다. 월마트의 채권 수익률 곡선을 보여주고 코스트코와 타겟의 곡선과 비교해 보세요.
+
 - **[Introducing Claude Opus 4.5](https://www.youtube.com/watch?v=56kq0VTkU4k)** · Anthropic (channel)
   안녕하세요, 저는 슈토입니다. 저는 앤 트로픽에서 엔지니어이자 연구원으로 일하고 있습니다. 클로드 오푸스 4.5는 지금까지 출시된 모델 중 최고의 제품입니다. [음악] 코딩, 에이전트 작업, 스프레드시트 같은 일상적인 작업 등 모든 면에서 세계 최고입니다 . 보여주기 어려운 건, 이 프로그램이 어떻게 그 상황을 정확히 파악하는지입니다. [음악] 난 이 모델을 더 신뢰해. 개입 간격이 점점 길어지고 있는데, 동료들은 소넷이 절대 찾아낼 수 없었던 버그를 제가 해결했다고 계속 말하고 있습니다.
 
 - **[Turning Claude into your thinking partner](https://www.youtube.com/watch?v=VHsp6Hp7Stw)** · Anthropic (channel)
   좋은 생각이 났군요. 어제 희미한 빛줄기 하나로 시작됐습니다. 그게 뭐였지 ? 오른쪽. 클로드는 그것을 기억했다. 당신의 아이디어는 배고팠어요. 해답과 소통을 갈망합니다. 클로드는 당신이 보는 것을 도왔고, 당신 옆에서 함께 읽어주었습니다. 이것을 무엇으로 바꾸시겠습니까? 프레젠테이션 자료, 스프레드시트, 문서 등 지루한 부분은 모두 처리되었습니다. 당신의 아이디어는 더 이상 단순한 말과 슬라이드가 아니었습니다. 그것은 [음악] 항목, 업데이트, 활동, 실제 장소에서 일어나는 실제적인 일들이 되었습니다. 당신은 계속 나아갔어요 . 당신은 책상에서 일어났습니다.
+
+- **[Who let the robot dogs out?](https://www.youtube.com/watch?v=NGOAUJtdk-4)** · Anthropic (channel)
+  [음악] 오늘날 많은 관심은 최첨단 AI 모델이 소프트웨어 엔지니어링을 어떻게 변화시키고 있는지에 집중되어 있습니다. 우리가 이해하고자 하는 것은 그것이 어떻게 물리적인 세계로 구현될 수 있는지입니다 . 로봇공학은 소프트웨어 기반 시스템이 현실 세계에 영향력을 행사할 수 있게 되는 명확한 진입점이라고 할 수 있습니다. 프로젝트 페치는 클로드(Claude)가 사람들이 경험이 부족한 상당히 복잡한 기술적 작업을 수행하는 속도를 얼마나 향상시키는지 측정하고자 했던 독립적인 실험입니다 . 프로젝트 페치는 하루 동안 진행된 실험이었습니다. 실험은 세 단계로 진행되었다.
 
 - **[iPhone 17 Pro: The Powerful A19 Pro Chip](https://www.youtube.com/watch?v=dJObc0V6hJU)** · Apple (channel)
   애플 A19 Pro 칩은 증기 냉각 방식을 사용하는데, 이는 칩 온도가 낮을수록 성능이 향상되어 초당 35조 개 이상의 복잡한 작업을 처리할 수 있기 때문입니다. 우리가 그만큼 강력하다면 어떨지 상상해 보세요. [비명] 더위. [음악] 열기.
@@ -8617,6 +8820,12 @@
 
 - **[Semicon West Keynote | Intel](https://www.youtube.com/watch?v=wPJ-umSgON0)** · Intel (channel)
   열.열.
+
+- **[Ever wondered how EV car sound design works? | Tech Explained](https://www.youtube.com/watch?v=aB0BzSurnvw)** · Mercedes-Benz (channel)
+  I still love playing with cars and creating the noises they make, but these days electric cars are kind of quiet, right? That's why Mercedes-Benz has invented a whole new galaxy of immersive sound experiences. I'm Rob. I'm your tech explainer and this is Tech Explainer. Previously, cars [music] made one sound from the engine and exhaust, but in our electric cars, you can choose from six [music] immersive sound worlds.
+
+- **[Your multitasking sidekick: MB Drive Assist Pro | Tech Explained](https://www.youtube.com/watch?v=hKVEREcurgQ)** · Mercedes-Benz (channel)
+  The world's a really busy place. We're constantly being bombarded with information from all angles. But wouldn't it be great if the thinking could be done for you? I'm Rob. I'm your tech explainer. And this is Tech Explained. And I found the answer, the beautiful new CLA. This car has so-called level two plus plus assisted driving. It's urban assisted driving under supervision.
 
 - **[Designing Remix-Ready Worlds with GenAI 🌍✨](https://www.youtube.com/watch?v=NiP68_neZFg)** · Meta Developers (channel)
   플레이어들에게 단순히 재미를 주는 것을 넘어, 자신 만의 아이디어, 테마, 메커니즘을 더해 더욱 발전시켜 나갈 수 있도록 영감을 주는 세계를 만들어낸다고 상상해 보세요. 리믹스 가능한 세계는 여러분의 디자인을 창의적인 플랫폼으로 바꿔주며, 오픈 소스 프로젝트나 모딩 커뮤니티에서 볼 수 있는 것과 같은 공동체 에너지를 불러일으킵니다. 안녕하세요, 크리에이터 여러분! 저는 알렉시아입니다. 이번 영상에서는 다른 사람들이 쉽게 리믹스할 수 있는 월드를 디자인하는 방법을 알아보겠습니다.
@@ -8744,9 +8953,9 @@
 - **[The Zoox Explorers program is now live in San Francisco](https://www.youtube.com/watch?v=eKQrBB1elDE)** · Zoox (channel)
   [music] Oops.
 
-## 2025-10 (총 81건)
+## 2025-10 (총 95건)
 
-### AX (16건)
+### AX (22건)
 
 - **[AWS MCP Servers Tutorial: How Game Developers Can Use Amazon Q with Blender, Unity & Perforce](https://www.youtube.com/watch?v=dKJ8v4wpYxk)** · AWS Developers (channel)
   오늘 아주 특별한 손님이 오십니다 . 오늘 마이클이 저와 함께 코딩 도우미를 활용할 수 있는 사람들이 소프트웨어 개발자, 웹사이트 제작자, 백엔드 애플리케이션 개발자뿐만이 아니라는 것을 보여주기 위해 이 자리에 함께했습니다 . Amazon Q 개발자 CLI와 같은 코딩 도우미와 올바른 MCP 서버를 사용하면 우리 모두에게 도움이 될 수 있습니다. 오늘 마이클은 게임 ​​개발을 원하는 여러분이 Unity, Blender, Perforce라는 프로그램과 같은 도구를 사용하기 위해 적절한 MCP 서버를 활용하는 방법을 보여줄 것입니다.
@@ -8754,11 +8963,17 @@
 - **[Beginner-Friendly Amazon Bedrock AgentCore & Strands Agents Tutorial](https://www.youtube.com/watch?v=j2wYT6jqXZY)** · AWS Developers (channel)
   여러 에이전트를 구축하고 프로덕션 환경에 배포하려는 경우 이 영상이 도움이 될 것입니다. 오늘 영상에서는 인공지능 에이전트에 대해 궁금한 점이 많은 호기심 많은 학습자 아나 씨를 모셨습니다. 그것들은 어떻게 만들어지나요? 어떻게 배치되나요? 그럼, 질문은 모두 그녀에게 맡기겠습니다. 안녕하세요, 아나. 안녕, 슈브함. 드디어 만나뵙게 되어 반갑습니다 . 그래서, 이 에이전트가 무엇인지 알고 싶습니다. 트랜스 에이전트란 ​​무엇인가요? 모르겠습니다. 오, 그거 좋네요. 제가 말씀드릴게요. 그렇다면 AI 에이전트란 ​​무엇일까요? 에이전트는 기본적으로 코드 조각입니다.
 
+- **[Introducing Claude for Life Sciences](https://www.youtube.com/watch?v=sHImlfVM9r4)** · Anthropic (channel)
+  - It took us three months, ultimately, lots of people working day and night in the lab to fix the problem. I posed this problem to Claude. I said, "Hey, what should we do to get unstuck?" And just in one minute, you know, one response, Claude actually just one shotted the answer. - Hi, I'm Jonah Cool. I am the Head of Life Sciences focused on partnerships and deployment here at Anthropic.
+
 - **[Duck Tales: Delight at DuckDuckGo — & why we’ve created 350+ versions of our mascot (Dax) (EP4)](https://www.youtube.com/watch?v=bxKEXFiPO14)** · DuckDuckGo (channel)
   안녕하세요. 안녕하세요, 덕탈스에 오신 것을 환영합니다. 음, 제 생각엔 이게 4화일 것 같아요. 음, 상황이 나아지고 있기를 바랍니다. 오늘은 베이아를 인터뷰하지 않을 겁니다. 베이아가 저를 인터뷰할 예정인데, 음, 재밌는 내용이라서 여러분도 좋아하실 것 같아요. 베이아 씨, 자기소개를 하시겠어요? 확신하는. 저는 베이아입니다. 저는 덕 데코의 제품 팀 소속입니다 . 여기 온 지 6 년 정도 됐어요. 그래서 저는 최근 덕 데코 제품 역사에서 일어난 많은 일들을 봐왔는데, 네 , '기쁨'은 제가 가장 좋아하는 주제 중 하나입니다
 
 - **[Duck Tales: DuckDuckGo now lets you customize the ‘personality’ of AI responses (episode 3)](https://www.youtube.com/watch?v=zeMMz0cUg3s)** · DuckDuckGo (channel)
   안녕하세요. Ducktals에 오신 것을 환영합니다! 이곳에서는 Duck의 비하인드 스토리를 공개합니다. 회사 내부에서 진행되는 일이나 개발 중인 기능 등에 대해 이야기해 봅시다. 음, 오늘도 인공지능에 대해 이야기할 거예요 . 나자르가 내 곁에 있어요. 어, 나르 씨, 자기소개를 해주시겠어요? 네 , 물론이죠. 어, 저는 나르예요. 저는 Tech AI에서 디자이너로 일하고 있습니다. 제가 제품 개발을 주도하고 있고, 네, 저희는 함께 협력해 왔습니다. 당신은 단순한 디자이너 그 이상입니다. 당신은 이제 단순한 디자이너 그 이상입니다.
+
+- **[Agentic AI in Action: Transforming Health, Education, and Consumer Experiences | Intel](https://www.youtube.com/watch?v=5wlY9FcvRiE)** · Intel (channel)
+  Welcome to Intel on AI, the podcast that connects leaders with listeners. Today's guest is Stacy Shulman. Stacy Shulman is the vice president and GM of health, education and consumer industries at Intel. She leads the charge in growing the health, life sciences, education and consumer industries unit while exploring emerging technologies across various sectors. With over 25 years in the software and high tech industry.
 
 - **[From Cloud Dependency to Local Intelligence: The Future of Accessible AI | Intel](https://www.youtube.com/watch?v=PIriUFKk_ac)** · Intel (channel)
   리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥귀건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 브렌던 왕입니다. 브렌던은 온디바이스 AI를 빠르고 효율적이며 접근성 있게 만드는 응용 연구소인 Fluid Inference의 공동 창립자 겸 CEO입니다. LinkedIn, Amazon, Microsoft 및 Data Bricks의 연구원과 엔지니어로 구성된 팀은 AI 가속기를 사용하여 로컬 장치에서 실시간 워크로드를 위한 최신 기반 모델을 최적화하고 미세 조정하는 데 집중하고 있으며, 현재는 음성 AI( speechtotext, texttospech, VAD 및 화자 식별 포함)에 중점을 두고 있으며, 곧 비전 및 언어 모델로 확장할 예정입니다
@@ -8771,6 +8986,18 @@
 
 - **[네이버 HyperCLOVA X 활용 사례: 네이버 서비스부터 기업 현장까지](https://www.youtube.com/watch?v=h5_Hjabmcck)** · NAVER Cloud (channel)
   [음악] 네. 안녕하세요. 저는 네이버 클라우드 교육팀에서 이제 근무하고 있는 정 여진이라고 하고요. 어 저는 이제 저희 네이버가 어 여러 가지 언어 모델을 좀 제공하고 있는데 어떤 언어 모델을 좀 제공하고 있는지 그리고 기존의 고객들이 이제 저희 모델을 사용해서 어떤 서비스들을 구현하셨는지 이런 유즈 케이스들에 대해서 좀 간단하게 오늘 소개드리는 시간 가지도록 하겠습니다. 네.
+
+- **[Building Scalable AI Memory for Agents Across Graphs and Vectors | Cognee | Vasilije Markovic](https://www.youtube.com/watch?v=KNCFUmDvT4I)** · Qdrant (channel)
+  두 번째 발표자로는 Cognney의 Vasili Marovich 님이 나와서 그래프와 벡터 전반에 걸쳐 에이전트를 위한 확장 가능한 AI 메모리 구축에 대해 이야기할 예정입니다. 여러분, 그에게 큰 박수를 보내주세요. 저는 바실입니다. 저는 코그니의 창립자입니다. 음, 저는 빅데이터 분야에서 약 10년 동안 일해왔고, 2~3 년 전에 제 스타트업을 시작했습니다. 저는 초기 쿼드런트 행사 중 하나에서 발표를 했었는데, 그때는 훨씬 작은 장소였고 참석자도 훨씬 적었습니다. 여러분들이 이렇게까지 발전한 모습을 보니 정말 감탄스럽습니다 .
+
+- **[Building a News Sleuth for the Deep Research Paradigm | AskNews | Robert Caulk](https://www.youtube.com/watch?v=mhsXLO5ZN8I)** · Qdrant (channel)
+  오늘 저희 토크에 참석해주신 모든 분들께 감사드립니다 . 저희는 쿼드런트의 열렬한 팬입니다. 저희는 Quadrant를 2~ 3년 정도 사용해 왔습니다. 이 대화의 상당 부분은 저희가 쿼드런트를 통해 겪은 여정에 관한 것인데, 정말 재밌어요. 하지만 동시에 우리는 심층 연구를 어떻게 활용하고 있는지, 그리고 뉴스 관련 심층 연구 과정에서 쿼드런트가 어떤 역할을 하는지에 대해서도 이야기할 것입니다. 음, 저는 C, 즉 별표 O를 나타내는데, 이는 저희가 아주 작은 스타트업이라는 뜻입니다.
+
+- **[Qdrant Essentials | Increase Search Relevance with Sparse Vectors in Qdrant](https://www.youtube.com/watch?v=lp8rLJdqUg8)** · Qdrant (channel)
+  지난 영상에서는 희소 벡터 표현과 이를 쿼드런트에서 사용하는 방법에 대해 알아보았습니다. 이 영상에서는 이러한 표현 방식이 키워드 기반 텍스트 검색에 이론적으로나 실제로 어떻게 활용될 수 있는지 보여드리겠습니다. 먼저 어휘 검색부터 시작하고, 키워드 기반 일치의 정확성과 머신러닝 모델의 의미론적 이해를 결합한 희소 신경 검색에 대해 간략하게 소개하겠습니다. 이 여정을 시작하기 위해서는 먼저 텍스트를 희소 표현으로 변환하는 방법을 이해해야 합니다. 이전 영상에서 설명드렸듯이 , 희소 표현에서 각 차원은 특정 객체를 나타냅니다 .
+
+- **[Qdrant Vector Space Day 2025 | Opening Keynotes](https://www.youtube.com/watch?v=Vgbg7uIddnA)** · Qdrant (channel)
+  안드레 자니 씨를 환영해 주세요. 수정해야 할 부분이 있어요. 저희 프로젝트는 이미 GitHub에서 26,000개 이상의 별을 받았습니다. 음, 그럼 우리가 어디에서 왔고 어디로 가고 있는지에 대해 조금 이야기해 볼까요? 어, 그리고 아마도 네. 자, 영상 보셨죠? 정말 멋지네요. 제작해 주신 후안 씨께 감사드립니다. 음, 겉보기에는 모든 게 굉장히 순조롭고 쉬워 보였고, 네, 잘 진행됐지만, 특히 초반에는 정말 많은 어려움을 겪었습니다. 음, 저희는 제품의 첫 번째 안정적인 버전을 개발하는 데 어려움을 겪었습니다
 
 - **[Scale AI @ ALL IN 2025 | Back to the future of Canadian AI: 6 years of Scale AI](https://www.youtube.com/watch?v=sXTycrc-b7Q)** · Scale AI (channel)
   Hello again. Uh, thanks for sticking around. I actually encourage you to stick around. We're at a at a we have a bunch of really great speakers coming up. Super fascinating. Uh, the first one is uh on from the Scale AI team. Our next speaker is taking us back to the future of Canadian artificial intelligence reflecting on the six years of scale AI, the folks who put on this event.
@@ -8801,7 +9028,7 @@
 - **[Chad & Nicolas | Lightweight Transforms at Merck KGaA, Darmstadt, Germany](https://www.youtube.com/watch?v=PGNWo-UuXLs)** · Palantir (channel)
   Hi, I'm Chad Walquist. I'm an architect&nbsp; at Palanteer. Today I have Nicholas from&nbsp;&nbsp; Merc. He happens to lead all the data platforms.&nbsp; Palanteer being one of them there. And so we're&nbsp;&nbsp; going to talk about something called lightweight&nbsp; transforms today, which is a pretty cool new&nbsp;&nbsp; thing around processing and transforming data with&nbsp; different compute engines. So, thanks for joining&nbsp;&nbsp; me. Hi Chad. Thank you. Thanks for the invitation.
 
-### unclassified (64건)
+### unclassified (72건)
 
 - **[Amazon EKS Auto Mode: Deploying AI Agents with Kubernetes](https://www.youtube.com/watch?v=yFnKsh8yxA4)** · AWS Developers (channel)
   에이전트가 새로운 비즈니스 애플리케이션으로 자리 잡고 있습니다. 실제로 가트너는 2028년까지 모든 비즈니스 애플리케이션의 33%에 에이전트형 AI가 포함될 것이라고 예측합니다. 오늘은 자동 모드를 사용하여 단 몇 분 만에 Amazon EKS에서 첫 번째 Aentic 워크로드를 시작하는 방법을 보여드리겠습니다 . 이를 위해 AWS에서 개발한 오픈 소스 SDK인 Strand Agents를 사용할 것입니다. Strands 에이전트를 사용하면 단 몇 줄의 코드로 에이전트를 구축하고 실행할 수 있습니다. 개발 단계부터 운영 단계까지 모두 사용할 수 있습니다 .
@@ -8820,6 +9047,15 @@
 
 - **[Kris Jenner loves a good crow. Shop all her must-haves as she unpacks Halloween.](https://www.youtube.com/watch?v=sn1TTNTFzDk)** · Amazon (channel)
   마지막으로, 말을 하지 않는 공동 진행자가 있습니다. 놀라운. 무섭도록 재밌는 할로윈을 제대로 즐겨봅시다. 제가 가장 좋아하는 것 중 하나는 멋진 까마귀입니다. 내가 좋아하는 눈가 주름은 이것뿐이야. 정말이에요, 이건 제 아이들이 태어난 이후로 저희 가족의 전통이 되었어요 . 좀 섬뜩하네요. 솔직히 말할게요 . 나는 무장했고 위험한 인물이다. 이거 정말 멋지지 않나요? 물론이죠, 저는 이게 정말 훌륭하다고 생각해요. 이건 제가 가장 좋아 하는 스타일 중 하나예요. 이건 나중에 한번 몰아봐야겠어요 .
+
+- **[Claude Code updates: When to use Haiku 4.5, Claude Code on web, and more.](https://www.youtube.com/watch?v=CBneTpXF1CQ)** · Anthropic (channel)
+  클로드 코드(Claude Code)가 이제 웹에서 이용 가능합니다. 따라서 터미널을 열거 나 IDE를 실행하지 않고도 이제는 브라우저나 Claude 모바일 앱에서 직접 코딩 작업을 위임할 수 있습니다. GitHub 계정을 연결하고, 저장소를 선택하고, 필요한 작업을 설명하기만 하면 Claude가 나머지를 모두 처리합니다. 모든 작업은 당사의 클라우드 인프라에서 실행됩니다. 그리고 가장 좋은 점은 이제 여러 저장소에서 여러 작업을 병렬로 실행할 수 있다는 것입니다 .
+
+- **[How Claude is transforming financial services](https://www.youtube.com/watch?v=a8PmR-fNQ_0)** · Anthropic (channel)
+  분석가들은 이 작업을 하나의 엑셀 시트에 정적으로 수행하며, 매주 또는 분기마다 수동으로 업데이트합니다. BCI는 그렇게 하는 대신, 아티팩트 기능을 사용하여 S&amp;P 및 팩스 데이터 세트에 직접 연결했습니다. 그래서 결과물은 이러한 지표들이 서로 어떻게 비교되는지를 보여주는 실시간 대시보드[음악]가 됩니다 . 클로드에게 간단한 메시지 하나만 보내면 쉽게 업데이트할 수 있습니다 . 그리고 이러한 자료들은 해당 플랫폼 과 직접적으로 연관된 음악 관련 경영 책임자들과도 공유됩니다 .
+
+- **[Scaling enterprise AI: Fireside chat with Eli Lilly’s Diogo Rau and Dario Amodei](https://www.youtube.com/watch?v=Yiy0cU6ChSw)** · Anthropic (channel)
+  기술 발전 속도를 믿읍시다. 1년 후에는 모델이 충분히 좋아져서 모든 과정을 처음부터 끝까지 처리할 수 있게 될 것이고, 그때가 되어서야 비로소 실제 배포를 시작할 수 있을 것입니다. 또 2년의 지연이 발생할 것이고, 그 2년 동안에는 환자들에게 도움이 될 만한 모든 연구가 진행되지 못할 것입니다 . 여러분, 안녕하세요. 제 이름은 디오이고, 일라이 릴리언 사의 최고 정보 및 디지털 책임자입니다. 저는 앤트로픽의 창립자이자 CEO인 다리오와 함께하고 있습니다 . 다리오, 오늘 함께해 주셔서 감사합니다 .
 
 - **[Apple at Work: Seamless Integration Between Mac, iPhone, and iPad](https://www.youtube.com/watch?v=6K4eUO53-UE)** · Apple (channel)
   [음악] 테스트, 테스트. 세상이 파랗게 물든 날에 대해 이야기해 주세요. 정말 무서웠어요. 저는 전혀 무섭지 않았어요. 좀비 대재앙. 이 모든 일은 컨테이너 콘 행사가 열린 날에 일어났습니다 . 음, 우리에게는 계획이 있었죠. 트레브 스미스를 찾으세요. 머핀을 돌려서 굽는 것처럼 보이네요. 그렇게 말하면 안 돼요. 그는 그렇게 합니다. 그는 데일리 오가닉 그로서리의 모든 구매를 담당하고 있으며, 이는 곧 우리 회사의 2백만 달러 매출 달성의 핵심입니다. 안녕하세요, 엄마. 오늘 저녁은 맥앤치즈예요.
@@ -8847,6 +9083,9 @@
 
 - **[Intel Foundry and Intel 18A - Starting a new node in a new fab with Zivit Katz-Tsameret | Intel](https://www.youtube.com/watch?v=13JmG73VdC0)** · Intel (channel)
   새로운 공장을 시작하는 것은 완전히 새로운 일이며, 새로운 건설 공장을 짓는 것뿐만 아니라 새로운 기술을 도입하는 것 또한 매우 흥미로운 일입니다. 이번 프로젝트인 프로젝트 이글과 팹 52에서는 이 두 가지를 모두 경험할 수 있는 행운을 누렸습니다. 캠퍼스 뒤편의 넓은 공터에서 시작하여 공장을 건설하고, 빠르게 장비를 설치하고, 펀터 레이크 웨이퍼 생산을 시작할 준비를 했습니다. 음, 이런 점에서 환경은 분명히 매우 어려웠고, 우리는 그 상황에 잘 대처해야 했습니다.
+
+- **[Meet today’s standard for business PCs | Intel](https://www.youtube.com/watch?v=-V7WBpro43A)** · Intel (channel)
+  Heat.
 
 - **[Meet today’s standard for business PCs | Intel® Core™ Ultra 200V series processors | Intel](https://www.youtube.com/watch?v=jgG3ZMRYcq4)** · Intel (channel)
   열.열. [음악] 열기. 열.
@@ -8877,6 +9116,15 @@
 
 - **[LG Aimers 7th Challenge: A Journey to Becoming an Expert](https://www.youtube.com/watch?v=D_ja26_mPn0)** · LG AI Research (channel)
   เฮ [음악] 한정이게 할 거 같아요. 저를 21일까지만 최대 상황으로 보장을 해서 더 스케일링을 하고 또 정보를 좀 더 주입을 하는 것을 목적으로 하였기 때문에 저희들이 뭔가 다설이 지금 나가지고 그렇습니다. 1년부터지 계획을 풀 수 있습니다. 전체적인 성능과 유더보드 성능이 형성된 것을 확인할 수 있습니다.
+
+- **[Experience New Dimensions of Charging with ELF | Tech Explained](https://www.youtube.com/watch?v=SzZ1p6BFdBE)** · Mercedes-Benz (channel)
+  전기차 충전에는 예전에는 엄청난 시간이 걸렸습니다. 평소에는 잡지 한 권을 다 읽을 수 있었지만, 지금은 메르세데스-벤츠가 전기차 충전 기술 의 한계를 뛰어넘고 있어서 링크드인 게시물 하나 작성할 시간조차 거의 없습니다 . 저는 롭입니다. 저는 여러분의 기술 전문가이고, 이곳은 ' 기술 설명'입니다. 이곳은 단순한 이동식 혁신 연구소 그 이상입니다. 원래 이름은 ' 실험적인 녀석'인데, 너무 길어서 그냥 'ELF'라고 불러요. ELF는 초고속 충전의 가능성을 한 차원 더 높여줍니다.
+
+- **[The all-new electric CLA | A station talk](https://www.youtube.com/watch?v=KXaYogGftLI)** · Mercedes-Benz (channel)
+  Ah, this one again. (sighs).. I think it never stops, Dad. Well… Huh, there he is again. Poser. HEY! Who does he think he is? So restless. Hey stop.. stop! Weirdo! (Sighs) Dad, wake up! (Sighs) Pointless. No, for real, it’s stopping. Huh, look who is here!? ‚Mr-I-Don’t-Need-A-Break‘, huh? Oh Really?
+
+- **[We built the perfect S-Class | Because it’s Mercedes-Benz Episode 5](https://www.youtube.com/watch?v=lvMSd9tplLk)** · Mercedes-Benz (channel)
+  [음악] 선글라스를 끼면 더 좋을 것 같아요. [음악] 인조 모피는 어때요? 아, 그럼 인조 모피 코트는 어때요? 아직 뭔가 더 필요해요. 잠깐만, 잠깐만, 잠깐만, 잠깐만. 오늘은 제 개인적인 스타일이 아니라, 여러분만의 개성을 담은 자동차 꾸미기에 대해 이야기해 보겠습니다 . 난 이미 멋져 보여. 좋아요, 그럼 계속 보세요. 오늘은 아주 특별한 날입니다. 메르세데스-벤츠 제조사. [음악] [박수] 여기는 재밌는 곳 같네요. 저는 모든 색깔이 다 마음에 들어요. 우리는 여기서 뭘 해야 할까요?
 
 - **[10 Years in the Making](https://www.youtube.com/watch?v=LIvpjFZwx4Q)** · Meta (channel)
   샤르마 박사님과 그분들이 하시는 모든 일을 따르세요 . 좋아요. 응. 맙소사, 효과가 있네. 정말 좋네요. [웃음] 뭔가 멋진 걸 보면 휴대폰을 꺼내지 않고도 공유하고 싶어지잖아요 . 안경 하나만 있으면 이 모든 걸 할 수 있을 거예요. 우리는 이제 다양한 구성 요소들을 하나씩 모아나가기 시작했습니다. 지난달에 [음악] Ray-Ban Stories를 출시했습니다. 사진과 동영상을 촬영하고, 음악을 듣고, 전화를 받을 수 있습니다. 인공지능의 발전은 차세대 컴퓨팅 플랫폼 구축의 발전과 교차합니다 . 차세대 레이밴 메타 스마트 안경.
@@ -8931,6 +9179,9 @@
 
 - **[Pinecone and Zapier AI automation workflow](https://www.youtube.com/watch?v=7p71x3DGzwA)** · Pinecone (channel)
   안녕하세요, 오늘은 새로운 파인콘 어시스턴트 Zapier 연동 예시를 살펴보겠습니다. 저는 G 드라이브에 연결되는 Zap을 제작했습니다. 특정 폴더에서 새 파일을 찾습니다. 파일을 찾으면 Pine Assistant로 전송하고 , 파일 요약을 생성한 다음, 이 경우에는 제게, 하지만 설정해 놓으신 이메일 주소로 해당 요약을 이메일로 보내드립니다. 이렇게 하면 요약을 빠르게 받아보실 수 있습니다. 제가 필라델피아 남부 에서 자랐기 때문에 요약문에 필라델피아 방언을 사용하기로 했다는 점을 참고해 주세요 . 그러니 제 고향에 대한 존경의 표시를 조금 보여주세요.
+
+- **[High-Throughput, Low-Latency Embedding Pipelines for Real-World Applications | Baseten | Rachel Rapp](https://www.youtube.com/watch?v=29HJ95EmR94)** · Qdrant (channel)
+  안녕하세요 여러분. 저는 레이첼 랩입니다. 저는 베튼에서 일합니다 . 저는 AMIA 팀을 이끌고 있으며, 오늘은 프로덕션 환경에서 높은 처리량과 낮은 지연 시간을 제공하는 임베딩 파이프라인을 구축하는 방법에 대해 이야기하겠습니다. 그렇다면 제가 오늘 여러분께 이 이야기를 하는 이유는 무엇일까요 ? 음, 10진법으로 따지면 우리가 하는 모든 일은 추론을 위한 수단입니다. 저희는 제나이 모델을 전문으로 합니다. 이는 전사 모델부터 음성 합성, LLM, 이미지 생성, 자연어 임베딩에 이르기까지 무엇이든 될 수 있습니다.
 
 - **[Reckitt Focus On: Sustainability](https://www.youtube.com/watch?v=m92oCw_UJnY)** · Reckitt (channel)
   여러분, 안녕하세요. 저는 렉킷(Wreckit)의 투자자 관계 담당 이사 존 본입니다. 지속가능성과 ESG에 대한 이번 렉킷 포커스 토론에 오신 것을 환영합니다. 새롭게 시작하는 일련의 집중 세션은 투자자 교육을 강화하는 데 중점을 두고 있으며, 분기별 보고서를 넘어 Wreckit에서 어떤 일이 진행되고 어떻게 발전하고 있는지 보여주고자 합니다. 저희는 2022년 투자자 세미나 에서 지속가능성 목표와 진행 상황에 대해 자세히 설명드렸는데, 그 이후로 많은 진전이 있었습니다 .
@@ -8995,9 +9246,9 @@
 - **[Steering the Future | Episode 6: Ian](https://www.youtube.com/watch?v=a6s39ZGMNQc)** · Zoox (channel)
   안녕하세요, 제 이름은 이안 파커입니다. 저는 Zuks에서 작가 인터페이스 엔지니어로 일하고 있습니다. 그리고 여기가 제 차고입니다. 들어오세요. 한때 차를 네 대나 소유했었는데, 이제 세 대로 줄여야 했어요. 이 차는 제가 매일 타는 차입니다. 이건 리비안 R1T예요. 이 차는 제가 장거리 여행을 갈 때 타는 차입니다. 이 차는 일본에서 수입된 1997년식 힐럭스 서프입니다. 그리고 마지막으로 , 제가 가장 좋아하는 차, 2016년형 포르쉐 박스터 스파이더를 소개합니다. 저는 개인적으로 이 차들에 대해 상당한 작업을 해왔습니다
 
-## 2025-09 (총 62건)
+## 2025-09 (총 68건)
 
-### AX (15건)
+### AX (18건)
 
 - **[Automating Your Dev Workflow with Jira & GitHub Integration feat. Amazon Q CLI](https://www.youtube.com/watch?v=8F0JE3G_vEo)** · AWS Developers (channel)
   이번 영상에서는 제 친구 트로이가 LLM 기반 코딩 도우미 덕분에 개발자의 삶과 소프트웨어 개발 수명 주기가 어떻게 변화하는지 보여줄 예정입니다. 그는 지금 바로 Jira, Confluence, 위키, 코드 커밋 등과 같은 여러 가지 작업에 어떻게 도움이 되는지 보여줄 겁니다 . 제 옆에는 트로이가 있는데, 그가 생성형 AI를 포함한 소프트웨어 개발자의 하루 일과에 대해 이야기해 줄 겁니다. 트로이, 안녕하세요. 환영합니다, 환영합니다, 환영합니다, 환영합니다. 당신은 누구이고 무슨 일을 하는지 말해 주세요. 그리고 탭은 공백입니다
@@ -9016,6 +9267,15 @@
 
 - **[Duck Tales: Why DuckDuckGo Added the ‘More’ Button for AI-Assisted Answers (Episode 1)](https://www.youtube.com/watch?v=mGuLbT6dbvE)** · DuckDuckGo (channel)
   안녕하세요, 덕테일즈에 오신 것을 환영합니다! 이곳에서는 덕의 숨겨진 이야기를 함께 풀어봅니다 . 모두를 위한 개인정보 보호 도구를 만드는 이야기, 기술, 그리고 사람들을 공유하러 가세요 . 오늘 저의 게스트는 Tuck Tucker에서 AI 개발을 이끌고 있는 팀 레이 볼드입니다 . 팀, 환영합니다. 감사합니다, 카밀 바즈 바스. 좋아요 . 꽤 괜찮네요. 바즈 바즈. 음, 그래서 저희는 duck.co의 기존 SER에 방금 출시한 새로운 기능, 즉 어시스트의 '더보기' 버튼에 대해 이야기해 보려고 합니다.
+
+- **[From PoC to Production: How Lenovo Turns AI into Enterprise Impact | Intel](https://www.youtube.com/watch?v=JI9W8S_6QbY)** · Intel (channel)
+  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 데이비드 엘리슨입니다. 데이비드 엘리슨은 레노버 ISG의 최고 데이터 과학자이자 AI 엔지니어링 책임자입니다 . 그는 레노버의 미국 및 유럽 AI 연구 개발 센터를 통해 최첨단 AI 기술을 활용하여 외부 고객에게 솔루션을 제공하는 팀을 이끌고 있으며, 동시에 전 세계 인프라 솔루션 그룹의 전반적인 AI 전략을 내부적으로 지원하고 있습니다.
+
+- **[Inside the AI-Powered Workplace: How Intel Sees the Future of PCs and Workstations | Intel](https://www.youtube.com/watch?v=F-_ZQo52sTQ)** · Intel (channel)
+  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥그리건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 제니퍼 라슨입니다. 젠은 현재 인텔의 클라이언트 컴퓨팅 그룹 내 상업 부문 조직의 총괄 관리자입니다. 그녀는 대기업, 정부기관, 중소기업, 교육기관을 대상으로 하는 세그먼트 전략 및 가치 창출과 이를 지원하는 상용 플랫폼 솔루션 개발을 담당하는 팀을 이끌고 있습니다 .
+
+- **[Robotics at the Edge: Where AI Meets Real-World Automation | Intel](https://www.youtube.com/watch?v=DCFfva8Mm-c)** · Intel (channel)
+  [음악] [박수] [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 매튜 포미카입니다. 매튜 포미카는 16년 이상 인텔에서 근무한 경력이 있는 노련한 기술 경영인이자 사업 전략가로, 현재 인텔에서 엣지 제품 마케팅 및 AIPC 엣지 AI 소프트웨어 개발자 관계 담당 수석 이사로 재직하고 있습니다.
 
 - **[AIP for Just-in-Time Production | Lear at AIPCon 8](https://www.youtube.com/watch?v=-DPdyQR1bG4)** · Palantir (channel)
   Please welcome vice president global advanced&nbsp; manufacturing at Lear, Jennifer Johnson. [Music] All right, good morning. My name is Jennifer&nbsp; Johnson and I am here to share a glimpse into&nbsp;&nbsp; the journey of Palanteer Foundry at Lear&nbsp; Corporation. Lear is a global leader in&nbsp;&nbsp; automotive seating and e systems. Our team of&nbsp; more than 173,000 employees across 37 countries&nbsp;&nbsp; designs, manufactures, and delivers advanced&nbsp; technologies to the world's leading automakers.
@@ -9049,7 +9309,7 @@
 - **[Protecting America’s Security with AIP for Nuclear Construction | The Nuclear Company at AIPCon 8](https://www.youtube.com/watch?v=hTjGU14bxP0)** · Palantir (channel)
   Please welcome co-founder and CEO at&nbsp; the nuclear company, Jonathan Webb. [Music] Just let this sink in for a moment. That&nbsp; pink line is the US. That blue line is China. We still have the largest nuclear operating fleet&nbsp; in the world. But if you see that trajectory,&nbsp;&nbsp; that's about to change. And it's unacceptable. We're all here talking about AI. There's&nbsp; no AI without power.
 
-### unclassified (46건)
+### unclassified (49건)
 
 - **[From Developer to Game Creator: Getting Started in Game Development | The AWS Developers Podcast](https://www.youtube.com/watch?v=9RTglcxR9QA)** · AWS Developers (channel)
   게임 개발을 고려해 봐야 할까요? 게임 개발 방법은 무엇인가요? 이번 AWS 개발자 팟캐스트 에피소드에서 바로 그 질문에 대한 답을 찾아보겠습니다. 안녕하세요, 좋은 아침입니다, 좋은 오후입니다. 티파니와 함께하는 AWS 개발자 팟캐스트의 새로운 영상 에피소드에 참여해 주셔서 감사합니다. 안녕하세요 여러분. 오늘 저희의 특별 손님은 마투스입니다. 개발자 담당자인 마투스입니다. 개발자 한 명 가격으로 개발자 세 명을 대변해 드립니다 . 너무 좋아요. 쇼에 오신 것을 환영합니다. 그러니까 개발자 옹호자가 되기 전에 게임 개발자로 일하셨던 거군요.
@@ -9084,11 +9344,20 @@
 - **[Trackio: A DROP-IN Replacement for W&B that is open-source and 💯 free](https://www.youtube.com/watch?v=BdS8FgBqNOM)** · Hugging Face (channel)
   안녕하세요 여러분, 제 이름은 아부 바크르이고, 허깅 페이스에서 오픈 소스 애플리케이션 개발을 담당하고 있습니다. 오늘은 실험 추적을 위한 새로운 라이브러리인 Trackraio를 소개하겠습니다 . 만약 여러분이 Neptune AI의 가중치 및 편향 라이브러리에 익숙하다면, 같은 개념입니다. 머신러닝 모델을 학습시키거나 미세 조정하는 과정에서 특정 실험들을 추적하고, 기록하고, 직관적인 대시 보드를 통해 시각화하고 싶다고 가정해 보겠습니다. 트라시오도 마찬가지지만, 한 가지 중요한 차이점이 있습니다. 이 소프트웨어는 완전히 무료이며 완전한 오픈 소스입니다.
 
+- **[AI PCs and the Future of Cybersecurity: AI-Powered Protection from Deepfakes | Intel](https://www.youtube.com/watch?v=GzFE6k-S3vA)** · Intel (channel)
+  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 레나 엘리아스입니다. 레나는 Jen의 최고 제품 책임자이며, Jen은 Norton, Avast, Liflock, Money Lion 등 다양한 브랜드를 보유하고 있습니다. 그녀는 Gen에서 사이버 안전 사업을 이끌며 전 세계 5억 명이 넘는 고객에게 보안 및 개인정보 보호 솔루션을 제공합니다. 레나님, 인텔 AI에 오신 것을 환영합니다 . 감사합니다. 그래서 몇 가지 질문이 있습니다.
+
 - **[La Culture de L’Écart – Chasing The Extraordinary - Season 3 – 2025](https://www.youtube.com/watch?v=DPr8kfvFhsk)** · L'Oréal (channel)
   리더가 다음과 같을 때 가장 큰 위험은 무엇일까요? 뒤처지는 것에 기대어 예측 가능해짐, 즉 ~이 되어가는 것 평범한 [음악] 평범함은 어느 쪽에도 설 자리가 없다 내일 때문에 [음악] 현기증 예상 [음악] 저에게 있어 특별함이란... 지혜에 대한 저항의 한 형태. 표준에 맞춰, 일종의 우울함이죠, 뭐랄까, 그런 종류의 이러한 단계의 고갈 우리가 어린 시절에 가졌던 상상의 세계. 사치 는 어디에나 있다. 럭셔리는 한 가지 역할을 합니다. 형제의 형태이므로 이 형제에 반대합니다.
 
 - **[La Culture de L’Écart – Manifesto - Season 3 – 2025](https://www.youtube.com/watch?v=aIu7mBE3pQA)** · L'Oréal (channel)
   I think we need to put our thoughts on the table and see if anyone responds. It's a form of resistance to wisdom, to the norm. To create something extraordinary, you have to create a gap with the everyday, with what is expected. [Music] Heritage [Music] allows us to build something extraordinary with solid foundations. Extremuse 62 Inc. is a celebration of that era of Mr. Saint-Laurent's creative audacity, of his genius.
+
+- **[First look inside the all-new electric GLC | The Walkaround](https://www.youtube.com/watch?v=DwvJuWGY4AY)** · Mercedes-Benz (channel)
+  네, 그럼 오늘 아주 특별한 것을 준비했습니다. 메르세데스-벤츠가 여러분께 선보일 새로운 모델을 준비했습니다. 안녕하세요, 저는 인터넷에서 TGE라는 닉네임을 쓰는 톰 엑스턴입니다. 이 소식을 여러분과 공유하게 되어 정말 기쁩니다 . 준비됐나요? 그래 , 맞아. 자, 해봅시다. 갑시다 . [음악] [박수] [음악] [음악] 와 , 정말 놀랍네요. 라벤더 실버 색상의 전기 GLC . 이건 새로운 색상인데, 이 조명 아래에서 정말 눈부시게 아름답네요 . 자, 그럼 시작해 볼까요?
+
+- **[From Heat Control to Starry Nights: The all-new electric GLC's Panoramic Roof | Tech Explained](https://www.youtube.com/watch?v=LxJdiyr16ho)** · Mercedes-Benz (channel)
+  제가 휴가를 온 것처럼 보일 수도 있지만, 사실 저는 슈투트가르트 해안에 있는 게 아닙니다. 저는 스튜디오에 있는데, 저 조명이 정말 뜨겁네요 . 하지만 날씨가 더워질 때 시원함을 유지해주는 자동차를 메르세데스-벤츠가 발명했다고 하면 어떠시겠습니까 ? 저는 롭입니다. 저는 여러분의 기술 전문가이고, 여기는 '기술 설명'입니다. 이것은 완전히 새로 워진 전기 GLC입니다. 이 차에는 942개의 작은 점으로 이루어져 조명이 켜지고 움직이는 환상적인 새로운 상징적인 그릴이 있습니다 . S클래스 의 에어매틱 서스펜션이 적용되어 승차감이 매우 뛰어납니다 .
 
 - **[Meta Connect 2025 Keynote](https://www.youtube.com/watch?v=Q9eLemEd9FY)** · Meta (channel)
   ♪ ♪ 00:00:00,400 --&gt; --:--:--:-- ♪ ♪ --:--:--:-- --&gt; --:--:--:-- ♪ ♪ &gt;&gt; MARK WE ARE READY FOR YOU. &gt;&gt; ALL RIGHT. ♪ ♪ &gt;&gt; HOW'S IT GOING MAN? [CHEERING] ♪ ♪ [CHEERING] &gt;&gt; HEY! WE WILL TALK ABOUT THESE IN A MINUTE. WELCOME TO CONNECT! ALL RIGHT! A EYEGLASSES AND VIRTUAL REALITY. OUR GOAL IS TO BUILD GREAT LOOKING GLASSES THAT DELIVER PERSONAL SUPERINTELLIGENCE, AND A FEELING OF PRESENCE USING REALISTIC HOLOGRAMS, AND THESE IDEAS COMBINED.
@@ -9189,7 +9458,7 @@
 - **[Zoox is live in Las Vegas!](https://www.youtube.com/watch?v=K8P5PnchHDY)** · Zoox (channel)
   [Music] Oops.
 
-## 2025-08 (총 38건)
+## 2025-08 (총 40건)
 
 ### AX (8건)
 
@@ -9217,7 +9486,7 @@
 - **[Streamline evaluation, monitoring, optimization of AI data flywheel with NVIDIA and Weights & Biases](https://www.youtube.com/watch?v=1QdQjGTMBPc)** · Weights & Biases (channel)
   [Music] Hello everyone. I'm Anish Sha and I'm really excited to talk about some new blueprints that we have co-developed with the NVIDIA team to make sure that you can go ahead and improve your AI applications even further than what you already have in place.
 
-### unclassified (30건)
+### unclassified (32건)
 
 - **[Grow Your Success with the Accenture Alumni Community](https://www.youtube.com/watch?v=DdzD9Eg9hxo)** · Accenture (channel)
   [음악] 어떤 목표를 향해 나아가든, 좋은 사람들과 함께라면 그 목표를 달성하는 것이 항상 더 좋습니다. 성공을 함께 나눌 때, 그 기쁨은 더욱 커지기 때문입니다. 액센츄어 동문 네트워크는 공동체의 힘을 보여주는 증거입니다. 전 세계 사람들이 당신을 지원하고, 지식을 풍부하게 하며 , 새로운 경지에 도달하도록 영감을 주는 네트워크를 상상해 보세요 . [음악] 특별한 기회를 열고, 전문 지식을 공유하며, 원하는 커리어를 쌓아가는 데 필요한 모든 것과 연결될 수 있도록 도와주는 커뮤니티입니다.
@@ -9233,6 +9502,12 @@
 
 - **[Gradio's new VIBE MODE](https://www.youtube.com/watch?v=dis1BwDzmYs)** · Hugging Face (channel)
   안녕하세요 여러분. 오늘은 Gradio의 새로운 바이브 모드에 대해 이야기해 보겠습니다. 이 모드를 사용하면 코드를 직접 작성하지 않고도 Gradio 앱을 쉽게 만들 수 있습니다 . 그렇다면 어떻게 작동하는 걸까요? 우선, 간단하게 앱을 만들고 싶거나, 구문이나 문서를 찾아보는 데 시간을 많이 들이고 싶지 않고, AI가 알아서 코드를 작성해 주길 바랄 때 이 기능은 아주 유용합니다 . 그래서 커서나 클로드 같은 일반적인 코드 편집기를 사용하거나 직접 입력할 수도 있지만, 문제는 이러한 편집기들이 최신 Gradio 구문을 지원하지 않는 경우가 있다는 것입니다
+
+- **[AI for Accessibility: How Sorenson Is Advancing Inclusive Communication | Intel](https://www.youtube.com/watch?v=vx1g4xu5qMk)** · Intel (channel)
+  [음악] 리더들이 함께 듣고 소통하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 오늘의 게스트는 마리암 라마니입니다. 마리암은 소렌 커뮤니케이션즈의 AI 부문 수석 이사입니다 . 그녀는 10년 이상 AI 기반 솔루션 제품 개발 및 소프트웨어 엔지니어링 분야에서 경험을 쌓아왔으며, 특히 청각 장애인과 비장애인 간의 의사소통 격차를 해소하는 혁신적인 AI 기반 솔루션 개발을 전문으로 합니다. 그녀는 네브래스카 대학교에서 박사 학위를 받았습니다. 그녀는 연구 과학자로서 대학들 과 협력하여 기술 프로젝트를 이끌고 있습니다
+
+- **[Intel Foundry's non X86 reference SoC on Intel 18-A | Intel](https://www.youtube.com/watch?v=qoMFPTDGX_4)** · Intel (channel)
+  제 이름은 셰릴 잉거슨이고 인텔 파운드리의 검증팀에서 근무하고 있습니다 . 오늘은 인텔 파운드리의 nonx86 레퍼런스 SOC인 인텔 18A를 소개합니다. 이 인텔 18A 레퍼런스 SOC는 7개의 코어로 구성되어 있습니다. 저희는 고성능 코어 1개, 전력 효율 최적화 코어 2개, 에너지 효율 코어 4개와 함께 PCIe 및 IPS 메모리 컨트롤러를 갖추고 있습니다 . 지금 우리가 보고 있는 것은 적절한 워크로드를 적절한 코스에서 실행하는 생생한 시연입니다. 저희는 여기 공연장에서 4K 비디오 스트리밍을 제공하고 있습니다
 
 - **[EXAONE Data Foundry: Powering Domain-Specific AI with Quality Data](https://www.youtube.com/watch?v=-NWh0vN8I-o)** · LG AI Research (channel)
   [음악] 열기. 열. 열. [음악] 열기.
@@ -9582,7 +9857,7 @@
 - **[Steering the Future | Episode 3: Jonny](https://www.youtube.com/watch?v=obI9dvuNyLU)** · Zoox (channel)
   이 차량에 대해 1부터 10까지의 척도로 점수를 매긴다면 몇 점을 주시겠어요? 음, 이 차는 자율주행이니까 10점 만점에 10점을 줄 만하네요. 저는 조니 샌드입니다. 저는 Zuks의 제조 엔지니어링 팀에서 선임 기술 프로그램 관리자로 근무하고 있습니다 . 이 차는 제 2015년형 렉서스 IS-350 F-S 스포츠입니다. 저는 제 렉서스를 정말 좋아해요. 커스텀 휠, 커스텀 세라믹 틴팅, 비닐 랩핑까지 다 했는데, 제일 멋진 건 커스텀 배기 시스템이에요.
 
-## 2025-05 (총 20건)
+## 2025-05 (총 22건)
 
 ### AX (5건)
 
@@ -9601,7 +9876,7 @@
 - **[MUVERA with Rajesh Jayaram and Roberto Esposito - Weaviate Podcast #123!](https://www.youtube.com/watch?v=nSW5g1H4zoU)** · Weaviate (channel)
   [Music] Heat. Heat. [Music] Hey, hey, hey. [Music] Hey everyone, thank you so much for watching another episode of the WV8 podcast. This is going to be a super awesome one diving into multi-vector retrieval. If you aren't already familiar with this, we're going to open with a quick primer on these methods and how they work and then dive into all sorts of areas of the science and the cutting edge work Rajes has led with movea.
 
-### unclassified (15건)
+### unclassified (17건)
 
 - **[Being an ally is a learning journey that drives change](https://www.youtube.com/watch?v=fVY2ENBA6_g)** · Accenture (channel)
   We need to always step back. Take the time to watch and listen. You never know a person's personal situation. Sometimes we need to change our expectations, our ways of working, our level of commitment in order to make change. And so I think in terms of allyship, it's not always easy. The hard decisions and the changes we need to make to get to a better outcome. My brother is gay.
@@ -9629,6 +9904,12 @@
 
 - **[How AI Shapes Video Creations](https://www.youtube.com/watch?v=TWRnU0MpbZ8)** · Swisscom (channel)
   What’s real and what isn’t? It’s getting more and more difficult to tell the difference. What AI is already capable of nowadays is really impressive. Today’s episode is about how AI videos are taking the internet by storm, how you can distinguish real content from fake content and how you can create AI videos yourself. I find it pretty impressive how far AI has come within the past year.
+
+- **[Swisscom: découvrez vos possibilités](https://www.youtube.com/watch?v=DINyQO82hlY)** · Swisscom (channel)
+  그럼 오늘 밤은, 우르신, 읽어보셨나요? 아니요. 양말이요? 아니요. 공주가 되고 싶었던 괴물. 옛날 옛적 아주 먼 옛날에 오랜 시간 동안. 끔찍하고 거대하다. 그는 거기. 무서운. 무서워요. 무서워요. 나는 가지고 있다 두려움. [음악] 괴물 공주. "괴물이 된다는 건," 왕이 말하며 칼을 뜯어냈다. 그녀의 드레스 조각 [음악] 파란색. 당신만의 괴물 공주님. 여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크.
+
+- **[Swisscom – Scopri le tue possibilità](https://www.youtube.com/watch?v=Kf1oMCZOyiE)** · Swisscom (channel)
+  우르신을 읽어보자. 엠 룰루, 핌파는 안 돼, 안 돼. 공주가 되고 싶었던 소녀 괴물. 옛날 옛날에 공주님이 살았습니다. 엄청난 '예'를 가진 괴물은 높은. 그것은 당신을 두렵게 합니다. 두려움, 두려움. [음악] 공주가 나타났다. 괴물이 되는 것이야말로 왕이 말했다. 그는 찢었다 조각 드레스. 여기 괴물 공주님이 있어요. 아빠, 최고의 방법으로 당신의 가능성을 발견하세요 스위스 네트워크. 아.
 
 - **[Outage Protection | You Are In Control](https://www.youtube.com/watch?v=m1QQWvE18kU)** · Tesla (channel)
   우리는 지평선 너머로 폭풍우가 다가오는 것을 보고 "그래, 우린 괜찮을 거야 "라고 생각하곤 합니다. 폭풍 경보 기능은 사용자의 위치에 대한 날씨 예보를 감지하여 폭풍이 닥치기 전에 파워월을 100% 충전합니다. 스톰워치만의 특별한 점은 전력벽의 가치를 극대화하는 데 있습니다 . 예비 전력량을 낮게 설정하면 정전 시 Stormatch 기능이 작동하여 파워월을 충전하는 데 도움을 줍니다 . 이 기능은 전력망 장애가 몇 초 동안 지속될지 몇 주 동안 지속될지 알 수 없기 때문에 중요합니다.
@@ -9696,7 +9977,7 @@
 - **[Steering the Future | Episode 1: Jared](https://www.youtube.com/watch?v=iDyjop4aiTo)** · Zoox (channel)
   Hey. Hey. What kind of car is that? 1969 Chevel. [Music] My name is Jared Rose and this is my Chevel. I discovered my passion for cars back in my early teenage years. Back when I used to tinker with them with my dad and my friends. Check it out. Love all the chrome. I've dreamed of having a Chevel one day and I've been able to make that dream become a reality.
 
-## 2025-03 (총 25건)
+## 2025-03 (총 30건)
 
 ### AX (2건)
 
@@ -9706,7 +9987,7 @@
 - **[Hugging Face Journal Club - Gemma 3](https://www.youtube.com/watch?v=GAHCXXKmIT8)** · Hugging Face (channel)
   자, 그럼 바로 본론으로 들어가 보겠습니다. 오늘은 GMA 3 기술 보고서에 대해 이야기해 볼 건데요, 특히 사후 학습 측면에 초점을 맞춰 보겠습니다. 간단히 요약하자면, 핵심은 10억에서 270억 개의 파라미터를 가진 중소형 모델들을 개발했다는 ​​점입니다. 이 모델들은 128개의 토큰 컨텍스트를 가지고 있는데, 이는 매우 흥미로운 부분입니다. 보고서에서 강조하는 것은 일종의 지식 저장 방식을 활용하여 사전 학습 과 사후 학습 모두에서 상당한 성능 향상을 이뤄냈다는 점입니다.
 
-### unclassified (23건)
+### unclassified (28건)
 
 - **[Amazon Lens – See it. Shop it.](https://www.youtube.com/watch?v=OrXRVuvHEMY)** · Amazon (channel)
   Picture this. The power to instantly shop anything you see. With Amazon Lens, you can take photos to search in the Amazon app. Recreate a look you love. You're so rare. Bring a vibe to life. Giving life. Or find a replacement a whatchamacallit bulb. Whatever inspires you, find it in the Amazon app. See it, shop it with Amazon Lens. Oops.
@@ -9747,6 +10028,21 @@
 - **[Talk it out with Meta AI - Thermodynamics](https://www.youtube.com/watch?v=G4QO490GlG8)** · Meta (channel)
   내일 부모님이 너를 만나는 게 너무 기대돼 . 너무 기대돼요. 아, 참, 저희 아버지는 NASA에서 열역학 전문가로 일하세요. 안녕. 메타, 열역학자가 도대체 ​​뭐야? 열역학자는 에너지와 열 전달을 연구합니다. 메타, 열평형에 대해 설명해 줘. 열 발생을 관리합니다. 그래서 연료 효율을 최적화합니다. 정확히. 만나서 반갑습니다, 선생님. 액체 연료에서 하이브리드 추진제로의 전환에 대해 당신의 생각을 들어볼 생각에 벌써부터 기대됩니다. 무엇? 저는 보험 판매원입니다. 무엇? 농담이에요. 제가 자세히 알려드릴게요. 아빠, 친절하게 대해 주세요.
 
+- **[3G Abschaltung - Swisscom Help](https://www.youtube.com/watch?v=QWh3MuEVF3w)** · Swisscom (channel)
+  이 영상에서 저는 약물이 무엇인지 설명하겠습니다. Wom dit vorh wel gerad berührt sie였나요? 그리고 4G와 5G로의 전환 능숙하게 영상을 제작하면 다음과 같은 작업을 수행할 수 있습니다. 개별 챕터를 빨리 감기 F du no HF 특정 테마 이동통신망 장애는 기술적인 문제입니다. 신호 전송을 위한 인프라 모바일 통신은 다음과 같은 용도로 사용 가능합니다. Z 3G 4G 및 5G Z를 사용한 전송 표준 2021 2Z는 폐쇄되었으며 25로 이전될 예정입니다.
+
+- **[3G switch-off - Swisscom Help](https://www.youtube.com/watch?v=FWr1gql0IaY)** · Swisscom (channel)
+  이 영상에서는 3G가 무엇인지, 스위스콤이 3G 네트워크를 어떻게 처리할 계획인지, 어떤 기기가 영향을 받는지, 그리고 4G 및 5G로 성공적으로 전환하는 방법을 설명합니다. 전체 영상을 시청하거나 특정 단계만 필요한 경우 해당 섹션으로 건너뛸 수 있습니다. 모바일 네트워크라는 용어는 모바일 통신 에서 신호 전송을 가능하게 하는 기술 인프라를 의미합니다. 2G, 3G, 4G, 5G와 같은 다양한 전송 표준이 있습니다. 스위스콤은 2021년에 2G 네트워크를 종료했으며, 2025년 말에는 스위스와 런던에서 3G 네트워크도 종료할 예정입니다.
+
+- **[Disattivazione del 3G - Swisscom Help](https://www.youtube.com/watch?v=namrVKXVs0o)** · Swisscom (channel)
+  이 영상에서는 3G가 무엇인지 설명하겠습니다. ISCOM에서 이 문제에 대해 어떤 조치를 취하실 계획입니까? 영향을 받는 기기와 해결 방법 4G로 성공적으로 전환했습니다. 5G를 사용하면 개별 설정으로 빠르게 전환할 수 있습니다. 도움이 필요하시면 비디오 챕터를 참조하세요. 단 한 단계만 제가 지정하는 휴대폰 네트워크는 다음과 같습니다. 기술 인프라 토니아에서의 신호 전송 모바일에는 다양한 표준이 있습니다. 2021년에 2G, 3G, 4G, 5G로 방송합니다. 스위스콤은 2G 네트워크를 비활성화했습니다. 2025년 말에는 또한 비활성화될 것입니다.
+
+- **[Désactivation de la 3G - Swisscom Help](https://www.youtube.com/watch?v=vEG24rPARlk)** · Swisscom (channel)
+  이 영상에서는 제가 무엇을 설명하는지 보여드리겠습니다. 3G: 스위스컴이 3G를 어떻게 활용할 계획인가 어떤 기기들이 영향을 받나요? 4G로 성공적으로 전환하는 방법 5G에서는 동영상을 빨리 감을 수 있습니다. 각기 다른 챕터까지 살펴보세요. 한 단계만 도움이 필요합니다. 휴대폰 네트워크를 지정합니다. 기술 인프라입니다. 무선 신호 전송 기준은 다양합니다. 2G 및 3G와 같은 전송 방식 4G 및 5G: 스위스콤은 연결을 끊었습니다. 2021년에 2G 네트워크가 도입되면 사용이 중단될 예정입니다.
+
+- **[So richtest du Family Link ein](https://www.youtube.com/watch?v=CYSReO30Mpc)** · Swisscom (channel)
+  Your child has an Android smartphone. And you would like to actively influence screen time and the content they consume. Google offers its own solution for this, called Family Link. To do this, you have to do two things. First, you need to create a Google account for your child. And also own one yourself. Secondly, you can set screen time in the app, limit content, purchases and apps.
+
 - **[Powerwall in the Northeast | Tesla Energy](https://www.youtube.com/watch?v=EQ1FqipyKD4)** · Tesla (channel)
   [음악] 아시다시피, 제가 태양광 발전 시스템과 파워월을 홍보할 때 내세우는 슬로건은 ' 비용이 드는 게 아니라, 오히려 이득이 된다'는 겁니다. 전기 요금만 오르는 걸 봤어요 . 만약 지붕을 통해 에너지 생산을 고정할 수 있다면, 전기 요금 인상에 영향을 받지 않게 되니 정말 좋을 것 같아요. 다양한 리베이트와 인센티브를 활용할 수 있어 가격이 저렴할 뿐만 아니라 매우 합리적인 선택이 될 수 있습니다.
 
@@ -9777,14 +10073,14 @@
 - **[Wayve AI Driver: Going Global](https://www.youtube.com/watch?v=AScQnnl0vfU)** · Wayve (channel)
   [음악] 오 [음악] 오 [음악] 오 [음악]
 
-## 2025-02 (총 44건)
+## 2025-02 (총 53건)
 
 ### AX (1건)
 
 - **[Semantic search and reranking with Cohere and Pinecone](https://www.youtube.com/watch?v=e7x1wJlmDjs)** · Pinecone (channel)
   안녕하세요 여러분! 오늘은 Gooh와 Pine Cone을 활용한 금융 시맨틱 검색 및 재순위화에 대해 알아보겠습니다. 저는 Arjun Patel이고, Coher의 Yan이 함께합니다. 오늘 웨비나에서는 시맨틱 검색에 대해 배우고, Pine Cone의 새로운 기능인 통합 추론을 활용하는 방법을 보여드리겠습니다. Yan은 Coher의 새로운 재순위화 모델인 Reranked 3.5에 대해 설명하고, 데모 없이는 웨비나가 완성될 수 없겠죠? 통합 추론과 Coher 3.5를 금융 데이터셋에 적용하는 예제 노트북을 보여드리겠습니다. 마지막으로 45 분쯤에 질의응답 시간을 갖겠습니다. 저는 Arjun이고 Pine Cone의 개발자 FK입니다
 
-### unclassified (43건)
+### unclassified (52건)
 
 - **[Meet Alexa+, our next-generation AI assistant](https://www.youtube.com/watch?v=DeHX99wycug)** · Amazon (channel)
   Hey there. Every once in a while a technology comes around and it changes everything. I'm pumped to introduce you to Alexa Plus. This is the next generation of Alexa. She's powered by Gen AI, smarter, conversational, personal, and just gets stuff done. I've had a chance to use it for the last several weeks. It is really remarkable in my opinion.
@@ -9798,6 +10094,9 @@
 - **[How to Balance Redox Reactions in Aqueous Solutions | General Chemistry](https://www.youtube.com/watch?v=w3XIPTYfPnQ)** · Chegg (channel)
   [음악] 안녕하세요, 제 이름은 티파니입니다. 오늘은 중성, 산성, 염기성 조건에서 산화환원 반응의 균형을 맞추는 방법을 자세히 살펴보겠습니다. 산화환원 반응은 한 화학 물질에서 다른 화학 물질로 전자가 이동하는 반응입니다. 산화환원 반응에서는 두 가지 일이 일어납니다. 하나는 전자를 잃는 산화 반응이고, 다른 하나는 전자를 얻는 환원 반응입니다. 전자는 음전하를 띠 므로 전자를 얻으면 원자의 전체 전하가 낮아집니다. 많은 일반적인 산화환원 반응은 수용액에서 일어나 므로 용액 의 pH를 고려해야 합니다.
 
+- **[How to Model with Differential Equations Ft. The Math Sorcerer](https://www.youtube.com/watch?v=-3H1MQCxXDs)** · Chegg (channel)
+  안녕하세요 여러분, 수학 마법사 CH입니다. 이번 영상에서는 미분 방정식을 이용한 모델링에 대해 알아보겠습니다. 예제를 하나 풀어볼게요. y = e^MX가 Y' + 8y = 0의 해가 되도록 하는 M의 값을 구해봅시다. 먼저 함수 y = e^MX를 가져와서 이 미분 방정식의 해가 되는지 확인해야 합니다. 미분한 다음 미분식을 대입하면 됩니다. y'는 e^x의 미분값인 e^x의 x제곱과 같습니다. 여기서는 e^MX이므로 연쇄 법칙을 사용합니다. 바깥쪽 항의 미분값을 안쪽 항에 대입하면 e^MX 곱하기 안쪽 항의 미분값이 됩니다.
+
 - **[How to Name Alcohols and Phenols Ft. Professor Dave](https://www.youtube.com/watch?v=0b5uhoab4sM)** · Chegg (channel)
   [음악] 데이브 교수님과 CH입니다. 우리는 하이드록시기를 가진 화합물을 알코올이라고 부른다는 것을 알고 있습니다. 그리고 IUPAC 명명법에 따라 알코올의 이름을 지을 수 있어야 합니다. 이제 그 방법을 배워봅시다. 알코올은 하이드록시기를 가진 탄소에 결합된 탄소의 수에 따라 1차, 2차, 3차로 분류할 수 있습니다. 우리는 명명법 측면에서 어떤 알코올이든 이 중 어떤 것인지 쉽게 식별할 수 있어야 합니다. 알코올은 단순 알칸 이나 할로겐 알칸과는 조금 다르게 취급됩니다. 하이드록시기의 존재는 분자의 성질을 크게 변화시키기 때문에 모분자의 이름도 바꿀 수 있습니다
 
@@ -9806,6 +10105,9 @@
 
 - **[How to Name Aromatic Compounds Ft. Professor Dave](https://www.youtube.com/watch?v=Ae9VgGDsUlI)** · Chegg (channel)
   [음악] 데이브 교수님과 체입니다. 유기화학에서 매우 중요한 개념 중 하나는 방향족성입니다. 어떤 유기 화합물은 방향족성을 띠는데, 분자 구조 측면에서 이것이 무엇을 의미하는지 알아야 합니다. 방향족성은 분자의 안정성을 높여주기 때문입니다. 가장 간단한 방향족 화합물 중 하나는 벤젠입니다. 벤젠은 유기화학에서 매우 흔하게 사용되며, 수많은 유기 화합물의 구조적 기반이 됩니다. 먼저 방향족 화합물의 명명법부터 배워보겠습니다. 다시 한번, 이것은 벤젠 이고 많은 유기 화합물이 벤젠을 기반으로 합니다. 벤젠에 메틸기를 붙이면 탈린이 되고, 임의의 위치에 메틸기를 하나 더 붙이면 자일렌이 됩니다.
+
+- **[How to Name Cycloalkanes Ft. Professor Dave](https://www.youtube.com/watch?v=uq_sXwo0HLw)** · Chegg (channel)
+  [음악] 안녕하세요, 데이브 교수님과 CH입니다. 우리는 이미 IUPAC 명명법 규칙을 사용하여 선형 화합물의 이름을 짓는 방법을 알고 있습니다. 하지만 많은 유기 분자는 고리 구조를 가지고 있는데, 이는 하나 이상의 고리를 포함한다는 뜻입니다. 이러한 화합물의 이름은 어떻게 지을까요? 이제 좀 더 자세히 알아보겠습니다. 고리 화합물은 이름 그대로 분자의 끝점이 없고, 고리가 서로 연결되어 고리 모양을 이룹니다. 고리는 탄소 원자가 세 개 정도일 수도 있고, 고리의 크기에는 명확한 상한선이 없습니다.
 
 - **[How to Use Lagrange Multipliers Ft. The Math Sorcerer](https://www.youtube.com/watch?v=0KAYFAvb-5o)** · Chegg (channel)
   안녕하세요 여러분, 수학 마법사 CH입니다. 이번 영상에서는 랑게 승수에 대해 알아보겠습니다. 다음 예제를 풀어보죠. 함수 f(x)y = x² - y² + 1의 극값을 구하세요. 제약 조건은 x² + y² = 4입니다. 풀이 과정을 차근차근 살펴보겠습니다. 저는 랑게 승수 문제를 풀 때 조건을 항상 적어두는 편입니다. 그러면 문제를 더 쉽게 풀 수 있다고 생각하거든요. 두 가지 조건이 있습니다. 첫 번째는 XY에서의 함수 f의 기울기가 λ 곱하기 XY에서의 함수 g의 기울기와 같다는 것이고, 두 번째는 XY의 함수 g가 C와 같다는 것입니다
@@ -9828,17 +10130,29 @@
 - **[Introduction to Variables | Statistics](https://www.youtube.com/watch?v=8pxvdqx99_8)** · Chegg (channel)
   안녕하세요, 제 이름은 쿠퍼입니다. 저는 수학 선생님이자 데이터 과학자이며, 수학과 통계에 대해 이야기하는 것을 좋아합니다. 우리는 모두 대수학에서 x, y, z와 같은 변수들을 본 적이 있을 겁니다. 이 변수들은 항상 우리가 놀라운 수학적 능력을 발휘하여 구해야 하는 어떤 미지수를 나타냅니다. 하지만 통계학에서 변수에 대해 이야기할 때는 좀 더 심오한 의미를 갖게 됩니다. 변수의 종류에 따라 의미가 달라질 수 있기 때문입니다. 이 영상에서는 몇 가지 유형의 변수와 그 의미, 그리고 실제 적용 사례를 살펴보겠습니다
 
+- **[Nuclear Fission and Nuclear Fusion | Professor Dave & Chegg Explain](https://www.youtube.com/watch?v=82fZBVDOhfI)** · Chegg (channel)
+  [음악] 데이브 교수님과 CH입니다. 이제 우리는 매우 큰 핵이 어떻게 더 작은 핵으로 분열되는지 알게 되었습니다. 이를 바탕으로 핵분열과 핵융합이라는 두 가지 핵 과정을 이해할 수 있습니다. 이 두 과정은 에너지 생산에 이용되어 왔으며, 각각 핵이 더 작은 핵으로 분열되거나 작은 핵들이 융합하여 더 큰 핵을 생성하는 과정을 포함합니다. 이제 좀 더 자세히 살펴보겠습니다. 특정 핵 과정을 예로 들어 보겠습니다. 우라늄 235에 중성자를 충돌시키면 불안정한 우라늄 236이 됩니다.
+
 - **[Thermochemistry and the Nature of Energy | Professor Dave & Chegg Explain](https://www.youtube.com/watch?v=EEH_1CqwqUE)** · Chegg (channel)
   [음악] 안녕하세요, 데이브 교수님과 CH입니다. 이제 또 다른 중요한 주제인 열화학을 다뤄볼 시간입니다. 열역학은 물리학의 한 분야이며, 열화학은 화학과 가장 밀접한 관련이 있는 열역학의 특정 영역, 즉 열 전달과 관련된 영역을 다룹니다. 열화학을 이해하기 위해서는 열역학의 몇 가지 개념을 정의해야 합니다. 가장 기본적인 개념인 에너지부터 살펴보겠습니다. 에너지라는 단어는 일상적으로 오용되지만, 과학에서는 매우 구체적인 의미를 지닙니다. 에너지는 일을 할 수 있는 능력이며, 일이란 물체를 이동시키는 것을 의미합니다.
 
 - **[Understanding Basicity of Amines Ft. Professor Dave](https://www.youtube.com/watch?v=1lE04IBca1M)** · Chegg (channel)
   [음악] 데이브 교수님과 CH입니다. 지금까지 아민의 명명법을 포함하여 아민에 대해 조금 알아봤습니다. 이제 아민의 성질, 특히 염기성에 대해 자세히 살펴보겠습니다. 아민은 질소 원자의 비공유 전자쌍 때문에 염기성을 띱니다. 이 비공유 전자쌍은 브론-스테드-로리 염기처럼 작용할 수 있는데, 이는 비공유 전자쌍이 양성자 공여체로부터 양성자를 받아들일 수 있기 때문입니다. 아민은 알코올이나 에테르보다 훨씬 강한 염기입니다. 질소 원자가 산소 원자보다 전기양성도가 크기 때문에 양성자화되었을 때 생성되는 양전하를 훨씬 쉽게 수용할 수 있기 때문입니다.
 
+- **[Understanding Free Energy and Work | Professor Dave & Chegg Explain](https://www.youtube.com/watch?v=yCD8mZ_fGas)** · Chegg (channel)
+  [음악] 데이브 교수님과 CH입니다. 지금까지 깁스 자유 에너지라는 새로운 매개변수를 다양한 개념과 연관시켜 살펴보았습니다. 이제 깁스 자유 에너지 변화(ΔG)와 시스템에 가해지거나 시스템에 의해 수행되는 일 사이의 관계를 하나 더 살펴보겠습니다. ΔG의 부호는 특정 과정의 자발성을 나타냅니다. 음수이면 자발적이고, 양수이면 비자발적입니다. 하지만 자유 에너지 변화는 특정 과정에서 수행할 수 있는 일의 양을 알려주기도 합니다. 실제로 일정한 온도와 압력에서 어떤 과정으로부터 얻을 수 있는 최대 유효 일은 그 과정의 자유 에너지 변화와 같습니다
+
 - **[Understanding Hydrogenation of Alkenes Ft. Professor Dave](https://www.youtube.com/watch?v=wVItfYIcPKw)** · Chegg (channel)
   [음악] 안녕하세요, 데이브 교수님과 CH입니다. 첨가 반응 연구를 계속하면서 이번에는 수소화 반응에 대해 알아보겠습니다. 수소화 반응은 이름에서 알 수 있듯이 수소가 첨가되는 반응입니다. 이 반응을 좀 더 자세히 살펴보겠습니다. 수소화 반응에서는 수소 분자(H₂)가 파이 결합에 첨가됩니다. 탄소 원자 하나당 수소 원자 하나가 첨가되는 것이죠. 즉, 알켄이 알칸으로 변환되는 것입니다. 이 반응은 일반적으로 백금과 같은 전이 금속을 촉매로 사용하여 진행됩니다. 고체 표면을 사용한다는 점에서 이 반응은 불균일 촉매 반응의 한 예입니다.
 
+- **[Understanding Molecules and Ions | Professor Dave & Chegg Explain](https://www.youtube.com/watch?v=b5stQQDSpuI)** · Chegg (channel)
+  [음악] 데이브 교수님과 CH입니다. 이제 원자 구조에 대한 기본적인 이해를 바탕으로 원자들이 결합하여 화합물을 형성하는 방법에 대해 이야기해 보겠습니다. 이 현상은 우리 주변과 몸 안에 존재하는 모든 물질의 존재 이유입니다. 원자들이 화합물을 형성하는 방법에는 여러 가지가 있습니다. 이제 그것들에 대해 알아보겠습니다. 원자는 화학 결합을 통해 화합물을 형성할 수 있는데, 화학 결합에는 여러 종류가 있습니다. 그중 하나가 전자 결합입니다. 전자 결합은 원자들이 서로 전자를 공유하는 것입니다. 전자 결합으로 연결된 원자들의 집합체를 분자라고 합니다.
+
 - **[Understanding Reactions of Phenols Ft. Professor Dave](https://www.youtube.com/watch?v=y4_cYN3PGDU)** · Chegg (channel)
   [음악] 데이브 교수님과 CH입니다. 지금까지 알코올, 특히 페놀에 대해 조금 배웠습니다. 이제 페놀이 겪는 몇 가지 일반적인 반응에 대해 알아보겠습니다. 몇 가지 반응을 살펴보겠습니다. 우리는 친전자성 방향족 치환 반응에 대해 배웠고, 페놀은 방향족 고리를 가지고 있기 때문에 이러한 반응에 참여합니다. 하이드록시기의 존재는 몇 가지 이유로 중요합니다. 첫째, 페놀은 수산화나트륨과 같은 강염기와 쉽게 반응하여 페놀 나트륨염과 물을 생성하므로 산-염기 반응이 가능해집니다.
+
+- **[Understanding Reduction of Alkynes Ft. Professor Dave](https://www.youtube.com/watch?v=rIGgHWp3bnY)** · Chegg (channel)
+  [음악] 데이브 교수님과 CH입니다. 지금까지 알킨이 겪는 몇 가지 반응에 대해 배웠습니다. 이제 좀 더 구체적으로 환원 반응, 특히 파이 결합의 환원 반응에 대해 살펴보겠습니다. 여기서 환원이란 파이 결합을 제거하는 수소화 반응을 의미합니다. 우리는 이미 분자 수소와 백금이나 팔라듐 같은 금속 표면을 사용하여 알킨을 촉매 수소화할 수 있다는 것을 알고 있습니다. 이 방법은 알켄에도 적용되어 알칸을 생성합니다. 알켄이 반응하여 수소 1당량이 첨가되어 알켄이 되고, 다시 알켄이 반응하여 수소 1당량이 첨가되어 알칸이 됩니다.
 
 - **[Understanding Stokes' Theorem Ft. The Math Sorcerer](https://www.youtube.com/watch?v=G8hckHqRgsY)** · Chegg (channel)
   안녕하세요 여러분, 수학 마법사 ch입니다. 이번 영상에서는 스토크스 정리에 대해 이야기해 보겠습니다. 스토크스 정리는 바로 이 부분인데요, 기본적으로 함수 f( f)의 C에 대한 선적분은 함수 curl f의 s에 대한 표면적분과 같다는 것을 나타냅니다. 여기서 DS는 표면이고 양의 방향을 가지며, 평화롭게 매끄러운 C 또한 양의 방향을 가지며 그 표면의 경계입니다. 따라서 스토크 스 정리는 선적분과 표면적분 사이의 관계를 만들어냅니다. 오른쪽에는 D에 대한 이중적분으로 curl F⋅d가 있고, 벡터 G&lt;sub&gt;x&lt;/sub&gt; = -G&lt;sub&gt;y&lt;/sub&gt;가 있습니다.
@@ -9861,11 +10175,17 @@
 - **[What Are Epoxides? Ft. Professor Dave](https://www.youtube.com/watch?v=YvJjEgflX7U)** · Chegg (channel)
   [음악] 데이브 교수님과 CH입니다. 우리는 에테르에 대해 어느 정도 알고 있지만, 에테르의 특정 하위 집합인 에폭사이드 또는 옥시란이 있습니다. 이들은 우리가 이해해야 할 흥미로운 특성을 가지고 있으므로 에폭사이드에 대해 자세히 살펴보겠습니다. 에폭사이드는 정확히 무엇일까요? 테트라하이드로 퓨란이나 14-다이옥신과 같은 고리형 에테르입니다. 이들은 흔히 사용되는 용매이지만, 에폭사이드는 약간 다릅니다. 에폭사이드는 산소 원자가 한 위치에 있는 3원자 고리입니다. 이 산소 원자의 양쪽에 알칼리 금속이 있기 때문에 에폭사이드는 고리형 에테르로 분류됩니다.
 
+- **[What Are Meso Compounds? Ft. Professor Dave](https://www.youtube.com/watch?v=XqkL32Diq60)** · Chegg (channel)
+  [음악] 데이브 교수님과 CH입니다. 우리는 키랄성이 무엇인지 알고 있고, 키랄 분자는 내부 대칭을 가지고 있다는 것도 알고 있습니다. 하지만 하나 이상의 키랄 중심을 가진 분자가 전체적으로 키랄인 특별한 경우가 있습니다. 이 개념을 이해하기 위해 좀 더 자세히 살펴보겠습니다. 간단히 복습해 보면, 분자에 키랄 중심이 하나만 있으면 확실히 키랄 분자입니다. 거울상은 다른 분자입니다. 하지만 분자에 키랄 중심이 두 개 이상 있으면 내부 대칭의 존재 여부에 따라 전체적으로 키랄일 수도 있고 아닐 수도 있습니다
+
 - **[What Are SP2 Hybrid Orbitals? Ft. Professor Dave](https://www.youtube.com/watch?v=VSt9k0wVLOA)** · Chegg (channel)
   [음악] 안녕하세요, 데이브 교수님과 CH입니다. 방금 sp3 혼성 오비탈과 메탄이 이 오비탈 때문에 형성하는 사면체 구조에 대해 배웠습니다. 이제 sp2 오비탈과 이를 이용하는 분자 유형에 대해 알아보겠습니다. 앞서 메탄의 탄소는 네 개의 전자 영역에 둘러싸여 있기 때문에 sp3 혼성화되어 있다는 것을 알았습니다. 네 개의 수소 원자는 세 개의 전자 영역에 둘러싸여 있을 때 sp2 혼성화됩니다. 예를 들어 BF3에서 붕소는 세 개의 전자 영역만 가지고 있어 세 개의 중성 결합에만 참여할 수 있습니다
 
 - **[What Is Continuity? Ft. The Math Sorcerer](https://www.youtube.com/watch?v=dIZCdUx7HgE)** · Chegg (channel)
   안녕하세요 여러분, Chegg의 수학 마법사입니다. 이 영상에서는 연속성이라는 개념에 대해 이야기해 보겠습니다. 연필을 들지 않고도 함수를 그릴 수 있다면 그 함수는 연속 함수입니다. 이것이 연속성에 대한 직관적인 정의입니다. 예를 들어, 이것은 연속 함수의 그래프가 될 수 있습니다 . 구멍이나 끊어진 부분이 없어서 이음매가 없습니다. 반면에, 만약 제가 이런 식으로 한다면, 이 함수는 특정 x 값에서 연속적이지 않을 것입니다. 예를 들어, 이것이 y축이고 이것이 x축이며, 이 값이 2라면, 우리는 함수가 2에서 연속적이지 않다고 말할 수 있습니다
+
+- **[What Is Density? | Professor Dave & Chegg Explain](https://www.youtube.com/watch?v=wnM0-GUQiOs)** · Chegg (channel)
+  [음악] 안녕하세요, 데이브 교수님과 CH입니다. 과학에서는 다양한 측정 단위를 사용하는데, 일반적으로 킬로그램, 미터, 초와 같은 SI 단위를 사용합니다. 하지만 다른 단위들을 조합하여 만든 유도 단위도 있습니다. 유도 단위 중 하나인 밀도를 살펴보겠습니다. 밀도는 단위 부피당 물체의 질량, 즉 특정 부피 안에 얼마나 많은 질량이 포함되어 있는지를 나타내는 용어입니다. 질량과 부피 단위를 결합하여 새로운 특성을 나타내는 유도 단위이기 때문에 밀도라고 부릅니다. 우리는 밀도를 계산하고, 한 단위에서 다른 단위로 밀도를 변환하는 방법을 알아야 합니다.
 
 - **[What Is Markonikov's Rule? Ft. Professor Dave](https://www.youtube.com/watch?v=2Y4YV__E9i0)** · Chegg (channel)
   [음악] 데이브 교수님과 CH입니다. 우리는 할로겐화수소화 반응과 같은 단순 첨가 반응에 대해 알고 있지만, 이러한 종류의 반응에서는 입체 선택성과 비슷하지만 다른 개념인 위치 선택성 또는 위치 선택성이라는 새로운 개념을 배워야 합니다. 좀 더 자세히 살펴보겠습니다. 할로겐화수소화 반응의 메커니즘을 다시 살펴보는 것이 위치 선택성이 무엇을 의미하는지 가장 쉽게 설명하는 방법입니다. 이 반응에서 위치 선택성은 이중 결합에 첨가되는 물질(이 경우 브롬)이 두 탄소 중 하나에만 선택적으로 첨가되는 것을 말합니다.
@@ -9894,6 +10214,9 @@
 - **[The Economic Impact of Reckitt in the U.S.](https://www.youtube.com/watch?v=tM1Y2tUrDdI)** · Reckitt (channel)
   미국 전역의 가정, 기업, 학교에서 음악을 즐기는 렉잇(Wreck-It)은 사랑하는 사람들을 매일 돌보는 데 필요한 믿을 수 있는 제품을 만듭니다. 하지만 옥스퍼드 이코노믹스(Oxford Economics)의 제 3자 연구에 따르면, 렉잇의 미국 사업 운영이 경제에 미치는 영향은 제품 생산에만 국한되지 않습니다. 렉잇은 미국 경제에 연간 46억 달러를 기여하는데, 이는 미국 연간 공공 보건 및 의료 시설 건설 예산의 3분의 1 이상에 해당합니다. 또한 미국 전역에 걸쳐 27,000개 이상의 일자리를 창출하고 있으며, 렉잇이 납부하는 세금은 13,200명 이상의 미국 간호사 임금을 충당할 수 있을 만큼 충분합니다.
 
+- **[Digitaler Kinderschutz mit blue Security](https://www.youtube.com/watch?v=4MOPo0gyJkM)** · Swisscom (channel)
+  당신의 자녀는 디지털적으로 보호받고 있지만 당신은 그것이 바로 블루의 기능입니다. 보안 앱은 보안에 아주 적합합니다. h V 컨트롤 Rah 어린이 사용 de Video l wir 앱은 다음에서 작동합니다. 다양한 설치 보호 기능 아이야, 나는 아이의 GR에서 시작한다. 덧붙여 말하자면, 이 프로필이 바로 이 용도에 가장 적합합니다. 그래서 아이가 지금 당장 그것을 필요로 하는 것입니다. 내 보안 앱이나 구글 앱이 될까요?
+
 - **[Designing The New Model Y | Tesla](https://www.youtube.com/watch?v=_OiEwIUQzDk)** · Tesla (channel)
   모델 Y는 이미 전 세계에서 가장 많이 팔리는 자동차였고, 완전히 새로워진 모델 Y는 더욱 좋아졌습니다. 모델 Y를 재설계할 때, 우리는 차량에 좀 더 독특한 개성을 부여하는 데 중점을 두었습니다. 가장 먼저 눈에 띄는 것 중 하나는 라이트 바입니다. 이 라이트 바는 차량을 좀 더 넓어 보이게 하고 도로에 더욱 안정적으로 고정된 느낌을 줍니다. 또한, 이를 통해 앞 타이어에 더 많은 공기를 공급할 수 있도록 설계했습니다. 테슬라는 항상 효율성을 중시합니다.
 
@@ -9915,7 +10238,7 @@
 - **[Experience the New Normal: The First Time](https://www.youtube.com/watch?v=YAVrfVORQws)** · Waymo (channel)
   어, 여기 누가 있지? 저게 뭐야? 저게 뭐야? 내 안전벨트 여기 있어. 알았어, 알았어. 고마워. [음악] 됐어. 이제 됐어. 차가 스스로 운전하고 있어. 괜찮아. 스스로 운전하고 있어. 스스로 운전하고 있어. 어떻게 한 거야? 마법인가? 아니, 아니. 사방에 센서가 달려있어. 어떻게 된 거지? 멋지다, 그렇지? [음악] 맞아. 정말 믿기지 않아.
 
-## 2025-01 (총 14건)
+## 2025-01 (총 15건)
 
 ### AX (2건)
 
@@ -9925,7 +10248,7 @@
 - **[Blueprints for the Future: The System Design of the Zoox Robotaxi](https://www.youtube.com/watch?v=nT2_wTm6O6E)** · Zoox (channel)
   good afternoon and thank you for joining us um I am Jessie levenson the co-founder and CTO of zukes I'm here with Chi homus our senior director of system design and Mission insurance and if you don't know what that means you'll find out very soon uh and we're here to talk about safety and system design at zuk's a little bit about what that means in general in the …
 
-### unclassified (12건)
+### unclassified (13건)
 
 - **[Meet the designer Anna Efverlund](https://www.youtube.com/watch?v=MPYpIK1ubbg)** · IKEA (channel)
   원단이 완벽할 필요는 없어요. 네가 그렇게 한다면 정말 재밌을 것 같아. 다음과 같이 보이는 원단 만화책에서 볼 법한 원단들이 내 취향에 딱 맞았어. 팝콘이 나오기 시작했나요? 저는 패턴과 검정색을 항상 좋아해요. 좋네요. 저도 그래요. 좋아해요. 흑백은 제품에서 확인할 수 있습니다. 재밌었잖아, 다 ​​했잖아.
@@ -9947,6 +10270,9 @@
 
 - **[Reckitt and WWF: Together let’s restore our world](https://www.youtube.com/watch?v=xbMLC3v5Fac)** · Reckitt (channel)
   레킷(Rekit)은 매일 약 3천만 가구에 서비스를 제공하고 있으며, 이는 2021년에 실질적인 변화를 만들어낼 수 있는 엄청난 기회를 제공합니다. RIT와 WWF는 담수 자원 보호, 야생화 서식지 복원, 지속 가능한 물 보존 솔루션 발굴, 그리고 수백만 명의 사람들이 자연 보호를 위한 행동 변화에 동참하도록 영감을 주는 공동의 목표를 가지고 협력해 왔습니다. 지속 가능성은 더 깨끗하고 건강한 세상을 향한 우리의 끊임없는 노력의 핵심입니다. 우리는 매일 지구를 보호하고 전 세계 모든 사람들이 최고 품질의 위생, 건강 및 영양을 누릴 수 있도록 노력합니다.
+
+- **[Powering Puerto Rico | Tesla Solar and Powerwall](https://www.youtube.com/watch?v=th1R6KID7F8)** · Tesla (channel)
+  음, 전기 시스템에 대해 이야기하자면... 푸에르토리코 음, 조금 어렵네요. 저희에게 한 명이 있습니다. 상황 정전과 물자 부족으로 상황이 더욱 복잡해졌습니다. 푸에르토리코의 전기 요금은 상당히 비쌉니다. 허리케인 마리아 때문에 자주 발생함 푸에르토리코를 통과한 배에는 아무것도 없었습니다. 가스 공급망이 완전히 사라졌습니다. 있었다 허리케인 마리아 이후의 전력 공급 우리가 살아가는 방식. 너무 오랜만이네요. 전기가 흐르면 마음은 움직이기 시작합니다. 마리아 이후의 변화는 잘 진행되었습니다. 흥미로운 점은 제가 계획을 세우기 시작했다는 것입니다.
 
 - **[Self-Driving from the factory to the loading dock | Tesla](https://www.youtube.com/watch?v=BO1XXRwp3mc)** · Tesla (channel)
   [음악] 꿈이 이루어지길 간절히 기다리며, 언젠가 이루어지길 바라며 기도해요. 어떻게 될지, 언제 될지는 모르지만, 그저 인내심을 갖고 기다릴 뿐이에요. [음악] 그리고 하루하루를 인내심을 갖고 기다리며, 창밖으로 하늘의 별들을 바라보며 언젠가 나도 저 별들 중 하나가 되기를 상상해요. 하지만 그때까지, 그저 인내심을 갖고 기다릴 뿐이에요.
@@ -10146,7 +10472,7 @@
 - **[Ride The Wayve: Bicycle variance during Autonomous Drives](https://www.youtube.com/watch?v=f93kUjiA8P8)** · Wayve (channel)
   [음악] 시간
 
-## 2024-09 (총 32건)
+## 2024-09 (총 33건)
 
 ### AX (7건)
 
@@ -10171,7 +10497,7 @@
 - **[Scale AI AI Playbook for Business Leaders | ALL IN 2024](https://www.youtube.com/watch?v=TPN6hbY40TU)** · Scale AI (channel)
   [음악] 안녕하세요 여러분, Allin 20124에 오신 것을 환영합니다! 이곳에 오게 되어 정말 기쁩니다. 시간이 20분밖에 없지만, 먼저 말씀드리고 싶은 것은 Scale AI 부스가 메인 스테이지 입구 바로 옆에 있다는 것입니다. 발표 후에 궁금한 점이 있으시면 언제든지 편하게 들러주세요. 저희 팀이 그곳에 있으니 부담 없이 방문해 주시면 감사하겠습니다. 오늘 제가 말씀드릴 주제는 Scale AI에서 진행 중인 프로젝트에서 얻은 교훈을 공유하는 것입니다. 저는 이것을 '비즈니스 리더를 위한 AI 플레이북'이라고 부릅니다.
 
-### unclassified (25건)
+### unclassified (26건)
 
 - **[AirPods 4: Experience Immersive Sound](https://www.youtube.com/watch?v=bCqnOn23LWE)** · Apple (channel)
   안녕하세요, 갈 곳이 있어요 [음악] 안녕하세요 안녕하세요 안녕하세요, 갈 곳이 있어요 네 친구를 날려버릴 거야 난 내 속도에 맞춰서 갈 거야 너무 오래 떠나 있었어 안녕하세요, 갈 곳이 있어요 [음악] 아래로
@@ -10224,6 +10550,9 @@
 - **[Full Self-Driving (Supervised) | Tesla](https://www.youtube.com/watch?v=TUDiG7PcLBs)** · Tesla (channel)
   [음악] 너 [음악] w [음악] 그 [음악]
 
+- **[No More Power Outages | Tesla Solar & Powerwall](https://www.youtube.com/watch?v=9nTKO9lGx2o)** · Tesla (channel)
+  아시다시피 텍사스는 여름에 정말 덥습니다. 재택근무를 하면 하루 종일 에어컨을 틀게 되는데, 그러다 보니 전기세가 400달러, 500달러씩 나오기 시작했죠. 그런데 태양광 패널과 파워월을 설치하고 나서 전기세가 많이 줄었어요. 테슬라 전기차로 바꾸고 나서는 처음에는 100달러 정도 나왔고, 심지어 6달러밖에 안 나온 적도 있었어요. 테슬라에서 남는 전기를 많이 팔아서 그런 거죠. 저는 스티븐 백스터, 스콧 백스터, 사라 백스터입니다. 아버지가 먼저 태양광 패널을 설치하기로 결정하셨어요. 여러 곳을 알아보고 테슬라를 선택하셨는데, 설치 과정이 아주 간단했다고 하시더라고요.
+
 - **[Replacing Hawaii’s Last Coal Plant | Tesla Megapack](https://www.youtube.com/watch?v=IMnFVbUMxvc)** · Tesla (channel)
   하와이어에는 'I'라는 표현이 있는데, 이는 일상적인 표현으로 '가지고 있는 것을 활용하라'는 뜻입니다. 하와이는 햇볕도 풍부하고, 바람도 세차고, 비도 많이 오고, 파도도 높고, 화산 활동으로 용암도 많습니다. 그래서 하와이의 에너지 전환은 미래에서 온 엽서와 같다고들 합니다. 저희는 CAPA 에너지 저장 시스템이 미래 전력망 안정화에 매우 중요한 역할을 할 그리드 형성 기술을 실제로 입증하고 있다는 사실에 매우 기쁩니다. 이 프로젝트는 2018년 초에 시작되었으며, 목표는 섬에서 석탄 사용을 줄이고 재생 에너지를 추가하여 하와이안 일렉트릭이 2045년 까지 100% 재생 에너지 목표를 달성하도록 돕는 것이었습니다
 
@@ -10248,7 +10577,7 @@
 - **[Waymo's Driven with ‪Andrew Freund: Episode 5 with Darren Criss](https://www.youtube.com/watch?v=UPBVIwYYBqo)** · Waymo (channel)
   우리가 서로 안 지 벌써 이렇게 됐네. 세상에, 기억나? 우리 6살도 안 되어 보이는데. 넌 그때 미국의 트윙크였고, 글리가 대박 나면서 전 세계의 트윙크가 됐지. 정말 고마워. 드라이브에 온 걸 환영해. 목적지가 아니라 그곳에 가는 여정에 관한 새로운 종류의 토크쇼야. 모, 네가 날 사랑할 방법은 없어. 미래는 바로 지금이야. 우리는 지금 자율주행차 안에 있어. 아주 첨단 기술이 적용됐지. 넌 곧 기술을 주제로 한 브로드웨이 뮤지컬 프로젝트에 참여할 거야.
 
-## 2024-08 (총 22건)
+## 2024-08 (총 23건)
 
 ### AX (6건)
 
@@ -10270,7 +10599,7 @@
 - **[RAG Brag with Kap Sharma of Wipro](https://www.youtube.com/watch?v=i_EOgO7W-jM)** · Pinecone (channel)
   안녕하세요, 여기는 파인콘 이벤트입니다. AI 리더들과 함께 AI 소프트웨어 개발에 대한 실제 경험을 나누는 자리죠. 저는 파인콘의 발레리아입니다. 오늘 정말 흥미로운 소식들이 몇 가지 있는데요, 이 세션부터 시작해서 몇 가지 사항을 점검하고, 개발자 관계팀 멤버들을 모시고 더 심도 있는 대화를 나눠보려고 합니다. 먼저 오늘 세션을 진행해주신 진행자 잭 레어를 모셨습니다. 그는 개발 업계에서 풍부한 경험을 가지고 계시죠. 오늘 어떤 이야기가 펼쳐질지 기대되네요. 잭, 정말 감사합니다! 그리고 오늘 게스트를 소개해 드리겠습니다.
 
-### unclassified (16건)
+### unclassified (17건)
 
 - **[Figure 02 Trailer](https://www.youtube.com/watch?v=FZbY9sReu1k)** · Figure (channel)
   [music] [applause] [music] a [music]
@@ -10302,6 +10631,9 @@
 - **[Nissan cool paint technology: An innovative way to beat the heat | Nissan](https://www.youtube.com/watch?v=EXi9nrLWtAA)** · Nissan (channel)
   Summer time can really turn up the heat in the car. Introducing Nissan's cool paint technology. An innovative paint that helps keep heat out and your car cool. Let's compare these two cars under the blazing sun. Getting into the car. This driver is feeling the heat, while this driver feels cooler. The secret lies within the metamaterial embedded in the radiative cooling paint. Normal paint has substances that make the car hotter.
 
+- **[Tesla CaraokeMic](https://www.youtube.com/watch?v=LhMhlIOfU5k)** · Tesla (channel)
+  [음악] 말해봐 [음악] 베이비 잇 [음악] 말해
+
 - **[Waymo's Driven with Andrew Freund: Episode 1 with Dinah Jane](https://www.youtube.com/watch?v=hwGqxLh0_kM)** · Waymo (channel)
   이거 진짜 멋지다! 죄송해요, 앞에 아무도 없다는 걸 말씀드리려고 했는데. 우리는 '덜 여행하는 길 '로 가고 있어요. 네, 아, 무슨 말인지 알겠어요. 드라이브에 오신 걸 환영합니다. 목적지가 아니라 그곳에 가는 여정에 관한 새로운 종류의 토크쇼죠. 저는 진행자 앤드류 프레이입니다. 드라이브 갈래요? 어머, 제가 데리러 갈게요. 곧 만나요. 안녕하세요, 안녕하세요! 세상에, 너무 신나요! 디노 제인, 드라이브에 오신 걸 환영합니다. 감사합니다. 드라이브, 초대해 주셔서 감사합니다. 자, 시작해 볼까요? 좋아요, 드라이브 재개! 가자!
 
@@ -10320,7 +10652,7 @@
 - **[San Francisco Artist APEXER Paints Vibrant Mural for Zoox](https://www.youtube.com/watch?v=uA6D2YYvJCQ)** · Zoox (channel)
   [음악] 어릴 적부터 저는 항상 시각적인 것에 관심이 많았어요. 창밖을 내다보며 세상의 모든 것을 바라보곤 했죠. 샌프란시스코에서 자라면서 제 눈길을 사로잡은 건 거리 예술, 특히 벽화들이었어요. 예술계는 도시 자체처럼 EP 앨범처럼 다양한 요소가 흐르고 있어요. 그런 다양성 때문에 하나의 스타일이 하나의 동네나 한 사람에게만 어울리는 게 아니죠. 저는 다양한 테크노 스타일, 패턴, 요소, 질감, 색 조합에서 영감을 얻어 벽화를 만들어요. 단순히 기존 분위기를 깨뜨리는 게 아니라 모든 것이 균형을 이루도록 노력해요.
 
-## 2024-07 (총 20건)
+## 2024-07 (총 23건)
 
 ### AX (8건)
 
@@ -10348,7 +10680,7 @@
 - **[10 Years of Zoox. Reflections and Predictions.](https://www.youtube.com/watch?v=DYcujjMs3Uo)** · Zoox (channel)
   안녕하세요 여러분, 함께해 주셔서 감사합니다. 저는 Zook의 CEO인 아이샤 안이고, 이쪽은 공동 창업자이자 CTO인 제시 레벤슨입니다. 그는 거의 처음부터 함께해 왔죠. 네, 맞아요. Zook이 10주년을 맞이했네요! 믿기시나요? 네, 어쨌든, 지난 10년간 회사가 걸어온 여정에 대해 이야기해 보려고 합니다. 가장 큰 성공과 어려움, 교훈, 그리고 앞으로의 전망에 대해서도 이야기 나눠볼 거예요. 이 분야는 정말 역동적이잖아요. 시작하기 전에, 질문이 있으시면 댓글에 남겨주세요. 그리고 Zuk의 채용 공고에 관심 있으시면, 행사 내내 화면에 나오는 QR 코드를 스캔해 보세요.
 
-### unclassified (12건)
+### unclassified (15건)
 
 - **[TDMPC: LeRobot Research Presentation #3 by Nicklas Hansen](https://www.youtube.com/watch?v=5d9W0I2mpNg)** · Hugging Face (channel)
   네, 네, 소개와 기회를 주셔서 정말 감사합니다. 많은 분들이 TDMC에 대해 알고 계실 것 같은데요, TDMC가 로봇공학 및 관련 모델에 왜 중요한지, 그리고 TDMC 알고리즘 자체를 확장하고 로봇공학의 다양한 문제에 적용하는 데 있어 저희가 진행해 온 연구에 대해 간략하게 설명드리겠습니다. 시간이 된다면 세계 모델과 로봇 학습의 미래에 대해서도 이야기 나눠볼 수 있으면 좋겠습니다. 네, 모두 로봇 학습 분야에서 어떤 일이 일어나고 있는지 어느 정도 알고 계실 거라고 생각합니다.
@@ -10374,6 +10706,15 @@
 - **[Getting started with Pinecone serverless](https://www.youtube.com/watch?v=kXDKyod2LKY)** · Pinecone (channel)
   hi my name is Rick from Pine Cone and today I'll be going through a brief demo of how to get started on our platform I'll be walking through how to create an index load data and execute a query so let's get started what we have here is a pine cone one in one notebook and the first thing we're going to do in this notebook is execute the …
 
+- **[Cybertruck Off-Road Mode](https://www.youtube.com/watch?v=L9d6rKtuPig)** · Tesla (channel)
+  트레일 어시스트 기능을 시연 목적으로 사용해 보겠습니다. 얼마나 쉬운지 보여드리겠지만, 집에서 따라 하시면 안 됩니다. 하지만 이 영상을 통해 차량이 언덕을 오를 때 속도를 얼마나 정밀하게 제어하는지 알 수 있을 겁니다. 저는 아무런 조작도 하지 않고 있으니 차량이 알아서 모든 것을 제어하고 정상까지 부드럽게 올라갈 수 있습니다. [음악] 저희는 지금 모압에서 오프로드 모드를 테스트하고 있습니다. 새로운 오프로드 앱은 사용하기 매우 쉽도록 설계되었으니 탭하기만 하면 됩니다. 오버랜드 모드와 바하 모드가 있습니다.
+
+- **[Make Your Own Electricity | Tesla Solar & Powerwall](https://www.youtube.com/watch?v=LazSsMubfwE)** · Tesla (channel)
+  제가 아는 많은 사람들이 태양광 발전 시스템을 설치했는데, 전력망이 끊어지면 태양광 발전이 작동하냐고 물었더니 안 된다고 하더군요. 그래서 제가 "그럼 무슨 소용이야? 캘리포니아는 기후 변화가 심한데 왜 태양광 발전 시스템을 설치해?"라고 물었죠. 파워월에 태양광 패널을 설치하면 모든 걸 제가 제어할 수 있어서 정말 좋아요. 이런 독립성이 마음에 들어요. 제 재정 고문도 테슬라 태양광 발전 시스템과 배터리를 설치했더라고요. 스티브라는 분이 최근에 집을 샀는데 태양광 발전 시스템을 설치하고 싶어 해서 제가 테슬라를 알아보라고 했어요.
+
+- **[Virtual Power Plant | Tesla Energy](https://www.youtube.com/watch?v=uYYBA780lB4)** · Tesla (channel)
+  VPP는 가상 발전소의 약자입니다. 즉, PowerAll 소유자 커뮤니티가 함께 모여 대규모 발전소처럼 전력을 전력망에 공급할 수 있다는 의미입니다. 참여 방법은 간단합니다. 등록부터 참여, 필요시 참여 취소, 결제까지 모든 과정이 앱 내에서 이루어집니다. 참여 여부, 예비 전력량 변경 등 모든 것을 앱에서 직접 관리할 수 있습니다. 가상 발전소 참여는 모두에게 이익이 됩니다. PowerAll을 사용하지 않을 때 전력망 지원에 활용하고, 그에 대한 수익을 얻는 것입니다.
+
 - **[The Future is Now](https://www.youtube.com/watch?v=0kJPDg207oc)** · Waymo (channel)
   [음악] 드디어 로봇들이 오고 있어. [음악] 안녕 에이버리. 음, 어쩌면 좋은 일일지도 몰라. 그녀가 뭐라고 했지? 뭐라고? 난 20분 전부터 완전히 준비됐었어. 이제 우린 [ 음악] 플레이어에 연결됐어. 로봇이 너보다 운전을 더 잘해, 자기야. 누가 운전을 잘해?
 
@@ -10386,7 +10727,7 @@
 - **[Deploying Zoox in new cities with CEO, Aicha Evans](https://www.youtube.com/watch?v=OmYRC_ZOYRY)** · Zoox (channel)
   안녕하세요 여러분, 오늘 함께해 주셔서 감사합니다. 저는 zuk의 CEO인 아이샤 에반스입니다. 오늘은 정책 및 규제 담당 수석 이사인 론 다니엘 씨와 함께합니다. 이달 초에 오스틴과 마이애미에서 검사를 시작할 예정이라고 말씀드렸는데요, 이 두 도시를 통해 드디어 미국 동부 해안과 서부 해안, 그리고 두 개의 새로운 주에서 검사 서비스를 제공하게 되었습니다. zuk은 올해로 창립 10주년을 맞이하는데, 한 달 반 정도 남았네요. 정말 뜻깊은 시기이며, 이 분야에서 일하게 되어 매우 기쁩니다.
 
-## 2024-06 (총 27건)
+## 2024-06 (총 28건)
 
 ### AX (8건)
 
@@ -10414,7 +10755,7 @@
 - **[RAG Brag with Rich DiBona, Co-Founder of descrybe.ai](https://www.youtube.com/watch?v=WlYucWwDXVo)** · Pinecone (channel)
   안녕하세요 여러분, Rag Brag 여섯 번째 에피소드에 오신 것을 환영합니다! 이 시리즈에서는 업계를 선도하는 창업자, 엔지니어 , 개발자들과 함께 그들의 여정에 대해 이야기를 나눕니다. 저는 고메즈 파인이고, 오늘은 Scribe의 공동 창업자인 리치 데보나를 모시게 되어 매우 기쁩니다. 안녕하세요, DCK! 잘 지내시나요? 발레리아! 저는 잘 지내고 있습니다. 오늘 어떤 이야기를 나눌지 간단히 소개해 드리겠습니다. CBE가 무엇을 하고 있는지, 그리고 복잡한 법률 정보를 누구나 쉽게 접근할 수 있도록 어떻게 만들고 있는지 자세히 알아보겠습니다
 
-### unclassified (19건)
+### unclassified (20건)
 
 - **[Apple Intelligence | Privacy](https://www.youtube.com/watch?v=546ufMY7488)** · Apple (channel)
   [음악] Apple Intelligence는 강력한 지능과 강력한 개인 정보 보호를 결합한 기술입니다. Apple Intelligence의 아키텍처와 개인 정보 보호를 핵심으로 구축한 방식에 대해 자세히 설명드리겠습니다. 개인 정보 보호 시스템의 핵심은 온 디바이스 프로세싱입니다. iPhone, iPad, Mac 및 모든 앱에 이 기술을 깊숙이 통합하여 사용자의 개인 정보를 수집하지 않고도 인식할 수 있도록 했습니다. 이는 Apple만의 독자적인 하드웨어 및 소프트웨어 통합과 온 디바이스 인텔리전스를 위한 첨단 실리콘 개발에 대한 오랜 투자 덕분에 가능합니다.
@@ -10473,7 +10814,10 @@
 - **[Introducing SWOODISH](https://www.youtube.com/watch?v=0CTytzBsVNQ)** · Volvo Cars (channel)
   [음악] Oh [음악] Oh
 
-## 2024-05 (총 64건)
+- **[Waymo One: Now open to everyone in San Francisco](https://www.youtube.com/watch?v=pE9DF5_k3ZY)** · Waymo (channel)
+  everybody everybody everybody everybody everybody everybody everybody everybody everybody everybody
+
+## 2024-05 (총 65건)
 
 ### AX (3건)
 
@@ -10486,7 +10830,7 @@
 - **[RAG Brag with Mike Heap and Alex Rainey of My AskAI](https://www.youtube.com/watch?v=QxkvhBMOGAA)** · Pinecone (channel)
   안녕하세요, AI 창업자 및 엔지니어들과 차세대 AI 소프트웨어 개발의 과제에 대해 이야기하는 Rag Brag 에피소드에 오신 것을 환영합니다. 저는 PineCon의 Valeria이고, 오늘은 MyAskAI의 창업자인 Mike와 Alex Rainy 두 분을 모셨습니다. 오늘은 MyAskAI가 대규모 언어 모델과 PineCon을 활용하여 기업들이 더욱 복잡한 질문에 답변하고 제품 개선을 위한 실질적인 피드백을 수집할 수 있도록 지원함으로써 고객 지원을 어떻게 혁신하고 전반적인 고객 경험을 개선하고 있는지에 대해 이야기해 보겠습니다. 시작하기 전에 오늘 라이브로 참여하시는 모든 분들의 질문과 의견을 듣고 싶습니다
 
-### unclassified (61건)
+### unclassified (62건)
 
 - **[Apple Card | Ladder | Apple](https://www.youtube.com/watch?v=Q04S_NkRHGw)** · Apple (channel)
   Did you pay the Apple Card like I asked? Yep. ♪(Oh, no. Oh, no.)♪ ♪(You forgot.You forgot.)♪ ♪( Do it quick before she looks.)♪ ♪(Do it quick. The neighbors watching.)♪ ♪(Good job.)♪ ♪(You're doing great.)♪ ♪(Oh, wow,)♪ ♪(that was fast.)♪ I did, a while ago. He did it. ♪( Um.
@@ -10671,6 +11015,9 @@
 - **[L'IA du Canada à VivaTech 2024 | Scale AI](https://www.youtube.com/watch?v=LghbQoGXE3M)** · Scale AI (channel)
   안녕하세요, VivaTech에 오신 것을 환영합니다. 스케일 팀은 매우 기쁩니다. 이 네 가지를 위해 여러분을 환영합니다. 웅장한 2019년 이후 매일 우리는 발전해 왔습니다. 지능의 매우 아름다운 생태계 캐나다에서 인공적으로 만들어졌고 우리는 오늘 우리는 매우 자랑스럽습니다. 유럽의 비바텍(Vivatec) 박람회에서 선보일 예정입니다. 우리에게는 그것이 정말 중요합니다. 오늘 여기에 모인 이유는 단지 그것만이 아닙니다. 잠재 고객을 만나다 유럽인들과 함께하기 위해서, 하지만 무엇보다도 함께하기 위해서 퀘벡 생태계뿐 아니라 캐나다인입니다. 오늘 아침이 첫날입니다. 참가자가 정말 많습니다.
 
+- **[Designing The New Model 3 Performance | Tesla](https://www.youtube.com/watch?v=wcd6H1bSnYI)** · Tesla (channel)
+  First thing you'll notice on the Performance version is that the front fascia is different. You can see the ducts on the side, where we take the air from the front of the car and really tuck it around the wheel. And it's a different splitter across the front too, so that helps with the downforce and the overall lift balance of the car.
+
 ## 2024-04 (총 17건)
 
 ### AX (1건)
@@ -10728,7 +11075,7 @@
 - **[Introducing our newest feature: Grandma mode](https://www.youtube.com/watch?v=8OOLZVw9ANs)** · Waymo (channel)
   [음악] 할머니 모드 발동! 얘야, 안전벨트 꼭 매렴. 안전 제일! 배고파 보이네. 뭐 좀 먹어야겠다. 어머, 저 아름다운 정원 좀 봐. 정말 멋지구나. 초코 우유 마실래? 걱정하지 마, 얘야. 눈 좀 쉬게 해. 네가 아주 어렸을 때부터 내가 운전대를 잡았거든. 수백만 마일을 달렸지. 정말이야, 얘야. 모든 거 챙겼는지 다시 한번 확인하고, 즐거운 [음악] 하루 보내렴.
 
-## 2024-03 (총 32건)
+## 2024-03 (총 33건)
 
 ### AX (3건)
 
@@ -10741,7 +11088,7 @@
 - **[Try 'Solar' with Amazon SageMaker Jumpstart! | Upstage LLM](https://www.youtube.com/watch?v=e2ehr1oBqnA)** · Upstage (channel)
   안녕하세요, 저는 업스테이지의 샘입니다. 업스테이지의 공동 창립자이자 CEO입니다. 오늘 좋은 소식을 전해드리겠습니다. 저희는 현재 Solar LLM을 개발 중이며, 이제 AWS Salesmaker Jump Start에서 Solar LLM을 사용할 수 있게 되었습니다. 이에 대해 친애하는 친구인 차니 윤과 이야기를 나누고 싶습니다. 감사합니다, 차니 윤. 안녕하세요, 저는 차니 윤입니다. 아마존 웹 서비스에서 개발자 옹호자(Developer Advocate)로 일하고 있습니다. 제 업무는 개발자들이 클라우드에서 최신 애플리케이션을 구축할 수 있도록 Amazon Salesmaker 서비스를 지원하는 것입니다.
 
-### unclassified (29건)
+### unclassified (30건)
 
 - **[First for You | Spot for First Responders | Boston Dynamics](https://www.youtube.com/watch?v=sll6EB810mg)** · Boston Dynamics (channel)
   보스턴 다이내믹스는 인간의 창의력이 인간의 삶에 도움이 되어야 한다고 믿습니다. 그래서 우리는 당신을 위해 스팟을 설계했습니다. 스팟은 위험에 가장 먼저 뛰어드는 로봇입니다. 다른 사람들이 도망칠 때 먼저 뛰어드는 로봇, 가장 위험한 상황을 해결하는 로봇, 항상 다른 사람들의 안전을 최우선으로 생각하는 로봇입니다. 우리는 이러한 단순한 생각이 보스턴 다이내믹스의 모든 혁신을 이끌어가는 원동력이라는 점에 감사드립니다. 스팟은 단순한 로봇이 아니라, 인류에게 힘을 실어주고 삶을 향상시키는 놀라운 기계를 만들고자 하는 우리의 신념을 완벽하게 구현한 것입니다
@@ -10821,6 +11168,9 @@
 - **[Social Impact Report 2023](https://www.youtube.com/watch?v=8OwV8PD0TI4)** · Reckitt (channel)
   at recit we remain committed and are Guided by our purpose to create a cleaner and healthier world as part of our sustainability Ambitions we strive to create a fairer Society We Believe access to the highest quality hygiene health and nutrition is a universal right not a privilege in 2023 we found ourselves at the midpoint of our journey recognizing the pressing need for Action we grasp business's role …
 
+- **[Tesla Powerwall 3 Operates in Over Two Feet of Water](https://www.youtube.com/watch?v=_5yQvKxdZXM)** · Tesla (channel)
+  [Music] good morning good morning
+
 - **[Welcome to Upstage's 'Dataverse'!](https://www.youtube.com/watch?v=yYyyLuPNK5s)** · Upstage (channel)
   이 데모에서는 대규모 언어 모델을 위한 ETO 파이프라인 플랫폼인 DataVerse의 기본 사항을 보여드리겠습니다. 오픈 소스 GitHub 페이지에 있는 예제를 통해 DataVerse 사용 방법을 보여드리겠습니다. 예제를 살펴보기 전에 시스템 아키텍처를 간략하게 살펴보겠습니다. DataVerse ETO 파이프라인은 인터페이스이며 사용자는 구성과 상호 작용하게 됩니다. 기본적으로 사용자가 알아야 할 사항은 다음과 같습니다. 자, 이제 파이프라인이 구축 되고 실행됩니다. 아주 간단합니다. 이제 사용자 친화적인 인터페이스를 통해 DataVerse가 어떻게 작동하는지 예제를 통해 보여드리겠습니다. 먼저 사용 방법을 알아보겠습니다.
 
@@ -10878,9 +11228,9 @@
 - **[Volvo EX40: For Every You](https://www.youtube.com/watch?v=qnWc9P70EZs)** · Volvo Cars (channel)
   [음악] w
 
-## 2024-01 (총 6건)
+## 2024-01 (총 7건)
 
-### unclassified (6건)
+### unclassified (7건)
 
 - **[Spot at AB InBev Belgium | Boston Dynamics](https://www.youtube.com/watch?v=9pZQ29RSz4I)** · Boston Dynamics (channel)
   [Music] we're actually here in the Cradle of stalak this is where it all started for the for the company we are gathered here in the biggest Brewery uh of Europe and this is uh the home of [Music] St we cover in total 30 soccer fields we can go up to 10 million hect liters of of capacity St one of the brands we grew here but we BW …
@@ -10900,7 +11250,10 @@
 - **[Nissan and partners accelerate plans for EV36Zero in Sunderland UK](https://www.youtube.com/watch?v=yBfqcjRuVAo)** · Nissan (channel)
   [음악] [음악] [음악] [음악] 안녕하세요 여러분, 닛산 선덜랜드 공장에 오신 것을 환영합니다. 저는 아담 펜크이고, 선덜랜드 공장의 제조 부문 부사장입니다. 방금 보셨듯이 오늘은 우리 공장에 있어 매우 뜻깊은 날입니다. 이 순간을 여러분과 함께 나눌 수 있게 되어 기쁩니다. 잠시 생산 라인을 멈추고 몇몇 직원분들이 오셔서 이 모습을 지켜보실 수 있도록 했습니다. 무엇보다 먼저, 선덜랜드 공장의 6,000명에 달하는 모든 직원분들께 감사의 말씀을 전하고 싶습니다. 여러분의 뛰어난 제조 및 엔지니어링 기술과 헌신적인 정신 덕분에 오늘 발표가 가능했습니다
 
-## 2023-12 (총 15건)
+- **[Safety - The Drive Behind Volvo EX90](https://www.youtube.com/watch?v=W8dFHKUjkEc)** · Volvo Cars (channel)
+  [음악] 제 생각에 제게 있어서 기술은 이미 학창 시절에 기술을 배우면서 시작됐던 것 같아요. 어떻게 하면 이 기술을 이용해서 사람들을 도울 수 있을까 하는 호기심이 생겼죠. 기술은 항상 우리의 삶을 더 나은 방향으로 이끌어주는 데 초점을 맞춰야 한다고 생각해요. 벌보에서는 항상 안전을 최우선으로 생각하기 때문에 항상 안전을 염두에 두고 일합니다. 저에게 안전이란 물론 발생할 수 있는 모든 사고를 예방하는 것이지만, 그 이상입니다. 차량 안에서 안전하고 편안함을 느끼는 것도 중요하죠.
+
+## 2023-12 (총 16건)
 
 ### AX (2건)
 
@@ -10910,7 +11263,7 @@
 - **[LLM 리더보드? 한국에는 ‘Open Ko-LLM’이 있다! 🇰🇷ㅣ한국어 AI 경쟁력 강화ㅣ업스테이지](https://www.youtube.com/watch?v=1404IlP6V5E)** · Upstage (channel)
   오픈 코 l&amp;m 리더보드를 통해서 서로의 연구 결과를 투명하게 공유하고 또 숨겨진 어떤 l&amp;m 인재분들을 발굴할 수 있기를 생각하고 있습니다 안녕하세요 저는 업 스테이지의 라지 랭귀지 모델 팀에서 테크니컬 리더를 담당하고 있는 박찬준이 합니다 저는 현재 업스테이지 내에서 데이터 센트릭 l&amp;m 파트를 리딩을 하고 있고 또 업스테이지 1t 토큰 클럽 오픈 코 ln 리더보드 관련한 이제 과를 하고 있습니다
 
-### unclassified (13건)
+### unclassified (14건)
 
 - **[Put a Bow on It | Happy Holidays from Boston Dynamics](https://www.youtube.com/watch?v=Cdc5iVqjNVs)** · Boston Dynamics (channel)
   [Music] [Applause] la [Applause] oh [Music]
@@ -10945,20 +11298,23 @@
 - **[The Climate and Us: Fight For Access Accelerator](https://www.youtube.com/watch?v=XOS7myJ_oec)** · Reckitt (channel)
   [음악] 평범한 날, 우리는 밖에 앉아 있었는데 한 소년이 휠체어를 밀며 깨어나는 모습을 봤어요. 휠체어에는 두 개의 얀이 있었죠. 당시 도시 아이들을 생각하며 그 소년을 바라보니, 그는 물을 길으러 먼 길을 걸어왔다는 사실이 너무나 가슴 아팠어요. 어린아이가 물을 길으러 먼 길을 가야 한다는 것, 제 할머니도 어렸을 때 기후 변화 때문에 물을 길으러 먼 길을 가야 했던 것처럼요. 홍수, 가뭄, 그리고 다양한 기상 현상이 발생하고 있는데, 이는 이미 깨끗한 식수를 구하기 어려운 지역 사회에 더욱 큰 스트레스를 주고 있어요.
 
+- **[Volvo XC60 Recharge: Performance where it matters the most](https://www.youtube.com/watch?v=x7wI1PfcSMc)** · Volvo Cars (channel)
+  때, 네가 날 데리러 왔어. 난 네가 그랬다는 걸 알아. 오, 주님, 아무도 해줄 수 없었던 일들을 네가 해줬어. 난 네가 그랬다는 걸 알고, 모두가 그걸 알아줬으면 좋겠어. 하지만 여전히 널 향한 그리움이 남아있어. 우린 사랑했잖아. 맞아, 우린 그 무엇과도 비교할 수 없는 사랑을 했어. 난 알아.
+
 - **[Waymo's New Safety Research: Safety Impact of the Waymo Driver](https://www.youtube.com/watch?v=ZpZAJPKw22c)** · Waymo (channel)
   hi everyone it's a pleasure that you could join us today uh we're going to be talking about two papers that we've recently written and this is an academic presentation of those two papers weo is kind of usual or unusual I mean with that we write papers we've written over 20 papers and we do that so that we can be um transparent and we can speak to the …
 
 - **[Waymo begins offering limited overnight terminal service at Sky Harbor](https://www.youtube.com/watch?v=IgkxTbRRNZw)** · Waymo (channel)
   Hey, I'm Kerry, a User Experience Research Manager here at Waymo and I'm excited to share that Waymo One riders in Phoenix can now get picked up or dropped off at two of Sky Harbor's terminals. We've already served tens of thousands of airport trips since opening service to the airport Sky Train stops, but we've also heard your feedback for more convenience.
 
-## 2023-11 (총 11건)
+## 2023-11 (총 17건)
 
 ### AX (1건)
 
 - **[The Evolution of Stretch | Boston Dynamics](https://www.youtube.com/watch?v=8WZoVJIV9V0)** · Boston Dynamics (channel)
   So, At Boston Dynamics, we really focus on doing closed loop control for robots. What I mean by that is it's always learning from the environment and reacting to it. Stretch is our first robot that's really purpose built for the warehouse. Moves cases all day long. It doesn't get tired, and it doesn't get injured.
 
-### unclassified (10건)
+### unclassified (16건)
 
 - **[How I built a business around bubbles | Role Models](https://www.youtube.com/watch?v=Uad4TsEldiY)** · LinkedIn (channel)
   저에게 진정한 영감을 준 것은 업계 전체를 완전히 뒤바꿔 사람들과 반려동물에게 진정한 행복을 가져다줄 수 있는 기회였고, 링크드인이 그 과정에서 큰 도움이 되었습니다. 저는 제이슨 타이거입니다. 저는 먹을 수 있는 안전한 비눗방울을 전문으로 하는 버블 유니버스의 창립자입니다 . 요즘 비눗방울 놀이를 하는 사람들은 비눗방울이 눈에 들어가거나 피부에 닿거나 입에 들어가는 경우가 많은데, 비눗방울은 원래 그런 용도로 만들어진 게 아닙니다. 전통적인 거품은 걸쭉한 세제 성분과 비눗물로 만들어집니다.
@@ -10978,6 +11334,21 @@
 - **[Selfless Fiji](https://www.youtube.com/watch?v=rZkeII645Xc)** · Meta (channel)
   Fiji to me is my home country. I wouldn’t be anywhere, any part of the world, than here. In the Pacific, we have a sort of a communal way of doing things. We always want to help one another in any sort of way. - Hello everyone. Selfless Fiji here. We’re here at Fiji Cancer Society. We’re about to come in and really spice up the place with some really creative murals.
 
+- **[A daring off-road adventure in South America | Nissan](https://www.youtube.com/watch?v=_Lq8uOx60HU)** · Nissan (channel)
+  [음악] 그 [음악] 오 [박수] [음악] [박수]
+
+- **[Far beyond mobility: How Nissan envisions our relationship with energy | Nissan](https://www.youtube.com/watch?v=mjQn_4HlFMk)** · Nissan (channel)
+  [음악] e [음악] [음악] [음악] 오 [음악] 나의 [음악] 나의 [음악] [ 음악] n n n n n n n n n n n n n [음악] n n n n n n n n n n n n n n n n n n n [음악] n
+
+- **[Introducing the Nissan Hyper Punk concept | Nissan](https://www.youtube.com/watch?v=lG9a5dI1xWY)** · Nissan (channel)
+  변환하고 싶었어 변환하고 싶었어 변환하고 싶었어 [음악] 그냥 w를 원해
+
+- **[Introducing the Nissan Hyper Urban concept | Nissan](https://www.youtube.com/watch?v=WfihlCy3lVA)** · Nissan (channel)
+  [음악] 나는 [음악] 얻는다
+
+- **[Nissan Design Europe: 20 years of daring to push the limits of design | Nissan](https://www.youtube.com/watch?v=OQIncuVkG24)** · Nissan (channel)
+  [음악] come [음악] come [음악] come
+
 - **[[Upstage Console Tutorial] Create project](https://www.youtube.com/watch?v=q6CHihKfIr8)** · Upstage (channel)
   this tutorial explains how to create a project go to the services menu choose the one that fits your needs now document AI is available click on create project inside your project find and click on the credentials tab click on the create token button your exess token will be generated make sure to copy it to your clipboard ensure you know the exact directory path of your image file …
 
@@ -10986,6 +11357,9 @@
 
 - **[🏕️ 힐링 가을 야유회ㅣ풀 재택 AI 스타트업ㅣ업스테이지ㅣ사내행사](https://www.youtube.com/watch?v=cCIHoVClBM0)** · Upstage (channel)
   [음악] [박수] [음악] vai [음악] 하겠 [음악] 녕서 [박수] 와 [음악] 오늘요 어 너무 즐거울 거 같은데 아 저희가 평소에는 다들 못 만나니까 그 얼굴을 볼 수 있는게 좋네요 많이 기대가 되고 이렇게 많은 스카 분들을 보니까 기분이 묘하네요 뭐요 온라인으로만 보시던 분들 실물로 보니까 약간 연예인 같은 기분도 나고 아주 재밌네요 일단 지금 너무 배고파서 바비큐가 기대되고 있고요 다른 분들 실물로 배서 너무 신기합니다 누구라고요 너무 야네 오늘 너무 기대되고 있고요 맛있는 거 많이 먹고 경품도 다 가져가겠습니다
+
+- **[Volvo EM90 – The Grand Opening](https://www.youtube.com/watch?v=WWRUrhEbcXc)** · Volvo Cars (channel)
+  천사의 말처럼 진부한 표현일지 모르지만, 집처럼 편안한 곳은 정말 없습니다. 진정으로 자신을 드러낼 수 있고, 사랑하는 사람들과 소통할 수 있고, 가장 소중한 것들을 위한 공간이 어디에 또 있을까요? 바로 이러한 집과 같은 편안함이 저희의 새로운 MP TV, 플라이 일렉트릭 EM90에 영감을 주었습니다. 삶을 위한 공간을 갖춘 자동차, EM90은 세계 최고 수준의 안전한 자동차를 설계하는 과정에서 탄생했습니다. 저희는 항상 더 나은 것을 추구하며 미래를 향해 나아가고 있지만, 때로는 과거를 돌아보는 것이 새로운 영감의 원천이 될 수 있습니다
 
 - **[Waymo's 2024 Internship Applications Are Now Open!](https://www.youtube.com/watch?v=QPVlRHZFZog)** · Waymo (channel)
   [Music] What attracted me to weo was the chance to work in the self-driving industry obviously weo is the leader in the industry there's this ethical cause that you're trying to save lives but there's also a more tangible cost like you're trying to save time and you don't have to drive around cars anymore the specific project that I worked on at weo is basically improving the Fidelity of …
@@ -11047,7 +11421,7 @@
 - **[What it's like to be a Zoox intern](https://www.youtube.com/watch?v=NOaVoZM1d-4)** · Zoox (channel)
   [음악] 제가 Suk을 선택한 이유는 로봇을 좋아하기 때문입니다. Suk에 대해 알게 되었을 때, 교통 시스템을 혁신하려는 그들의 비전에 깊은 감명을 받았습니다. 저는 훌륭한 사람들, 멋진 목표, 그리고 혁신적인 제품을 찾고 있었는데, Suk은 이 세 가지를 모두 갖추고 있었습니다. 저는 그들이 개발 중인 로봇 텍시(Robot Texi)라는 제품이 정말 혁신적이라고 생각합니다. 이 제품이 교통 시스템의 판도를 바꾸고, 더 많은 사람들이 더 쉽고 편리하게 이용할 수 있도록 만들 것이라는 생각에 큰 감명을 받았고, 이를 위해 노력하고 싶습니다
 
-## 2023-09 (총 10건)
+## 2023-09 (총 11건)
 
 ### AX (2건)
 
@@ -11057,7 +11431,7 @@
 - **[챗GPT를 넘어선 스타트업!? 😲ㅣLLM 성능 세계 1위 달성ㅣ업스테이지ㅣHugging Face](https://www.youtube.com/watch?v=D1aJpugoCfQ)** · Upstage (channel)
   llm이라는 이제 되게 큰 파도가 왔고 그 다음에 많은 회사들이 파도 위에 올라탔는데요 또 이왕 하는 거 글로벌 1등 정도는 찍어봐야 뭔가 제대로 한다고 생각했던 것 같네요 [음악] 안녕하세요 lnm 엔진 팀의 파운데이션 모델 파트에서 테크니컬 리더 역할을 하고 있는 김상원입니다 안녕하세요 에베레스트의 파운데이션 모델 파트에서 모델 개발하고 있는 송원호라고 합니다 [음악] 저희가 자체적으로 한국어 llm을 학습해낼 수 있는지 검증하는 것을 목표로 시작을 하게 됐고요 저희는 허깅 페이스에 오픈 에러램 리더보드를 도전하기로 결정했습니다
 
-### unclassified (8건)
+### unclassified (9건)
 
 - **[The Complete Asset Reliability Solution | Boston Dynamics](https://www.youtube.com/watch?v=LOFRjd5qR3c)** · Boston Dynamics (channel)
   [음악]
@@ -11076,6 +11450,9 @@
 
 - **[Hear from our people about life at Reckitt for Students & Graduates](https://www.youtube.com/watch?v=jNUNz0Zvq14)** · Reckitt (channel)
   life at wrecker is dynamic life at racket is energetic life at racket is exciting I'm always in the supermarket pointing out Our Brands every week you are working with a different brand working with a different team working with new people so plenty of opportunity to learn new things in a very short amount of time I think that's a big part of the reason why I joined wreck …
+
+- **[Meet the Volvo XC60 Black Edition](https://www.youtube.com/watch?v=JdaQlDsrxKg)** · Volvo Cars (channel)
+  아무도 날 데리러 오지 않았을 때, 네가 날 데리러 왔어.
 
 - **[That's Why Waymo: Escape the Heat](https://www.youtube.com/watch?v=EDng3ci3tfc)** · Waymo (channel)
   죄송해요, 에어컨이 작동하지 않아서 좀 덥네요.
@@ -11102,14 +11479,19 @@
 - **[The Waymo Driver: Communicating it needs more space to other road users](https://www.youtube.com/watch?v=mHc4xALeO5c)** · Waymo (channel)
   [음악] 안녕하세요, 이사 가려고 하는데 공간이 더 필요해서요. 잠시 뒤로 가주시겠어요?
 
-## 2023-07 (총 6건)
+## 2023-07 (총 9건)
 
 ### AX (1건)
 
 - **[LG AI Talk Concert 2023](https://www.youtube.com/watch?v=tbeGE19qIk4)** · LG AI Research (channel)
   [음악] [박수] [음악] [박수] [음악] [박수] [음악] 안녕하세요 LG AI 연구원의 경우입니다 오늘 LG AI 토크 콘서트 2023에 와주신 모든 분들께 감사의 말씀드리겠습니다 어드밴싱 AI probetter life 2020년 12월 ai를 통해 보다 나은 섬을 만드는 것을 꿈꾸며 LG AI 연구원이 설립되었습니다 LG AI 연구원의 첫 번째 미션은 산업현장에 존재하는 난제를 해결하는 것이었습니다 정밀 부품의 생산 공정부터 신약개발 전기차 배터리 회로 설계 대형 플랜트 섭이 운영까지 다양한 산업 분야에서 난제를 발굴하고 해결하는데 집중해 왔습니다
 
-### unclassified (5건)
+### AT (1건)
+
+- **[Waymo’s Approach to Building a Safe Waymo Driver](https://www.youtube.com/watch?v=ETeQPZocuE8)** · Waymo (channel)
+  How do you define safety? Do others on the road define it as you do? Like the weekend cyclist, or the dog walker heading to the park. We are Waymo, and we’ve been considering these questions, and many more, for over a decade. Our mission is to make it safe and easy for people and things to get to where they're going. And the Waymo Driver, our autonomous driving technology, is paving the way for a better future of mobility.
+
+### unclassified (7건)
 
 - **[Spot at Ontario Power Generation: Automating Circuit Breaker Tripping and Racking](https://www.youtube.com/watch?v=CyjYIgnsIeY)** · Boston Dynamics (channel)
   1년 만에 임시 요청에서 시작하여 완벽하게 개발된 상용 도구로 발전하는 과정을 직접 목격했습니다. [음악] 저는 마이크 델리시입니다. 온타리오 전력 발전(OPG)에서 약 15 년간 주로 혁신팀 또는 xlab 팀에서 근무해 왔습니다. 저희는 기술 통합자 역할을 하며, 세상에 존재하는 최첨단 기술들을 평가하고 OPG 내에서 이러한 기술을 활용하면 이점을 얻을 수 있는 특정 사용 사례를 찾아냅니다. 사람이 직접 작업에 참여하지 않도록 하면 안전성이 향상된다는 것을 알고 있기 때문에 Spot이 적합하다고 판단했습니다.
@@ -11126,14 +11508,20 @@
 - **[빅테크를 집어삼킨 AI 스타트업 🏆ㅣICDAR 4부문 1위ㅣOCR](https://www.youtube.com/watch?v=e5PGdcxwD_Y)** · Upstage (channel)
   저는 [음악] 업스테이지에서 자연어 처리 연구원으로 일하고 있는 신수원입니다 저는 엔지니어링이랑 영구 쪽 같이 도맡아 하고 있는 하연서라고 합니다 업스테이지에서 멀티모달 인공지능 연구원으로 일하고 있는 김다현입니다 [음악] ictar은 미국에서 개최되는 문서 분석 및 인식 국제학술회의가 주관하는 AI OCR 분야 세계 최고의 경쟁률 중 하나입니다 올해 열린 대회 업스에 참여해서 우승한 성과를 보여드렸는데요 각 부분에 대해서 설명을 드리도록 하겠습니다 하이얼 텍스트 대회 같은 경우는 이미지에서 단어를 검출하는 것에서 나아가서 대충 구조까지 추출해내는 것을 목표로 하고 있는 구글 리서치 주최 대회입니다
 
-## 2023-06 (총 6건)
+- **[Inside the Volvo EX30](https://www.youtube.com/watch?v=401S8gfLvGM)** · Volvo Cars (channel)
+  이 차의 디자인 콘셉트는 볼보 에스프레소 한 잔과 같았습니다. 작지만 풍미 가득하고, 최적의 기능과 필수적인 요소들을 담았습니다. 처음부터 중앙 집중화라는 테마를 염두에 두고 모든 탑승자가 쉽게 접근할 수 있도록 기능을 차량 중앙에 배치했습니다. 중앙 집중화의 한 예로 사운드바를 들 수 있습니다. 모든 전자 장치를 한 곳에 모아 도어 패널 에서 전자 장치를 제거함으로써 도어 공간을 더욱 편리하게 활용할 수 있도록 했습니다. 또 다른 예로는 대형 중앙 터치스크린이 있습니다.
+
+- **[The Materials of the Volvo EX30](https://www.youtube.com/watch?v=aHluM0PlvdI)** · Volvo Cars (channel)
+  포린(Foreign)은 마치 영화 ' 그라운드호그'에서 영감을 받아 새롭게 디자인되었습니다. 네 개의 실내 공간은 차세대 볼보 고객을 염두에 두고 설계 되었으며, 버려진 소재에 특별한 애정을 담아 마치 새로운 삶을 선사하는 듯한 느낌을 줍니다. 브리즈 룸에서 만나볼 수 있는 아름다운 픽셀 니트 시트는 패션 업계에서 사용되는 3D 니팅 기법에서 영감을 얻었습니다. 이 기법은 필요한 부분만 편직하여 폐기물을 크게 줄여줍니다. 저희는 루프를 사용하여 시트에 픽셀 효과를 연출했으며, 사용된 원사는 100% 재활용 폴리에스터 PET 병으로 만들어졌습니다
+
+## 2023-06 (총 9건)
 
 ### AX (1건)
 
 - **[[풀영상] 업스테이지 기자간담회 Press StageㅣAI 기업ㅣDocument AIㅣAskUp SeargestㅣOCR](https://www.youtube.com/watch?v=dA39O0GhJjA)** · Upstage (channel)
   [음악] nlp나 비전 관련된 전문가들이 모여 있는 곳이고요 그리고 뭐 큰 회사들 네이버나 카카오 그리고 엔비디아 메타 아마존 글로벌 기업에서 큰 일을 하셨던 분들이 모여 있습니다 특히나 우리가 이야기를 해봤고 여기에 그치는게 아니라 처음부터 끝까지 엔터테인더라고 하죠 제품도 처음부터 끝까지 만들어보고 사업도 처음부터 끝까지 만들어 봤던 멤버들이 모여서 회사를 만들었고 그래서 뭐 글로벌로도 가장 스트롱한 ai팀 중에 하나가 아닐까 생각하고 있습니다
 
-### unclassified (5건)
+### unclassified (8건)
 
 - **[What Apple developers need to know | WWDC23 | Apple](https://www.youtube.com/watch?v=j1HGOY32s2Y)** · Apple (channel)
   안녕하세요 개발자 여러분, 덥덥 23입니다! 오늘은 무한한 가능성에 대해 이야기하는 시간입니다. 수백 명의 Apple 엔지니어와 디자이너가 여러분의 아이디어를 20억 대의 Apple 기기에 구현하는 데 도움을 줄 175개의 새로운 세션을 준비했습니다. 안녕하세요, Alan! Swift 데이터에 대해 더 자세히 알고 싶으신가요? 여러분이 어떤 결과물을 만들어낼지 기대됩니다. 위젯을 새로운 차원으로 끌어올리거나 watchOS 10을 디자인해 보세요. 관련 세션이 준비되어 있습니다. Swift UI 커스텀 애니메이션, Xcode의 향상된 테스트 네비게이터 및 Xcode 미리보기, Swift 입문, Dark C 문서 등도 다룹니다.
@@ -11149,6 +11537,15 @@
 
 - **[업스테이지 기자간담회 Press Stage 현장 스케치](https://www.youtube.com/watch?v=BvxNRTvtod4)** · Upstage (channel)
   외국 [음악] 당신의 모든 짐들, 네, 그리고 난 말했죠, 하지만 난 당신을 사랑해요, 그 말들을 제발 들어주세요 [음악] 당신이 겪어온 일들을 감히 헤아릴 수가 없어요, 모든 게 그저 거짓이었으면 좋겠어요 [음악] 에드, 제발 마음이 식지 않게 해주세요 [음악] 삶에 희망과 은혜와 진실이 있기를, 고마워요 [음악]
+
+- **[A closer look at the Volvo EX30 exterior](https://www.youtube.com/watch?v=re3EuKmqh6k)** · Volvo Cars (channel)
+  This is the EX30. A small SUV doing big Volvo things. The fully electric EX30 is our smallest ever SUV. It's designed to have the smallest carbon footprint of any Volvo to date. The EX30 distills our design values into a smaller and concentrated package. At first glance, you're met with a small SUV that has the presence of a powerful, large SUV.
+
+- **[Touch – The Drive Behind Volvo EX90](https://www.youtube.com/watch?v=lHgFkybWJkg)** · Volvo Cars (channel)
+  [음악] 제 이름은 리사 리브스 이고 인테리어 디자인 책임자입니다. 저는 인테리어 디자이너 팀을 이끌고 저희 교육 과정 내에 아름답고 기능적인 공간을 만들고 있습니다. 매일 호기심, 창의성, 영감, 그리고 새로운 배움이 가득한 저희 교육 과정에서 저는 훌륭한 팀과 함께 일하고 있습니다. 그들은 브랜드의 가치, 의미 있는 디자인, 그리고 기능성을 통해 지능을 창조하는 방법에 대해 열정적으로 동기 부여를 받고 있습니다. 에볼 빅스 나이트의 목표는 거실과 같은 편안함을 선사하는 것이었습니다.
+
+- **[Let's Back Up: Navigating Construction](https://www.youtube.com/watch?v=rFhzgkDGXTc)** · Waymo (channel)
+  안녕하세요, 저는 Waymo의 인지 팀에서 소프트웨어 엔지니어로 일하는 마야입니다. 저는 건설 현장 관련 업무를 담당하고 있는데, Waymo에서는 '건설 현장'이라는 용어를 지도 나 다른 사전 정보가 더 이상 충분하지 않거나 유효하지 않은 모든 상황을 포괄하는 의미로 사용합니다. 샌프란시스코의 건설 현장에서 Waymo 운전자가 어떻게 주행하는지 몇 가지 예를 들어 설명해 드리겠습니다. 이 예시에서는 공사가 진행 중인 것으로 보이는 도로에서 좌회전을 하고 있습니다. 도로 표지판 과 공사 콘이 있고, 작업자가 손으로 정지 표지판을 들고 있는 것을 볼 수 있습니다
 
 ## 2023-05 (총 16건)
 
@@ -11266,14 +11663,14 @@
 - **[Putting Zoox to the Test: Robotaxi Crash Testing](https://www.youtube.com/watch?v=597C9OwV0o4)** · Zoox (channel)
   해외 충돌 테스트는 약 300밀리초, 즉 0.3 초 정도밖에 걸리지 않지만, 준비에만 몇 주가 소요될 수 있습니다. 원하는 데이터를 얻을 수 있는 기회는 단 한 번뿐이며, 테스트 비용과 절차가 매우 복잡하기 때문에 처음부터 제대로 해야 합니다. [음악] 오 [음악] Zoox 차량은 2017년에 구현된 차량 중 가장 포괄적인 안전 기능을 갖추고 있습니다. 첫 번째 프로토타입 설계를 시작하여 2017년 말에 제작했는데, 이 프로토타입들은 매우 높은 품질을 자랑했습니다.
 
-## 2023-03 (총 23건)
+## 2023-03 (총 24건)
 
 ### AX (1건)
 
 - **[LG의 초거대 AI 연구를 이끄는 EXAONE Lab 이진식 리더 인터뷰!](https://www.youtube.com/watch?v=w-_mdGJG5wk)** · LG AI Research (channel)
   구성원 모두가 열정과 폐기로 똘똘 뭉쳐져 있습니다 다른 곳에서는 경험할 수 없는 초고대 AI 모델을 다뤄본 귀중한 경험을 보유하고 있고 초거대 AI 모델에서도 각자가 막고 있는 분야에서 매우 높은 수준의 전문성을 보유하고 있는 정의 멤버라고 자랑하고 싶습니다 lgi 연구원 파이팅 안녕하세요 LG AI 연구원 엑 앱을 맡고 있는 이진식 있니다 학교에서는 음성 합성을 위한 자연언어처리 연구를 을 했고요 졸로프는 자연언어 처리 분야 중에서 사람의 의도를 파악하는 언어 이해 분야랑 그다음에이를 활용한 대화 분야를 연구했습니다
 
-### unclassified (22건)
+### unclassified (23건)
 
 - **[Future Forward: Full Length Trailer](https://www.youtube.com/watch?v=OSpwESjq3oE)** · Amazon (channel)
   우리 업계가 탄소 배출원이라는 사실은 누구나 알고 있습니다. 어떤 업계에 종사하든 기후 변화나 탄소 중립에 대해 생각하지 않는다면 큰 오산입니다. 우리의 목표는 2040년까지 탄소 순배출량 제로(Net Zero)를 달성하는 것입니다. 이를 위해 파트너들을 찾았고, 오늘 우리가 함께 하는 일이 바로 그 시작입니다. 우리 혼자서 이 길을 가는 것보다 함께라면 훨씬 더 큰 성과를 낼 수 있습니다. 이산화탄소를 콘크리트에 담아 영구적으로 제거하는 것이죠. 우리의 목표는 2030년까지 전기 밴 10만 대를 운행하는 것입니다.
@@ -11341,17 +11738,40 @@
 - **[인재 영입 담당자들이 말하는 좋은 동료 찾기ㅣ업스테이지 People eXperience팀 👨‍👩‍👧‍👦](https://www.youtube.com/watch?v=tNBOHgdVhEM)** · Upstage (channel)
   가장 큰 매력입니다 스테이지에 동료분들은 모두 스타입니다 스테이지에서 업스테이지 동료는 전부 다 했나요 [음악] 안녕하세요 저는 업스테이지에서 인재형 입을 담당하고 있는 헬렌입니다 안녕하세요 저는 억새 진지영이 담당 엄용진입니다 주로 담당하고 있는 업무는 좋은 인재를 찾아서 모셔오는 일을 하고 있고요 인제 분들에게 또 어필할 수 있는 업데이지만의 매력적인 문화 그리고 근무환경을 만드는 부분에도 많은 관심을 갖고 참여하고 있습니다네 안녕하세요 저는 업스테이지에서 인재영입업무를 하고 있는 김지수입니다 더 좋은 업스테이지만의 문화를 만들어 나가기 위한 일들도 함께 하고 있습니다
 
-## 2023-02 (총 22건)
+- **[Riding with the Waymo Driver: Our first rides in Los Angeles](https://www.youtube.com/watch?v=uKfAJDEkstg)** · Waymo (channel)
+  [음악] 외국어 [음악] 출발이 정말 빠르고, 잡담도 필요 없고, "오늘 하루 어떠세요?" 같은 것도 없이 그냥 존중하는 느낌이 들어요. 밤에는 도로가 안 보이는데, 움푹 들어간 곳에서 잠시 멈춰주는 것도 정말 좋아요. 네, 맞아요. 정말 도움이 많이 돼요. 지난주에는 샌프란시스코에서 탔는데 이번 주에는 로스앤젤레스에서 탔어요. 완전히 다른 환경이지만 차의 핸들링과 성능은 아주 일관적이에요. 네, 다른 곳에 정차할 때도 부드럽게 잘 정차하고, 내리기 좋은 곳에 멈춰서 정말 좋아요. 정말 부드러워요.
+
+## 2023-02 (총 30건)
+
+### AX (1건)
+
+- **[Waymo at CoRL 2022 | Behavior Models for Autonomous Driving](https://www.youtube.com/watch?v=RpiN3LyMLB8)** · Waymo (channel)
+  저는 바이마르에 있는 드래곤 연구소의 연구팀을 이끌고 있으며, 오늘 제가 발표할 연구에 참여한 몇몇 분들이 이 자리에 함께해 주셨습니다. 저희 연구팀의 목표는 머신러닝을 활용하여 최첨단 자율 시스템을 개발하는 것입니다. 오늘 워크숍에 참석하신 여러분과 함께 도로 주행에 필수적인 행동 모델 개선에 대한 저희 연구 결과를 몇 가지 소개해 드리겠습니다. 드래곤 테크놀로지는 자율 주행 기술 회사로, 두 가지 분야에 집중해 왔습니다. 하나는 모바일 서비스를 통한 사람 이동 서비스이고, 다른 하나는 대형 전자 차량을 이용한 도서 배송 서비스입니다
 
 ### DX (1건)
 
 - **[Telco Tech Talks: Everything is BIG in India](https://www.youtube.com/watch?v=r-RVlUNh5Qg)** · Telenor (channel)
   [음악] 안녕하세요 여러분, 텔코 테크 토크를 시청해 주셔서 감사합니다. 저는 텔노르 그룹의 사장 겸 CEO인 시크 비브리카입니다. 저희는 북유럽 4 개국과 아시아에서 사업을 운영하는 텔켄 계열사로, 총 1억 8천만 명의 고객을 보유하고 있습니다. 러시아 지사 CTO 겸 최고 기술 책임자인 분과 함께 이 자리에 있습니다. 텔코 테크 토크에서는 새로운 기술과 새로운 운영 모델이 통신 산업을 어떻게 변화시키고 재편하는지, 그리고 우리가 알고 있는 통신 산업을 어떻게 뒤흔들고 있는지에 대해 좀 더 자세히 알아보고자 합니다.
 
-### unclassified (21건)
+### unclassified (28건)
+
+- **[A smart home from IKEA: How to expand your smart home over time with DIRIGERA hub](https://www.youtube.com/watch?v=mhJ3StNMfHM)** · IKEA (channel)
+  A smart home from IKEA: How to expand your smart home over time with DIRIGERA hub The hub is the heart of a smart home as it enables you to connect and control your smart products in the IKEA Home smart app. With the hub, it’s easy for your smart home to grow over time. Maybe start with rooms where you spend most time, and explore smart lighting?
+
+- **[A smart home from IKEA: How to get started with DIRIGERA hub and the IKEA Home smart app](https://www.youtube.com/watch?v=Jx_TEWzsr5U)** · IKEA (channel)
+  A smart home from IKEA: How to get started with DIRIGERA hub and the IKEA Home smart app To help you get started with your smart home ideas, we've put together four steps to guide you through the basics of setting up a smart home, and what the IKEA Home smart app can do. To start with, visit us online or any of our stores to find DIRIGERA hub and our wide range of smart products.
+
+- **[A smart home from IKEA: How to set a scene for better sleep with DIRIGERA hub](https://www.youtube.com/watch?v=2tCF6S9oWAg)** · IKEA (channel)
+  A smart home from IKEA: How to set a scene for better sleep with DIRIGERA hub The hub is the heart of a smart home as it enables you to connect and control your smart products in the IKEA Home smart app. Did you know that a smart home can help you wind down before bedtime? Follow us to learn how to create a scene in the app.
+
+- **[How to control your smart home with DIRIGERA hub](https://www.youtube.com/watch?v=v11zBtrG4pw)** · IKEA (channel)
+  A smart home from IKEA: How to control your smart home with DIRIGERA hub The hub is the heart of a smart home as it enables you to connect and control your smart products in the IKEA Home smart app. All our smart products work independently, but adding them to the hub opens up new ways to control your smart home.
 
 - **[IKEA Sustainability Report FY22 highlights](https://www.youtube.com/watch?v=Zi-u_YgBGvw)** · IKEA (channel)
   Our work to become people and planet positive continues In FY22 we decreased our climate footprint by 12% compared to the baseline year FY16 including a significant increase in the share of renewable electricity for retail and production And we’re enabling people to save electricity and money at home SOLHETTA, for example, is more affordable and 35% more energy efficient than previous IKEA LED bulbs and comes in even more …
+
+- **[Live boldly, joyfully and well with the BASTUA collection](https://www.youtube.com/watch?v=oM-EFrMP0Ag)** · IKEA (channel)
+  Shop the BASTUA collection now
 
 - **[Black Girl's Healing House - Meta - Community Voices](https://www.youtube.com/watch?v=3Royd3575W8)** · Meta (channel)
   [음악] 전인적 웰빙이란 마음, 몸, 영혼을 돌보는 것입니다. [음악] 저는 예전에 불안과 우울증으로 많이 힘들어했는데, 쉽게 접근할 수 있는 방법을 찾고 싶었어요. 그래서 요가와 명상을 시작했죠. 동네 웰니스 센터에서 수업을 듣다 보니 제가 거기 있는 유일한 흑인 여성이라는 걸 깨달았어요. [음악] 모두들 저를 '저 여자는 여기서 뭐 하는 거지?' 하는 눈으로 쳐다봤어요. 심지어 어떤 사람은 제 머리가 거슬린다며 바꾸라고까지 했어요. 그런 경험들이 계기가 되어 흑인 여성을 위한 온라인 전인적 웰빙 커뮤니티인 '블랙 걸스 힐링 하우스'를 만들게 되었어요.
@@ -11404,18 +11824,24 @@
 - **[ALL IN 2023 - The most important event dedicated to Canadian AI | L'événement de l'IA du Canada](https://www.youtube.com/watch?v=J1GXAryBxtM)** · Scale AI (channel)
   hello I would like to welcome you to Montreal in fall 2023 to showcase the amazing AI that we have built here in Canada Montreal isn't just a hub for AI it's the AI Hub in North America and we want to make it the AI Hub of the world this annual meeting is a wonderful occasion for the AI Community to come together and be inspired by the best …
 
+- **[Financement record pour Scale AI | Record-breaking funding round for Scale AI](https://www.youtube.com/watch?v=jpe9hLEye9c)** · Scale AI (channel)
+  오늘 아침 여러분과 함께하게 되어 정말 기쁩니다. 40의 투자를 발표하기 위해 9개의 새로운 제품에 수백만 달러 투자 프로젝트 6개와 이미 진행 중인 프로젝트 6개가 있습니다. 117 이상의 가치에 대한 가격 나에게는 수백만 달러 인공지능은 3입니다. 무엇보다 가장 중요한 것은 일자리입니다. 여기를 살펴보기에 매우 적합한 분입니다. 주변을 둘러보면 금방 알 수 있을 거예요. 가장 뛰어난 지성, 지능 인공지능이 여기에 적용되었습니다. 둘째로, 그것들은 사슬입니다. 더욱 탄력적인 공급망 생산성이 향상될 테니 괜찮습니다.
+
 - **[bagiya Ye Gori | Bhajpoori | slow and river](https://www.youtube.com/watch?v=ikCpnd5mFXs)** · Suno (channel)
   [박수 갈채] [음악] 침착한
 
 - **[Evacuate or not? New avalanche warning system helps safeguard citizens and critical infrastructure](https://www.youtube.com/watch?v=FTFn87oM6dA)** · Telenor (channel)
   두 번의 사고 이후, 지역 사회는 눈사태 예측 시스템을 구축했습니다. 눈사태 예측을 하려면 기상 예보와 같은 데이터가 필요하고, 가파른 경사면의 적설량도 모니터링하고 측정해야 합니다. 이를 위해 센서를 사용하여 적설량을 측정하는데, 처음에는 이러한 장비가 상당히 고가였습니다. 또한 데이터 전송에 많은 전력이 소모되는데, 이곳은 매우 춥기 때문에 필요할 때 데이터를 얻지 못하는 것도 문제였습니다. 그래서 우리는 10만 노르웨이 크로네에 달하는 고가의 장비에서 동일하거나 더 나은 성능을 내는 5천~ 6천 노르웨이 크로네 상당의 장비로 전환했습니다
 
+- **[Let’s Back Up: Interactions with Intersections](https://www.youtube.com/watch?v=kHOlRMhnewI)** · Waymo (channel)
+  웨이모 운전자가 교차로를 주행할 때 사람보다 유리한 점 중 하나는 항상 모든 방향을 살피고 있다는 것입니다. 사람은 두 눈과 고개를 돌리지만 한 번에 한 곳에만 초점을 맞출 수 있죠. 안녕하세요, 저는 웨이모 행동 예측 팀의 소프트웨어 엔지니어 달렌입니다. 저는 교차로 관련 업무를 담당하고 있습니다. 오늘은 샌프란시스코와 피닉스에서 웨이 모 운전자가 주행하는 몇 가지 교차로 상황과 이러한 상황이 왜 흥미로운지 보여드리겠습니다. [음악] 이 상황은 피닉스 시내에서 우리 차례입니다.
+
 - **[Putting Zoox to the Test: High-Speed Robotaxi Testing](https://www.youtube.com/watch?v=ZfnoIOaGvMg)** · Zoox (channel)
   저희의 목표 시장은 도시이지만, 고속도로 주행도 가능하도록 설계되었습니다. 예를 들어 공항에서 고객을 픽업하여 시속 75마일(약 120km/h)까지 주행하여 도심으로 데려다 줄 수 있습니다. 고속 주행 테스트 중에도 차량이 안정적이고 반응성이 뛰어난지 확인해야 하므로, 주로 시뮬레이션을 통해 차량 동역학 시뮬레이션을 진행합니다. 이를 통해 고속 주행 조건에서 차량이 기대하는 성능을 확보합니다. 저희의 탁월한 추적 정확도는 세 가지 요소 덕분에 가능합니다. 첫째, 매우 정확한 후처리 솔루션입니다. 정확한 목적지에 도달하려면 먼저 현재 위치를 매우 정확하게 파악해야 합니다.
 
-## 2023-01 (총 3건)
+## 2023-01 (총 7건)
 
-### unclassified (3건)
+### unclassified (7건)
 
 - **[Inside the Lab: Taking Atlas From Sim to Scaffold](https://www.youtube.com/watch?v=XPVC4IyRTG8)** · Boston Dynamics (channel)
   [음악] 이 영상은 이전 영상을 보신 분들에게는 여러모로 익숙하게 느껴질 수 있지만, 저희가 아틀라스에 대해 진행하고 있는 연구가 얼마나 확장되었는지를 보여주기 위한 것입니다. 파쿠르나 댄스처럼 로봇이 주변 환경을 역동적으로 움직이게 하는 것뿐만 아니라, 이제는 아틀라스를 실제로 활용하여 주변 환경의 물체를 인지하고 조작하는 방법을 고민하고 있습니다. 동시에 아틀라스 특유의 높은 성능을 유지하는 것도 중요합니다. 이를 위해서는 로봇이 물체의 형태, 질량, 그리고 물체를 조작할 때 로봇과 물체 사이에 존재하는 제약 조건과 힘을 고려해야 합니다.
@@ -11423,10 +11849,22 @@
 - **[Stretch at DHL | Automated Trailer Unloading](https://www.youtube.com/watch?v=qgGH6Vk8nY8)** · Boston Dynamics (channel)
   지난 8~10년 동안 창고 산업의 자동화 기술은 눈부시게 발전해 왔으며, 저희는 이러한 발전의 최전선에 서고자 합니다. 따라서 운영에 이러한 기술을 활용할 기회가 있을 때마다 더욱 효율적 이고 비용 효율적인 방식으로 운영하여 직원들이 가장 선호하는 기업이 되고자 합니다. 스트레치 시스템은 비교적 신속하게 구축할 수 있도록 설계되었으며, 최소한의 인프라만 필요합니다. 스트레치가 시설에 도착한 시점부터 첫 번째 박스를 이동하기까지 단 며칠밖에 걸리지 않습니다. 스트레치는 컨테이너 내부의 박스 사진을 촬영하고, 흡착 컵을 사용하여 박스를 하나씩 컨베이어 벨트에 올려놓습니다
 
+- **[Behind the scenes of the BASTUA limited collection](https://www.youtube.com/watch?v=KnwJhkmS53M)** · IKEA (channel)
+  [음악] 감사합니다. 이케아와 마리메코의 이번 협업은 북유럽의 웰빙을 주제로 했고, 그 결과물이 바로 파스타입니다. 사우나는 북유럽의 웰빙 문화에서 빼놓을 수 없는 요소입니다. 여름밤에는 저에게 끝없는 빛이 펼쳐지죠. 이번 컬렉션은 편안하게 휴식을 취하고 즐거운 시간을 보내는 것에 초점을 맞췄습니다. 심플함이 핵심이죠. 아름다운 목재 이음새와 자작나무의 아름다움을 표현하고 싶었습니다. 어릴 적 조부모님 댁에 오래된 사우나가 있었던 기억이 나는데, 저는 그곳의 오래된 나무와 손으로 조각한 장작에서 느껴지는 감촉을 정말 좋아합니다.
+
+- **[Discover VARMBLIXT – a collaboration between IKEA and Sabine Marcelis](https://www.youtube.com/watch?v=V6fo5qhnq_A)** · IKEA (channel)
+  A collaboration between IKEA and Sabine Marcelis Discover the VARMBLIXT collection
+
+- **[Get familiar with KALLARP high-gloss light grey-blue kitchen fronts](https://www.youtube.com/watch?v=MpEhEIuOC5M)** · IKEA (channel)
+  KALLARP
+
 - **[Improving truck maintenance | Amélioration de la maintenance des camions](https://www.youtube.com/watch?v=_HFgQ2fClIs)** · Scale AI (channel)
   [Music] our project with scale AI was focused on predictive maintenance for heavy duty assets such as trucks or buses and why the project really focused on was taking a product that we had developed for a single area of trucks and extended the coverage it had on the vehicles being monitored so going from something that was called the after treatment system which was the emission control system for …
 
-## 2022-12 (총 14건)
+- **[Mission: Rain, Terrain, Heat, Repeat.](https://www.youtube.com/watch?v=SGw8ZdC4JLY)** · Waymo (channel)
+  [음악] 외국 [음악] 차량 내부 복장 테스트 후, 차량 내부, 트렁크, 센서 커버 내부로 물이 어떻게 유입되었는지, 그리고 차량의 센서 시스템에 어떤 영향을 미치는지 확인하기 위해 차량을 검사합니다.
+
+## 2022-12 (총 16건)
 
 ### AX (4건)
 
@@ -11447,7 +11885,7 @@
 - **[LG AI Talk Concert 2022 | Expert AI Applications for Customer Support: 최정규님](https://www.youtube.com/watch?v=5k4ncKiJCLw)** · LG AI Research (channel)
   [음악] 안녕하세요 LG 에어연구원 최정규입니다 오늘은 lg에어연구에서 다양한 계열사 및 파트너스와 협업하고 있는 커스터머 서포트 분야에 대한 어플리케이션을 소개하고자 합니다 AI 어드바이저는 고객상담센터에서 상담사 업무를 효율적으로 보조하는 어플리케이션입니다 상담 대화를 텍스트로 변환해주는 스피치 텍스트 변환된 텍스트를 분석하고 요약해주는 텍스턴을 텍스 그리고 상담원이 고객에게 답변해질 컨텐츠를 검색하는 컨텐츠 검색 기술 등을 활용하게 되며 lg전자 및 lg생활건강상담센터에 적용 중입니다
 
-### unclassified (9건)
+### unclassified (11건)
 
 - **[Tree's Company | Happy Holidays from Boston Dynamics](https://www.youtube.com/watch?v=7Wm6vy7yBNA)** · Boston Dynamics (channel)
   외국 [음악] 외국 [음악] 외국 [음악] [박수] [음악]
@@ -11464,6 +11902,12 @@
 - **[LG AI Talk Concert 2022 | 오프닝 & 키노트 배경훈 원장](https://www.youtube.com/watch?v=CPLCy-hG9wM)** · LG AI Research (channel)
   [박수] [음악] [박수] [음악] 오랜만이야 내 이름은 틸다 알고 있지 tilda Ok 난 그냥 틸다야 사람의 기준으로 규정되지 않지 왓 그래서 뭐랬냐고 맞아 맞아 내가 이번에 패션위크에서 활약 좀 했어 상상 좀 했더니 상도 주더라고 우리 잠깐 만났었지 패셔니크는 정말 재밌는 도전이었어 난 우리가 패션을 통해 공감할 수 있었다고 생각해 우리가 겪고 있는 환경 문제에 대해서 말이야 난 너에게 더 나아진 미래를 돌려주고 싶어 그래서 지난 6월에는 쓰레기를 줄일 수 …
 
+- **[AI-powered vehicle operations suite | Suite d’exploitation de véhicules alimentée par l’IA](https://www.youtube.com/watch?v=Bcy4hUXbCiA)** · Scale AI (channel)
+  캐나다 드라이브에서 진행하는 저희 프로젝트는 중고차 판매 사업을 위한 차량 구매에 초점을 맞추고 있습니다. 저희는 전국적으로 대규모 온라인 사업을 운영하고 있기 때문에 일반적인 중고차 판매점보다 훨씬 복잡한 문제를 안고 있습니다. 저희 사업의 핵심 과제는 좋은 차량을 구매하지 않으면 성공할 수 없다는 것입니다. 따라서 구매할 차량을 발견했을 때 얼마를 지불해야 하는지가 가장 중요한 문제입니다. 저희 규모의 사업을 운영하고 소비자에게 정확하고 공정하게 가격을 제시하기 위해서는 AI를 활용해야 했습니다.
+
+- **[AloT fulfullment | Gestion optimale des commandes fondée sur l’IA des objets](https://www.youtube.com/watch?v=RN_e0p4FYPU)** · Scale AI (channel)
+  [음악] 항생제 프로젝트는 AI-IoT 기반의 물류 처리 시스템입니다. AI, IoT, 그리고 물류 처리가 결합된 형태죠. 딥러닝은 데이터에 대한 수요가 매우 높습니다. 저희 시스템을 ' 네스트'라고 부르는데, 모든 로봇이 작업을 수행하는 상자 같은 구조입니다. 사람이 작업하는 워크스테이션도 있고요. 로봇, 보관함, 워크 스테이션이 있는 구조입니다. 일반적인 휴리스틱 알고리즘을 사용한다면, 프로그래머는 주문이 들어오면 로봇에게 '보관함을 가져와서 워크 스테이션에 놓고, 사람이 제품을 집어 들고 다시 로봇에게 돌아가라'라고 지시해야 합니다. 이런 일련의 의사 결정 과정이 반복되죠.
+
 - **[Teri Sari Wish || Lofi song 2023](https://www.youtube.com/watch?v=TyyNpIdK2Eg)** · Suno (channel)
   모든 비슈누 신 내가 너에게 주겠다고 말했잖아.
 
@@ -11476,23 +11920,41 @@
 - **[١٨ ديسمبر، ٢٠٢٢](https://www.youtube.com/watch?v=dcTDZRh46OM)** · xAI (channel)
   하나님의 평화와 자비와 축복이 여러분과 함께 하기를 바랍니다. 오늘 맹세컨대, 난 지금 간다. [음악] 탱크 문을 열게요 저는 지금 갑니다 제가 가서 이거, 이거, 이거, 이게 될 것 같네요. 맙소사, 그가 타고 있잖아 영적인 55 때문에 그 사람이 55의 속도로 가게 하세요 좋아요, 이제 영혼 저는 그곳에 갈 거예요 어디 보자 [음악] 거기 눈 모양 우리는 방송국을 일찌감치 비판하고 있습니다. 나는 간다 [음악] 이것, 이것 응 좋아요, 이제 차에 타겠습니다.
 
-## 2022-11 (총 5건)
+## 2022-11 (총 11건)
 
-### AX (1건)
+### AX (3건)
+
+- **[AI for Manufacturing | Full panel hosted by Scale AI | #ADMexpo 2022](https://www.youtube.com/watch?v=KN743U1UrNU)** · Scale AI (channel)
+  캐나다는 크루거와 함께 매우 흥미로운 프로젝트에 자금을 지원하고 있으며, NDA에서도 자금을 지원받았습니다. 마지막으로, 에바도 랩스의 잭 셸가코 씨가 이곳에서 많은 프로젝트를 진행하고 있습니다. 자, 여러분, 잠시 후 패널 토론이 시작될 예정입니다. 이 자리에서 패널들은 제조 분야 에 AI를 도입한 경험을 공유할 수 있는 좋은 기회가 될 것입니다. 글로벌 혁신 슈퍼클러스터, 인공지능, 활용 지능, 인공지능 사용 사례, 인공지능 프로젝트, 기업 등에 대한 이야기를 나눌 수 있을 것입니다. 제가 왼쪽부터 차례대로 말씀드리겠습니다.
+
+- **[Scale AI at ADM 2022 | Scale AI à ADM 2022](https://www.youtube.com/watch?v=ZqduERg3uJs)** · Scale AI (channel)
+  음악 제조 산업은 AI의 영향을 크게 받고 있습니다. 4년 전만 해도 상상조차 할 수 없었던 일들이 일어나고 있죠. 기업들은 수요 예측을 AI 도입의 첫 단계로 삼고 있는데, 이는 AI가 매출과 순이익에 미치는 영향을 쉽게 파악할 수 있기 때문입니다. 하지만 진정한 발전은 실제 프로세스 최적화, 개선, 그리고 제품 생산 자체에까지 확장되고 있습니다. AI는 기업의 수익성을 향상시키고 성장을 촉진할 수 있는 큰 잠재력을 가지고 있으며, 지금 바로 시작하지 않는 기업은 큰 불이익을 당할 것입니다
 
 - **[Telco Tech Talks: Modern technology's role in modern crises](https://www.youtube.com/watch?v=4rJPXX_M6Zo)** · Telenor (channel)
   안녕하세요 여러분, 저는 텔레노르 그룹의 사장 겸 CEO인 시바 리키입니다. 오늘 저희와 함께 최고 기술 책임자(CTO)이자 게스트인 케네스 씨를 모시고 이 자리에 함께하게 되어 기쁩니다. 텔레코 테크 토크 세 번째 에피소드에 오신 것을 환영합니다. 이 토크에서는 새로운 기술이 다양한 가치 사슬과 다양한 고객 유형에서 서비스 제공 방식에 어떤 새로운 의미를 갖는지 좀 더 심층적으로 살펴보려고 합니다. 오늘은 여러분을 놀라게 해드릴 만한 게스트를 모셨습니다. 바로 노르웨이 국방부에서 오신 케네스 씨입니다.
 
-### unclassified (4건)
+### unclassified (8건)
 
 - **[Spot for Academia & Research](https://www.youtube.com/watch?v=fekjf8FuGA0)** · Boston Dynamics (channel)
   [음악] 감사합니다 [음악] 외국 외국 [음악] 외국
+
+- **[AI @ C2 recap video | Retour sur IA @ C2](https://www.youtube.com/watch?v=zSmxUcCpHXA)** · Scale AI (channel)
+  [음악] 캐나다 AI 센터, 나아가 북미 AI 허브로 발돋움하고 있는 지금, 우리는 세계적인 AI 허브 중 하나가 되기 위해 나아가고 있습니다. 캐나다 퀘벡에서 AI를 통제하고 발전시키는 시스템을 구축했으며, 이 이야기를 공유하여 전 세계에 AI의 발전을 고취시키고자 합니다. 확실히 변화하고 있는 것 중 하나는 대형 제약 회사들이 생산하는 데이터에 대해 생각하는 방식입니다. 그들은 엄청난 양의 데이터를 보유하고 있지만, 안타깝게도 이 데이터는 회사 곳곳에 흩어져 있어 의미 있는 방식으로 통합되지 못하고 있습니다.
+
+- **[Annonce Scale AI | Scale AI Announcement - November 14, 2022](https://www.youtube.com/watch?v=uedRlkew-Z0)** · Scale AI (channel)
+  와주셔서 정말 감사합니다. 오늘날 그것은 정말로 ~와 함께 있습니다 우리가 이것으로 돌아갈 수 있다는 기쁨 2500만 달러 발표 달러스터 주로 인프라에 초점을 맞춥니다. 저희는 기계공학에 정말 관심이 많아요. 인류에게 지옥이 닥쳤으니, 안심하세요. 갈릴레오, 우리는 예측 모드로 전환할 겁니다. 완전히 통합하고 그중 하나를 내가 스스로에게 세운 임무들 갈릴레오의 전달 방식은 매우 오래되었습니다. 사슬에 있는 모든 배우들과 함께 물류 관련 정보를 최대한 공유하겠습니다.
+
+- **[Galileo - L'IA pour la planification de la main-d'oeuvre | AI for workforce planning](https://www.youtube.com/watch?v=jh_FIOOMItc)** · Scale AI (channel)
+  정보 분야의 새로운 프로젝트 인공은 프로젝트입니다 여러 통합 후 몬트리올 항만청과의 협의 프로젝트가 있다는 것을 이해했습니다. 양측의 인공지능 주로 다음 사항에 초점을 맞추었습니다. 도로 운송, 트럭, 그리고 거기에 그가 현재 진행 중인 프로젝트가 하나 있습니다. 철도 운송 연결 부족한 것은 인사 관리입니다. 그래서 갈릴레오 프로젝트, 즉 이 도구는... 우리가 미리 잘 예측할 수 있게 해 줄 것입니다. 배는 수작업으로 몬트리올에 도착합니다. 관련 비용을 예측하기 위해 적재 및 하역 주변 배를 타고 마지막으로 검증하겠습니다
 
 - **[5G powered drones for search and rescue operations in action](https://www.youtube.com/watch?v=DjEnJ0yzhIo)** · Telenor (channel)
   수색 및 구조 측면에서, 만약 제가 현장에 있다면 이런 도구를 갖게 되는 것만으로도 정말 기쁠 겁니다. 오늘날 이 기술의 가능성은 무궁무진합니다. 이 솔루션에서는 5G 파워 드론을 재난 현장에 투입합니다. 재난 현장의 영상은 배경 에 보이는 Wheel 네트워크로 전송됩니다. Wheel 네트워크 내부에서는 인공지능을 이용해 실시간으로 영상을 분석합니다. 내장된 영상 분석 시스템은 드론에서 전송되는 영상 스트림에서 사람, 차량, 개 등을 찾아냅니다. 이를 통해 수색 및 구조팀이 최대한 빨리 인명 구조가 필요한 사람을 찾을 수 있도록 돕고, 시간 과 생명을 구할 수 있습니다
 
 - **[The AI powerhouse of Norway: What companies can gain from partnering with the Norwegian Open AI Lab](https://www.youtube.com/watch?v=MEHdEjafCfw)** · Telenor (channel)
   노르웨이 오픈 AI 연구소는 AI 및 머신러닝 분야의 연구와 혁신을 위해 학계, 산업계, 정부 간의 협력을 촉진하는 플랫폼입니다. 저희 연구소에서는 연구 프로젝트를 수행하고, 학생들이 사례 연구를 발표하도록 초청하며, 스타트업 기업들이 연구 기반의 혁신을 이루도록 지원합니다. 또한 정부 관계자들을 초청하여 노르웨이가 AI 분야에서 경쟁력을 갖추기 위해 무엇을 할 수 있고 무엇을 해야 하는지에 대한 경험을 공유하고 설명합니다. 저희는 사업부에서 내부 연구를 통해 제시한 최종 문제를 가지고 연구소에 와서, 우수한 학생들과 협력하여 문제를 해결하고 상용화할 수 있는 창의적이고 혁신적인 솔루션을 개발합니다.
+
+- **[Highlights from our Geely event in Los Angeles](https://www.youtube.com/watch?v=OoKKMYZIwL0)** · Waymo (channel)
+  이 기술의 도입으로 저는 이동 중에 새로운 안식처를 만들 수 있는 가능성에 대해 생각하게 되었습니다. 이것이 바로 로스앤젤레스의 미래 통근 방식입니다. [음악] 로스 앤젤레스 사람들은 적극적 이고 다양하며 역동적이기 때문에, 이 기술을 그들에게 선보일 수 있게 되어 매우 기쁩니다. [음악] 세계 최고의 자율주행 기술 파트너인 웨이모와 협력하여 지능형 모빌리티를 한 단계 더 끌어올릴 수 있게 되어 매우 기대됩니다. 이 차량은 내외부 모두 새롭게 설계되었으며, 단순한 자동차가 아닌 라이프스타일 캡슐이라고 할 수 있습니다
 
 - **[Code to Road: How Zoox Autonomous Vehicles 'Perceive' Their Surroundings](https://www.youtube.com/watch?v=5E2NYmgvo3E)** · Zoox (channel)
   [음악] 저는 Zukes의 인지 부문 책임자입니다. 자율주행 차량이 주변 상황을 어떻게 보고 이해하는지 궁금해하신 적이 있으신가요? 오늘 여러분과 함께 그 궁금증을 풀어보려고 합니다. 인간 운전자처럼 자율주행 차량도 주변 환경을 인지해야 안전하게 주행할 수 있습니다. 사람이 주로 눈에 의존하는 것과 달리, Zukes의 로보 택시는 차량 곳곳에 전략적으로 배치된 최첨단 센서들을 활용합니다. 각 센서는 상호 보완적인 역할을 하며, 이러한 조합을 통해 모든 차량은 주변 상황에 대한 가장 정확한 정보를 얻을 수 있습니다.

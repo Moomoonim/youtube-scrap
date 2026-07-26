@@ -1,0 +1,13 @@
+# Your multitasking sidekick: MB Drive Assist Pro | Tech Explained
+
+- 영상 링크: https://www.youtube.com/watch?v=hKVEREcurgQ
+- 채널: Mercedes-Benz
+- 업로드일: 2025-11-06
+- 자막 언어: en
+- 단어 수: 약 460개
+
+---
+
+## 스크립트
+
+The world's a really busy place. We're constantly being bombarded with information from all angles. But wouldn't it be great if the thinking could be done for you? I'm Rob. I'm your tech explainer. And this is Tech Explained. And I found the answer, the beautiful new CLA. This car has so-called level two plus plus assisted driving. It's urban assisted driving under supervision. It means it takes care of the strain and the traffic and the hassle and the hustle and bustle. And I'm the supervisor. How does it do it? Loads of sensors and cameras. Let me show you them. There's a camera here. There are two cameras here. Here's a radar. Here's a radar. Two more cameras. There are two cameras here. There's another camera here. Radar here. A camera and a mid-range radar here. And radar here. And it's all powered by this, the NBOS super brain. It's so powerful it has to be liquid cooled. And this baby can calculate 254 trillion things a second. So if I was to drive this CLA until the battery run out, the car would have calculated more things than there are grains of sand on every beach on planet Earth. But enough talking, let's start driving. Well, the car will drive. I'll just supervise. I put a destination into the navigation, press res, and the CLA has taken over. It's doing all the work and I'm supervising. Now, the Mercedes-Benz difference is that I have cooperative steering here. It means that if I want to move across a lane, I can do so without disconnecting the system. It doesn't switch it off. The CLA can take all of that into account. Let's give it a try. So I'm going to turn around here, take this lane, I'm putting some input into the steering. And now I'm not. And the CLA is continuing on level two plus plus as if nothing happened. It's amazing. So here we go. We're going through some road works and the CLA is navigating them absolutely perfectly. I can feel the wheel moving in my hand. My feet are nowhere near any of the pedals. The indicator's just come on. And the car is maneuvering through this complex situation very easily. It's using standard definition maps as well. Google Maps in this case, A map in China. It doesn't need high definition mapping system. So we've been driving around or the CLA's been driving around for about an hour now and I've not had a single problem. It's really amazing technology. Now the journey's over and I have to think for myself again. Uh what's my line? Oh, yeah. Please like and subscribe and I'll see you again for another Tech Explained very soon.
