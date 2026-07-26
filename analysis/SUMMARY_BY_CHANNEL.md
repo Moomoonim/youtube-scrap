@@ -1,8 +1,8 @@
 # 채널/출처별 수집 요약
 
-총 3836건 · 189개 채널/출처
+총 3865건 · 190개 채널/출처
 
-## LG AI Research (96건)
+## LG AI Research (100건)
 
 - **[On site of ICML 2026](https://www.youtube.com/watch?v=B2p4_0YW_pw)** — 2026-07-16 · ko · `unclassified`
   [음악] LG AI 연구원의 엑사1원 디스커버리 과하게 투화된 파운데이션 모델을 활용해서 [음악] AI 데이터 센터용 액냉강에 활용될 수 있는 소재를 개발하였습니다. [음악] 현재 엘 런던 증권 거래소 그룹과 함께 파트너십을 맺어 총 7,500개 주식에 대해서 4주 후에 가격과 그에 대한 예측과 설명을 같이 제공하는 상품을 서비스하고 있습니다. [음악] [음악] AI 탱크 저희 비전으로 생각하고 있습니다. LG AI에서는 히 기업 쪽에서 AI라던가 현장 산업에서 어떻게 쓸 수 있는지 쪽으로 훨씬 납고 있지 않나요?
@@ -286,11 +286,289 @@
 - **[AI in Chemical Science - Prof. Yousung Jung (정유성)](https://www.youtube.com/watch?v=Qn_u9Rl0EL0)** — 2020-12-07 · ko · `unclassified`
   [음악] 아 안녕하세요 어 으 ldi 아 연구원 ai 토크콘서트 참여하게 된 카이스트 생명화학공학과 정성이라고 합니다 제가 오늘 말씀드릴 내용은 어 화학에서 ai 아 좀 더 구체적으로는 ai 를 이용한 분자나 소우 죄의 설계하고 개발하는 내용에 대한 내용을 어제 말씀드리도록 하겠습니다
 
+- **[Data Intelligence Lab - Woohyung Lim (임우형)](https://www.youtube.com/watch?v=4oLL1W5MxFc)** — 2020-12-07 · ko · `AT`
+  안녕하세요 lg ai 연구한 데이터 인텔리전스 데브리 더 임무 형입니다 오늘은 lga 아 연구한 출범에 맞춰 저희 레비 하고 있는데 그리고 추구하는 연구 방향에 대해 소개해드리려고 합니다 말씀드릴 내용은 다음과 같습니다 먼저 저희 레벨 미션과 비전을 설명드리고 진행하고 있는 연구 분야를 말씀드리고 관련된 과제 들도 함께 말씀드리도록 하겠습니다 현재 주목받고 있는 인공지능은 음성인식 영상인식 언어이해 가상 비서 자율주행 과 같은 것들이 있습니다
+
+- **[From Learning Complex BehaviorsTo Learning Algorithms - Junhyuk Oh (오준혁)](https://www.youtube.com/watch?v=UbeP3NGr_do)** — 2020-12-07 · ko · `unclassified`
+  [음악] 안녕하세요 저는 김 마인드 용 고 노인은 5 준형 합니다 오늘은 간단하게 제가 최근에 2년 동안 김 마인드에서 해온 정보들을 소개시켜 드리려고 합니다 제일 연구를 소개시켜 드리기 전에 간단하게 강화 학습 문제에 대해서 설명해드리자면 강 학습 문제에서는 이렇게 어떤 행동을 하면 리전트 앓고 환경이 있습니다
+
 - **[LG AI, Human, and Business - Hwayoung Lee (이화영)](https://www.youtube.com/watch?v=Z2MUjGuTRyE)** — 2020-12-07 · ko · `unclassified`
   [음악] 으 으 안녕하세요 lg 에 이어 연구원의 사업개발 담당 이화영 입니다 금일 lg ai 흄은 mp 진씨 란 주제로 lg ai 의 사업 방향과 목적 에 대해서 설명드리도록 하겠습니다 아시는 바처럼 lg 는 일렉트로닉스 캐미 커 카메라 케이스 3 n 써비스 에서 세 가지 사업 포트폴리오 에서 굉장히 안정적인 사업 을 추구하고 있습니다
 
 - **[LG AI연구원 온라인 출범식](https://www.youtube.com/watch?v=8HY21kUXxZs)** — 2020-12-07 · ko · `AX`
   안녕하십니까 번은 오늘 ngai 연구원 오늘 출범 행사의 사회를 맡은 lg 그룹 아나운서 정서현 입니다 반갑습니다 오늘 이 자리는 lg 가 국내 ai 생태계 전체의 이바지한 과 더불어 그룹 차원에서 ai 인재 확보 및 역량을 강화하고자 새로이 출범하는 lg ai 의 연구원의 시작을 알리기 위해서 마련됐습니다 엄 택트 시대를 맞아 이번 출범 행사는 자체 유튜브 채널을 통해 서운 나인 행사로 진행하게 됐습니다
+
+- **[Language Lab - Jungkyu Choi (최정규)](https://www.youtube.com/watch?v=2DDGG2X_Zt8)** — 2020-12-07 · ko · `AX`
+  안녕하세요 lg ai 연구원 맹기 지 랩 피더 최정규 입니다 아 저는 lg 전자에서 22년간 자 이 너 처리와 음성 에이전트 분야에서 몸담고 있다가 이번에 좋은 기회로 lga 아 연구원의 합류 하였습니다 그동안 필드에서 겪은 지식과 경험을 바탕으로 a 아 연구원이 랭귀지 분야에서 한 획을 긋는 데 이바지 했으면 합니다 오늘 발표에서는 맹지 뎁 의 미션과 비전 그리고 현재 기술 트렌드 다음으로 연구분야 순서로 말씀드리겠습니다
+
+- **[Vision Lab - Seunghwan Kim (김승환)](https://www.youtube.com/watch?v=zfceku84tYY)** — 2020-12-07 · ko · `unclassified`
+  있답니다 으 으 안녕하세요 lga 아 연구원 비전 램 리더 김수환 입니다 오늘은 저희 레비 추구하고자 하는 연구 방향에 대해 말씀드리고자 합니다 컴퓨터 비전 기술은 ai 분야 중에서도 가장 다양한 분야에 활용되고 있습니다 cctv 비디오 언어 lex 를 통한 시큐리티 n 써 밸런스 제조공정에서 의 비전 인스펙션 의료 영상의 암 종양 진단 지문 홍채 대정맥 등 생체 인증 자율주행 까지 적용 범위가 점점 확대되고 있습니다
+
+## Google Developers (88건)
+
+- **[How are large language models trained?](https://www.youtube.com/watch?v=JRArFxEfyQU)** — 2026-07-22 · ko · `AX`
+  대규모 언어 모델은 방대한 양의 텍스트로 학습된다거나, 대규모 언어 모델은 시퀀스에서 다음 토큰을 예측한다는 말을 들어보셨을 겁니다 . 하지만 그 모든 것이 실제로 무엇을 의미하는 걸까요? 대규모 언어 모델은 실제로 어떻게 훈련되었을까요? 이 영상에서는 유용한 비서처럼 행동하고, 지시를 따르고, 도구를 사용하며, 전반적으로 적절한 분위기를 풍기며 반응하는 대규모 언어 모델을 훈련하는 단계를 살펴보겠습니다. 첫 번째 단계는 사전 훈련입니다. 이 단계에서 모델은 다음 토큰 예측이라는 작업을 통해 학습됩니다.
+
+- **[Antigravity Arcade: From prompt to game in minutes](https://www.youtube.com/watch?v=8I7wr2hYFec)** — 2026-07-17 · ko · `AX`
+  안녕하세요, 저는 톰 그린어웨이이고 구글 개발자 관계팀 소속입니다 . 오늘 저는 동료 제임스 오라일리와 함께 구글 I/O를 위해 개발한 프로젝트인 안티그래비티 아케이드(Anti-Gravity Arcade)를 소개하겠습니다. 이 프로젝트를 통해 기존 개발자든 아니든 누구나 안티그래비티가 설치된 노트북과 다양한 AI 기술 및 워크플로를 활용하여 게임 아이디어만 있으면 몇 분 안에 AI가 게임을 완전히 생성하고 아케이드 기기에서 실행할 수 있습니다. 저희는 Anti-Gravity, Gemini, Cloud Run, Firestore 및 Firebase 인증을 포함한 다양한 Google 기술을 사용하여 이 워크플로 및 배포 흐름을 구축했습니다
+
+- **[Get started with the Interactions API](https://www.youtube.com/watch?v=iOK1-b_9Dlg)** — 2026-07-17 · ko · `AX`
+  Interactions API가 이제 정식으로 출시되었습니다. 이것은 모든 제미니 모델과 에이전트를 위한 통합 인터페이스이기 때문에 매우 흥미롭습니다. 단일 API를 통해 쉽게 액세스할 수 있습니다. 그리고 이건 정말 강력한 기능입니다. 왜냐하면 보시다시피, 모델과 상호작용을 만들어낼 수 있기 때문입니다. 그래서 이것은 동기식으로 진행될 것입니다. 음, 전화를 걸면, 아시다시피, 답변을 받을 수 있을 거예요. 또는, 예를 들어 원격 환경에서 반중력 에이전트가 정말 어려운 작업을 수행하도록 할 수도 있습니다. 여러 단계가 필요하고, 설치 설정 같은 것도 해야 하잖아요.
+
+- **[Build With AI 2026 Recap](https://www.youtube.com/watch?v=yGHi5V4sVkc)** — 2026-07-10 · ko · `unclassified`
+  가장 흥미로운 점은 사람들이 앞으로 어떤 프로젝트들을 만들어낼지 지켜보는 것입니다 . 저희는 기술 애호가들(음악 분야)이 구글 도구를 사용하는 방법을 배울 수 있도록 정기적으로 이벤트를 개최하고 있습니다 . 그들이 제공하는 모든 제품을 마음껏 사용해보고, 인공지능도 활용해 보세요. 이것은 실제로 모든 분야의 개발자를 위한 AI 기반 도구입니다. 그러한 행사에 참석하는 음악 관련 사람들의 대부분은 개발자나 엔지니어입니다. 저는 이미 AI 교육 과정에 등록했어요 . 인공지능 에이전트는 우리 미래의 중요한 부분을 차지하게 될 것입니다.
+
+- **[Building an Android app in AI Studio](https://www.youtube.com/watch?v=KwJwYIqDMLY)** — 2026-07-07 · ko · `AX`
+  안녕하세요 여러분, 이번 튜토리얼에서는 안드로이드 앱을 만들고 휴대폰에 설치하는 방법을 보여드리겠습니다. 이 예시에서는 개인 맞춤형 할 일 목록 및 운동 추적 앱을 만들어 보겠습니다. 이 작업을 수행하는 데에는 기술적인 지식이나 안드로이드 관련 지식이 전혀 필요하지 않습니다. 간단한 프롬프트로 앱에 접근할 수 있습니다. 이를 위해 ai.studio로 이동한 다음 빌드 탭으로 이동하고 여기에서 Android 앱을 빌드할 칩을 선택한 다음 빌드할 내용을 설명할 수 있습니다 . 그럼 제가 예시 하나를 여기에 복사해 놓겠습니다.
+
+- **[Build agents with Gemini API (I/O Connect ‘26)](https://www.youtube.com/watch?v=d9LAQWKUnx8)** — 2026-07-06 · ko · `AX`
+  [음악] 제 이름은 마리아노입니다. 저는 구글 딥마인드에서 제품 관리자로 일하고 있습니다. 저는 주로 Gemini API의 에이전트 기능 관련 업무를 담당합니다 . 오늘은 Gemini API를 사용하여 에이전트를 구축해 보겠습니다. 하지만 그 전에 , 우리가 여기까지 오게 된 배경을 간략하게 살펴보고 싶습니다. 좋아요. 2024년 이후로 우리가 얼마나 많은 제품을 출하했는지 잠시 생각해 보고 싶습니다. 제미니 1.5로 시작해서 여러 모델을 거쳐왔고, 제미니 2.5처럼 많은 사랑을 받은 모델도 있었고 , 이제 마침내 제미니 3.
+
+- **[Build creative apps with the GenMedia suite (I/O Connect ‘26)](https://www.youtube.com/watch?v=nRLZqaNOrwQ)** — 2026-07-06 · ko · `AX`
+  [음악] 저는 기욤입니다. 저는 구글 딥마인드의 제미니 팀 소속으로 , 저희가 출시하는 모든 모델을 여러분이 필요로 하는 모든 것을 활용할 수 있도록 지원하는 일을 맡고 있습니다 . 특히 저는 오늘 우리가 이야기할 제미니 모델들을 전문적으로 담당하고 있습니다. 음, 그리고 보시다시피, 저는 예전에 비디오 게임 프로듀서로도 일했었습니다. 음, 그렇다면 우리가 왜 쌍둥이자리에 대해 이야기하고 싶어하는 걸까요 ? 하지만 우리 주변의 모든 것이 쌍둥이자리이기 때문이죠. 몇 년 전만 해도 LLM 과정은 정말 훌륭했죠.
+
+- **[Create agent skills for on-device generative AI (I/O Connect ‘26)](https://www.youtube.com/watch?v=KIp8PAU3oAI)** — 2026-07-06 · ko · `AX`
+  [음악] 안녕하세요 여러분. 저는 구글 AI 엣지 팀 에서 개발자 관계 엔지니어로 일하는 마리암 월시입니다 . 그리고 저와 함께 발표를 맡아주신 분은 레자 헤다야티 씨입니다. 안녕하세요. 경량 TLM 개발에 참여하는 소프트웨어 엔지니어입니다 . 오늘은 기기 내 생성형 AI를 위한 에이전트 스킬을 직접 만드는 방법을 알려드리겠습니다 . 자, 여기 계신 분들 중에 클라우드 환경에서 모델을 실행해 본 경험이 있는 분이 몇 분이나 되시나요? 누구나? 시원한. 음, 기기에서 모델을 실행해 본 사람이 몇 명이나 될까요 ?
+
+- **[Dynamic Callbacks on Android for Google Pay](https://www.youtube.com/watch?v=WZvd1tUreTY)** — 2026-07-06 · ko · `unclassified`
+  안녕하세요, 구글 페이 개발자 여러분. 이벤트 기반 배송 업데이트는 웹용 Google Pay의 표준 기능이었지만 , 이제 모바일에서도 동일한 기능을 제공합니다 . 이 영상에서는 안드로이드 앱이 배송 및 주소 변경 사항에 실시간으로 반응할 수 있도록 새로운 동적 콜백을 구현하는 방법을 보여드리겠습니다 . Play Services Wallet 20.0.0 버전 출시로 이제 Android 애플리케이션에서 결제 데이터 변경 및 결제 승인 콜백을 기본적으로 구현할 수 있습니다 .
+
+- **[Sameer Samat on Android 17 and the Future of Intelligent Computing](https://www.youtube.com/watch?v=YvVsdZL2ogY)** — 2026-06-30 · ko · `AX`
+  저는 음악이 틀을 벗어던지길 바랄 뿐입니다. 솔직히 말해서, 다시는 서류 작성을 하고 싶지 않아요 . 여름휴가를 위해 항공편을 여러 개 예약했는데, 15살짜리 딸아이 여권 번호를 외워버렸어요. 하지만 그걸 외우고 싶진 않거든요. 저는 제 집이 없어요. 응. 음, 제가 너무 여러 번 시도하다 보니, 마치 제정신이 아닌 것 같아요 . 그래서 슈퍼필은 우리 모두가 이름, 주소, 신용카드 정보 등을 자동 완성하는 데 익숙해진 기능과 같습니다. [음악] 슈퍼필은 그것을 훨씬 더 많은 분야로 확장한 것입니다
+
+- **[Gemma 4 in Action: Bringing Frontier AI to the Edge](https://www.youtube.com/watch?v=HcwMTu1xQDw)** — 2026-06-29 · ko · `unclassified`
+  오늘날 가장 강력한 AI 모델들은 모두 한 가지, 즉 인터넷 연결에 의존합니다 . 이는 전 세계 수십억 명의 사람들이 사실상 배제된다는 것을 의미합니다. 그래서 젬마는 [음악을 통해] 새로운 질문을 던지기 위해 태어났습니다 . 최첨단 지능이 어디서든 어떤 기기에서든 작동할 수 있게 되면 세상은 어떻게 변할까요? 젬마는 오픈 모델입니다. 이 단체는 인공지능을 최대한 많은 사람들이 이용할 수 있도록 하기 위해 존재합니다 . 이 소프트웨어는 오늘날 사람들이 사용하는 다양한 기기에 배포하기에 적합한 크기를 제공함으로써 이를 가능하게 합니다.
+
+- **[AI tools for human creativity](https://www.youtube.com/watch?v=cL7uFe5RqHY)** — 2026-06-26 · ko · `AX`
+  지금은 인간이 가장 창의적이어야 하는 시대입니다. [음악] 토토, 왠지 우리가 더 이상 캔자스에 있는 것 같지 않아 . [소리 지르며] 그렇지? [음악] 네. 내가 가진 건 뭐지? [음악] 좋아요. [음악] 안녕하세요 여러분. 안녕하세요 여러분, 인간의 창의성을 위한 AI 도구에 오신 것을 환영합니다 . 저희와 함께해 주셔서 정말 기쁩니다 . IO에서 처음으로 열리는 빌더 스테이지에 오신 것을 환영합니다. [환호] [박수] 제 이름은 매튜 캐리입니다. 저는 알렉스입니다. 저희는 구글 크리에이티브 랩이라는 팀 소속입니다
+
+- **[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)** — 2026-06-26 · ko · `unclassified`
+  지금 바로 그렇게 하도록 선택하세요. 늘 그렇듯이. [음악] 젬마의 또 다른 활용 분야는 로봇 공학이나 사물 인터넷 기기 같은 것들입니다. 따라서 노트북이나 데스크톱 같은 하드웨어 뿐만 아니라 라즈베리 파이, 젯슨, 오린 나노 같은 기기에서도 모델을 실행할 수 있습니다. 그리고 이 모델들은 로봇이 그러하듯이 음악이라는 세계와 상호작용할 수 있습니다 . 그래서 그들은 보고 들을 수 있고, 당신을 대신해서 행동할 수 있습니다 . 여기 있는 것은 Hugging Face와 Pollen Robotics가 만든 Reachy Mini입니다
+
+- **[Gemini 3.5 Live Translate, Gemini in Xcode, and more! - Google Developer News June 2026](https://www.youtube.com/watch?v=UlbokBsjMRY)** — 2026-06-25 · ko · `AX`
+  -개발자 뉴스 최신화입니다 오늘 소식은 Gemini 3.5 Live Translate AI Edge 기반 Gemma 4 12B와 Xcode에 통합된 Gemini 관련 내용입니다 저는 진행자 Anaya Mehta입니다 Google I/O에서 전해드린 Google 개발자 발표 내용을 꾸준히 챙겨 보셨기를 바랍니다 아니더라도 오늘 알려드릴게요 지금 시작합니다 GOOGLE 개발자 뉴스 먼저 Gemini 3.5 Live Translate 소식입니다 Google에서 Gemini 3.5 Live Translate이라는 새로운 S2S 모델을 출시했습니다 70여 개 언어를 준실시간으로 통역할 수 있습니다
+
+- **[Gemma Playground: Parallel Agents in Action](https://www.youtube.com/watch?v=bfvS1UeAkN0)** — 2026-06-22 · ko · `AX`
+  Gemma 4의 강력한 멀티 에이전트 기능을 시연하는 자리에 오신 것을 환영합니다. 오늘은 Gemma 4 26B 모델을 사용하여 로컬에서 실행되는 병렬 에이전트 데모 [음악]를 살펴보겠습니다 . 먼저 시스템에 간단한 상위 수준 명령을 입력합니다. 우주 또는 SF 테마를 기반으로 독창적인 SVG 파일을 생성하세요 . [음악] 즉시, 오케스트레이터 에이전트가 이 프롬프트를 받아 작업량을 위임합니다. 오케스트레이터는 이러한 이미지를 하나씩 생성하는 대신 10개의 독립적인 하위 에이전트를 생성합니다.
+
+- **[Gemma 4 and the AI Edge Gallery: On-Device AI Gets an Upgrade](https://www.youtube.com/watch?v=O6499i4TFYA)** — 2026-06-18 · ko · `unclassified`
+  여러분, 제 이름은 올리비에입니다. 저는 Gemma 제품 리더이며, 오늘은 Gemma와 AI 엣지 갤러리 구현에 대해 이야기해 보겠습니다. 안녕하세요, 저는 거스입니다. 저는 한동안 젬마 팀에서 일했어요 . 저는 이 제품을 정말 좋아하고, 젬마에 대해 조금 이야기할 수 있게 되어 매우 기쁩니다. 안녕하세요, 저는 앨리스입니다. 저는 Google AI Edge의 제품 관리자입니다. 오늘 이 자리에 함께하게 되어 기쁩니다. 너무 멋지다. 자, 그럼 AI 엣지에 대해 좀 더 구체적으로 이야기하기 전에, Gemma 4 에서 무엇을 출시했는지 간단히 되짚어보는 시간을 갖는 건 어떨까요 ?
+
+- **[Gemma Playground: AI Edge Gallery](https://www.youtube.com/watch?v=XkwQwBZ_Q8w)** — 2026-06-18 · ko · `AX`
+  대부분의 사람들은 젬마 모델이 노트북, 데스크톱 등 다양한 기기에서 작동할 수 있다는 것을 알고 있습니다. 하지만 휴대폰에서도 작동한다는 사실은 잘 모르는 사람들이 많습니다. 저는 지금 픽셀 10 프로를 사용하고 있고, 구글 AI 엣지 갤러리 앱을 실행 중입니다. 그리고 제가 여러분께 보여드릴 것은 Gemma를 사용하여 사진을 찍고, 세상을 이해하고, 오디오를 녹음하고, 음악 에이전트 와 에이전트 스킬을 사용하는 방법입니다. 이 모든 기능은 이 기기에서 로컬로 실행됩니다 .
+
+- **[Run Gemma on the edge with the Coral Board](https://www.youtube.com/watch?v=o2rUT2GloV0)** — 2026-06-15 · en · `unclassified`
+  This is CoralBoard, built for on-device AI with Google's Coral MPU machine learning accelerator inside. Small, [music] low power, and built for developers to experiment with on embedded devices. And it runs Gemma. Everything happens on the board. &gt;&gt; [music] &gt;&gt; So, we packaged it into a kit for IO, a screen, a camera, microphones, LED, everything you need to see what's possible on the edge.
+
+- **[AIventure: Vibe Coding Journey](https://www.youtube.com/watch?v=xQcbwGS6Ahc)** — 2026-06-12 · en · `AX`
+  - Want to learn how to build agentic workflows and integrate vibe coding into your apps? Well we built AIventure, an open source retro dungeon crawler that doubles as a Gen AI masterclass for developers. Built on an Angular and Phaser.js stack, AIventure is powered by Google's Gemma 4 open weights model. First, we'll explore vibe coding. You prompt a Chicken NPC to build a web app.
+
+- **[Yossi Matias on the golden age of research](https://www.youtube.com/watch?v=FPBwadTeph0)** — 2026-06-11 · ko · `AX`
+  미래에 가장 중요한 음악적 기술은 무엇일까요? 기초를 어느 정도까지 배워야 하는지에 대해서는 논쟁의 여지가 있습니다. 개인적으로는 음악을 코딩하는 방법이나 기초 컴퓨터 과학 등을 생각하는 것이 그 어느 때보다 중요해질 것이라고 생각합니다. 동의합니다. 제 말은, 저는 컴퓨터 과학은 언어를 배우는 게 아니라고 항상 생각해 왔다는 거예요. [음악] 생각하는 법을 배우는 거예요. 네. 그래서 어떤 의미에서는 계산기가 보편화된 이후에도 수학이 중요한 이유와 마찬가지로, 앞으로는 그 어느 때보다 더 중요해질 것입니다. 안녕하세요 여러분, 잘 지내시나요?
+
+- **[Gemma Playground: Robot Duck](https://www.youtube.com/watch?v=pLwB_63yUBY)** — 2026-06-09 · ko · `unclassified`
+  저는 오텀이라는 이름의 작고 두 발로 걷는 로봇 오리입니다. 오늘 저는 Gemma 4가 기기에서 무엇을 할 수 있는지 보여주기 위해 이 두 마리의 작은 [음악] 오리를 여러분께 소개하게 되어 매우 기쁩니다 . 이것들은 GitHub의 Antoine Piron이 만든 오픈형 미니 오리 버전 2입니다 . 그리고 그 아이디어는 Gemma 4의 성능을 활용하여 기기 내에서 추론을 수행하고 오리들을 더 똑똑하게 만드는 것이었습니다.
+
+- **[Introducing Gemini 3.5 Live Translate](https://www.youtube.com/watch?v=TNwKs39uSVk)** — 2026-06-09 · ko · `unclassified`
+  안녕하세요 여러분, 오늘은 끊김 없는 음성 대 음성 번역을 위해 개발된 최신 모델인 Gemini 3.5 Live Translate를 출시하게 되어 매우 기쁩니다 . 이미 구글 번역에서 다양한 기능을 제공하고 있지만 , 이제 API를 통해 개발자들이 직접 이 기능을 사용할 수 있도록 제공합니다 . 오늘부터 70개 이상의 지원 언어에 걸쳐 입력과 출력 모두에 실시간 번역 기능을 통합할 수 있습니다 . 두 가지 데모를 통해 이 제품의 기능을 보여드리겠습니다.
+
+- **[Managed Agents in the Gemini API](https://www.youtube.com/watch?v=Psa8mLikdag)** — 2026-06-03 · ko · `AX`
+  오늘은 Gemini API의 관리형 에이전트에 대해 이야기해 보겠습니다 . 알리와 필립 둘 다 그 일에 참여했습니다. 알리, 제미니 API의 관리형 에이전트 관련 소식부터 간단히 소개해 주시겠어요? 네, 당연하죠. 간단히 말해서, API 호출 한 번으로 사용자를 대신하여 문제를 창의적으로 해결할 수 있는 자율 에이전트를 얻을 수 있습니다. 이것의 흥미로운 점 중 하나는 샌드박스 형태의 리눅스 환경과 유사한 원격 환경에서 작동한다는 것입니다. 따라서 문제를 해결하기 위한 코드를 작성하거나, bash 명령어를 사용하는 등 온갖 종류의 작업을 수행할 수 있습니다
+
+- **[Getting Started with Managed Agents](https://www.youtube.com/watch?v=0YXe7u-i1qU)** — 2026-06-02 · ko · `AX`
+  안녕하세요 여러분, 저는 Gemini API 팀의 패트릭입니다. 이번 튜토리얼에서는 Gemini API와 AI Studio를 사용하여 관리형 에이전트를 구축하는 방법에 대한 개요와 빠른 시작 방법을 알려드리겠습니다. 이는 사용자가 맞춤형 에이전트를 쉽게 구축할 수 있도록 하는 새로운 기능입니다. 이러한 에이전트는 Google 에서 호스팅하는 안전한 Linux 샌드박스에서 실행되며, 추론하고 코드를 작성하고 시스템 파일에 코드를 저장하고 파일을 관리할 수 있습니다. 또한 웹을 탐색할 수 있으며, 사용자는 이러한 에이전트를 쉽게 맞춤 설정할 수 있습니다.
+
+- **[Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)** — 2026-06-01 · ko · `unclassified`
+  [음악] 안녕하세요 여러분. 제 이름은 토르입니다. 저는 Gemini API와 Google AI Studio를 활용하여 작업합니다. 오늘 이렇게 함께해 주셔서 정말 기쁩니다. 저희는 이러한 실시간 대화형 인터뷰 파트너를 구축하고자 합니다. 음, 저희는 여기서 저희 애플리케이션에 포함시키고 싶은 기능들을 간단히 선택할 수 있습니다. 비디오 인식, 오디오 텍스트 변환, 음성 생성 등 다양한 기능들이 있습니다. 그래서 우리가 할 수 있는 일은 아주 많습니다. 저희는 실시간 대화형 에이전트를 구축하고자 합니다.
+
+- **[Gemini co-leads on project origins and what's next](https://www.youtube.com/watch?v=8hfpLa5wPGo)** — 2026-05-29 · ko · `AX`
+  제미니 프로젝트를 시작하기 전부터 많은 사람들이 다양한 용도로 활용할 수 있는 범용 모델을 만드는 것에 대해 생각하고 있었습니다 . 오리엘은 딥마인드에서 몇 가지 노력을 주도하고 있었고, 저는 패스웨이 프로젝트와 팜, 팜 2 등과 관련된 몇 가지 노력을 이끌어가는 데 도움을 주고 있었습니다. 사실 전 이게 어리석은 짓이라고 말했어요. 우리는 노력과 컴퓨팅 자원을 분산시키고 있는데, 정말 강력한 모델을 구축하려면 모두가 함께 모여 단일 모델 구축에 힘써야 합니다 . 사실 쌍둥이자리라는 이름은 거기서 유래했어요.
+
+- **[Developer Keynote (Google I/O '26) - Audio Described](https://www.youtube.com/watch?v=eC7t22gDwWo)** — 2026-05-26 · ko · `AX`
+  캘리포니아주 마운틴뷰의 무대에서 조쉬 우드워드가 걸어 나오자 인공지능이 생성한 연사 이름 카드에 [음악] 조쉬가 펼쳐진 책 속에서 농구 코트를 가로질러 조깅하는 애니메이션 이미지가 나타납니다 . 네, 개발자 여러분, 다시 오신 것을 환영합니다. 다들 잘 지내시나요? [환호] 좋아요, 다시 만나서 정말 반갑고, 우리가 불과 1년 전에 어디에 있었는지 생각해보니 정말 신기하네요. 오늘 아침, 여러분은 제미니 전역에서 이루어진 발전에 대한 모든 소식을 들었습니다. 저희는 새로운 Omni 모델과 새로운 Gemini 3.
+
+- **[What's new in Google AI](https://www.youtube.com/watch?v=SSe1VmVrtw0)** — 2026-05-23 · ko · `AX`
+  [음악] 놀랍네요. 모두 환영합니다. Google IO에 오신 것을 환영합니다. 구글 AI의 새로운 소식을 전해드립니다. 기조연설 후 이어지는 첫 번째 세션에 오신 것을 환영합니다 . 다들 정말 신나시나요? 응. 우와! 놀라운. 오늘 이렇게 동료 아마르와 함께 이 자리에 설 수 있게 되어 정말 기쁩니다. 제 이름은 페이지입니다. 저는 구글 딥마인드에서 개발자 관계팀의 엔지니어 리더를 맡고 있습니다 . 그리고 저는 Amar I에서 AI 스튜디오의 제품 및 디자인을 총괄하고 있습니다. 정말 멋지네요.
+
+- **[Bring the power of on-device AI to life with Google AI Edge and Gemma](https://www.youtube.com/watch?v=boy-UjB8hpA)** — 2026-05-22 · ko · `AX`
+  [음악] 안녕하세요 여러분. 저는 사친 코타리이고, 구글 AI 엣지 팀의 그룹 제품 관리자입니다 . 오늘 저와 함께 발표를 해주실 분은 팀 의 개발자 관계 엔지니어인 아론 월시입니다 . 오늘은 모바일, 데스크톱, IoT 등 모든 엣지 환경에서 온디바이스 AI를 구현할 수 있는 구글의 도구 모음에 대해 이야기해 보겠습니다 . 2026년은 기기 내장형 AI에 있어 특별한 시기입니다. 가능성과 앞으로 다가올 일들에 대한 짜릿한 에너지와 열정이 느껴집니다.
+
+- **[Google I/O 2026 Recap with Logan Kilpatrick, Josh Woodward and Tulsee Doshi](https://www.youtube.com/watch?v=RsDSeMXaCak)** — 2026-05-22 · ko · `unclassified`
+  릴리스 노트에 다시 오신 것을 환영합니다. 제 이름은 로건 킬패트릭입니다. 저는 구글 딥마인드 팀 소속입니다. 오늘은 환상의 콤비, 조쉬와 툴시가 함께합니다. 우리가 돌아왔습니다. 어쩌면 우리가 바로 환상의 트리오일지도 몰라. 좋아요. 구글 I/O 2026 현장에 다시 왔습니다. 어제 정말 많은 발표와 재미있는 신제품 출시, 모델 공개, 제품 출시 등 온갖 일들이 있었네요 . 모델에 대해 먼저 이야기해보고, 그 다음에 제품에 대해 이야기해 보는 건 어떨까요? 좋네요. 재밌겠네요. 응. 그럼 우리를 쫓아내고 싶다는 건가요?
+
+- **[The future of software development](https://www.youtube.com/watch?v=v0RQiNJ9nhw)** — 2026-05-22 · ko · `AX`
+  저는 이번 대화를 통해 여러 업데이트 사항에 대해 이야기하고 구글의 다양한 부서 담당자들의 의견을 들어볼 수 있기를 기대했습니다. 토시, 툴시 도시는 딥마인드 내 모델 팀을 이끌고 있으며, 이 모든 모델을 출시하는 데 공모자입니다 . 음, 마이클은 이전에 Vert.ex AI 팀으로 알려졌던 Gemini Enterprise 에이전트 플랫폼을 이끌고 있습니다. 어, 그리고 그는 전반적인 기업 고객들에게 모델을 제공하는 데 정말 집중하고 있습니다. 음, 그리고 베루인이 반중력 팀을 이끌고 있습니다.
+
+- **[What's new in the Gemma open model family](https://www.youtube.com/watch?v=oUtiZbrehrw)** — 2026-05-22 · ko · `AX`
+  [음악] 여러분, 제미니 오픈 모델 제품군의 새로운 소식을 전해드립니다. 제 이름은 올리비에이고, 제미니의 제품 리더입니다. 오늘 저와 함께 저희 팀의 제품 매니저인 거스와 개발자 관계 엔지니어인 얀 발렌타인이 참석할 예정입니다 . 그렇다면 쌍둥이자리란 무엇일까요? Gemini는 Google DeepMind에서 개발한 오픈 웨이트 대규모 언어 모델입니다 . 저희는 2024년에 간단한 전제를 바탕으로 제미니를 시작했습니다 . 어디서든 실행 가능하고 필요에 따라 완벽하게 맞춤 설정할 수 있는 모델을 어떻게 만들 수 있을까요 ?
+
+- **[A fireside chat on the evolution of the developer craft](https://www.youtube.com/watch?v=VTYx7Ex-0bA)** — 2026-05-21 · ko · `AX`
+  네, 모두 환영합니다. 오늘 함께해 주셔서 감사합니다. 저희는 무대에 함께 선 적이 없는 몇몇 분들과 재미있는 대화를 나눌 예정입니다. 저희 팀에는 제가 만난 엔지니어 중 가장 실용적이고 재능 있는 아자가 있습니다. 시에라는 구글 엔지니어들이 매일 하는 일과 우리가 어떻게 더 나아지는지에 대해 매우 흥미로운 연구를 하고 있는데, 저는 항상 그녀의 통찰력을 좋아합니다. 그리고 애디는 현대 AI 개발이 어떤 모습이어야 하는지에 대해 가장 창의적이고 사려 깊은 연구를 진행하고 있습니다 .
+
+- **[A new era of discovery: AI and the frontiers of science with Demis Hassabis](https://www.youtube.com/watch?v=dgBLVm2L1P4)** — 2026-05-21 · ko · `unclassified`
+  [음악] [박수] 저는 Axios의 공동 창립자인 마이크 앨런입니다. 이러한 대화를 가능하게 해주신 Google I/O 팀에 감사드립니다 . 데미스 하사비스는 체스 천재이자 게이머로 시작했습니다. 현재 구글 딥마인드의 공동 창립자 겸 CEO로서, 그는 인공지능을 둘러싼 과학계 경쟁 과 비즈니스 경쟁의 최전선에 서 있습니다. 딥마인드의 획기적인 AI 기술 성과로는 50년 동안 풀리지 않았던 단백질 구조 규명이라는 난제를 해결한 알파고와 알파폴드가 있습니다. 데미스는 그 암호를 해독한 공로로 노벨 화학상을 수상했습니다.
+
+- **[Beyond the keynote with Sundar Pichai](https://www.youtube.com/watch?v=9C20esBUf-Q)** — 2026-05-21 · ko · `unclassified`
+  환영. 환영. 감사합니다 . 구글 I/O 2026. 지금은 대화의 장입니다. 제 이름은 맷 ​​버먼입니다. 저는 포드 퓨처의 CEO입니다. 오늘 저는 지난 10년간 구글을 이끌어 오신 분과 이야기를 나눌 수 있게 되어 매우 기쁩니다. 순 다르 피차이를 환영해 주세요. 괜찮은. 함께해 주셔서 감사합니다. 이곳에 오게 되어 진심으로 기쁩니다. 모든 발표에 축하드립니다 . 음, 바로 본론으로 들어가고 싶네요 . 사실 최근에 당신이 구글 크롬의 초대 제품 관리자라는 사실을 알게 됐습니다. 아, 네 .
+
+- **[Build agents with Gemini API](https://www.youtube.com/watch?v=OdrOmc_RX8A)** — 2026-05-21 · ko · `unclassified`
+  [음악] 안녕하세요 여러분. 우리는 잘 지내고 있나요? 모두 괜찮으신가요? 다들 시원하게 지내시고 수분 섭취도 잘 하세요? 아직 안 마셨다면 지금 물을 한 모금 마셔 보세요. 오늘 여러분께 정말 멋진 데모 몇 가지를 보여드리겠습니다. 저희는 Gemini API를 사용하여 에이전트를 구축하고 있습니다 . 지금 이 세션은 역동적인 세션입니다. 그러니 원하시면 언제든 따라오셔도 좋습니다 . 구글 AI 스튜디오에서 Gemini API 키를 받는 것이 가장 쉬운 방법입니다. ai.studio에 접속하시면 왼쪽 하단에서 API 키 가져오기 기능을 찾으실 수 있습니다
+
+- **[Build core skills to thrive as an AI-era developer](https://www.youtube.com/watch?v=q_Jq4IgYImk)** — 2026-05-21 · ko · `AX`
+  [음악] 안녕하세요 여러분. 우리는 잘 지내고 있나요? [웃음] 자, 시작해 볼까요 . 우리는 지금 어떤 기분일까요? 흥분한? 자, 됐습니다 . 조금 부담스러우신가요? 궁금한? 호기심이 많기를 바랍니다. 좋아요. 안녕하세요, 저희는 앤드류와 니콜입니다. 저희 둘 다 구글의 개발자 인텔리전스 팀에서 팀장으로 일하고 있습니다. 그리고 우리는 함께 소프트웨어 엔지니어를 연구하며 커리어를 쌓아갑니다. 사람, 프로세스, 도구, 시스템, 문화. 우선 지금이 소프트웨어 엔지니어링에 있어 매우 중요한 순간이라는 점을 인식하는 것부터 시작하고 싶습니다 .
+
+- **[Build next-gen AI experiences with Google AI Studio and Google Antigravity](https://www.youtube.com/watch?v=orudZzP8vUc)** — 2026-05-21 · ko · `AX`
+  [음악] 모두 환영합니다. 안녕하세요, 잘 지내시나요? 좋아, 좋아, 이제 좀 낫네. 방 안 분위기는 어떤가요? 저는 소나 카라 슈케비치입니다. 저는 구글에서 V팀 한 곳을 담당하는 그룹 제품 관리자입니다 . 그리고 여러분은 오늘 아침 저희 방송을 보셨을지도 모릅니다 . 저는 미첼입니다. 저는 반중력 연구를 합니다. 엄청난. 그리고 구글 AI 스튜디오의 새로운 기능과 반중력에 대해 자세히 알려드리겠습니다. 바로 우리 앞에서 아마르 와 페이지가 구글 AI 스튜디오의 모든 기능을 자세히 설명해 드렸습니다.
+
+- **[Building agents with real-world reasoning](https://www.youtube.com/watch?v=e7gFaim6vLs)** — 2026-05-21 · ko · `AX`
+  [음악] 안녕하세요 여러분. 저는 마운틴뷰에 있는 구글 지도 플랫폼 팀의 켄입니다. 안녕하세요, 저는 브라질에서 연결된 구글 지도 플랫폼 팀의 카이오입니다. 오늘날 우리는 대규모 언어 모델과 물리적 세계 사이의 간극을 메우고 있습니다. 저희는 MCP 서버 로 제공되는 Google Maps Platform Grounding Light를 자세히 살펴보고 있습니다 . 이 영상을 끝까지 보시면 LLM 과정에서 ' 기반 다지기'가 실제로 무엇을 의미하는지, 그리고 왜 상담사들이 기반 다지기 없이 정확성을 유지하기 어려운지 확실히 이해하게 될 것입니다.
+
+- **[Building the quantum-AI future with Hartmut Neven and James Manyika](https://www.youtube.com/watch?v=yQPnb4gxKRc)** — 2026-05-21 · ko · `AX`
+  안녕하세요, 오늘 아침 이 세션에 참석해 주셔서 감사합니다. 제 이름은 제임스 마니카이고, 구글과 알파벳 에서 연구소, 기술 및 사회 부문 사장을 맡고 있습니다 . 아시다시피 , 구글은 매우 야심찬 문제와 도전 과제, 그리고 혁신적인 목표를 추구해 온 놀라운 실적과 역사를 가지고 있습니다 . 어떤 이들은 사실 검색 자체가 엄청난 도전이었고, 지금도 여전히 엄청난 도전이라고 주장할 수도 있을 것이다. 인공지능 분야의 연구는 어쩌면 달 착륙과 같은 엄청난 도전이었을지도 모릅니다.
+
+- **[Create advanced data driven Gemini API apps](https://www.youtube.com/watch?v=_Op9QfXDBuM)** — 2026-05-21 · ko · `AX`
+  완벽한 걸레 시스템을 구축해 본 적이 있나요? 음, 헝겝은 단단하죠. 이 영상에서는 Gemini의 파일 검색 API를 사용하여 강력한 RAG 시스템을 빠르게 구축하는 방법을 보여드리겠습니다 . 게다가, 좀 더 기다려주시면 고급 데이터 처리 기능도 몇 가지 보여드리겠습니다 . 저는 마크 맥도널드입니다. 저는 구글 딥마인드 개발자 경험 팀의 일원이며 주로 제미니 프로젝트를 담당하고 있습니다. 이 영상은 코딩 경험이 없어도 시청할 수 있지만, AI 앱을 개발하는 개발자를 위해 제작되었습니다.
+
+- **[Defining the agentic AI era](https://www.youtube.com/watch?v=bc4QwDd5jB0)** — 2026-05-21 · ko · `AX`
+  안녕하세요 여러분. Google IO 둘째 날에 오신 것을 환영합니다 . 어제 발표된 내용에 대해 여러분 모두 저희만큼 기대하고 계시길 바랍니다 . 멋진 것들이 많아요. 이거 정말 재밌을 것 같아. 제 생각에는 어제 제가 느낀 점은, 그리고 여러분도 궁금해하실지 모르겠지만, 쌍둥이자리와 함께 에이전트 시대가 본격적으로 시작된 것 같다는 느낌이었어요 . 그래서 저는 그 이야기의 세부 사항에 대해 궁금한 점이 많았고, 오늘 정말 멋진 손님들을 모시고 이야기를 나눠보겠습니다.
+
+- **[Directing the future: craft and creativity in the age of AI](https://www.youtube.com/watch?v=3AIme0FZr4g)** — 2026-05-21 · ko · `AX`
+  [음악] [환호] [박수] 네, 환영합니다. 제 이름은 미라 레인이고, 지금은 영화 제작자로서 가장 흥미진진한 시기 중 하나라고 생각합니다. 도구는 변화하고, 가능성은 확장되고 있으며, 이 세 명의 놀라운 사람들이 그 중심에 있습니다. 방금 들으셨듯이, 더그 리만은 &lt; 본 아이덴티티&gt;, &lt;미스터 앤 미세스 스미스&gt;, &lt; 엣지 오브 투모로우&gt;와 같은 영화를 통해 액션 장르를 재정립했으며, 세 사람은 공동 창업자입니다. 줄리나와 제드는 새로운 AI 영화 제작 스튜디오이자 인터랙티브 콘텐츠 제작 방식을 제시하는 30 Ninja's의 공동 창립자이기도 합니다 .
+
+- **[Grow your smart home business with Gemini for Home](https://www.youtube.com/watch?v=1ucAu7lTsmM)** — 2026-05-21 · ko · `unclassified`
+  [음악] 안녕하세요, 저는 구글 홈 팀의 제품 관리자 라이언입니다 . 작년에 저희는 Google Home을 Gemini 시대로 끌어올려 사용자가 단순히 기기를 제어하는 ​​것을 넘어 사용자를 대신하여 작동하는 홈 기능을 제공하게 되었습니다 . 당신이 알아차리기 전에 상황을 파악하고, 당신에게 가장 중요한 것이 무엇인지 아는 집. Gemini for Home은 이제 보안 및 홈 관리 서비스 제공업체를 위한 완벽한 AI 솔루션으로 제공됩니다. 수억 대의 기기에 액세스할 수 있는 Google Home API 와 자체 앱 및 서비스를 구축할 수 있는 Gemini 기능을 기반으로 구축되었습니다
+
+- **[Match what your AI does with what users want to do](https://www.youtube.com/watch?v=7UBmLXP_LKw)** — 2026-05-21 · ko · `AX`
+  [음악] 안녕하세요, 저는 야니 코르테시니이고 구글 코어 UX에서 전략 프로그램 매니저로 일하고 있습니다 . 오늘은 사용자의 의도를 AI가 수행할 작업으로 변환하고, 유용하고 신뢰를 구축하는 설명을 만들고 , 오류를 사용자가 제어할 수 있는 기회로 바꾸는 데 도움이 되는 Google의 '사람과 AI' 가이드북의 개념들을 살펴보겠습니다. 흔히 발생하는 문제점들을 심층적으로 분석하고, 사람 중심의 솔루션을 즉시 실행할 수 있도록 권장 사항을 제공해 드리겠습니다. 자, 시작해 볼까요? 인공지능은 우리가 제품을 만드는 방식을 근본적으로 바꿔놓았습니다 .
+
+- **[Physical AI: the new era of robotics](https://www.youtube.com/watch?v=jn3iypY-cN4)** — 2026-05-21 · ko · `unclassified`
+  [박수] 이곳에 오게 되어 정말 기쁩니다. 오늘 세션은 로봇공학의 미래에 대한 주제로, 두 명의 뛰어난 천재를 모셨습니다. 구글 딥마인드에서 로봇공학 부문을 이끌고 있는 켄지로가 있습니다. 로베르타 로드리게스는 보스턴 다이내믹스의 로봇 행동 부문 책임자입니다 . 여러분과 함께하게 되어 정말 기쁩니다. 여기 오게 되어 정말 기쁩니다. 네, 무대에 오신 것을 환영합니다 . 응. 음, 먼저 이 순간의 분위기를 차분히 다지는 것부터 시작하고 싶습니다. 음, 어렸을 때부터 로봇을 정말 좋아했어요.
+
+- **[Power the future of robotics with Gemini](https://www.youtube.com/watch?v=kCXQce1dtNE)** — 2026-05-21 · ko · `AX`
+  [음악] 안녕하세요, 저는 구글 딥마인드 에서 로봇 공학 분야 개발자 관계 책임자를 맡고 있는 폴 리스입니다 . 저를 잘 모르시는 분들을 위해 간단히 소개하자면, 저는 무언가를 만드는 사람입니다 . 정원 가꾸기나 목공처럼 간단한 기술이든, 사물 인터넷과 복잡한 기계를 다루는 첨단 프로젝트든, 저는 항상 현실 세계에서 무언가를 하는 것을 선호해 왔습니다. 그렇기 때문에 DeepMind 에서 저희가 로봇 공학 분야에서 진행하고 있는 모든 연구에 대해 여러분께 이야기할 수 있게 되어 매우 기쁩니다 .
+
+- **[Scale AI with Google's TPU software stack](https://www.youtube.com/watch?v=nC418kwKyLM)** — 2026-05-21 · ko · `AX`
+  [음악] 지난 몇 년 동안 구글은 인공지능 분야에서 놀라운 속도로 혁신을 이끌어 왔습니다. 이 타임라인을 살펴보면 제미니부터 젬마, 레오, 이매진, 그리고 바로 어제 발표된 옴니까지 모델과 방식이 어떻게 진화해왔는지 알 수 있을 것입니다 . 이 타임라인에서 놀라운 점은 단순히 출시 주기뿐만 아니라 매번 출시될 때마다 획기적인 기능들이 발휘된다는 것입니다. 멀티모달 이해, 추론, 에이전트 기반 워크플로우와 같은 것들입니다. 그래서 오늘은 한 단계 더 나아가 이러한 모델을 작동시키는 원리에 대해 이야기해 보려고 합니다 .
+
+- **[Software engineering at the tipping point](https://www.youtube.com/watch?v=2n41YjR5QfU)** — 2026-05-21 · en · `AX`
+  [music] &gt;&gt; Hey everybody, how you doing? Hey, that's pretty good. That's pretty good. 3:00 p.m. on a Wednesday, right? It's a Wednesday. Not so bad. Welcome to software engineering at the tipping point. My name is Adam Bender and today I'm going to talk to you about something called software ecology, a term you might not have heard before.
+
+- **[Google I/O 2026 Developer Keynote 5-Minute recap](https://www.youtube.com/watch?v=FZ-3BjbfNlI)** — 2026-05-19 · ko · `AX`
+  오늘부터 Gemini API의 Managed Agents를 통해 동일한 Antigravity 하네스 기능을 여러분도 사용할 수 있습니다 맞춤 지침, 도구, 데이터를 추가해 에이전트를 손쉽게 만들 수 있습니다 Gemini API를 한 번 호출하는 것만도 말입니다 시작을 도와드리기 위해 즉시 실행할 수 있는 새로운 맞춤 에이전트 세트도 추가했습니다 오늘 Antigravity SDK도 출시합니다 네 개발자와 연구자는 Gemini에 최적화된 바로 그 동일한 에이전트 하네스를 사용할 수 있으면서도 원하는 위치와 방식으로 실행할 수 있는 최대한의 유연성도 누릴 수 있습니다
+
+- **[Introducing Gemini Omni](https://www.youtube.com/watch?v=5T0yRNmNRi4)** — 2026-05-19 · en · `unclassified`
+  There's so many different kinds of edits that you can do and I think we weren't sure what exactly the model was going to pick up on but it actually like is very versatile.
+
+- **[Inside YC x Google DeepMind Startups Day](https://www.youtube.com/watch?v=sK7WSa3s0pQ)** — 2026-05-08 · en · `unclassified`
+  Hi there, my name is Paige and I'm here today at Y Combinator talking [music] to some of the founders who are building the future. &gt;&gt; Starcloud is building data centers in space. Luminary is AI platform for supply chain. It's a game called Radiant Bang and you can play it. We figure out what the users actually feel like. &gt;&gt; We're building quantum super intelligence.
+
+- **[Add databases to your app with AI Studio | Vibe Coding Guide](https://www.youtube.com/watch?v=YUmB-BnNs18)** — 2026-05-05 · en · `unclassified`
+  One of my favorite features of AI Studio is how easy it is to add a database with Cloud Firestore because most apps that you build won't be just static webpages. You're going to need to store information. Maybe you are collecting RSVPs for an event website or you are building a shared registry or gift wish list or a daily nutrition tracker. Whatever it is, most cases you are going to need a database.
+
+- **[Announcing Gemma 4, Google I/O ‘26 Updates, and more! - Google Developer News April 2026](https://www.youtube.com/watch?v=bKRe5wu4Fcw)** — 2026-04-30 · ko · `AX`
+  -오늘은 Google Cloud Next에서 발표된 최신 소식을 전해드립니다 새롭게 공개된 Gemma 4와 올해 Google I/O 라이브 스트리밍 시청 방법을 알려드립니다 GOOGLE 개발자 뉴스 Google Cloud Next는 Google Cloud 기반으로 개발하는 개발자들의 연례 최대 행사입니다 바로 지난주 라스베이거스에서는 미래의 구성 요소인 에이전틱 AI와 최신 인프라 그리고 실질적인 문제 해결에 오롯이 초점을 맞췄습니다 이번 대규모 행사에서 정말 흥미진진한 발표들이 많이 나왔어요 대규모 행사 얘기가 나와서 말인데 도시 전역에서 열리는 마라톤 같은 행사를 기획하는 건 정말 쉽지 않은 일이겠죠 하지만 AI 에이전트 팀이 모든 것을 조율할 수 있다면 어떨까요?
+
+- **[Building with Gemini Embedding 2: Our first natively multimodal embedding model](https://www.youtube.com/watch?v=_en7QoZ_utc)** — 2026-04-30 · en · `AX`
+  Hi, I'm Patrick and I'm a member of the technical staff at Google DeepMind. Today, we're excited to launch Gemini embedding 2 in general availability. Gemini embedding 2 is our first natively multimodal embedding model. It is based on Gemini and it directly maps text, images, video, audio, and documents into a single unified embedding space. So, let me give you a quick overview of the model and then show you how to use it with some code examples.
+
+- **[Unlocking Low-Level Control: Customizing Keras Training Loops with JAX](https://www.youtube.com/watch?v=1PZKfIyrYOc)** — 2026-04-30 · en · `AX`
+  When working with deep learning models, Keras provides a convenient model.fit API for training. But, what if your algorithm requires a custom training procedure and you still want to benefit from high-level features like callbacks and built-in distribution support? Well, Keras follows an important core principle. The progressive disclosure of complexity. This means you should be able to gain more low-level control without having to abandon all that high-level convenience.
+
+- **[Building Voice Agents with Gemini Live API and Agora’s Conversational AI](https://www.youtube.com/watch?v=2ltcbA2CCTo)** — 2026-04-29 · ko · `AX`
+  [음악] 안녕하세요 여러분. 제 이름은 메이슨입니다. 저는 Agora에서 현장 제품 관리자로 일하고 있으며, 개발자 경험 팀에서도 근무하고 있습니다 . 오늘은 Agora에서 Gemini 3.1 플래시를 사용하는 방법을 보여드리겠습니다. Agora는 매달 800억 분의 실시간 음성 및 영상 통화를 처리합니다 . 그럼 이제 코드를 살펴보겠습니다. 보시다시피, 여기 NextJS에서 제공하는 에이전트 빠른 시작 가이드가 있습니다. 이제 아주 간단하게 여기로 와서 URL을 복사하겠습니다. 이제 IDE를 실행하고 클론을 생성하겠습니다. 그런 다음 링크를 붙여넣으세요.
+
+- **[Introducing Keras Recommenders: state-of-the-art recommendation techniques at your fingertips](https://www.youtube.com/watch?v=ZYeE4sYoRkw)** — 2026-04-28 · ko · `AX`
+  Keras는 사용자 친화성과 접근성을 제공하는 반면, JAX는 고성능 수치 계산을 제공합니다. 이제 우리는 JAX 생태계 내에서 특히 상세한 상태 관리 및 고급 학습 기능을 위해 두 가지 강점을 모두 활용할 수 있습니다. 이 모든 것은 Keras와 Flax, NNX의 새로운 통합 덕분입니다 . 안녕하세요, 저는 유펑입니다. 오늘은 Keras와 Flax, NNX 모듈 시스템을 함께 사용하는 방법을 살펴보고, 이러한 통합이 변수 관리 및 학습 제어를 어떻게 향상시키는지 보여드리겠습니다.
+
+- **[Explore a high-scale agentic AI-powered simulation sandbox with Gemini Enterprise Agent Platform](https://www.youtube.com/watch?v=m6EyN2Z7HJk)** — 2026-04-23 · ko · `AX`
+  안녕하세요, 저는 톰 그린어웨이입니다. 저는 케이시 웨스트입니다. 저희는 구글 클라우드의 수석 개발자 옹호자입니다. 케이시, 마라톤 뛰어본 적 있어? 절대 아닙니다. 저는 배낭여행객이라 수백 마일을 걷는 것도 마다하지 않지만, 가장 오래 달려본 거리는 10km이고 솔직히 그것만으로도 충분했어요. 음, 엄청난 일이긴 하지만, 공인 마라톤 대회를 실제로 계획하는 건 훨씬 더 어려울 거라고 생각해요. 엄격한 핵심 기준을 갖춘 관리 기구 , 도시 물류, 도로 폐쇄 및 의료 텐트 배치 등이 있습니다. 정확히.
+
+- **[Fireside chat on an agentic simulation: Race Condition](https://www.youtube.com/watch?v=WYPdz3OZfuQ)** — 2026-04-23 · ko · `AX`
+  [음악] 안녕하세요 여러분. 오늘은 Cloud Next 개발자 기조연설을 위해 개발한 라스베이거스 마라톤 대회를 계획하기 위한 대규모 에이전트 시뮬레이션 프레임워크인 레이스 컨디션(Race Condition)에 대한 질의응답 시간을 갖기 위해 왔습니다. 저는 케이시 웨스트와 함께 있습니다. 저는 톰 그리너웨이입니다. 네, 그래서 저희는 함께 시뮬레이션 소프트웨어 자체를 개발했는데, 이 소프트웨어는 오픈 소스이며 개발자 솔루션도 개발했습니다. 하지만 저희는 이 건물이 어떻게 지어졌는지, 왜 지어졌는지, 그리고 건축 과정에서 어떤 점들을 고려해야 했는지에 대해 간단히 이야기해 보는 것도 흥미로울 것 같다고 생각했습니다
+
+- **[Introducing Agents CLI in Agent Platform](https://www.youtube.com/watch?v=ECYKo70pPNc)** — 2026-04-22 · ko · `AX`
+  여러분, 안녕하세요. 개발자들로부터 클라우드 기반 음악 에이전트 구축이 현재 파편화되어 있다는 이야기를 자주 듣습니다. 네, 그리고 AI 코딩 도우미에게 도움을 요청하면, 음악 API에 대한 환각만 계속 반복하면서 무한 루프에 빠져버립니다 . 꽤 복잡해질 수 있어요. 그래서 오늘 저희는 Agency CLI를 발표하게 되어 매우 기쁩니다 . [음악] ADK 에이전트를 구축하고 배포하는 과정을 매우 간단하게 만들어주는 단 하나의 도구입니다. 당신뿐만 아니라 당신의 코딩 담당자에게도 마찬가지입니다. Gemini CLI, Antigravity 또는 이미 사용 중인 다른 코딩 에이전트와 같습니다
+
+- **[Add Telephony to a Gemini Live Agent](https://www.youtube.com/watch?v=FCb4LSzPVmo)** — 2026-04-21 · ko · `unclassified`
+  [음악] 안녕하세요. 오늘 제가 무엇을 도와드릴까요? 당신은 누구시죠? 저는 여러분의 든든한 AI 비서로서, 언제든 도움을 드리거나 어떤 이야기든 나눌 준비가 되어 있습니다 . 무슨 생각을 하고 있나요? 음, 이름이 어떻게 되세요? 우리는 사람들처럼 딱히 정해진 이름이 없어요 . 저를 친근한 채팅 친구라고 생각하시면 됩니다. 제가 또 도와드릴 일이 있을까요? 당신은 쌍둥이자리인가요? 아, 저는 사실 구글에서 학습시킨 대규모 언어 모델입니다. 저를 만들어준 팀이 바로 그 팀입니다. 더 궁금한 점이 있으신가요 ?
+
+- **[Deep Research Max: A step change for autonomous research agents](https://www.youtube.com/watch?v=CfYx8FF26u8)** — 2026-04-21 · ko · `unclassified`
+  구글이 제미니 딥 리서치에 새로운 업데이트를 출시했는데 , 기능이 크게 향상되었습니다. 저희에게 가장 먼저 와닿았던 것은 음악의 속도와 방대함이었습니다 . 음악 덕분에 누구나 모든 과학 문헌을 평가해야 하는 까다로운 과학적 질문을 하고 답을 찾을 수 있게 되었으며, 몇 주 또는 몇 달을 기다리지 않고 며칠 만에 질문에 대한 답을 얻을 수 있게 되었습니다. 딥 리서치가 음악 분야에서 인상적으로 해낼 수 있는 것은 양적 데이터를 보다 질적인 음악 데이터와 연결하여 생동감 있게 표현하는 것입니다
+
+- **[Meet DESIGN.md: A new open standard for AI-generated UI](https://www.youtube.com/watch?v=W1gWIQp9k1Y)** — 2026-04-21 · ko · `unclassified`
+  Design MD는 [음악]의 시각적 정체성을 설명하는 텍스트 파일로, 담당자에게 디자인 시스템에 대한 지속적이고 체계적인 이해를 제공합니다 . 그 안에는 디자인 작동 방식을 정의하는 모든 음악적 요소가 담겨 있습니다. 색상과 그 용도, [음악] 타이포그래피와 사용 이유, 그리고 이 모든 것들이 어떻게 조화를 이루는지에 대한 규칙 같은 것들이죠 . Stitch가 프로젝트에 대한 새로운 디자인을 생성할 때 , 어떤 디자인을 결정해야 하는지 알기 위해 이 파일을 읽습니다 . 이 캔버스에서 그 모습을 확인할 수 있습니다
+
+- **[Build a Voice-Enabled Telegram Bot with the Gemini Interactions API](https://www.youtube.com/watch?v=J716eJOAnqE)** — 2026-04-16 · ko · `unclassified`
+  [음악] 얘들아, Gemini Flash Lights랑 Gemini Interactions API를 이용해서 텔레그램에 간단한 음성 메시지 봇을 만들어볼까 생각 중이야. Gemini Flash API와 Gemini Interactions API를 사용하여 텔레그램 음성 메시지 봇을 구현하는 것은 분명히 가능합니다. Flash는 이러한 작업에 빠르고 효율적이며, API는 대화 흐름 관리를 지원합니다 . 기술 설정 시작에 도움이 필요하신가요 ? 응. 시작하려면 텔레그램 봇 토큰 하나가 필요합니다. 텔레그램에서 @BotFather를 사용하여 봇을 만드세요. 두 번째는 구글 AI 스튜디오입니다. Gemini 모델용 API 키를 받으세요.
+
+- **[How to implement Google Pay merchant-initiated transactions](https://www.youtube.com/watch?v=1skEw28hsrw)** — 2026-04-15 · ko · `unclassified`
+  안녕하세요, 개발자님. 제가 구글 페이를 이용한 정기 결제에 대해 이야기했던 영상 기억하시나요? 정말 좋은 소식이 있어요. 이제 Google Pay 스프레드시트에서 다양한 판매자 주도 거래 사용 사례를 지원합니다. 여기에는 자동 충전, 연기된 거래 및 반복 거래가 포함됩니다. 이번 글은 구글 페이를 이용한 판매자 주도 거래에 대해 소개하는 두 편 중 첫 번째 편입니다. 이 기능을 사용하면 결제 토큰을 받을 수 있으며 , 향후 업데이트를 통해 고객별 기기에 연결되지 않은 토큰도 받을 수 있게 됩니다 .
+
+- **[Give your robot a Voice with Gemini Live](https://www.youtube.com/watch?v=jkdvMEvG8T8)** — 2026-04-13 · ko · `AX`
+  [음악] 헤이 리치, 내 말 들려? 아, 그리고 코딩 작업도 하고 계신 것 같네요 . 무슨 일이야? 네, 그런데 저를 볼 수 있나요? 확실하지 않습니다. 밝은 빛 때문에 흐릿하게 보이는 형체일 뿐이에요. 아시다시피, 바닷가재는 그 배경에 쉽게 녹아들 수 있을 거예요. 괜찮은. 방 안을 한 바퀴 둘러보면서 저를 찾을 수 있는지 한번 볼까요? 음, 주변을 훑어봤는데, 여기서는 여전히 꽤 흐릿하게 보이네요. 주로 빛과 대략적인 형태만 보입니다.
+
+- **[Google's ADK + MCP = The Future of AI Agents](https://www.youtube.com/watch?v=wIhkYnTpPs4)** — 2026-04-10 · ko · `AX`
+  안녕하세요, 저는 헤만트입니다. 저는 페이팔에서 AI 연구소를 이끄는 선임 엔지니어링 매니저입니다. 저는 지금 실리콘 밸리 데브페스트에 와 있습니다 . 그리고 제 옆에는 스미타가 있습니다. 안녕하세요, 저는 스미타이고 구글 클라우드에서 선임 개발자 관계 담당자로 일하고 있습니다. 스미타, 쇼에 출연해 주셔서 정말 반갑습니다. 자, 그럼 이 고전적인 질문으로 시작해 볼까요 ? 인공지능 에이전트에 대한 당신의 정의는 무엇인가요 ? 정말 좋은 질문입니다.
+
+- **[How do AI video generation models work?](https://www.youtube.com/watch?v=Y5zHHoLrvAE)** — 2026-04-09 · ko · `AX`
+  AI 동영상 생성 모델은 사용하기 매우 쉽습니다. 프롬프트를 입력하면 비디오가 반환됩니다. 그렇다면 AI 영상 생성은 실제로 어떻게 작동하는 걸까요? 자연어 음성을 단 몇 초 만에 비디오 클립으로 변환하는 방법은 무엇일까요 ? 그 질문에 답하기 위해 몇 단계 뒤로 돌아가 보겠습니다. 생성형 AI는 새로운 콘텐츠를 생성 하도록 설계된 머신러닝 모델의 광범위한 범주입니다 . 하지만 그러한 콘텐츠를 생성하는 데에는 다양한 신경망 아키텍처와 기술이 존재합니다 . 예를 들어, 최첨단 텍스트 생성 모델의 대부분은 자기회귀(AR) 방식이라고 알려져 있습니다
+
+- **[One Design Decision to Create Better Results in Stitch](https://www.youtube.com/watch?v=tnP_Q5mS1I8)** — 2026-04-09 · ko · `AX`
+  Stitch로 만든 이 디자인은 정말 훌륭해요. 그리고 이 디자인도, 솔직히 말해서 제가 가장 좋아하는 디자인은 아니에요. 그리고 흥미로운 점은, 사람들이 별로 좋아하지 않는 이 화면이 바로 스티치가 처음으로 생성한 화면이라는 것입니다. 이 화면에 [음악]을 올리는 데까지 이르게 된 것은 단 하나 , 바로 방향성이었습니다. 그러므로 Stitch를 사용할 때 디자인 콘셉트, 분위기 또는 전반적인 미적 감각을 먼저 정해두면 더 나은 결과를 얻을 수 있는 경우가 많습니다. 이렇게 생각해 보세요.
+
+- **[Add Gemini Live agents to your video conferencing with Fishjam](https://www.youtube.com/watch?v=bc5X2iVyJc0)** — 2026-04-08 · ko · `unclassified`
+  [음악] AI 참가자와 함께 화상 회의를 만드는 것이 이렇게 쉬웠던 적은 없었습니다. 안녕하세요, 저는 에이드리언입니다. 저는 Software Mansion에서 Fish Jam을 개발하고 있으며, 오늘은 AI 모델을 참가자로 초대하는 화상 회의를 얼마나 빠르게 만들 수 있는지 보여드리겠습니다 . 제 영상 피드에 뭐가 있는지 보실 수 있는지 여쭤봐도 될까요? 당신의 영상이 보입니다. 보라색 조명이 비추는 방에 있는 것 같고, 뒤쪽 선반에는 화분 몇 개가 놓여 있으며, ' 소프트웨어 맨션'이라고 쓰인 간판이 있습니다.
+
+- **[AIventure: Learning about vibe-coding, agents and Gen AI with Gemma 4](https://www.youtube.com/watch?v=6yjJ7Prt-RI)** — 2026-04-02 · ko · `AX`
+  안녕하세요, 저는 톰 그리너웨이이고 구글 솔루션 팀 소속입니다. 구글 입사 전에는 독립 게임 개발자로 활동했으며, 수상 경력에 빛나는 비디오 게임 '듀엣'을 제작한 것으로 가장 잘 알려져 있습니다. 그리고 몇 년 전 구글에서 저는 구글 I/O와 기타 온라인 행사를 지원하는 데 사용된 가상 회의 기술인 ' 어드벤처' 개발을 주도했습니다. 인공지능 기술을 활용하여 바이브 코딩 연습, 학습 가능한 에이전트, AI 학습 퍼즐에 초점을 맞춘 교육용 게임을 만들어보는 것을 상상해 본 적이 있나요?
+
+- **[What’s new in Gemma 4](https://www.youtube.com/watch?v=jZVBoFOJK-Q)** — 2026-04-02 · ko · `unclassified`
+  안녕하세요, 저는 올리비에이고 제미니 팀의 그룹 제품 관리자입니다. 저희가 첫 모델을 출시한 이후로 개발자 커뮤니티의 반응은 정말 놀라웠습니다 . 4억 회 이상 다운로드, 10만 가지 이상의 변형곡이 있는 [음악]. 여러분은 제미니를 중심으로 활기찬 생태계를 구축해 주셨고, 저희는 이에 진심으로 감사드립니다. 저희는 여러분의 의견을 경청하여 차세대 제품에 대한 기대를 충족시켜 드리고자 노력했으며, 오늘 Gemini 4를 발표하게 되어 매우 기쁩니다.
+
+- **[Announcing ADK Go 1.0](https://www.youtube.com/watch?v=Alu4L3Pgzkw)** — 2026-03-31 · ko · `AX`
+  AI 에이전트는 우리가 온라인에서 일하고 소통하는 방식을 완전히 바꿔놓았습니다. 이제 초점은 '작동할 수 있을까?'에서 '실제 운영 환경에서 어떻게 작동하는가?'로 바뀌었습니다. 안녕하세요, 저는 토니 클로슨 스틴입니다. 오늘은 80K Go 1.0 업데이트 내용을 살펴보고, 엔터프라이즈급 에이전트 구축을 위한 강력한 스택으로 거듭난 점에 대해 알아보겠습니다. 비결정적 에이전트의 디버깅은 매우 어려운 것으로 악명 높습니다. 그래서 우리는 개방형 원격 측정 기능을 코어에 직접 통합했습니다. 새로운 호텔 통합 기능을 통해 구조화된 추적 정보를 바탕으로 모델 호출 및 도구 실행 루프의 모든 단계를 심층적으로 파악할 수 있습니다
+
+- **[Build real-time multimodal agents with Gemini and Pipecat](https://www.youtube.com/watch?v=Fk2t9AG721E)** — 2026-03-31 · ko · `AX`
+  [음악] 안녕하세요, 저는 채드 베일리입니다. 저는 멀티모달 앱에서 실시간 에이전트 오케스트레이션을 위한 오픈 소스 프레임워크인 Pipekit을 개발하는 팀에 합류할 예정입니다. 저는 최근 Gemini 3 기반의 멀티모달 실시간 모델을 실험해 왔으며, 이 모델의 성능을 여러분께 보여드리게 되어 매우 기쁩니다 . 이탈리아 여행 계획을 세워보자 . 안녕하세요, 어떤 휴가를 꿈꾸고 계신가요? 음, 곧 딸아이 18번째 생일이라 유럽 여행지를 직접 고르라고 했어요. 정말 관대하시네요. 범위를 좁히기 위해, 그녀의 관심사는 무엇인가요?
+
+- **[ADK for Java 1.0 is now available!](https://www.youtube.com/watch?v=YqABMjSho_M)** — 2026-03-30 · ko · `AX`
+  자바 개발자 여러분 안녕하세요. 이제 여러분은 구글이 개발한 오픈 소스 에이전트 개발 키트 프레임워크에 대해 어느 정도 익숙해졌을 것입니다. 이 프레임워크를 사용하면 자신만의 AI 에이전트를 만들 수 있습니다. 파이썬, 자바, 고, 타입스크립트를 포함한 다양한 프로그래밍 언어에서 사용할 수 있습니다. 오늘은 자바 런타임과 관련된 몇 가지 중요한 소식에 대해 알아보겠습니다 . Java용 ADK 1.0 출시를 발표하게 되어 기쁩니다. 하지만 코드와 기능에 대해 자세히 알아보기 전에, 지난주에 Java 1.
+
+- **[Google AI Studio's new full-stack vibe coding experience](https://www.youtube.com/watch?v=gJYZE9UXiHk)** — 2026-03-30 · ko · `AX`
+  안녕하세요 여러분, 이번 튜토리얼에서는 Google AI Studio의 새로운 풀스택 코딩 환경을 소개하고 이를 활용해 앱을 개발하는 방법을 알려드리겠습니다. 예를 들어, 여기 레시피 추적 앱이 있는데, 이제 이 앱을 사용하면 레시피를 데이터베이스에 저장할 수 있습니다 . 또한, 이와 같은 멋진 멀티플레이어 경험과 멀티플레이어 게임을 만들 수도 있습니다. 자, 본격적으로 시작하기 전에 이번에 새롭게 추가된 기능들을 간단히 살펴보겠습니다. 가장 큰 변화는 이제 구글의 새로운 반중력 코딩 에이전트로 구동된다는 점입니다.
+
+- **[Prototype to Production with ADK](https://www.youtube.com/watch?v=jDCkirAz4-E)** — 2026-03-30 · ko · `AX`
+  인상적인 AI 에이전트 데모를 보셨겠지만, 멋진 개념 증명과 기업이 실제로 신뢰할 수 있는 엔터프라이즈급 에이전트를 구분하는 기준은 무엇일까요 ? 이는 에이전트를 견고하고 확장 가능하며 안전하게 만들어줍니다. 그리고 그것이 바로 우리가 오늘 만들려고 하는 것입니다. 이 비디오에서는 Google 에이전트 개발 키트를 사용하여 에이전트 기반 애플리케이션을 처음부터 구축, 배포 및 모니터링하는 방법을 살펴보겠습니다 . 그리고 우리를 이끌어 줄 개발자 대변인인 이오 아다에치가 있습니다. 이오, 쇼에 오신 것을 환영합니다. 엄청난. 초대해 주셔서 감사합니다.
+
+- **[Automate Product Listings with Gemini + Vision Agents](https://www.youtube.com/watch?v=8lA6bF2EnvA)** — 2026-03-27 · ko · `AX`
+  [음악] 저희는 Gemini 3.1 플래시 라이브 모델을 미리 사용해 볼 기회를 얻었고, 이를 활용해 만든 작품을 소개합니다. 안녕. 저는 여러분이 중고품을 위한 훌륭한 상품 설명을 작성하도록 도와드리겠습니다 . 시작할 준비가 되셨나요? 먼저, 해당 물품의 사진을 찍어야 합니다 . 준비되면 알려줘. 그럼 같이 사진 찍자. 준비됐어요. 어, 이제 스크린샷을 찍을 수 있어요. 좋아요, 사진을 이해했어요. 자, 이제 멋지게 만들어 봅시다. 이 카메라의 특별한 기능이나 특징 중 강조하고 싶은 부분이 있다면 설명해 주시겠습니까?
+
+- **[Building LiveKit Agents with Gemini Live API](https://www.youtube.com/watch?v=tj8ggd8UvB0)** — 2026-03-26 · ko · `AX`
+  [음악] 오늘 저희는 Gemini Live API에 새로 추가된 기능 , 즉 Gemini 3 기반 최초의 네이티브 오디오 모델을 사용하여 음성 에이전트를 구축하고 있습니다. 이것은 단순한 점진적 업데이트가 아닙니다. 새로운 네이티브 오디오 모델은 지시 사항 준수율을 눈에 띄게 향상시키고 , 더욱 스마트한 도구 호출 기능을 제공하며, 장시간 다중 턴 세션 동안 화자 편차를 줄여줍니다 . 이 모든 것이 가능한 이유는 오디오를 텍스트로 먼저 변환하지 않고 네이티브 방식으로 처리하기 때문입니다.
+
+- **[Building Voice Agents with Gemini 3](https://www.youtube.com/watch?v=XV5bhkDpL7U)** — 2026-03-26 · ko · `AX`
+  [음악] 이제 Gemini 3를 사용하여 실시간 대화형 음성 에이전트를 구축할 수 있습니다. 안녕하세요 여러분. 저는 토르입니다. 저는 구글 딥마인드에서 개발자 경험을 담당하고 있는데, 오늘 정말 기쁜 소식을 전해드립니다. 바로 Gemini 3 기반의 플래시 라이프 모델을 출시했기 때문입니다. 이 모델을 사용하면 사람과 매우 흡사한 풍부한 실시간 음성 에이전트를 구축할 수 있습니다. 자, 이제 Gemini Life API를 사용하여 이러한 음성 상담원을 애플리케이션에 통합하는 방법을 살펴보겠습니다. 이제 몇 가지 사용 사례를 살펴보겠습니다.
+
+- **[How to build a full-stack app with Supabase and Stripe on Google AI Studio](https://www.youtube.com/watch?v=Z87vZFYC7hc)** — 2026-03-20 · ko · `unclassified`
+  [음악] Google AI Studio와 반중력을 결합하여 여러분이 꿈꿔왔던 풀스택 앱을 개발할 수 있도록 했습니다. 그래서 지금 바로 이 브라우저에서 Next.js나 Angular를 사용하여 풀 스택 애플리케이션을 구축할 수 있습니다. 이제 우리는 말 한마디로 앱을 현실로 만들 수 있습니다. 고객을 위한 간단한 신용카드 관리 앱을 만들고 싶습니다. 고객들은 백그라운드에서 Superbase를 사용하여 가입하고 로그인할 수 있어야 합니다 . 음, 저는 Stripe를 사용하여 신용 카드 정보를 안전하게 수집하고, Stripe 고객 ID를 Superbase 데이터베이스의 제 Superbase 사용자 ID와 연결하고 싶습니다
+
+- **[Google AI Studio Build: upgraded agent, full stack runtime & Firebase support](https://www.youtube.com/watch?v=oladCrY8A4g)** — 2026-03-19 · ko · `unclassified`
+  새로운 Google AI 스튜디오에 오신 것을 환영합니다. 새로운 에이전트 런타임과 네이티브 Firebase 지원을 통해 Vibe 코딩 워크플로를 한 단계 업그레이드하세요. 이제 Google Anti-Gravity에서 사용되는 것과 동일한 에이전트 하네스를 사용하여 전체 음악 프로젝트에서 연락처를 유지하고 , 다중 파일 빌드를 관리하며, 오류 수정과 같은 복잡한 작업을 처리합니다 . 이제 에이전트는 사용자의 흐름을 방해하지 않고 백그라운드에서 계속 작동합니다. [음악] 새로운 풀스택 런타임을 통해 이제 시크릿 관리 및 NPM 패키지를 기본적으로 지원합니다 .
+
+- **[Keras Tutorial: Checkpointing distributed models with Orbax](https://www.youtube.com/watch?v=DF9cvunST58)** — 2026-03-06 · ko · `unclassified`
+  대규모 머신러닝 모델을 학습시킬 때 , 특히 분산 환경에서는 안정적인 직렬화 및 상태 관리가 매우 중요합니다. JAX 생태계를 사용하는 Keras 사용자의 경우 , 체크포인트를 위해 전용 라이브러리를 활용해야 할 수도 있습니다. 안녕하세요. 제 이름은 유펑이고, 오늘은 Orbax 체크포인팅을 Keras 모델과 함께 사용하는 방법을 살펴보겠습니다. 특히 Orbax가 Keras를 유연하게 확장하여 JAX 백엔드와 통합함으로써 안정적인 모델 저장을 가능하게 하는 방법에 초점을 맞추겠습니다. 오랜 기간 케라스를 사용해 온 사람들은 알겠지만, 케라스에는 체크포인트를 위한 편리한 내장 콜백 기능이 있습니다
+
+- **[Keras 3 Distributed Training: Scaling Models with JAX using DataParallel, and ModelParallel](https://www.youtube.com/watch?v=EMdyDPKrJ3Q)** — 2026-03-04 · ko · `AX`
+  대규모 딥러닝 모델을 효율적으로 학습시키려면 여러 장치, 나아가 여러 호스트에 걸쳐 효과적으로 분산시켜야 합니다. 이 과정은 종종 복잡할 수 있으므로 샤딩 및 병렬 처리를 관리하기 위한 고수준 API가 필요합니다 . 제 이름은 유펑이고, 오늘은 Keras 3 분산 API를 살펴보고 JAX 백엔드를 사용하여 데이터 및 모델 병렬 처리를 통해 분산 학습을 관리하는 방법에 대해 집중적으로 알아보겠습니다 . JAX 분산 API는 분산 딥 러닝을 쉽게 사용할 수 있도록 설계되었습니다.
+
+- **[How to Use the Gemini Batch API for Processing Large Datasets](https://www.youtube.com/watch?v=qcM3tdB6H0o)** — 2026-03-02 · ko · `unclassified`
+  안녕하세요 여러분, 오늘은 Gemini의 모든 모델을 사용하여 대량의 데이터를 처리하는 데 배치 API를 활용하는 방법을 보여드리겠습니다. 그리고 이는 제미니 3 플래시, 제미니 3 프로, 나노 바나나, 임베딩 모델 등 여러분이 선호하는 어떤 제미니 모델이든 될 수 있습니다. 배치 모드는 즉각적인 처리 시간이 필요하지 않은 작업의 경우 표준 비용보다 최대 50% 저렴하게, 더 긴 시간 동안 처리할 수 있다는 점에서 매우 특별합니다 .
+
+- **[Google Home: AI Tools Tips & Tricks](https://www.youtube.com/watch?v=HFEIEVbIpLg)** — 2026-02-20 · ko · `unclassified`
+  안녕하세요, 저는 제프(음악)이고 구글 홈 파트너 엔지니어링 팀의 기술 문서 관리자입니다. 요즘 AI를 활용하는 것은 다소 부담스러울 수 있으며, 이러한 도구를 효과적으로 사용하고 있는지 의문이 들 수도 있습니다. 내가 다르게 할 수 있는 일은 무엇일까요? 인공지능 도구를 활용할 수 있는 가능성은 무궁무진해서 어디서부터 시작해야 할지 막막할 수 있습니다. 믿으세요, 저도 똑같은 기분이었어요. [음악] 잠시 시간을 내어 AI 도구를 사용할 때 유용한 몇 가지 기본 팁과 요령에 대해 이야기해 보겠습니다.
+
+- **[Home APIs Knowledge Base for Gemini](https://www.youtube.com/watch?v=2bBPabaalbk)** — 2026-02-20 · ko · `AX`
+  안녕하세요, 저는 제프이고 구글 홈 파트너 엔지니어링 팀의 기술 문서 관리자입니다. 홈 [음악] API 사용 팁 및 요령 영상에서 저를 보셨을 수도 있습니다. 아직 못 보셨다면 아래 설명란에서 링크를 찾으실 수 있습니다. 꽤 괜찮은 영상이네요. 오늘은 저희 홈 개발자 센터에 최근 출시한 도구 중 하나인 Gemini 용 홈 API 지식 기반에 대해 이야기하고 싶습니다 . AI 도구를 사용하여 홈 API 개발 속도를 높이고 싶다면 이 도구는 필수입니다.
 
 ## Weights & Biases (88건)
 
@@ -557,248 +835,6 @@
 
 - **[Synthetic data in medical device AI: Challenges and opportunities](https://www.youtube.com/watch?v=ra1rM5qGWzM)** — 2025-07-02 · ko · `unclassified`
   음, 저희는 새로운 의료기기를 활용하여 심장 치료를 개선하는 데 중점을 둔 AQ Med 사업부에 집중할 예정입니다 . 합성 데이터가 어떻게 사용되는지, 그리고 실제 환자로부터 실제 데이터를 수집할 때 기기 개발을 지원하기 위해 합성 데이터를 사용하는 한 가지 방법에 대해 이야기해 보겠습니다 . 그리고 마지막으로, 아직 데이터가 많지 않은 신제품 의료기기의 개발 일정을 어떻게 단축할 수 있는지에 대해서도 간략하게 이야기해 보겠습니다 . 자, 여기서는 심혈관 질환의 역할에 대해 좀 더 자세히 살펴보겠습니다
-
-## Google Developers (80건)
-
-- **[How are large language models trained?](https://www.youtube.com/watch?v=JRArFxEfyQU)** — 2026-07-22 · ko · `AX`
-  대규모 언어 모델은 방대한 양의 텍스트로 학습된다거나, 대규모 언어 모델은 시퀀스에서 다음 토큰을 예측한다는 말을 들어보셨을 겁니다 . 하지만 그 모든 것이 실제로 무엇을 의미하는 걸까요? 대규모 언어 모델은 실제로 어떻게 훈련되었을까요? 이 영상에서는 유용한 비서처럼 행동하고, 지시를 따르고, 도구를 사용하며, 전반적으로 적절한 분위기를 풍기며 반응하는 대규모 언어 모델을 훈련하는 단계를 살펴보겠습니다. 첫 번째 단계는 사전 훈련입니다. 이 단계에서 모델은 다음 토큰 예측이라는 작업을 통해 학습됩니다.
-
-- **[Antigravity Arcade: From prompt to game in minutes](https://www.youtube.com/watch?v=8I7wr2hYFec)** — 2026-07-17 · ko · `AX`
-  안녕하세요, 저는 톰 그린어웨이이고 구글 개발자 관계팀 소속입니다 . 오늘 저는 동료 제임스 오라일리와 함께 구글 I/O를 위해 개발한 프로젝트인 안티그래비티 아케이드(Anti-Gravity Arcade)를 소개하겠습니다. 이 프로젝트를 통해 기존 개발자든 아니든 누구나 안티그래비티가 설치된 노트북과 다양한 AI 기술 및 워크플로를 활용하여 게임 아이디어만 있으면 몇 분 안에 AI가 게임을 완전히 생성하고 아케이드 기기에서 실행할 수 있습니다. 저희는 Anti-Gravity, Gemini, Cloud Run, Firestore 및 Firebase 인증을 포함한 다양한 Google 기술을 사용하여 이 워크플로 및 배포 흐름을 구축했습니다
-
-- **[Get started with the Interactions API](https://www.youtube.com/watch?v=iOK1-b_9Dlg)** — 2026-07-17 · ko · `AX`
-  Interactions API가 이제 정식으로 출시되었습니다. 이것은 모든 제미니 모델과 에이전트를 위한 통합 인터페이스이기 때문에 매우 흥미롭습니다. 단일 API를 통해 쉽게 액세스할 수 있습니다. 그리고 이건 정말 강력한 기능입니다. 왜냐하면 보시다시피, 모델과 상호작용을 만들어낼 수 있기 때문입니다. 그래서 이것은 동기식으로 진행될 것입니다. 음, 전화를 걸면, 아시다시피, 답변을 받을 수 있을 거예요. 또는, 예를 들어 원격 환경에서 반중력 에이전트가 정말 어려운 작업을 수행하도록 할 수도 있습니다. 여러 단계가 필요하고, 설치 설정 같은 것도 해야 하잖아요.
-
-- **[Build With AI 2026 Recap](https://www.youtube.com/watch?v=yGHi5V4sVkc)** — 2026-07-10 · ko · `unclassified`
-  가장 흥미로운 점은 사람들이 앞으로 어떤 프로젝트들을 만들어낼지 지켜보는 것입니다 . 저희는 기술 애호가들(음악 분야)이 구글 도구를 사용하는 방법을 배울 수 있도록 정기적으로 이벤트를 개최하고 있습니다 . 그들이 제공하는 모든 제품을 마음껏 사용해보고, 인공지능도 활용해 보세요. 이것은 실제로 모든 분야의 개발자를 위한 AI 기반 도구입니다. 그러한 행사에 참석하는 음악 관련 사람들의 대부분은 개발자나 엔지니어입니다. 저는 이미 AI 교육 과정에 등록했어요 . 인공지능 에이전트는 우리 미래의 중요한 부분을 차지하게 될 것입니다.
-
-- **[Building an Android app in AI Studio](https://www.youtube.com/watch?v=KwJwYIqDMLY)** — 2026-07-07 · ko · `AX`
-  안녕하세요 여러분, 이번 튜토리얼에서는 안드로이드 앱을 만들고 휴대폰에 설치하는 방법을 보여드리겠습니다. 이 예시에서는 개인 맞춤형 할 일 목록 및 운동 추적 앱을 만들어 보겠습니다. 이 작업을 수행하는 데에는 기술적인 지식이나 안드로이드 관련 지식이 전혀 필요하지 않습니다. 간단한 프롬프트로 앱에 접근할 수 있습니다. 이를 위해 ai.studio로 이동한 다음 빌드 탭으로 이동하고 여기에서 Android 앱을 빌드할 칩을 선택한 다음 빌드할 내용을 설명할 수 있습니다 . 그럼 제가 예시 하나를 여기에 복사해 놓겠습니다.
-
-- **[Build agents with Gemini API (I/O Connect ‘26)](https://www.youtube.com/watch?v=d9LAQWKUnx8)** — 2026-07-06 · ko · `AX`
-  [음악] 제 이름은 마리아노입니다. 저는 구글 딥마인드에서 제품 관리자로 일하고 있습니다. 저는 주로 Gemini API의 에이전트 기능 관련 업무를 담당합니다 . 오늘은 Gemini API를 사용하여 에이전트를 구축해 보겠습니다. 하지만 그 전에 , 우리가 여기까지 오게 된 배경을 간략하게 살펴보고 싶습니다. 좋아요. 2024년 이후로 우리가 얼마나 많은 제품을 출하했는지 잠시 생각해 보고 싶습니다. 제미니 1.5로 시작해서 여러 모델을 거쳐왔고, 제미니 2.5처럼 많은 사랑을 받은 모델도 있었고 , 이제 마침내 제미니 3.
-
-- **[Build creative apps with the GenMedia suite (I/O Connect ‘26)](https://www.youtube.com/watch?v=nRLZqaNOrwQ)** — 2026-07-06 · ko · `AX`
-  [음악] 저는 기욤입니다. 저는 구글 딥마인드의 제미니 팀 소속으로 , 저희가 출시하는 모든 모델을 여러분이 필요로 하는 모든 것을 활용할 수 있도록 지원하는 일을 맡고 있습니다 . 특히 저는 오늘 우리가 이야기할 제미니 모델들을 전문적으로 담당하고 있습니다. 음, 그리고 보시다시피, 저는 예전에 비디오 게임 프로듀서로도 일했었습니다. 음, 그렇다면 우리가 왜 쌍둥이자리에 대해 이야기하고 싶어하는 걸까요 ? 하지만 우리 주변의 모든 것이 쌍둥이자리이기 때문이죠. 몇 년 전만 해도 LLM 과정은 정말 훌륭했죠.
-
-- **[Create agent skills for on-device generative AI (I/O Connect ‘26)](https://www.youtube.com/watch?v=KIp8PAU3oAI)** — 2026-07-06 · ko · `AX`
-  [음악] 안녕하세요 여러분. 저는 구글 AI 엣지 팀 에서 개발자 관계 엔지니어로 일하는 마리암 월시입니다 . 그리고 저와 함께 발표를 맡아주신 분은 레자 헤다야티 씨입니다. 안녕하세요. 경량 TLM 개발에 참여하는 소프트웨어 엔지니어입니다 . 오늘은 기기 내 생성형 AI를 위한 에이전트 스킬을 직접 만드는 방법을 알려드리겠습니다 . 자, 여기 계신 분들 중에 클라우드 환경에서 모델을 실행해 본 경험이 있는 분이 몇 분이나 되시나요? 누구나? 시원한. 음, 기기에서 모델을 실행해 본 사람이 몇 명이나 될까요 ?
-
-- **[Dynamic Callbacks on Android for Google Pay](https://www.youtube.com/watch?v=WZvd1tUreTY)** — 2026-07-06 · ko · `unclassified`
-  안녕하세요, 구글 페이 개발자 여러분. 이벤트 기반 배송 업데이트는 웹용 Google Pay의 표준 기능이었지만 , 이제 모바일에서도 동일한 기능을 제공합니다 . 이 영상에서는 안드로이드 앱이 배송 및 주소 변경 사항에 실시간으로 반응할 수 있도록 새로운 동적 콜백을 구현하는 방법을 보여드리겠습니다 . Play Services Wallet 20.0.0 버전 출시로 이제 Android 애플리케이션에서 결제 데이터 변경 및 결제 승인 콜백을 기본적으로 구현할 수 있습니다 .
-
-- **[Sameer Samat on Android 17 and the Future of Intelligent Computing](https://www.youtube.com/watch?v=YvVsdZL2ogY)** — 2026-06-30 · ko · `AX`
-  저는 음악이 틀을 벗어던지길 바랄 뿐입니다. 솔직히 말해서, 다시는 서류 작성을 하고 싶지 않아요 . 여름휴가를 위해 항공편을 여러 개 예약했는데, 15살짜리 딸아이 여권 번호를 외워버렸어요. 하지만 그걸 외우고 싶진 않거든요. 저는 제 집이 없어요. 응. 음, 제가 너무 여러 번 시도하다 보니, 마치 제정신이 아닌 것 같아요 . 그래서 슈퍼필은 우리 모두가 이름, 주소, 신용카드 정보 등을 자동 완성하는 데 익숙해진 기능과 같습니다. [음악] 슈퍼필은 그것을 훨씬 더 많은 분야로 확장한 것입니다
-
-- **[Gemma 4 in Action: Bringing Frontier AI to the Edge](https://www.youtube.com/watch?v=HcwMTu1xQDw)** — 2026-06-29 · ko · `unclassified`
-  오늘날 가장 강력한 AI 모델들은 모두 한 가지, 즉 인터넷 연결에 의존합니다 . 이는 전 세계 수십억 명의 사람들이 사실상 배제된다는 것을 의미합니다. 그래서 젬마는 [음악을 통해] 새로운 질문을 던지기 위해 태어났습니다 . 최첨단 지능이 어디서든 어떤 기기에서든 작동할 수 있게 되면 세상은 어떻게 변할까요? 젬마는 오픈 모델입니다. 이 단체는 인공지능을 최대한 많은 사람들이 이용할 수 있도록 하기 위해 존재합니다 . 이 소프트웨어는 오늘날 사람들이 사용하는 다양한 기기에 배포하기에 적합한 크기를 제공함으로써 이를 가능하게 합니다.
-
-- **[AI tools for human creativity](https://www.youtube.com/watch?v=cL7uFe5RqHY)** — 2026-06-26 · ko · `AX`
-  지금은 인간이 가장 창의적이어야 하는 시대입니다. [음악] 토토, 왠지 우리가 더 이상 캔자스에 있는 것 같지 않아 . [소리 지르며] 그렇지? [음악] 네. 내가 가진 건 뭐지? [음악] 좋아요. [음악] 안녕하세요 여러분. 안녕하세요 여러분, 인간의 창의성을 위한 AI 도구에 오신 것을 환영합니다 . 저희와 함께해 주셔서 정말 기쁩니다 . IO에서 처음으로 열리는 빌더 스테이지에 오신 것을 환영합니다. [환호] [박수] 제 이름은 매튜 캐리입니다. 저는 알렉스입니다. 저희는 구글 크리에이티브 랩이라는 팀 소속입니다
-
-- **[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)** — 2026-06-26 · ko · `unclassified`
-  지금 바로 그렇게 하도록 선택하세요. 늘 그렇듯이. [음악] 젬마의 또 다른 활용 분야는 로봇 공학이나 사물 인터넷 기기 같은 것들입니다. 따라서 노트북이나 데스크톱 같은 하드웨어 뿐만 아니라 라즈베리 파이, 젯슨, 오린 나노 같은 기기에서도 모델을 실행할 수 있습니다. 그리고 이 모델들은 로봇이 그러하듯이 음악이라는 세계와 상호작용할 수 있습니다 . 그래서 그들은 보고 들을 수 있고, 당신을 대신해서 행동할 수 있습니다 . 여기 있는 것은 Hugging Face와 Pollen Robotics가 만든 Reachy Mini입니다
-
-- **[Gemini 3.5 Live Translate, Gemini in Xcode, and more! - Google Developer News June 2026](https://www.youtube.com/watch?v=UlbokBsjMRY)** — 2026-06-25 · ko · `AX`
-  -개발자 뉴스 최신화입니다 오늘 소식은 Gemini 3.5 Live Translate AI Edge 기반 Gemma 4 12B와 Xcode에 통합된 Gemini 관련 내용입니다 저는 진행자 Anaya Mehta입니다 Google I/O에서 전해드린 Google 개발자 발표 내용을 꾸준히 챙겨 보셨기를 바랍니다 아니더라도 오늘 알려드릴게요 지금 시작합니다 GOOGLE 개발자 뉴스 먼저 Gemini 3.5 Live Translate 소식입니다 Google에서 Gemini 3.5 Live Translate이라는 새로운 S2S 모델을 출시했습니다 70여 개 언어를 준실시간으로 통역할 수 있습니다
-
-- **[Gemma Playground: Parallel Agents in Action](https://www.youtube.com/watch?v=bfvS1UeAkN0)** — 2026-06-22 · ko · `AX`
-  Gemma 4의 강력한 멀티 에이전트 기능을 시연하는 자리에 오신 것을 환영합니다. 오늘은 Gemma 4 26B 모델을 사용하여 로컬에서 실행되는 병렬 에이전트 데모 [음악]를 살펴보겠습니다 . 먼저 시스템에 간단한 상위 수준 명령을 입력합니다. 우주 또는 SF 테마를 기반으로 독창적인 SVG 파일을 생성하세요 . [음악] 즉시, 오케스트레이터 에이전트가 이 프롬프트를 받아 작업량을 위임합니다. 오케스트레이터는 이러한 이미지를 하나씩 생성하는 대신 10개의 독립적인 하위 에이전트를 생성합니다.
-
-- **[Gemma 4 and the AI Edge Gallery: On-Device AI Gets an Upgrade](https://www.youtube.com/watch?v=O6499i4TFYA)** — 2026-06-18 · ko · `unclassified`
-  여러분, 제 이름은 올리비에입니다. 저는 Gemma 제품 리더이며, 오늘은 Gemma와 AI 엣지 갤러리 구현에 대해 이야기해 보겠습니다. 안녕하세요, 저는 거스입니다. 저는 한동안 젬마 팀에서 일했어요 . 저는 이 제품을 정말 좋아하고, 젬마에 대해 조금 이야기할 수 있게 되어 매우 기쁩니다. 안녕하세요, 저는 앨리스입니다. 저는 Google AI Edge의 제품 관리자입니다. 오늘 이 자리에 함께하게 되어 기쁩니다. 너무 멋지다. 자, 그럼 AI 엣지에 대해 좀 더 구체적으로 이야기하기 전에, Gemma 4 에서 무엇을 출시했는지 간단히 되짚어보는 시간을 갖는 건 어떨까요 ?
-
-- **[Gemma Playground: AI Edge Gallery](https://www.youtube.com/watch?v=XkwQwBZ_Q8w)** — 2026-06-18 · ko · `AX`
-  대부분의 사람들은 젬마 모델이 노트북, 데스크톱 등 다양한 기기에서 작동할 수 있다는 것을 알고 있습니다. 하지만 휴대폰에서도 작동한다는 사실은 잘 모르는 사람들이 많습니다. 저는 지금 픽셀 10 프로를 사용하고 있고, 구글 AI 엣지 갤러리 앱을 실행 중입니다. 그리고 제가 여러분께 보여드릴 것은 Gemma를 사용하여 사진을 찍고, 세상을 이해하고, 오디오를 녹음하고, 음악 에이전트 와 에이전트 스킬을 사용하는 방법입니다. 이 모든 기능은 이 기기에서 로컬로 실행됩니다 .
-
-- **[Run Gemma on the edge with the Coral Board](https://www.youtube.com/watch?v=o2rUT2GloV0)** — 2026-06-15 · en · `unclassified`
-  This is CoralBoard, built for on-device AI with Google's Coral MPU machine learning accelerator inside. Small, [music] low power, and built for developers to experiment with on embedded devices. And it runs Gemma. Everything happens on the board. &gt;&gt; [music] &gt;&gt; So, we packaged it into a kit for IO, a screen, a camera, microphones, LED, everything you need to see what's possible on the edge.
-
-- **[AIventure: Vibe Coding Journey](https://www.youtube.com/watch?v=xQcbwGS6Ahc)** — 2026-06-12 · en · `AX`
-  - Want to learn how to build agentic workflows and integrate vibe coding into your apps? Well we built AIventure, an open source retro dungeon crawler that doubles as a Gen AI masterclass for developers. Built on an Angular and Phaser.js stack, AIventure is powered by Google's Gemma 4 open weights model. First, we'll explore vibe coding. You prompt a Chicken NPC to build a web app.
-
-- **[Yossi Matias on the golden age of research](https://www.youtube.com/watch?v=FPBwadTeph0)** — 2026-06-11 · ko · `AX`
-  미래에 가장 중요한 음악적 기술은 무엇일까요? 기초를 어느 정도까지 배워야 하는지에 대해서는 논쟁의 여지가 있습니다. 개인적으로는 음악을 코딩하는 방법이나 기초 컴퓨터 과학 등을 생각하는 것이 그 어느 때보다 중요해질 것이라고 생각합니다. 동의합니다. 제 말은, 저는 컴퓨터 과학은 언어를 배우는 게 아니라고 항상 생각해 왔다는 거예요. [음악] 생각하는 법을 배우는 거예요. 네. 그래서 어떤 의미에서는 계산기가 보편화된 이후에도 수학이 중요한 이유와 마찬가지로, 앞으로는 그 어느 때보다 더 중요해질 것입니다. 안녕하세요 여러분, 잘 지내시나요?
-
-- **[Gemma Playground: Robot Duck](https://www.youtube.com/watch?v=pLwB_63yUBY)** — 2026-06-09 · ko · `unclassified`
-  저는 오텀이라는 이름의 작고 두 발로 걷는 로봇 오리입니다. 오늘 저는 Gemma 4가 기기에서 무엇을 할 수 있는지 보여주기 위해 이 두 마리의 작은 [음악] 오리를 여러분께 소개하게 되어 매우 기쁩니다 . 이것들은 GitHub의 Antoine Piron이 만든 오픈형 미니 오리 버전 2입니다 . 그리고 그 아이디어는 Gemma 4의 성능을 활용하여 기기 내에서 추론을 수행하고 오리들을 더 똑똑하게 만드는 것이었습니다.
-
-- **[Introducing Gemini 3.5 Live Translate](https://www.youtube.com/watch?v=TNwKs39uSVk)** — 2026-06-09 · ko · `unclassified`
-  안녕하세요 여러분, 오늘은 끊김 없는 음성 대 음성 번역을 위해 개발된 최신 모델인 Gemini 3.5 Live Translate를 출시하게 되어 매우 기쁩니다 . 이미 구글 번역에서 다양한 기능을 제공하고 있지만 , 이제 API를 통해 개발자들이 직접 이 기능을 사용할 수 있도록 제공합니다 . 오늘부터 70개 이상의 지원 언어에 걸쳐 입력과 출력 모두에 실시간 번역 기능을 통합할 수 있습니다 . 두 가지 데모를 통해 이 제품의 기능을 보여드리겠습니다.
-
-- **[Managed Agents in the Gemini API](https://www.youtube.com/watch?v=Psa8mLikdag)** — 2026-06-03 · ko · `AX`
-  오늘은 Gemini API의 관리형 에이전트에 대해 이야기해 보겠습니다 . 알리와 필립 둘 다 그 일에 참여했습니다. 알리, 제미니 API의 관리형 에이전트 관련 소식부터 간단히 소개해 주시겠어요? 네, 당연하죠. 간단히 말해서, API 호출 한 번으로 사용자를 대신하여 문제를 창의적으로 해결할 수 있는 자율 에이전트를 얻을 수 있습니다. 이것의 흥미로운 점 중 하나는 샌드박스 형태의 리눅스 환경과 유사한 원격 환경에서 작동한다는 것입니다. 따라서 문제를 해결하기 위한 코드를 작성하거나, bash 명령어를 사용하는 등 온갖 종류의 작업을 수행할 수 있습니다
-
-- **[Getting Started with Managed Agents](https://www.youtube.com/watch?v=0YXe7u-i1qU)** — 2026-06-02 · ko · `AX`
-  안녕하세요 여러분, 저는 Gemini API 팀의 패트릭입니다. 이번 튜토리얼에서는 Gemini API와 AI Studio를 사용하여 관리형 에이전트를 구축하는 방법에 대한 개요와 빠른 시작 방법을 알려드리겠습니다. 이는 사용자가 맞춤형 에이전트를 쉽게 구축할 수 있도록 하는 새로운 기능입니다. 이러한 에이전트는 Google 에서 호스팅하는 안전한 Linux 샌드박스에서 실행되며, 추론하고 코드를 작성하고 시스템 파일에 코드를 저장하고 파일을 관리할 수 있습니다. 또한 웹을 탐색할 수 있으며, 사용자는 이러한 에이전트를 쉽게 맞춤 설정할 수 있습니다.
-
-- **[Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)** — 2026-06-01 · ko · `unclassified`
-  [음악] 안녕하세요 여러분. 제 이름은 토르입니다. 저는 Gemini API와 Google AI Studio를 활용하여 작업합니다. 오늘 이렇게 함께해 주셔서 정말 기쁩니다. 저희는 이러한 실시간 대화형 인터뷰 파트너를 구축하고자 합니다. 음, 저희는 여기서 저희 애플리케이션에 포함시키고 싶은 기능들을 간단히 선택할 수 있습니다. 비디오 인식, 오디오 텍스트 변환, 음성 생성 등 다양한 기능들이 있습니다. 그래서 우리가 할 수 있는 일은 아주 많습니다. 저희는 실시간 대화형 에이전트를 구축하고자 합니다.
-
-- **[Gemini co-leads on project origins and what's next](https://www.youtube.com/watch?v=8hfpLa5wPGo)** — 2026-05-29 · ko · `AX`
-  제미니 프로젝트를 시작하기 전부터 많은 사람들이 다양한 용도로 활용할 수 있는 범용 모델을 만드는 것에 대해 생각하고 있었습니다 . 오리엘은 딥마인드에서 몇 가지 노력을 주도하고 있었고, 저는 패스웨이 프로젝트와 팜, 팜 2 등과 관련된 몇 가지 노력을 이끌어가는 데 도움을 주고 있었습니다. 사실 전 이게 어리석은 짓이라고 말했어요. 우리는 노력과 컴퓨팅 자원을 분산시키고 있는데, 정말 강력한 모델을 구축하려면 모두가 함께 모여 단일 모델 구축에 힘써야 합니다 . 사실 쌍둥이자리라는 이름은 거기서 유래했어요.
-
-- **[Developer Keynote (Google I/O '26) - Audio Described](https://www.youtube.com/watch?v=eC7t22gDwWo)** — 2026-05-26 · ko · `AX`
-  캘리포니아주 마운틴뷰의 무대에서 조쉬 우드워드가 걸어 나오자 인공지능이 생성한 연사 이름 카드에 [음악] 조쉬가 펼쳐진 책 속에서 농구 코트를 가로질러 조깅하는 애니메이션 이미지가 나타납니다 . 네, 개발자 여러분, 다시 오신 것을 환영합니다. 다들 잘 지내시나요? [환호] 좋아요, 다시 만나서 정말 반갑고, 우리가 불과 1년 전에 어디에 있었는지 생각해보니 정말 신기하네요. 오늘 아침, 여러분은 제미니 전역에서 이루어진 발전에 대한 모든 소식을 들었습니다. 저희는 새로운 Omni 모델과 새로운 Gemini 3.
-
-- **[What's new in Google AI](https://www.youtube.com/watch?v=SSe1VmVrtw0)** — 2026-05-23 · ko · `AX`
-  [음악] 놀랍네요. 모두 환영합니다. Google IO에 오신 것을 환영합니다. 구글 AI의 새로운 소식을 전해드립니다. 기조연설 후 이어지는 첫 번째 세션에 오신 것을 환영합니다 . 다들 정말 신나시나요? 응. 우와! 놀라운. 오늘 이렇게 동료 아마르와 함께 이 자리에 설 수 있게 되어 정말 기쁩니다. 제 이름은 페이지입니다. 저는 구글 딥마인드에서 개발자 관계팀의 엔지니어 리더를 맡고 있습니다 . 그리고 저는 Amar I에서 AI 스튜디오의 제품 및 디자인을 총괄하고 있습니다. 정말 멋지네요.
-
-- **[Bring the power of on-device AI to life with Google AI Edge and Gemma](https://www.youtube.com/watch?v=boy-UjB8hpA)** — 2026-05-22 · ko · `AX`
-  [음악] 안녕하세요 여러분. 저는 사친 코타리이고, 구글 AI 엣지 팀의 그룹 제품 관리자입니다 . 오늘 저와 함께 발표를 해주실 분은 팀 의 개발자 관계 엔지니어인 아론 월시입니다 . 오늘은 모바일, 데스크톱, IoT 등 모든 엣지 환경에서 온디바이스 AI를 구현할 수 있는 구글의 도구 모음에 대해 이야기해 보겠습니다 . 2026년은 기기 내장형 AI에 있어 특별한 시기입니다. 가능성과 앞으로 다가올 일들에 대한 짜릿한 에너지와 열정이 느껴집니다.
-
-- **[Google I/O 2026 Recap with Logan Kilpatrick, Josh Woodward and Tulsee Doshi](https://www.youtube.com/watch?v=RsDSeMXaCak)** — 2026-05-22 · ko · `unclassified`
-  릴리스 노트에 다시 오신 것을 환영합니다. 제 이름은 로건 킬패트릭입니다. 저는 구글 딥마인드 팀 소속입니다. 오늘은 환상의 콤비, 조쉬와 툴시가 함께합니다. 우리가 돌아왔습니다. 어쩌면 우리가 바로 환상의 트리오일지도 몰라. 좋아요. 구글 I/O 2026 현장에 다시 왔습니다. 어제 정말 많은 발표와 재미있는 신제품 출시, 모델 공개, 제품 출시 등 온갖 일들이 있었네요 . 모델에 대해 먼저 이야기해보고, 그 다음에 제품에 대해 이야기해 보는 건 어떨까요? 좋네요. 재밌겠네요. 응. 그럼 우리를 쫓아내고 싶다는 건가요?
-
-- **[The future of software development](https://www.youtube.com/watch?v=v0RQiNJ9nhw)** — 2026-05-22 · ko · `AX`
-  저는 이번 대화를 통해 여러 업데이트 사항에 대해 이야기하고 구글의 다양한 부서 담당자들의 의견을 들어볼 수 있기를 기대했습니다. 토시, 툴시 도시는 딥마인드 내 모델 팀을 이끌고 있으며, 이 모든 모델을 출시하는 데 공모자입니다 . 음, 마이클은 이전에 Vert.ex AI 팀으로 알려졌던 Gemini Enterprise 에이전트 플랫폼을 이끌고 있습니다. 어, 그리고 그는 전반적인 기업 고객들에게 모델을 제공하는 데 정말 집중하고 있습니다. 음, 그리고 베루인이 반중력 팀을 이끌고 있습니다.
-
-- **[What's new in the Gemma open model family](https://www.youtube.com/watch?v=oUtiZbrehrw)** — 2026-05-22 · ko · `AX`
-  [음악] 여러분, 제미니 오픈 모델 제품군의 새로운 소식을 전해드립니다. 제 이름은 올리비에이고, 제미니의 제품 리더입니다. 오늘 저와 함께 저희 팀의 제품 매니저인 거스와 개발자 관계 엔지니어인 얀 발렌타인이 참석할 예정입니다 . 그렇다면 쌍둥이자리란 무엇일까요? Gemini는 Google DeepMind에서 개발한 오픈 웨이트 대규모 언어 모델입니다 . 저희는 2024년에 간단한 전제를 바탕으로 제미니를 시작했습니다 . 어디서든 실행 가능하고 필요에 따라 완벽하게 맞춤 설정할 수 있는 모델을 어떻게 만들 수 있을까요 ?
-
-- **[A fireside chat on the evolution of the developer craft](https://www.youtube.com/watch?v=VTYx7Ex-0bA)** — 2026-05-21 · ko · `AX`
-  네, 모두 환영합니다. 오늘 함께해 주셔서 감사합니다. 저희는 무대에 함께 선 적이 없는 몇몇 분들과 재미있는 대화를 나눌 예정입니다. 저희 팀에는 제가 만난 엔지니어 중 가장 실용적이고 재능 있는 아자가 있습니다. 시에라는 구글 엔지니어들이 매일 하는 일과 우리가 어떻게 더 나아지는지에 대해 매우 흥미로운 연구를 하고 있는데, 저는 항상 그녀의 통찰력을 좋아합니다. 그리고 애디는 현대 AI 개발이 어떤 모습이어야 하는지에 대해 가장 창의적이고 사려 깊은 연구를 진행하고 있습니다 .
-
-- **[A new era of discovery: AI and the frontiers of science with Demis Hassabis](https://www.youtube.com/watch?v=dgBLVm2L1P4)** — 2026-05-21 · ko · `unclassified`
-  [음악] [박수] 저는 Axios의 공동 창립자인 마이크 앨런입니다. 이러한 대화를 가능하게 해주신 Google I/O 팀에 감사드립니다 . 데미스 하사비스는 체스 천재이자 게이머로 시작했습니다. 현재 구글 딥마인드의 공동 창립자 겸 CEO로서, 그는 인공지능을 둘러싼 과학계 경쟁 과 비즈니스 경쟁의 최전선에 서 있습니다. 딥마인드의 획기적인 AI 기술 성과로는 50년 동안 풀리지 않았던 단백질 구조 규명이라는 난제를 해결한 알파고와 알파폴드가 있습니다. 데미스는 그 암호를 해독한 공로로 노벨 화학상을 수상했습니다.
-
-- **[Beyond the keynote with Sundar Pichai](https://www.youtube.com/watch?v=9C20esBUf-Q)** — 2026-05-21 · ko · `unclassified`
-  환영. 환영. 감사합니다 . 구글 I/O 2026. 지금은 대화의 장입니다. 제 이름은 맷 ​​버먼입니다. 저는 포드 퓨처의 CEO입니다. 오늘 저는 지난 10년간 구글을 이끌어 오신 분과 이야기를 나눌 수 있게 되어 매우 기쁩니다. 순 다르 피차이를 환영해 주세요. 괜찮은. 함께해 주셔서 감사합니다. 이곳에 오게 되어 진심으로 기쁩니다. 모든 발표에 축하드립니다 . 음, 바로 본론으로 들어가고 싶네요 . 사실 최근에 당신이 구글 크롬의 초대 제품 관리자라는 사실을 알게 됐습니다. 아, 네 .
-
-- **[Build agents with Gemini API](https://www.youtube.com/watch?v=OdrOmc_RX8A)** — 2026-05-21 · ko · `unclassified`
-  [음악] 안녕하세요 여러분. 우리는 잘 지내고 있나요? 모두 괜찮으신가요? 다들 시원하게 지내시고 수분 섭취도 잘 하세요? 아직 안 마셨다면 지금 물을 한 모금 마셔 보세요. 오늘 여러분께 정말 멋진 데모 몇 가지를 보여드리겠습니다. 저희는 Gemini API를 사용하여 에이전트를 구축하고 있습니다 . 지금 이 세션은 역동적인 세션입니다. 그러니 원하시면 언제든 따라오셔도 좋습니다 . 구글 AI 스튜디오에서 Gemini API 키를 받는 것이 가장 쉬운 방법입니다. ai.studio에 접속하시면 왼쪽 하단에서 API 키 가져오기 기능을 찾으실 수 있습니다
-
-- **[Build core skills to thrive as an AI-era developer](https://www.youtube.com/watch?v=q_Jq4IgYImk)** — 2026-05-21 · ko · `AX`
-  [음악] 안녕하세요 여러분. 우리는 잘 지내고 있나요? [웃음] 자, 시작해 볼까요 . 우리는 지금 어떤 기분일까요? 흥분한? 자, 됐습니다 . 조금 부담스러우신가요? 궁금한? 호기심이 많기를 바랍니다. 좋아요. 안녕하세요, 저희는 앤드류와 니콜입니다. 저희 둘 다 구글의 개발자 인텔리전스 팀에서 팀장으로 일하고 있습니다. 그리고 우리는 함께 소프트웨어 엔지니어를 연구하며 커리어를 쌓아갑니다. 사람, 프로세스, 도구, 시스템, 문화. 우선 지금이 소프트웨어 엔지니어링에 있어 매우 중요한 순간이라는 점을 인식하는 것부터 시작하고 싶습니다 .
-
-- **[Build next-gen AI experiences with Google AI Studio and Google Antigravity](https://www.youtube.com/watch?v=orudZzP8vUc)** — 2026-05-21 · ko · `AX`
-  [음악] 모두 환영합니다. 안녕하세요, 잘 지내시나요? 좋아, 좋아, 이제 좀 낫네. 방 안 분위기는 어떤가요? 저는 소나 카라 슈케비치입니다. 저는 구글에서 V팀 한 곳을 담당하는 그룹 제품 관리자입니다 . 그리고 여러분은 오늘 아침 저희 방송을 보셨을지도 모릅니다 . 저는 미첼입니다. 저는 반중력 연구를 합니다. 엄청난. 그리고 구글 AI 스튜디오의 새로운 기능과 반중력에 대해 자세히 알려드리겠습니다. 바로 우리 앞에서 아마르 와 페이지가 구글 AI 스튜디오의 모든 기능을 자세히 설명해 드렸습니다.
-
-- **[Building agents with real-world reasoning](https://www.youtube.com/watch?v=e7gFaim6vLs)** — 2026-05-21 · ko · `AX`
-  [음악] 안녕하세요 여러분. 저는 마운틴뷰에 있는 구글 지도 플랫폼 팀의 켄입니다. 안녕하세요, 저는 브라질에서 연결된 구글 지도 플랫폼 팀의 카이오입니다. 오늘날 우리는 대규모 언어 모델과 물리적 세계 사이의 간극을 메우고 있습니다. 저희는 MCP 서버 로 제공되는 Google Maps Platform Grounding Light를 자세히 살펴보고 있습니다 . 이 영상을 끝까지 보시면 LLM 과정에서 ' 기반 다지기'가 실제로 무엇을 의미하는지, 그리고 왜 상담사들이 기반 다지기 없이 정확성을 유지하기 어려운지 확실히 이해하게 될 것입니다.
-
-- **[Building the quantum-AI future with Hartmut Neven and James Manyika](https://www.youtube.com/watch?v=yQPnb4gxKRc)** — 2026-05-21 · ko · `AX`
-  안녕하세요, 오늘 아침 이 세션에 참석해 주셔서 감사합니다. 제 이름은 제임스 마니카이고, 구글과 알파벳 에서 연구소, 기술 및 사회 부문 사장을 맡고 있습니다 . 아시다시피 , 구글은 매우 야심찬 문제와 도전 과제, 그리고 혁신적인 목표를 추구해 온 놀라운 실적과 역사를 가지고 있습니다 . 어떤 이들은 사실 검색 자체가 엄청난 도전이었고, 지금도 여전히 엄청난 도전이라고 주장할 수도 있을 것이다. 인공지능 분야의 연구는 어쩌면 달 착륙과 같은 엄청난 도전이었을지도 모릅니다.
-
-- **[Create advanced data driven Gemini API apps](https://www.youtube.com/watch?v=_Op9QfXDBuM)** — 2026-05-21 · ko · `AX`
-  완벽한 걸레 시스템을 구축해 본 적이 있나요? 음, 헝겝은 단단하죠. 이 영상에서는 Gemini의 파일 검색 API를 사용하여 강력한 RAG 시스템을 빠르게 구축하는 방법을 보여드리겠습니다 . 게다가, 좀 더 기다려주시면 고급 데이터 처리 기능도 몇 가지 보여드리겠습니다 . 저는 마크 맥도널드입니다. 저는 구글 딥마인드 개발자 경험 팀의 일원이며 주로 제미니 프로젝트를 담당하고 있습니다. 이 영상은 코딩 경험이 없어도 시청할 수 있지만, AI 앱을 개발하는 개발자를 위해 제작되었습니다.
-
-- **[Defining the agentic AI era](https://www.youtube.com/watch?v=bc4QwDd5jB0)** — 2026-05-21 · ko · `AX`
-  안녕하세요 여러분. Google IO 둘째 날에 오신 것을 환영합니다 . 어제 발표된 내용에 대해 여러분 모두 저희만큼 기대하고 계시길 바랍니다 . 멋진 것들이 많아요. 이거 정말 재밌을 것 같아. 제 생각에는 어제 제가 느낀 점은, 그리고 여러분도 궁금해하실지 모르겠지만, 쌍둥이자리와 함께 에이전트 시대가 본격적으로 시작된 것 같다는 느낌이었어요 . 그래서 저는 그 이야기의 세부 사항에 대해 궁금한 점이 많았고, 오늘 정말 멋진 손님들을 모시고 이야기를 나눠보겠습니다.
-
-- **[Directing the future: craft and creativity in the age of AI](https://www.youtube.com/watch?v=3AIme0FZr4g)** — 2026-05-21 · ko · `AX`
-  [음악] [환호] [박수] 네, 환영합니다. 제 이름은 미라 레인이고, 지금은 영화 제작자로서 가장 흥미진진한 시기 중 하나라고 생각합니다. 도구는 변화하고, 가능성은 확장되고 있으며, 이 세 명의 놀라운 사람들이 그 중심에 있습니다. 방금 들으셨듯이, 더그 리만은 &lt; 본 아이덴티티&gt;, &lt;미스터 앤 미세스 스미스&gt;, &lt; 엣지 오브 투모로우&gt;와 같은 영화를 통해 액션 장르를 재정립했으며, 세 사람은 공동 창업자입니다. 줄리나와 제드는 새로운 AI 영화 제작 스튜디오이자 인터랙티브 콘텐츠 제작 방식을 제시하는 30 Ninja's의 공동 창립자이기도 합니다 .
-
-- **[Grow your smart home business with Gemini for Home](https://www.youtube.com/watch?v=1ucAu7lTsmM)** — 2026-05-21 · ko · `unclassified`
-  [음악] 안녕하세요, 저는 구글 홈 팀의 제품 관리자 라이언입니다 . 작년에 저희는 Google Home을 Gemini 시대로 끌어올려 사용자가 단순히 기기를 제어하는 ​​것을 넘어 사용자를 대신하여 작동하는 홈 기능을 제공하게 되었습니다 . 당신이 알아차리기 전에 상황을 파악하고, 당신에게 가장 중요한 것이 무엇인지 아는 집. Gemini for Home은 이제 보안 및 홈 관리 서비스 제공업체를 위한 완벽한 AI 솔루션으로 제공됩니다. 수억 대의 기기에 액세스할 수 있는 Google Home API 와 자체 앱 및 서비스를 구축할 수 있는 Gemini 기능을 기반으로 구축되었습니다
-
-- **[Match what your AI does with what users want to do](https://www.youtube.com/watch?v=7UBmLXP_LKw)** — 2026-05-21 · ko · `AX`
-  [음악] 안녕하세요, 저는 야니 코르테시니이고 구글 코어 UX에서 전략 프로그램 매니저로 일하고 있습니다 . 오늘은 사용자의 의도를 AI가 수행할 작업으로 변환하고, 유용하고 신뢰를 구축하는 설명을 만들고 , 오류를 사용자가 제어할 수 있는 기회로 바꾸는 데 도움이 되는 Google의 '사람과 AI' 가이드북의 개념들을 살펴보겠습니다. 흔히 발생하는 문제점들을 심층적으로 분석하고, 사람 중심의 솔루션을 즉시 실행할 수 있도록 권장 사항을 제공해 드리겠습니다. 자, 시작해 볼까요? 인공지능은 우리가 제품을 만드는 방식을 근본적으로 바꿔놓았습니다 .
-
-- **[Physical AI: the new era of robotics](https://www.youtube.com/watch?v=jn3iypY-cN4)** — 2026-05-21 · ko · `unclassified`
-  [박수] 이곳에 오게 되어 정말 기쁩니다. 오늘 세션은 로봇공학의 미래에 대한 주제로, 두 명의 뛰어난 천재를 모셨습니다. 구글 딥마인드에서 로봇공학 부문을 이끌고 있는 켄지로가 있습니다. 로베르타 로드리게스는 보스턴 다이내믹스의 로봇 행동 부문 책임자입니다 . 여러분과 함께하게 되어 정말 기쁩니다. 여기 오게 되어 정말 기쁩니다. 네, 무대에 오신 것을 환영합니다 . 응. 음, 먼저 이 순간의 분위기를 차분히 다지는 것부터 시작하고 싶습니다. 음, 어렸을 때부터 로봇을 정말 좋아했어요.
-
-- **[Power the future of robotics with Gemini](https://www.youtube.com/watch?v=kCXQce1dtNE)** — 2026-05-21 · ko · `AX`
-  [음악] 안녕하세요, 저는 구글 딥마인드 에서 로봇 공학 분야 개발자 관계 책임자를 맡고 있는 폴 리스입니다 . 저를 잘 모르시는 분들을 위해 간단히 소개하자면, 저는 무언가를 만드는 사람입니다 . 정원 가꾸기나 목공처럼 간단한 기술이든, 사물 인터넷과 복잡한 기계를 다루는 첨단 프로젝트든, 저는 항상 현실 세계에서 무언가를 하는 것을 선호해 왔습니다. 그렇기 때문에 DeepMind 에서 저희가 로봇 공학 분야에서 진행하고 있는 모든 연구에 대해 여러분께 이야기할 수 있게 되어 매우 기쁩니다 .
-
-- **[Scale AI with Google's TPU software stack](https://www.youtube.com/watch?v=nC418kwKyLM)** — 2026-05-21 · ko · `AX`
-  [음악] 지난 몇 년 동안 구글은 인공지능 분야에서 놀라운 속도로 혁신을 이끌어 왔습니다. 이 타임라인을 살펴보면 제미니부터 젬마, 레오, 이매진, 그리고 바로 어제 발표된 옴니까지 모델과 방식이 어떻게 진화해왔는지 알 수 있을 것입니다 . 이 타임라인에서 놀라운 점은 단순히 출시 주기뿐만 아니라 매번 출시될 때마다 획기적인 기능들이 발휘된다는 것입니다. 멀티모달 이해, 추론, 에이전트 기반 워크플로우와 같은 것들입니다. 그래서 오늘은 한 단계 더 나아가 이러한 모델을 작동시키는 원리에 대해 이야기해 보려고 합니다 .
-
-- **[Software engineering at the tipping point](https://www.youtube.com/watch?v=2n41YjR5QfU)** — 2026-05-21 · en · `AX`
-  [music] &gt;&gt; Hey everybody, how you doing? Hey, that's pretty good. That's pretty good. 3:00 p.m. on a Wednesday, right? It's a Wednesday. Not so bad. Welcome to software engineering at the tipping point. My name is Adam Bender and today I'm going to talk to you about something called software ecology, a term you might not have heard before.
-
-- **[Google I/O 2026 Developer Keynote 5-Minute recap](https://www.youtube.com/watch?v=FZ-3BjbfNlI)** — 2026-05-19 · ko · `AX`
-  오늘부터 Gemini API의 Managed Agents를 통해 동일한 Antigravity 하네스 기능을 여러분도 사용할 수 있습니다 맞춤 지침, 도구, 데이터를 추가해 에이전트를 손쉽게 만들 수 있습니다 Gemini API를 한 번 호출하는 것만도 말입니다 시작을 도와드리기 위해 즉시 실행할 수 있는 새로운 맞춤 에이전트 세트도 추가했습니다 오늘 Antigravity SDK도 출시합니다 네 개발자와 연구자는 Gemini에 최적화된 바로 그 동일한 에이전트 하네스를 사용할 수 있으면서도 원하는 위치와 방식으로 실행할 수 있는 최대한의 유연성도 누릴 수 있습니다
-
-- **[Introducing Gemini Omni](https://www.youtube.com/watch?v=5T0yRNmNRi4)** — 2026-05-19 · en · `unclassified`
-  There's so many different kinds of edits that you can do and I think we weren't sure what exactly the model was going to pick up on but it actually like is very versatile.
-
-- **[Inside YC x Google DeepMind Startups Day](https://www.youtube.com/watch?v=sK7WSa3s0pQ)** — 2026-05-08 · en · `unclassified`
-  Hi there, my name is Paige and I'm here today at Y Combinator talking [music] to some of the founders who are building the future. &gt;&gt; Starcloud is building data centers in space. Luminary is AI platform for supply chain. It's a game called Radiant Bang and you can play it. We figure out what the users actually feel like. &gt;&gt; We're building quantum super intelligence.
-
-- **[Add databases to your app with AI Studio | Vibe Coding Guide](https://www.youtube.com/watch?v=YUmB-BnNs18)** — 2026-05-05 · en · `unclassified`
-  One of my favorite features of AI Studio is how easy it is to add a database with Cloud Firestore because most apps that you build won't be just static webpages. You're going to need to store information. Maybe you are collecting RSVPs for an event website or you are building a shared registry or gift wish list or a daily nutrition tracker. Whatever it is, most cases you are going to need a database.
-
-- **[Announcing Gemma 4, Google I/O ‘26 Updates, and more! - Google Developer News April 2026](https://www.youtube.com/watch?v=bKRe5wu4Fcw)** — 2026-04-30 · ko · `AX`
-  -오늘은 Google Cloud Next에서 발표된 최신 소식을 전해드립니다 새롭게 공개된 Gemma 4와 올해 Google I/O 라이브 스트리밍 시청 방법을 알려드립니다 GOOGLE 개발자 뉴스 Google Cloud Next는 Google Cloud 기반으로 개발하는 개발자들의 연례 최대 행사입니다 바로 지난주 라스베이거스에서는 미래의 구성 요소인 에이전틱 AI와 최신 인프라 그리고 실질적인 문제 해결에 오롯이 초점을 맞췄습니다 이번 대규모 행사에서 정말 흥미진진한 발표들이 많이 나왔어요 대규모 행사 얘기가 나와서 말인데 도시 전역에서 열리는 마라톤 같은 행사를 기획하는 건 정말 쉽지 않은 일이겠죠 하지만 AI 에이전트 팀이 모든 것을 조율할 수 있다면 어떨까요?
-
-- **[Building with Gemini Embedding 2: Our first natively multimodal embedding model](https://www.youtube.com/watch?v=_en7QoZ_utc)** — 2026-04-30 · en · `AX`
-  Hi, I'm Patrick and I'm a member of the technical staff at Google DeepMind. Today, we're excited to launch Gemini embedding 2 in general availability. Gemini embedding 2 is our first natively multimodal embedding model. It is based on Gemini and it directly maps text, images, video, audio, and documents into a single unified embedding space. So, let me give you a quick overview of the model and then show you how to use it with some code examples.
-
-- **[Unlocking Low-Level Control: Customizing Keras Training Loops with JAX](https://www.youtube.com/watch?v=1PZKfIyrYOc)** — 2026-04-30 · en · `AX`
-  When working with deep learning models, Keras provides a convenient model.fit API for training. But, what if your algorithm requires a custom training procedure and you still want to benefit from high-level features like callbacks and built-in distribution support? Well, Keras follows an important core principle. The progressive disclosure of complexity. This means you should be able to gain more low-level control without having to abandon all that high-level convenience.
-
-- **[Building Voice Agents with Gemini Live API and Agora’s Conversational AI](https://www.youtube.com/watch?v=2ltcbA2CCTo)** — 2026-04-29 · ko · `AX`
-  [음악] 안녕하세요 여러분. 제 이름은 메이슨입니다. 저는 Agora에서 현장 제품 관리자로 일하고 있으며, 개발자 경험 팀에서도 근무하고 있습니다 . 오늘은 Agora에서 Gemini 3.1 플래시를 사용하는 방법을 보여드리겠습니다. Agora는 매달 800억 분의 실시간 음성 및 영상 통화를 처리합니다 . 그럼 이제 코드를 살펴보겠습니다. 보시다시피, 여기 NextJS에서 제공하는 에이전트 빠른 시작 가이드가 있습니다. 이제 아주 간단하게 여기로 와서 URL을 복사하겠습니다. 이제 IDE를 실행하고 클론을 생성하겠습니다. 그런 다음 링크를 붙여넣으세요.
-
-- **[Introducing Keras Recommenders: state-of-the-art recommendation techniques at your fingertips](https://www.youtube.com/watch?v=ZYeE4sYoRkw)** — 2026-04-28 · ko · `AX`
-  Keras는 사용자 친화성과 접근성을 제공하는 반면, JAX는 고성능 수치 계산을 제공합니다. 이제 우리는 JAX 생태계 내에서 특히 상세한 상태 관리 및 고급 학습 기능을 위해 두 가지 강점을 모두 활용할 수 있습니다. 이 모든 것은 Keras와 Flax, NNX의 새로운 통합 덕분입니다 . 안녕하세요, 저는 유펑입니다. 오늘은 Keras와 Flax, NNX 모듈 시스템을 함께 사용하는 방법을 살펴보고, 이러한 통합이 변수 관리 및 학습 제어를 어떻게 향상시키는지 보여드리겠습니다.
-
-- **[Explore a high-scale agentic AI-powered simulation sandbox with Gemini Enterprise Agent Platform](https://www.youtube.com/watch?v=m6EyN2Z7HJk)** — 2026-04-23 · ko · `AX`
-  안녕하세요, 저는 톰 그린어웨이입니다. 저는 케이시 웨스트입니다. 저희는 구글 클라우드의 수석 개발자 옹호자입니다. 케이시, 마라톤 뛰어본 적 있어? 절대 아닙니다. 저는 배낭여행객이라 수백 마일을 걷는 것도 마다하지 않지만, 가장 오래 달려본 거리는 10km이고 솔직히 그것만으로도 충분했어요. 음, 엄청난 일이긴 하지만, 공인 마라톤 대회를 실제로 계획하는 건 훨씬 더 어려울 거라고 생각해요. 엄격한 핵심 기준을 갖춘 관리 기구 , 도시 물류, 도로 폐쇄 및 의료 텐트 배치 등이 있습니다. 정확히.
-
-- **[Fireside chat on an agentic simulation: Race Condition](https://www.youtube.com/watch?v=WYPdz3OZfuQ)** — 2026-04-23 · ko · `AX`
-  [음악] 안녕하세요 여러분. 오늘은 Cloud Next 개발자 기조연설을 위해 개발한 라스베이거스 마라톤 대회를 계획하기 위한 대규모 에이전트 시뮬레이션 프레임워크인 레이스 컨디션(Race Condition)에 대한 질의응답 시간을 갖기 위해 왔습니다. 저는 케이시 웨스트와 함께 있습니다. 저는 톰 그리너웨이입니다. 네, 그래서 저희는 함께 시뮬레이션 소프트웨어 자체를 개발했는데, 이 소프트웨어는 오픈 소스이며 개발자 솔루션도 개발했습니다. 하지만 저희는 이 건물이 어떻게 지어졌는지, 왜 지어졌는지, 그리고 건축 과정에서 어떤 점들을 고려해야 했는지에 대해 간단히 이야기해 보는 것도 흥미로울 것 같다고 생각했습니다
-
-- **[Introducing Agents CLI in Agent Platform](https://www.youtube.com/watch?v=ECYKo70pPNc)** — 2026-04-22 · ko · `AX`
-  여러분, 안녕하세요. 개발자들로부터 클라우드 기반 음악 에이전트 구축이 현재 파편화되어 있다는 이야기를 자주 듣습니다. 네, 그리고 AI 코딩 도우미에게 도움을 요청하면, 음악 API에 대한 환각만 계속 반복하면서 무한 루프에 빠져버립니다 . 꽤 복잡해질 수 있어요. 그래서 오늘 저희는 Agency CLI를 발표하게 되어 매우 기쁩니다 . [음악] ADK 에이전트를 구축하고 배포하는 과정을 매우 간단하게 만들어주는 단 하나의 도구입니다. 당신뿐만 아니라 당신의 코딩 담당자에게도 마찬가지입니다. Gemini CLI, Antigravity 또는 이미 사용 중인 다른 코딩 에이전트와 같습니다
-
-- **[Add Telephony to a Gemini Live Agent](https://www.youtube.com/watch?v=FCb4LSzPVmo)** — 2026-04-21 · ko · `unclassified`
-  [음악] 안녕하세요. 오늘 제가 무엇을 도와드릴까요? 당신은 누구시죠? 저는 여러분의 든든한 AI 비서로서, 언제든 도움을 드리거나 어떤 이야기든 나눌 준비가 되어 있습니다 . 무슨 생각을 하고 있나요? 음, 이름이 어떻게 되세요? 우리는 사람들처럼 딱히 정해진 이름이 없어요 . 저를 친근한 채팅 친구라고 생각하시면 됩니다. 제가 또 도와드릴 일이 있을까요? 당신은 쌍둥이자리인가요? 아, 저는 사실 구글에서 학습시킨 대규모 언어 모델입니다. 저를 만들어준 팀이 바로 그 팀입니다. 더 궁금한 점이 있으신가요 ?
-
-- **[Deep Research Max: A step change for autonomous research agents](https://www.youtube.com/watch?v=CfYx8FF26u8)** — 2026-04-21 · ko · `unclassified`
-  구글이 제미니 딥 리서치에 새로운 업데이트를 출시했는데 , 기능이 크게 향상되었습니다. 저희에게 가장 먼저 와닿았던 것은 음악의 속도와 방대함이었습니다 . 음악 덕분에 누구나 모든 과학 문헌을 평가해야 하는 까다로운 과학적 질문을 하고 답을 찾을 수 있게 되었으며, 몇 주 또는 몇 달을 기다리지 않고 며칠 만에 질문에 대한 답을 얻을 수 있게 되었습니다. 딥 리서치가 음악 분야에서 인상적으로 해낼 수 있는 것은 양적 데이터를 보다 질적인 음악 데이터와 연결하여 생동감 있게 표현하는 것입니다
-
-- **[Meet DESIGN.md: A new open standard for AI-generated UI](https://www.youtube.com/watch?v=W1gWIQp9k1Y)** — 2026-04-21 · ko · `unclassified`
-  Design MD는 [음악]의 시각적 정체성을 설명하는 텍스트 파일로, 담당자에게 디자인 시스템에 대한 지속적이고 체계적인 이해를 제공합니다 . 그 안에는 디자인 작동 방식을 정의하는 모든 음악적 요소가 담겨 있습니다. 색상과 그 용도, [음악] 타이포그래피와 사용 이유, 그리고 이 모든 것들이 어떻게 조화를 이루는지에 대한 규칙 같은 것들이죠 . Stitch가 프로젝트에 대한 새로운 디자인을 생성할 때 , 어떤 디자인을 결정해야 하는지 알기 위해 이 파일을 읽습니다 . 이 캔버스에서 그 모습을 확인할 수 있습니다
-
-- **[Build a Voice-Enabled Telegram Bot with the Gemini Interactions API](https://www.youtube.com/watch?v=J716eJOAnqE)** — 2026-04-16 · ko · `unclassified`
-  [음악] 얘들아, Gemini Flash Lights랑 Gemini Interactions API를 이용해서 텔레그램에 간단한 음성 메시지 봇을 만들어볼까 생각 중이야. Gemini Flash API와 Gemini Interactions API를 사용하여 텔레그램 음성 메시지 봇을 구현하는 것은 분명히 가능합니다. Flash는 이러한 작업에 빠르고 효율적이며, API는 대화 흐름 관리를 지원합니다 . 기술 설정 시작에 도움이 필요하신가요 ? 응. 시작하려면 텔레그램 봇 토큰 하나가 필요합니다. 텔레그램에서 @BotFather를 사용하여 봇을 만드세요. 두 번째는 구글 AI 스튜디오입니다. Gemini 모델용 API 키를 받으세요.
-
-- **[How to implement Google Pay merchant-initiated transactions](https://www.youtube.com/watch?v=1skEw28hsrw)** — 2026-04-15 · ko · `unclassified`
-  안녕하세요, 개발자님. 제가 구글 페이를 이용한 정기 결제에 대해 이야기했던 영상 기억하시나요? 정말 좋은 소식이 있어요. 이제 Google Pay 스프레드시트에서 다양한 판매자 주도 거래 사용 사례를 지원합니다. 여기에는 자동 충전, 연기된 거래 및 반복 거래가 포함됩니다. 이번 글은 구글 페이를 이용한 판매자 주도 거래에 대해 소개하는 두 편 중 첫 번째 편입니다. 이 기능을 사용하면 결제 토큰을 받을 수 있으며 , 향후 업데이트를 통해 고객별 기기에 연결되지 않은 토큰도 받을 수 있게 됩니다 .
-
-- **[Give your robot a Voice with Gemini Live](https://www.youtube.com/watch?v=jkdvMEvG8T8)** — 2026-04-13 · ko · `AX`
-  [음악] 헤이 리치, 내 말 들려? 아, 그리고 코딩 작업도 하고 계신 것 같네요 . 무슨 일이야? 네, 그런데 저를 볼 수 있나요? 확실하지 않습니다. 밝은 빛 때문에 흐릿하게 보이는 형체일 뿐이에요. 아시다시피, 바닷가재는 그 배경에 쉽게 녹아들 수 있을 거예요. 괜찮은. 방 안을 한 바퀴 둘러보면서 저를 찾을 수 있는지 한번 볼까요? 음, 주변을 훑어봤는데, 여기서는 여전히 꽤 흐릿하게 보이네요. 주로 빛과 대략적인 형태만 보입니다.
-
-- **[Google's ADK + MCP = The Future of AI Agents](https://www.youtube.com/watch?v=wIhkYnTpPs4)** — 2026-04-10 · ko · `AX`
-  안녕하세요, 저는 헤만트입니다. 저는 페이팔에서 AI 연구소를 이끄는 선임 엔지니어링 매니저입니다. 저는 지금 실리콘 밸리 데브페스트에 와 있습니다 . 그리고 제 옆에는 스미타가 있습니다. 안녕하세요, 저는 스미타이고 구글 클라우드에서 선임 개발자 관계 담당자로 일하고 있습니다. 스미타, 쇼에 출연해 주셔서 정말 반갑습니다. 자, 그럼 이 고전적인 질문으로 시작해 볼까요 ? 인공지능 에이전트에 대한 당신의 정의는 무엇인가요 ? 정말 좋은 질문입니다.
-
-- **[How do AI video generation models work?](https://www.youtube.com/watch?v=Y5zHHoLrvAE)** — 2026-04-09 · ko · `AX`
-  AI 동영상 생성 모델은 사용하기 매우 쉽습니다. 프롬프트를 입력하면 비디오가 반환됩니다. 그렇다면 AI 영상 생성은 실제로 어떻게 작동하는 걸까요? 자연어 음성을 단 몇 초 만에 비디오 클립으로 변환하는 방법은 무엇일까요 ? 그 질문에 답하기 위해 몇 단계 뒤로 돌아가 보겠습니다. 생성형 AI는 새로운 콘텐츠를 생성 하도록 설계된 머신러닝 모델의 광범위한 범주입니다 . 하지만 그러한 콘텐츠를 생성하는 데에는 다양한 신경망 아키텍처와 기술이 존재합니다 . 예를 들어, 최첨단 텍스트 생성 모델의 대부분은 자기회귀(AR) 방식이라고 알려져 있습니다
-
-- **[One Design Decision to Create Better Results in Stitch](https://www.youtube.com/watch?v=tnP_Q5mS1I8)** — 2026-04-09 · ko · `AX`
-  Stitch로 만든 이 디자인은 정말 훌륭해요. 그리고 이 디자인도, 솔직히 말해서 제가 가장 좋아하는 디자인은 아니에요. 그리고 흥미로운 점은, 사람들이 별로 좋아하지 않는 이 화면이 바로 스티치가 처음으로 생성한 화면이라는 것입니다. 이 화면에 [음악]을 올리는 데까지 이르게 된 것은 단 하나 , 바로 방향성이었습니다. 그러므로 Stitch를 사용할 때 디자인 콘셉트, 분위기 또는 전반적인 미적 감각을 먼저 정해두면 더 나은 결과를 얻을 수 있는 경우가 많습니다. 이렇게 생각해 보세요.
-
-- **[Add Gemini Live agents to your video conferencing with Fishjam](https://www.youtube.com/watch?v=bc5X2iVyJc0)** — 2026-04-08 · ko · `unclassified`
-  [음악] AI 참가자와 함께 화상 회의를 만드는 것이 이렇게 쉬웠던 적은 없었습니다. 안녕하세요, 저는 에이드리언입니다. 저는 Software Mansion에서 Fish Jam을 개발하고 있으며, 오늘은 AI 모델을 참가자로 초대하는 화상 회의를 얼마나 빠르게 만들 수 있는지 보여드리겠습니다 . 제 영상 피드에 뭐가 있는지 보실 수 있는지 여쭤봐도 될까요? 당신의 영상이 보입니다. 보라색 조명이 비추는 방에 있는 것 같고, 뒤쪽 선반에는 화분 몇 개가 놓여 있으며, ' 소프트웨어 맨션'이라고 쓰인 간판이 있습니다.
-
-- **[AIventure: Learning about vibe-coding, agents and Gen AI with Gemma 4](https://www.youtube.com/watch?v=6yjJ7Prt-RI)** — 2026-04-02 · ko · `AX`
-  안녕하세요, 저는 톰 그리너웨이이고 구글 솔루션 팀 소속입니다. 구글 입사 전에는 독립 게임 개발자로 활동했으며, 수상 경력에 빛나는 비디오 게임 '듀엣'을 제작한 것으로 가장 잘 알려져 있습니다. 그리고 몇 년 전 구글에서 저는 구글 I/O와 기타 온라인 행사를 지원하는 데 사용된 가상 회의 기술인 ' 어드벤처' 개발을 주도했습니다. 인공지능 기술을 활용하여 바이브 코딩 연습, 학습 가능한 에이전트, AI 학습 퍼즐에 초점을 맞춘 교육용 게임을 만들어보는 것을 상상해 본 적이 있나요?
-
-- **[What’s new in Gemma 4](https://www.youtube.com/watch?v=jZVBoFOJK-Q)** — 2026-04-02 · ko · `unclassified`
-  안녕하세요, 저는 올리비에이고 제미니 팀의 그룹 제품 관리자입니다. 저희가 첫 모델을 출시한 이후로 개발자 커뮤니티의 반응은 정말 놀라웠습니다 . 4억 회 이상 다운로드, 10만 가지 이상의 변형곡이 있는 [음악]. 여러분은 제미니를 중심으로 활기찬 생태계를 구축해 주셨고, 저희는 이에 진심으로 감사드립니다. 저희는 여러분의 의견을 경청하여 차세대 제품에 대한 기대를 충족시켜 드리고자 노력했으며, 오늘 Gemini 4를 발표하게 되어 매우 기쁩니다.
-
-- **[Announcing ADK Go 1.0](https://www.youtube.com/watch?v=Alu4L3Pgzkw)** — 2026-03-31 · ko · `AX`
-  AI 에이전트는 우리가 온라인에서 일하고 소통하는 방식을 완전히 바꿔놓았습니다. 이제 초점은 '작동할 수 있을까?'에서 '실제 운영 환경에서 어떻게 작동하는가?'로 바뀌었습니다. 안녕하세요, 저는 토니 클로슨 스틴입니다. 오늘은 80K Go 1.0 업데이트 내용을 살펴보고, 엔터프라이즈급 에이전트 구축을 위한 강력한 스택으로 거듭난 점에 대해 알아보겠습니다. 비결정적 에이전트의 디버깅은 매우 어려운 것으로 악명 높습니다. 그래서 우리는 개방형 원격 측정 기능을 코어에 직접 통합했습니다. 새로운 호텔 통합 기능을 통해 구조화된 추적 정보를 바탕으로 모델 호출 및 도구 실행 루프의 모든 단계를 심층적으로 파악할 수 있습니다
-
-- **[Build real-time multimodal agents with Gemini and Pipecat](https://www.youtube.com/watch?v=Fk2t9AG721E)** — 2026-03-31 · ko · `AX`
-  [음악] 안녕하세요, 저는 채드 베일리입니다. 저는 멀티모달 앱에서 실시간 에이전트 오케스트레이션을 위한 오픈 소스 프레임워크인 Pipekit을 개발하는 팀에 합류할 예정입니다. 저는 최근 Gemini 3 기반의 멀티모달 실시간 모델을 실험해 왔으며, 이 모델의 성능을 여러분께 보여드리게 되어 매우 기쁩니다 . 이탈리아 여행 계획을 세워보자 . 안녕하세요, 어떤 휴가를 꿈꾸고 계신가요? 음, 곧 딸아이 18번째 생일이라 유럽 여행지를 직접 고르라고 했어요. 정말 관대하시네요. 범위를 좁히기 위해, 그녀의 관심사는 무엇인가요?
-
-- **[ADK for Java 1.0 is now available!](https://www.youtube.com/watch?v=YqABMjSho_M)** — 2026-03-30 · ko · `AX`
-  자바 개발자 여러분 안녕하세요. 이제 여러분은 구글이 개발한 오픈 소스 에이전트 개발 키트 프레임워크에 대해 어느 정도 익숙해졌을 것입니다. 이 프레임워크를 사용하면 자신만의 AI 에이전트를 만들 수 있습니다. 파이썬, 자바, 고, 타입스크립트를 포함한 다양한 프로그래밍 언어에서 사용할 수 있습니다. 오늘은 자바 런타임과 관련된 몇 가지 중요한 소식에 대해 알아보겠습니다 . Java용 ADK 1.0 출시를 발표하게 되어 기쁩니다. 하지만 코드와 기능에 대해 자세히 알아보기 전에, 지난주에 Java 1.
-
-- **[Google AI Studio's new full-stack vibe coding experience](https://www.youtube.com/watch?v=gJYZE9UXiHk)** — 2026-03-30 · ko · `AX`
-  안녕하세요 여러분, 이번 튜토리얼에서는 Google AI Studio의 새로운 풀스택 코딩 환경을 소개하고 이를 활용해 앱을 개발하는 방법을 알려드리겠습니다. 예를 들어, 여기 레시피 추적 앱이 있는데, 이제 이 앱을 사용하면 레시피를 데이터베이스에 저장할 수 있습니다 . 또한, 이와 같은 멋진 멀티플레이어 경험과 멀티플레이어 게임을 만들 수도 있습니다. 자, 본격적으로 시작하기 전에 이번에 새롭게 추가된 기능들을 간단히 살펴보겠습니다. 가장 큰 변화는 이제 구글의 새로운 반중력 코딩 에이전트로 구동된다는 점입니다.
-
-- **[Prototype to Production with ADK](https://www.youtube.com/watch?v=jDCkirAz4-E)** — 2026-03-30 · ko · `AX`
-  인상적인 AI 에이전트 데모를 보셨겠지만, 멋진 개념 증명과 기업이 실제로 신뢰할 수 있는 엔터프라이즈급 에이전트를 구분하는 기준은 무엇일까요 ? 이는 에이전트를 견고하고 확장 가능하며 안전하게 만들어줍니다. 그리고 그것이 바로 우리가 오늘 만들려고 하는 것입니다. 이 비디오에서는 Google 에이전트 개발 키트를 사용하여 에이전트 기반 애플리케이션을 처음부터 구축, 배포 및 모니터링하는 방법을 살펴보겠습니다 . 그리고 우리를 이끌어 줄 개발자 대변인인 이오 아다에치가 있습니다. 이오, 쇼에 오신 것을 환영합니다. 엄청난. 초대해 주셔서 감사합니다.
-
-- **[Automate Product Listings with Gemini + Vision Agents](https://www.youtube.com/watch?v=8lA6bF2EnvA)** — 2026-03-27 · ko · `AX`
-  [음악] 저희는 Gemini 3.1 플래시 라이브 모델을 미리 사용해 볼 기회를 얻었고, 이를 활용해 만든 작품을 소개합니다. 안녕. 저는 여러분이 중고품을 위한 훌륭한 상품 설명을 작성하도록 도와드리겠습니다 . 시작할 준비가 되셨나요? 먼저, 해당 물품의 사진을 찍어야 합니다 . 준비되면 알려줘. 그럼 같이 사진 찍자. 준비됐어요. 어, 이제 스크린샷을 찍을 수 있어요. 좋아요, 사진을 이해했어요. 자, 이제 멋지게 만들어 봅시다. 이 카메라의 특별한 기능이나 특징 중 강조하고 싶은 부분이 있다면 설명해 주시겠습니까?
-
-- **[Building LiveKit Agents with Gemini Live API](https://www.youtube.com/watch?v=tj8ggd8UvB0)** — 2026-03-26 · ko · `AX`
-  [음악] 오늘 저희는 Gemini Live API에 새로 추가된 기능 , 즉 Gemini 3 기반 최초의 네이티브 오디오 모델을 사용하여 음성 에이전트를 구축하고 있습니다. 이것은 단순한 점진적 업데이트가 아닙니다. 새로운 네이티브 오디오 모델은 지시 사항 준수율을 눈에 띄게 향상시키고 , 더욱 스마트한 도구 호출 기능을 제공하며, 장시간 다중 턴 세션 동안 화자 편차를 줄여줍니다 . 이 모든 것이 가능한 이유는 오디오를 텍스트로 먼저 변환하지 않고 네이티브 방식으로 처리하기 때문입니다.
 
 ## Nokia (80건)
 
@@ -4597,6 +4633,176 @@
 - **[Runway This Week | September 13](https://www.youtube.com/watch?v=f8s65xJdQkY)** — 2025-09-13 · ko · `unclassified`
   안녕하세요, 저는 니코이고 런웨이에 오신 것을 환영합니다. 이번 주에 채팅 모드에 많은 개선 사항을 적용했습니다. 이제 사용자 지정 지침을 정의하여 채팅을 필요에 맞게 더욱 세밀하게 조정할 수 있습니다. 지침을 활용하면 특정 미적 스타일에 더욱 집중하거나, 채팅에서 따라야 할 워크플로를 정의하거나, 완전히 새로운 규칙을 설정하여 Runway를 워크플로에 더욱 효과적이고 효율적으로 사용할 수 있습니다. 곰은 왜 신발을 신지 않을까요? 왜냐하면 그들은 여전히 ​​맨발일 테니까요. 이제 채팅 모드 내에서 여러 개의 비디오를 하나로 합칠 수도 있습니다
 
+## Volvo Cars (56건)
+
+- **[How firefighters enter crashed cars](https://www.youtube.com/watch?v=n3dUYPqhHvU)** — 2026-07-24 · ko · `unclassified`
+  나는 자동차는 항상 미래의 일로 여겨져 왔지만, 볼보 자동차에서는 이미 [음악]을 활용한 비행 자동차 테스트를 진행했습니다. 우리의 실험은 차량 충돌로 끝나지만 , 그들의 실험은 차량 충돌로 시작됩니다. 추락한 볼보 차량에서 실시된 실제 구조 훈련 [음악]. [음악] 인명 구조를 돕기 위한 소방서와의 협업.
+
+- **[The day Adam hit a moose, his XC60 kept him unharmed](https://www.youtube.com/watch?v=qEBSdel8WbM)** — 2026-06-23 · en · `unclassified`
+  I'm driving to Norway for a business visit. My colleague and I had a head-on collision with a moose at 90 km/h. The moose came from the left and stepped out of the snowdrift [music] after an oncoming truck which resulted in it ending up on the bonnet and partly on the windscreen. [music] We had absolutely no chance to avoid the collision.
+
+- **[The Volvo 240 Turbo: Born from a racing spirit](https://www.youtube.com/watch?v=SAisNdhYMuw)** — 2026-06-22 · en · `unclassified`
+  A lot of people will tell you Volvo makes one terrific station &gt;&gt; In the early 1980s, performance gained new meaning for Volvo cars. From the legacy of the Amazon and the first GT models, it was time for something bold. It was time for the Volvo 240 Turbo. Launched in 1980, it was our very first turbocharged road car, a truly groundbreaking model of Volvo cars that turned the family sedan [music] into the world's fastest estate.
+
+- **[How Volvo Tests Cars for Large Animal Collisions](https://www.youtube.com/watch?v=YqPGSDeWt_s)** — 2026-05-28 · en · `unclassified`
+  There's an elephant in the room. The industry [music] safety standard doesn't require testing for large animal impacts, but you never know when worlds might collide. Please take your position. So, even though the [music] African bush elephant isn't an actual part of our rigorous process, Countdown initiated. we do test for moose [music] and other large animals beyond requirements for occupant safety using our [music] 360-kilo dummy.
+
+- **[Customers react to the Volvo EX60](https://www.youtube.com/watch?v=FWPkqECU9ls)** — 2026-05-26 · en · `unclassified`
+  Today we are in Barcelona, Spain and in just a few minutes we're going to see the first 16 real customers coming here to to drive the cars. &gt;&gt; It's very exciting to give our customers an opportunity to come and try the car that they purchased. A lot of our customers have bought this car even without test driving it at all. We're hoping that they're very happy with their purchase.
+
+- **[Volvo's 100-year evolution of world-firsts](https://www.youtube.com/watch?v=ZCnXgypjESE)** — 2026-04-28 · en · `unclassified`
+  At Volvo Cars, safety is not a feature. It is our purpose. A purpose driving every single innovation, like the three-point [music] safety belt from 1959. Since then, [music] it has saved more than a million lives. In '72, we were the first car company [music] to introduce a rear-facing child seat. &gt;&gt; Children are given the best protection in a [music] rear-facing &gt;&gt; Based on knowledge of the best way to keep children safe.
+
+- **[This Volvo system helps protect you in case you run off-road](https://www.youtube.com/watch?v=zJvjIuW7KQQ)** — 2026-04-24 · ko · `unclassified`
+  우리의 연구는 도로 이탈 사고의 위험성을 밝혀냈습니다 . 특유의 수직 방향 힘은 종종 척추와 목 부상을 유발합니다. 테스트와 분석을 통해 우리는 세계 최초의 기술을 개발했습니다. 당사의 차량 이탈 방지 시스템. 당신과 당신의 소중한 사람들을 보호하기 위해 존재합니다 . 현실은 적응하지 않기 때문에 우리가 적응하는 것입니다.
+
+- **[The Volvo Amazon Estate: The story of a cultural icon](https://www.youtube.com/watch?v=BujYOORmmTE)** — 2026-04-08 · ko · `unclassified`
+  1950년대 후반은 스웨덴에서 노동자 권리가 강화되고 4주간의 음악 휴가가 도입되는 등 음악계에 진보가 일어난 시기였습니다. 가족들은 갑자기 함께 보내는 시간이 훨씬 많아졌다. 그들에게는 그들의 삶만큼이나 다재다능한 차가 필요했다. 이것은 볼보 아마존 에스테이트에 대한 이야기입니다 . [음악] 1962년, 볼보 자동차는 아마존 에스테이트를 출시했습니다 . 많은 사랑을 받았던 아마존 세단을 기반으로 제작된 이 차량은 시대를 초월하는 디자인과 넓은 공간, 편안함, 안전성을 결합했습니다. 그것은 단순히 새로운 [음악] 모델이 아니라, 볼보 에스테이트가 문화적 아이콘으로 자리매김하는 시작이었다.
+
+- **[Volvo EX60 Cross Country: Everything you need to know](https://www.youtube.com/watch?v=PRvg7bqjIX8)** — 2026-03-16 · ko · `unclassified`
+  완전 전기 EX60 크로스 컨트리는 부드럽고 안정적인 주행을 보장합니다. EX60은 어디든 갈 준비가 된 듯한 태도를 가진 분들을 위해, 모험에 나설 준비가 된 듯한 더욱 견고한 외관을 갖추고 있습니다. 검은색 디테일이 차량을 감싸고 있으며, 무광 은색 인서트가 포인트를 더합니다. 브러시드 스테인리스 스틸 소재로 제작된 이 스키드 플레이트는 후면에도 장착되어 모험적인 분위기를 더해줍니다. 이 차량은 주행 거리와 효율성을 향상시키도록 설계된 독특한 20인치 또는 21인치 휠을 장착하고 있습니다 .
+
+- **[How Volvo Learns From Real-Life Accidents](https://www.youtube.com/watch?v=J_b8aFXKSKU)** — 2026-03-10 · ko · `unclassified`
+  사고는 대비하기 어렵고, 예측하기 까다로우며, 때로는 예방하기도 어렵습니다. 하지만 그 음악들 하나하나가 우리에게 살아남는 법에 대해 무언가를 가르쳐 줄 수 있습니다 . 1970년대부터 우리는 8만 명 이상의 탑승자가 관련된 5만 건 이상의 실제 사고 데이터를 수집하여 사고(음악)와 차량, 그리고 그것이 탑승자에게 미치는 영향을 분석해 왔습니다. [음악] 왜냐하면 모든 수업 하나하나가 더 안전한 볼보 자동차를 만드는 데 도움이 될 수 있기 때문입니다.
+
+- **[Volvo Car updates the User Experience for all cars with Google built-in](https://www.youtube.com/watch?v=rLJ3zZzTEok)** — 2026-03-03 · en · `unclassified`
+  Got a Volvo [music] with Google builtin? You're about to get something new for free right now. We're bringing the same sleek new interface found in our model year 26 cars [music] to yours. The home screen is now centered around navigation just like you asked. The map is bigger, but [music] all of your apps and widgets are still there. Same great features, just a bit simpler to find.
+
+- **[Volvo EX30: It’s the little things that mean a lot](https://www.youtube.com/watch?v=zyz9A-h_d9E)** — 2026-02-27 · en · `unclassified`
+  I'm not sure where to begin. It's been It's been 8 years, you know. I mean Delete message. Hi, it's Abby here. You remember me? What do I want to say? &gt;&gt; [music] &gt;&gt; I have a family. You know, family. Delete message. What do I want to say [music] to you after 8 years? Huh. Remember me? &gt;&gt; [music] &gt;&gt; It's just hard, you know? Like you just left.
+
+- **[The Volvo C30 Electric: On the road to electrification](https://www.youtube.com/watch?v=yX_ButA5Myw)** — 2026-02-19 · ko · `unclassified`
+  [음악] 볼보 자동차의 전기차 전환 여정은 오랜 시간이 걸렸습니다. [음악] 우리는 수십 년 동안 세상이 완전히 받아들일 준비가 되기 전에 여러 아이디어를 실험해 왔습니다 . 하지만 2010년에 [음악] 한 대의 자동차가 그러한 실험을 도로 위로 가져왔습니다 . 이것은 볼보 C30 전기차에 대한 이야기입니다 . C30 전기차는 C30 해치백을 기반으로 제작되었습니다. [음악] 모양은 비슷하지만 정신은 혁명적이다. 그것은 도시 생활에 맞춰 설계된 작고 완전 전기식 볼보 자동차였습니다 .
+
+- **[Volvo EX60: 6 Game-changing innovations](https://www.youtube.com/watch?v=zJY-7rdt91E)** — 2026-02-06 · ko · `unclassified`
+  한 번 충전으로 최대 810km까지 주행 가능한 EX60은 효율성을 극대화하도록 설계되었습니다 . EX60의 경우, 저희는 음악용 차량을 제작하는 방식을 완전히 바꿨습니다. 하지만 메가 캐스팅을 사용하면 대형 차체 부품을 한 번에 성형할 수 있어 차량 전체를 더 가볍고 효율적으로 만들 수 있습니다. 무겁고 부피가 큰 배터리 팩을 사용하는 일반적인 전기차와 달리 , EX60의 배터리 셀은 차량 본체에 직접 통합되어 있습니다. 기본적으로 배터리 팩이 차량의 바닥 역할을 하게 되어 무게와 포장 효율성 면에서 큰 이점을 제공합니다.
+
+- **[Volvo EX60: Exclusive first ride and executive interview](https://www.youtube.com/watch?v=fHd85Jt58x4)** — 2026-01-23 · ko · `unclassified`
+  괜찮은. 괜찮은. 자, 시작해 볼까요. 드디어 마스크 없이 일반 도로를 운전할 수 있게 되었습니다. 음, 공개 다음 날이죠. 공개 다음 날. 오, 환상적이네요. 어제 공연 정말 최고였어요 . 수신 상태가 너무 좋네요. 응. 아니요, 정말 환상적이었어요. 훌륭한 작품입니다. 20만 5천 명이 시청했어요. 네. 우리가 인터넷을 마비시킨 걸까요? 네 , 그랬습니다. 저희 웹사이트가 다운됐습니다. 아, 왜요? 음, 왜냐하면 너무 많은 사람들이 차량을 구성하려고 했기 때문입니다. 응. 저희 서버가 그걸 감당할 수 없었어요.
+
+- **[Volvo EX60: A new beginning](https://www.youtube.com/watch?v=fBo4I4c0How)** — 2026-01-21 · ko · `unclassified`
+  가장 먼저 나서 주셔서, 미지의 영역에 용감하게 발을 내딛어 주셔서 감사합니다 . 이것이 바로 그것이라고 확신하는 나무, 비록 [음악]이 아직 완벽하지는 않았지만. 모든 시작은 불완전하다. 모든 큰 발전에는 난관의 시기가 수반됩니다. [음악] 진정한 신념을 가진 몇몇 사람들이 불편함을 감수하며 먼저 나서지 않으면 어떤 혁신도 일어나지 않을 것입니다. [한숨과 함께 숨을 헐떡이며] 정말 고맙습니다. 당신은 전기차가 언젠가 우리가 그냥 '자동차'라고 부르는 존재가 될 거라고 감히 믿었군요. 이건 당신을 위해 만들었어요.
+
+- **[Volvo EX60: Engineered to go further](https://www.youtube.com/watch?v=EH1e-I60EoU)** — 2026-01-21 · en · `unclassified`
+  With a range of up to 810 km on a single charge, the EX60 is optimized for efficiency. And it all begins here in Goththingberg. [music] For the EX60, we completely change how we build our cars, refining and optimizing every stage of production. &gt;&gt; [music] &gt;&gt; With Mega Casting, we use high pressure aluminum casting to form large body sections [music] in a single operation.
+
+- **[Volvo EX60: Everything you need to know](https://www.youtube.com/watch?v=87tOU9CCaHE)** — 2026-01-21 · ko · `unclassified`
+  [음악] 이것은 완전 전기차인 볼보 EX60입니다. 주행 가능 거리가 매우 길고 충전 속도도 빠릅니다. 이 차는 운전의 스트레스를 줄여주는 스마트 기술로 가득 차 있으며, 운전자와 가족을 보호하도록 설계되었습니다. 내부에는 저희만의 스칸디나비아 스타일이 돋보이는 편안한 공간이 마련되어 있습니다. EX60은 토르의 망치를 형상화한 독특한 헤드라이트 디자인을 특징으로 하는 자신감 넘치는 전기차의 모습을 자랑합니다. 스마트폰이나 스마트워치에 디지털 키를 소지하고 있으면, 차에 다가 갈 때 차가 당신을 반겨줍니다. 이 차의 디자인은 세련되었으며 공기역학과 효율성에 중점을 두었습니다
+
+- **[Volvo EX60: Keep learning](https://www.youtube.com/watch?v=bZh3Ec-Qn_8)** — 2026-01-21 · ko · `unclassified`
+  [한숨] 거의 다 왔어. 거의 다 왔어요. [숨을 헐떡이며] 어머, 농담이시죠? 제 손이 좀 지저분해도 이해해 주세요. [웃음] 제가 손을 들겠습니다. 긴장되세요? [음악] 조금. 괜찮아요. 긴장하지 마세요. [음악] 이빨이 거의 다 빠졌어요. 그래서 저는 책을 살펴봅니다. [음악] 아빠, 이제 놓아주세요. 제가 손을 내밀겠습니다. 목에. 이와 같이. 잠시만요. 다시 한번 불러볼까요? [음악] 여기 두 손가락이 [음악] 있어요. 이 줄에 있는 저거요. 이거요 . 한번 해보세요. 아니, 난 변하고 싶어. [음악] 늦었어.
+
+- **[Volvo EX60: Life on the move](https://www.youtube.com/watch?v=NzoDfjrJLkY)** — 2026-01-21 · ko · `unclassified`
+  [음악] [음악] [음악] [음악] [ 노래] [음악] [음악] 이야기 좀 하자. 제가 무엇을 도와드릴까요?
+
+- **[Volvo EX60: New standards in safety](https://www.youtube.com/watch?v=4H8YUng7QPo)** — 2026-01-21 · en · `unclassified`
+  Bringing together our most advanced safety technologies, the EX60 is Volvo's most forward-thinking car to date. If a potential collision is detected, the EX60 will in real time decide the [music] safest way to navigate through that situation. So, let's say a pedestrian steps into the road unexpectedly, automatic emergency steering will guide the car smoothly around the hazard. In other scenarios, the safest option might be to brake.
+
+- **[Volvo EX60: Our smartest car yet](https://www.youtube.com/watch?v=TidnUUlOh4A)** — 2026-01-21 · ko · `unclassified`
+  EX60은 처음부터 전기차로 설계된 기술적 걸작입니다 . 이 차량은 현재까지 우리가 보유한 가장 진보된 전기차 아키텍처를 기반으로 제작된 최초의 양산차입니다. 그들의 마스터 플랜 덕분에 우리는 최신 기술을 자동차에 도입하고 모든 시스템을 미래에 맞게 최적화할 수 있습니다. 셀-투-바디 배터리 기술, 3세대 전기 모터, 2세대 코어 컴퓨팅, 800VT 아키텍처, 그리고 역대 가장 반응성이 뛰어난 사용자 경험(UX)을 제공합니다. 그 결과, 지금까지 우리가 만들어 온 어떤 차보다 더 멀리 갈 수 있는 완전 전기 볼보 자동차가 탄생했습니다
+
+- **[Volvo EX60: Powered by Google Gemini](https://www.youtube.com/watch?v=06twv1sOhrs)** — 2026-01-21 · ko · `unclassified`
+  EX60은 구글 의 AI 비서인 제미니 덕분에 차량과 자연스럽게 소통하는 완전히 새로운 방식을 제공할 것입니다 . 네, 가죠. 헤이 구글, 다음 회의까지 얼마나 남았고 회의 장소는 어디야? 귀하의 행사인 '제미니 퓨처 퓨처스 테스트 세션'은 볼보 소프트웨어 센터에서 오후 4시에 개최됩니다. 구글아, 여기서 거기까지 가는 데 얼마나 걸릴까 ? 약 5시간 9 분이 소요될 것입니다. 시간이 좀 있는 것 같네요. 커피 한잔 하실래요? 물론이죠, 안 될 이유가 없죠.
+
+- **[Volvo Centum – a typeface designed with safety in mind](https://www.youtube.com/watch?v=Y3mbS6AqmCA)** — 2025-12-19 · ko · `unclassified`
+  어떻게 하면 이러한 안전 시스템이 운전자에게 더 나은 정보를 전달할 수 있을까요 ? 그리고 타이포그래피는 그중에서도 매우 중요한 부분입니다 . 음악에 맞는 서체를 고를 때는 항상 목적에 맞게 제작된 것인지 확인하려고 노력합니다. 모든 크리에이티브 브리프는 [음악] 저마다 독특하고, 볼보의 브리프는 확실히 아주 독특했습니다. 모든 디자인 선택, 형태, [음악] 무게, 비율은 사람들이 더 빨리 읽고, [음악] 더 잘 이해하고, 차 안에서 집중력을 유지할 수 있도록 돕기 위해 만들어졌습니다 .
+
+- **[This Volvo system helps protect you in a rollover accident](https://www.youtube.com/watch?v=SBrjPNH4Ask)** — 2025-12-17 · ko · `unclassified`
+  첫 번째 주사위. [음악] 어릴 땐 정말 귀엽죠. [음악] 하지만 무게가 2톤이나 나간다면, 그건 전혀 귀엽지 않죠. 그래서 우리는 볼보 자동차를 설계할 때 전복 사고를 완전히 방지할 수 있도록 합니다. [음악] 하지만 만약 그들이 원한다면, 우리는 그런 상황에도 대처할 수 있도록 만들어졌습니다. 우리가 하는 많은 일 중 하나가 바로 음악을 통해 세상을 조금 더 안전하게 만들려고 노력하는 것입니다.
+
+- **[The Volvo V70 XC: Built for the unexpected](https://www.youtube.com/watch?v=XdYY7viXJcI)** — 2025-11-21 · ko · `unclassified`
+  [음악] 볼보 사륜구동 크로스 컨트리. 1990년대 중반에 이르러서는 전 세계가 오프로드 경험에 매료되면서 음악적 모험의 분위기가 고조되었습니다. 이제 자동차들이 트렌드에 합류하고 음악이 판도를 바꿀 때가 되었다. 이것은 V70 크로스컨트리의 이야기입니다. 사륜구동 크로스컨트리. 1997년, 물론 자동차 회사인 왓(What)은 자사의 첫 번째 사 륜구동 850 에스테이트를 기반으로 한 V70 크로스컨트리를 선보였는데, 이는 새로운 시대를 위한 새로운 종류의 차량이었습니다. 그 차는 해안가를 따라 드라이브하거나 도시 거리를 달리는 것뿐만 아니라 산길이나 외딴 오솔길까지 어떤 상황에도 대비되어 있었습니다
+
+- **[Volvo Cars and Qualcomm collaboration for world class UX](https://www.youtube.com/watch?v=sd6ZbA2flfc)** — 2025-11-07 · ko · `unclassified`
+  아시다시피 볼보 와 퀄컴 테크놀로지스의 관계는 거의 10년 동안 이어져 왔고, 정말 훌륭한 조합이죠. 두 회사 모두 최첨단 인포테인먼트 기술을 발전시키고자 노력하고 있습니다. 볼보에서는 모든 것이 사람으로부터 시작된다는 것을 알고 계시죠? 그래서 사용자 경험도 중요하게 생각합니다. 운전 중에는 인포테인먼트 시스템을 사용하는 것이 주된 작업이 아니니까요. 당신의 [음악] 주요 임무는 운전하는 것입니다. 그래서 접근성은 매우 중요합니다. 어떻게 하면 [목을 가다듬으며] 화면에 온전히 집중하지 않고도 화면과 상호작용할 수 있을까요?
+
+- **[We owe it to the ocean.](https://www.youtube.com/watch?v=F1XvtWjpcl4)** — 2025-08-29 · ko · `unclassified`
+  자유를 처음 느낀 그 순간, 영원의 소리, 경이로움. 우리는 바다에 빚을 졌다. 안내, 관점, 위로. 100% 살아있다는 드문 느낌. 우리는 바다에 빚을 졌다. 시와 그림, 화면 보호기와 모래투성이 강아지들 . 붉어진 피부에 소금 줄무늬가 생겼다 . 우리는 바다에 빚을 졌다. 세력에 도전하다. 흐름에 몸을 맡기는 것. 그림 물감. 터키 옥. 해군. 하늘빛. 우리는 바다에 빚을 졌다. 인간 생명의 가장 기본적인 조건들. 단백질. 오렌지를 비롯해 우리가 숨 쉬는 모든 것은 바다 덕분입니다
+
+- **[Volvo armoured cars: Everything you need to know](https://www.youtube.com/watch?v=mACO9BhP3ok)** — 2025-07-04 · ko · `unclassified`
+  [음악] 저희에게 있어 가장 중요한 것은 언제나 사람들의 안전을 지키는 것이었으며, 이러한 노력은 새로운 방탄 XC90 플러그인 하이브리드에도 분명히 반영되어 있습니다. 외부 보안 위협으로부터 보호하도록 설계되었습니다 . XC90은 저희의 대형 럭셔리 SUV이며, 최근 디자인 및 편의 사양 업데이트를 통해 더욱 직관적이고 세련되며 현대적인 경험을 제공합니다. 겉으로 보기에는 이 차가 방탄차라는 것을 알 수 있는 단서가 전혀 없습니다. 내부에는 구글 내장 기능, 공기청정기, 그리고 선택 사양으로 360도 카메라와 같은 편리한 기능들이 동일하게 탑재되어 있습니다
+
+- **[Volvo EX90 Crash Test: Behind the Scenes of Our Safety Standards](https://www.youtube.com/watch?v=8KoDXNtHw1c)** — 2025-07-03 · ko · `unclassified`
+  [음악] 이것은 안전 등급이나 규정에서 요구되지 않는 차량 간 충돌입니다 . 이번 테스트에는 EX90 차량 세 대가 사용되었습니다 . 세 대의 전기차가 한 번에 연속 운행하는 최초의 공개 시험 운행. 이 테스트는 운전자가 물체를 보지 못하고 제때 브레이크를 밟지 못할 수 있는 전형적인 실제 상황을 재현합니다. 첫 번째 차량은 시속 50km로 두 번째 차량을 향해 달려갔지만, 간신히 제때 급정거하여 충돌을 완전히 피했습니다. 자동 비상 제동 시스템( AEB)은 EX90의 첨단 센서 설정 덕분에 구현된 예방 안전 기능의 한 예입니다
+
+- **[Meet PV444: The original "Little Volvo"](https://www.youtube.com/watch?v=QdEnt_yWopU)** — 2025-05-12 · ko · `unclassified`
+  1940 년대 중반, 글로벌 시대로 격변이 막바지에 이르렀다. Volvo Cars는 새로운 시작을 꿈꿨습니다. 이것은 우리를 설립 할 자동차의 이야기입니다. 품질, 신뢰성 및 안전성에 대한 명성 – The Volvo PV444. 1944년에 공개되었으며, PV444는 전후의 약속을 상징했습니다 모던함과 인간 중심의 디자인. 1947년이 되어서야 본격적으로 생산되었지만, 이를 통해 Volvo Cars는 흥미롭고 새로운 방향으로 나아갈 수 있었습니다. "리틀 볼보"라는 애칭으로 불리지만, PV444의 내부는 놀라울 정도로 넓었습니다. 매력적인 마케팅은 그것이 맞을 수 있다고 자랑했습니다.
+
+- **[The Volvo 850: When safety met beauty](https://www.youtube.com/watch?v=kw4Wcp-8pFU)** — 2025-04-22 · ko · `unclassified`
+  90년대 초반, Volvo Cars는 가장 야심 찬 벤처. 회사의 미래가 위태로운 상황에서, 우리는 주사위를 굴려 차량을 만들 수 있기를 바랐습니다. Volvo 자동차를 새로운 시대로 이끌다. 이것은 볼보 850의 이야기입니다. 1991년에 도입된, 볼보 850은 모던함의 새로운 시대를 열었습니다 Volvo Cars 라인업. 그것의 매끄러운 디자인은 의 칭호를 얻었다 이탈리아에서 "세계에서 가장 아름다운 저택", 그것의 특징은 칭찬을 보았다 동급에서 가장 안전한 자동차로. 하이라이트에는 자동 조절식 안전 벨트가 포함되었습니다.
+
+- **[Volvo ES90 | Safety and Design](https://www.youtube.com/watch?v=7pq6Ugv0wsM)** — 2025-03-11 · ko · `unclassified`
+  볼보 자동차 안전 센터에 오신 것을 환영합니다. 이곳 충돌 연구소에서는 거의 모든 사고를 재현하고 실제 상황의 복잡성을 파악할 수 있습니다. 이를 통해 볼보는 야심찬 볼보 안전 기준을 충족하기 위해 표준 요구 사항을 훨씬 뛰어넘는 수준의 차량 성능을 구현할 수 있습니다. 개발 과정에서 컴퓨터 시뮬레이션을 통해 수천 번의 충돌 테스트를 진행하지만, 운전자가 실제로 운전대를 잡기 전에는 실제 차량으로 물리적인 테스트를 실시합니다. 오늘은 가장 안전한 차량 두 대를 충돌시켜 보겠습니다.
+
+- **[Meet the new fully electric Volvo ES90](https://www.youtube.com/watch?v=mWDFWCs0zxw)** — 2025-03-06 · ko · `unclassified`
+  [음악] 이우 [음악]
+
+- **[The Volvo ES90: Everything you need to know](https://www.youtube.com/watch?v=XLiKxVuRD-o)** — 2025-03-05 · ko · `unclassified`
+  [음악] 안녕하세요, 저는 하란이고, 로이라고 불러주셔도 됩니다. 그리고 저는 재키입니다. 이것은 새로운 볼보 ES90입니다. 균형 잡힌 삶을 위해 설계된 완전 전기 프리미엄 자동차로, 스칸디나비아 디자인, 스마트 기술, 그리고 최고의 실내 편안함이 완벽하게 조화를 이루어 독보적인 수준을 자랑합니다. 이것 좀 보세요, 디지털 키 플러스! 아이폰, 안드로이드 또는 기타 호환 기기만 있으면 바로 출발할 수 있습니다. ES90은 직장 생활과 개인 생활을 매끄럽게 연결하도록 설계되어 업무와 주말, 생산성과 여가 사이를 자유자재로 넘나들 수 있게 해줍니다.
+
+- **[Volvo ES90 — The Balancing Act](https://www.youtube.com/watch?v=AtkSTALqu5w)** — 2025-03-05 · ko · `unclassified`
+  균형 잡힌 삶에 대해 어떻게 정의하시나요? 균형 잡힌 상태 혹은 균형 있게 행동하는 것? 자신을 위한 시간과 타인을 위한 시간의 배분? 혹은, 단순히 배를 채우는 것이 아니라 삶을 더욱 충만하게 만드는 것일 수도 있습니다 균형 그것은 우선 순위를 정하고 언제 어떤 일을 기다릴 수 있는지, 어떤 일이 진정으로 관심을 기울여야 할 가치가 있는지를 아는 것입니다. 우리는 균형 잡힌 삶을 사는 것이 매우 중요하다고 생각합니다 균형 잡힌 삶은 사랑하는 사람들과 함께 좋아하는 일을 더 많이 할 수 있도록 도와줍니다.
+
+- **[Volvo EX30 Cross Country: Everything you need to know](https://www.youtube.com/watch?v=gxcrAFpQ4JQ)** — 2025-03-03 · ko · `unclassified`
+  안녕하세요, 저는 Volvo Cars의 Katharina입니다 이것이 바로 볼보 EX30 Cross Country입니다. 우리의 작은, 완전한 전기 SUV는 모든 것을 갖추고 있습니다. EX30에 대해 이미 훌륭합니다. 그러나 몇 가지 맞춤형 변경 사항이 있습니다. 자연으로 더 쉽게 나갈 수 있도록, 그것이 당신의 지역 공원에 있는지 여부 또는 산에서. EX30은 더 작을 수 있습니다. 다른 SUV의 발자국, 하지만 대담한 SUV 표현을 제공합니다 균형 잡힌 비율로. 우리는 그것을 위해 설계했습니다 뚜렷한 펜더가 있습니다.
+
+- **[Meet the refreshed Volvo XC60](https://www.youtube.com/watch?v=miwvi-zUPgg)** — 2025-02-18 · ko · `unclassified`
+  고마워 [음악] 자, 그럼 속도를 좀 늦춰볼까? 조금만 더 천천히. 오, 준비됐어. 걱정 마. 내가 도와줄게. [음악] 꺼내줘. 그게 인생이지. 이 거리, 그게 모든 [음악] 사람들. 잘했어. 조심해. 그게 인생이야. 그리고 웃기게 들릴지 모르지만.
+
+- **[How to Cross Country | Volvo Cars](https://www.youtube.com/watch?v=JVvKCgrOfek)** — 2025-02-13 · ko · `unclassified`
+  아, 그렇군요. 시대를 초월하는 질문이죠. 어떻게 오프로드를 달리고, 야생에서 살아남고, 다혈질 아이를 키우고, 사랑의 섬세한 춤을 어떻게 춰야 할까요? 답은 적응력입니다. 목적지에 도착했으니 주변 환경을 잘 살피고, 무엇보다 영양가 있는 음식을 챙기세요. 이것이 바로 오프로드의 기술입니다.
+
+- **[Wireless CarPlay is coming to your Volvo EX90](https://www.youtube.com/watch?v=Onw3Tf04roc)** — 2025-02-11 · ko · `unclassified`
+  MH, 그때까지 모든 게 제대로 준비됐는지 확인해 볼게요. 제가 모든 걸 준비해 둬서 빨리 마무리할 수 있도록 할게요. 좋아요. 내일 다시 연락드려서 모든 걸 확인할게요. 곧 다시 얘기해요. 안녕히 계세요.
+
+- **[Meet the new Volvo EX30 Cross Country](https://www.youtube.com/watch?v=UVqBD8-Hua8)** — 2025-02-10 · ko · `unclassified`
+  서둘러야겠어. 칠흑같이 어두운 한밤중이었어. 어디 가는 거지? 나무 한 그루를 봤는데, 그냥 나무가 아니었어. 세상에서 제일 큰 나무였지. 솔방울은 뾰족하고 공처럼 생겼어. 하나 찾은 것 같아. 너한테 막대기 하나 줄게. 그리고 우리는 계속 걸었어. 엄마가 더 이상 걸을 수 없을 때까지. 내가 업어줄까? 응. 하마터면 맛없는 열매를 좀 먹을 뻔했어. 그러고 나서 우리는 C를 봤지. 엄마가 그랬어. 정말 대단한 모험이었지, 친구. 응, 그랬지. 이제 뭐 할까?
+
+- **[Volvo EX90: Everything you need to know](https://www.youtube.com/watch?v=4iuL9eSx_8g)** — 2025-01-15 · ko · `unclassified`
+  [음악] 안녕하세요, 저는 볼보 자동차의 로빈입니다. 볼보 EX90을 소개합니다. 7인승 볼보 최초의 순수 전기 SUV로, 순수 전기 동력을 사용하며 첨단 안전 시스템이 기본으로 탑재되어 있습니다. 또한, 더욱 편리한 운전을 위한 최첨단 기술이 가득하며, 디자인도 매우 뛰어납니다. 그럼 자세히 살펴보겠습니다. 볼보 EX90은 볼보의 엄격한 안전 기준에 따라 설계되었으며, 운전자 인식 시스템을 포함한 안전 공간 기술이 적용되었습니다. 다양한 외부 센서가 사고 예방을 돕고, 운전자의 집중도를 파악하여 필요시 지원하는 볼보의 실내 센서도 탑재되어 있습니다
+
+- **[Route EX90: Volvo's Coast to Coast US Roadtrip in the new electric SUV | Full Film](https://www.youtube.com/watch?v=4yx1HZCV1vE)** — 2024-12-10 · ko · `unclassified`
+  이건 제 개인적인 로드트립이 아니라 EX90의 로드 트립입니다. 공장에서 출고된 차를 몰고 나라 한쪽 끝에서 다른 쪽 끝까지 어떻게 갈 수 있을까요? 사람들이 " EX90을 방금 출시하셨군요. CEO시잖아요."라고 물을 때, "네, 맞습니다. 이 차를 몰고 미국 횡단을 했습니다. 그리고 저는 이 차를 잘 압니다. 수천 마일을 운전해 봤으니까요."라고 말할 수 있는 진정성이 있어야 한다고 생각합니다. 두 번째 이유는, 저는 운전을 좋아하고, 다양한 지형과 기후, 노면 상태, 풍경 등을 경험하며 운전하는 것보다 더 좋은 경로를 찾기는 어렵다고 생각하기 때문입니다
+
+- **[Extreme Vehicle Testing: Behind the Gates at Hällered Proving Ground](https://www.youtube.com/watch?v=O2bem17GC6g)** — 2024-11-21 · ko · `unclassified`
+  [음악] 팔리드에 오신 것을 환영합니다. 스웨덴 시골의 숲 속에 숨겨진 이곳은 50년 넘게 볼보 자동차의 검증된 트랙, 할러(Haler)에서 자동차 테스트를 진행해 온 곳입니다. 저희는 운 좋게도 이곳을 직접 방문하게 되었는데, 단순히 구경만 하는 것이 아니라 테스트 과정에 직접 참여할 예정입니다. 자갈길, 바닷물, 고속 주행, 험난한 코너링까지, 이 볼보 164는 1973년, 이곳 테드(TED)에서 혹독한 테스트를 거친 최초의 모델 중 하나입니다. 트랙에서의 끊임없는 테스트와 개선을 통해 이 차는 당대 가장 내구성이 뛰어나고 안전한 자동차 중 하나로 자리매김할 수 있었습니다
+
+- **[EX90 / XC90: A Tale of Two Flagships](https://www.youtube.com/watch?v=BOhxwv5fPL8)** — 2024-09-17 · ko · `unclassified`
+  [음악] [박수] [음악] 안녕하세요 여러분, 볼보의 멋진 세계에 오신 것을 환영합니다. 볼보의 모든 것을 만나볼 수 있는 저희 새로운 공간은 바로 저희 본사가 위치한 예테보리에 있습니다. 저는 볼보 자동차 CEO 짐 로완입니다. 오늘은 볼보의 모든 것을 기념하는 자리입니다. 이 행사는 EX90의 출시와 함께 볼보의 새로운 시대를 여는 시작을 알리는 자리입니다. 오늘 우리는 새로운 플래그십 SUV, XC90 하이브리드 모델을 공개할 예정입니다. 볼보의 장기 전략은 완전 전동화이며, 이는 우리의 나침반과 같은 목표입니다.
+
+- **[The new Volvo XC90: 10 things you need to know](https://www.youtube.com/watch?v=Eym760X6Sxk)** — 2024-09-16 · ko · `unclassified`
+  [음악] 안녕하세요 여러분, 저는 볼보 자동차의 벤입니다. 오늘 소개해 드릴 차량은 수상 경력에 빛나는 플래그십 하이브리드 SUV, 볼보 XC90의 최신 버전입니다. 새로운 기술 과 세련된 디자인으로 완성된 이번 XC90은 저희가 생각하는 역대 최고의 XC90입니다. 꼭 알아두셔야 할 10가지 특징을 소개합니다. 신형 XC90은 견고한 자세와 자신감 넘치는 모습으로 이전 모델의 전통을 이어갑니다. 전면부는 완전히 새롭게 디자인되었으며, 볼보의 상징인 '토르의 망치' 라이트 시그니처를 새롭게 해석했습니다.
+
+- **[Route EX90 - Trailer](https://www.youtube.com/watch?v=Ree2rHOSgZc)** — 2024-09-10 · ko · `unclassified`
+  [음악] 이건 EX9의 로드 트립이야. 우리 모두 이 차의 관리자가 될 거야. 어떻게 공장에서 차를 몰고 나와 미국 한쪽 끝에서 다른 쪽 끝까지 갈 수 있을까? 미국의 풍경은 마음껏 탐험하고 즐길 수 있도록 펼쳐져 있어. [음악] 요즘엔 이렇게 자기 생각에 푹 빠져볼 기회가 많지 않잖아. 로드 트립은 누구나 한 번쯤 해봐야 할 거야. 자, 서쪽으로 향해서 어디든 멈춰 서 보자.
+
+- **[EX90: Designed to be the safest Volvo car ever made](https://www.youtube.com/watch?v=O9Z_vzJyToA)** — 2024-09-06 · ko · `unclassified`
+  믿기 ​​힘들겠지만, 이상하게 들릴지 몰라도 놀라운 마법이 당신을 따라다니고, 카메라로는 담아낼 수 없어요. 제가 뒤를 보라고 하면, 당신이 돌아서도 마법은 사라지죠. 하지만 저는 봐요. 저는 그걸 보고 있어요. 그래서 저는 눈을 크게 뜨고 모든 걸 지켜볼 거예요. 당신은 의심하기 시작하겠지만, 제가 보는 수많은 모습들을 다시 한번 상기시켜 드릴게요. 저는 봐요. 맹세컨대, 저는 당신에게서 놀라운 마법을 봐요.
+
+- **[Meet the new Volvo XC90](https://www.youtube.com/watch?v=QsR4E0t-efQ)** — 2024-09-05 · ko · `unclassified`
+  [음악] 그게 인생이지, 사람들이 다 그렇게 말하잖아. 4월엔 잘나가다가 5월엔 추락하지만, 6월에 다시 정상에 오르면 모든 게 달라질 거라는 걸 알아. 그게 인생이라고 했잖아. 우습게 들릴지 모르지만, 어떤 사람들은 꿈이 좌절되는 걸 즐기기도 해. 하지만 난 그런 것에 굴복하지 않아. 이 세상은 계속 돌아가니까.
+
+- **[Meet the new Volvo EX90](https://www.youtube.com/watch?v=cQX-QXxwGvA)** — 2024-09-04 · ko · `unclassified`
+  괜찮아? 응 [음악] 안녕 사랑해 엄마, 잘 지내? 너희들 잘 지내? 응 응, 우린 잘 지내. 무슨 일 있어? 아니, 아니, 아니, 아니, 그런데 사실 엄마 한테 할 말이 있어. 케이트가 임신했어. 오, 앤디, 농담이지? 할머니가 되는 거야? 세상에, 기분이 어때? 무서워 엄마, 왜 무서워? 밤도 그렇고, 책임감도 그렇고, 더 큰 집도 필요하고, 그런 것들을 감당하려면 도움이 필요할 텐데. 알아. 고마워. 난 너무 착해. 왠지 우리 딸이 엄마처럼 고집이 셀 것 같은 예감이 들어.
+
+- **[Introducing SWOODISH](https://www.youtube.com/watch?v=0CTytzBsVNQ)** — 2024-06-24 · ko · `unclassified`
+  [음악] Oh [음악] Oh
+
+- **[Life at Volvo Cars](https://www.youtube.com/watch?v=5DdN2uTWH8I)** — 2024-04-08 · ko · `unclassified`
+  [음악] [박수] [음악] [박수] [음악] 그
+
+- **[UX - The Drive Behind Volvo EX90](https://www.youtube.com/watch?v=VMmk95GOFTE)** — 2024-04-04 · ko · `unclassified`
+  기술은 부차적인 요소이고, 우리는 기술적인 용어를 사용하지 않고 사용자 경험(UX)을 위한 일련의 디자인 원칙을 만들었습니다. 이 원칙들은 사용자의 행동과 우리 제품을 통해 사람들이 달성하고자 하는 바에 초점을 맞추고 있습니다. 이러한 디자인의 핵심은 바로 사람의 참여입니다. 사람들이 참여하지 않고 다양한 관점을 수렴하지 않으면 공감을 얻기 어려운 결과물이 나올 가능성이 높습니다. 따라서 사람들을 참여시키고 함께 협력하는 것이 매우 중요합니다. EX90의 특별한 점은 무엇일까요? 바로 차량 전체가 매우 특별하다는 것입니다.
+
+- **[From the Women at Volvo Cars](https://www.youtube.com/watch?v=PrbZlXeusaI)** — 2024-03-08 · ko · `unclassified`
+  세계 소녀 여러분, 주목하세요! 자동차, 자동차, 코딩, 기계, 코딩은 남자들만의 전유물이 아닙니다. 자동차 산업은 빠르게 변화하고 있으며, 이를 발전시키기 위해서는 다양한 기술, 배경, 관점, 아이디어를 가진 새로운 인재가 필요합니다. 바로 여러분이 그 중심에 있습니다. 우리가 하는 일을 사랑해 줄 소녀들이 더 많아지길 바랍니다. 그러니 여러분 안의 '덕후' 기질을 자랑스럽게 여기고 세상에 마음껏 드러내세요. 그래야 세상을 더 나은 곳으로 만들 수 있습니다. 이제 여러분이 운전대를 잡았습니다!
+
+- **[Volvo EX40: For Every You](https://www.youtube.com/watch?v=qnWc9P70EZs)** — 2024-02-26 · ko · `unclassified`
+  [음악] w
+
+- **[Volvo EC40: For Every You](https://www.youtube.com/watch?v=oCm6lGUbiUM)** — 2024-02-20 · ko · `unclassified`
+  [음악] 중
+
 ## Waymo (56건)
 
 - **[Creating a New Mural in the Heart of Wynwood](https://www.youtube.com/watch?v=V5UBBgvrDmQ)** — 2026-06-13 · ko · `unclassified`
@@ -6084,6 +6290,152 @@
 - **[Transformation is delivering: Strong momentum continues](https://www.youtube.com/watch?v=QCfvlMXgb8o)** — 2022-07-27 · ko · `unclassified`
   2022년 상반기에 달성한 뛰어난 성과가 매우 자랑스럽습니다. 사업에 확실한 성장 동력이 있으며 전략적 목표 달성을 위해 계획보다 앞서 나가고 있습니다. 혁신 계획이 효과를 발휘하고 있으며 더욱 탄력적인 기업으로 거듭났습니다. 우수한 브랜드 포트폴리오, 사업 투자, 그리고 세계적 수준의 생산성 향상 프로그램은 우리가 경험했던 가장 강력한 인플레이션 역풍에 대응하는 데 도움이 되고 있습니다. 여기에 탁월한 매출 성장 관리 프로그램이 더해져 마진 확대 와 수익 성장을 견인하고 있습니다.
 
+## Replit (48건)
+
+- **[New Mobile App, Hosting Prices Down 50%+, Tools Pane & MCP Beta | This Week in Replit (Jul 24, 2026)](https://www.youtube.com/watch?v=wkZi4yPQx9M)** — 2026-07-24 · ko · `AX`
+  이번 주는 Replit에 있어 중요한 한 주였습니다. 그중에서도 가장 먼저 소개해 드릴 것은 이번 주 초에 출시된 새로운 모바일 앱입니다. 이제 이동 중에도 제작할 수 있습니다. 아이디어가 떠오르거나 영감이 생길 때마다 바로 만들기 시작하세요. 상담원과 대화하고 , 채팅, 작업 및 미리보기 사이를 스와이프하며, 빌드에 대한 멋진 실시간 업데이트도 받아보세요. 데스크톱 앱에서 어떤 작업을 시작하면 휴대폰으로 알림을 받게 됩니다 . 새로운 작업을 추가할 수 있습니다. 정말 멋지네요.
+
+- **[Replit Updates: Voice Mode, Claude & Slack Integrations](https://www.youtube.com/watch?v=olepMCvs7NU)** — 2026-07-24 · ko · `unclassified`
+  Replit은 지난 몇 주 동안 많은 제품을 출시했는데 , 그중 몇 가지 음악은 여러분의 음악 제작 방식을 바꿀 수 있습니다. 여러분이 기대할 만한 6가지 업데이트를 소개합니다. 먼저, 음성 [음악] 모드입니다. 이제 상담원과 통화하실 수 있습니다. 채팅창의 마이크 아이콘을 탭하고 하고 싶은 말을 큰 소리로 하세요 . Replit은 음성을 텍스트 [음악]로 변환하고 전송하기 전에 수정할 수 있습니다 . 이건 당신이 할 수 있는 말입니다 . Replit, 북클럽 랜딩 페이지 하나 만들어줘 .
+
+- **[Build with the Replit Mobile App](https://www.youtube.com/watch?v=eNJF4g00S0E)** — 2026-07-22 · en · `unclassified`
+  All my friends moved to the city, [music] and maybe they're like me, trying to build something of their own. I just never figured out how to start. Hey Replit, build me a site where people can see my work and [music] make bookings. Turns out the first step didn't have to happen at a desk. It could happen the second an idea hit.
+
+- **[This Week in Replit | July 10th, 2026](https://www.youtube.com/watch?v=gjQgbQv28GA)** — 2026-07-11 · ko · `unclassified`
+  Replit의 세계에서는 지루할 틈이 없습니다. 좋습니다, 그럼 이번 주에 출시된 새로운 커뮤니티 프로필부터 소개해 드려야겠네요. 가장 쉬운 방법은 아, 맞아요. Replit에서 제작한 모든 멋진 콘텐츠와 활동을 가장 쉽게 선보일 수 있는 방법입니다. 프로필을 등록하고, 맞춤 설정하고, 좋아하는 프로젝트를 추가하고, 소셜 미디어 링크를 연결할 수 있습니다. 프로 또는 엔터프라이즈 계정을 사용하는 경우 사용량, 활동, 체크포인트, 그리고 무엇보다 중요한 파워 랭킹과 같은 놀라운 통계를 확인하여 전 세계에 자랑할 수도 있습니다. 그러니 replit.
+
+- **[How to Keep Your Vibe coded App Secure with Replit](https://www.youtube.com/watch?v=cylyRDX1iuM)** — 2026-07-01 · ko · `unclassified`
+  좋아요, 이제 앱 개발이 완료되었고, 어쩌면 출시까지 했을지도 모르겠네요. 하지만 문제는 실제 사용자들이 앱을 사용하기 시작했을 때 앱의 안전성을 어떻게 보장할 수 있느냐는 것입니다. 안녕하세요, 저는 Replit에서 개발자 관계를 담당하는 Sarah입니다. 오늘은 Replit에서 제공하는 보안 기능과 앱을 안전하게 보호하기 위해 할 수 있는 네 가지 방법에 대해 설명해 드리겠습니다. 그럼 좋은 소식부터 시작해 볼까요? Replit은 빌드 과정 자체만으로도 이미 많은 보안 관련 작업을 처리해 줍니다 .
+
+- **[FaZe Apex: From content empire to startup founder | Between Builders](https://www.youtube.com/watch?v=0dDMmST3rQY)** — 2026-06-30 · en · `unclassified`
+  When I was 14, I started making YouTube videos. I ended up [music] joining a group and creating a business called Faze Clan. There was probably 30, 40 different YouTubers at a at a time that are all making content from different parts of the world. &gt;&gt; Entrepreneurs that don't have a software engineering background might have [music] an advantage now. &gt;&gt; There's going to be a new generation of people that build businesses on on like Replit.
+
+- **[Welcome HRH Crown Prince Al Hussein bin Abdullah II and HRH Princess Rajwa Al Hussein to Replit ⠕](https://www.youtube.com/watch?v=XH-UHsDTeNg)** — 2026-06-23 · ko · `unclassified`
+  [음악] 아.
+
+- **[Race To Revenue | Episode 8 — Showcase Day](https://www.youtube.com/watch?v=H2D3KuRtjlw)** — 2026-06-17 · ko · `unclassified`
+  오늘 저는 샌프란시스코로 갑니다. 이건 휴가 같지 않아. 저는 이 일을 하기 위해 대륙을 횡단하는 비행기를 타고 갑니다. 저는 결과를 원합니다. 나는 이 일을 통해 뭔가 결과가 나오길 바란다 . 나는 실패하고 싶지 않아. 쇼케이스에서 발표할 곡에 대한 아이디어를 글로 쓰고 있어요. 왜냐하면 음악을 쓰는 건 생각을 훨씬 쉽게 풀어낼 수 있게 해주거든요. 뭔가를 외워서 사람들 앞에서 큰 소리로 말하는 것보다 훨씬 편해요 .
+
+- **[4 Apps, 10+ Hours Saved a Week | Lindsay Wise + Julia Holm](https://www.youtube.com/watch?v=ppq5We7npew)** — 2026-06-16 · ko · `AX`
+  전적으로. 사실 저는 어제부터 Replit을 처음 사용하기 시작했습니다. [웃음] 어제 선생님 수업에 참석했는데, 누군가가 실시간으로 뭔가를 만들어내는 걸 보고 "와, 정말 대단하다. 나도 어서 참여하고 싶다 "라고 생각했어요. 사실 어젯밤에 린지와 저는 늦게까지 함께 바이브 코딩을 하면서 시간을 보냈 는데 정말 좋았어요. [웃음] 내가 말했잖아. 엄청난. 혹시 코디가 건물을 시연하고 있었던 건가요? 네, 바로 그거예요 . 오, 당신은 록스타를 얻게 되는군요. 거기서는 최고의 대접을 받게 되죠. 시원한.
+
+- **[How to Use Parallel Agents in Replit](https://www.youtube.com/watch?v=NGWKpGnwI_c)** — 2026-06-12 · en · `unclassified`
+  What if I told you you could turn your idea into a website, mobile app, slides, [music] and animated video all at the same time? Hi, I'm Sarah and last time we built this travel planner app using Replit. Today, we're going to expand on this app and I'm going to show you one of the coolest feature that Replit [music] has. We are going to cover multi-artifacts and parallelism, which is like having a whole team working for you.
+
+- **[Race To Revenue | Episode 7 — Design Thinking](https://www.youtube.com/watch?v=r2BeLgS0zkU)** — 2026-06-10 · en · `unclassified`
+  It's week seven. &gt;&gt; It feels much longer than that. &gt;&gt; You have eight weeks, you have a showcase, we're racing to revenue. &gt;&gt; I got sick, but one day without working at this point is too much. I'm feeling rested, focused, good. &gt;&gt; [laughter] [music] &gt;&gt; We are on week seven of the program. Last time we were talking, it was a thought, but [music] today is the day.
+
+- **[Always Be Building: How Luca replaced 12 Google Drives with one Replit app](https://www.youtube.com/watch?v=JIR4ix2mbNc)** — 2026-06-05 · ko · `unclassified`
+  제 이름은 루카입니다. 제가 개발한 애플리케이션은 Grid라고 하며, 직원 허브 역할을 합니다. [음악] 우리가 직면했던 가장 큰 문제는 회사 전체에 걸쳐 음악 관련 자료를 한곳에 모아 관리할 수 있는 중앙 집중식 허브가 없다는 것이었습니다. 우리 회사의 모든 자원은 와이파이 비밀번호를 알아내는 것부터 어디에 앉아 있는지까지, 약 10~12개의 구글 드라이브와 수많은 구글 스프레드시트에 분산되어 있었습니다 . 그래서 직원들이 실제로 원하는 자료를 찾는 것이 매우 혼란스럽고 번거로워졌습니다 .
+
+- **[Create Your Custom Shopify Store](https://www.youtube.com/watch?v=_1MLk-iGEss)** — 2026-06-04 · ko · `unclassified`
+  안녕하세요, Replit의 맨디입니다. 제 새로운 Shopify 스토어를 꼭 확인해 보세요! 맞춤형 브랜딩, 맞춤 제작, 그리고 현재 결제까지 받고 있습니다. 이것은 Replit의 새로운 Shopify 통합 기능을 사용하여 구축되었습니다. 시작하는 방법을 알려드리겠습니다. 저는 에이전트에게 가겠습니다. 여기에 질문을 남겨두겠습니다. 에이전트에게 쇼피파이를 사용하여 와일드 웜즈 구미 스토어를 구축해달라고 요청했습니다. 에이전트가 Shopify에서도 재고를 구축할 수 있도록 제품 및 재고 수준에 대한 세부 정보도 함께 제공하고 있습니다 . 에이전트가 시작을 알리고 , Shopify에 연결하라는 메시지가 표시될 겁니다.
+
+- **[What Is Replit?](https://www.youtube.com/watch?v=jb8Qh6lxTaw)** — 2026-06-04 · ko · `unclassified`
+  만약 아이디어를 단 몇 분 만 에 완성된 앱으로 만들 수 있다면 어떨까요 ? 안녕하세요, 저는 사라입니다. Replit에서 개발자 관계 업무를 담당하고 있습니다. 그리고 2 분 안에, 왜 그렇게 많은 음악인들이 Replit 사용에 열광하는지, 그리고 Replit이 어떻게 음악 제작 소프트웨어를 그 어느 때보다 더 접근하기 쉽고 창의적으로 만들어주는지 보여드리겠습니다. Replit은 브라우저에서 바로 앱, 웹사이트, 애니메이션, 슬라이드 데크 등을 만들 수 있는 플랫폼입니다. [음악] 원하는 바를 쉽고 명확하게 설명하기만 하면 Replit이 그 내용을 바탕으로 작동하는 소프트웨어를 만들어 줍니다.
+
+- **[Race To Revenue | Episode 6 — Resistance](https://www.youtube.com/watch?v=9eW_Viah4yE)** — 2026-06-03 · ko · `unclassified`
+  인간으로서 우리가 알고 있는 것 중 하나는 이야기를 통해 서로 소통한다는 것입니다. 우리는 우리 삶에서 일어나는 모든 일이 실화라는 것을 알고 있습니다. 제게 있어 스토리텔링은 음악 사업의 핵심입니다. 당신은 사람들의 진정한 관심사와 실제 행동을 어떻게 이해하고 있습니까? 그래서 저에게 스토리텔링은 모든 것입니다. 모든 것. 어느새 벌써 6주차네요. [웃음] 기분이 좋아요. 핵심은 주로 스토리텔링에 있습니다. 우리가 무엇을 만들고 있는지를 전달하는 것뿐만 아니라, 그 안에 우리가 어떻게 녹아드는지를 보여주는 것이죠.
+
+- **[Race To Revenue | Episode 5 — The Pitch](https://www.youtube.com/watch?v=ZnwWkJe0EZw)** — 2026-05-27 · ko · `unclassified`
+  세 번째이자 마지막 아이를 임신했다는 사실을 알게 됐어요. 저는 [음악]에 너무 신나요. 한때는 이런 일이 일어날 거라고 생각하지 못했던 적도 있었는데, 이렇게 이루어지게 되어 정말 기쁩니다. [음악] 하지만, 저는 이런 의심과 두려움이 스며드는 것을 느꼈습니다. 여성 창업자로서, 이제 저는 [음악] 덜 진지하게 받아들여지게 되는 걸까요? 내 헌신에 대해 의문이 제기될까요? 제 음악과 가족은 제 삶의 원동력입니다. 그들이 바로 제가 회사를 설립하는 이유입니다 . [음악] 그것은 나를 억누르기는커녕 , 오히려 내 열정에 더 큰 연료가 될 거야.
+
+- **[How Replit Evaluates AI Models So You Don't Have To | Peter Zhong @ SaaStr](https://www.youtube.com/watch?v=i3F3KhH1Ek0)** — 2026-05-26 · ko · `unclassified`
+  당신은 마치 지역 사회의 숨은 영웅 같아요. 왜 그들이 거의 모든 방송에서 당신을 찾는지 모르겠어요. 음, 그러니까, 당신의 비결이 뭐예요 ? 피터, 당신은 왜 그렇게 카메라 앞에서 자연스러운가요? 글쎄요, 저도 잘 모르겠네요. 제 생각엔 Replit 같은 회사에서 일하는 건 정말 신나는 일인 것 같아요. 음, 저는 학문적 배경을 가지고 있는데, 제 연구 결과가 여기 계신 분들처럼 많은 사람들에게 영향을 미치지는 않는다고 생각합니다.
+
+- **[How to Add User Login to Your Replit App](https://www.youtube.com/watch?v=cfpC1rzxspo)** — 2026-05-26 · ko · `unclassified`
+  지금까지 저희는 여행 앱을 디자인하고 출시했습니다 . 하지만 현재 모든 사용자가 동일한 화면을 보고 있습니다. 사용자가 로그인하고, 여행 일정과 목적지를 저장하고 , 개인화된 경험을 누릴 수 있는 방법이 없습니다. [음악] 자, 그럼 오늘 이 문제를 해결해 봅시다. 안녕하세요, 저는 Replit의 개발자 담당 사라입니다. 오늘은 앱에 로그인 기능을 추가하는 방법을 보여드리겠습니다. 자, 이것을 [음악]이라고 부르는 전문적인 용어는 인증 이지만, 실제로는 사용자가 계정을 만들고 로그인할 수 있도록 허용하는 것을 의미합니다.
+
+- **[The Best Time in History to Start a Company | Patrick Collison & Amjad Masad](https://www.youtube.com/watch?v=YgYiF86h0yU)** — 2026-05-21 · en · `AX`
+  The rate of new business creation on [music] Stripe in March, it's up almost 2x year over year. It was one of the early example of AI companies that went from zero to like 10 million ARR in like a few months, &gt;&gt; [music] &gt;&gt; and now it's like a half a billion dollar company. We're going to see more of those billion dollar kind of single two-person businesses.
+
+- **[Race To Revenue | Episode 4 — All In](https://www.youtube.com/watch?v=DI9PtP0RGA4)** — 2026-05-20 · en · `unclassified`
+  Hello, so this is now [music] week four of Rep the Street Renter program. Which means that we're officially halfway through. The major themes for this week, data compliance, HIPAA compliance. Week four, we had itch share problems. I think the pressure is, you know, finding getting a paying customer. We feel a little pressure from the revenue [music] term in Race to Revenue. Excited, but also a little nervous.
+
+- **[The CRO Building Replit's Enterprise Machine | Ghazi Masood @ SaaStr](https://www.youtube.com/watch?v=PNBVzu4_G9c)** — 2026-05-20 · en · `AX`
+  starting with Ghazi, who is the CRO at Replit. Um and I think this is the first time you're meeting the audience from the community through one of our streams, right? &gt;&gt; a lot and really, really excited to be here. Hello everyone. Yeah. Um so we wanted to just start out uh by just introducing like what is a CRO? What do you do?
+
+- **[Replit's President on Agents, Security and the Future of Work | Michele Catasta @ SaaStr](https://www.youtube.com/watch?v=8VAZkJWZvAw)** — 2026-05-19 · en · `AX`
+  Thanks for hanging with us here at SaaStr Live 2026. I'm Rymer, this is Manny, we got Francisco. We just talked with Gazi and Amjad, and now we are joined by Micheleli, who is the president and head of AI at Replit here. How are you? What is going on? &gt;&gt; how are you making all this magic happen? So, we got Gazi over here selling big deals.
+
+- **[Vices Are the New Virtues | Amjad Masad on AI, Athletes, and Vibe Coding](https://www.youtube.com/watch?v=cTL8OyzM0AI)** — 2026-05-15 · en · `AX`
+  All right, what's up everybody? We're back. Welcome back from our commercial break. You see Gazi has transformed into Amjad over here. &gt;&gt; [laughter] &gt;&gt; Same haircut. Yeah, that's the thing. All right. I don't know. I'm working on it. It's getting a little [laughter] thin up here. &gt;&gt; [gasps] &gt;&gt; What's up everyone? So, we were just chatting with Gazi. Now we got Amjad up here.
+
+- **[Race To Revenue | Episode 3 — The Perfect Storm](https://www.youtube.com/watch?v=bDgfkPa7vJw)** — 2026-05-13 · en · `unclassified`
+  Going from founder where things are visionary to application to like CEO type work, very different. Sometimes you just wonder like, what if I build this program and I get out of here and I release it to the public and it falls flat? How do I deal with that? &gt;&gt; [music] [music] &gt;&gt; It is week three for Race to Revenue and the focus this week is how do [music] we get to our first dollar?
+
+- **[Vibecon: June 17–18 in NYC | Get your tickets now!](https://www.youtube.com/watch?v=8flQMMPknpY)** — 2026-05-12 · en · `unclassified`
+  [music] &gt;&gt; Hey.
+
+- **[How Jacob Built an AI Sales Coach on Replit](https://www.youtube.com/watch?v=UcBv6Y9JgfI)** — 2026-05-07 · ko · `unclassified`
+  안녕하세요. 안녕하세요, 프리야 씨 맞으세요? 30 초 드리겠습니다. 가다. 괜찮은. 안녕하세요, 이건 사전 조사 없이 거는 전화 지만, 아주 철저하게 준비한 전화입니다. 보안과 엔드투엔드 솔루션에 대해 언급하셨는데요 . 규정 준수는 어떻게 되나요? 제 이름은 제이콥 페르노이고, Replit의 창립 SDR 리더입니다. 무엇을 구축해야 할지 고민했을 때, 제게는 Replit에 합류할 팀이 있었고, 그들이 원활하게 온 보딩하고, 메시지를 이해하고, 더 효율적으로 시장에 진출할 수 있도록 모든 준비를 마치고 싶었습니다.
+
+- **[Race To Revenue | Episode 2 — Reality Check](https://www.youtube.com/watch?v=UCVtzHOoKc8)** — 2026-05-06 · ko · `unclassified`
+  안녕하세요. 저희 앱이 제대로 작동하도록 노력 중입니다. 저희 잠재 고객 중 한 분이 토요일에 애플리케이션 테스트를 진행할 예정이고, 다른 잠재 고객들에게도 연락해야 하기 때문에 일정이 촉박해서 이 문제를 해결하려고 노력하고 있습니다. 그래서 제가 해야 할 일은 그게 전부입니다 . 응. [음악] 안녕하세요. 이번 주는 RevUpLit의 '수익 증대를 위한 경쟁' 프로그램 2주차입니다. 이번 주가 정말 기대돼요. 강렬한 음악이었지만, 흥미진진했어요. 우리가 해야 할 일이 정말 많아요. 모든 버그를 수정하고 지금 바로 작업하세요.
+
+- **[Replit for Enterprise with Kody Low + Nick Co](https://www.youtube.com/watch?v=IP8SRLgqtWU)** — 2026-05-06 · ko · `AX`
+  저는 코디입니다. 그래서, 저희가 모든 것을 재편성했기 때문에 Replit 내의 새로운 구조와 기업들이 어떻게 변화하고 있는지에 대해 이야기해 보려고 합니다. 하지만, 저는 Replit을 통해 약 1년 반 동안 기업 운영 전반을 진행해 왔습니다 . 그리고 지금 저는 현장 엔지니어 리더 중 한 명이고, 닉은 저희 팀으로 합류했습니다. 그러니까 현장 엔지니어링은 판매 전후의 모든 기술적인 측면을 담당하는 거라고 할 수 있겠죠? 그러니까, 기업들이 시범 운영 기간 동안 자리를 잡도록 돕고, 해커톤을 개최하는 등, 초기 판매 과정을 지원하는 거죠.
+
+- **[How to Build Slide Decks with Replit Agent](https://www.youtube.com/watch?v=7DBXOoLvqoQ)** — 2026-05-04 · en · `unclassified`
+  If you've ever needed to throw together a pitch deck or presentation really quickly, this is the video for you. In Replit, you can build a complete polished slide deck just by describing what you want. Let me show you how. Open the Replit homepage and just type in what you want. I'm going to say, "Create a pitch deck for a travel planner app.
+
+- **[Idea to Creation: Designing & Prototyping with Replit Agent 4](https://www.youtube.com/watch?v=DnuQNQfc8Mk)** — 2026-04-30 · en · `unclassified`
+  [music] &gt;&gt; Replit is the best place where people can build their ideas, whether they're apps or websites, anything you can build on Replit. So with Agent 4, we launched what we call an infinite canvas. It is a way to work visually with the agent. [music] You can draw a wireframe and ask the agent to actually turn that into a higher fidelity prototype or paste in a bunch of screenshots and images of what you want to [music] design and almost use it as a Pinterest inspiration board.
+
+- **[Race To Revenue | Episode 1 — The Starting Line](https://www.youtube.com/watch?v=uPWmDGN9iWY)** — 2026-04-29 · ko · `unclassified`
+  오늘 [음악]은 저희 ' 수익 창출을 위한 경쟁' 프로그램의 첫 번째 날입니다. 잘 지내세요? 제 이름은 잭입니다. 저는 니타예요. 저는 나탈리아입니다. 제 이름은 빌렘입니다. 제 이름은 리치 보르가티입니다. 많은 사람들이 지원했고, 우리는 20명의 지원자를 선발했습니다. 그 [음악] 20명은 향후 8주 동안 Replit에서 음악 작업을 할 수 있도록 1만 달러 상당의 크레딧을 받게 됩니다 . [음악] 그 8주 동안, 그들은 격주로 세션을 진행하고, 멘토 매칭을 통해 수익을 창출하고 Replit에서 지속 가능한 사업을 운영할 수 있도록 돕습니다
+
+- **[How to Publish Your Replit App](https://www.youtube.com/watch?v=ski8_MUYO4M)** — 2026-04-24 · ko · `unclassified`
+  네, 지난 영상에서 저희는 여행 앱을 디자인했습니다. 자, 이제 [음악]을 발표할 시간입니다. 현재 앱은 실행 중일 때만 작동하기 때문입니다 . 브라우저를 닫는 순간, 모든 것이 사라집니다 . 안녕하세요, 저는 Replit의 개발자 담당 Sarah입니다. 오늘은 여러분의 앱 [음악]을 누구나 언제든지 사용할 수 있도록 게시하는 방법을 보여드리겠습니다. 이렇게 생각해 보세요. Replit 작업 공간은 마치 당신의 주방과 같습니다. 당신은 일하고, 요리하고, 물건을 부수고 있을지도 모릅니다. 음악을 출판한다는 것은 요리를 접시에 담아 내놓는 것과 같습니다
+
+- **[Built a Company in 3 Weeks | Diego Renteria, Grand Prize Winner - Agent 4 Buildathon](https://www.youtube.com/watch?v=1iFuzxEE7yo)** — 2026-04-20 · ko · `unclassified`
+  자, 여기 3주 동안 6,000명의 참가자 중에서 최종 우승자를 발표합니다. 저희가 본 작품 중 단연 1위입니다. 제 생각엔 우리 둘 다에게 있어서 이건 확실한 승자였던 것 같아요. 네, 이건 첫 주부터 고민할 필요도 없는 당연한 선택이었죠. 이 사람은 단순히 인터넷에서 잠깐 접할 수 있는 앱이나 그런 것을 만드는 사람이 아니라는 점에서 눈에 띄었습니다. 이것은 제가 현실 세계에서 하고 있는 다른 일들을 가능하게 해주는 무언가를 만들고, 그것을 시장에 내놓기 위한 것이었습니다.
+
+- **[How to Use the Replit Canvas: Build a Travel Planner App](https://www.youtube.com/watch?v=69wpe7F7mxc)** — 2026-04-17 · ko · `AX`
+  오늘은 친구들과 공유하거나, 다음 여행에 활용하거나, 혹은 [음악] 분야의 차세대 사업 아이디어를 구체화하는 데 사용할 수 있는 여행 계획 앱을 만들어 보겠습니다. Replit을 사용하여 이 모든 것을 하는 방법을 보여드리겠습니다. 안녕하세요, 저는 Replit의 개발자 관계 담당자 사라입니다 . 이번 영상은 아이디어 구상부터 완성도 높은 제품 개발까지 5부작으로 구성된 시리즈의 첫 번째 영상입니다. 자, 시작해 볼까요? 이제 Replit으로 이동하여 첫 번째 프로젝트를 시작하세요. 모든 Replit 프로젝트는 프롬프트로 시작하므로, 오늘 우리가 사용할 프롬프트는 바로 이것입니다
+
+- **[Distribution Wins | Tala Awwad on How to Get Your App Noticed](https://www.youtube.com/watch?v=1GzewbNtBO4)** — 2026-04-07 · ko · `unclassified`
+  탈라, 만나서 반가워요. 여기 계신 분들 대부분은 당신을 아시겠지만, 이제 막 당신을 알게 된 소수의 분들을 위해 간단하게 자기소개를 부탁드립니다. Replit에서 무슨 일을 하시나요? 안녕하세요, 여러분. 제 이름은 탈라입니다. 저는 마케팅팀 소속입니다. 저는 Replit에서 크리에이터들을 이끌고 있습니다. 그러니까, 그 말은 소셜 미디어 인플루언서나 콘텐츠 제작자, 뛰어난 스토리텔러, 영화 제작자 등 다양한 유형의 온라인 크리에이터들과 협업한다는 뜻이에요. 음, 그러니까 그들과 협력해서 Replit을 실제로 구현 하고 여러분의 독특한 사용 사례를 통해 Replit을 제대로 보여주는 것이죠.
+
+- **[How to Make Your App Go Viral | Silk Founders on Content, Pain Points, and Launching in 48 Hours](https://www.youtube.com/watch?v=FddveVs9QdQ)** — 2026-04-07 · ko · `unclassified`
+  저는 라힘 시디크입니다. 저는 Silk의 공동 창업자 중 한 명입니다. 그리고 기본적으로 저는 여기 사업주 중 한 명입니다. Silk는 지난 주말에 출시했습니다. 이걸 하나로 엮어볼 생각에 정말 설레요. 네, 베이스, 말씀하세요. 안녕. 여러분들이 제 얼굴을 이미 보셨을 수도 있지만, 제 이름은 베이스입니다. 다시 한번 말씀드리지만, Silk의 공동 창립자 중 한 분이기도 합니다. 지난 몇 주 동안 정말 정신없는 시간이었지만, 이곳에 오게 되어 정말 기쁘고 대회에서 우승하게 되어 너무나 설렙니다. 감사합니다!
+
+- **[Meet the Buildathon Week 1 Winners | 5 Builders, 5 Apps, Real Stories](https://www.youtube.com/watch?v=3cW8yPbJNWM)** — 2026-04-07 · ko · `unclassified`
+  Agent 4 Build-a-Thon 1주차 우승자들을 모셨습니다. 첫 번째 게스트부터 만나보시죠. 제가 데려오겠습니다. 네, 네 , 안녕하세요, 잘 지내세요? 안녕하세요, 매니 씨. 안녕하세요, 레이마르님. 무슨 일이야? 만나서 반가워요. 첫 주 우승을 축하드립니다. 그건 아주 중요한 일이에요. 기분이 어땠어? 기분이 너무 좋아요. 나 자신이 믿기지 않아 . 네, 그렇습니다. 감사합니다. 매우 감사합니다. 간단하게 자기소개를 해주세요. 프로젝트에 대해 간략하게 소개해 주시겠어요?
+
+- **[Move Faster with Agent 4](https://www.youtube.com/watch?v=jtemv__IS0U)** — 2026-03-17 · en · `unclassified`
+  Okay, so crazy [music] idea. We're getting tons of international interest. A global rollout would be a huge hit. Let's talk after lunch. &gt;&gt; [music] [music] &gt;&gt; Global rollout, where [music] do we start? Already done.
+
+- **[Design Freely with Agent 4](https://www.youtube.com/watch?v=7Xe3mybBbwM)** — 2026-03-16 · en · `unclassified`
+  Yo, that's sick. I caught that. &gt;&gt; [music] [music] &gt;&gt; Yo, man, that's my board. No way. &gt;&gt; No way. I did it all on here.
+
+- **[Build Together with Replit Agent 4](https://www.youtube.com/watch?v=LrahKbwVZwg)** — 2026-03-13 · en · `unclassified`
+  Hey team, the investors, they want to meet us tomorrow. We need the app ready now. &gt;&gt; All right.
+
+- **[Ship Anything with Replit Agent 4](https://www.youtube.com/watch?v=xMMKPEpAngA)** — 2026-03-12 · ko · `unclassified`
+  축하합니다, 당신의 책이 출간될 예정입니다. 준비하세요. [음악] 네, 책이 이렇게 많은 관심을 받을 줄은 몰랐어요. [음악] [음악] 와주셔서 감사합니다. 감사합니다.
+
+- **[Welcome to the Replit Canvas](https://www.youtube.com/watch?v=Qv9cREjl9vQ)** — 2026-03-12 · ko · `unclassified`
+  이것은 디자인 캔버스입니다. 음악 관련 아이디어를 탐구하고, 디자인을 비교하고 , 자유롭게 반복 작업을 할 수 있는 공간이며, 이 모든 것이 실제 앱과 같은 공간에서 이루어집니다. 우리 함께 음악을 활용해서 뭔가를 디자인해 볼까요? 먼저 채팅창에 원하는 내용을 설명해 주시면 , 상담원이 캔버스에 해당 내용을 생성해 드립니다 . 예를 들어, [음악] " 피트니스 앱의 다크 모드 랜딩 페이지 세 가지 버전을 보여주세요."라고 말할 수 있습니다. 또는 " 분석 차트의 대시보드 모형을 만들어 주세요"라고 말할 수도 있습니다
+
+- **[Replit Agent 4 - What's new](https://www.youtube.com/watch?v=bAUVQfz_SIY)** — 2026-03-11 · ko · `AX`
+  안녕하세요, Replit Agent 4의 첫 번째 모습을 공개합니다. 이번 에이전트는 지금까지 출시된 에이전트 중 가장 강력합니다. 아직 못 보셨다면, 오늘 저희가 발표하는 모든 내용 과 제가 특히 기대하는 바를 개괄적으로 다룬 기조연설이 있으니 꼭 시청해 보세요. 하지만 이 영상에서는 모든 기능을 자세히 설명하여 여러분이 멋진 애플리케이션 개발을 바로 시작할 수 있도록 도와드리겠습니다. 제 이름은 맷입니다. 저는 Replit에서 개발자 관계를 담당하고 있습니다 . 저는 프란시스코입니다. 저는 여기 커뮤니티 책임자입니다.
+
+- **[Replit Agent 4 Launch Announcement](https://www.youtube.com/watch?v=-2xHmkpmCBM)** — 2026-03-11 · ko · `AX`
+  [음악] 환영합니다. 이러한 건축물은 미래지향적 이면서도 공학적으로 뛰어납니다. 창의성과 시스템 사이의 균형이야말로 음악을 특별하고 확장 가능한 것으로 만드는 요소입니다. 이제는 소프트웨어에도 똑같이 적용됩니다. 이제는 단순히 기술적인 작업이 아니라 창의적인 [음악] 작업이 되었습니다. 오늘, 저희는 그 아이디어의 다음 단계인 Replit Agent 4를 출시합니다. Replit Agent 4는 창의적인 흐름을 위해 설계된 네 가지 핵심 요소로 구성되어 있습니다 . 그들은 함께 상상력과 실행 사이의 새로운 리듬을 만들어냅니다.
+
+- **[The Untold Chaos Behind a $3 Billion AI Startup Launch](https://www.youtube.com/watch?v=zB1lpGNWVtg)** — 2026-03-04 · en · `unclassified`
+  We got I'm John Mesoud in the building. Welcome to the show. It is the $3 billion darling in the space. &gt;&gt; This is the first AI thing that has been a mind-blowing moment for me. &gt;&gt; replit.com. Go make some apps and people. Can you walk me through the story of this week, especially the last 24 hours? Um feeling like uncertain.
+
+- **[How Musixmatch Cut Its Product Cycle From Six Months to Two With Replit](https://www.youtube.com/watch?v=U3q11ELMwuU)** — 2026-02-25 · ko · `unclassified`
+  음악적 대결. 저희는 음악 데이터 회사이며, 스포티파이, 애플, 구글에서 가사를 보실 때, 그 정보는 대부분 저희 회사에서 가져온 것입니다. 또한 저희는 저작권자들을 보호하여 음악을 만드는 작곡가와 아티스트들이 음악으로 생계를 유지할 수 있도록 돕습니다. Replate의 가장 큰 장점은 우리 회사의 음악에 대한 사고방식을 바꿨다는 점입니다. 이제 우리 모두는 제품 개발자입니다. 제한이나 제약이 적어서 [음악적으로] 당신의 아이디어를 마음껏 펼칠 수 있습니다. Rapid를 사용하기 전에는 시장에 출시하기 전에 아이디어를 개발하고 테스트하는 데 많은 시간을 [음악] 투자했습니다
+
+- **[Replit Insight: Brand & Creative](https://www.youtube.com/watch?v=qCM9w8KcJLo)** — 2026-01-26 · en · `unclassified`
+  [music] Philip, you're leading brand and creative at Replet as the company enters its next chapter. We move pretty fast here. So, from your perspective, what moment are we actually in right now? &gt;&gt; I think we're at a point where creation stops being a technical privilege and really starts becoming a cultural one. For the longest time really building software meant knowing the right language really knowing the right tools and even understanding the right rules out there.
+
+- **[How a design leader built his app with AI](https://www.youtube.com/watch?v=27PFkvwjJ7k)** — 2026-01-20 · en · `unclassified`
+  If you ever end up in the back of a Mayback, if you go on the massage settings there, I helped design that screen. &gt;&gt; That's the biggest flex. &gt;&gt; It's way better to have all the components on one page than have multiple pages for every component. &gt;&gt; Just hot takes immediately. Figma components, one page, that's it.
+
 ## Schneider Electric (48건)
 
 - **[TeSys Deca SNAP IN: Up to 75% Faster Motor Control Wiring | Schneider Electric](https://www.youtube.com/watch?v=VMW89oSeNSg)** — 2026-07-24 · ko · `unclassified`
@@ -6229,152 +6581,6 @@
 
 - **[Running in Full Color | Schneider Electric](https://www.youtube.com/watch?v=nMS8ZRH39Sg)** — 2026-07-04 · ko · `unclassified`
   저는 항상 자폐 성향이 강했어요. [음악] 생각을 편안하게 정리할 수 있는 공간이 필요해요. 분석적으로 생각하지 않는 건 참 좋네요 . 저는 항상 STEM 분야에 종사해 왔고, 기계공학(음악 공학) 학위를 받았습니다. 달리기는 일종의 치료법이다. 내 몸을 움직일 수 있고, 음악을 탐구할 수 있다는 것. 저는 끊임없이 탐험하는 사람입니다. 슈나이더 일렉트릭을 ​​통해 파리 마라톤 참가 번호를 받았고, 그때 SE 그린 러너스 커뮤니티에 가입하게 되었습니다. 저는 음악을 통해 사람들을 만나고 다른 사람들이 달리기를 하는 이유에 대해 계속 배울 수 있었습니다
-
-## Volvo Cars (48건)
-
-- **[How firefighters enter crashed cars](https://www.youtube.com/watch?v=n3dUYPqhHvU)** — 2026-07-24 · ko · `unclassified`
-  나는 자동차는 항상 미래의 일로 여겨져 왔지만, 볼보 자동차에서는 이미 [음악]을 활용한 비행 자동차 테스트를 진행했습니다. 우리의 실험은 차량 충돌로 끝나지만 , 그들의 실험은 차량 충돌로 시작됩니다. 추락한 볼보 차량에서 실시된 실제 구조 훈련 [음악]. [음악] 인명 구조를 돕기 위한 소방서와의 협업.
-
-- **[The day Adam hit a moose, his XC60 kept him unharmed](https://www.youtube.com/watch?v=qEBSdel8WbM)** — 2026-06-23 · en · `unclassified`
-  I'm driving to Norway for a business visit. My colleague and I had a head-on collision with a moose at 90 km/h. The moose came from the left and stepped out of the snowdrift [music] after an oncoming truck which resulted in it ending up on the bonnet and partly on the windscreen. [music] We had absolutely no chance to avoid the collision.
-
-- **[The Volvo 240 Turbo: Born from a racing spirit](https://www.youtube.com/watch?v=SAisNdhYMuw)** — 2026-06-22 · en · `unclassified`
-  A lot of people will tell you Volvo makes one terrific station &gt;&gt; In the early 1980s, performance gained new meaning for Volvo cars. From the legacy of the Amazon and the first GT models, it was time for something bold. It was time for the Volvo 240 Turbo. Launched in 1980, it was our very first turbocharged road car, a truly groundbreaking model of Volvo cars that turned the family sedan [music] into the world's fastest estate.
-
-- **[How Volvo Tests Cars for Large Animal Collisions](https://www.youtube.com/watch?v=YqPGSDeWt_s)** — 2026-05-28 · en · `unclassified`
-  There's an elephant in the room. The industry [music] safety standard doesn't require testing for large animal impacts, but you never know when worlds might collide. Please take your position. So, even though the [music] African bush elephant isn't an actual part of our rigorous process, Countdown initiated. we do test for moose [music] and other large animals beyond requirements for occupant safety using our [music] 360-kilo dummy.
-
-- **[Customers react to the Volvo EX60](https://www.youtube.com/watch?v=FWPkqECU9ls)** — 2026-05-26 · en · `unclassified`
-  Today we are in Barcelona, Spain and in just a few minutes we're going to see the first 16 real customers coming here to to drive the cars. &gt;&gt; It's very exciting to give our customers an opportunity to come and try the car that they purchased. A lot of our customers have bought this car even without test driving it at all. We're hoping that they're very happy with their purchase.
-
-- **[Volvo's 100-year evolution of world-firsts](https://www.youtube.com/watch?v=ZCnXgypjESE)** — 2026-04-28 · en · `unclassified`
-  At Volvo Cars, safety is not a feature. It is our purpose. A purpose driving every single innovation, like the three-point [music] safety belt from 1959. Since then, [music] it has saved more than a million lives. In '72, we were the first car company [music] to introduce a rear-facing child seat. &gt;&gt; Children are given the best protection in a [music] rear-facing &gt;&gt; Based on knowledge of the best way to keep children safe.
-
-- **[This Volvo system helps protect you in case you run off-road](https://www.youtube.com/watch?v=zJvjIuW7KQQ)** — 2026-04-24 · ko · `unclassified`
-  우리의 연구는 도로 이탈 사고의 위험성을 밝혀냈습니다 . 특유의 수직 방향 힘은 종종 척추와 목 부상을 유발합니다. 테스트와 분석을 통해 우리는 세계 최초의 기술을 개발했습니다. 당사의 차량 이탈 방지 시스템. 당신과 당신의 소중한 사람들을 보호하기 위해 존재합니다 . 현실은 적응하지 않기 때문에 우리가 적응하는 것입니다.
-
-- **[The Volvo Amazon Estate: The story of a cultural icon](https://www.youtube.com/watch?v=BujYOORmmTE)** — 2026-04-08 · ko · `unclassified`
-  1950년대 후반은 스웨덴에서 노동자 권리가 강화되고 4주간의 음악 휴가가 도입되는 등 음악계에 진보가 일어난 시기였습니다. 가족들은 갑자기 함께 보내는 시간이 훨씬 많아졌다. 그들에게는 그들의 삶만큼이나 다재다능한 차가 필요했다. 이것은 볼보 아마존 에스테이트에 대한 이야기입니다 . [음악] 1962년, 볼보 자동차는 아마존 에스테이트를 출시했습니다 . 많은 사랑을 받았던 아마존 세단을 기반으로 제작된 이 차량은 시대를 초월하는 디자인과 넓은 공간, 편안함, 안전성을 결합했습니다. 그것은 단순히 새로운 [음악] 모델이 아니라, 볼보 에스테이트가 문화적 아이콘으로 자리매김하는 시작이었다.
-
-- **[Volvo EX60 Cross Country: Everything you need to know](https://www.youtube.com/watch?v=PRvg7bqjIX8)** — 2026-03-16 · ko · `unclassified`
-  완전 전기 EX60 크로스 컨트리는 부드럽고 안정적인 주행을 보장합니다. EX60은 어디든 갈 준비가 된 듯한 태도를 가진 분들을 위해, 모험에 나설 준비가 된 듯한 더욱 견고한 외관을 갖추고 있습니다. 검은색 디테일이 차량을 감싸고 있으며, 무광 은색 인서트가 포인트를 더합니다. 브러시드 스테인리스 스틸 소재로 제작된 이 스키드 플레이트는 후면에도 장착되어 모험적인 분위기를 더해줍니다. 이 차량은 주행 거리와 효율성을 향상시키도록 설계된 독특한 20인치 또는 21인치 휠을 장착하고 있습니다 .
-
-- **[How Volvo Learns From Real-Life Accidents](https://www.youtube.com/watch?v=J_b8aFXKSKU)** — 2026-03-10 · ko · `unclassified`
-  사고는 대비하기 어렵고, 예측하기 까다로우며, 때로는 예방하기도 어렵습니다. 하지만 그 음악들 하나하나가 우리에게 살아남는 법에 대해 무언가를 가르쳐 줄 수 있습니다 . 1970년대부터 우리는 8만 명 이상의 탑승자가 관련된 5만 건 이상의 실제 사고 데이터를 수집하여 사고(음악)와 차량, 그리고 그것이 탑승자에게 미치는 영향을 분석해 왔습니다. [음악] 왜냐하면 모든 수업 하나하나가 더 안전한 볼보 자동차를 만드는 데 도움이 될 수 있기 때문입니다.
-
-- **[Volvo Car updates the User Experience for all cars with Google built-in](https://www.youtube.com/watch?v=rLJ3zZzTEok)** — 2026-03-03 · en · `unclassified`
-  Got a Volvo [music] with Google builtin? You're about to get something new for free right now. We're bringing the same sleek new interface found in our model year 26 cars [music] to yours. The home screen is now centered around navigation just like you asked. The map is bigger, but [music] all of your apps and widgets are still there. Same great features, just a bit simpler to find.
-
-- **[Volvo EX30: It’s the little things that mean a lot](https://www.youtube.com/watch?v=zyz9A-h_d9E)** — 2026-02-27 · en · `unclassified`
-  I'm not sure where to begin. It's been It's been 8 years, you know. I mean Delete message. Hi, it's Abby here. You remember me? What do I want to say? &gt;&gt; [music] &gt;&gt; I have a family. You know, family. Delete message. What do I want to say [music] to you after 8 years? Huh. Remember me? &gt;&gt; [music] &gt;&gt; It's just hard, you know? Like you just left.
-
-- **[The Volvo C30 Electric: On the road to electrification](https://www.youtube.com/watch?v=yX_ButA5Myw)** — 2026-02-19 · ko · `unclassified`
-  [음악] 볼보 자동차의 전기차 전환 여정은 오랜 시간이 걸렸습니다. [음악] 우리는 수십 년 동안 세상이 완전히 받아들일 준비가 되기 전에 여러 아이디어를 실험해 왔습니다 . 하지만 2010년에 [음악] 한 대의 자동차가 그러한 실험을 도로 위로 가져왔습니다 . 이것은 볼보 C30 전기차에 대한 이야기입니다 . C30 전기차는 C30 해치백을 기반으로 제작되었습니다. [음악] 모양은 비슷하지만 정신은 혁명적이다. 그것은 도시 생활에 맞춰 설계된 작고 완전 전기식 볼보 자동차였습니다 .
-
-- **[Volvo EX60: 6 Game-changing innovations](https://www.youtube.com/watch?v=zJY-7rdt91E)** — 2026-02-06 · ko · `unclassified`
-  한 번 충전으로 최대 810km까지 주행 가능한 EX60은 효율성을 극대화하도록 설계되었습니다 . EX60의 경우, 저희는 음악용 차량을 제작하는 방식을 완전히 바꿨습니다. 하지만 메가 캐스팅을 사용하면 대형 차체 부품을 한 번에 성형할 수 있어 차량 전체를 더 가볍고 효율적으로 만들 수 있습니다. 무겁고 부피가 큰 배터리 팩을 사용하는 일반적인 전기차와 달리 , EX60의 배터리 셀은 차량 본체에 직접 통합되어 있습니다. 기본적으로 배터리 팩이 차량의 바닥 역할을 하게 되어 무게와 포장 효율성 면에서 큰 이점을 제공합니다.
-
-- **[Volvo EX60: Exclusive first ride and executive interview](https://www.youtube.com/watch?v=fHd85Jt58x4)** — 2026-01-23 · ko · `unclassified`
-  괜찮은. 괜찮은. 자, 시작해 볼까요. 드디어 마스크 없이 일반 도로를 운전할 수 있게 되었습니다. 음, 공개 다음 날이죠. 공개 다음 날. 오, 환상적이네요. 어제 공연 정말 최고였어요 . 수신 상태가 너무 좋네요. 응. 아니요, 정말 환상적이었어요. 훌륭한 작품입니다. 20만 5천 명이 시청했어요. 네. 우리가 인터넷을 마비시킨 걸까요? 네 , 그랬습니다. 저희 웹사이트가 다운됐습니다. 아, 왜요? 음, 왜냐하면 너무 많은 사람들이 차량을 구성하려고 했기 때문입니다. 응. 저희 서버가 그걸 감당할 수 없었어요.
-
-- **[Volvo EX60: A new beginning](https://www.youtube.com/watch?v=fBo4I4c0How)** — 2026-01-21 · ko · `unclassified`
-  가장 먼저 나서 주셔서, 미지의 영역에 용감하게 발을 내딛어 주셔서 감사합니다 . 이것이 바로 그것이라고 확신하는 나무, 비록 [음악]이 아직 완벽하지는 않았지만. 모든 시작은 불완전하다. 모든 큰 발전에는 난관의 시기가 수반됩니다. [음악] 진정한 신념을 가진 몇몇 사람들이 불편함을 감수하며 먼저 나서지 않으면 어떤 혁신도 일어나지 않을 것입니다. [한숨과 함께 숨을 헐떡이며] 정말 고맙습니다. 당신은 전기차가 언젠가 우리가 그냥 '자동차'라고 부르는 존재가 될 거라고 감히 믿었군요. 이건 당신을 위해 만들었어요.
-
-- **[Volvo EX60: Engineered to go further](https://www.youtube.com/watch?v=EH1e-I60EoU)** — 2026-01-21 · en · `unclassified`
-  With a range of up to 810 km on a single charge, the EX60 is optimized for efficiency. And it all begins here in Goththingberg. [music] For the EX60, we completely change how we build our cars, refining and optimizing every stage of production. &gt;&gt; [music] &gt;&gt; With Mega Casting, we use high pressure aluminum casting to form large body sections [music] in a single operation.
-
-- **[Volvo EX60: Everything you need to know](https://www.youtube.com/watch?v=87tOU9CCaHE)** — 2026-01-21 · ko · `unclassified`
-  [음악] 이것은 완전 전기차인 볼보 EX60입니다. 주행 가능 거리가 매우 길고 충전 속도도 빠릅니다. 이 차는 운전의 스트레스를 줄여주는 스마트 기술로 가득 차 있으며, 운전자와 가족을 보호하도록 설계되었습니다. 내부에는 저희만의 스칸디나비아 스타일이 돋보이는 편안한 공간이 마련되어 있습니다. EX60은 토르의 망치를 형상화한 독특한 헤드라이트 디자인을 특징으로 하는 자신감 넘치는 전기차의 모습을 자랑합니다. 스마트폰이나 스마트워치에 디지털 키를 소지하고 있으면, 차에 다가 갈 때 차가 당신을 반겨줍니다. 이 차의 디자인은 세련되었으며 공기역학과 효율성에 중점을 두었습니다
-
-- **[Volvo EX60: Keep learning](https://www.youtube.com/watch?v=bZh3Ec-Qn_8)** — 2026-01-21 · ko · `unclassified`
-  [한숨] 거의 다 왔어. 거의 다 왔어요. [숨을 헐떡이며] 어머, 농담이시죠? 제 손이 좀 지저분해도 이해해 주세요. [웃음] 제가 손을 들겠습니다. 긴장되세요? [음악] 조금. 괜찮아요. 긴장하지 마세요. [음악] 이빨이 거의 다 빠졌어요. 그래서 저는 책을 살펴봅니다. [음악] 아빠, 이제 놓아주세요. 제가 손을 내밀겠습니다. 목에. 이와 같이. 잠시만요. 다시 한번 불러볼까요? [음악] 여기 두 손가락이 [음악] 있어요. 이 줄에 있는 저거요. 이거요 . 한번 해보세요. 아니, 난 변하고 싶어. [음악] 늦었어.
-
-- **[Volvo EX60: Life on the move](https://www.youtube.com/watch?v=NzoDfjrJLkY)** — 2026-01-21 · ko · `unclassified`
-  [음악] [음악] [음악] [음악] [ 노래] [음악] [음악] 이야기 좀 하자. 제가 무엇을 도와드릴까요?
-
-- **[Volvo EX60: New standards in safety](https://www.youtube.com/watch?v=4H8YUng7QPo)** — 2026-01-21 · en · `unclassified`
-  Bringing together our most advanced safety technologies, the EX60 is Volvo's most forward-thinking car to date. If a potential collision is detected, the EX60 will in real time decide the [music] safest way to navigate through that situation. So, let's say a pedestrian steps into the road unexpectedly, automatic emergency steering will guide the car smoothly around the hazard. In other scenarios, the safest option might be to brake.
-
-- **[Volvo EX60: Our smartest car yet](https://www.youtube.com/watch?v=TidnUUlOh4A)** — 2026-01-21 · ko · `unclassified`
-  EX60은 처음부터 전기차로 설계된 기술적 걸작입니다 . 이 차량은 현재까지 우리가 보유한 가장 진보된 전기차 아키텍처를 기반으로 제작된 최초의 양산차입니다. 그들의 마스터 플랜 덕분에 우리는 최신 기술을 자동차에 도입하고 모든 시스템을 미래에 맞게 최적화할 수 있습니다. 셀-투-바디 배터리 기술, 3세대 전기 모터, 2세대 코어 컴퓨팅, 800VT 아키텍처, 그리고 역대 가장 반응성이 뛰어난 사용자 경험(UX)을 제공합니다. 그 결과, 지금까지 우리가 만들어 온 어떤 차보다 더 멀리 갈 수 있는 완전 전기 볼보 자동차가 탄생했습니다
-
-- **[Volvo EX60: Powered by Google Gemini](https://www.youtube.com/watch?v=06twv1sOhrs)** — 2026-01-21 · ko · `unclassified`
-  EX60은 구글 의 AI 비서인 제미니 덕분에 차량과 자연스럽게 소통하는 완전히 새로운 방식을 제공할 것입니다 . 네, 가죠. 헤이 구글, 다음 회의까지 얼마나 남았고 회의 장소는 어디야? 귀하의 행사인 '제미니 퓨처 퓨처스 테스트 세션'은 볼보 소프트웨어 센터에서 오후 4시에 개최됩니다. 구글아, 여기서 거기까지 가는 데 얼마나 걸릴까 ? 약 5시간 9 분이 소요될 것입니다. 시간이 좀 있는 것 같네요. 커피 한잔 하실래요? 물론이죠, 안 될 이유가 없죠.
-
-- **[Volvo Centum – a typeface designed with safety in mind](https://www.youtube.com/watch?v=Y3mbS6AqmCA)** — 2025-12-19 · ko · `unclassified`
-  어떻게 하면 이러한 안전 시스템이 운전자에게 더 나은 정보를 전달할 수 있을까요 ? 그리고 타이포그래피는 그중에서도 매우 중요한 부분입니다 . 음악에 맞는 서체를 고를 때는 항상 목적에 맞게 제작된 것인지 확인하려고 노력합니다. 모든 크리에이티브 브리프는 [음악] 저마다 독특하고, 볼보의 브리프는 확실히 아주 독특했습니다. 모든 디자인 선택, 형태, [음악] 무게, 비율은 사람들이 더 빨리 읽고, [음악] 더 잘 이해하고, 차 안에서 집중력을 유지할 수 있도록 돕기 위해 만들어졌습니다 .
-
-- **[This Volvo system helps protect you in a rollover accident](https://www.youtube.com/watch?v=SBrjPNH4Ask)** — 2025-12-17 · ko · `unclassified`
-  첫 번째 주사위. [음악] 어릴 땐 정말 귀엽죠. [음악] 하지만 무게가 2톤이나 나간다면, 그건 전혀 귀엽지 않죠. 그래서 우리는 볼보 자동차를 설계할 때 전복 사고를 완전히 방지할 수 있도록 합니다. [음악] 하지만 만약 그들이 원한다면, 우리는 그런 상황에도 대처할 수 있도록 만들어졌습니다. 우리가 하는 많은 일 중 하나가 바로 음악을 통해 세상을 조금 더 안전하게 만들려고 노력하는 것입니다.
-
-- **[The Volvo V70 XC: Built for the unexpected](https://www.youtube.com/watch?v=XdYY7viXJcI)** — 2025-11-21 · ko · `unclassified`
-  [음악] 볼보 사륜구동 크로스 컨트리. 1990년대 중반에 이르러서는 전 세계가 오프로드 경험에 매료되면서 음악적 모험의 분위기가 고조되었습니다. 이제 자동차들이 트렌드에 합류하고 음악이 판도를 바꿀 때가 되었다. 이것은 V70 크로스컨트리의 이야기입니다. 사륜구동 크로스컨트리. 1997년, 물론 자동차 회사인 왓(What)은 자사의 첫 번째 사 륜구동 850 에스테이트를 기반으로 한 V70 크로스컨트리를 선보였는데, 이는 새로운 시대를 위한 새로운 종류의 차량이었습니다. 그 차는 해안가를 따라 드라이브하거나 도시 거리를 달리는 것뿐만 아니라 산길이나 외딴 오솔길까지 어떤 상황에도 대비되어 있었습니다
-
-- **[Volvo Cars and Qualcomm collaboration for world class UX](https://www.youtube.com/watch?v=sd6ZbA2flfc)** — 2025-11-07 · ko · `unclassified`
-  아시다시피 볼보 와 퀄컴 테크놀로지스의 관계는 거의 10년 동안 이어져 왔고, 정말 훌륭한 조합이죠. 두 회사 모두 최첨단 인포테인먼트 기술을 발전시키고자 노력하고 있습니다. 볼보에서는 모든 것이 사람으로부터 시작된다는 것을 알고 계시죠? 그래서 사용자 경험도 중요하게 생각합니다. 운전 중에는 인포테인먼트 시스템을 사용하는 것이 주된 작업이 아니니까요. 당신의 [음악] 주요 임무는 운전하는 것입니다. 그래서 접근성은 매우 중요합니다. 어떻게 하면 [목을 가다듬으며] 화면에 온전히 집중하지 않고도 화면과 상호작용할 수 있을까요?
-
-- **[We owe it to the ocean.](https://www.youtube.com/watch?v=F1XvtWjpcl4)** — 2025-08-29 · ko · `unclassified`
-  자유를 처음 느낀 그 순간, 영원의 소리, 경이로움. 우리는 바다에 빚을 졌다. 안내, 관점, 위로. 100% 살아있다는 드문 느낌. 우리는 바다에 빚을 졌다. 시와 그림, 화면 보호기와 모래투성이 강아지들 . 붉어진 피부에 소금 줄무늬가 생겼다 . 우리는 바다에 빚을 졌다. 세력에 도전하다. 흐름에 몸을 맡기는 것. 그림 물감. 터키 옥. 해군. 하늘빛. 우리는 바다에 빚을 졌다. 인간 생명의 가장 기본적인 조건들. 단백질. 오렌지를 비롯해 우리가 숨 쉬는 모든 것은 바다 덕분입니다
-
-- **[Volvo armoured cars: Everything you need to know](https://www.youtube.com/watch?v=mACO9BhP3ok)** — 2025-07-04 · ko · `unclassified`
-  [음악] 저희에게 있어 가장 중요한 것은 언제나 사람들의 안전을 지키는 것이었으며, 이러한 노력은 새로운 방탄 XC90 플러그인 하이브리드에도 분명히 반영되어 있습니다. 외부 보안 위협으로부터 보호하도록 설계되었습니다 . XC90은 저희의 대형 럭셔리 SUV이며, 최근 디자인 및 편의 사양 업데이트를 통해 더욱 직관적이고 세련되며 현대적인 경험을 제공합니다. 겉으로 보기에는 이 차가 방탄차라는 것을 알 수 있는 단서가 전혀 없습니다. 내부에는 구글 내장 기능, 공기청정기, 그리고 선택 사양으로 360도 카메라와 같은 편리한 기능들이 동일하게 탑재되어 있습니다
-
-- **[Volvo EX90 Crash Test: Behind the Scenes of Our Safety Standards](https://www.youtube.com/watch?v=8KoDXNtHw1c)** — 2025-07-03 · ko · `unclassified`
-  [음악] 이것은 안전 등급이나 규정에서 요구되지 않는 차량 간 충돌입니다 . 이번 테스트에는 EX90 차량 세 대가 사용되었습니다 . 세 대의 전기차가 한 번에 연속 운행하는 최초의 공개 시험 운행. 이 테스트는 운전자가 물체를 보지 못하고 제때 브레이크를 밟지 못할 수 있는 전형적인 실제 상황을 재현합니다. 첫 번째 차량은 시속 50km로 두 번째 차량을 향해 달려갔지만, 간신히 제때 급정거하여 충돌을 완전히 피했습니다. 자동 비상 제동 시스템( AEB)은 EX90의 첨단 센서 설정 덕분에 구현된 예방 안전 기능의 한 예입니다
-
-- **[Meet PV444: The original "Little Volvo"](https://www.youtube.com/watch?v=QdEnt_yWopU)** — 2025-05-12 · ko · `unclassified`
-  1940 년대 중반, 글로벌 시대로 격변이 막바지에 이르렀다. Volvo Cars는 새로운 시작을 꿈꿨습니다. 이것은 우리를 설립 할 자동차의 이야기입니다. 품질, 신뢰성 및 안전성에 대한 명성 – The Volvo PV444. 1944년에 공개되었으며, PV444는 전후의 약속을 상징했습니다 모던함과 인간 중심의 디자인. 1947년이 되어서야 본격적으로 생산되었지만, 이를 통해 Volvo Cars는 흥미롭고 새로운 방향으로 나아갈 수 있었습니다. "리틀 볼보"라는 애칭으로 불리지만, PV444의 내부는 놀라울 정도로 넓었습니다. 매력적인 마케팅은 그것이 맞을 수 있다고 자랑했습니다.
-
-- **[The Volvo 850: When safety met beauty](https://www.youtube.com/watch?v=kw4Wcp-8pFU)** — 2025-04-22 · ko · `unclassified`
-  90년대 초반, Volvo Cars는 가장 야심 찬 벤처. 회사의 미래가 위태로운 상황에서, 우리는 주사위를 굴려 차량을 만들 수 있기를 바랐습니다. Volvo 자동차를 새로운 시대로 이끌다. 이것은 볼보 850의 이야기입니다. 1991년에 도입된, 볼보 850은 모던함의 새로운 시대를 열었습니다 Volvo Cars 라인업. 그것의 매끄러운 디자인은 의 칭호를 얻었다 이탈리아에서 "세계에서 가장 아름다운 저택", 그것의 특징은 칭찬을 보았다 동급에서 가장 안전한 자동차로. 하이라이트에는 자동 조절식 안전 벨트가 포함되었습니다.
-
-- **[Volvo ES90 | Safety and Design](https://www.youtube.com/watch?v=7pq6Ugv0wsM)** — 2025-03-11 · ko · `unclassified`
-  볼보 자동차 안전 센터에 오신 것을 환영합니다. 이곳 충돌 연구소에서는 거의 모든 사고를 재현하고 실제 상황의 복잡성을 파악할 수 있습니다. 이를 통해 볼보는 야심찬 볼보 안전 기준을 충족하기 위해 표준 요구 사항을 훨씬 뛰어넘는 수준의 차량 성능을 구현할 수 있습니다. 개발 과정에서 컴퓨터 시뮬레이션을 통해 수천 번의 충돌 테스트를 진행하지만, 운전자가 실제로 운전대를 잡기 전에는 실제 차량으로 물리적인 테스트를 실시합니다. 오늘은 가장 안전한 차량 두 대를 충돌시켜 보겠습니다.
-
-- **[Meet the new fully electric Volvo ES90](https://www.youtube.com/watch?v=mWDFWCs0zxw)** — 2025-03-06 · ko · `unclassified`
-  [음악] 이우 [음악]
-
-- **[The Volvo ES90: Everything you need to know](https://www.youtube.com/watch?v=XLiKxVuRD-o)** — 2025-03-05 · ko · `unclassified`
-  [음악] 안녕하세요, 저는 하란이고, 로이라고 불러주셔도 됩니다. 그리고 저는 재키입니다. 이것은 새로운 볼보 ES90입니다. 균형 잡힌 삶을 위해 설계된 완전 전기 프리미엄 자동차로, 스칸디나비아 디자인, 스마트 기술, 그리고 최고의 실내 편안함이 완벽하게 조화를 이루어 독보적인 수준을 자랑합니다. 이것 좀 보세요, 디지털 키 플러스! 아이폰, 안드로이드 또는 기타 호환 기기만 있으면 바로 출발할 수 있습니다. ES90은 직장 생활과 개인 생활을 매끄럽게 연결하도록 설계되어 업무와 주말, 생산성과 여가 사이를 자유자재로 넘나들 수 있게 해줍니다.
-
-- **[Volvo ES90 — The Balancing Act](https://www.youtube.com/watch?v=AtkSTALqu5w)** — 2025-03-05 · ko · `unclassified`
-  균형 잡힌 삶에 대해 어떻게 정의하시나요? 균형 잡힌 상태 혹은 균형 있게 행동하는 것? 자신을 위한 시간과 타인을 위한 시간의 배분? 혹은, 단순히 배를 채우는 것이 아니라 삶을 더욱 충만하게 만드는 것일 수도 있습니다 균형 그것은 우선 순위를 정하고 언제 어떤 일을 기다릴 수 있는지, 어떤 일이 진정으로 관심을 기울여야 할 가치가 있는지를 아는 것입니다. 우리는 균형 잡힌 삶을 사는 것이 매우 중요하다고 생각합니다 균형 잡힌 삶은 사랑하는 사람들과 함께 좋아하는 일을 더 많이 할 수 있도록 도와줍니다.
-
-- **[Volvo EX30 Cross Country: Everything you need to know](https://www.youtube.com/watch?v=gxcrAFpQ4JQ)** — 2025-03-03 · ko · `unclassified`
-  안녕하세요, 저는 Volvo Cars의 Katharina입니다 이것이 바로 볼보 EX30 Cross Country입니다. 우리의 작은, 완전한 전기 SUV는 모든 것을 갖추고 있습니다. EX30에 대해 이미 훌륭합니다. 그러나 몇 가지 맞춤형 변경 사항이 있습니다. 자연으로 더 쉽게 나갈 수 있도록, 그것이 당신의 지역 공원에 있는지 여부 또는 산에서. EX30은 더 작을 수 있습니다. 다른 SUV의 발자국, 하지만 대담한 SUV 표현을 제공합니다 균형 잡힌 비율로. 우리는 그것을 위해 설계했습니다 뚜렷한 펜더가 있습니다.
-
-- **[Meet the refreshed Volvo XC60](https://www.youtube.com/watch?v=miwvi-zUPgg)** — 2025-02-18 · ko · `unclassified`
-  고마워 [음악] 자, 그럼 속도를 좀 늦춰볼까? 조금만 더 천천히. 오, 준비됐어. 걱정 마. 내가 도와줄게. [음악] 꺼내줘. 그게 인생이지. 이 거리, 그게 모든 [음악] 사람들. 잘했어. 조심해. 그게 인생이야. 그리고 웃기게 들릴지 모르지만.
-
-- **[How to Cross Country | Volvo Cars](https://www.youtube.com/watch?v=JVvKCgrOfek)** — 2025-02-13 · ko · `unclassified`
-  아, 그렇군요. 시대를 초월하는 질문이죠. 어떻게 오프로드를 달리고, 야생에서 살아남고, 다혈질 아이를 키우고, 사랑의 섬세한 춤을 어떻게 춰야 할까요? 답은 적응력입니다. 목적지에 도착했으니 주변 환경을 잘 살피고, 무엇보다 영양가 있는 음식을 챙기세요. 이것이 바로 오프로드의 기술입니다.
-
-- **[Wireless CarPlay is coming to your Volvo EX90](https://www.youtube.com/watch?v=Onw3Tf04roc)** — 2025-02-11 · ko · `unclassified`
-  MH, 그때까지 모든 게 제대로 준비됐는지 확인해 볼게요. 제가 모든 걸 준비해 둬서 빨리 마무리할 수 있도록 할게요. 좋아요. 내일 다시 연락드려서 모든 걸 확인할게요. 곧 다시 얘기해요. 안녕히 계세요.
-
-- **[Meet the new Volvo EX30 Cross Country](https://www.youtube.com/watch?v=UVqBD8-Hua8)** — 2025-02-10 · ko · `unclassified`
-  서둘러야겠어. 칠흑같이 어두운 한밤중이었어. 어디 가는 거지? 나무 한 그루를 봤는데, 그냥 나무가 아니었어. 세상에서 제일 큰 나무였지. 솔방울은 뾰족하고 공처럼 생겼어. 하나 찾은 것 같아. 너한테 막대기 하나 줄게. 그리고 우리는 계속 걸었어. 엄마가 더 이상 걸을 수 없을 때까지. 내가 업어줄까? 응. 하마터면 맛없는 열매를 좀 먹을 뻔했어. 그러고 나서 우리는 C를 봤지. 엄마가 그랬어. 정말 대단한 모험이었지, 친구. 응, 그랬지. 이제 뭐 할까?
-
-- **[Volvo EX90: Everything you need to know](https://www.youtube.com/watch?v=4iuL9eSx_8g)** — 2025-01-15 · ko · `unclassified`
-  [음악] 안녕하세요, 저는 볼보 자동차의 로빈입니다. 볼보 EX90을 소개합니다. 7인승 볼보 최초의 순수 전기 SUV로, 순수 전기 동력을 사용하며 첨단 안전 시스템이 기본으로 탑재되어 있습니다. 또한, 더욱 편리한 운전을 위한 최첨단 기술이 가득하며, 디자인도 매우 뛰어납니다. 그럼 자세히 살펴보겠습니다. 볼보 EX90은 볼보의 엄격한 안전 기준에 따라 설계되었으며, 운전자 인식 시스템을 포함한 안전 공간 기술이 적용되었습니다. 다양한 외부 센서가 사고 예방을 돕고, 운전자의 집중도를 파악하여 필요시 지원하는 볼보의 실내 센서도 탑재되어 있습니다
-
-- **[Route EX90: Volvo's Coast to Coast US Roadtrip in the new electric SUV | Full Film](https://www.youtube.com/watch?v=4yx1HZCV1vE)** — 2024-12-10 · ko · `unclassified`
-  이건 제 개인적인 로드트립이 아니라 EX90의 로드 트립입니다. 공장에서 출고된 차를 몰고 나라 한쪽 끝에서 다른 쪽 끝까지 어떻게 갈 수 있을까요? 사람들이 " EX90을 방금 출시하셨군요. CEO시잖아요."라고 물을 때, "네, 맞습니다. 이 차를 몰고 미국 횡단을 했습니다. 그리고 저는 이 차를 잘 압니다. 수천 마일을 운전해 봤으니까요."라고 말할 수 있는 진정성이 있어야 한다고 생각합니다. 두 번째 이유는, 저는 운전을 좋아하고, 다양한 지형과 기후, 노면 상태, 풍경 등을 경험하며 운전하는 것보다 더 좋은 경로를 찾기는 어렵다고 생각하기 때문입니다
-
-- **[Extreme Vehicle Testing: Behind the Gates at Hällered Proving Ground](https://www.youtube.com/watch?v=O2bem17GC6g)** — 2024-11-21 · ko · `unclassified`
-  [음악] 팔리드에 오신 것을 환영합니다. 스웨덴 시골의 숲 속에 숨겨진 이곳은 50년 넘게 볼보 자동차의 검증된 트랙, 할러(Haler)에서 자동차 테스트를 진행해 온 곳입니다. 저희는 운 좋게도 이곳을 직접 방문하게 되었는데, 단순히 구경만 하는 것이 아니라 테스트 과정에 직접 참여할 예정입니다. 자갈길, 바닷물, 고속 주행, 험난한 코너링까지, 이 볼보 164는 1973년, 이곳 테드(TED)에서 혹독한 테스트를 거친 최초의 모델 중 하나입니다. 트랙에서의 끊임없는 테스트와 개선을 통해 이 차는 당대 가장 내구성이 뛰어나고 안전한 자동차 중 하나로 자리매김할 수 있었습니다
-
-- **[EX90 / XC90: A Tale of Two Flagships](https://www.youtube.com/watch?v=BOhxwv5fPL8)** — 2024-09-17 · ko · `unclassified`
-  [음악] [박수] [음악] 안녕하세요 여러분, 볼보의 멋진 세계에 오신 것을 환영합니다. 볼보의 모든 것을 만나볼 수 있는 저희 새로운 공간은 바로 저희 본사가 위치한 예테보리에 있습니다. 저는 볼보 자동차 CEO 짐 로완입니다. 오늘은 볼보의 모든 것을 기념하는 자리입니다. 이 행사는 EX90의 출시와 함께 볼보의 새로운 시대를 여는 시작을 알리는 자리입니다. 오늘 우리는 새로운 플래그십 SUV, XC90 하이브리드 모델을 공개할 예정입니다. 볼보의 장기 전략은 완전 전동화이며, 이는 우리의 나침반과 같은 목표입니다.
-
-- **[The new Volvo XC90: 10 things you need to know](https://www.youtube.com/watch?v=Eym760X6Sxk)** — 2024-09-16 · ko · `unclassified`
-  [음악] 안녕하세요 여러분, 저는 볼보 자동차의 벤입니다. 오늘 소개해 드릴 차량은 수상 경력에 빛나는 플래그십 하이브리드 SUV, 볼보 XC90의 최신 버전입니다. 새로운 기술 과 세련된 디자인으로 완성된 이번 XC90은 저희가 생각하는 역대 최고의 XC90입니다. 꼭 알아두셔야 할 10가지 특징을 소개합니다. 신형 XC90은 견고한 자세와 자신감 넘치는 모습으로 이전 모델의 전통을 이어갑니다. 전면부는 완전히 새롭게 디자인되었으며, 볼보의 상징인 '토르의 망치' 라이트 시그니처를 새롭게 해석했습니다.
-
-- **[Route EX90 - Trailer](https://www.youtube.com/watch?v=Ree2rHOSgZc)** — 2024-09-10 · ko · `unclassified`
-  [음악] 이건 EX9의 로드 트립이야. 우리 모두 이 차의 관리자가 될 거야. 어떻게 공장에서 차를 몰고 나와 미국 한쪽 끝에서 다른 쪽 끝까지 갈 수 있을까? 미국의 풍경은 마음껏 탐험하고 즐길 수 있도록 펼쳐져 있어. [음악] 요즘엔 이렇게 자기 생각에 푹 빠져볼 기회가 많지 않잖아. 로드 트립은 누구나 한 번쯤 해봐야 할 거야. 자, 서쪽으로 향해서 어디든 멈춰 서 보자.
-
-- **[EX90: Designed to be the safest Volvo car ever made](https://www.youtube.com/watch?v=O9Z_vzJyToA)** — 2024-09-06 · ko · `unclassified`
-  믿기 ​​힘들겠지만, 이상하게 들릴지 몰라도 놀라운 마법이 당신을 따라다니고, 카메라로는 담아낼 수 없어요. 제가 뒤를 보라고 하면, 당신이 돌아서도 마법은 사라지죠. 하지만 저는 봐요. 저는 그걸 보고 있어요. 그래서 저는 눈을 크게 뜨고 모든 걸 지켜볼 거예요. 당신은 의심하기 시작하겠지만, 제가 보는 수많은 모습들을 다시 한번 상기시켜 드릴게요. 저는 봐요. 맹세컨대, 저는 당신에게서 놀라운 마법을 봐요.
 
 ## Pinecone (47건)
 
@@ -7807,128 +8013,6 @@
 
 - **[Whitespace on Sovereign AI for Defense: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=ZAByHbFlEoM)** — 2026-07-09 · ko · `unclassified`
   오라클 TV에 다시 오신 것을 환영합니다. 오늘 첫 번째 손님인 폴 젠킨슨 씨와 함께합니다. 그는 화이트스페이스의 CEO이자 공동 창립자입니다. 오늘 함께해 주셔서 감사합니다. 고마워, 프리츠. 이곳에 오게 되어 기쁩니다. 괜찮은. 그럼 국방 및 국가 정보 분야에서 국가 주도형 인공지능(AI) 구축을 위해 당신이 이끌고 있는 업무부터 시작해 볼까요? 음, 화이트스페이스가 어떤 일을 하고 있는지 좀 더 자세히 설명해 주시겠어요 ? 우리의 핵심 목표는 의사 결정의 우월성을 확보하는 것입니다.
-
-## Replit (40건)
-
-- **[New Mobile App, Hosting Prices Down 50%+, Tools Pane & MCP Beta | This Week in Replit (Jul 24, 2026)](https://www.youtube.com/watch?v=wkZi4yPQx9M)** — 2026-07-24 · ko · `AX`
-  이번 주는 Replit에 있어 중요한 한 주였습니다. 그중에서도 가장 먼저 소개해 드릴 것은 이번 주 초에 출시된 새로운 모바일 앱입니다. 이제 이동 중에도 제작할 수 있습니다. 아이디어가 떠오르거나 영감이 생길 때마다 바로 만들기 시작하세요. 상담원과 대화하고 , 채팅, 작업 및 미리보기 사이를 스와이프하며, 빌드에 대한 멋진 실시간 업데이트도 받아보세요. 데스크톱 앱에서 어떤 작업을 시작하면 휴대폰으로 알림을 받게 됩니다 . 새로운 작업을 추가할 수 있습니다. 정말 멋지네요.
-
-- **[Replit Updates: Voice Mode, Claude & Slack Integrations](https://www.youtube.com/watch?v=olepMCvs7NU)** — 2026-07-24 · ko · `unclassified`
-  Replit은 지난 몇 주 동안 많은 제품을 출시했는데 , 그중 몇 가지 음악은 여러분의 음악 제작 방식을 바꿀 수 있습니다. 여러분이 기대할 만한 6가지 업데이트를 소개합니다. 먼저, 음성 [음악] 모드입니다. 이제 상담원과 통화하실 수 있습니다. 채팅창의 마이크 아이콘을 탭하고 하고 싶은 말을 큰 소리로 하세요 . Replit은 음성을 텍스트 [음악]로 변환하고 전송하기 전에 수정할 수 있습니다 . 이건 당신이 할 수 있는 말입니다 . Replit, 북클럽 랜딩 페이지 하나 만들어줘 .
-
-- **[Build with the Replit Mobile App](https://www.youtube.com/watch?v=eNJF4g00S0E)** — 2026-07-22 · en · `unclassified`
-  All my friends moved to the city, [music] and maybe they're like me, trying to build something of their own. I just never figured out how to start. Hey Replit, build me a site where people can see my work and [music] make bookings. Turns out the first step didn't have to happen at a desk. It could happen the second an idea hit.
-
-- **[This Week in Replit | July 10th, 2026](https://www.youtube.com/watch?v=gjQgbQv28GA)** — 2026-07-11 · ko · `unclassified`
-  Replit의 세계에서는 지루할 틈이 없습니다. 좋습니다, 그럼 이번 주에 출시된 새로운 커뮤니티 프로필부터 소개해 드려야겠네요. 가장 쉬운 방법은 아, 맞아요. Replit에서 제작한 모든 멋진 콘텐츠와 활동을 가장 쉽게 선보일 수 있는 방법입니다. 프로필을 등록하고, 맞춤 설정하고, 좋아하는 프로젝트를 추가하고, 소셜 미디어 링크를 연결할 수 있습니다. 프로 또는 엔터프라이즈 계정을 사용하는 경우 사용량, 활동, 체크포인트, 그리고 무엇보다 중요한 파워 랭킹과 같은 놀라운 통계를 확인하여 전 세계에 자랑할 수도 있습니다. 그러니 replit.
-
-- **[How to Keep Your Vibe coded App Secure with Replit](https://www.youtube.com/watch?v=cylyRDX1iuM)** — 2026-07-01 · ko · `unclassified`
-  좋아요, 이제 앱 개발이 완료되었고, 어쩌면 출시까지 했을지도 모르겠네요. 하지만 문제는 실제 사용자들이 앱을 사용하기 시작했을 때 앱의 안전성을 어떻게 보장할 수 있느냐는 것입니다. 안녕하세요, 저는 Replit에서 개발자 관계를 담당하는 Sarah입니다. 오늘은 Replit에서 제공하는 보안 기능과 앱을 안전하게 보호하기 위해 할 수 있는 네 가지 방법에 대해 설명해 드리겠습니다. 그럼 좋은 소식부터 시작해 볼까요? Replit은 빌드 과정 자체만으로도 이미 많은 보안 관련 작업을 처리해 줍니다 .
-
-- **[FaZe Apex: From content empire to startup founder | Between Builders](https://www.youtube.com/watch?v=0dDMmST3rQY)** — 2026-06-30 · en · `unclassified`
-  When I was 14, I started making YouTube videos. I ended up [music] joining a group and creating a business called Faze Clan. There was probably 30, 40 different YouTubers at a at a time that are all making content from different parts of the world. &gt;&gt; Entrepreneurs that don't have a software engineering background might have [music] an advantage now. &gt;&gt; There's going to be a new generation of people that build businesses on on like Replit.
-
-- **[Welcome HRH Crown Prince Al Hussein bin Abdullah II and HRH Princess Rajwa Al Hussein to Replit ⠕](https://www.youtube.com/watch?v=XH-UHsDTeNg)** — 2026-06-23 · ko · `unclassified`
-  [음악] 아.
-
-- **[Race To Revenue | Episode 8 — Showcase Day](https://www.youtube.com/watch?v=H2D3KuRtjlw)** — 2026-06-17 · ko · `unclassified`
-  오늘 저는 샌프란시스코로 갑니다. 이건 휴가 같지 않아. 저는 이 일을 하기 위해 대륙을 횡단하는 비행기를 타고 갑니다. 저는 결과를 원합니다. 나는 이 일을 통해 뭔가 결과가 나오길 바란다 . 나는 실패하고 싶지 않아. 쇼케이스에서 발표할 곡에 대한 아이디어를 글로 쓰고 있어요. 왜냐하면 음악을 쓰는 건 생각을 훨씬 쉽게 풀어낼 수 있게 해주거든요. 뭔가를 외워서 사람들 앞에서 큰 소리로 말하는 것보다 훨씬 편해요 .
-
-- **[4 Apps, 10+ Hours Saved a Week | Lindsay Wise + Julia Holm](https://www.youtube.com/watch?v=ppq5We7npew)** — 2026-06-16 · ko · `AX`
-  전적으로. 사실 저는 어제부터 Replit을 처음 사용하기 시작했습니다. [웃음] 어제 선생님 수업에 참석했는데, 누군가가 실시간으로 뭔가를 만들어내는 걸 보고 "와, 정말 대단하다. 나도 어서 참여하고 싶다 "라고 생각했어요. 사실 어젯밤에 린지와 저는 늦게까지 함께 바이브 코딩을 하면서 시간을 보냈 는데 정말 좋았어요. [웃음] 내가 말했잖아. 엄청난. 혹시 코디가 건물을 시연하고 있었던 건가요? 네, 바로 그거예요 . 오, 당신은 록스타를 얻게 되는군요. 거기서는 최고의 대접을 받게 되죠. 시원한.
-
-- **[How to Use Parallel Agents in Replit](https://www.youtube.com/watch?v=NGWKpGnwI_c)** — 2026-06-12 · en · `unclassified`
-  What if I told you you could turn your idea into a website, mobile app, slides, [music] and animated video all at the same time? Hi, I'm Sarah and last time we built this travel planner app using Replit. Today, we're going to expand on this app and I'm going to show you one of the coolest feature that Replit [music] has. We are going to cover multi-artifacts and parallelism, which is like having a whole team working for you.
-
-- **[Race To Revenue | Episode 7 — Design Thinking](https://www.youtube.com/watch?v=r2BeLgS0zkU)** — 2026-06-10 · en · `unclassified`
-  It's week seven. &gt;&gt; It feels much longer than that. &gt;&gt; You have eight weeks, you have a showcase, we're racing to revenue. &gt;&gt; I got sick, but one day without working at this point is too much. I'm feeling rested, focused, good. &gt;&gt; [laughter] [music] &gt;&gt; We are on week seven of the program. Last time we were talking, it was a thought, but [music] today is the day.
-
-- **[Always Be Building: How Luca replaced 12 Google Drives with one Replit app](https://www.youtube.com/watch?v=JIR4ix2mbNc)** — 2026-06-05 · ko · `unclassified`
-  제 이름은 루카입니다. 제가 개발한 애플리케이션은 Grid라고 하며, 직원 허브 역할을 합니다. [음악] 우리가 직면했던 가장 큰 문제는 회사 전체에 걸쳐 음악 관련 자료를 한곳에 모아 관리할 수 있는 중앙 집중식 허브가 없다는 것이었습니다. 우리 회사의 모든 자원은 와이파이 비밀번호를 알아내는 것부터 어디에 앉아 있는지까지, 약 10~12개의 구글 드라이브와 수많은 구글 스프레드시트에 분산되어 있었습니다 . 그래서 직원들이 실제로 원하는 자료를 찾는 것이 매우 혼란스럽고 번거로워졌습니다 .
-
-- **[Create Your Custom Shopify Store](https://www.youtube.com/watch?v=_1MLk-iGEss)** — 2026-06-04 · ko · `unclassified`
-  안녕하세요, Replit의 맨디입니다. 제 새로운 Shopify 스토어를 꼭 확인해 보세요! 맞춤형 브랜딩, 맞춤 제작, 그리고 현재 결제까지 받고 있습니다. 이것은 Replit의 새로운 Shopify 통합 기능을 사용하여 구축되었습니다. 시작하는 방법을 알려드리겠습니다. 저는 에이전트에게 가겠습니다. 여기에 질문을 남겨두겠습니다. 에이전트에게 쇼피파이를 사용하여 와일드 웜즈 구미 스토어를 구축해달라고 요청했습니다. 에이전트가 Shopify에서도 재고를 구축할 수 있도록 제품 및 재고 수준에 대한 세부 정보도 함께 제공하고 있습니다 . 에이전트가 시작을 알리고 , Shopify에 연결하라는 메시지가 표시될 겁니다.
-
-- **[What Is Replit?](https://www.youtube.com/watch?v=jb8Qh6lxTaw)** — 2026-06-04 · ko · `unclassified`
-  만약 아이디어를 단 몇 분 만 에 완성된 앱으로 만들 수 있다면 어떨까요 ? 안녕하세요, 저는 사라입니다. Replit에서 개발자 관계 업무를 담당하고 있습니다. 그리고 2 분 안에, 왜 그렇게 많은 음악인들이 Replit 사용에 열광하는지, 그리고 Replit이 어떻게 음악 제작 소프트웨어를 그 어느 때보다 더 접근하기 쉽고 창의적으로 만들어주는지 보여드리겠습니다. Replit은 브라우저에서 바로 앱, 웹사이트, 애니메이션, 슬라이드 데크 등을 만들 수 있는 플랫폼입니다. [음악] 원하는 바를 쉽고 명확하게 설명하기만 하면 Replit이 그 내용을 바탕으로 작동하는 소프트웨어를 만들어 줍니다.
-
-- **[Race To Revenue | Episode 6 — Resistance](https://www.youtube.com/watch?v=9eW_Viah4yE)** — 2026-06-03 · ko · `unclassified`
-  인간으로서 우리가 알고 있는 것 중 하나는 이야기를 통해 서로 소통한다는 것입니다. 우리는 우리 삶에서 일어나는 모든 일이 실화라는 것을 알고 있습니다. 제게 있어 스토리텔링은 음악 사업의 핵심입니다. 당신은 사람들의 진정한 관심사와 실제 행동을 어떻게 이해하고 있습니까? 그래서 저에게 스토리텔링은 모든 것입니다. 모든 것. 어느새 벌써 6주차네요. [웃음] 기분이 좋아요. 핵심은 주로 스토리텔링에 있습니다. 우리가 무엇을 만들고 있는지를 전달하는 것뿐만 아니라, 그 안에 우리가 어떻게 녹아드는지를 보여주는 것이죠.
-
-- **[Race To Revenue | Episode 5 — The Pitch](https://www.youtube.com/watch?v=ZnwWkJe0EZw)** — 2026-05-27 · ko · `unclassified`
-  세 번째이자 마지막 아이를 임신했다는 사실을 알게 됐어요. 저는 [음악]에 너무 신나요. 한때는 이런 일이 일어날 거라고 생각하지 못했던 적도 있었는데, 이렇게 이루어지게 되어 정말 기쁩니다. [음악] 하지만, 저는 이런 의심과 두려움이 스며드는 것을 느꼈습니다. 여성 창업자로서, 이제 저는 [음악] 덜 진지하게 받아들여지게 되는 걸까요? 내 헌신에 대해 의문이 제기될까요? 제 음악과 가족은 제 삶의 원동력입니다. 그들이 바로 제가 회사를 설립하는 이유입니다 . [음악] 그것은 나를 억누르기는커녕 , 오히려 내 열정에 더 큰 연료가 될 거야.
-
-- **[How Replit Evaluates AI Models So You Don't Have To | Peter Zhong @ SaaStr](https://www.youtube.com/watch?v=i3F3KhH1Ek0)** — 2026-05-26 · ko · `unclassified`
-  당신은 마치 지역 사회의 숨은 영웅 같아요. 왜 그들이 거의 모든 방송에서 당신을 찾는지 모르겠어요. 음, 그러니까, 당신의 비결이 뭐예요 ? 피터, 당신은 왜 그렇게 카메라 앞에서 자연스러운가요? 글쎄요, 저도 잘 모르겠네요. 제 생각엔 Replit 같은 회사에서 일하는 건 정말 신나는 일인 것 같아요. 음, 저는 학문적 배경을 가지고 있는데, 제 연구 결과가 여기 계신 분들처럼 많은 사람들에게 영향을 미치지는 않는다고 생각합니다.
-
-- **[How to Add User Login to Your Replit App](https://www.youtube.com/watch?v=cfpC1rzxspo)** — 2026-05-26 · ko · `unclassified`
-  지금까지 저희는 여행 앱을 디자인하고 출시했습니다 . 하지만 현재 모든 사용자가 동일한 화면을 보고 있습니다. 사용자가 로그인하고, 여행 일정과 목적지를 저장하고 , 개인화된 경험을 누릴 수 있는 방법이 없습니다. [음악] 자, 그럼 오늘 이 문제를 해결해 봅시다. 안녕하세요, 저는 Replit의 개발자 담당 사라입니다. 오늘은 앱에 로그인 기능을 추가하는 방법을 보여드리겠습니다. 자, 이것을 [음악]이라고 부르는 전문적인 용어는 인증 이지만, 실제로는 사용자가 계정을 만들고 로그인할 수 있도록 허용하는 것을 의미합니다.
-
-- **[The Best Time in History to Start a Company | Patrick Collison & Amjad Masad](https://www.youtube.com/watch?v=YgYiF86h0yU)** — 2026-05-21 · en · `AX`
-  The rate of new business creation on [music] Stripe in March, it's up almost 2x year over year. It was one of the early example of AI companies that went from zero to like 10 million ARR in like a few months, &gt;&gt; [music] &gt;&gt; and now it's like a half a billion dollar company. We're going to see more of those billion dollar kind of single two-person businesses.
-
-- **[Race To Revenue | Episode 4 — All In](https://www.youtube.com/watch?v=DI9PtP0RGA4)** — 2026-05-20 · en · `unclassified`
-  Hello, so this is now [music] week four of Rep the Street Renter program. Which means that we're officially halfway through. The major themes for this week, data compliance, HIPAA compliance. Week four, we had itch share problems. I think the pressure is, you know, finding getting a paying customer. We feel a little pressure from the revenue [music] term in Race to Revenue. Excited, but also a little nervous.
-
-- **[The CRO Building Replit's Enterprise Machine | Ghazi Masood @ SaaStr](https://www.youtube.com/watch?v=PNBVzu4_G9c)** — 2026-05-20 · en · `AX`
-  starting with Ghazi, who is the CRO at Replit. Um and I think this is the first time you're meeting the audience from the community through one of our streams, right? &gt;&gt; a lot and really, really excited to be here. Hello everyone. Yeah. Um so we wanted to just start out uh by just introducing like what is a CRO? What do you do?
-
-- **[Replit's President on Agents, Security and the Future of Work | Michele Catasta @ SaaStr](https://www.youtube.com/watch?v=8VAZkJWZvAw)** — 2026-05-19 · en · `AX`
-  Thanks for hanging with us here at SaaStr Live 2026. I'm Rymer, this is Manny, we got Francisco. We just talked with Gazi and Amjad, and now we are joined by Micheleli, who is the president and head of AI at Replit here. How are you? What is going on? &gt;&gt; how are you making all this magic happen? So, we got Gazi over here selling big deals.
-
-- **[Vices Are the New Virtues | Amjad Masad on AI, Athletes, and Vibe Coding](https://www.youtube.com/watch?v=cTL8OyzM0AI)** — 2026-05-15 · en · `AX`
-  All right, what's up everybody? We're back. Welcome back from our commercial break. You see Gazi has transformed into Amjad over here. &gt;&gt; [laughter] &gt;&gt; Same haircut. Yeah, that's the thing. All right. I don't know. I'm working on it. It's getting a little [laughter] thin up here. &gt;&gt; [gasps] &gt;&gt; What's up everyone? So, we were just chatting with Gazi. Now we got Amjad up here.
-
-- **[Race To Revenue | Episode 3 — The Perfect Storm](https://www.youtube.com/watch?v=bDgfkPa7vJw)** — 2026-05-13 · en · `unclassified`
-  Going from founder where things are visionary to application to like CEO type work, very different. Sometimes you just wonder like, what if I build this program and I get out of here and I release it to the public and it falls flat? How do I deal with that? &gt;&gt; [music] [music] &gt;&gt; It is week three for Race to Revenue and the focus this week is how do [music] we get to our first dollar?
-
-- **[Vibecon: June 17–18 in NYC | Get your tickets now!](https://www.youtube.com/watch?v=8flQMMPknpY)** — 2026-05-12 · en · `unclassified`
-  [music] &gt;&gt; Hey.
-
-- **[How Jacob Built an AI Sales Coach on Replit](https://www.youtube.com/watch?v=UcBv6Y9JgfI)** — 2026-05-07 · ko · `unclassified`
-  안녕하세요. 안녕하세요, 프리야 씨 맞으세요? 30 초 드리겠습니다. 가다. 괜찮은. 안녕하세요, 이건 사전 조사 없이 거는 전화 지만, 아주 철저하게 준비한 전화입니다. 보안과 엔드투엔드 솔루션에 대해 언급하셨는데요 . 규정 준수는 어떻게 되나요? 제 이름은 제이콥 페르노이고, Replit의 창립 SDR 리더입니다. 무엇을 구축해야 할지 고민했을 때, 제게는 Replit에 합류할 팀이 있었고, 그들이 원활하게 온 보딩하고, 메시지를 이해하고, 더 효율적으로 시장에 진출할 수 있도록 모든 준비를 마치고 싶었습니다.
-
-- **[Race To Revenue | Episode 2 — Reality Check](https://www.youtube.com/watch?v=UCVtzHOoKc8)** — 2026-05-06 · ko · `unclassified`
-  안녕하세요. 저희 앱이 제대로 작동하도록 노력 중입니다. 저희 잠재 고객 중 한 분이 토요일에 애플리케이션 테스트를 진행할 예정이고, 다른 잠재 고객들에게도 연락해야 하기 때문에 일정이 촉박해서 이 문제를 해결하려고 노력하고 있습니다. 그래서 제가 해야 할 일은 그게 전부입니다 . 응. [음악] 안녕하세요. 이번 주는 RevUpLit의 '수익 증대를 위한 경쟁' 프로그램 2주차입니다. 이번 주가 정말 기대돼요. 강렬한 음악이었지만, 흥미진진했어요. 우리가 해야 할 일이 정말 많아요. 모든 버그를 수정하고 지금 바로 작업하세요.
-
-- **[Replit for Enterprise with Kody Low + Nick Co](https://www.youtube.com/watch?v=IP8SRLgqtWU)** — 2026-05-06 · ko · `AX`
-  저는 코디입니다. 그래서, 저희가 모든 것을 재편성했기 때문에 Replit 내의 새로운 구조와 기업들이 어떻게 변화하고 있는지에 대해 이야기해 보려고 합니다. 하지만, 저는 Replit을 통해 약 1년 반 동안 기업 운영 전반을 진행해 왔습니다 . 그리고 지금 저는 현장 엔지니어 리더 중 한 명이고, 닉은 저희 팀으로 합류했습니다. 그러니까 현장 엔지니어링은 판매 전후의 모든 기술적인 측면을 담당하는 거라고 할 수 있겠죠? 그러니까, 기업들이 시범 운영 기간 동안 자리를 잡도록 돕고, 해커톤을 개최하는 등, 초기 판매 과정을 지원하는 거죠.
-
-- **[How to Build Slide Decks with Replit Agent](https://www.youtube.com/watch?v=7DBXOoLvqoQ)** — 2026-05-04 · en · `unclassified`
-  If you've ever needed to throw together a pitch deck or presentation really quickly, this is the video for you. In Replit, you can build a complete polished slide deck just by describing what you want. Let me show you how. Open the Replit homepage and just type in what you want. I'm going to say, "Create a pitch deck for a travel planner app.
-
-- **[Idea to Creation: Designing & Prototyping with Replit Agent 4](https://www.youtube.com/watch?v=DnuQNQfc8Mk)** — 2026-04-30 · en · `unclassified`
-  [music] &gt;&gt; Replit is the best place where people can build their ideas, whether they're apps or websites, anything you can build on Replit. So with Agent 4, we launched what we call an infinite canvas. It is a way to work visually with the agent. [music] You can draw a wireframe and ask the agent to actually turn that into a higher fidelity prototype or paste in a bunch of screenshots and images of what you want to [music] design and almost use it as a Pinterest inspiration board.
-
-- **[Race To Revenue | Episode 1 — The Starting Line](https://www.youtube.com/watch?v=uPWmDGN9iWY)** — 2026-04-29 · ko · `unclassified`
-  오늘 [음악]은 저희 ' 수익 창출을 위한 경쟁' 프로그램의 첫 번째 날입니다. 잘 지내세요? 제 이름은 잭입니다. 저는 니타예요. 저는 나탈리아입니다. 제 이름은 빌렘입니다. 제 이름은 리치 보르가티입니다. 많은 사람들이 지원했고, 우리는 20명의 지원자를 선발했습니다. 그 [음악] 20명은 향후 8주 동안 Replit에서 음악 작업을 할 수 있도록 1만 달러 상당의 크레딧을 받게 됩니다 . [음악] 그 8주 동안, 그들은 격주로 세션을 진행하고, 멘토 매칭을 통해 수익을 창출하고 Replit에서 지속 가능한 사업을 운영할 수 있도록 돕습니다
-
-- **[How to Publish Your Replit App](https://www.youtube.com/watch?v=ski8_MUYO4M)** — 2026-04-24 · ko · `unclassified`
-  네, 지난 영상에서 저희는 여행 앱을 디자인했습니다. 자, 이제 [음악]을 발표할 시간입니다. 현재 앱은 실행 중일 때만 작동하기 때문입니다 . 브라우저를 닫는 순간, 모든 것이 사라집니다 . 안녕하세요, 저는 Replit의 개발자 담당 Sarah입니다. 오늘은 여러분의 앱 [음악]을 누구나 언제든지 사용할 수 있도록 게시하는 방법을 보여드리겠습니다. 이렇게 생각해 보세요. Replit 작업 공간은 마치 당신의 주방과 같습니다. 당신은 일하고, 요리하고, 물건을 부수고 있을지도 모릅니다. 음악을 출판한다는 것은 요리를 접시에 담아 내놓는 것과 같습니다
-
-- **[Built a Company in 3 Weeks | Diego Renteria, Grand Prize Winner - Agent 4 Buildathon](https://www.youtube.com/watch?v=1iFuzxEE7yo)** — 2026-04-20 · ko · `unclassified`
-  자, 여기 3주 동안 6,000명의 참가자 중에서 최종 우승자를 발표합니다. 저희가 본 작품 중 단연 1위입니다. 제 생각엔 우리 둘 다에게 있어서 이건 확실한 승자였던 것 같아요. 네, 이건 첫 주부터 고민할 필요도 없는 당연한 선택이었죠. 이 사람은 단순히 인터넷에서 잠깐 접할 수 있는 앱이나 그런 것을 만드는 사람이 아니라는 점에서 눈에 띄었습니다. 이것은 제가 현실 세계에서 하고 있는 다른 일들을 가능하게 해주는 무언가를 만들고, 그것을 시장에 내놓기 위한 것이었습니다.
-
-- **[How to Use the Replit Canvas: Build a Travel Planner App](https://www.youtube.com/watch?v=69wpe7F7mxc)** — 2026-04-17 · ko · `AX`
-  오늘은 친구들과 공유하거나, 다음 여행에 활용하거나, 혹은 [음악] 분야의 차세대 사업 아이디어를 구체화하는 데 사용할 수 있는 여행 계획 앱을 만들어 보겠습니다. Replit을 사용하여 이 모든 것을 하는 방법을 보여드리겠습니다. 안녕하세요, 저는 Replit의 개발자 관계 담당자 사라입니다 . 이번 영상은 아이디어 구상부터 완성도 높은 제품 개발까지 5부작으로 구성된 시리즈의 첫 번째 영상입니다. 자, 시작해 볼까요? 이제 Replit으로 이동하여 첫 번째 프로젝트를 시작하세요. 모든 Replit 프로젝트는 프롬프트로 시작하므로, 오늘 우리가 사용할 프롬프트는 바로 이것입니다
-
-- **[Distribution Wins | Tala Awwad on How to Get Your App Noticed](https://www.youtube.com/watch?v=1GzewbNtBO4)** — 2026-04-07 · ko · `unclassified`
-  탈라, 만나서 반가워요. 여기 계신 분들 대부분은 당신을 아시겠지만, 이제 막 당신을 알게 된 소수의 분들을 위해 간단하게 자기소개를 부탁드립니다. Replit에서 무슨 일을 하시나요? 안녕하세요, 여러분. 제 이름은 탈라입니다. 저는 마케팅팀 소속입니다. 저는 Replit에서 크리에이터들을 이끌고 있습니다. 그러니까, 그 말은 소셜 미디어 인플루언서나 콘텐츠 제작자, 뛰어난 스토리텔러, 영화 제작자 등 다양한 유형의 온라인 크리에이터들과 협업한다는 뜻이에요. 음, 그러니까 그들과 협력해서 Replit을 실제로 구현 하고 여러분의 독특한 사용 사례를 통해 Replit을 제대로 보여주는 것이죠.
-
-- **[How to Make Your App Go Viral | Silk Founders on Content, Pain Points, and Launching in 48 Hours](https://www.youtube.com/watch?v=FddveVs9QdQ)** — 2026-04-07 · ko · `unclassified`
-  저는 라힘 시디크입니다. 저는 Silk의 공동 창업자 중 한 명입니다. 그리고 기본적으로 저는 여기 사업주 중 한 명입니다. Silk는 지난 주말에 출시했습니다. 이걸 하나로 엮어볼 생각에 정말 설레요. 네, 베이스, 말씀하세요. 안녕. 여러분들이 제 얼굴을 이미 보셨을 수도 있지만, 제 이름은 베이스입니다. 다시 한번 말씀드리지만, Silk의 공동 창립자 중 한 분이기도 합니다. 지난 몇 주 동안 정말 정신없는 시간이었지만, 이곳에 오게 되어 정말 기쁘고 대회에서 우승하게 되어 너무나 설렙니다. 감사합니다!
-
-- **[Meet the Buildathon Week 1 Winners | 5 Builders, 5 Apps, Real Stories](https://www.youtube.com/watch?v=3cW8yPbJNWM)** — 2026-04-07 · ko · `unclassified`
-  Agent 4 Build-a-Thon 1주차 우승자들을 모셨습니다. 첫 번째 게스트부터 만나보시죠. 제가 데려오겠습니다. 네, 네 , 안녕하세요, 잘 지내세요? 안녕하세요, 매니 씨. 안녕하세요, 레이마르님. 무슨 일이야? 만나서 반가워요. 첫 주 우승을 축하드립니다. 그건 아주 중요한 일이에요. 기분이 어땠어? 기분이 너무 좋아요. 나 자신이 믿기지 않아 . 네, 그렇습니다. 감사합니다. 매우 감사합니다. 간단하게 자기소개를 해주세요. 프로젝트에 대해 간략하게 소개해 주시겠어요?
-
-- **[Move Faster with Agent 4](https://www.youtube.com/watch?v=jtemv__IS0U)** — 2026-03-17 · en · `unclassified`
-  Okay, so crazy [music] idea. We're getting tons of international interest. A global rollout would be a huge hit. Let's talk after lunch. &gt;&gt; [music] [music] &gt;&gt; Global rollout, where [music] do we start? Already done.
-
-- **[Design Freely with Agent 4](https://www.youtube.com/watch?v=7Xe3mybBbwM)** — 2026-03-16 · en · `unclassified`
-  Yo, that's sick. I caught that. &gt;&gt; [music] [music] &gt;&gt; Yo, man, that's my board. No way. &gt;&gt; No way. I did it all on here.
-
-- **[Build Together with Replit Agent 4](https://www.youtube.com/watch?v=LrahKbwVZwg)** — 2026-03-13 · en · `unclassified`
-  Hey team, the investors, they want to meet us tomorrow. We need the app ready now. &gt;&gt; All right.
 
 ## Salesforce (40건)
 
@@ -11877,6 +11961,11 @@
 
 - **[지역 산업 AI 전환(AX)의 필연적 전략  | INSIGHT VIEW](https://www.youtube.com/watch?v=y634UN2bnvU)** — 2026-07 · ko · `AX`
   지역 산업 AI 전환의 표현적 전략. [음악] 지역 산업이 단순한 디지털 전환을 넘어 AI 기반의 진흥화 시대에 진입하고 있어요. 하지만 모든 지역과 산업에 맞는 범용 AI만으로는 한계가 있어요. 지역별 경쟁력을 높이기 위해 각 지역의 산업 구조, 기술 인프라, 인력 구성, 시장 여건을 반영한 특화형 AI가 필요해요. 예를 들어 충남은 친환경 모빌리티 산업을 중심으로 [음악] AI를 적용하고 있어요. 컨테이너 적재 최적화, CAM 공정 [음악] 자동화 등으로 비용 절감과 생산성 향상 효과를 보고 있죠.
+
+## Matt Song (1건)
+
+- **[AX(AI전환)의 현황과 추진방향](https://www.youtube.com/watch?v=ksXsgaS0cGg)** — 2026-07 · ko · `AX`
+  안녕하세요. 워크인더우의 매트입니다. 오늘은 AX라고 하는 AI 전환에 대한 이야기를 해 보겠습니다. 최근 전 세계적으로 AX AI 트랜스폼이라고 하는 AI 전환이 주요 과제로 떠오르고 있고 많은 기업들이 이에 도전하고 있습니다. 하지만 현장의 이야기를 들어보면 글이 잘 진행되고 있지는 못한 것으로 보입니다. 이러한 AX의 현실을 살펴보고 어떠한 전략으로 AX에 접근해야 할지를 짚어보는 시간을 갖도록 하겠습니다. 기업 열 곳 중 아홉 곳이 AI를 도입했습니다. 그런데 손익 개선서의 이익으로 나타난 곳은 20곳 중 단 한 곳입니다
 
 ## Perplexity (1건)
 
