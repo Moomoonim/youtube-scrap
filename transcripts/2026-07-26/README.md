@@ -11,3 +11,9 @@
 - [AI-Native 기업으로 전환 전략과 사례](AI-Native_기업으로_전환_전략과_사례__Y-ApGj-9ceI.md) (ko) — [원본](https://www.youtube.com/watch?v=Y-ApGj-9ceI)
 - [기다렸다는 듯 "AI 차량·로봇…" 정의선, 기습 질문에 답변 '술술' [현장FACT]](기다렸다는_듯_AI_차량·로봇…_정의선,_기습_질문에_답변_'술술'_[현장FACT]__Tb5Zx8aMOKg.md) (ko) — [원본](https://www.youtube.com/watch?v=Tb5Zx8aMOKg)
 - [ChatGPT Enterprise 도입전략](ChatGPT_Enterprise_도입전략__oXxq-xeAoJQ.md) (ko) — [원본](https://www.youtube.com/watch?v=oXxq-xeAoJQ)
+
+## 12:53 수집 (3개)
+
+- [지역 산업 AI 전환(AX)의 필연적 전략  | INSIGHT VIEW](지역_산업_AI_전환(AX)의_필연적_전략_INSIGHT_VIEW__y634UN2bnvU.md) (ko) — [원본](https://www.youtube.com/watch?v=y634UN2bnvU)
+- ['Ding' – Shocking Notification at Dawn… AI Breaks Free and Goes Rogue / SBS / News Digest]('Ding'_–_Shocking_Notification_at_Dawn…_AI_Breaks_Free_and_G__KJdvS2-8LJE.md) (ko) — [원본](https://www.youtube.com/watch?v=KJdvS2-8LJE)
+- [Aaron Levie on AI Adoption and Enterprise Workflows | The a16z Show](Aaron_Levie_on_AI_Adoption_and_Enterprise_Workflows_The_a16z__dvVbA9OcBqs.md) (ko) — [원본](https://www.youtube.com/watch?v=dvVbA9OcBqs)
