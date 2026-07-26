@@ -17,3 +17,8 @@
 - [지역 산업 AI 전환(AX)의 필연적 전략  | INSIGHT VIEW](지역_산업_AI_전환(AX)의_필연적_전략_INSIGHT_VIEW__y634UN2bnvU.md) (ko) — [원본](https://www.youtube.com/watch?v=y634UN2bnvU)
 - ['Ding' – Shocking Notification at Dawn… AI Breaks Free and Goes Rogue / SBS / News Digest]('Ding'_–_Shocking_Notification_at_Dawn…_AI_Breaks_Free_and_G__KJdvS2-8LJE.md) (ko) — [원본](https://www.youtube.com/watch?v=KJdvS2-8LJE)
 - [Aaron Levie on AI Adoption and Enterprise Workflows | The a16z Show](Aaron_Levie_on_AI_Adoption_and_Enterprise_Workflows_The_a16z__dvVbA9OcBqs.md) (ko) — [원본](https://www.youtube.com/watch?v=dvVbA9OcBqs)
+
+## 15:47 수집 (2개)
+
+- [EP 105. AI가 연구를 할 수 있을까?](EP_105._AI가_연구를_할_수_있을까__ZwjWj6aw2BY.md) (ko) — [원본](https://www.youtube.com/watch?v=ZwjWj6aw2BY)
+- [How AI Is Changing Enterprise](How_AI_Is_Changing_Enterprise__aIKfA3gIXwo.md) (ko) — [원본](https://www.youtube.com/watch?v=aIKfA3gIXwo)
