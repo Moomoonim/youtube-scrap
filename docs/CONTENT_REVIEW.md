@@ -1,9 +1,9 @@
-# 수집 콘텐츠 검토 보고서 (v5, 2026-07-23)
+# 수집 콘텐츠 검토 보고서 (v6, 2026-07-26)
 
-> **1,603건 전체 코퍼스** 기준 전수 정독 분석. 심층 정독 ~920건(키워드 87 + 채널 100여 개 대부분), 최신 자동수집 잔여분 일부는 인벤토리 상태.
-> 자동분류: **AX 472 / DX 29 / AT 4 / 미분류 1,098** (채널 152개, 한국어 다수).
-> 다음 회귀분석·코딩 작업 전에 읽을 것. v3(771) 대비 신규·심층 채널: OpenAI·Stability AI·Mercedes-Benz·Google Cloud Tech·Zapier·AWS Developers·Hugging Face·Infosys 등.
-> **v5 증분(1,105→1,603, +498)**: 신규 채널 **AMD·Orange·IQVIA·Scale AI(캐나다)** + 신규 한국어 AX 키워드 다수(오픈AI×무신사·소버린AI·Vietnam AX 등) + 노이즈 확정(L'Oréal·Chegg·SoftBank). 이번엔 **지도를 실제로 확장하는 신규 신호 4개** 발견 — (a) **국가/정책(state) 담론 = 공급·수요 외 제3축**, (b) **분모스왑 "반박" 진영 등장**, (c) **"결핍이 혁신" = "AI는 사람 문제" 명제의 반증 축**, (d) **한국형 노동 마찰**(cost-structure change의 가장 직접적 담론-현실 연결). 아래 §0·§4 참조.
+> **3,865건 전체 코퍼스** 기준 분석. 심층 정독 ~1,000건(키워드 120여 + 채널 대부분), 대규모 백필 잔여분은 인벤토리 상태.
+> 자동분류: **AX 1,030 / DX 72 / AT 7 / 미분류 2,756** (채널 190개, 한국어 다수). 연도: 2020~22 얇음(36/69/44) → 2023:152 / 2024:289 / 2025:633 / 2026:2,642(68%).
+> 다음 회귀분석·코딩 작업 전에 읽을 것. **누적 신규·심층 채널**: OpenAI·AMD·Orange·Scale AI·Huawei·Oracle·Vertiv·Telefónica·Google Cloud Tech·Zapier·AWS Developers·Hugging Face 등.
+> **v6 증분(1,603→3,865, +2,262)**: 대규모 백필 + 신규 채널 **Huawei·Oracle·Vertiv·Telefónica·Figure·DuckDuckGo** + 한국어 AX 키워드 37편. 이번의 **지도 확장 신규 신호**: (a) 🔑 **회의론/역풍 클러스터 등장**(AX-boom에 대한 첫 조직적 대항진영 — unit-economics 반론·weakest-link 75년시차·워싱폭로), (b) **state 축이 지정학 블록으로 분화**(중국 탈주권·서방 동맹주권·EU 기술주권·한국 하이브리드), (c) **분모스왑에 "15% P&L 임계" 계량 눈금**, (d) **한국 노동마찰의 비균질성**(부서제거 실험 반례), (e) **전력 비용축 정량 앵커**(Vertiv). 아래 §0·§4 참조.
 
 ---
 
@@ -28,7 +28,7 @@
 | 비즈니스(v5) | AMD | 토큰/watt(NVIDIA) | **agents per watt·dollar·rack + "concurrency(동시성)"** | CPU(EPYC)를 GPU 서사에 재삽입 |
 | 신뢰(v5) | Orange | ROI | **4C→5C**(Control·Choice·Competence·Critical scale + **Comprehension/설명가능성**) | 텔코 주권·신뢰 상품화 |
 
-→ **지표를 쥔 자가 ROI 서사를 쥔다.** 이것이 의사결정의 알고리즘화의 메타층위: 기업 안에서 AI가 결정하기 이전에, 'AI 가치를 어떻게 계산할지'라는 판단 기준 자체가 이해당사자에 의해 재작성된다. v4에서 이 명제가 **연구층(스케일링→적응)·평가층(벤치마크 정의권)까지 관통**함이 확인됐고, v5에서 분모 전투가 벤더별로 **증식**(AMD concurrency, Orange 5C)함이 관찰된다.
+→ **지표를 쥔 자가 ROI 서사를 쥔다.** 이것이 의사결정의 알고리즘화의 메타층위: 기업 안에서 AI가 결정하기 이전에, 'AI 가치를 어떻게 계산할지'라는 판단 기준 자체가 이해당사자에 의해 재작성된다. v4에서 이 명제가 **연구층·평가층까지 관통**함이 확인됐고, v5에서 분모 전투가 벤더별로 **증식**(AMD concurrency, Orange 5C)했다. 🔑 **v6 계량 눈금**: Kore.ai/BCG(Nick Clarke)가 분모스왑에 손익 컷오프를 제시 — **"생산성 향상 <15%면 P&L에 반영 불가"**(성숙조직 15~18%·하위 7~12%·규모 실현 25%). 지표 재정의가 '실제 손익으로 인정되는가'의 임계선을 획득. 또한 삼성SDS는 ROI 측정 단위를 **토큰 미터링**으로 삼아 거버넌스·KPI·비용을 하나로 재봉합(운영 계층의 분모 확정).
 
 🔑 **분모스왑 실시간 포착**(Google Cloud Tech "How to speed up 80%"편) = 이 인사이트의 가장 선명한 단일 실연. 1시간 내 UI 버그 수정이라는 원래 목표는 **실패**(타이머 0)했으나, 발표자는 즉시 "사실 우리가 이겼다 — 계측→80% 단축→Cloud Run 배포, 축구로 치면 3:1 승리"로 성공 지표를 재정의한다. 목표 미달을 카메라 앞에서 실시간으로 승리 서사로 갈아끼우는 장면.
 
@@ -47,7 +47,20 @@
 10. **NEW: "신뢰성·평가(eval)가 새 전장"** — AWS(Steering/Evaluating Agents/Swarm 안전), Zapier(Automation Bench), Google(Arize/OTel). 에이전트 신뢰성이 미검증인 상태에서 "평가·벤치마크를 정의하는 자"가 "어느 에이전트가 좋은가"를 규정 → 온톨로지 land-grab의 **성능 판정 버전**. 분모스왑 평가층(§0-A)과 짝.
 11. **축: "사람 소거 vs 사람 전면화"** — 동일한 알고리즘화 하부구조를 두고 **AWS**는 토큰·컨텍스트·평가라는 순수 원가/신뢰성 엔지니어링 언어로 번역(사람 부재), **Zapier/Google/AX강의**는 헤드카운트·판단·deskilling을 전면화. 같은 기질(substrate), 반대 표면언어. 벤더의 청중(개발자 vs 경영진)이 담론 표면을 결정 → 분석 시 "청중 통제" 필요.
 12. **NEW: "국가/정책(state) 담론 = 공급·수요 외 제3축"**(v5) — 지금까지 담론 주체는 공급측(벤더)과 수요측(고객 기업)뿐이었으나, v5에서 **정부/클러스터/국가전략**이 독립 주체로 등장: **Scale AI(캐나다 연방 Global Innovation Cluster — "Build/Buy/Believe in Canada", 지분 없는 촉매자)·소버린AI Korea(SKT A.X, SK 15GW)·Vietnam(통신 3사 국가분업: Viettel 풀스택/VNPT B2G/MobiFone 소비자)·Orange(텔코 주권 Alliance 12사)**. 벤더 셀링도 고객 도입도 아닌 **국가 자본배분·주권·무역수지** 프레임 → K1에서 "담론 주체=벤더/고객/국가"의 3분 코딩 필요.
-13. **소버린 AI 실용주의의 확장**(v5) — v3의 NAVER/LG 하이브리드가 **텔코(Orange: 데이터+harness만 쥐고 나머지는 오픈소스·Mistral 병용)**와 **국가(Vietnam·Canada)**로 확장. "소버린 vs 종속" 이분법이 아니라 **계층별 선택 + 국가 간 비교 케이스**(한국·프랑스·베트남·캐나다)가 코퍼스에 형성됨.
+13. **소버린 AI 실용주의의 확장**(v5) — v3의 NAVER/LG 하이브리드가 **텔코(Orange: 데이터+harness만 쥐고 나머지는 오픈소스·Mistral 병용)**와 **국가(Vietnam·Canada)**로 확장.
+14. **NEW: state 축이 지정학 블록으로 분화**(v6) — 국가/주권 담론이 단일이 아니라 **블록 대 블록**으로 갈림: 🔑 **중국(Huawei)=주권 "탈색"**(China-state를 지우고 "글로벌 파트너"·신뢰·공급망·비용을 전면화 — 국가판 자동차 침묵) / **서방·NATO(Oracle)=동맹 주권**("정치보다 깊은 가치체계·회복력·자율성") / **EU(Orange·Telefónica)=유럽 기술주권** / **한국(NAVER·SKT·삼성SDS)=하이브리드**. → K1 태깅 시 state 발화를 블록별로 코딩.
+
+### C. 🔑 NEW(v6): 회의론/역풍 클러스터 — AX-boom에 대한 첫 조직적 대항진영
+그동안 코퍼스는 낙관(부머) 일색이었고 비판은 개별 검증자(Nasdaq·Eric Ries·이상욱)에 흩어져 있었다. v6에서 **독립적으로 발생해 서로 수렴하는 회의론 군집**이 처음 관찰된다 — v3의 "공급/수요 분열"이 명시적 "부머 vs 회의론자" 대립으로 결정화.
+
+| 회의 유형 | 핵심 주장 | 출처 | 신뢰도 |
+|---|---|---|---|
+| **unit-economics 반론** | 에이전트 LLM API 비용이 인건비의 10~20배로 폭증, Uber(4개월 예산소진)·MS(클로드코드 철회)·Tesla($200/주 제한)·Ford/Expedia/Duolingo 축소. 맥킨지 "지출 4배·93% 예산초과", 가트너 "2027 에이전트 40% 취소" | 피셔인베스트 "Agent AI 밴/붕괴" | ⚠️저(투자선동·광고물, "banning" 선정적) |
+| **weakest-link 성장론** | SW 100% 자동화=GDP +0.5%, 소득 2배엔 94% 자동화 필요. 가속은 진짜지만 **75년 시차**(전기·IT 전례). "누가 병목 쥐나"=시니어 프리미엄 | 채드 존스(월가아재 인용) | 고(학술) |
+| **워싱 폭로** | Builder.ai "AI"가 실은 인도 개발자 700명 | Kore.ai/BCG | 고 |
+| **인지적 빚(deskilling)** | AI 의존이 "cognitive debt" 누적, MS 프론티어팀 의도적 AI 미사용 | 99%주식/MS 연구 | 중 |
+
+→ **연구 함의**: 회의론 톤(unit-economics·시차·취소·워싱폭로)의 발화 빈도·시점을 **버블 대리지표**로 태깅 가능. 단 최고 신뢰 신호(채드 존스)와 최저 신뢰 신호(투자선동)가 섞여 있으므로 출처 신뢰도 가중 필수.
 
 ---
 
@@ -60,11 +73,12 @@
 | ★★★ | **OpenAI** | 위임(delegation)·에이전트·레퍼런스 고객(BNY·Shopify·Virgin) 포맷 |
 | ★★☆ | Meta(Boz), Boston Dynamics, Microsoft Azure, Google Developers·DeepMind, Meta Developers, SK하이닉스, GE HealthCare, Accenture, TCS, **Zapier**, ElevenLabs, Runway, Apple Developer, GitHub, Replit, NAVER Cloud, Unilever(IR), **Stability AI** | AX를 자사 제품/비전·투자자 서사·GTM에 접합 |
 | ★★☆ | **Hugging Face** | ⚠️ 예외 — 엔터프라이즈 비용 담론이 아니라 **연구/OSS 공급측**(모델·데이터·로보틱스 제조). "채널명≠담론성격"의 최신 사례 |
-| ★★☆ | **Orange(프랑스 텔코)**, **Scale AI(캐나다 정부 클러스터)** | v5 신규 축 — Orange=텔코 주권 실용주의(4C→5C), Scale AI=**국가/정책 담론(state 축)**·측정중심 안티워싱 |
-| ★☆☆ | SK텔레콤, Telenor, Amazon, Waymo, Mayo Clinic, LinkedIn, Schneider, Microsoft(Nation PR), **Infosys(고객증언 2편만 실질)**, **IQVIA(제약 data-layer land-grab 약함)** | AI가 마케팅 소재(보안·안전·감성·노동시장·정당성·제약 데이터) |
-| ☆ | Swisscom, Reckitt, Nissan, Volvo, BMW, **Mercedes-Benz**, NTT DATA, Suno, Luma, Philips, Perplexity, Cohere(학술), Anthropic(모델제작사 PR), IKEA, **L'Oréal(제조/EHS)**, **Chegg(생물학 학습)**, **SoftBank(일본 CM)**, kakao_tech(2021) | AI 담론 희박 — 그 자체가 신호. **v5 노이즈 확정 3채널(AI 멘션 0)**: L'Oréal·Chegg·SoftBank = 순수 대조군 |
+| ★★★ | **Oracle**, **Huawei** | v6 신규 — 엔터프라이즈 data-layer land-grab + **state 축 지정학 블록**(Oracle=서방 동맹주권·최정교 anti-washing "데이터≠결정"; Huawei=중국 탈주권·신뢰담론) |
+| ★★☆ | **Orange·Telefónica(텔코 주권)**, **Scale AI(캐나다 정부 클러스터)**, **Vertiv(데이터센터 전력)** | 텔코 주권 실용주의(4C→5C, EU 기술주권) / 국가·정책 담론(state) / **전력 비용축 정량 앵커** |
+| ★☆☆ | SK텔레콤, Telenor, Amazon, Waymo, Mayo Clinic, LinkedIn, Schneider, Microsoft(PR), **Infosys(고객증언만)**, **IQVIA(제약 data-layer 약함)**, **DuckDuckGo(⚠️off-axis: "useful/private/optional AI" 소비자 반슬롭 anti-washing 극점)** | AI가 마케팅 소재 / 소비자 절제 담론 |
+| ☆ | Swisscom, Reckitt, Nissan, Volvo, BMW, **Mercedes-Benz**, NTT DATA, Suno, Luma, Philips, Perplexity, Cohere(학술), Anthropic(모델PR), IKEA, L'Oréal, Chegg, SoftBank, **Nike**, **Figure(휴머노이드지만 자막 공동화)**, kakao_tech(2021) | AI 담론 희박 — 그 자체가 신호. **노이즈 확정(AI 멘션 0/자막 부재)**: L'Oréal·Chegg·SoftBank·Nike·Figure = 순수 대조군 |
 
-키워드 수집분(87건, `transcripts/2026-*/`)은 한국어 AX 강의·컨설팅·정책·언론 콘텐츠가 주력이며 연구 주제에 최고 밀도. 특히 "데이브의 개발 생활" AX 강의(의사결정 알고리즘화의 교과서적 실연)와 **오픈AI×무신사 코덱스 도입 사례**(한국형 노동 마찰의 유일 직접 진술 — §4)가 최고가치.
+키워드 수집분(120여 건, `transcripts/2026-*/`)은 한국어 AX 강의·컨설팅·정책·언론이 주력이며 연구 주제에 최고 밀도. 최고가치: "데이브의 개발 생활"(의사결정 알고리즘화 실연)·**오픈AI×무신사**(한국 노동마찰 진술)·**삼성SDS 신계영 AX센터**(AX-office 제도화 최강 실증)·**월가아재 채드 존스**(회의론 학술 앵커).
 
 ⚠️ **"채널명 ≠ 담론 성격"**: Cohere·Hugging Face(학술/OSS)·Microsoft·Anthropic(브랜드/모델PR)·BMW/Mercedes/IKEA/L'Oréal(광고·리테일·제조)·**Chegg(edtech이 ChatGPT에 파괴됐음에도 채널은 순수 생물학 학습영상 — 최고의 아이러니 대조군)**·**Scale AI(미국 데이터라벨링사 아니라 캐나다 정부 클러스터)**·Zoox/TCS(오수집) — 채널명으로 성격·소속·국적을 예단하면 안 됨. 🔑 **명제가 "채널 내부" 수준으로 확장**(v4.1) — Infosys 한 채널이 순수 AX담론(Sandvik·Swedbank 고객증언)과 순수 채용PR노이즈("Power Programmer" 시리즈)로 갈린다. 채널 필터가 아니라 **영상 단위 라벨링** 필수.
 
@@ -77,6 +91,8 @@
 **글로벌**: 젠슨 황·Kevin Deierling(NVIDIA), Will Abbey(Arm), Rainer Brehm·Rev Lebaredian(Siemens/NVIDIA), Alex Kendall(Wayve), Akshay(Palantir 수석아키텍트), Michael Park(ServiceNow), 일론 머스크(Tesla TERAFAB), 페르난도 페르난데스(Unilever CEO), Amjad Masad(Replit CEO), Rana El Kaliouby(MS/Affectiva), 페이(Alibaba DB BU), Boz+게스트 Shyam Sankar(Palantir CTO)·Ed Catmull·Dylan Field, Aaron Levie(Box), Peter Arduini(GE)
 
 **v4 신규**: **Sara Hooker**(Adaption Labs 공동창립·前 Cohere For AI — "스케일링의 느린 죽음→적응"), **Eric Ries**(Lean Startup — 코퍼스 최강 메타비판자), **Amit Bendov**(Gong CEO), **Ryan Meadows**(Lovable CRO), **Guy Yalif**(Webflow CPO), **Wade Foster**(Zapier CEO), **로빈 빈스(BNY CEO, 사내 플랫폼 "Eliza")**, Shopify·Virgin Atlantic·Peter Steinberger(OpenAI France), Home Depot(Ashish·Chuma)·MediaMarkt·PayPal(Mir)·BBVA(Gerardo Monzelli)·Anthropic Lydia(Google 플랫폼 출연). **v4.1**: Sofia Sirvell(Sandvik 디지털책임자 — "사람 문제" 트로프), Lotta Lovén(Swedbank CIO). **v5**: Bruno Zerbib(Orange CTIO)·Jérôme Berger(Orange 전략·4C)·Gautier Cloix(H Company CEO)·Mark Voscher(Scale AI 투자디렉터)·Todd Bailey(Scale AI IP VP — "AI 특허 96% 무효")
+
+**v6 신규**: **황재선(SK 디스커버리 CDO — "AX 100배"·한국 노동마찰)**·**Nellie Wartoft(Tigerhall CEO — AX-office/FTE avoidance)**·**Nick Clarke(BCG — "15% P&L 임계")**·**Aaron Levie×Martin Casado×Steven Sinofsky(a16z — agent=인간 신입·"95% 실패=멍청한 통계" 반박)**·**채드 존스(스탠퍼드, 월가아재 인용 — weakest-link 75년시차)**·**노정석(EP105 — 평가전장=학술 peer-review 붕괴)**·Chris Skinner·Rand Waldron(Oracle Sovereign Cloud)·Paul Jenkinson(Oracle Whitespace — "decision superiority")·정의선(현대차)·류재철(LG전자)
 
 ---
 
@@ -96,12 +112,13 @@
 ## 4. 비용구조 담론의 축 (K1 병합 대비)
 
 1. **레거시 현대화** — TCS TDC Net("수년→몇 달"), Accenture("기술비용 70%가 레거시 유지"), ServiceNow(레거시 우회), SAP("마이그레이션 노력 35~50% 절감", ECC 2027/2030 만료가 강제 동인), **Google(Oracle→BigQuery 복제, PayPal 코딩 50~60%↓)**
-2. **전력/인프라** — Nokia("cost per delivered bit", "no GPU premium"), Siemens("물리산업 100조$"), Schneider("AI=전력수요 유발자"), LG("AI 비용의 본질=에너지"), Arm("power is not free"), Tesla TERAFAB(1테라와트), **Google(Ironwood TPU 포드당 9216칩·최대 100만; "비디오 모델은 아직 비싸다" vs "Gemini3 레슨원가 <3센트")**
+2. **전력/인프라 — v6 정량 앵커 확보** — Nokia("cost per delivered bit", "no GPU premium"), Siemens("물리산업 100조$"), Schneider("AI=전력수요 유발자"), LG("AI 비용의 본질=에너지"), Arm("power is not free"), Tesla TERAFAB(1테라와트), Google(Ironwood TPU 포드당 9216칩), **🔑 Vertiv(랙 140kW→200/240→600kW→1MW, 350~400kW에서 구리·버스바 물리한계, GPU 72→576개/랙, 800V DC(±400V) 전환, KPI="tokens per watt per second", 250MW 원샷 배포)** — 전력 담론이 랙밀도·전압·와트당토큰의 **하드넘버**로 구체화. AMD·Vertiv의 "수직통합 vs 멀티벤더"는 인프라판 open-vs-lock-in
 3. **인건비 대체** — ElevenLabs(4인 ROAS 7.16), Databricks("400명 팀 필요"), Upstage("인건비 80%↓"), Palantir(증강 vs 대체), Alibaba("에이전트=인력"), **OpenAI(Shopify "팀→상담원 하나")**, **AX강의(7명→4명·VOC 직접처리 95%↓·주 16시간 확보)**
 4. **토큰/크레딧 원가 거버넌스** — GitHub(Kimi K2.7 과금표: 100만 토큰당 95크레딧 입력/400 출력, 캐시히트 95%, Copilot "비용 센터"·월 $50 한도), **AWS(context_manager=auto로 "토큰 55%↓·정확도 68→98%"; 요약엔 저렴한 모델)**, **Zapier(월 10만 회 실행 토큰비용 모델링, 모델 간 4배 원가차)** — AX가 실제 기업 예산·FinOps로 번역되는 지점
 5. **도입 실패·변경관리 비용** — Google/Microsoft("망가진 워크플로에 AI 얹으면 실패", "마지막 30%가 어렵다"), Zapier(Lovable "소프트웨어보다 변경관리·배포가 핵심"), AX강의("전직원 ChatGPT 결제+외부강사 3개월 뒤 변화 0 = 정상적 실패, 돈만 더 씀"). AX의 숨은 원가 = 도구비가 아니라 조직 재설계·변경관리
-6. **🔑 NEW: 한국형 노동 마찰(정규직 경직성)**(v5) — **무신사 CTO 전준일**이 유일하게 직접 진술: AX로 고과 기준을 AI 정렬로 바꾸면 "도태자가 불가피"하나, 한국 정규직 고용경직성 때문에 **해고가 아니라 "한직 재배치·유휴인력"으로 굴절**된다. 서구 담론의 "headcount 감축"이 한국에선 인건비가 장부에 남은 채 **생산성 손실로 이연**됨을 뜻함. **cost-structure change의 가장 직접적인 담론-현실 연결** — K1 인건비/노동구조 종속변수의 핵심 관찰(미국식 즉시 절감 vs 한국식 이연 마찰).
-7. **NEW: 국가 자본배분/무역수지**(v5, state 축) — Scale AI(캐나다: 190프로젝트 기대효과 $70억·자금 ⅔ SME), 소버린AI Korea("돈이 해외로 안 새고 국내 순환"·SK 15GW), Vietnam(2030 GDP +$790억). AX 비용이 기업 P&L을 넘어 **국가 자본흐름·주권** 프레임으로 확장.
+6. **🔑 한국형 노동 마찰(정규직 경직성) — v6에서 비균질성 확인** — **무신사 CTO 전준일·황재선(SK)**: AX가 고과를 AI 정렬로 바꾸면 도태자가 생기나 한국 정규직 경직성 때문에 **해고가 아니라 "한직 재배치·유휴인력·직무전환"으로 굴절**(vs 미국 MS 6천명·IBM 유연해고). 인건비가 장부에 남은 채 **생산성 손실로 이연**. 🔑 **단 반례**: 삼성SDS는 "특정 부서 사람 아예 빼보자"를 **KPI 측정 도구로 명시** — 한국도 균일하지 않음. + "**FTE avoidance ≠ layoff**"(Tigerhall·Levie: '해고'가 아니라 '채용 회피'라는 완충 수사). → K1 조절변수를 "국가"가 아니라 "기업/리더별 스펙트럼"으로.
+7. **국가 자본배분/무역수지**(v5, state 축) — Scale AI(캐나다: 190프로젝트 기대효과 $70억), 소버린AI Korea("돈이 국내 순환"·SK 15GW), Vietnam(2030 GDP +$790억). AX 비용이 기업 P&L을 넘어 **국가 자본흐름·주권**으로 확장.
+8. **🔑 NEW: AX 전담조직(Transformation Office) 신설 비용**(v6) — 담론이 조직 형태로 제도화: **삼성SDS AX센터·CAIO·AI크루 107명, SK AI팀+AI챔피언, 모더나 AI챔피언 100명·GPTs 750개, Tigerhall data flywheel**. → K1에서 "AX 전담조직/CAIO 신설" 이벤트를 자본지출·인건비 재편의 **선행지표**로 활용 가능.
 
 **AX를 직접 P&L/원가로 환산하는 최고 자료**(K1 종속변수 후보): **Unilever 투자자 3편**(CEO가 R&D 혁신주기 2~3년→9~12개월·마진구조 직결), **무신사(SaaS 내재화 4.5억원 절감·2개월·개발자 3명 + 한국형 노동 마찰 진술)**, Upstage 플리토("인식률 10%=검수 시간=비용"), GitHub(크레딧=센트), AX강의(노하우 장표를 인건비 200만원+로 환산), Nokia("cost per delivered bit")
 
@@ -111,7 +128,9 @@
 
 **반-워싱(실체/절제)**: TCS·Google Samat("AI라는 단어 안 썼다")·LinkedIn·Nasdaq("MIT 5%만 프로덕션")·Swisscom·Siemens·Upstage·IBM·Boston Dynamics·Zoox("vibe driving은 안전 시스템에 부적합")·GitHub·McKinsey·**Google Cloud Tech("코드생성만 과의존=버그·기술부채↑")·AWS("합격률 66%뿐")·FineWeb(자사 실패 공개)·LlamaIndex·**v5**: **Orange("과대광고 아닌 진짜 AI, magic wand 사는 게 아니라 인간중심 도구상자")·Scale AI(프로젝트별 달러영향 측정·"파일럿 말고 제한범위 실사용"·"AI 특허 96% 무효" 폭로)·AMD("AI and Trust at Scale"·OSU "AI 글 불신→구술시험 전환")**
 
-**🔑 메타-비판(담론 알고리즘 자체를 해부 — 코퍼스 최강)**: **Eric Ries(Zapier)** — "슬롭 팩토리·LLM 정신병·근육 위축(deskilling)·Dunning-Kruger 공장", "챗봇으로 직원 대체하는 CEO 한심, 비용절감엔 책임 안 물음", "에이전트 20명이 4천만 줄 코드 자랑—고객 서사는 부재". + **이상욱 교수** — 탈숙련("AI에 지시할 5·10년차 숙련자가 사라진다", "할루시네이션=버그 아닌 아키텍처적 특징"). 이 둘이 검증자의 법칙(Nasdaq·Boston Dynamics 계열)의 정점.
+v6 추가 반-워싱: **Oracle(코퍼스 최정교 — "맥락 없으면 강화된 ChatGPT일 뿐", signal→context→action, "misaligned 시스템+AI=신뢰 못할 산출물")·Vertiv(사전검증·복잡성↓)·a16z Levie("95% 실패=멍청한 통계"·토큰카운팅=가짜 생산성)·더리치(감속기 미보유 리스크 명시 고지)·Kore.ai(Builder.ai "AI가 실은 인도 700명" 폭로).
+
+**🔑 메타-비판·회의론(담론 알고리즘 자체를 해부 — §0-C 클러스터와 연결)**: **Eric Ries(Zapier)** — "슬롭 팩토리·LLM 정신병·deskilling·Dunning-Kruger 공장". **이상욱 교수** — 탈숙련. **v6: 채드 존스**(weakest-link 75년시차)·**노정석**(peer-review·RLVR 붕괴, AI리뷰 적발)·**unit-economics 반론**(에이전트 비용>인건비). 검증자의 법칙(Nasdaq·Boston Dynamics 계열)이 v6에서 **조직적 회의론 진영**으로 결정화.
 
 **워싱(배수·신조어·무자막·비전)**: Accenture("10배 은행")·SK AX(사례 제로)·Databricks("세계 최초 에이전틱 CDP")·ServiceNow(규모 과시)·Runway(유명인 권위)·Nissan/Volvo/BMW/**Mercedes(서사적 침묵)**·Tesla TERAFAB(카르다셰프·우주 AI)·AppsTek·SAP "Autonomous Enterprise"·OpenAI 간증 4편("권위 있는 실명+수치 부재"의 전형)·AX강의(안티워싱 톤→유료 소모임 전환)·**v5: IQVIA("AI 기반·확장가능·규정준수" 벤더 셀링 문구 위주, 안티워싱 장치 약함)·시니어 AX가이드(무비판 낙관 홍보)·소버린AI/Vietnam(투자유치·정책 워싱 성격)**
 
@@ -154,6 +173,14 @@
 | **임상개발 기간** | **116개월(2004)→52개월(2019)**, 다지역임상 30%→65% | IQVIA Japan |
 | **Orange Money** | 월 활성 5천만·연 이체 **200억€**, 세네갈=GDP **11%** | Orange(fintech 포용) |
 | **베트남 국가 AX** | 2030 GDP **+$790억**(12%), AI인재 7000(태국 3만) | Vietnam AX |
+| **denominator 임계** | 생산성 향상 **<15%면 P&L 반영 불가**(성숙 15~18%·하위 7~12%) | Kore.ai/BCG(Nick Clarke) |
+| **weakest-link** | SW 100% 자동화=GDP **+0.5%**, 소득 2배엔 **94% 자동화** 필요, 가속 진짜지만 **75년 시차** | 채드 존스(월가아재) |
+| **Tigerhall** | 도입률 90일 **91%**, 변화활성화 19~32주→**3~5일**·27 FTE주→**1시간**·팀 5→3명 | Nellie Wartoft |
+| **모더나** | 직원 **80%** 사용·40%가 GPTs 제작·총 **750개**, AI챔피언 **100명** | Matt Song |
+| **MIT 역삼각형** | 도입 **88%→**성과 인지 **60→20→5%** | Matt Song |
+| **Vertiv 랙밀도** | 랙 **140kW→1MW+**, 350~400kW 구리 물리한계, GPU 72→576개/랙, 800V DC | Vertiv |
+| **삼성전자 에이전트** | 천~만 단위 가동, VOC **주 30만건** | 삼성SDS 신계영 |
+| **Builder.ai** | "AI"가 실은 인도 개발자 **700명**(붕괴) | Kore.ai |
 | Klarna | AI 퍼스트 → 실패 후 재고용 | 김건우 |
 
 ---
@@ -164,15 +191,16 @@
    - **TCS**: `@TCS`(스위스 자동차클럽 Touring Club Schweiz) → `@TCSGlobal`(진짜 Tata Consultancy) 교정. 오수집분 7건 `Touring_Club_Schweiz/`로 격리.
    - **Zoox**: `@zoox`(동명 게임 유튜버) → `@ZooxYouTube`(아마존 로보택시) 교정. 오수집분 2건 격리. **→ 수정 후 진짜 Zoox 로보택시 콘텐츠 정상 수집 확인됨.**
    - → **약어·짧은 이름 채널 재검증 필요**(config.py "추정" 표시 핸들 전반).
-2. **노이즈 채널** — Swisscom·Nissan/Volvo/BMW/Mercedes(AI 침묵/광고)·NTT DATA(채용)·LinkedIn·Cohere(학술)·**Hugging Face(연구/OSS — AX 비용 담론 아님)**·Microsoft(Nation PR)·Suno/Luma/Philips: AX 비용 분석에서 별도 분류 권장.
+2. **노이즈 채널** — Swisscom·Nissan/Volvo/BMW/Mercedes(AI 침묵/광고)·NTT DATA(채용)·LinkedIn·Cohere(학술)·Hugging Face(연구/OSS)·Microsoft(PR)·Suno/Luma/Philips·**v6: L'Oréal·Chegg·SoftBank·Nike·Figure(자막 공동화)**: AX 비용 분석에서 별도 분류 권장.
 3. **자막 자동번역 오류 체계적 — v4에서 더 심각·구조적임 확인**. 특히 **의미 반전형 오역**:
    - `agents`→**"부동산 중개인"**(Google Architecture편 "향후 2~3년 부동산 중개인들이…"), `agents`→"요원/상담원", `mutating agents`→**"병원체·변이원"**(PayPal편)
    - `agentic harness`→**"억제력/능동적 억제력"**, `Antigravity`→"반중력 장치", `Claude/Claude Code`→**"오픈 클로(Open Claw)/클라우드 코드/인공 클라우드 모델"**, `Anthropic`→"Enthropic"
    - `cache`→**"현금/현금화"**, `staleness`→"스테인리스", `LLM`→**"법학 석사"**, `Gong`→"징", `Strands`→"가닥들", `LeRobot`→"레오봇/르루프"
    - 한국어 AX강의: `ChatGPT`→"채피 결제", `장면`→"장미안", `통으로`→"통어", `유휴인력`→"유효인력"
    - **v5 비영어 심화**: 프랑스어(Orange) 한국어 기계번역 반쯤 해독불능 — `Alliance`→"알리안자", `Gautier Cloix`→"구찌 코이스", `agentic AI`→"에이전트 QAI"; 일본어(SoftBank)·스페인어(L'Oréal) 채널은 자막 자체가 부실; `Scale AI`→"Skidi/Skaii", `AtCoder`→"에코더", `sovereignty`→"간결한 주권"
-   - **결론: 영어 원본 자막은 신뢰도 높으나, 비영어(한·불·일·서)→한 자동번역 인용 시 원문 확인 필수. 특히 `agent`류 핵심어·고유명사가 완전히 다른 의미로 뒤집힘.**
-4. **빈/저품질 자막** — "[음악] 우." 뿐인 파일(BD 티저, LG 티저 등), "work→음악" 대규모 오삽입. 단어 수 임계값(예: 50단어) 필터링 권장.
+   - **🔴 v6 "음악" 치환이 체계적 리스크로 확정**: 도메인 명사(finance/telecom/electronic/AI/자산)가 **"음악"으로 대규모 치환** — Huawei("음악 은행"), Telefónica("음악 부문 자산 매각"·재무수치 신뢰도 저하), Vertiv("250MW 음악 프로젝트"), 삼성SDS. 중국어/스페인어/한국어 auto-caption 전반. + `딥시크`→"집시크", `환각`→"환강", `Vertiv`→"Verdiff", `Frozen v2`→"프로젠".
+   - **결론: 영어 원본 자막은 신뢰도 높으나, 비영어(한·불·일·서·중)→한 자동번역 인용 시 원문 확인 필수. 특히 `agent`류 핵심어·고유명사·`음악` 치환된 도메인 명사가 완전히 뒤집힘. 수치 인용 전 원 영상 교차검증 필수.**
+4. **빈/저품질 자막** — "[음악] 우." 뿐인 파일(BD 티저, LG 티저, **Figure 휴머노이드 7편 전량 2~12단어** 등). 단어 수 임계값(예: 50단어) 필터링 권장.
 5. **중복 스크립트** — Stability "Change exactly"와 "Quick Guide"는 동일 스크립트. 파일해시·본문 유사도 중복제거 권장.
 6. **pre-AX 기준선(t0) 확보** — kakao_tech if(kakao)2021 8편: AI가 담론 중심이 아니던 시점. 시계열 원점.
 7. **AX 용어 이중성**(§3) — 분류 라벨 반영.
@@ -196,6 +224,10 @@
 13. **🔑 오픈AI×무신사 코덱스 도입 사례**(v5) — 한국형 노동 마찰(유휴인력/한직)의 유일 직접 진술 + "결핍이 혁신" 반증 축 + 코덱스 vs 클로드 엔터프라이즈 가성비 현장 데이터
 14. **Scale AI(캐나다) + 소버린AI Korea + Vietnam AX**(v5) — 국가/정책(state) 담론 축의 대표 텍스트(자본배분·주권·무역수지)
 15. **Orange 4C/5C + Berger·Zerbib**(v5) — 텔코 주권 실용주의 + 신뢰 상품화 프레임
+16. **🔑 회의론 클러스터 텍스트**(v6) — 채드 존스 weakest-link(75년 시차, 학술 앵커) + unit-economics 반론(에이전트 비용>인건비) + Builder.ai 폭로 = AX-boom 대항진영(§0-C)
+17. **삼성SDS 신계영 AX센터 + SK 황재선**(v6) — AX-office 제도화(CAIO·AI크루) + 한국 노동마찰 진술 + "토큰=ROI 단위"
+18. **Oracle(Gartner강연·Whitespace) + Huawei(Keyrus)**(v6) — "데이터≠결정"·decision superiority = 의사결정 알고리즘화 프레임 직결 + state 축 블록(서방·중국)
+19. **Vertiv**(v6) — 전력 비용축 정량 앵커(랙밀도·전압·tokens/watt)
 
 ---
 
@@ -207,6 +239,9 @@
 4. **청중-표면 코드(사람 소거 vs 전면화)** — 동일 알고리즘화를 원가/신뢰성 언어로 번역하는가(사람 소거, 개발자 청중) vs 헤드카운트/deskilling으로 번역하는가(사람 전면화, 경영진 청중). 벤더의 청중 유형과 K1 인건비/자본 구조 변화 매칭.
 5. **NEW: 담론 주체 3분 코드(vendor / customer / state)**(v5) — 발화 주체를 공급측 벤더·수요측 고객·국가/클러스터로 코딩. state 축(Scale AI·소버린·Vietnam·Orange)은 K1의 산업 자본지출을 넘어 **국가 자본흐름·주권** 변수와 매칭.
 6. **NEW: 한국형 노동 마찰 지표**(v5) — AX 원가절감이 "headcount 감축"으로 실현되는가(미국식) vs "유휴인력·한직 재배치"로 이연되는가(한국식 정규직 경직성). K1 인건비 종속변수에서 **국가별 노동제도 조절변수**로 투입. 무신사 진술이 앵커.
-7. **NEW: 스왑 vs 반스왑 코드**(v5) — 지표를 재정의하는가(분모스왑) vs 기존 지표로 즉시 측정하라 주장하는가(Scale AI형 반스왑). 벤더 인센티브와 지표 전략의 상관.
+7. **스왑 vs 반스왑 코드**(v5) — 지표를 재정의하는가(분모스왑) vs 기존 지표로 즉시 측정하라 주장하는가(Scale AI형 반스왑). + **v6 계량화**: "생산성 향상 <15%=P&L 미반영"(Kore.ai) 임계선을 담론이 인용하는지 태깅.
+8. **🔑 NEW: 회의론 톤 지수**(v6) — unit-economics 반론·75년 시차·에이전트 취소·워싱 폭로 발화의 빈도·시점 = **버블 대리지표**(공급/수요 발산 지수의 명시적 버전). 출처 신뢰도 가중 필수(채드 존스=고, 투자선동=저).
+9. **NEW: state 축 블록 코드**(v6) — state 발화를 중국(탈주권)·서방/NATO·EU·한국(하이브리드) 블록으로 세분 → K1의 국가 자본흐름·규제와 매칭.
+10. **NEW: AX 전담조직 신설 이벤트**(v6) — CAIO·AX센터·AI챔피언 네트워크 신설을 자본지출/인건비 재편의 선행지표로.
 
-⚠️ **신뢰도 경계**: 위 인사이트는 **횡단면 구조**에 근거해 유효하나, **시계열 주장(발산의 시간적 전개)은 백필이 고르게 찰 때까지 보류**. 현 표본은 채널 152개, 최근 영상 위주라 2020~2024 구간이 얇다. 월별 볼륨 시계열은 "채널 백필 순서" 아티팩트임에 유의(볼륨보다 share·횡단면이 신뢰 가능).
+⚠️ **신뢰도 경계**: 위 인사이트는 **횡단면 구조**에 근거해 유효하나, **시계열 주장(발산의 시간적 전개)은 백필이 고르게 찰 때까지 보류**. v6 표본은 채널 190개·3,865건으로 커져 **2023~2025 횡단면은 사용 가능**해졌으나(2023:152/2024:289/2025:633), 2026이 68%(2,642건)로 여전히 지배하고 2020~2022는 얇음(36/69/44). 월별 볼륨 시계열은 "채널 백필 순서" 아티팩트임에 유의(볼륨보다 share·횡단면이 신뢰 가능).
