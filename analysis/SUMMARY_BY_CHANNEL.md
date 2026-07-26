@@ -1,8 +1,8 @@
 # 채널/출처별 수집 요약
 
-총 3568건 · 186개 채널/출처
+총 3683건 · 186개 채널/출처
 
-## LG AI Research (80건)
+## LG AI Research (88건)
 
 - **[On site of ICML 2026](https://www.youtube.com/watch?v=B2p4_0YW_pw)** — 2026-07-16 · ko · `unclassified`
   [음악] LG AI 연구원의 엑사1원 디스커버리 과하게 투화된 파운데이션 모델을 활용해서 [음악] AI 데이터 센터용 액냉강에 활용될 수 있는 소재를 개발하였습니다. [음악] 현재 엘 런던 증권 거래소 그룹과 함께 파트너십을 맺어 총 7,500개 주식에 대해서 4주 후에 가격과 그에 대한 예측과 설명을 같이 제공하는 상품을 서비스하고 있습니다. [음악] [음악] AI 탱크 저희 비전으로 생각하고 있습니다. LG AI에서는 히 기업 쪽에서 AI라던가 현장 산업에서 어떻게 쓸 수 있는지 쪽으로 훨씬 납고 있지 않나요?
@@ -241,8 +241,540 @@
 - **[LG AI Research | 초거대 AI에 도전하다](https://www.youtube.com/watch?v=lC9V0p0quAA)** — 2021-05-17 · ko · `unclassified`
   안녕하십니까 lga 아 연구원 배경은 원장입니다 지난 12월 lga 아 연구원이 출범한 이후 어느덧 6개월이 지났습니다 lg 그룹의 ai 연구 핵심 조직인 lg 의 연구원은 김 넌 행의 기술적 한계를 극복하기 위한 원천기술 연구 체계를 구축하고 이를 기반으로 고객 가치를 높이기 위한 더 썸 아예 이 아이와 기업의 업무 효율성을 높이기 위한 엔터프라이즈 아 연구를 활발히 진행해 왔습니다
 
+- **[LG AI Research - ICLR2021 ML in Korea](https://www.youtube.com/watch?v=L26lq-keOck)** — 2021-05-07 · ko · `AX`
+  안녕하세요 저는 l ji 연구소 연구원의 어데 기타 인텐스 랩을 맡고 있는 이무영 있구요 오늘 저의 제야 연구원에 대한 소개도 좀 줄이고 저희가 하고 있는 일에 대해서도 간단히 말씀을 드리려고 합니다 저희가 어 추구하는 그런 인공지능 방향은 거의 인공 지내게 5 측정 분야 너 2.25 리케이션 에만 사용되는 것은 아니고 앞으로는 이제 정말 다양한 분이 잘 해내고 우리 일상생활의 라든지 모든 업무에 4 사용해야 될 거라고 생각하고 있고 그래서 그것을 위한 인공지능 연구 를 잘 수행 해야 되겠다 그런 치즈 도저히 연구한 2 어사 얘기 되게 되었습니다
+
 - **[LG AI Research | 비전 3인방 신입 연구원들이 들려주는 솔직한 인터뷰!](https://www.youtube.com/watch?v=Hx043KF3hjo)** — 2021-05-07 · ko · `unclassified`
   많이 ana 으 2 공략 - 이경이 밥 맛이 씁니다 섀도 울려고 그러십니까 항복해 좀 해봐요 예 [음악] 안녕하세요 저는 눈으로 결과 바로 보이는 게 좋아서 연구를 시작을 했고 결국에는 박사를 하고 비전 랩의 있어 를 하게 된 김태운 이라고 합니다 안녕하세요 이번에 서울대학교에서 박사 과정을 졸업하고 lg ai 연구원 b 잔 옆에 합류하게 된 송 광 모입니다 안녕하세요 저는 2월에 카이트 에서 박사학위를 취득하고 차 월에 lg ai 영혼의 있자니 시행 입니다
+
+- **[LG AI Research 임우형 랩장 - AIIS Spring Retreat](https://www.youtube.com/watch?v=d5kjZOQReUY)** — 2021-04-30 · ko · `AX`
+  헤어 회개의 현관에 의미합니다 으 오늘 말씀드릴 내용은 저의 lga 아 연구원에서 어학 5인 수행하고 있는 연구 들과 그리고 이제 앞으로 저희의 연구원에서 어떻게 진행해 나갈지 에 대해서 좀 간단하게 소개를 드리려고 한다 고 10분이라는 짧은 시간이지만 어 오 필요한 내용은 잘 전달 해 드릴 수 있도록 하겠습니다 lga 아 연구원은 4 세례 블 작년 12월에 했습니다
+
+- **[LG AI Research 최성하 연구원 - AIIS Spring Retreat](https://www.youtube.com/watch?v=OAvvsp8KsYM)** — 2021-04-30 · ko · `unclassified`
+  녕하세요 저는 l gareth 에서 온 최소 라고 합니다 만나서 반갑습니다 제가 이번 쎄씨 전의 소개드릴 논문은 요 올해 실패 알의 오라클 n 테이션 없애 때는 논문 이구요 그것을 의지라는 논문입니다 이 논문은 인턴 셀렉트 화이트 이라는 새로운 옷을 제안해 가지고요 도메인 채널 ij 션 성능을 높일 수 있는 웹 플랜테이션 러닝에 대한 언어 문 이구요 어반 7 세계 마 테이 션에 가 되어 있는데 이거는 뭐 다른 테스크 에도 일반적으로 적용할 수 있는 그런 태스크가 되겠습니다
+
+- **[Vision 분야에 대한 모든 것! LG AI Research 김승환 랩장 인터뷰!](https://www.youtube.com/watch?v=E4HPK3hSiNA)** — 2021-04-15 · ko · `unclassified`
+  수치로 나오는 결과에만 의존하지 말고 눈으로 끈기있게 하나하나 확인하는 것이 중요합니다 향후 에는 글로벌 최고의 비전 연구 조직이 되길 희망합니다 [음악] 이전 분야는 사람이 시각 정보를 통해 대상을 인지 안고 공간을 이해하는 것처럼 카메라 센서를 통해 얻어진 이미지 데이터로부터 공간 사물 정보를 인식할 수 있도록 연구하는 분야입니다 이를 통해 이미지를 분류하고 사물 얼굴 감정 행동 문자 등을 인식하고 장면에 대해 해석하고 이해하는 기술을 연구합니다 사람의 5대 감각 기관 중 가장 중요한 것이 시각입니다
+
+- **[LG AI Research | AI TALK CONCERT (KAIST AI대학원 서민준 조교수)](https://www.youtube.com/watch?v=iYwlmLLKQc8)** — 2021-03-18 · ko · `unclassified`
+  [음악] 3 엔진 입니다 오늘은 어 조금 어 트렌드에 대해서 한번 모든 분들께 좀 적합할 수 있는 그런 내용을 한번 알아보려고 해요 그래서 잘 설명을 해 주신 것처럼 저의 서 그 인터넷에 주신 것처럼 mdc 모델일을 하면 사실 언어 를 생성할 수 있는 모델을 보통 얘기하는데 그 랭귀지 모델의 원래 그 용도는 예전에는 뭐 센텐스 가 주어지면 그 다음 문장이 뭘까 이런거를 알아맞히는 뭐 그게 예를 들면 뭐져 유스 이를 …
+
+- **[LG AI Research | AI TALK CONCERT (한국경제 안현실 AI경제연구소장)](https://www.youtube.com/watch?v=bKdzR3Lc0Bo)** — 2021-03-18 · ko · `unclassified`
+  으 으 처음 보시는 그 표의 2위 왼쪽을 보시면 혹시 안되시면 말씀하십시오 되겠습니다 이 왼쪽을 보시면 이제 이게 이제 뭐 신제품 개발 하시는 분들이나 뭐 핵심을 이론 2번의 경우 하신분은 나 잘 아실텐데 맨 밑에 안 보시죠 보시면 뭐 이노베이터 s 라는 이야기가 있고 네임 업데이트 사람이냐 이가 이제 되게 공급자 쪽에서 이야기를 많이 하지만 사실은 이런 소비자 수의사 쪽에 또 이노베이 뜰 수 있다는 거죠 그래서 공급자 이노베이터 수하고 수요자인 oates 가 만나야 이노비즈 일어나는 건데 여기는 이제 소비자 수요자 관점에서 질문한 보십시오 이 어떻 사이에 문질 아니 이놈의 이 털 스가 소비자 쪽에 한 2.
+
+- **[LG AI연구원 배경훈 원장 - AI 미래 포럼의 향후 역할(한국경제 AI 미래 포럼 창립 웨비나)](https://www.youtube.com/watch?v=RXIr9_5lWIk)** — 2021-03-17 · ko · `unclassified`
+  오늘 모신 전문가 내부를 제가 소개해 드리겠습니다 4개 영문 lg ai 연구 원장님 나오셨습니다 예 이선영 예 박수 쳐 주십시오 예 이선영 소트 라도 비전 co 원님 참석하셨습니다 [박수] 그리고 김홍석 구글코리아 전무님 참석하셨습니다 [박수] 그리고 마지막으로 김명환 인공지능 연구 원장님 참석하셨습니다 [박수] 어 다들 바쁘신 분들이 있습니다
+
+- **[LG AI연구원 이홍락 CSAI - 글로벌 AI 연구 트렌드(한국경제 AI 미래 포럼 창립 웨비나)](https://www.youtube.com/watch?v=4d1n6N7_Kzc)** — 2021-03-17 · ko · `unclassified`
+  안녕하세요 어느 될 게야 b+ 때서 topo ii 를 맡고 있는 일어나기도 합니다 아 저는 최근 l 그의 연구 안에 합류하게 되었는데 ai 영국 뿐 아니라 임팩트 있는 아 여러 개 태그 이제 더 겸할 수 있는 좋은 기회 라고 아 생각해 버립니다 아 오늘은 제가 지금까지 아 해왔던 연구를 역할 집안 땅 의혹 애들이 뭐 어 후반부에 어 1 대양의 뜰때 서 4 하고자 하는 관점이 연구 관심 그래야 대해서 말씀을 드리겠습니다
+
+## Weights & Biases (88건)
+
+- **[W&B Weave: Observability and continuous improvement for production agents](https://www.youtube.com/watch?v=lbo7O4bVKnM)** — 2026-07-06 · ko · `AX`
+  에이전트를 실제 제작 현장에 투입하는 것은 어려웠습니다. 그들을 생산적으로 만드는 것은 더 어렵습니다. 모든 요원은 LLM 자격증을 소지하고 있습니다. LLM은 이미 강력합니다. 하네스는 신뢰성을 좌우하는 핵심 요소입니다 . 그리고 이를 완벽하게 만드는 방법은 실제 운영 환경에서 사용자로부터 에이전트가 학습하도록 하는 것입니다 . [음악] W&amp;B Weave는 에이전트형 AI를 위한 관찰 가능성 및 지속적 개선 도구입니다 . 이는 제작 담당자들이 음악 관련 경험을 통해 배우고 시간이 지남에 따라 더욱 신뢰할 수 있게 되는 데 도움이 됩니다.
+
+- **[CoreWeave ARIA: The autoresearch loop for continuous improvement](https://www.youtube.com/watch?v=z8zZnAcj8Ds)** — 2026-07-01 · ko · `unclassified`
+  안녕하세요. 제 이름은 주브 안 이솔라입니다. 저는 Weights &amp; Biases에서 아리아 에이전트 개발을 담당하는 과학 분야 책임자입니다. 다음은 Arya를 사용한 자동 검색의 간단한 데모입니다. 제 생각에 우리 대부분은 안드레이 카르파티의 나노챗(NanoChat)에 대해 잘 알고 있을 겁니다. 보시다시피, 저희는 A100에서 다양한 학습률과 검증 손실 등을 적용하여 NanoChat에 대한 여러 차례 학습을 진행하고 있습니다 . 그리고 이것은 제가 Arya 자체를 사용하여 이전 구성에서 수행한 스윕입니다. 자, 그럼 바로 아리아 이야기로 들어가 볼까요?
+
+- **[CoreWeave AIRA: The autoresearch loop for continuous improvement](https://www.youtube.com/watch?v=9QFfEmgd5V0)** — 2026-06-30 · ko · `unclassified`
+  안녕하세요, 저는 주벤 이솔라입니다. Weights and Biases에서 아리아 에이전트 개발을 담당하는 과학 부서를 이끌고 있습니다. 다음은 Arya를 사용한 자동 검색의 간단한 데모입니다 . 제 생각에 우리 대부분은 앙드레 카르파티의 나노햇에 대해 잘 알고 있을 겁니다. 보시다시피, 저희는 A100 보드 에서 nanohat을 사용하여 다양한 학습률과 검증 손실 등을 적용하여 여러 차례 학습을 진행하고 있습니다 . 어, 그리고 이건 제가 Arya 자체를 사용해서 이전 설정에서 수행했던 스윕 작업입니다.
+
+- **[CoreWeave ARIA: Deep analysis backed by live dashboards and full W&B context](https://www.youtube.com/watch?v=xTHddV6OgAM)** — 2026-06-30 · ko · `AX`
+  안녕하세요, 저는 코르부스(Corvus)의 제품 관리자 줄리아 로즈입니다 . 오늘은 Weights &amp; Biases 플랫폼에 직접 내장된 새로운 AI 코딩 도우미인 Arya를 시연하게 되어 매우 기쁩니다 . 크래시 로그를 디버깅하는 간단한 사용 사례부터 시작하겠습니다. 자, 여기 로그 탭에서 실패한 것을 확인할 수 있습니다. 그리고 만약 제가 아리아에게 "무슨 일이 있었어?"라고 간단히 묻는다면요? 이미 내 컨텍스트 정보가 모두 로드되어 있습니다. 그러니까, 제가 로그 페이지를 보고 있다는 것, 그리고 이 실행을 참조하고 있다는 것을 시스템이 알고 있는 거죠.
+
+- **[Introducing CoreWeave ARIA: AI Research and Iteration Agent](https://www.youtube.com/watch?v=X9GdzWlKRXw)** — 2026-06-30 · ko · `unclassified`
+  [음악] 우선, 여기서 살펴볼 프로젝트는 에이전트가 전적으로 기획하고 주도하는 프로젝트입니다. 그리고 이 위쪽 차트는 실제로 자동차 연구 프로젝트의 시간 경과에 따른 성과를 나타내는 산점도입니다. 그 자동차 연구 프로젝트는 바로 카르파티의 유명한 프로젝트입니다. 이제 데모를 진행해 보겠습니다 . 바로 시작해 볼까요? 에이전트를 열면 " 이 프로젝트 요약", "실험 시작", "어떤 패턴이 보이시나요?" 등과 같은 유용한 메시지가 표시됩니다. 이제 자동 리서치 루프를 시작하고 몇 가지 기본적인 작업을 수행한 다음, 다시 돌아와서 결과를 확인해 보겠습니다
+
+- **[He's Building an AI That Can't Lie | Dan Klein, Scaled Cognition](https://www.youtube.com/watch?v=JzETCk92Izw)** — 2026-06-16 · ko · `AX`
+  우리는 인공지능의 문제점이 '아무것도 제대로 작동하지 않는다'는 것에서 ' 인공지능의 문제점이 모든 것이 제대로 작동한다'는 것으로 초점을 옮기려고 합니다. Chat GPT는 항상 유창하고 확신에 찬 어조로 말을 해줍니다. 그 말이 맞든 틀리든 상관없이요 . 이러한 시스템을 훈련하는 것은 점점 더 복잡해지고 있으며, 지수 함수처럼 보이는 곡선이 실제로는 S자 곡선의 시작일 뿐인 경우가 많습니다. 그래서 그 다음에는 수확 체감의 법칙이 적용되기 시작합니다 . 그리고 우리는 오늘날 그것을 목격하고 있습니다.
+
+- **[How to operationalize AI governance with W&B Weave](https://www.youtube.com/watch?v=-dGIUA_LLik)** — 2026-06-08 · ko · `AX`
+  [음악] 안녕하세요 여러분. 안녕하세요, 저는 카란입니다. 오늘은 AI 규정 준수에 대해 설명하고, Weights &amp; Biases가 규정 준수 중심 워크플로우를 어떻게 지원하는지 알려드리겠습니다. 대부분의 조직에는 규정 준수 팀 또는 책임 있는 AI 팀이 있으며, 이 팀은 내부 또는 외부에서 배포되는 모든 애플리케이션이 검토 단계를 통과하도록 보장하는 역할을 합니다. 이 검토 단계는 해당 팀이 애플리케이션이 업계 표준, 회사 정책 및 정부 규정을 충족하는지 확인하는 구조화된 검사 지점입니다. 문제는 그러한 결정을 뒷받침하는 증거가 흩어져 있다는 점입니다
+
+- **[Curing Every Disease With Al by 2050 | Sam Rodriques, Edison Scientific](https://www.youtube.com/watch?v=Q7NpRG2gAxc)** — 2026-05-27 · en · `AX`
+  If we want to go and cure all diseases, understand how the brain works and solve aging and AI seemed like the right way to do that. When it comes to the world as we experience it, most things are pretty well understood except for [music] biology. And to this day, we don't have the wiring diagram for the human brain. We like kind of have the wiring diagram for the fly.
+
+- **[Power agents with full context of your experiments and traces with W&B MCP server](https://www.youtube.com/watch?v=yco5IdRHsDs)** — 2026-05-27 · ko · `unclassified`
+  여러분, 저는 Weights &amp; Biases 코어 위브 팀의 니코입니다. 오늘 저희가 새롭게 업데이트한 MCP, 즉 가중치 및 편향 MCP를 소개해 드리게 되어 기쁩니다. 이 저장소는 지난 몇 달 동안 공개 저장소로 존재해 왔습니다. 그리고 지난 몇 달 동안 저희는 초기 파트너 몇 곳 과 많은 사용자들과 함께 다양한 문제에 대해 반복적으로 개선 작업을 진행해 왔습니다. 오늘 모든 유형의 Weights &amp; Biases 배포를 위한 완전 호스팅 MCP 와 몇 가지 새로운 도구를 발표하게 되어 기쁩니다 .
+
+- **[AI Builders: Building a text-to-SQL agent](https://www.youtube.com/watch?v=EEik6sXWMjM)** — 2026-05-26 · ko · `AX`
+  안녕하세요, 저는 Russ이고, AI Builders는 AI를 활용하여 애플리케이션에 놀라운 기능을 구현하는 것을 즐기는 개발자들을 위한 비디오 시리즈입니다 . 저는 경력의 상당 부분을 데이터베이스와 BI 도구를 다루는 데 보냈는데, 오늘날 이 두 가지 모두 비슷한 메시지로 판매되는 경우가 많습니다. 비즈니스 사용자에게 데이터를 검색하고 직접 보고서를 작성할 수 있는 기능을 제공하세요. SQL 학습과 BI 도구의 효과적인 사용 능력 향상은 데이터 민주화라는 개념을 가로막는 장벽이 되어 왔습니다 .
+
+- **[AI Builders: Building an AI agent for interior design](https://www.youtube.com/watch?v=ybg-Vw6ApwU)** — 2026-04-24 · ko · `AX`
+  안녕하세요, 저는 러셀이고, AI 빌더스라는 채널에 오신 것을 환영합니다. 이 채널은 AI를 활용하여 무언가를 만드는 것을 좋아하고, 이제는 거의 모든 일에 AI를 접목하고 있는 개발자들을 위한 영상 시리즈입니다 . Weights &amp; Biases에서 제가 맡은 업무 중 하나는 영업 데모를 제작하는 것입니다. 저는 이러한 데모를 실제 응용 프로그램과 최대한 유사하게 만들고 싶기 때문에, 너무 단순 하거나 제대로 작동하지 않는 것은 절대 용납하지 않습니다. 오늘은 제가 개발한 애플리케이션에 대해 소개해 드리겠습니다.
+
+- **[Accelerate LLM post training with W&B Serverless SFT](https://www.youtube.com/watch?v=T-MusIIayAE)** — 2026-04-16 · ko · `AX`
+  안녕하세요, 저는 Weights &amp; Biases의 Russ입니다. 오늘은 CoreWeave 기반의 서버리스 SFT(Software-False Training) 학습을 통해 AI 엔지니어가 엄선된 데이터 세트를 활용하여 모델을 정제하고, 모델 출력 형식과 스타일을 맞춤 설정하고, 강화 학습을 위한 모델 워밍업을 통해 더욱 강력한 기준선에서 시작할 수 있도록 지원하는 방법에 대해 이야기해 보겠습니다. 지난 몇 달 동안 AI 애플리케이션 시스템 구축의 진입 장벽이 낮아짐에 따라 AI 에이전트의 수와 AI 에이전트를 개발하는 개발자의 수가 기하급수적으로 증가했습니다.
+
+- **[The $8.6B Self-Driving AI Backed by Nvidia and Uber | Alex Kendall, Wayve](https://www.youtube.com/watch?v=k5wgts8y-xU)** — 2026-04-15 · ko · `AX`
+  자율 주행은 인공지능( AI) 접근 방식을 통해 자율주행차 문제를 바라보는 것입니다. 사고 발생률을 거의 0에 가깝게 줄일 수 있는 기회가 있습니다. 그래서 우리는 150만 달러를 모금하고, 친구들을 모아 집을 빌리고, 차를 차고에 넣어두고 해킹을 시작했습니다. 고가의 개조 차량에서 벗어나, 컴퓨팅 자원, 고화질 지도, 인프라에 의존하던 시대에서, 이제는 3만, 4만, 5만 달러에 구입하거나 제조할 수 있고, 글로벌 공급망에서 조달 가능한 내장 하드웨어를 갖추고 , 고화질 지도가 필요 없으며, 어디든 주행할 수 있는 대량 생산 차량으로 변화하고 있습니다
+
+- **[Track robotics training dynamics in Weights & Biases](https://www.youtube.com/watch?v=XoAo5-kv80w)** — 2026-04-15 · ko · `unclassified`
+  [음악] 안녕하세요, 저는 CoreWeave의 Weights &amp; Biases 제품 관리자 Manish입니다. 오늘은 Weights &amp; Biases를 사용하여 로봇 모델을 학습시키고 분석하는 방법을 간단히 설명해 드리겠습니다. 우리는 강화 학습을 이용하여 휴머노이드 로봇이 걷도록 훈련시켰습니다. 저희는 NVIDIA Isaac Lab 및 Isaac Sim과 같은 도구를 사용하고 있으며, 이 도구들은 Weights &amp; Biases와 완벽하게 통합되어 있습니다 . API 키만 입력하면 모든 학습 지표가 바로 전송되기 시작합니다. 오늘 우리는 학습률에 대한 최적의 하이퍼파라미터를 찾아보려고 합니다.
+
+- **[Large-scale agentic quant research with Weights & Biases](https://www.youtube.com/watch?v=gzggLWETGOE)** — 2026-04-01 · ko · `unclassified`
+  [음악] 안녕하세요. 안녕하세요, Weights &amp; Biases의 Karan입니다. 오늘은 대규모 에이전트 기반 양적 연구에 대해 이야기해 보겠습니다. 저는 퀀트 데스크와 매우 긴밀하게 협력하는데, 어디 에서나 똑같은 이야기를 듣습니다. 우리는 모델을 만들 수는 있지만, 항상 모델을 신뢰하거나, 재현하거나, 규정 준수를 위해 설명할 수 있는 것은 아닙니다 . 오늘은 Weights &amp; Biases가 두 가지 사용 사례를 통해 이 문제를 어떻게 해결하는지 보여드리겠습니다 . 이벤트 기반 알파 연구 파이프라인 과 자체 전략을 최적화하는 자가 개선 에이전트 루프 .
+
+- **[Why Anthropic, Meta, and Tesla All Chose the Same Database | Aaron Katz, ClickHouse](https://www.youtube.com/watch?v=b7fGSA9mVYI)** — 2026-03-31 · ko · `AX`
+  2021년 8월, 5천만 달러 규모의 시드 투자를 유치했는데, 이는 기업용 소프트웨어 역사상 가장 큰 규모의 프리시드 투자였을 가능성이 높습니다. 사업 계획서가 없었고, 제품도 없었고, 음악 고객도 없었고, 수익도 없었기 때문입니다. 마이크로소프트, 시벨, 오라클은 클라우드 [음악] 컴퓨팅이 일시적인 유행이라고 공식적으로 밝힌 바 있습니다. 아무도 자기 데이터를 클라우드로 옮기지 않을 거예요. 우리는 이 카테고리를 만들고 이것이 성공하지 못할 것이라는 근거 없는 주장들을 모두 반박하기 위해 이 임무를 수행했습니다 . ClickHouse는 데이터베이스이며, 다양한 사용 사례(음악 포함)를 충족합니다.
+
+- **[Monitor your training runs with the Weights & Biases mobile app](https://www.youtube.com/watch?v=LXDizQxkboo)** — 2026-03-16 · en · `unclassified`
+  Hi, I'm Russ from Weights &amp; Biases. And today I'll be taking you on a tour of the Weights &amp; Biases mobile app that enables real-time run tracking, live metrics, and notifications, allowing you to optimize training performance anytime, anywhere. As AI researchers and engineers ourselves, we know the feeling of kicking off an experiment and watching the W&amp;B model's workspace spring to life as metrics start rolling in.
+
+- **[Getting started with Weights & Biases for robotics](https://www.youtube.com/watch?v=45Beo0ZkJJA)** — 2026-03-10 · en · `AX`
+  [music] &gt;&gt; Hi, my name is Anoop and I'm a machine learning engineer. &gt;&gt; [music] &gt;&gt; Right now, I'm working on fine-tuning some vision language action models for a robotics team. And because fine-tuning these models takes so long, sometimes up to a week, my team has started using weights and biases to track all of this. Let me show you how. Once you jump into my workspace, you'll see I'm fine-tuning Groot by Nvidia.
+
+- **[The Brutal Truth About AI From the People Actually Building It | Best of Gradient Dissent](https://www.youtube.com/watch?v=XLcj5Jlyv-Y)** — 2026-02-24 · ko · `unclassified`
+  영화 에서 휴먼 메이킹 1이자 포스 마스터티브이 1일. 알렉스 왁스럽. 바로 쇼 앞에 세링레이 앞서고. 대마왕고추 소고기랑 고작 수레에 수치사히기만 할 박씨는 왜 그 심각한 레이스를 라스트 국민이 게리모드 차 아들이라는 디스코드 날은? 바보야 아들바보 왜 여기에. 여기 있을 때 워크 지미모닝. 내추럴 어록 읽은 미 즉 법을. 요소도 레드 밴딩 한류 주변인들을 아야의 섹션 즐비한 아르마니 어득한 분위기 등의 아이콘 바니티 패배하고 위협한다. 듯한 아시아 밤의. 남미 하우스 느낄 수 비워.
+
+- **[She Raised $64M to Build an AI Math Prodigy | Carina Hong, CEO of Axiom](https://www.youtube.com/watch?v=QxfsjDBDw3M)** — 2026-02-05 · ko · `AX`
+  Axim의 목표는 자체적으로 성능을 향상시키고 생성과 검증을 결합한 추론 엔진을 구축하는 것입니다. 푸틴햄에게, 그리고 수학 덕후가 아닌 사람들에게는 , 이 시험은 수학 전공 학부생들 간의 엄청나게 어려운 경쟁과 같습니다. 중앙값은 0과 같습니다. 저희는 최근 Axiom Prew 테스트에서 12점 만점에 8점을 받았습니다. 저희는 Lean과 같은 형식 언어를 사용하여 자연어 대응 개념을 구체화하고 있으며, 이를 통해 결정론적 도구와 확률론적 시스템이 함께 작동할 때 얼마나 강력한 효과를 발휘하는지 확인할 수 있습니다.
+
+- **[JetBrains + Weights & Biases: Establishing frameworks and best practices for enterprise AI agents](https://www.youtube.com/watch?v=0wg-v8MCe7k)** — 2026-01-30 · ko · `AX`
+  제 이름은 바딤 브리안토프입니다. 저는 Jet Brains에서 Cook 팀의 기술 리더로 일하고 있습니다. 저희는 20년 이상 세계 최고의 아이디어를 창출해 왔으며, 주로 전문 개발자를 위한 제품을 만들고 있습니다. 요즘 저희는 인공지능 분야에 집중적으로 투자하고 있으며, 주력 AI 에이전트인 Juni를 개발했을 뿐만 아니라 그 외에도 다양한 AI 관련 프로젝트를 진행하고 있습니다 . JetBrains는 특히 AI 에이전트 및 실행 중인 평가의 관찰 가능성을 위해 가중치와 편향을 사용하고 있습니다.
+
+- **[Beyond AI implementation: Introducing JDLA's initiatives](https://www.youtube.com/watch?v=XE-X7d3-hmw)** — 2026-01-27 · ko · `AX`
+  잘 부탁드립니다. 오카다입니다. 네, 소개해 주신 딥 라인 협회 에서 왔습니다. 그래, 오늘은 그 딥 라인 협회 그 아시는 분은 어느 정도 어떻습니까? 감사합니다. 있습니다. 3분 정도. 상당히 상당히 인식 제발, 저, 요즘 무슨 일이야. 라는 내용을 포함하여 업데이트 조금 오늘 시키면 시간 20 분이므로 조금 뛰어납니다. 곳도있을 수 있지만 알고 있습니다. 제발. 그, 아베가 창업한 곳 에서 시작했다는 점에서, 최근에는 정부가 있습니다. 다양한 형태 데야의 회의가 끝났습니다. 협조하겠습니다.
+
+- **[W&B Models end-to-end demo](https://www.youtube.com/watch?v=FkTwcxnSPes)** — 2026-01-26 · ko · `AX`
+  [음악] 안녕하세요, 저는 아누이고 Coreview의 Weights and Biases 팀의 일원입니다. 저는 오늘 여러분께 Weights and Biases 모델에 대해 이야기하려고 합니다. 이 플랫폼은 모든 모델 학습에 대한 기록 시스템 역할을 하도록 설계되었습니다 . 단 몇 줄의 코드로 팀에서 머신 러닝 개발 주기 전체를 ​​추적할 수 있습니다. 사전 학습부터 평가에 이르기까지 모든 지표, 그 과정에서 생성되는 모든 산출물과 미디어, 이 모든 것이 가중치와 편향 내에서 추적됩니다.
+
+- **[Fully Connected Tokyo: [Hands-on workshop] Automation of document workflows in financial industry](https://www.youtube.com/watch?v=3VJZhKEG4ik)** — 2026-01-23 · ko · `AX`
+  그럼, 고마워, 모두들 오늘, 그, 이렇게 많은 분들 모임 주셔서 감사합니다. 새로 고침 그럼, 업스테이지 일본에서입니다. , 그, 컨트리 매니저 마츠시타라고 합니다. 오늘은 그, 2시간 3 시간이군요, 조금 긴 정장이 될까 생각합니다. 그렇지만, 꼭 교제해 주셔서 감사합니다. 부탁드립니다. 네. 음, 음, 오늘 네, 세션의 제목으로, 음, 금융 업계에서, 문서 워크플로우 자동화 그런데 붙어 있습니다. 음, 음, 나의 시작 조금 10 분 정도입니다.
+
+- **[Fully Connected Tokyo: [Hands-on workshop] Building and improving customer support AI](https://www.youtube.com/watch?v=1dQmqv_DdAI)** — 2026-01-23 · ko · `AX`
+  네, 음, 고객 지원 A 건설과 개선이라는 곳에서, 어, 나 에서 하늘 쿠리 주식회사의, 에, 리자 샨 개발 팀에서 팀 리드 그렇다고하겠습니다. 합니다. 잘 부탁드립니다. 네. 그래서, 어서,이 세션, 본존의 목표 그렇다면 먼저 B를 사용합니다. 받고 싶다. 자신도 이번에 그 대단한 그 바꾸기가 있기 때문에 꼭 봐 받고 싶기 때문에 B를 사용하십시오. AI 에이전트의 트레슬로라는 곳 네가 줄 수 있다고 생각합니다. 나중에 L 레레 마자 심판입니다.
+
+- **[Fully Connected Tokyo: [Hands-on workshop] From 0 to automated evals](https://www.youtube.com/watch?v=BX-AjQUUol8)** — 2026-01-23 · en · `AX`
+  [clears throat] I'm Scott. So, thank you for uh coming. Um yeah, so today we'll be learning about automated evals. I'm the PM of or product manager of our weave product. Um so I'll give a quick intro. Um I'll go through some slides and then we'll run some code. And I have my colleague Adrian here and some of my Yuya and some other people that will be helping us run some code.
+
+- **[The evolution of LLM evaluation and Japan’s cutting-edge benchmarks on the Nejumi leaderboard](https://www.youtube.com/watch?v=sxJrC8KQGfo)** — 2026-01-22 · ko · `AX`
+  네, 안녕하세요. 위의 바이세의 야마모토입니다. . 그럼, 그, 이레름 평가 진화와 쥐 리더보드가 나타내는 일본어 평가의 최전선이라는 제목으로, 발표하고 싶습니다. 그 , 여기에 아, 방금 그, 사회의 그, 카마타와 닮았지만 우연히 모르겠네요. 그, 시작하자. 받고 싶습니다. 네, 이번에 네, 그런 의제에서 그 발표 받고 싶습니다. 자기 소개, 회사 소개, 그 다음 그 경위군요, 지금까지의 경위, 그리고 그 최신판, 이번 버전 4이지만, 업데이트 개요, 그리고 그렇습니다.
+
+- **[ReelData x Weights & Biases: The impact of AI on sustainable land-based aquaculture](https://www.youtube.com/watch?v=7_BDs6z8Z54)** — 2026-01-21 · ko · `unclassified`
+  [음악] 저희 회사는 지속 가능한 식품 생산을 늘리는 것을 핵심 가치로 삼고 있습니다. 연어는 매우 지속 가능한 어종입니다. 사람들에게 건강에 좋습니다 . 수요와 공급 사이에 격차가 있습니다. 그래서 우리는 공급과 수요의 격차를 해소하는 데 도움을 주고 있습니다. 하지만 제가 농업계 종사자들과 음악에 대한 대화를 계속 나누면서 , 그들은 통화할 때마다 거의 똑같은 말을 했습니다. 마치, 내가 잡은 물고기 무게가 얼마나 나가는지 모르는 것 같았어요. 얼마나 먹여야 할지 모르겠어요 .
+
+- **[Atlassian’s Most Controversial Growth Decision | Mike Cannon-Brookes](https://www.youtube.com/watch?v=S3RmvHfJll4)** — 2026-01-20 · ko · `AX`
+  우리는 사람들의 문제를 해결합니다. 우리는 기술적인 문제를 해결하지 않습니다. 오늘날 대부분의 음악 관련 사업은 기술 중심의 사업입니다. 우리는 기술팀과 비즈니스팀을 연결하여 비즈니스 프로세스를 운영하려고 노력합니다. [음악] 아, 죄송합니다. 잠깐만, 그럼 다시 처음으로 돌아가도 될까요? 저는 Jira가 적어도 기술 티켓팅 시스템 제품에서 유래한 유산과 같은 것이라고 생각합니다. 지라의 초기 버전은 사실 버그 추적 도구였으며, 기술팀의 훨씬 더 기술적인 부분을 위한 도구였습니다. 그것이 점점 더 많은 워크플로우를 포함하게 되면서 이슈 트래커가 되었고, 점차 광범위한 워크플로우 엔진으로 발전했습니다
+
+- **[Special discussion session: the present and future of generative AI](https://www.youtube.com/watch?v=1pNUmk-VbU8)** — 2026-01-13 · ko · `AX`
+  아, 주식회사 길노의 불과 합니다. 어쩌면 여러분에게는 노트 CXO나 변호사.com의 CXO 로 일하는 분이 알려져 있을지도 모릅니다. 잘 부탁드립니다. 잘 부탁드립니다. 아, 미안해. 그럼 걸어 주시면 좋겠습니다. 네. 오늘입니다, 그, 불활을 초대했습니다. 글쎄, 그, 특별 심사 세션 그래서, 뭐, 왜 그런 세션을 준비하십시오. 뭐라고 말하면, 뭐, 이번 저 웨츠 &amp; 바이설의 프리 Connected Tokyo, Ma, 이것, 그, Ma, 세 번째이지만, 매우 네, 여러분 덕분에, 매우 지금까지 없었던 정도로 대성이되어 있습니다.
+
+- **[The cutting edge of generative AI adoption in manufacturing and building an AC-specific LLM](https://www.youtube.com/watch?v=BiCNeNZEJe8)** — 2026-01-13 · ko · `AX`
+  네, 여러분 안녕하세요. 네, 대금 산업의 끔찍한 입니다. 음, 지금 때때로 물고기 AI가 옆에 있습니다. 하고있는 동안이 세션을 선택하십시오. 주셔서 감사합니다. 진짜 아키하 씨도 나도 원래 선호하는 네트워크와 동일 회사에 있었지만 모처럼이 세션을 선택했으므로, 여기에 온 사람들에게 뭔가, 어 , 유용한 정보 중 하나라도, , 제공 할 수 있으면 바람으로 생각합니다. . 잘 부탁드립니다. 그리고 쉽게 자기 소개이지만, 나, 저, 원래 IBM의 연구소에 있습니다.
+
+- **[Introducing Our Approach to Design Document Review Using Business-Specific Large Language Models](https://www.youtube.com/watch?v=I8CKzIOgHQI)** — 2026-01-12 · ko · `AX`
+  만나서 반갑습니다. 오늘은 이쪽과 같이 기재되어 있는, 그, 업무 특화형 LLM 그렇다고 하는 곳을 저, 만들고 있네요, 이것을 활용해 그, 뭐, 우리의 그 설계서를 만들고 있는 그 것 리뷰에 그 살렸다고 하는 그 내용을 소개해 주셨으면 한다고 생각하고 있습니다. 그래서, 그 전체 소개를하기 전에 잠깐 내, 그, 뭐, 소속 그, 히타치 제작소의 그, 금융 비즈니스 유닛이라는 곳의 소개 싶지만, 저, 저, 이 금융 비즈니스 유닛이라는 곳은 어느 쪽인가 그렇다면, 그 시스템 개발 그런데, 그, 사업으로 하고 있네요, 그, 이른바 SI, 그, 미션 중요한, 그, 음, 감정계입니다
+
+- **[Weaving together field, technology, and culture: TOPPAN's LLM/VLM development & operational practice](https://www.youtube.com/watch?v=6NmQb_BqFZU)** — 2026-01-12 · ko · `AX`
+  돌판 딩스의 여름 해자라고합니다. 오늘, 네, 현장 기술 문화가 내리는 판촉 LLMVLM 개발과 업무 실천이라는 제목으로, 네, 발표하겠습니다. 합니다. 우선, 네, 나 자기 소개입니다. 나, 네, 신입 직원, 응, 판매판 인쇄에 입사했습니다. 글쎄, 네, 처음에는 정보 시스템입니다. 프리스의 시스템이라든지, 나머지는 패키지, 예, 재고 관리 시스템 도물의 개발을 하고 있었습니다. 그래서, 디지털 혁신 본부라는 바람에 부서명이 바뀐 근처에서 VR이나 MR과 첨단 기술을 다루게됩니다. 글쎄, 팔로우 렌즈이거나 VR, 그리고 사진 그라메트리라든지 여러가지 괜찮습니다
+
+- **[AI that explains the market: A new paradigm in financial forecasting](https://www.youtube.com/watch?v=Xu7d-_N7nRk)** — 2026-01-08 · ko · `unclassified`
+  네. 안녕하세요. 저 안녕하세요. 저는 LG AI 연구원의 안원빈입니다. 제가 오늘 말씀드릴 내용은 그 시장을 설명하는 AAI에 대해서 말씀드리도록 하겠습니다. 먼저 저희 회사 잠깐 소개하려고 하는데요. 저희 LG AI 연구원은 LG 그룹의 AI 컨트롤 타워 역할을 하고 있습니다. LG는 계열사들이 굉장히 다양한데요. 그만큼 저희도 다양한 문제를 AI로 함께 풀고 있습니다. 그래서 저희 연구원은 되게 다양한 연구 주제를 가지고 있는데요. 보시면 뭐 랭귀지, 비전, 데이터 인텔리전스, 바이오, 머티리얼 그 계열서만큼이나 저 AI로 도전할 수 있는 거의 모든 문제를 다루고 있습니다
+
+- **[Post-training best-in-class models in 2025](https://www.youtube.com/watch?v=3FPQTSqwYQ0)** — 2026-01-08 · en · `AX`
+  [music] Hi everyone. Uh thank you. Um so in this presentation I'm going to talk about pre-raining models. So at Liquid AI we create small language models. We've released I counted this morning 17 models since July and they're in between 350 million parameters and 8 billion parameters. We have text models, we have vision models, we have audio models, we have t specific models including retrieval.
+
+- **[Why Big Tech Buys GPUs From CoreWeave | Corey Sanders](https://www.youtube.com/watch?v=h3SNaAPUxHY)** — 2026-01-06 · en · `AX`
+  I don't care if the APIs are consistent and commoditized. The level of quality, performance, and capability and experience that we deliver today will not win workloads in 2 years. For anyone who's deployed on a public cloud, especially with GPUs and you suddenly have a burst of capacity, like you're always sweating. And so what I like to think about for us is how do we go make all of that complexity then go away?
+
+- **[Transformative & cross-functional AI adoption at Sanofi: Fully Connected London 2025](https://www.youtube.com/watch?v=fDZCEiygfsQ)** — 2025-12-19 · ko · `AX`
+  [박수] 완벽합니다. 네, 정말 감사합니다, 모건 씨. 안녕하세요 여러분. 이곳에 오게 되어 기쁩니다. 제 이름은 에반 코프스카입니다. 저는 Seni에서 AI 에이전트 및 JAI 플랫폼의 제품 책임자(PO)입니다 . 그렇다면 기술 분야에 대한 경험이 부족한 프랑스 대기업에게 있어 성공적인 AI 전환이란 무엇일까요? 그리고 저는 이 점을 정말 강조하고 싶습니다. 왜냐하면 오늘날 많은 기술 기업들이 이 주제에 대해 이야기하고 있기 때문입니다. 그리고 우리는 전 세계에 10,000명에서 100,000명에 이르는 직원들이 분포되어 있고, 그들만의 업무 방식을 가진 회사에 대해 이야기하고 있습니다
+
+- **[Nhk broadcasting technology research laboratory's AI technology development initiatives](https://www.youtube.com/watch?v=4SBF0jHTUSs)** — 2025-12-17 · ko · `AX`
+  아, 소개 주셔서 감사합니다. NHK방송기술연구소의 엔도라고 합니다. 우선 자기 소개 간단하게 하고 싶다고 생각합니다만, 네, 2013년에 NHK에 입국 해, 다음 해부터 NHK 방송 기술 연구소에서 예, 연구 업무에 종사하고 있습니다. 합니다. 현재 연구소의 LLM 연구팀 추진 리더라는 포지션에서 근무 받고 있습니다. 이것이 오늘입니다. 아지엔다이지만 조금 시간이 없기 때문에, 네, 본편에 바로 들어갑니다. . 그래서, 그 NHK에 대해서는 여러분, 뭐, 아마 알고 계시는 것은 아니다. 라고 생각합니다만, 방송 기술 연구소에 대해서 는 모르는 분도 많을까 생각합니다.
+
+- **[Are Humanoid Robots Actually Coming to Your Home? | Nikolaus, Rerun](https://www.youtube.com/watch?v=vvvwWv5BK-s)** — 2025-12-16 · ko · `AX`
+  우리는 시각화, 특히 물리적 AI 애플리케이션과 같은 분야에서는 수익 창출이 어려울 것이라는 생각을 가지고 있었습니다. 데이터와 상호 작용할 수 있는 모든 단계를 시각화해야 합니다. 그러니까 지금까지 데이터 모델을 아마 네 번 정도 재설계하신 셈이네요. 와, 정말 멋지네요 . 인공지능과 로봇공학이 요즘 굉장히 뜨거운 주제인 것 같아요. 사람들이 잘 모르는 것 같은데, 년 전에는 효과가 없었지만 지금은 효과가 있는 것은 무엇인가요? 그래서 우리는 상당히 정교한 조작을 할 수 있는 능력에 있어서 정말 놀라운 발전을 목격하고 있습니다
+
+- **[Build reliable AI agents using W&B Training](https://www.youtube.com/watch?v=q4YnO0MBaeI)** — 2025-12-16 · ko · `AX`
+  [음악] 안녕하세요, 저는 Weights and Biases의 Russ입니다. 오늘은 Coreweed 기반의 서버리스 강화 학습(RL)을 통해 AI 에이전트 성능을 향상시키는 방법에 대해 이야기해 보겠습니다. 이 방법은 엄청난 시간, 자원, 또는 심도 있는 기술 전문 지식 없이도 가능합니다. 어떤 유형의 AI 애플리케이션을 개발하든 정확성, 지연 시간, 비용 및 안전성을 추적하는 것은 항상 중요합니다. 이러한 각 차원에 따른 성능 측정은 애플리케이션이 프로토타입에 더 가까운지 아니면 양산에 더 가까운지를 판단하는 핵심 지표입니다.
+
+- **[Nvidia's generative AI ecosystem supporting Japan's sovereign AI](https://www.youtube.com/watch?v=CwzX1-gfvc0)** — 2025-12-16 · ko · `AX`
+  지금 소개해 주신 NVDIA 에서 솔루션 아키텍트를하고 있습니다. 마루카미라고합니다. 음, 여기에서 네, 20 분 정도의 여기 제목으로 이야기 해 주시면 좋겠습니다. 그러니 잘 부탁드립니다. . 우선 먼저 조금 자기 소개하겠습니다. 제발. 음, 나이지만, 지금 NVDIA 11 년째 정도이지만 심지어 NVIA에 들어가기 전에는 신호 처리 라든지 화상 처리의 엔지니어로서 일하고 글쎄, 그때부터 기계 학습 나중에, 처리의 가속화를 위해, , 가속기, NVDIA GPU 뿐만 아니라 일부를 사용하고 있습니다.
+
+- **[Evolving large language model evaluation: practices and insights from the Swallow Project](https://www.youtube.com/watch?v=N9b6oAVuVZc)** — 2025-12-15 · ko · `AX`
+  네, 소개해 주셔서 감사합니다. 합니다. 음, 도쿄 과학 대학의 오카자키 합니다. 음, 오늘은, 음, 제목으로, 그 진화하는 대규모 언어 모델 평가 스와로 프로젝트에서, 음, 실천과 지견으로 말하기 싶습니다. 그래서 먼저 그 스왈로 프로젝트 란 무엇입니까? 싶지만, 그 전에 NVDIA의 무라카미 님으로부터, 그 소개 주셔서 그 대단한 공연이지만 음, 이런 프로젝트입니다. 말하자면, 우선 도쿄 과학 대학의, 음, 요코타 현과 삼층 현 실험실에서, 어, 합, 그, 개발 대규모 언어 모델입니다.
+
+- **[LLM research and development initiatives at the National Institute of Informatics](https://www.youtube.com/watch?v=md5l0BQ_VXA)** — 2025-12-15 · en · `AX`
+  This is Takeda from Ina. Thank you for the introduction. Um, today, I'd like to take about 20 minutes of your time to introduce you to an initiative called LLMJP, a nationwide LML study group mainly organized by the Research and Development Center for Large-Scale Language Models at the National Institute of Informatics. This initiative aims to develop a domestically produced large-scale language model that is strong in Japanese and possesses transparency and reliability .
+
+- **[Mistral AI ecosystem for Japanese builders and enterprises](https://www.youtube.com/watch?v=zAjxUbtJfIw)** — 2025-12-12 · en · `AX`
+  [music] Hi everyone and nice to meet you. I'm Joffrey. [applause] Hi everyone. Super nice to meet you. I'm Joffrey. I'm a developer relation engineer at MR AI. So what does that mean? uh out of the scope of my um responsibility. There's obviously talks this way. There's documentation, demo of new models and so on. I would like to thank you a lot because this is actually my first representation in uh in Japan.
+
+- **[Trends and outlook for the Ministry of Economy, Trade and Industry's AI policy](https://www.youtube.com/watch?v=lsHR2OvEZFY)** — 2025-12-12 · ko · `unclassified`
+  네, 여러분 안녕하세요. 경제산업성 와타나베 입니다. 잠깐 처음 아이 우고 소개를하면 조금 장애물이 올라갑니다. 하지만, 조금 나는, 음, 이런 입장이기 때문에 오늘 그 기술적인 이야기는 그렇지요. 그 양보하고 싶다는 바람에 생각합니다. 그리고 원래 정말 그 세부 사항은 잘 모르는 곳도 있습니다. 그냥 , 음, 컴퓨팅 부서입니다. 틀에서 여러분을 지원합니다. 하고 싶니, 아, 이것에 대해 네, 뭐, 오늘 이해해 주셔서 감사합니다. 생각합니다. 음, 음, 이것은 괜찮습니다. .
+
+- **[Fully Connected Tokyo 2025: Opening Keynote with W&B Cofounders Lukas Biewald & Chris Van Pelt](https://www.youtube.com/watch?v=Uw2aEJ4CzwM)** — 2025-12-11 · en · `AX`
+  Imagine a world where we decode the mysteries of disease, scale clean energy to protect Earth's resources, reach every eager learner, and distribute harvests globally, all while reclaiming ing time for what matters [music] most. We're in the era where this future is not only within reach, but unfolding faster than ever. [music] We're building autonomous agents today, and soon AI will [music] automate the very research that brought it to life, propelling us toward artificial [music] super intelligence.
+
+- **[How to Build AI Agents Capable of Competing in Real-World Settings](https://www.youtube.com/watch?v=E_ToyA780YU)** — 2025-12-11 · ko · `AX`
+  네, 응, 여러분 안녕하세요. 소개 감사합니다. 네, 생선 가게의 가을과 말씀드립니다. 네, 오늘은 그렇습니다. AI 에이전트에 대한 이야기입니다. 그러나, 특히, 네, 그 AI 에이전트를 어떻게 만드는지 말해 이야기를 넘어서, 네, 어떻게하면 사용 가능한 AI 에이전트, 음, 현명한 AI 에이전트를 만들 수 있다는 곳에 따라 이야기하고 싶습니다. AI 에이전트라는 말이 나오고, 조금 시간이 지났다고 생각해요. 에서 , 뭐, 상당히 사용한 적이 있다고 하는 분도 많다고 생각해, 뭐, 뭐라면 조금 만들어 한 적이 있다고 말하는 분도 계십니다.
+
+- **[Beyond the vibes: Learnosity’s journey to a robust LLM evaluation framework - FC London '25](https://www.youtube.com/watch?v=2a_hP_USLBs)** — 2025-12-09 · en · `AX`
+  Thank you so much for coming. Um, and thanks to ways and biases for inviting me to talk about the type of work we do at Lenosity. So, I just said this talk all be about eval evaluation and our journey through that kind of moving beyond initial vibes that we were that we were using and going towards more experimental and evidence-based approach for selecting the best models and prompts to use for our clients.
+
+- **[Rapid prototyping for reinforcement learning in industry - Festo @ Fully Connected London '25](https://www.youtube.com/watch?v=To6vJMxjWKo)** — 2025-12-09 · en · `AX`
+  Thanks for introduction. Yeah, I'm Shaham. Very excited today to be here and I would like to share with you some of our experience in the RL domain specifically for manufacturing. So it has been quite long story. We've been doing RL for now about four five years.
+
+- **[End-to-end driving​ with safety guardrails - Zenseact @ FC London '25](https://www.youtube.com/watch?v=Vnb9QfHopvI)** — 2025-12-08 · en · `AX`
+  Uh my name is Mashid. I'm from Zenact. We are Volvo backed autonomous driving company and today I'm going to talk about our end to end driving stack with safety guard railways. Uh our moto is towards zero fatalities faster. Every year around 1.2 million people die over accidents by cars. 50 plus million also injuries you will get. Therefore for us automation is not convenience it's about safety.
+
+- **[Maintaining high data standards and sovereignty at Denmark's supercomputer Gefion](https://www.youtube.com/watch?v=fAIl8ZZX-UM)** — 2025-12-08 · en · `unclassified`
+  Thank you [snorts] very much. I can see infrastructure is a very popular topic. Uh we can also so I when I was thinking about making this presentation we can all talk about you know GPUs and I thought maybe we should take a step back and kind of talk about what we do [snorts] and you know why are we in in this world and why does the infrastructure matter.
+
+- **[Sandbox breakout evals with Inspect - UK AISI @ FC London '25](https://www.youtube.com/watch?v=J79pSSAENYc)** — 2025-12-08 · en · `AX`
+  Thank you all for coming today. Yes. So my name is Harry Copoke. Um I'm a number 10 innovation f. Can everyone hear me? Going above. Yeah. I'm a number 10 innovation fellow where I work on PM priority issues using AI. And part of that was acting as a research scientist, one of the first technical hires uh to set up the AI security institute uh two years ago.
+
+- **[Automating knowledge work with AI agents - LlamaIndex @ Fully Connected London '25](https://www.youtube.com/watch?v=5jwiwaPyZCE)** — 2025-12-06 · en · `AX`
+  Thank you for the for the introduction. Um, ideally it was not gonna be me talking today. Um, so I'm here as a replacement forana. I don't want to steal her thunderish. These are her slides. So she's still here with us. Uh, &gt;&gt; she's alive. &gt;&gt; Yes. Yes, she she is. She is.
+
+- **[Building the next generation of computer use agents - H Company @ Fully Connected London '25](https://www.youtube.com/watch?v=1mHj2Ovxdhs)** — 2025-12-06 · ko · `AX`
+  안녕하세요 여러분. 이번 강연에 참여해주셔서 감사합니다 . H에서 하는 일에 많은 분들이 관심을 가져주셔서 기쁩니다. 먼저 H가 어떤 회사인지, 우리가 누구인지, 우리의 사명은 무엇인지 소개하고, H에서 개발하는 멋진 기술들을 보여드리겠습니다. H의 주요 사명은 더 나은, 더 안전한, 그리고 무엇보다 더 저렴한 에이전트를 만드는 것입니다. 우리는 방금 전에 멋진 일들을 하면 돈을 많이 절약할 수 있다는 아주 좋은 이야기를 나눴어요 . 직접 모든 것을 교육함으로써 더 나은 상담원을 확보하고 비용을 더욱 절감할 수 있습니다
+
+- **[The power of context: From traditional RAG to multi-agent retrieval - Contextual AI @ FC London '25](https://www.youtube.com/watch?v=JYZXsH1Xz0I)** — 2025-12-06 · ko · `AX`
+  알고리즘 맥락이죠, 그렇죠? XG Boost를 고려하고 기능 엔지니어링에 시간을 투자하세요 . BERT를 사용할 때는 최대 시퀀스 길이를 고려해야 합니다. 우리는 항상 최신 알고리즘과 맥락을 고려한 작업 방식 사이에 긴장감을 느껴왔습니다 . 그래서 오늘 우리는 이 주제를 중심으로 함께 여정을 떠나보려고 합니다. 간단히 제 소개를 드리자면, 저는 Contextual의 최고 홍보 책임자입니다. 저는 인공지능을 가지고 노는 것을 좋아합니다. 저는 그 주제에 대해 이야기하는 것을 좋아합니다 . 그래서 그들은 내게 수석 전도사라는 직함을 주었다.
+
+- **[Defining factors for enterprise AI agents - JetBrains @ FC London '25](https://www.youtube.com/watch?v=igUpMlGqyWo)** — 2025-12-05 · ko · `AX`
+  팔토리안, 즉 예측 가능성, 비용 효율성이야말로 미래 기업용 AI 에이전트를 정의하는 요소가 될 것입니다. 그럼 먼저 회사 소개부터 시작하겠습니다. 혹시 모르시는 분들을 위해 말씀드리자면, Jet Brains는 IntelliJ, PyCharm 등과 같은 전문가용 소프트웨어 개발사입니다 . 하지만 그 외에도 저희는 Jet Brains AI 브랜드를 보유하고 있습니다. 혹시 JetBrains CI에 대해 들어보신 분 계신가요 ? 좋아요, 꽤 많은 사람들이면 좋겠네요. 음, 간단히 개요를 말씀드리겠습니다. 그래서 저희 젯브레인즈에서는 아이디어를 바탕으로 AI 비서를 개발했습니다.
+
+- **[Multi-domain large language model adaptation using synthetic data generation - Shell @ FC London '25](https://www.youtube.com/watch?v=DFDjmoW2JdQ)** — 2025-12-05 · en · `AX`
+  Hello. Hi everyone. So today we're basically going to present multi-dommain adaptation using synthetic data generation. Basically we're going to tell you how we are doing it at shell. This work is in collaboration with Nvidia. So to start off what are we trying to achieve at Shell? At Shell, data is an asset. That would be decades of technical reports, operational insights and project documentation. But currently, this asset is trapped.
+
+- **[RAG is dead, long live RAG: Retrieval in the age of agents - LightOn @ Fully Connected London '25](https://www.youtube.com/watch?v=Dc1y_pulshw)** — 2025-12-04 · ko · `AX`
+  안녕. 오늘 함께해 주신 모든 분들께 감사드립니다 . 어, 헨이 말했듯이, 오늘은 증강현실 생성에 대해 이야기해 보겠습니다 . 제 생각에는 여러분 중 많은 분들이 소셜 미디어에서 그 잡지가 사라졌다는 주장을 보셨을 겁니다. 음, 그래서 오늘 우리는 이것에 대해 이야기해 볼 겁니다. 죽었나요? 살아있는 건가요? 음, 그리고 일반적으로 에이전트 시대에 데이터 검색이 어떻게 진행되고 있는지에 대해서요. 네, 저는 레이튼에서 일했는데, 거기서 엔터프라이즈 코파일럿을 개발했어요. 이건 문서 등을 더 쉽게 검색할 수 있도록 설계된 거예요.
+
+- **[Optimizing agentic AI workflows: Metrics-driven evaluation with W&B Weave and NVIDIA - FC London '25](https://www.youtube.com/watch?v=YOwDdwtNmPU)** — 2025-12-03 · en · `AX`
+  Hi everyone. Uh bearing in mind that I'm the only thing between uh you and drinks. Let's get this going. If you cannot see my face uh directly, you can see my face in the slide. So I'm Retita. I work for Nvidia as a solution architect. Most of what I do connects to evaluations.
+
+- **[Multi-agent applications in production - Google @ FC London '25](https://www.youtube.com/watch?v=WAI28NM0ASI)** — 2025-12-02 · ko · `AX`
+  네, 초대해 주셔서 감사합니다. 안녕하세요, 제 이름은 하이카입니다. 저는 구글에서 응용 인공지능 엔지니어로 일하며, 고객과 협력하여 다중 에이전트 애플리케이션을 구축합니다. 먼저 말씀드리자면, 오늘 제가 выска한 의견은 전적으로 제 개인적인 생각이며, 고용주의 의견을 반드시 반영하는 것은 아닙니다 . 예를 들어, 저는 MCP와 A2A를 사용하여 다중 에이전트 시스템을 구축하는 방법에 대한 기사도 썼습니다. 음, 저는 개인적인 입장에서 그 글을 썼습니다 .
+
+- **[Understanding the new AI tech stack: Infrastructure, models, agents](https://www.youtube.com/watch?v=4_BybRqrYcc)** — 2025-12-02 · ko · `AX`
+  그래서 우리는 스택의 위쪽으로 차근차근 올라가면서 진행할 겁니다. 하지만 그 전에, 각 궁궐 관계자들이 스스로를 소개하도록 하겠습니다. 그들이 작년에 인공지능 분야에서 집중적으로 연구해 온 가장 중요한 증거는 무엇인가요 ? 패널 구성원 소개를 어떻게 진행할지 간단히 설명드리겠습니다. 마이크, 먼저 시작하시겠습니까? 예. 먼저, 오늘 여러분과 함께하게 되어 정말 기쁩니다. 음, 아시다시피 저는 종종 금융 전문가들로 가득 찬 방에 있게 됩니다. 오늘 밤 건설업자분들과 함께하게 되어 정말 기쁩니다 . 훨씬 더 재밌어요.
+
+- **[Using MCP to analyse your experiments & create reports in natural language](https://www.youtube.com/watch?v=RocYCoZbHI8)** — 2025-12-02 · ko · `AX`
+  안녕. 음, 제 이름은 안나예요. 저는 미스트롤의 제품 팀 소속입니다. 이 프레젠테이션은 MCP에 관한 내용입니다. 음, MCP가 무엇인지, 왜 사용하기로 결정했는지, 어떻게 사용하고 있는지에 대해 설명하고 , 그 다음에는 가중치 및 편향 환경을 활용하여 무엇을 할 수 있는지에 대해 좀 더 자세히 살펴보겠습니다. 음, MCP를 사용해서 개발하고 계신 분, 그리고 MCP에 대해 들어보신 분 중에 손을 들어보실 수 있을까요? 더 많아야 할 텐데. 네, 사람들이 듣기는 했지만 MCP와 직접 협력하고 있다는 얘기는 아직 안 들었을 수도 있어요.
+
+- **[Runway’s Gen 4.5 and the Future of AI Video](https://www.youtube.com/watch?v=kLZmSvtJhKc)** — 2025-12-01 · ko · `AX`
+  비디오 모델을 이해하는 가장 좋은 방법은 비디오 모델을 기본적으로 범용 시뮬레이션 엔진으로 이해하는 것입니다. 그들은 모든 것을 효과적으로 시뮬레이션하려고 시도할 수 있고, 실제로 시도할 것입니다. 우선 엔터테인먼트와 미디어를 시뮬레이션하고 있지만, 모델이 앞으로 그보다 훨씬 더 많은 것을 시뮬레이션하게 될 것이라는 점을 알 수 있을 겁니다. 있잖아요, 저는 항상 '와, 런웨이가 구글의 막대한 자원과 어떻게 경쟁할 수 있을까?'라고 생각해요. 그 방식이 어떻게 작동하는지에 대해 다른 의견이 있으신가요?
+
+- **[Scalable autonomy through embodied AI](https://www.youtube.com/watch?v=W-odbzoV6TM)** — 2025-12-01 · ko · `unclassified`
+  감사합니다. [박수] 안녕하세요 여러분, 물리적 AI에 대해 더 자세히 이야기 나눌 수 있게 되어 기쁩니다 . 음, 물리적 세계의 인공지능이요. 음, 꽤 많은 분야가 있는 것 같고, 여러분 대부분이 인공지능 분야에서 일하시는 걸로 알고 있습니다. 음, 여러분 중에 오프라인에서 일하시는 분들이 얼마나 되는지 모르겠네요. 음, 손들어 보세요. 많지 않아요. 그래서 음, 그러니까 저는, 음, 그렇다면 이 이야기는 매우 환영받을 만한 것입니다. 음, 저는 주로 자동차에 대한 이야기를 합니다.
+
+- **[Taking agents from demo to production: Product overview from Weights & Biases by CoreWeave](https://www.youtube.com/watch?v=AQXCG6v6D10)** — 2025-12-01 · ko · `unclassified`
+  대규모 언어 모델이 수학 올림피아드에서 만점을 받고, 새로운 단백질을 설계하고, 변호사 시험에 합격할 수 있다면, 왜 인공지능 에이전트가 아직 모든 곳에 보급되지 않았을까요? 그들은 어려운 과제를 훌륭하게 수행하지만, 인간이라면 하지 않을 간단한 실수도 저지릅니다. 데모에서 실제 제품으로의 전환을 가로막는 장애물은 기능이 아니라 신뢰성입니다. 신뢰성 문제에도 불구하고, 소수 의 기업들이 이미 에이전트를 운영 중입니다. 그들은 어떻게 해냈을까? 그 비결은 바로 새로운 AI 개발자 툴 스택에 있습니다.
+
+- **[Physical AI: Unlocking business value with foundation models and digital twins](https://www.youtube.com/watch?v=1GAJPgxzpLE)** — 2025-11-25 · ko · `AX`
+  오른쪽. 저와 스티븐, 그리고 팀원들을 초대해 주셔서 감사합니다. 제가 당신을 만날 수 있을지는 모르겠지만, 초대해 주셔서 감사합니다. GSK에서, 특히 공급망 분야에서 어떤 일을 하는지 조금이나마 보여드릴 수 있기를 바랍니다. 그러니까, GSK와 글로벌 공급망에 대해 잘 모르시는 분들을 위해 설명드리자면, 글로벌 공급망은 연구개발 이후의 모든 것을 아우르는 개념입니다. 그러니까 서류가 접수되고, 생산에 들어가고, 백신 이나 의약품을 환자들에게 배송하고 싶을 때가 되면 되는 거죠? 보시는 바와 같이 저희는 전 세계에 37개의 마이크로파 발생 시설을 보유하고 있습니다
+
+- **[Fully Connected 2025 kickoff: The rise (and the challenges) of the agentic era](https://www.youtube.com/watch?v=YoRNgLXzrVo)** — 2025-11-24 · ko · `AX`
+  [박수] 완전 연결 런던 둘째 날에 오신 것을 환영합니다 . 손 좀 들어주세요. 첫날부터 여기 있었던 사람 누구? 와 , 훌륭하네요. 돌아오신 걸 보니 정말 반갑습니다. 다시 와주셔서 감사합니다. 안녕하세요, 저는 로빈 보르둘리입니다. Weights and Biases에서 전 세계 고객들이 AI 개발자 플랫폼을 활용하여 AI를 더 빠르게 개발 하고 성공할 수 있도록 지원하는 글로벌 시장 진출 팀을 이끌게 되어 매우 기쁩니다 . 하지만 오늘 제 역할은 바로 이 행사의 사회를 맡는 것입니다
+
+- **[Fully Connected keynote: Building tools for agents at Weights & Biases](https://www.youtube.com/watch?v=-7QfVraLHw4)** — 2025-11-24 · ko · `AX`
+  [박수] 좋습니다. 고마워, 로빈. 음, 이곳에 3년째 함께하게 되어 정말 기쁩니다. 불과 몇 년 전만 해도 유럽 시장이 얼마나 작았는지 기억하는데, 지금은 열정과 아이디어 면에서 폭발적으로 성장한 모습을 보니 정말 놀랍습니다. 그리고 아시다시피, 사용자나 이해관계자 앞에서 미래 로드맵에 대해 이야기하는 이런 종류의 발표에는 일종의 전통이 있다고 생각하는데, 지금 AI 분야에서는 그렇게 하기가 정말 어렵습니다. 제 생각에 제가 6개월짜리 로드맵이나 12개월짜리 로드맵을 말씀드리면, 여러분은 아마 믿지 않으시겠죠?
+
+- **[The $2B Company Cutting AI Costs By 60% | Tuhin Srivastava](https://www.youtube.com/watch?v=QJUsxm1Nmos)** — 2025-11-18 · ko · `AX`
+  모델이 모든 것을 처리하고 모든 가치가 애플리케이션 계층에 집중되는 세상으로 변화하고 있습니다. 만약 인공 일반 지능(AGI)이 존재한다면, 어느 정도까지만 존재하는 시장은 그 모델이 무엇을 해야 하는지에 대한 것일 것이고, 그 모델은 오직 자체적인 데이터에 기반해서만 작동할 수 있을 것이다. 각인에는 두 가지 다른 부분이 있습니다. 그래서 인프라 수준에서 보면 5, 10, 100,000개의 GPU에 걸쳐 워크로드가 실행되고 있다고 생각합니다 . 이 시스템은 어떻게 확장될까요? 두 번째는 런타임 수준의 문제입니다.
+
+- **[Build and monitor multi-agent contact centers using Weights & Biases](https://www.youtube.com/watch?v=MjqHVfmKEoM)** — 2025-10-28 · ko · `AX`
+  [음악] 안녕하세요, 저는 Weights and Biases의 Russ입니다. 오늘은 Weights and Biases AI 개발자 플랫폼이 어떻게 신뢰할 수 있고 고품질의 다세대 AI 컨택 센터를 구축하기 위해 평가, 모니터링 및 반복 작업에 필요한 도구를 제공하는지 설명드리겠습니다. 자동응답 시스템과 통화할 때면, 상담원과 연결되기를 바라며 별표 버튼과 0번 버튼을 반복해서 누르게 되는 경우가 많습니다 . 기존 컨택센터 기술은 내부 물류 문제와 외부 고객 지원 문제를 효율적이고 효과적으로 해결하는 데 있어 많은 한계를 가지고 있습니다.
+
+- **[Introducing serverless reinforcement learning: Train reliable AI agents without worrying about GPUs](https://www.youtube.com/watch?v=pecSfrcQZbI)** — 2025-10-24 · ko · `AX`
+  좋아요, 알겠습니다. 그럼 간단하게 자기 소개를 해볼까요? 음, 제 생각엔, 어, 네, 다니엘, 먼저 시작하시고 제가 두 번째로 할게요? 확신하는. 안녕하세요, 저는 다니엘입니다. 저는 최근 Coreweee에 인수된 OpenPI와 Weights and Biases 산하의 많은 고객들과 함께 일해 왔습니다. 음, 저는 여러 고객들과 함께 이러한 솔루션을 개발하는 일을 정말 좋아합니다. 다시 말씀드리지만, 만약 이 소식을 처음 접하셨다고 해서 뒤처진 것은 아닙니다 . 네, 저희가 기꺼이 도와드리고 이용 가능한 훌륭한 자료들을 모두 알려드리겠습니다.
+
+- **[The world’s first Serverless RL capability is now available!](https://www.youtube.com/watch?v=4AHB6g50TaA)** — 2025-10-14 · ko · `unclassified`
+  얘들아, 산타 할아버지가 뭘 가져다주셨는지 봐봐. 안 돼요. Cororeweave의 Open Pipe 팀에서 제공하는 서버리스 강화 학습 서비스입니다. 그게 바로 내가 원하던 거야. RL 인프라 구축은 예전에는 정말 어려웠습니다. 이렇게 하면 더 쉬워질 겁니다. 감사합니다, 오픈 파이프 팀. Open Pipe와 Cororeweave를 이용한 서버리스 강화 학습 . 지금 바로 구매 가능합니다.
+
+- **[Production monitoring for AI applications using W&B Weave](https://www.youtube.com/watch?v=djJWhJKp-vo)** — 2025-09-17 · en · `AX`
+  [Music] Hi, I'm Russ from Weights and Biases and today I'll be discussing W andBWeave online evaluations, a new feature that allows scoring production traces in real time, enabling continuous monitoring of AI applications and agent performance to catch issues instantly and maintain quality over time. Developing the best performing AI agent or application requires rigorous, thorough evaluations.
+
+- **[Accelerating ML workflows: IBM x Weights & Biases](https://www.youtube.com/watch?v=HFoLqPhCJjM)** — 2025-09-16 · en · `unclassified`
+  [Music] We have very ambitious goals in IBM for for AI. It's going to change the way that we do our jobs. It's going to change the way that teams work together. Everybody's got an opportunity to participate in this change and to imagine how the future could be. Granite is IBM's series of models that are open source and that are optimized for enterprise use.
+
+- **[The Startup Powering The Data Behind AGI](https://www.youtube.com/watch?v=X39OZndIWSY)** — 2025-09-16 · en · `AX`
+  You're listening to Gradient Descent, a show about making machine learning work in the real world. And I'm your host, Lucas Bewald. Today I'm talking with Edwin Chen, who's the CEO of Surge. I was really looking forward to talking to Edwin for for a long time for a number of reasons. I mean, one thing is that Edwin has built an incredibly valuable business with no venture backing in a really short amount of time.
+
+- **[Fully Connected London 2025: Agentic AI applications from prototype to production](https://www.youtube.com/watch?v=khZS7dMkqek)** — 2025-08-11 · en · `unclassified`
+  [Music] Hey, hey, hey.
+
+- **[Streamline evaluation, monitoring, optimization of AI data flywheel with NVIDIA and Weights & Biases](https://www.youtube.com/watch?v=1QdQjGTMBPc)** — 2025-08-07 · en · `AX`
+  [Music] Hello everyone. I'm Anish Sha and I'm really excited to talk about some new blueprints that we have co-developed with the NVIDIA team to make sure that you can go ahead and improve your AI applications even further than what you already have in place.
+
+- **[Arvind Jain on building Glean and the future of enterprise AI](https://www.youtube.com/watch?v=lYz5MQvK3wU)** — 2025-08-05 · en · `AX`
+  You're listening to Gradient Descent, a show about making machine learning work in the real world. And I'm your host, Lucas Bewald. This is a conversation with Arvin Jane, who I've known for a while. Arind is the CEO of Glean, which is one of the most successful enterprise companies using LM. Maybe right now the most successful um enterprise company that foundationally uses LMS.
+
+- **[CoreWeave infrastructure observability in W&B Models](https://www.youtube.com/watch?v=usso83LOwLE)** — 2025-08-04 · en · `AX`
+  Hi, I'm Russ from Weights and Biases and today I'll be discussing an exciting new integration between Coreweave and Weights and Biases that allows AI and ML engineers to automatically see Coreweave events in their W&amp;B models workspace. When training and fine-tuning AI and ML models at scale, where runs can last days, weeks, or even months, it's critically important to constantly track progress, or lack thereof.
+
+- **[Building agentic AI workflows with W&B Weave: a hiring assistant case study](https://www.youtube.com/watch?v=tRGoT1QV8VA)** — 2025-07-10 · en · `AX`
+  [Music] Hello everyone. This is Nico and Karan and today we'll be walking you through a state-of-the-art agent AI application focused on evaluation, guardrails, and auditability. For the purposes of this demo, we'll use a hiring agent. So here's what the overall higher level workflow looks like. So as you can see there's two main inputs. One is the resume and other is the job opening. So these would be the two inputs.
+
+- **[How DeepL Built a Translation Powerhouse with AI with CEO Jarek Kutylowski](https://www.youtube.com/watch?v=-ikvSn6xB1I)** — 2025-07-08 · en · `AX`
+  You're listening to Gradient Descent, a show about making machine learning work in the real world. And I'm your host, Lucas Bewald. [Music] Today I'm talking with Yaric Kotalowski. He is the CEO of Deep L, which is a very successful genai company. You might not have heard of it because what they do is translation and a primary focus of their business is on enterprise but they are making really really significant revenue off of a really specific Genai use case.
+
+- **[LLMOps for eval-driven development at scale](https://www.youtube.com/watch?v=73nusFz3uHs)** — 2025-07-08 · en · `AX`
+  So nice to meet you guys. This is Shang Min. As I said, I'm based in Tokyo. I work in Mer Curry and I work in the the team called AIM team as a software engineer, but I doing a lot of stuff from ML to DevOps and other stuffs. Today I'm going to talk about apps and ARM ops actually.
+
+- **[Physical Intelligence Unleashed: Building robust AI at scale for Edge Devices](https://www.youtube.com/watch?v=Ko0hte0yD4c)** — 2025-07-07 · ko · `unclassified`
+  아날로그 디바이스(Analog Devices), 줄여서 ADI라고 부르는 회사를 잘 모르시는 분들을 위해 설명드리자면, 저희는 반도체 회사인 아날로그 디바이스에서 일하고 있습니다. 저희 회사의 주요 사업 중 하나는 물리적 세계의 데이터를 디지털 데이터로 변환하는 것입니다. 즉, 센서를 통해 데이터를 수집하고 측정합니다. 그리고 그 데이터를 다른 시스템에 연결하여 처리하고 전력까지 관리할 수 있는 기술도 갖추고 있습니다. 음, 그리고 저는 여러분이 주머니에 가지고 있는 휴대폰이 무엇이든 간에, 저희가 전력 공급을 돕고 관리해 드린다고 아주 자신 있게 말씀드릴 수 있습니다
+
+- **[The AI that solves the market: A new era in forecasting with natural language explainability](https://www.youtube.com/watch?v=zbmXulPIJpo)** — 2025-07-07 · ko · `AX`
+  여러분, 안녕하세요. 안녕. 제 말 들리세요? 시원한. 안녕하세요. 제 이름은 영입니다. 네, 저는 LGI 리서치의 사업 개발 및 파트너십 담당 이사입니다 . 음, 저는 특히 금융 서비스와 예측 분야에 집중하고 있습니다. 음, 시작하기 전에, 혹시 여기 재무 담당자분들 계신가요? 환영. 샌프란시스코에서는 그들을 찾기가 정말 어려워요 . 음, 알겠습니다. LG라는 회사는 익숙하실 수도 있지만, LG의 AI 연구에 대해서는 잘 모르실 수도 있습니다. 그럼 배경 설명을 간단히 드리겠습니다 . 저희는 LG그룹 산하의 기초 연구 기관입니다
+
+- **[The future of multi-agents in enterprises](https://www.youtube.com/watch?v=GpbmI5NtuSQ)** — 2025-07-07 · ko · `AX`
+  어, 여기 오게 되어 정말 기쁩니다. 크레이(Crayi)에 대해 들어보신 분 몇 분이나 되시나요? 손을 들어주세요 . 맙소사. 제가 이 질문을 했을 때 아무도 손을 들지 않았던 적이 있습니다. 그건 그다지 인상적이지 않았어요. 오늘 이렇게 여러분 모두를 뵙게 되어 정말 기쁩니다. 그리고 제가 인종과 편견에 대해 이야기 나누던 중에, 여러분 모두를 정말 좋아합니다. 정말 훌륭한 작품입니다. 음, 오늘 청중들에게 무슨 이야기를 해야 할지, 무엇을 공유해야 할지 생각해 봤어요. 그들에게 중요한 것은 무엇일까요?
+
+- **[Run the model, not the risk: Powering private inference for enterprise AI anywhere](https://www.youtube.com/watch?v=h6QBKL-i_8s)** — 2025-07-03 · ko · `AX`
+  안녕하세요, 저는 제니퍼이고 프토피아의 엔지니어링 부사장입니다. 오늘은 데이터를 보호하고 위험을 줄이면서도 어디서든 추론 엔드포인트의 강력한 기능을 활용하는 방법에 대해 이야기해 보겠습니다 . 더 많은 조직이 AI를 대규모로 도입함에 따라, Gen AI는 고객 상호 작용부터 핵심 운영에 이르기까지 모든 것에 깊숙이 자리 잡고 있습니다. 하지만 이러한 모델들이 아무리 강력하더라도 투자 수익률과 데이터 개인정보 보호 문제로 인해 도입이 저해되고 있습니다. 이 문제를 어떻게 해결할지 살펴보기 전에, 데이터 개인정보 보호가 간과될 때 어떤 일이 발생하는지 먼저 살펴보겠습니다
+
+- **[Scaling GenAI inference: Techniques, optimizations, and real-world lessons](https://www.youtube.com/watch?v=AU8EN8JoTcI)** — 2025-07-03 · ko · `unclassified`
+  강연에 오신 것을 환영합니다. 어, 여기 오게 되어 정말 기쁩니다. 오늘은 Geni 추론의 확장성에 대해 이야기하면서 최적화 기법과 AI 가속화 플랫폼에 초점을 맞추겠습니다. 제 발표의 로드맵은 다음과 같습니다. 음, 할 얘기가 많아요 . 그럼 먼저 배경 설명을 드린 후, 친숙한 추론과 주요 최적화 기법에 대해 알아보겠습니다. 그 다음에는 친화적인 엔드포인트를 소개하고 가중치와 편향을 사용하여 친화적인 엔드포인트를 사용하는 방법을 보여드리겠습니다. 그럼 배경 설명을 좀 드리겠습니다 . 먼저 GPU부터 시작해 볼까요?
+
+- **[Synthetic data in medical device AI: Challenges and opportunities](https://www.youtube.com/watch?v=ra1rM5qGWzM)** — 2025-07-02 · ko · `unclassified`
+  음, 저희는 새로운 의료기기를 활용하여 심장 치료를 개선하는 데 중점을 둔 AQ Med 사업부에 집중할 예정입니다 . 합성 데이터가 어떻게 사용되는지, 그리고 실제 환자로부터 실제 데이터를 수집할 때 기기 개발을 지원하기 위해 합성 데이터를 사용하는 한 가지 방법에 대해 이야기해 보겠습니다 . 그리고 마지막으로, 아직 데이터가 많지 않은 신제품 의료기기의 개발 일정을 어떻게 단축할 수 있는지에 대해서도 간략하게 이야기해 보겠습니다 . 자, 여기서는 심혈관 질환의 역할에 대해 좀 더 자세히 살펴보겠습니다
+
+## Google Developers (80건)
+
+- **[How are large language models trained?](https://www.youtube.com/watch?v=JRArFxEfyQU)** — 2026-07-22 · ko · `AX`
+  대규모 언어 모델은 방대한 양의 텍스트로 학습된다거나, 대규모 언어 모델은 시퀀스에서 다음 토큰을 예측한다는 말을 들어보셨을 겁니다 . 하지만 그 모든 것이 실제로 무엇을 의미하는 걸까요? 대규모 언어 모델은 실제로 어떻게 훈련되었을까요? 이 영상에서는 유용한 비서처럼 행동하고, 지시를 따르고, 도구를 사용하며, 전반적으로 적절한 분위기를 풍기며 반응하는 대규모 언어 모델을 훈련하는 단계를 살펴보겠습니다. 첫 번째 단계는 사전 훈련입니다. 이 단계에서 모델은 다음 토큰 예측이라는 작업을 통해 학습됩니다.
+
+- **[Antigravity Arcade: From prompt to game in minutes](https://www.youtube.com/watch?v=8I7wr2hYFec)** — 2026-07-17 · ko · `AX`
+  안녕하세요, 저는 톰 그린어웨이이고 구글 개발자 관계팀 소속입니다 . 오늘 저는 동료 제임스 오라일리와 함께 구글 I/O를 위해 개발한 프로젝트인 안티그래비티 아케이드(Anti-Gravity Arcade)를 소개하겠습니다. 이 프로젝트를 통해 기존 개발자든 아니든 누구나 안티그래비티가 설치된 노트북과 다양한 AI 기술 및 워크플로를 활용하여 게임 아이디어만 있으면 몇 분 안에 AI가 게임을 완전히 생성하고 아케이드 기기에서 실행할 수 있습니다. 저희는 Anti-Gravity, Gemini, Cloud Run, Firestore 및 Firebase 인증을 포함한 다양한 Google 기술을 사용하여 이 워크플로 및 배포 흐름을 구축했습니다
+
+- **[Get started with the Interactions API](https://www.youtube.com/watch?v=iOK1-b_9Dlg)** — 2026-07-17 · ko · `AX`
+  Interactions API가 이제 정식으로 출시되었습니다. 이것은 모든 제미니 모델과 에이전트를 위한 통합 인터페이스이기 때문에 매우 흥미롭습니다. 단일 API를 통해 쉽게 액세스할 수 있습니다. 그리고 이건 정말 강력한 기능입니다. 왜냐하면 보시다시피, 모델과 상호작용을 만들어낼 수 있기 때문입니다. 그래서 이것은 동기식으로 진행될 것입니다. 음, 전화를 걸면, 아시다시피, 답변을 받을 수 있을 거예요. 또는, 예를 들어 원격 환경에서 반중력 에이전트가 정말 어려운 작업을 수행하도록 할 수도 있습니다. 여러 단계가 필요하고, 설치 설정 같은 것도 해야 하잖아요.
+
+- **[Build With AI 2026 Recap](https://www.youtube.com/watch?v=yGHi5V4sVkc)** — 2026-07-10 · ko · `unclassified`
+  가장 흥미로운 점은 사람들이 앞으로 어떤 프로젝트들을 만들어낼지 지켜보는 것입니다 . 저희는 기술 애호가들(음악 분야)이 구글 도구를 사용하는 방법을 배울 수 있도록 정기적으로 이벤트를 개최하고 있습니다 . 그들이 제공하는 모든 제품을 마음껏 사용해보고, 인공지능도 활용해 보세요. 이것은 실제로 모든 분야의 개발자를 위한 AI 기반 도구입니다. 그러한 행사에 참석하는 음악 관련 사람들의 대부분은 개발자나 엔지니어입니다. 저는 이미 AI 교육 과정에 등록했어요 . 인공지능 에이전트는 우리 미래의 중요한 부분을 차지하게 될 것입니다.
+
+- **[Building an Android app in AI Studio](https://www.youtube.com/watch?v=KwJwYIqDMLY)** — 2026-07-07 · ko · `AX`
+  안녕하세요 여러분, 이번 튜토리얼에서는 안드로이드 앱을 만들고 휴대폰에 설치하는 방법을 보여드리겠습니다. 이 예시에서는 개인 맞춤형 할 일 목록 및 운동 추적 앱을 만들어 보겠습니다. 이 작업을 수행하는 데에는 기술적인 지식이나 안드로이드 관련 지식이 전혀 필요하지 않습니다. 간단한 프롬프트로 앱에 접근할 수 있습니다. 이를 위해 ai.studio로 이동한 다음 빌드 탭으로 이동하고 여기에서 Android 앱을 빌드할 칩을 선택한 다음 빌드할 내용을 설명할 수 있습니다 . 그럼 제가 예시 하나를 여기에 복사해 놓겠습니다.
+
+- **[Build agents with Gemini API (I/O Connect ‘26)](https://www.youtube.com/watch?v=d9LAQWKUnx8)** — 2026-07-06 · ko · `AX`
+  [음악] 제 이름은 마리아노입니다. 저는 구글 딥마인드에서 제품 관리자로 일하고 있습니다. 저는 주로 Gemini API의 에이전트 기능 관련 업무를 담당합니다 . 오늘은 Gemini API를 사용하여 에이전트를 구축해 보겠습니다. 하지만 그 전에 , 우리가 여기까지 오게 된 배경을 간략하게 살펴보고 싶습니다. 좋아요. 2024년 이후로 우리가 얼마나 많은 제품을 출하했는지 잠시 생각해 보고 싶습니다. 제미니 1.5로 시작해서 여러 모델을 거쳐왔고, 제미니 2.5처럼 많은 사랑을 받은 모델도 있었고 , 이제 마침내 제미니 3.
+
+- **[Build creative apps with the GenMedia suite (I/O Connect ‘26)](https://www.youtube.com/watch?v=nRLZqaNOrwQ)** — 2026-07-06 · ko · `AX`
+  [음악] 저는 기욤입니다. 저는 구글 딥마인드의 제미니 팀 소속으로 , 저희가 출시하는 모든 모델을 여러분이 필요로 하는 모든 것을 활용할 수 있도록 지원하는 일을 맡고 있습니다 . 특히 저는 오늘 우리가 이야기할 제미니 모델들을 전문적으로 담당하고 있습니다. 음, 그리고 보시다시피, 저는 예전에 비디오 게임 프로듀서로도 일했었습니다. 음, 그렇다면 우리가 왜 쌍둥이자리에 대해 이야기하고 싶어하는 걸까요 ? 하지만 우리 주변의 모든 것이 쌍둥이자리이기 때문이죠. 몇 년 전만 해도 LLM 과정은 정말 훌륭했죠.
+
+- **[Create agent skills for on-device generative AI (I/O Connect ‘26)](https://www.youtube.com/watch?v=KIp8PAU3oAI)** — 2026-07-06 · ko · `AX`
+  [음악] 안녕하세요 여러분. 저는 구글 AI 엣지 팀 에서 개발자 관계 엔지니어로 일하는 마리암 월시입니다 . 그리고 저와 함께 발표를 맡아주신 분은 레자 헤다야티 씨입니다. 안녕하세요. 경량 TLM 개발에 참여하는 소프트웨어 엔지니어입니다 . 오늘은 기기 내 생성형 AI를 위한 에이전트 스킬을 직접 만드는 방법을 알려드리겠습니다 . 자, 여기 계신 분들 중에 클라우드 환경에서 모델을 실행해 본 경험이 있는 분이 몇 분이나 되시나요? 누구나? 시원한. 음, 기기에서 모델을 실행해 본 사람이 몇 명이나 될까요 ?
+
+- **[Dynamic Callbacks on Android for Google Pay](https://www.youtube.com/watch?v=WZvd1tUreTY)** — 2026-07-06 · ko · `unclassified`
+  안녕하세요, 구글 페이 개발자 여러분. 이벤트 기반 배송 업데이트는 웹용 Google Pay의 표준 기능이었지만 , 이제 모바일에서도 동일한 기능을 제공합니다 . 이 영상에서는 안드로이드 앱이 배송 및 주소 변경 사항에 실시간으로 반응할 수 있도록 새로운 동적 콜백을 구현하는 방법을 보여드리겠습니다 . Play Services Wallet 20.0.0 버전 출시로 이제 Android 애플리케이션에서 결제 데이터 변경 및 결제 승인 콜백을 기본적으로 구현할 수 있습니다 .
+
+- **[Sameer Samat on Android 17 and the Future of Intelligent Computing](https://www.youtube.com/watch?v=YvVsdZL2ogY)** — 2026-06-30 · ko · `AX`
+  저는 음악이 틀을 벗어던지길 바랄 뿐입니다. 솔직히 말해서, 다시는 서류 작성을 하고 싶지 않아요 . 여름휴가를 위해 항공편을 여러 개 예약했는데, 15살짜리 딸아이 여권 번호를 외워버렸어요. 하지만 그걸 외우고 싶진 않거든요. 저는 제 집이 없어요. 응. 음, 제가 너무 여러 번 시도하다 보니, 마치 제정신이 아닌 것 같아요 . 그래서 슈퍼필은 우리 모두가 이름, 주소, 신용카드 정보 등을 자동 완성하는 데 익숙해진 기능과 같습니다. [음악] 슈퍼필은 그것을 훨씬 더 많은 분야로 확장한 것입니다
+
+- **[Gemma 4 in Action: Bringing Frontier AI to the Edge](https://www.youtube.com/watch?v=HcwMTu1xQDw)** — 2026-06-29 · ko · `unclassified`
+  오늘날 가장 강력한 AI 모델들은 모두 한 가지, 즉 인터넷 연결에 의존합니다 . 이는 전 세계 수십억 명의 사람들이 사실상 배제된다는 것을 의미합니다. 그래서 젬마는 [음악을 통해] 새로운 질문을 던지기 위해 태어났습니다 . 최첨단 지능이 어디서든 어떤 기기에서든 작동할 수 있게 되면 세상은 어떻게 변할까요? 젬마는 오픈 모델입니다. 이 단체는 인공지능을 최대한 많은 사람들이 이용할 수 있도록 하기 위해 존재합니다 . 이 소프트웨어는 오늘날 사람들이 사용하는 다양한 기기에 배포하기에 적합한 크기를 제공함으로써 이를 가능하게 합니다.
+
+- **[AI tools for human creativity](https://www.youtube.com/watch?v=cL7uFe5RqHY)** — 2026-06-26 · ko · `AX`
+  지금은 인간이 가장 창의적이어야 하는 시대입니다. [음악] 토토, 왠지 우리가 더 이상 캔자스에 있는 것 같지 않아 . [소리 지르며] 그렇지? [음악] 네. 내가 가진 건 뭐지? [음악] 좋아요. [음악] 안녕하세요 여러분. 안녕하세요 여러분, 인간의 창의성을 위한 AI 도구에 오신 것을 환영합니다 . 저희와 함께해 주셔서 정말 기쁩니다 . IO에서 처음으로 열리는 빌더 스테이지에 오신 것을 환영합니다. [환호] [박수] 제 이름은 매튜 캐리입니다. 저는 알렉스입니다. 저희는 구글 크리에이티브 랩이라는 팀 소속입니다
+
+- **[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)** — 2026-06-26 · ko · `unclassified`
+  지금 바로 그렇게 하도록 선택하세요. 늘 그렇듯이. [음악] 젬마의 또 다른 활용 분야는 로봇 공학이나 사물 인터넷 기기 같은 것들입니다. 따라서 노트북이나 데스크톱 같은 하드웨어 뿐만 아니라 라즈베리 파이, 젯슨, 오린 나노 같은 기기에서도 모델을 실행할 수 있습니다. 그리고 이 모델들은 로봇이 그러하듯이 음악이라는 세계와 상호작용할 수 있습니다 . 그래서 그들은 보고 들을 수 있고, 당신을 대신해서 행동할 수 있습니다 . 여기 있는 것은 Hugging Face와 Pollen Robotics가 만든 Reachy Mini입니다
+
+- **[Gemini 3.5 Live Translate, Gemini in Xcode, and more! - Google Developer News June 2026](https://www.youtube.com/watch?v=UlbokBsjMRY)** — 2026-06-25 · ko · `AX`
+  -개발자 뉴스 최신화입니다 오늘 소식은 Gemini 3.5 Live Translate AI Edge 기반 Gemma 4 12B와 Xcode에 통합된 Gemini 관련 내용입니다 저는 진행자 Anaya Mehta입니다 Google I/O에서 전해드린 Google 개발자 발표 내용을 꾸준히 챙겨 보셨기를 바랍니다 아니더라도 오늘 알려드릴게요 지금 시작합니다 GOOGLE 개발자 뉴스 먼저 Gemini 3.5 Live Translate 소식입니다 Google에서 Gemini 3.5 Live Translate이라는 새로운 S2S 모델을 출시했습니다 70여 개 언어를 준실시간으로 통역할 수 있습니다
+
+- **[Gemma Playground: Parallel Agents in Action](https://www.youtube.com/watch?v=bfvS1UeAkN0)** — 2026-06-22 · ko · `AX`
+  Gemma 4의 강력한 멀티 에이전트 기능을 시연하는 자리에 오신 것을 환영합니다. 오늘은 Gemma 4 26B 모델을 사용하여 로컬에서 실행되는 병렬 에이전트 데모 [음악]를 살펴보겠습니다 . 먼저 시스템에 간단한 상위 수준 명령을 입력합니다. 우주 또는 SF 테마를 기반으로 독창적인 SVG 파일을 생성하세요 . [음악] 즉시, 오케스트레이터 에이전트가 이 프롬프트를 받아 작업량을 위임합니다. 오케스트레이터는 이러한 이미지를 하나씩 생성하는 대신 10개의 독립적인 하위 에이전트를 생성합니다.
+
+- **[Gemma 4 and the AI Edge Gallery: On-Device AI Gets an Upgrade](https://www.youtube.com/watch?v=O6499i4TFYA)** — 2026-06-18 · ko · `unclassified`
+  여러분, 제 이름은 올리비에입니다. 저는 Gemma 제품 리더이며, 오늘은 Gemma와 AI 엣지 갤러리 구현에 대해 이야기해 보겠습니다. 안녕하세요, 저는 거스입니다. 저는 한동안 젬마 팀에서 일했어요 . 저는 이 제품을 정말 좋아하고, 젬마에 대해 조금 이야기할 수 있게 되어 매우 기쁩니다. 안녕하세요, 저는 앨리스입니다. 저는 Google AI Edge의 제품 관리자입니다. 오늘 이 자리에 함께하게 되어 기쁩니다. 너무 멋지다. 자, 그럼 AI 엣지에 대해 좀 더 구체적으로 이야기하기 전에, Gemma 4 에서 무엇을 출시했는지 간단히 되짚어보는 시간을 갖는 건 어떨까요 ?
+
+- **[Gemma Playground: AI Edge Gallery](https://www.youtube.com/watch?v=XkwQwBZ_Q8w)** — 2026-06-18 · ko · `AX`
+  대부분의 사람들은 젬마 모델이 노트북, 데스크톱 등 다양한 기기에서 작동할 수 있다는 것을 알고 있습니다. 하지만 휴대폰에서도 작동한다는 사실은 잘 모르는 사람들이 많습니다. 저는 지금 픽셀 10 프로를 사용하고 있고, 구글 AI 엣지 갤러리 앱을 실행 중입니다. 그리고 제가 여러분께 보여드릴 것은 Gemma를 사용하여 사진을 찍고, 세상을 이해하고, 오디오를 녹음하고, 음악 에이전트 와 에이전트 스킬을 사용하는 방법입니다. 이 모든 기능은 이 기기에서 로컬로 실행됩니다 .
+
+- **[Run Gemma on the edge with the Coral Board](https://www.youtube.com/watch?v=o2rUT2GloV0)** — 2026-06-15 · en · `unclassified`
+  This is CoralBoard, built for on-device AI with Google's Coral MPU machine learning accelerator inside. Small, [music] low power, and built for developers to experiment with on embedded devices. And it runs Gemma. Everything happens on the board. &gt;&gt; [music] &gt;&gt; So, we packaged it into a kit for IO, a screen, a camera, microphones, LED, everything you need to see what's possible on the edge.
+
+- **[AIventure: Vibe Coding Journey](https://www.youtube.com/watch?v=xQcbwGS6Ahc)** — 2026-06-12 · en · `AX`
+  - Want to learn how to build agentic workflows and integrate vibe coding into your apps? Well we built AIventure, an open source retro dungeon crawler that doubles as a Gen AI masterclass for developers. Built on an Angular and Phaser.js stack, AIventure is powered by Google's Gemma 4 open weights model. First, we'll explore vibe coding. You prompt a Chicken NPC to build a web app.
+
+- **[Yossi Matias on the golden age of research](https://www.youtube.com/watch?v=FPBwadTeph0)** — 2026-06-11 · ko · `AX`
+  미래에 가장 중요한 음악적 기술은 무엇일까요? 기초를 어느 정도까지 배워야 하는지에 대해서는 논쟁의 여지가 있습니다. 개인적으로는 음악을 코딩하는 방법이나 기초 컴퓨터 과학 등을 생각하는 것이 그 어느 때보다 중요해질 것이라고 생각합니다. 동의합니다. 제 말은, 저는 컴퓨터 과학은 언어를 배우는 게 아니라고 항상 생각해 왔다는 거예요. [음악] 생각하는 법을 배우는 거예요. 네. 그래서 어떤 의미에서는 계산기가 보편화된 이후에도 수학이 중요한 이유와 마찬가지로, 앞으로는 그 어느 때보다 더 중요해질 것입니다. 안녕하세요 여러분, 잘 지내시나요?
+
+- **[Gemma Playground: Robot Duck](https://www.youtube.com/watch?v=pLwB_63yUBY)** — 2026-06-09 · ko · `unclassified`
+  저는 오텀이라는 이름의 작고 두 발로 걷는 로봇 오리입니다. 오늘 저는 Gemma 4가 기기에서 무엇을 할 수 있는지 보여주기 위해 이 두 마리의 작은 [음악] 오리를 여러분께 소개하게 되어 매우 기쁩니다 . 이것들은 GitHub의 Antoine Piron이 만든 오픈형 미니 오리 버전 2입니다 . 그리고 그 아이디어는 Gemma 4의 성능을 활용하여 기기 내에서 추론을 수행하고 오리들을 더 똑똑하게 만드는 것이었습니다.
+
+- **[Introducing Gemini 3.5 Live Translate](https://www.youtube.com/watch?v=TNwKs39uSVk)** — 2026-06-09 · ko · `unclassified`
+  안녕하세요 여러분, 오늘은 끊김 없는 음성 대 음성 번역을 위해 개발된 최신 모델인 Gemini 3.5 Live Translate를 출시하게 되어 매우 기쁩니다 . 이미 구글 번역에서 다양한 기능을 제공하고 있지만 , 이제 API를 통해 개발자들이 직접 이 기능을 사용할 수 있도록 제공합니다 . 오늘부터 70개 이상의 지원 언어에 걸쳐 입력과 출력 모두에 실시간 번역 기능을 통합할 수 있습니다 . 두 가지 데모를 통해 이 제품의 기능을 보여드리겠습니다.
+
+- **[Managed Agents in the Gemini API](https://www.youtube.com/watch?v=Psa8mLikdag)** — 2026-06-03 · ko · `AX`
+  오늘은 Gemini API의 관리형 에이전트에 대해 이야기해 보겠습니다 . 알리와 필립 둘 다 그 일에 참여했습니다. 알리, 제미니 API의 관리형 에이전트 관련 소식부터 간단히 소개해 주시겠어요? 네, 당연하죠. 간단히 말해서, API 호출 한 번으로 사용자를 대신하여 문제를 창의적으로 해결할 수 있는 자율 에이전트를 얻을 수 있습니다. 이것의 흥미로운 점 중 하나는 샌드박스 형태의 리눅스 환경과 유사한 원격 환경에서 작동한다는 것입니다. 따라서 문제를 해결하기 위한 코드를 작성하거나, bash 명령어를 사용하는 등 온갖 종류의 작업을 수행할 수 있습니다
+
+- **[Getting Started with Managed Agents](https://www.youtube.com/watch?v=0YXe7u-i1qU)** — 2026-06-02 · ko · `AX`
+  안녕하세요 여러분, 저는 Gemini API 팀의 패트릭입니다. 이번 튜토리얼에서는 Gemini API와 AI Studio를 사용하여 관리형 에이전트를 구축하는 방법에 대한 개요와 빠른 시작 방법을 알려드리겠습니다. 이는 사용자가 맞춤형 에이전트를 쉽게 구축할 수 있도록 하는 새로운 기능입니다. 이러한 에이전트는 Google 에서 호스팅하는 안전한 Linux 샌드박스에서 실행되며, 추론하고 코드를 작성하고 시스템 파일에 코드를 저장하고 파일을 관리할 수 있습니다. 또한 웹을 탐색할 수 있으며, 사용자는 이러한 에이전트를 쉽게 맞춤 설정할 수 있습니다.
+
+- **[Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)** — 2026-06-01 · ko · `unclassified`
+  [음악] 안녕하세요 여러분. 제 이름은 토르입니다. 저는 Gemini API와 Google AI Studio를 활용하여 작업합니다. 오늘 이렇게 함께해 주셔서 정말 기쁩니다. 저희는 이러한 실시간 대화형 인터뷰 파트너를 구축하고자 합니다. 음, 저희는 여기서 저희 애플리케이션에 포함시키고 싶은 기능들을 간단히 선택할 수 있습니다. 비디오 인식, 오디오 텍스트 변환, 음성 생성 등 다양한 기능들이 있습니다. 그래서 우리가 할 수 있는 일은 아주 많습니다. 저희는 실시간 대화형 에이전트를 구축하고자 합니다.
+
+- **[Gemini co-leads on project origins and what's next](https://www.youtube.com/watch?v=8hfpLa5wPGo)** — 2026-05-29 · ko · `AX`
+  제미니 프로젝트를 시작하기 전부터 많은 사람들이 다양한 용도로 활용할 수 있는 범용 모델을 만드는 것에 대해 생각하고 있었습니다 . 오리엘은 딥마인드에서 몇 가지 노력을 주도하고 있었고, 저는 패스웨이 프로젝트와 팜, 팜 2 등과 관련된 몇 가지 노력을 이끌어가는 데 도움을 주고 있었습니다. 사실 전 이게 어리석은 짓이라고 말했어요. 우리는 노력과 컴퓨팅 자원을 분산시키고 있는데, 정말 강력한 모델을 구축하려면 모두가 함께 모여 단일 모델 구축에 힘써야 합니다 . 사실 쌍둥이자리라는 이름은 거기서 유래했어요.
+
+- **[Developer Keynote (Google I/O '26) - Audio Described](https://www.youtube.com/watch?v=eC7t22gDwWo)** — 2026-05-26 · ko · `AX`
+  캘리포니아주 마운틴뷰의 무대에서 조쉬 우드워드가 걸어 나오자 인공지능이 생성한 연사 이름 카드에 [음악] 조쉬가 펼쳐진 책 속에서 농구 코트를 가로질러 조깅하는 애니메이션 이미지가 나타납니다 . 네, 개발자 여러분, 다시 오신 것을 환영합니다. 다들 잘 지내시나요? [환호] 좋아요, 다시 만나서 정말 반갑고, 우리가 불과 1년 전에 어디에 있었는지 생각해보니 정말 신기하네요. 오늘 아침, 여러분은 제미니 전역에서 이루어진 발전에 대한 모든 소식을 들었습니다. 저희는 새로운 Omni 모델과 새로운 Gemini 3.
+
+- **[What's new in Google AI](https://www.youtube.com/watch?v=SSe1VmVrtw0)** — 2026-05-23 · ko · `AX`
+  [음악] 놀랍네요. 모두 환영합니다. Google IO에 오신 것을 환영합니다. 구글 AI의 새로운 소식을 전해드립니다. 기조연설 후 이어지는 첫 번째 세션에 오신 것을 환영합니다 . 다들 정말 신나시나요? 응. 우와! 놀라운. 오늘 이렇게 동료 아마르와 함께 이 자리에 설 수 있게 되어 정말 기쁩니다. 제 이름은 페이지입니다. 저는 구글 딥마인드에서 개발자 관계팀의 엔지니어 리더를 맡고 있습니다 . 그리고 저는 Amar I에서 AI 스튜디오의 제품 및 디자인을 총괄하고 있습니다. 정말 멋지네요.
+
+- **[Bring the power of on-device AI to life with Google AI Edge and Gemma](https://www.youtube.com/watch?v=boy-UjB8hpA)** — 2026-05-22 · ko · `AX`
+  [음악] 안녕하세요 여러분. 저는 사친 코타리이고, 구글 AI 엣지 팀의 그룹 제품 관리자입니다 . 오늘 저와 함께 발표를 해주실 분은 팀 의 개발자 관계 엔지니어인 아론 월시입니다 . 오늘은 모바일, 데스크톱, IoT 등 모든 엣지 환경에서 온디바이스 AI를 구현할 수 있는 구글의 도구 모음에 대해 이야기해 보겠습니다 . 2026년은 기기 내장형 AI에 있어 특별한 시기입니다. 가능성과 앞으로 다가올 일들에 대한 짜릿한 에너지와 열정이 느껴집니다.
+
+- **[Google I/O 2026 Recap with Logan Kilpatrick, Josh Woodward and Tulsee Doshi](https://www.youtube.com/watch?v=RsDSeMXaCak)** — 2026-05-22 · ko · `unclassified`
+  릴리스 노트에 다시 오신 것을 환영합니다. 제 이름은 로건 킬패트릭입니다. 저는 구글 딥마인드 팀 소속입니다. 오늘은 환상의 콤비, 조쉬와 툴시가 함께합니다. 우리가 돌아왔습니다. 어쩌면 우리가 바로 환상의 트리오일지도 몰라. 좋아요. 구글 I/O 2026 현장에 다시 왔습니다. 어제 정말 많은 발표와 재미있는 신제품 출시, 모델 공개, 제품 출시 등 온갖 일들이 있었네요 . 모델에 대해 먼저 이야기해보고, 그 다음에 제품에 대해 이야기해 보는 건 어떨까요? 좋네요. 재밌겠네요. 응. 그럼 우리를 쫓아내고 싶다는 건가요?
+
+- **[The future of software development](https://www.youtube.com/watch?v=v0RQiNJ9nhw)** — 2026-05-22 · ko · `AX`
+  저는 이번 대화를 통해 여러 업데이트 사항에 대해 이야기하고 구글의 다양한 부서 담당자들의 의견을 들어볼 수 있기를 기대했습니다. 토시, 툴시 도시는 딥마인드 내 모델 팀을 이끌고 있으며, 이 모든 모델을 출시하는 데 공모자입니다 . 음, 마이클은 이전에 Vert.ex AI 팀으로 알려졌던 Gemini Enterprise 에이전트 플랫폼을 이끌고 있습니다. 어, 그리고 그는 전반적인 기업 고객들에게 모델을 제공하는 데 정말 집중하고 있습니다. 음, 그리고 베루인이 반중력 팀을 이끌고 있습니다.
+
+- **[What's new in the Gemma open model family](https://www.youtube.com/watch?v=oUtiZbrehrw)** — 2026-05-22 · ko · `AX`
+  [음악] 여러분, 제미니 오픈 모델 제품군의 새로운 소식을 전해드립니다. 제 이름은 올리비에이고, 제미니의 제품 리더입니다. 오늘 저와 함께 저희 팀의 제품 매니저인 거스와 개발자 관계 엔지니어인 얀 발렌타인이 참석할 예정입니다 . 그렇다면 쌍둥이자리란 무엇일까요? Gemini는 Google DeepMind에서 개발한 오픈 웨이트 대규모 언어 모델입니다 . 저희는 2024년에 간단한 전제를 바탕으로 제미니를 시작했습니다 . 어디서든 실행 가능하고 필요에 따라 완벽하게 맞춤 설정할 수 있는 모델을 어떻게 만들 수 있을까요 ?
+
+- **[A fireside chat on the evolution of the developer craft](https://www.youtube.com/watch?v=VTYx7Ex-0bA)** — 2026-05-21 · ko · `AX`
+  네, 모두 환영합니다. 오늘 함께해 주셔서 감사합니다. 저희는 무대에 함께 선 적이 없는 몇몇 분들과 재미있는 대화를 나눌 예정입니다. 저희 팀에는 제가 만난 엔지니어 중 가장 실용적이고 재능 있는 아자가 있습니다. 시에라는 구글 엔지니어들이 매일 하는 일과 우리가 어떻게 더 나아지는지에 대해 매우 흥미로운 연구를 하고 있는데, 저는 항상 그녀의 통찰력을 좋아합니다. 그리고 애디는 현대 AI 개발이 어떤 모습이어야 하는지에 대해 가장 창의적이고 사려 깊은 연구를 진행하고 있습니다 .
+
+- **[A new era of discovery: AI and the frontiers of science with Demis Hassabis](https://www.youtube.com/watch?v=dgBLVm2L1P4)** — 2026-05-21 · ko · `unclassified`
+  [음악] [박수] 저는 Axios의 공동 창립자인 마이크 앨런입니다. 이러한 대화를 가능하게 해주신 Google I/O 팀에 감사드립니다 . 데미스 하사비스는 체스 천재이자 게이머로 시작했습니다. 현재 구글 딥마인드의 공동 창립자 겸 CEO로서, 그는 인공지능을 둘러싼 과학계 경쟁 과 비즈니스 경쟁의 최전선에 서 있습니다. 딥마인드의 획기적인 AI 기술 성과로는 50년 동안 풀리지 않았던 단백질 구조 규명이라는 난제를 해결한 알파고와 알파폴드가 있습니다. 데미스는 그 암호를 해독한 공로로 노벨 화학상을 수상했습니다.
+
+- **[Beyond the keynote with Sundar Pichai](https://www.youtube.com/watch?v=9C20esBUf-Q)** — 2026-05-21 · ko · `unclassified`
+  환영. 환영. 감사합니다 . 구글 I/O 2026. 지금은 대화의 장입니다. 제 이름은 맷 ​​버먼입니다. 저는 포드 퓨처의 CEO입니다. 오늘 저는 지난 10년간 구글을 이끌어 오신 분과 이야기를 나눌 수 있게 되어 매우 기쁩니다. 순 다르 피차이를 환영해 주세요. 괜찮은. 함께해 주셔서 감사합니다. 이곳에 오게 되어 진심으로 기쁩니다. 모든 발표에 축하드립니다 . 음, 바로 본론으로 들어가고 싶네요 . 사실 최근에 당신이 구글 크롬의 초대 제품 관리자라는 사실을 알게 됐습니다. 아, 네 .
+
+- **[Build agents with Gemini API](https://www.youtube.com/watch?v=OdrOmc_RX8A)** — 2026-05-21 · ko · `unclassified`
+  [음악] 안녕하세요 여러분. 우리는 잘 지내고 있나요? 모두 괜찮으신가요? 다들 시원하게 지내시고 수분 섭취도 잘 하세요? 아직 안 마셨다면 지금 물을 한 모금 마셔 보세요. 오늘 여러분께 정말 멋진 데모 몇 가지를 보여드리겠습니다. 저희는 Gemini API를 사용하여 에이전트를 구축하고 있습니다 . 지금 이 세션은 역동적인 세션입니다. 그러니 원하시면 언제든 따라오셔도 좋습니다 . 구글 AI 스튜디오에서 Gemini API 키를 받는 것이 가장 쉬운 방법입니다. ai.studio에 접속하시면 왼쪽 하단에서 API 키 가져오기 기능을 찾으실 수 있습니다
+
+- **[Build core skills to thrive as an AI-era developer](https://www.youtube.com/watch?v=q_Jq4IgYImk)** — 2026-05-21 · ko · `AX`
+  [음악] 안녕하세요 여러분. 우리는 잘 지내고 있나요? [웃음] 자, 시작해 볼까요 . 우리는 지금 어떤 기분일까요? 흥분한? 자, 됐습니다 . 조금 부담스러우신가요? 궁금한? 호기심이 많기를 바랍니다. 좋아요. 안녕하세요, 저희는 앤드류와 니콜입니다. 저희 둘 다 구글의 개발자 인텔리전스 팀에서 팀장으로 일하고 있습니다. 그리고 우리는 함께 소프트웨어 엔지니어를 연구하며 커리어를 쌓아갑니다. 사람, 프로세스, 도구, 시스템, 문화. 우선 지금이 소프트웨어 엔지니어링에 있어 매우 중요한 순간이라는 점을 인식하는 것부터 시작하고 싶습니다 .
+
+- **[Build next-gen AI experiences with Google AI Studio and Google Antigravity](https://www.youtube.com/watch?v=orudZzP8vUc)** — 2026-05-21 · ko · `AX`
+  [음악] 모두 환영합니다. 안녕하세요, 잘 지내시나요? 좋아, 좋아, 이제 좀 낫네. 방 안 분위기는 어떤가요? 저는 소나 카라 슈케비치입니다. 저는 구글에서 V팀 한 곳을 담당하는 그룹 제품 관리자입니다 . 그리고 여러분은 오늘 아침 저희 방송을 보셨을지도 모릅니다 . 저는 미첼입니다. 저는 반중력 연구를 합니다. 엄청난. 그리고 구글 AI 스튜디오의 새로운 기능과 반중력에 대해 자세히 알려드리겠습니다. 바로 우리 앞에서 아마르 와 페이지가 구글 AI 스튜디오의 모든 기능을 자세히 설명해 드렸습니다.
+
+- **[Building agents with real-world reasoning](https://www.youtube.com/watch?v=e7gFaim6vLs)** — 2026-05-21 · ko · `AX`
+  [음악] 안녕하세요 여러분. 저는 마운틴뷰에 있는 구글 지도 플랫폼 팀의 켄입니다. 안녕하세요, 저는 브라질에서 연결된 구글 지도 플랫폼 팀의 카이오입니다. 오늘날 우리는 대규모 언어 모델과 물리적 세계 사이의 간극을 메우고 있습니다. 저희는 MCP 서버 로 제공되는 Google Maps Platform Grounding Light를 자세히 살펴보고 있습니다 . 이 영상을 끝까지 보시면 LLM 과정에서 ' 기반 다지기'가 실제로 무엇을 의미하는지, 그리고 왜 상담사들이 기반 다지기 없이 정확성을 유지하기 어려운지 확실히 이해하게 될 것입니다.
+
+- **[Building the quantum-AI future with Hartmut Neven and James Manyika](https://www.youtube.com/watch?v=yQPnb4gxKRc)** — 2026-05-21 · ko · `AX`
+  안녕하세요, 오늘 아침 이 세션에 참석해 주셔서 감사합니다. 제 이름은 제임스 마니카이고, 구글과 알파벳 에서 연구소, 기술 및 사회 부문 사장을 맡고 있습니다 . 아시다시피 , 구글은 매우 야심찬 문제와 도전 과제, 그리고 혁신적인 목표를 추구해 온 놀라운 실적과 역사를 가지고 있습니다 . 어떤 이들은 사실 검색 자체가 엄청난 도전이었고, 지금도 여전히 엄청난 도전이라고 주장할 수도 있을 것이다. 인공지능 분야의 연구는 어쩌면 달 착륙과 같은 엄청난 도전이었을지도 모릅니다.
+
+- **[Create advanced data driven Gemini API apps](https://www.youtube.com/watch?v=_Op9QfXDBuM)** — 2026-05-21 · ko · `AX`
+  완벽한 걸레 시스템을 구축해 본 적이 있나요? 음, 헝겝은 단단하죠. 이 영상에서는 Gemini의 파일 검색 API를 사용하여 강력한 RAG 시스템을 빠르게 구축하는 방법을 보여드리겠습니다 . 게다가, 좀 더 기다려주시면 고급 데이터 처리 기능도 몇 가지 보여드리겠습니다 . 저는 마크 맥도널드입니다. 저는 구글 딥마인드 개발자 경험 팀의 일원이며 주로 제미니 프로젝트를 담당하고 있습니다. 이 영상은 코딩 경험이 없어도 시청할 수 있지만, AI 앱을 개발하는 개발자를 위해 제작되었습니다.
+
+- **[Defining the agentic AI era](https://www.youtube.com/watch?v=bc4QwDd5jB0)** — 2026-05-21 · ko · `AX`
+  안녕하세요 여러분. Google IO 둘째 날에 오신 것을 환영합니다 . 어제 발표된 내용에 대해 여러분 모두 저희만큼 기대하고 계시길 바랍니다 . 멋진 것들이 많아요. 이거 정말 재밌을 것 같아. 제 생각에는 어제 제가 느낀 점은, 그리고 여러분도 궁금해하실지 모르겠지만, 쌍둥이자리와 함께 에이전트 시대가 본격적으로 시작된 것 같다는 느낌이었어요 . 그래서 저는 그 이야기의 세부 사항에 대해 궁금한 점이 많았고, 오늘 정말 멋진 손님들을 모시고 이야기를 나눠보겠습니다.
+
+- **[Directing the future: craft and creativity in the age of AI](https://www.youtube.com/watch?v=3AIme0FZr4g)** — 2026-05-21 · ko · `AX`
+  [음악] [환호] [박수] 네, 환영합니다. 제 이름은 미라 레인이고, 지금은 영화 제작자로서 가장 흥미진진한 시기 중 하나라고 생각합니다. 도구는 변화하고, 가능성은 확장되고 있으며, 이 세 명의 놀라운 사람들이 그 중심에 있습니다. 방금 들으셨듯이, 더그 리만은 &lt; 본 아이덴티티&gt;, &lt;미스터 앤 미세스 스미스&gt;, &lt; 엣지 오브 투모로우&gt;와 같은 영화를 통해 액션 장르를 재정립했으며, 세 사람은 공동 창업자입니다. 줄리나와 제드는 새로운 AI 영화 제작 스튜디오이자 인터랙티브 콘텐츠 제작 방식을 제시하는 30 Ninja's의 공동 창립자이기도 합니다 .
+
+- **[Grow your smart home business with Gemini for Home](https://www.youtube.com/watch?v=1ucAu7lTsmM)** — 2026-05-21 · ko · `unclassified`
+  [음악] 안녕하세요, 저는 구글 홈 팀의 제품 관리자 라이언입니다 . 작년에 저희는 Google Home을 Gemini 시대로 끌어올려 사용자가 단순히 기기를 제어하는 ​​것을 넘어 사용자를 대신하여 작동하는 홈 기능을 제공하게 되었습니다 . 당신이 알아차리기 전에 상황을 파악하고, 당신에게 가장 중요한 것이 무엇인지 아는 집. Gemini for Home은 이제 보안 및 홈 관리 서비스 제공업체를 위한 완벽한 AI 솔루션으로 제공됩니다. 수억 대의 기기에 액세스할 수 있는 Google Home API 와 자체 앱 및 서비스를 구축할 수 있는 Gemini 기능을 기반으로 구축되었습니다
+
+- **[Match what your AI does with what users want to do](https://www.youtube.com/watch?v=7UBmLXP_LKw)** — 2026-05-21 · ko · `AX`
+  [음악] 안녕하세요, 저는 야니 코르테시니이고 구글 코어 UX에서 전략 프로그램 매니저로 일하고 있습니다 . 오늘은 사용자의 의도를 AI가 수행할 작업으로 변환하고, 유용하고 신뢰를 구축하는 설명을 만들고 , 오류를 사용자가 제어할 수 있는 기회로 바꾸는 데 도움이 되는 Google의 '사람과 AI' 가이드북의 개념들을 살펴보겠습니다. 흔히 발생하는 문제점들을 심층적으로 분석하고, 사람 중심의 솔루션을 즉시 실행할 수 있도록 권장 사항을 제공해 드리겠습니다. 자, 시작해 볼까요? 인공지능은 우리가 제품을 만드는 방식을 근본적으로 바꿔놓았습니다 .
+
+- **[Physical AI: the new era of robotics](https://www.youtube.com/watch?v=jn3iypY-cN4)** — 2026-05-21 · ko · `unclassified`
+  [박수] 이곳에 오게 되어 정말 기쁩니다. 오늘 세션은 로봇공학의 미래에 대한 주제로, 두 명의 뛰어난 천재를 모셨습니다. 구글 딥마인드에서 로봇공학 부문을 이끌고 있는 켄지로가 있습니다. 로베르타 로드리게스는 보스턴 다이내믹스의 로봇 행동 부문 책임자입니다 . 여러분과 함께하게 되어 정말 기쁩니다. 여기 오게 되어 정말 기쁩니다. 네, 무대에 오신 것을 환영합니다 . 응. 음, 먼저 이 순간의 분위기를 차분히 다지는 것부터 시작하고 싶습니다. 음, 어렸을 때부터 로봇을 정말 좋아했어요.
+
+- **[Power the future of robotics with Gemini](https://www.youtube.com/watch?v=kCXQce1dtNE)** — 2026-05-21 · ko · `AX`
+  [음악] 안녕하세요, 저는 구글 딥마인드 에서 로봇 공학 분야 개발자 관계 책임자를 맡고 있는 폴 리스입니다 . 저를 잘 모르시는 분들을 위해 간단히 소개하자면, 저는 무언가를 만드는 사람입니다 . 정원 가꾸기나 목공처럼 간단한 기술이든, 사물 인터넷과 복잡한 기계를 다루는 첨단 프로젝트든, 저는 항상 현실 세계에서 무언가를 하는 것을 선호해 왔습니다. 그렇기 때문에 DeepMind 에서 저희가 로봇 공학 분야에서 진행하고 있는 모든 연구에 대해 여러분께 이야기할 수 있게 되어 매우 기쁩니다 .
+
+- **[Scale AI with Google's TPU software stack](https://www.youtube.com/watch?v=nC418kwKyLM)** — 2026-05-21 · ko · `AX`
+  [음악] 지난 몇 년 동안 구글은 인공지능 분야에서 놀라운 속도로 혁신을 이끌어 왔습니다. 이 타임라인을 살펴보면 제미니부터 젬마, 레오, 이매진, 그리고 바로 어제 발표된 옴니까지 모델과 방식이 어떻게 진화해왔는지 알 수 있을 것입니다 . 이 타임라인에서 놀라운 점은 단순히 출시 주기뿐만 아니라 매번 출시될 때마다 획기적인 기능들이 발휘된다는 것입니다. 멀티모달 이해, 추론, 에이전트 기반 워크플로우와 같은 것들입니다. 그래서 오늘은 한 단계 더 나아가 이러한 모델을 작동시키는 원리에 대해 이야기해 보려고 합니다 .
+
+- **[Software engineering at the tipping point](https://www.youtube.com/watch?v=2n41YjR5QfU)** — 2026-05-21 · en · `AX`
+  [music] &gt;&gt; Hey everybody, how you doing? Hey, that's pretty good. That's pretty good. 3:00 p.m. on a Wednesday, right? It's a Wednesday. Not so bad. Welcome to software engineering at the tipping point. My name is Adam Bender and today I'm going to talk to you about something called software ecology, a term you might not have heard before.
+
+- **[Google I/O 2026 Developer Keynote 5-Minute recap](https://www.youtube.com/watch?v=FZ-3BjbfNlI)** — 2026-05-19 · ko · `AX`
+  오늘부터 Gemini API의 Managed Agents를 통해 동일한 Antigravity 하네스 기능을 여러분도 사용할 수 있습니다 맞춤 지침, 도구, 데이터를 추가해 에이전트를 손쉽게 만들 수 있습니다 Gemini API를 한 번 호출하는 것만도 말입니다 시작을 도와드리기 위해 즉시 실행할 수 있는 새로운 맞춤 에이전트 세트도 추가했습니다 오늘 Antigravity SDK도 출시합니다 네 개발자와 연구자는 Gemini에 최적화된 바로 그 동일한 에이전트 하네스를 사용할 수 있으면서도 원하는 위치와 방식으로 실행할 수 있는 최대한의 유연성도 누릴 수 있습니다
+
+- **[Introducing Gemini Omni](https://www.youtube.com/watch?v=5T0yRNmNRi4)** — 2026-05-19 · en · `unclassified`
+  There's so many different kinds of edits that you can do and I think we weren't sure what exactly the model was going to pick up on but it actually like is very versatile.
+
+- **[Inside YC x Google DeepMind Startups Day](https://www.youtube.com/watch?v=sK7WSa3s0pQ)** — 2026-05-08 · en · `unclassified`
+  Hi there, my name is Paige and I'm here today at Y Combinator talking [music] to some of the founders who are building the future. &gt;&gt; Starcloud is building data centers in space. Luminary is AI platform for supply chain. It's a game called Radiant Bang and you can play it. We figure out what the users actually feel like. &gt;&gt; We're building quantum super intelligence.
+
+- **[Add databases to your app with AI Studio | Vibe Coding Guide](https://www.youtube.com/watch?v=YUmB-BnNs18)** — 2026-05-05 · en · `unclassified`
+  One of my favorite features of AI Studio is how easy it is to add a database with Cloud Firestore because most apps that you build won't be just static webpages. You're going to need to store information. Maybe you are collecting RSVPs for an event website or you are building a shared registry or gift wish list or a daily nutrition tracker. Whatever it is, most cases you are going to need a database.
+
+- **[Announcing Gemma 4, Google I/O ‘26 Updates, and more! - Google Developer News April 2026](https://www.youtube.com/watch?v=bKRe5wu4Fcw)** — 2026-04-30 · ko · `AX`
+  -오늘은 Google Cloud Next에서 발표된 최신 소식을 전해드립니다 새롭게 공개된 Gemma 4와 올해 Google I/O 라이브 스트리밍 시청 방법을 알려드립니다 GOOGLE 개발자 뉴스 Google Cloud Next는 Google Cloud 기반으로 개발하는 개발자들의 연례 최대 행사입니다 바로 지난주 라스베이거스에서는 미래의 구성 요소인 에이전틱 AI와 최신 인프라 그리고 실질적인 문제 해결에 오롯이 초점을 맞췄습니다 이번 대규모 행사에서 정말 흥미진진한 발표들이 많이 나왔어요 대규모 행사 얘기가 나와서 말인데 도시 전역에서 열리는 마라톤 같은 행사를 기획하는 건 정말 쉽지 않은 일이겠죠 하지만 AI 에이전트 팀이 모든 것을 조율할 수 있다면 어떨까요?
+
+- **[Building with Gemini Embedding 2: Our first natively multimodal embedding model](https://www.youtube.com/watch?v=_en7QoZ_utc)** — 2026-04-30 · en · `AX`
+  Hi, I'm Patrick and I'm a member of the technical staff at Google DeepMind. Today, we're excited to launch Gemini embedding 2 in general availability. Gemini embedding 2 is our first natively multimodal embedding model. It is based on Gemini and it directly maps text, images, video, audio, and documents into a single unified embedding space. So, let me give you a quick overview of the model and then show you how to use it with some code examples.
+
+- **[Unlocking Low-Level Control: Customizing Keras Training Loops with JAX](https://www.youtube.com/watch?v=1PZKfIyrYOc)** — 2026-04-30 · en · `AX`
+  When working with deep learning models, Keras provides a convenient model.fit API for training. But, what if your algorithm requires a custom training procedure and you still want to benefit from high-level features like callbacks and built-in distribution support? Well, Keras follows an important core principle. The progressive disclosure of complexity. This means you should be able to gain more low-level control without having to abandon all that high-level convenience.
+
+- **[Building Voice Agents with Gemini Live API and Agora’s Conversational AI](https://www.youtube.com/watch?v=2ltcbA2CCTo)** — 2026-04-29 · ko · `AX`
+  [음악] 안녕하세요 여러분. 제 이름은 메이슨입니다. 저는 Agora에서 현장 제품 관리자로 일하고 있으며, 개발자 경험 팀에서도 근무하고 있습니다 . 오늘은 Agora에서 Gemini 3.1 플래시를 사용하는 방법을 보여드리겠습니다. Agora는 매달 800억 분의 실시간 음성 및 영상 통화를 처리합니다 . 그럼 이제 코드를 살펴보겠습니다. 보시다시피, 여기 NextJS에서 제공하는 에이전트 빠른 시작 가이드가 있습니다. 이제 아주 간단하게 여기로 와서 URL을 복사하겠습니다. 이제 IDE를 실행하고 클론을 생성하겠습니다. 그런 다음 링크를 붙여넣으세요.
+
+- **[Introducing Keras Recommenders: state-of-the-art recommendation techniques at your fingertips](https://www.youtube.com/watch?v=ZYeE4sYoRkw)** — 2026-04-28 · ko · `AX`
+  Keras는 사용자 친화성과 접근성을 제공하는 반면, JAX는 고성능 수치 계산을 제공합니다. 이제 우리는 JAX 생태계 내에서 특히 상세한 상태 관리 및 고급 학습 기능을 위해 두 가지 강점을 모두 활용할 수 있습니다. 이 모든 것은 Keras와 Flax, NNX의 새로운 통합 덕분입니다 . 안녕하세요, 저는 유펑입니다. 오늘은 Keras와 Flax, NNX 모듈 시스템을 함께 사용하는 방법을 살펴보고, 이러한 통합이 변수 관리 및 학습 제어를 어떻게 향상시키는지 보여드리겠습니다.
+
+- **[Explore a high-scale agentic AI-powered simulation sandbox with Gemini Enterprise Agent Platform](https://www.youtube.com/watch?v=m6EyN2Z7HJk)** — 2026-04-23 · ko · `AX`
+  안녕하세요, 저는 톰 그린어웨이입니다. 저는 케이시 웨스트입니다. 저희는 구글 클라우드의 수석 개발자 옹호자입니다. 케이시, 마라톤 뛰어본 적 있어? 절대 아닙니다. 저는 배낭여행객이라 수백 마일을 걷는 것도 마다하지 않지만, 가장 오래 달려본 거리는 10km이고 솔직히 그것만으로도 충분했어요. 음, 엄청난 일이긴 하지만, 공인 마라톤 대회를 실제로 계획하는 건 훨씬 더 어려울 거라고 생각해요. 엄격한 핵심 기준을 갖춘 관리 기구 , 도시 물류, 도로 폐쇄 및 의료 텐트 배치 등이 있습니다. 정확히.
+
+- **[Fireside chat on an agentic simulation: Race Condition](https://www.youtube.com/watch?v=WYPdz3OZfuQ)** — 2026-04-23 · ko · `AX`
+  [음악] 안녕하세요 여러분. 오늘은 Cloud Next 개발자 기조연설을 위해 개발한 라스베이거스 마라톤 대회를 계획하기 위한 대규모 에이전트 시뮬레이션 프레임워크인 레이스 컨디션(Race Condition)에 대한 질의응답 시간을 갖기 위해 왔습니다. 저는 케이시 웨스트와 함께 있습니다. 저는 톰 그리너웨이입니다. 네, 그래서 저희는 함께 시뮬레이션 소프트웨어 자체를 개발했는데, 이 소프트웨어는 오픈 소스이며 개발자 솔루션도 개발했습니다. 하지만 저희는 이 건물이 어떻게 지어졌는지, 왜 지어졌는지, 그리고 건축 과정에서 어떤 점들을 고려해야 했는지에 대해 간단히 이야기해 보는 것도 흥미로울 것 같다고 생각했습니다
+
+- **[Introducing Agents CLI in Agent Platform](https://www.youtube.com/watch?v=ECYKo70pPNc)** — 2026-04-22 · ko · `AX`
+  여러분, 안녕하세요. 개발자들로부터 클라우드 기반 음악 에이전트 구축이 현재 파편화되어 있다는 이야기를 자주 듣습니다. 네, 그리고 AI 코딩 도우미에게 도움을 요청하면, 음악 API에 대한 환각만 계속 반복하면서 무한 루프에 빠져버립니다 . 꽤 복잡해질 수 있어요. 그래서 오늘 저희는 Agency CLI를 발표하게 되어 매우 기쁩니다 . [음악] ADK 에이전트를 구축하고 배포하는 과정을 매우 간단하게 만들어주는 단 하나의 도구입니다. 당신뿐만 아니라 당신의 코딩 담당자에게도 마찬가지입니다. Gemini CLI, Antigravity 또는 이미 사용 중인 다른 코딩 에이전트와 같습니다
+
+- **[Add Telephony to a Gemini Live Agent](https://www.youtube.com/watch?v=FCb4LSzPVmo)** — 2026-04-21 · ko · `unclassified`
+  [음악] 안녕하세요. 오늘 제가 무엇을 도와드릴까요? 당신은 누구시죠? 저는 여러분의 든든한 AI 비서로서, 언제든 도움을 드리거나 어떤 이야기든 나눌 준비가 되어 있습니다 . 무슨 생각을 하고 있나요? 음, 이름이 어떻게 되세요? 우리는 사람들처럼 딱히 정해진 이름이 없어요 . 저를 친근한 채팅 친구라고 생각하시면 됩니다. 제가 또 도와드릴 일이 있을까요? 당신은 쌍둥이자리인가요? 아, 저는 사실 구글에서 학습시킨 대규모 언어 모델입니다. 저를 만들어준 팀이 바로 그 팀입니다. 더 궁금한 점이 있으신가요 ?
+
+- **[Deep Research Max: A step change for autonomous research agents](https://www.youtube.com/watch?v=CfYx8FF26u8)** — 2026-04-21 · ko · `unclassified`
+  구글이 제미니 딥 리서치에 새로운 업데이트를 출시했는데 , 기능이 크게 향상되었습니다. 저희에게 가장 먼저 와닿았던 것은 음악의 속도와 방대함이었습니다 . 음악 덕분에 누구나 모든 과학 문헌을 평가해야 하는 까다로운 과학적 질문을 하고 답을 찾을 수 있게 되었으며, 몇 주 또는 몇 달을 기다리지 않고 며칠 만에 질문에 대한 답을 얻을 수 있게 되었습니다. 딥 리서치가 음악 분야에서 인상적으로 해낼 수 있는 것은 양적 데이터를 보다 질적인 음악 데이터와 연결하여 생동감 있게 표현하는 것입니다
+
+- **[Meet DESIGN.md: A new open standard for AI-generated UI](https://www.youtube.com/watch?v=W1gWIQp9k1Y)** — 2026-04-21 · ko · `unclassified`
+  Design MD는 [음악]의 시각적 정체성을 설명하는 텍스트 파일로, 담당자에게 디자인 시스템에 대한 지속적이고 체계적인 이해를 제공합니다 . 그 안에는 디자인 작동 방식을 정의하는 모든 음악적 요소가 담겨 있습니다. 색상과 그 용도, [음악] 타이포그래피와 사용 이유, 그리고 이 모든 것들이 어떻게 조화를 이루는지에 대한 규칙 같은 것들이죠 . Stitch가 프로젝트에 대한 새로운 디자인을 생성할 때 , 어떤 디자인을 결정해야 하는지 알기 위해 이 파일을 읽습니다 . 이 캔버스에서 그 모습을 확인할 수 있습니다
+
+- **[Build a Voice-Enabled Telegram Bot with the Gemini Interactions API](https://www.youtube.com/watch?v=J716eJOAnqE)** — 2026-04-16 · ko · `unclassified`
+  [음악] 얘들아, Gemini Flash Lights랑 Gemini Interactions API를 이용해서 텔레그램에 간단한 음성 메시지 봇을 만들어볼까 생각 중이야. Gemini Flash API와 Gemini Interactions API를 사용하여 텔레그램 음성 메시지 봇을 구현하는 것은 분명히 가능합니다. Flash는 이러한 작업에 빠르고 효율적이며, API는 대화 흐름 관리를 지원합니다 . 기술 설정 시작에 도움이 필요하신가요 ? 응. 시작하려면 텔레그램 봇 토큰 하나가 필요합니다. 텔레그램에서 @BotFather를 사용하여 봇을 만드세요. 두 번째는 구글 AI 스튜디오입니다. Gemini 모델용 API 키를 받으세요.
+
+- **[How to implement Google Pay merchant-initiated transactions](https://www.youtube.com/watch?v=1skEw28hsrw)** — 2026-04-15 · ko · `unclassified`
+  안녕하세요, 개발자님. 제가 구글 페이를 이용한 정기 결제에 대해 이야기했던 영상 기억하시나요? 정말 좋은 소식이 있어요. 이제 Google Pay 스프레드시트에서 다양한 판매자 주도 거래 사용 사례를 지원합니다. 여기에는 자동 충전, 연기된 거래 및 반복 거래가 포함됩니다. 이번 글은 구글 페이를 이용한 판매자 주도 거래에 대해 소개하는 두 편 중 첫 번째 편입니다. 이 기능을 사용하면 결제 토큰을 받을 수 있으며 , 향후 업데이트를 통해 고객별 기기에 연결되지 않은 토큰도 받을 수 있게 됩니다 .
+
+- **[Give your robot a Voice with Gemini Live](https://www.youtube.com/watch?v=jkdvMEvG8T8)** — 2026-04-13 · ko · `AX`
+  [음악] 헤이 리치, 내 말 들려? 아, 그리고 코딩 작업도 하고 계신 것 같네요 . 무슨 일이야? 네, 그런데 저를 볼 수 있나요? 확실하지 않습니다. 밝은 빛 때문에 흐릿하게 보이는 형체일 뿐이에요. 아시다시피, 바닷가재는 그 배경에 쉽게 녹아들 수 있을 거예요. 괜찮은. 방 안을 한 바퀴 둘러보면서 저를 찾을 수 있는지 한번 볼까요? 음, 주변을 훑어봤는데, 여기서는 여전히 꽤 흐릿하게 보이네요. 주로 빛과 대략적인 형태만 보입니다.
+
+- **[Google's ADK + MCP = The Future of AI Agents](https://www.youtube.com/watch?v=wIhkYnTpPs4)** — 2026-04-10 · ko · `AX`
+  안녕하세요, 저는 헤만트입니다. 저는 페이팔에서 AI 연구소를 이끄는 선임 엔지니어링 매니저입니다. 저는 지금 실리콘 밸리 데브페스트에 와 있습니다 . 그리고 제 옆에는 스미타가 있습니다. 안녕하세요, 저는 스미타이고 구글 클라우드에서 선임 개발자 관계 담당자로 일하고 있습니다. 스미타, 쇼에 출연해 주셔서 정말 반갑습니다. 자, 그럼 이 고전적인 질문으로 시작해 볼까요 ? 인공지능 에이전트에 대한 당신의 정의는 무엇인가요 ? 정말 좋은 질문입니다.
+
+- **[How do AI video generation models work?](https://www.youtube.com/watch?v=Y5zHHoLrvAE)** — 2026-04-09 · ko · `AX`
+  AI 동영상 생성 모델은 사용하기 매우 쉽습니다. 프롬프트를 입력하면 비디오가 반환됩니다. 그렇다면 AI 영상 생성은 실제로 어떻게 작동하는 걸까요? 자연어 음성을 단 몇 초 만에 비디오 클립으로 변환하는 방법은 무엇일까요 ? 그 질문에 답하기 위해 몇 단계 뒤로 돌아가 보겠습니다. 생성형 AI는 새로운 콘텐츠를 생성 하도록 설계된 머신러닝 모델의 광범위한 범주입니다 . 하지만 그러한 콘텐츠를 생성하는 데에는 다양한 신경망 아키텍처와 기술이 존재합니다 . 예를 들어, 최첨단 텍스트 생성 모델의 대부분은 자기회귀(AR) 방식이라고 알려져 있습니다
+
+- **[One Design Decision to Create Better Results in Stitch](https://www.youtube.com/watch?v=tnP_Q5mS1I8)** — 2026-04-09 · ko · `AX`
+  Stitch로 만든 이 디자인은 정말 훌륭해요. 그리고 이 디자인도, 솔직히 말해서 제가 가장 좋아하는 디자인은 아니에요. 그리고 흥미로운 점은, 사람들이 별로 좋아하지 않는 이 화면이 바로 스티치가 처음으로 생성한 화면이라는 것입니다. 이 화면에 [음악]을 올리는 데까지 이르게 된 것은 단 하나 , 바로 방향성이었습니다. 그러므로 Stitch를 사용할 때 디자인 콘셉트, 분위기 또는 전반적인 미적 감각을 먼저 정해두면 더 나은 결과를 얻을 수 있는 경우가 많습니다. 이렇게 생각해 보세요.
+
+- **[Add Gemini Live agents to your video conferencing with Fishjam](https://www.youtube.com/watch?v=bc5X2iVyJc0)** — 2026-04-08 · ko · `unclassified`
+  [음악] AI 참가자와 함께 화상 회의를 만드는 것이 이렇게 쉬웠던 적은 없었습니다. 안녕하세요, 저는 에이드리언입니다. 저는 Software Mansion에서 Fish Jam을 개발하고 있으며, 오늘은 AI 모델을 참가자로 초대하는 화상 회의를 얼마나 빠르게 만들 수 있는지 보여드리겠습니다 . 제 영상 피드에 뭐가 있는지 보실 수 있는지 여쭤봐도 될까요? 당신의 영상이 보입니다. 보라색 조명이 비추는 방에 있는 것 같고, 뒤쪽 선반에는 화분 몇 개가 놓여 있으며, ' 소프트웨어 맨션'이라고 쓰인 간판이 있습니다.
+
+- **[AIventure: Learning about vibe-coding, agents and Gen AI with Gemma 4](https://www.youtube.com/watch?v=6yjJ7Prt-RI)** — 2026-04-02 · ko · `AX`
+  안녕하세요, 저는 톰 그리너웨이이고 구글 솔루션 팀 소속입니다. 구글 입사 전에는 독립 게임 개발자로 활동했으며, 수상 경력에 빛나는 비디오 게임 '듀엣'을 제작한 것으로 가장 잘 알려져 있습니다. 그리고 몇 년 전 구글에서 저는 구글 I/O와 기타 온라인 행사를 지원하는 데 사용된 가상 회의 기술인 ' 어드벤처' 개발을 주도했습니다. 인공지능 기술을 활용하여 바이브 코딩 연습, 학습 가능한 에이전트, AI 학습 퍼즐에 초점을 맞춘 교육용 게임을 만들어보는 것을 상상해 본 적이 있나요?
+
+- **[What’s new in Gemma 4](https://www.youtube.com/watch?v=jZVBoFOJK-Q)** — 2026-04-02 · ko · `unclassified`
+  안녕하세요, 저는 올리비에이고 제미니 팀의 그룹 제품 관리자입니다. 저희가 첫 모델을 출시한 이후로 개발자 커뮤니티의 반응은 정말 놀라웠습니다 . 4억 회 이상 다운로드, 10만 가지 이상의 변형곡이 있는 [음악]. 여러분은 제미니를 중심으로 활기찬 생태계를 구축해 주셨고, 저희는 이에 진심으로 감사드립니다. 저희는 여러분의 의견을 경청하여 차세대 제품에 대한 기대를 충족시켜 드리고자 노력했으며, 오늘 Gemini 4를 발표하게 되어 매우 기쁩니다.
+
+- **[Announcing ADK Go 1.0](https://www.youtube.com/watch?v=Alu4L3Pgzkw)** — 2026-03-31 · ko · `AX`
+  AI 에이전트는 우리가 온라인에서 일하고 소통하는 방식을 완전히 바꿔놓았습니다. 이제 초점은 '작동할 수 있을까?'에서 '실제 운영 환경에서 어떻게 작동하는가?'로 바뀌었습니다. 안녕하세요, 저는 토니 클로슨 스틴입니다. 오늘은 80K Go 1.0 업데이트 내용을 살펴보고, 엔터프라이즈급 에이전트 구축을 위한 강력한 스택으로 거듭난 점에 대해 알아보겠습니다. 비결정적 에이전트의 디버깅은 매우 어려운 것으로 악명 높습니다. 그래서 우리는 개방형 원격 측정 기능을 코어에 직접 통합했습니다. 새로운 호텔 통합 기능을 통해 구조화된 추적 정보를 바탕으로 모델 호출 및 도구 실행 루프의 모든 단계를 심층적으로 파악할 수 있습니다
+
+- **[Build real-time multimodal agents with Gemini and Pipecat](https://www.youtube.com/watch?v=Fk2t9AG721E)** — 2026-03-31 · ko · `AX`
+  [음악] 안녕하세요, 저는 채드 베일리입니다. 저는 멀티모달 앱에서 실시간 에이전트 오케스트레이션을 위한 오픈 소스 프레임워크인 Pipekit을 개발하는 팀에 합류할 예정입니다. 저는 최근 Gemini 3 기반의 멀티모달 실시간 모델을 실험해 왔으며, 이 모델의 성능을 여러분께 보여드리게 되어 매우 기쁩니다 . 이탈리아 여행 계획을 세워보자 . 안녕하세요, 어떤 휴가를 꿈꾸고 계신가요? 음, 곧 딸아이 18번째 생일이라 유럽 여행지를 직접 고르라고 했어요. 정말 관대하시네요. 범위를 좁히기 위해, 그녀의 관심사는 무엇인가요?
+
+- **[ADK for Java 1.0 is now available!](https://www.youtube.com/watch?v=YqABMjSho_M)** — 2026-03-30 · ko · `AX`
+  자바 개발자 여러분 안녕하세요. 이제 여러분은 구글이 개발한 오픈 소스 에이전트 개발 키트 프레임워크에 대해 어느 정도 익숙해졌을 것입니다. 이 프레임워크를 사용하면 자신만의 AI 에이전트를 만들 수 있습니다. 파이썬, 자바, 고, 타입스크립트를 포함한 다양한 프로그래밍 언어에서 사용할 수 있습니다. 오늘은 자바 런타임과 관련된 몇 가지 중요한 소식에 대해 알아보겠습니다 . Java용 ADK 1.0 출시를 발표하게 되어 기쁩니다. 하지만 코드와 기능에 대해 자세히 알아보기 전에, 지난주에 Java 1.
+
+- **[Google AI Studio's new full-stack vibe coding experience](https://www.youtube.com/watch?v=gJYZE9UXiHk)** — 2026-03-30 · ko · `AX`
+  안녕하세요 여러분, 이번 튜토리얼에서는 Google AI Studio의 새로운 풀스택 코딩 환경을 소개하고 이를 활용해 앱을 개발하는 방법을 알려드리겠습니다. 예를 들어, 여기 레시피 추적 앱이 있는데, 이제 이 앱을 사용하면 레시피를 데이터베이스에 저장할 수 있습니다 . 또한, 이와 같은 멋진 멀티플레이어 경험과 멀티플레이어 게임을 만들 수도 있습니다. 자, 본격적으로 시작하기 전에 이번에 새롭게 추가된 기능들을 간단히 살펴보겠습니다. 가장 큰 변화는 이제 구글의 새로운 반중력 코딩 에이전트로 구동된다는 점입니다.
+
+- **[Prototype to Production with ADK](https://www.youtube.com/watch?v=jDCkirAz4-E)** — 2026-03-30 · ko · `AX`
+  인상적인 AI 에이전트 데모를 보셨겠지만, 멋진 개념 증명과 기업이 실제로 신뢰할 수 있는 엔터프라이즈급 에이전트를 구분하는 기준은 무엇일까요 ? 이는 에이전트를 견고하고 확장 가능하며 안전하게 만들어줍니다. 그리고 그것이 바로 우리가 오늘 만들려고 하는 것입니다. 이 비디오에서는 Google 에이전트 개발 키트를 사용하여 에이전트 기반 애플리케이션을 처음부터 구축, 배포 및 모니터링하는 방법을 살펴보겠습니다 . 그리고 우리를 이끌어 줄 개발자 대변인인 이오 아다에치가 있습니다. 이오, 쇼에 오신 것을 환영합니다. 엄청난. 초대해 주셔서 감사합니다.
+
+- **[Automate Product Listings with Gemini + Vision Agents](https://www.youtube.com/watch?v=8lA6bF2EnvA)** — 2026-03-27 · ko · `AX`
+  [음악] 저희는 Gemini 3.1 플래시 라이브 모델을 미리 사용해 볼 기회를 얻었고, 이를 활용해 만든 작품을 소개합니다. 안녕. 저는 여러분이 중고품을 위한 훌륭한 상품 설명을 작성하도록 도와드리겠습니다 . 시작할 준비가 되셨나요? 먼저, 해당 물품의 사진을 찍어야 합니다 . 준비되면 알려줘. 그럼 같이 사진 찍자. 준비됐어요. 어, 이제 스크린샷을 찍을 수 있어요. 좋아요, 사진을 이해했어요. 자, 이제 멋지게 만들어 봅시다. 이 카메라의 특별한 기능이나 특징 중 강조하고 싶은 부분이 있다면 설명해 주시겠습니까?
+
+- **[Building LiveKit Agents with Gemini Live API](https://www.youtube.com/watch?v=tj8ggd8UvB0)** — 2026-03-26 · ko · `AX`
+  [음악] 오늘 저희는 Gemini Live API에 새로 추가된 기능 , 즉 Gemini 3 기반 최초의 네이티브 오디오 모델을 사용하여 음성 에이전트를 구축하고 있습니다. 이것은 단순한 점진적 업데이트가 아닙니다. 새로운 네이티브 오디오 모델은 지시 사항 준수율을 눈에 띄게 향상시키고 , 더욱 스마트한 도구 호출 기능을 제공하며, 장시간 다중 턴 세션 동안 화자 편차를 줄여줍니다 . 이 모든 것이 가능한 이유는 오디오를 텍스트로 먼저 변환하지 않고 네이티브 방식으로 처리하기 때문입니다.
 
 ## Nokia (80건)
 
@@ -486,248 +1018,6 @@
 - **[How Nokia is powering Bangkok’s new orange line metro](https://www.youtube.com/watch?v=VIF6vO70_E8)** — 2026-04-08 · ko · `unclassified`
   [음악] 오.
 
-## Weights & Biases (80건)
-
-- **[W&B Weave: Observability and continuous improvement for production agents](https://www.youtube.com/watch?v=lbo7O4bVKnM)** — 2026-07-06 · ko · `AX`
-  에이전트를 실제 제작 현장에 투입하는 것은 어려웠습니다. 그들을 생산적으로 만드는 것은 더 어렵습니다. 모든 요원은 LLM 자격증을 소지하고 있습니다. LLM은 이미 강력합니다. 하네스는 신뢰성을 좌우하는 핵심 요소입니다 . 그리고 이를 완벽하게 만드는 방법은 실제 운영 환경에서 사용자로부터 에이전트가 학습하도록 하는 것입니다 . [음악] W&amp;B Weave는 에이전트형 AI를 위한 관찰 가능성 및 지속적 개선 도구입니다 . 이는 제작 담당자들이 음악 관련 경험을 통해 배우고 시간이 지남에 따라 더욱 신뢰할 수 있게 되는 데 도움이 됩니다.
-
-- **[CoreWeave ARIA: The autoresearch loop for continuous improvement](https://www.youtube.com/watch?v=z8zZnAcj8Ds)** — 2026-07-01 · ko · `unclassified`
-  안녕하세요. 제 이름은 주브 안 이솔라입니다. 저는 Weights &amp; Biases에서 아리아 에이전트 개발을 담당하는 과학 분야 책임자입니다. 다음은 Arya를 사용한 자동 검색의 간단한 데모입니다. 제 생각에 우리 대부분은 안드레이 카르파티의 나노챗(NanoChat)에 대해 잘 알고 있을 겁니다. 보시다시피, 저희는 A100에서 다양한 학습률과 검증 손실 등을 적용하여 NanoChat에 대한 여러 차례 학습을 진행하고 있습니다 . 그리고 이것은 제가 Arya 자체를 사용하여 이전 구성에서 수행한 스윕입니다. 자, 그럼 바로 아리아 이야기로 들어가 볼까요?
-
-- **[CoreWeave AIRA: The autoresearch loop for continuous improvement](https://www.youtube.com/watch?v=9QFfEmgd5V0)** — 2026-06-30 · ko · `unclassified`
-  안녕하세요, 저는 주벤 이솔라입니다. Weights and Biases에서 아리아 에이전트 개발을 담당하는 과학 부서를 이끌고 있습니다. 다음은 Arya를 사용한 자동 검색의 간단한 데모입니다 . 제 생각에 우리 대부분은 앙드레 카르파티의 나노햇에 대해 잘 알고 있을 겁니다. 보시다시피, 저희는 A100 보드 에서 nanohat을 사용하여 다양한 학습률과 검증 손실 등을 적용하여 여러 차례 학습을 진행하고 있습니다 . 어, 그리고 이건 제가 Arya 자체를 사용해서 이전 설정에서 수행했던 스윕 작업입니다.
-
-- **[CoreWeave ARIA: Deep analysis backed by live dashboards and full W&B context](https://www.youtube.com/watch?v=xTHddV6OgAM)** — 2026-06-30 · ko · `AX`
-  안녕하세요, 저는 코르부스(Corvus)의 제품 관리자 줄리아 로즈입니다 . 오늘은 Weights &amp; Biases 플랫폼에 직접 내장된 새로운 AI 코딩 도우미인 Arya를 시연하게 되어 매우 기쁩니다 . 크래시 로그를 디버깅하는 간단한 사용 사례부터 시작하겠습니다. 자, 여기 로그 탭에서 실패한 것을 확인할 수 있습니다. 그리고 만약 제가 아리아에게 "무슨 일이 있었어?"라고 간단히 묻는다면요? 이미 내 컨텍스트 정보가 모두 로드되어 있습니다. 그러니까, 제가 로그 페이지를 보고 있다는 것, 그리고 이 실행을 참조하고 있다는 것을 시스템이 알고 있는 거죠.
-
-- **[Introducing CoreWeave ARIA: AI Research and Iteration Agent](https://www.youtube.com/watch?v=X9GdzWlKRXw)** — 2026-06-30 · ko · `unclassified`
-  [음악] 우선, 여기서 살펴볼 프로젝트는 에이전트가 전적으로 기획하고 주도하는 프로젝트입니다. 그리고 이 위쪽 차트는 실제로 자동차 연구 프로젝트의 시간 경과에 따른 성과를 나타내는 산점도입니다. 그 자동차 연구 프로젝트는 바로 카르파티의 유명한 프로젝트입니다. 이제 데모를 진행해 보겠습니다 . 바로 시작해 볼까요? 에이전트를 열면 " 이 프로젝트 요약", "실험 시작", "어떤 패턴이 보이시나요?" 등과 같은 유용한 메시지가 표시됩니다. 이제 자동 리서치 루프를 시작하고 몇 가지 기본적인 작업을 수행한 다음, 다시 돌아와서 결과를 확인해 보겠습니다
-
-- **[He's Building an AI That Can't Lie | Dan Klein, Scaled Cognition](https://www.youtube.com/watch?v=JzETCk92Izw)** — 2026-06-16 · ko · `AX`
-  우리는 인공지능의 문제점이 '아무것도 제대로 작동하지 않는다'는 것에서 ' 인공지능의 문제점이 모든 것이 제대로 작동한다'는 것으로 초점을 옮기려고 합니다. Chat GPT는 항상 유창하고 확신에 찬 어조로 말을 해줍니다. 그 말이 맞든 틀리든 상관없이요 . 이러한 시스템을 훈련하는 것은 점점 더 복잡해지고 있으며, 지수 함수처럼 보이는 곡선이 실제로는 S자 곡선의 시작일 뿐인 경우가 많습니다. 그래서 그 다음에는 수확 체감의 법칙이 적용되기 시작합니다 . 그리고 우리는 오늘날 그것을 목격하고 있습니다.
-
-- **[How to operationalize AI governance with W&B Weave](https://www.youtube.com/watch?v=-dGIUA_LLik)** — 2026-06-08 · ko · `AX`
-  [음악] 안녕하세요 여러분. 안녕하세요, 저는 카란입니다. 오늘은 AI 규정 준수에 대해 설명하고, Weights &amp; Biases가 규정 준수 중심 워크플로우를 어떻게 지원하는지 알려드리겠습니다. 대부분의 조직에는 규정 준수 팀 또는 책임 있는 AI 팀이 있으며, 이 팀은 내부 또는 외부에서 배포되는 모든 애플리케이션이 검토 단계를 통과하도록 보장하는 역할을 합니다. 이 검토 단계는 해당 팀이 애플리케이션이 업계 표준, 회사 정책 및 정부 규정을 충족하는지 확인하는 구조화된 검사 지점입니다. 문제는 그러한 결정을 뒷받침하는 증거가 흩어져 있다는 점입니다
-
-- **[Curing Every Disease With Al by 2050 | Sam Rodriques, Edison Scientific](https://www.youtube.com/watch?v=Q7NpRG2gAxc)** — 2026-05-27 · en · `AX`
-  If we want to go and cure all diseases, understand how the brain works and solve aging and AI seemed like the right way to do that. When it comes to the world as we experience it, most things are pretty well understood except for [music] biology. And to this day, we don't have the wiring diagram for the human brain. We like kind of have the wiring diagram for the fly.
-
-- **[Power agents with full context of your experiments and traces with W&B MCP server](https://www.youtube.com/watch?v=yco5IdRHsDs)** — 2026-05-27 · ko · `unclassified`
-  여러분, 저는 Weights &amp; Biases 코어 위브 팀의 니코입니다. 오늘 저희가 새롭게 업데이트한 MCP, 즉 가중치 및 편향 MCP를 소개해 드리게 되어 기쁩니다. 이 저장소는 지난 몇 달 동안 공개 저장소로 존재해 왔습니다. 그리고 지난 몇 달 동안 저희는 초기 파트너 몇 곳 과 많은 사용자들과 함께 다양한 문제에 대해 반복적으로 개선 작업을 진행해 왔습니다. 오늘 모든 유형의 Weights &amp; Biases 배포를 위한 완전 호스팅 MCP 와 몇 가지 새로운 도구를 발표하게 되어 기쁩니다 .
-
-- **[AI Builders: Building a text-to-SQL agent](https://www.youtube.com/watch?v=EEik6sXWMjM)** — 2026-05-26 · ko · `AX`
-  안녕하세요, 저는 Russ이고, AI Builders는 AI를 활용하여 애플리케이션에 놀라운 기능을 구현하는 것을 즐기는 개발자들을 위한 비디오 시리즈입니다 . 저는 경력의 상당 부분을 데이터베이스와 BI 도구를 다루는 데 보냈는데, 오늘날 이 두 가지 모두 비슷한 메시지로 판매되는 경우가 많습니다. 비즈니스 사용자에게 데이터를 검색하고 직접 보고서를 작성할 수 있는 기능을 제공하세요. SQL 학습과 BI 도구의 효과적인 사용 능력 향상은 데이터 민주화라는 개념을 가로막는 장벽이 되어 왔습니다 .
-
-- **[AI Builders: Building an AI agent for interior design](https://www.youtube.com/watch?v=ybg-Vw6ApwU)** — 2026-04-24 · ko · `AX`
-  안녕하세요, 저는 러셀이고, AI 빌더스라는 채널에 오신 것을 환영합니다. 이 채널은 AI를 활용하여 무언가를 만드는 것을 좋아하고, 이제는 거의 모든 일에 AI를 접목하고 있는 개발자들을 위한 영상 시리즈입니다 . Weights &amp; Biases에서 제가 맡은 업무 중 하나는 영업 데모를 제작하는 것입니다. 저는 이러한 데모를 실제 응용 프로그램과 최대한 유사하게 만들고 싶기 때문에, 너무 단순 하거나 제대로 작동하지 않는 것은 절대 용납하지 않습니다. 오늘은 제가 개발한 애플리케이션에 대해 소개해 드리겠습니다.
-
-- **[Accelerate LLM post training with W&B Serverless SFT](https://www.youtube.com/watch?v=T-MusIIayAE)** — 2026-04-16 · ko · `AX`
-  안녕하세요, 저는 Weights &amp; Biases의 Russ입니다. 오늘은 CoreWeave 기반의 서버리스 SFT(Software-False Training) 학습을 통해 AI 엔지니어가 엄선된 데이터 세트를 활용하여 모델을 정제하고, 모델 출력 형식과 스타일을 맞춤 설정하고, 강화 학습을 위한 모델 워밍업을 통해 더욱 강력한 기준선에서 시작할 수 있도록 지원하는 방법에 대해 이야기해 보겠습니다. 지난 몇 달 동안 AI 애플리케이션 시스템 구축의 진입 장벽이 낮아짐에 따라 AI 에이전트의 수와 AI 에이전트를 개발하는 개발자의 수가 기하급수적으로 증가했습니다.
-
-- **[The $8.6B Self-Driving AI Backed by Nvidia and Uber | Alex Kendall, Wayve](https://www.youtube.com/watch?v=k5wgts8y-xU)** — 2026-04-15 · ko · `AX`
-  자율 주행은 인공지능( AI) 접근 방식을 통해 자율주행차 문제를 바라보는 것입니다. 사고 발생률을 거의 0에 가깝게 줄일 수 있는 기회가 있습니다. 그래서 우리는 150만 달러를 모금하고, 친구들을 모아 집을 빌리고, 차를 차고에 넣어두고 해킹을 시작했습니다. 고가의 개조 차량에서 벗어나, 컴퓨팅 자원, 고화질 지도, 인프라에 의존하던 시대에서, 이제는 3만, 4만, 5만 달러에 구입하거나 제조할 수 있고, 글로벌 공급망에서 조달 가능한 내장 하드웨어를 갖추고 , 고화질 지도가 필요 없으며, 어디든 주행할 수 있는 대량 생산 차량으로 변화하고 있습니다
-
-- **[Track robotics training dynamics in Weights & Biases](https://www.youtube.com/watch?v=XoAo5-kv80w)** — 2026-04-15 · ko · `unclassified`
-  [음악] 안녕하세요, 저는 CoreWeave의 Weights &amp; Biases 제품 관리자 Manish입니다. 오늘은 Weights &amp; Biases를 사용하여 로봇 모델을 학습시키고 분석하는 방법을 간단히 설명해 드리겠습니다. 우리는 강화 학습을 이용하여 휴머노이드 로봇이 걷도록 훈련시켰습니다. 저희는 NVIDIA Isaac Lab 및 Isaac Sim과 같은 도구를 사용하고 있으며, 이 도구들은 Weights &amp; Biases와 완벽하게 통합되어 있습니다 . API 키만 입력하면 모든 학습 지표가 바로 전송되기 시작합니다. 오늘 우리는 학습률에 대한 최적의 하이퍼파라미터를 찾아보려고 합니다.
-
-- **[Large-scale agentic quant research with Weights & Biases](https://www.youtube.com/watch?v=gzggLWETGOE)** — 2026-04-01 · ko · `unclassified`
-  [음악] 안녕하세요. 안녕하세요, Weights &amp; Biases의 Karan입니다. 오늘은 대규모 에이전트 기반 양적 연구에 대해 이야기해 보겠습니다. 저는 퀀트 데스크와 매우 긴밀하게 협력하는데, 어디 에서나 똑같은 이야기를 듣습니다. 우리는 모델을 만들 수는 있지만, 항상 모델을 신뢰하거나, 재현하거나, 규정 준수를 위해 설명할 수 있는 것은 아닙니다 . 오늘은 Weights &amp; Biases가 두 가지 사용 사례를 통해 이 문제를 어떻게 해결하는지 보여드리겠습니다 . 이벤트 기반 알파 연구 파이프라인 과 자체 전략을 최적화하는 자가 개선 에이전트 루프 .
-
-- **[Why Anthropic, Meta, and Tesla All Chose the Same Database | Aaron Katz, ClickHouse](https://www.youtube.com/watch?v=b7fGSA9mVYI)** — 2026-03-31 · ko · `AX`
-  2021년 8월, 5천만 달러 규모의 시드 투자를 유치했는데, 이는 기업용 소프트웨어 역사상 가장 큰 규모의 프리시드 투자였을 가능성이 높습니다. 사업 계획서가 없었고, 제품도 없었고, 음악 고객도 없었고, 수익도 없었기 때문입니다. 마이크로소프트, 시벨, 오라클은 클라우드 [음악] 컴퓨팅이 일시적인 유행이라고 공식적으로 밝힌 바 있습니다. 아무도 자기 데이터를 클라우드로 옮기지 않을 거예요. 우리는 이 카테고리를 만들고 이것이 성공하지 못할 것이라는 근거 없는 주장들을 모두 반박하기 위해 이 임무를 수행했습니다 . ClickHouse는 데이터베이스이며, 다양한 사용 사례(음악 포함)를 충족합니다.
-
-- **[Monitor your training runs with the Weights & Biases mobile app](https://www.youtube.com/watch?v=LXDizQxkboo)** — 2026-03-16 · en · `unclassified`
-  Hi, I'm Russ from Weights &amp; Biases. And today I'll be taking you on a tour of the Weights &amp; Biases mobile app that enables real-time run tracking, live metrics, and notifications, allowing you to optimize training performance anytime, anywhere. As AI researchers and engineers ourselves, we know the feeling of kicking off an experiment and watching the W&amp;B model's workspace spring to life as metrics start rolling in.
-
-- **[Getting started with Weights & Biases for robotics](https://www.youtube.com/watch?v=45Beo0ZkJJA)** — 2026-03-10 · en · `AX`
-  [music] &gt;&gt; Hi, my name is Anoop and I'm a machine learning engineer. &gt;&gt; [music] &gt;&gt; Right now, I'm working on fine-tuning some vision language action models for a robotics team. And because fine-tuning these models takes so long, sometimes up to a week, my team has started using weights and biases to track all of this. Let me show you how. Once you jump into my workspace, you'll see I'm fine-tuning Groot by Nvidia.
-
-- **[The Brutal Truth About AI From the People Actually Building It | Best of Gradient Dissent](https://www.youtube.com/watch?v=XLcj5Jlyv-Y)** — 2026-02-24 · ko · `unclassified`
-  영화 에서 휴먼 메이킹 1이자 포스 마스터티브이 1일. 알렉스 왁스럽. 바로 쇼 앞에 세링레이 앞서고. 대마왕고추 소고기랑 고작 수레에 수치사히기만 할 박씨는 왜 그 심각한 레이스를 라스트 국민이 게리모드 차 아들이라는 디스코드 날은? 바보야 아들바보 왜 여기에. 여기 있을 때 워크 지미모닝. 내추럴 어록 읽은 미 즉 법을. 요소도 레드 밴딩 한류 주변인들을 아야의 섹션 즐비한 아르마니 어득한 분위기 등의 아이콘 바니티 패배하고 위협한다. 듯한 아시아 밤의. 남미 하우스 느낄 수 비워.
-
-- **[She Raised $64M to Build an AI Math Prodigy | Carina Hong, CEO of Axiom](https://www.youtube.com/watch?v=QxfsjDBDw3M)** — 2026-02-05 · ko · `AX`
-  Axim의 목표는 자체적으로 성능을 향상시키고 생성과 검증을 결합한 추론 엔진을 구축하는 것입니다. 푸틴햄에게, 그리고 수학 덕후가 아닌 사람들에게는 , 이 시험은 수학 전공 학부생들 간의 엄청나게 어려운 경쟁과 같습니다. 중앙값은 0과 같습니다. 저희는 최근 Axiom Prew 테스트에서 12점 만점에 8점을 받았습니다. 저희는 Lean과 같은 형식 언어를 사용하여 자연어 대응 개념을 구체화하고 있으며, 이를 통해 결정론적 도구와 확률론적 시스템이 함께 작동할 때 얼마나 강력한 효과를 발휘하는지 확인할 수 있습니다.
-
-- **[JetBrains + Weights & Biases: Establishing frameworks and best practices for enterprise AI agents](https://www.youtube.com/watch?v=0wg-v8MCe7k)** — 2026-01-30 · ko · `AX`
-  제 이름은 바딤 브리안토프입니다. 저는 Jet Brains에서 Cook 팀의 기술 리더로 일하고 있습니다. 저희는 20년 이상 세계 최고의 아이디어를 창출해 왔으며, 주로 전문 개발자를 위한 제품을 만들고 있습니다. 요즘 저희는 인공지능 분야에 집중적으로 투자하고 있으며, 주력 AI 에이전트인 Juni를 개발했을 뿐만 아니라 그 외에도 다양한 AI 관련 프로젝트를 진행하고 있습니다 . JetBrains는 특히 AI 에이전트 및 실행 중인 평가의 관찰 가능성을 위해 가중치와 편향을 사용하고 있습니다.
-
-- **[Beyond AI implementation: Introducing JDLA's initiatives](https://www.youtube.com/watch?v=XE-X7d3-hmw)** — 2026-01-27 · ko · `AX`
-  잘 부탁드립니다. 오카다입니다. 네, 소개해 주신 딥 라인 협회 에서 왔습니다. 그래, 오늘은 그 딥 라인 협회 그 아시는 분은 어느 정도 어떻습니까? 감사합니다. 있습니다. 3분 정도. 상당히 상당히 인식 제발, 저, 요즘 무슨 일이야. 라는 내용을 포함하여 업데이트 조금 오늘 시키면 시간 20 분이므로 조금 뛰어납니다. 곳도있을 수 있지만 알고 있습니다. 제발. 그, 아베가 창업한 곳 에서 시작했다는 점에서, 최근에는 정부가 있습니다. 다양한 형태 데야의 회의가 끝났습니다. 협조하겠습니다.
-
-- **[W&B Models end-to-end demo](https://www.youtube.com/watch?v=FkTwcxnSPes)** — 2026-01-26 · ko · `AX`
-  [음악] 안녕하세요, 저는 아누이고 Coreview의 Weights and Biases 팀의 일원입니다. 저는 오늘 여러분께 Weights and Biases 모델에 대해 이야기하려고 합니다. 이 플랫폼은 모든 모델 학습에 대한 기록 시스템 역할을 하도록 설계되었습니다 . 단 몇 줄의 코드로 팀에서 머신 러닝 개발 주기 전체를 ​​추적할 수 있습니다. 사전 학습부터 평가에 이르기까지 모든 지표, 그 과정에서 생성되는 모든 산출물과 미디어, 이 모든 것이 가중치와 편향 내에서 추적됩니다.
-
-- **[Fully Connected Tokyo: [Hands-on workshop] Automation of document workflows in financial industry](https://www.youtube.com/watch?v=3VJZhKEG4ik)** — 2026-01-23 · ko · `AX`
-  그럼, 고마워, 모두들 오늘, 그, 이렇게 많은 분들 모임 주셔서 감사합니다. 새로 고침 그럼, 업스테이지 일본에서입니다. , 그, 컨트리 매니저 마츠시타라고 합니다. 오늘은 그, 2시간 3 시간이군요, 조금 긴 정장이 될까 생각합니다. 그렇지만, 꼭 교제해 주셔서 감사합니다. 부탁드립니다. 네. 음, 음, 오늘 네, 세션의 제목으로, 음, 금융 업계에서, 문서 워크플로우 자동화 그런데 붙어 있습니다. 음, 음, 나의 시작 조금 10 분 정도입니다.
-
-- **[Fully Connected Tokyo: [Hands-on workshop] Building and improving customer support AI](https://www.youtube.com/watch?v=1dQmqv_DdAI)** — 2026-01-23 · ko · `AX`
-  네, 음, 고객 지원 A 건설과 개선이라는 곳에서, 어, 나 에서 하늘 쿠리 주식회사의, 에, 리자 샨 개발 팀에서 팀 리드 그렇다고하겠습니다. 합니다. 잘 부탁드립니다. 네. 그래서, 어서,이 세션, 본존의 목표 그렇다면 먼저 B를 사용합니다. 받고 싶다. 자신도 이번에 그 대단한 그 바꾸기가 있기 때문에 꼭 봐 받고 싶기 때문에 B를 사용하십시오. AI 에이전트의 트레슬로라는 곳 네가 줄 수 있다고 생각합니다. 나중에 L 레레 마자 심판입니다.
-
-- **[Fully Connected Tokyo: [Hands-on workshop] From 0 to automated evals](https://www.youtube.com/watch?v=BX-AjQUUol8)** — 2026-01-23 · en · `AX`
-  [clears throat] I'm Scott. So, thank you for uh coming. Um yeah, so today we'll be learning about automated evals. I'm the PM of or product manager of our weave product. Um so I'll give a quick intro. Um I'll go through some slides and then we'll run some code. And I have my colleague Adrian here and some of my Yuya and some other people that will be helping us run some code.
-
-- **[The evolution of LLM evaluation and Japan’s cutting-edge benchmarks on the Nejumi leaderboard](https://www.youtube.com/watch?v=sxJrC8KQGfo)** — 2026-01-22 · ko · `AX`
-  네, 안녕하세요. 위의 바이세의 야마모토입니다. . 그럼, 그, 이레름 평가 진화와 쥐 리더보드가 나타내는 일본어 평가의 최전선이라는 제목으로, 발표하고 싶습니다. 그 , 여기에 아, 방금 그, 사회의 그, 카마타와 닮았지만 우연히 모르겠네요. 그, 시작하자. 받고 싶습니다. 네, 이번에 네, 그런 의제에서 그 발표 받고 싶습니다. 자기 소개, 회사 소개, 그 다음 그 경위군요, 지금까지의 경위, 그리고 그 최신판, 이번 버전 4이지만, 업데이트 개요, 그리고 그렇습니다.
-
-- **[ReelData x Weights & Biases: The impact of AI on sustainable land-based aquaculture](https://www.youtube.com/watch?v=7_BDs6z8Z54)** — 2026-01-21 · ko · `unclassified`
-  [음악] 저희 회사는 지속 가능한 식품 생산을 늘리는 것을 핵심 가치로 삼고 있습니다. 연어는 매우 지속 가능한 어종입니다. 사람들에게 건강에 좋습니다 . 수요와 공급 사이에 격차가 있습니다. 그래서 우리는 공급과 수요의 격차를 해소하는 데 도움을 주고 있습니다. 하지만 제가 농업계 종사자들과 음악에 대한 대화를 계속 나누면서 , 그들은 통화할 때마다 거의 똑같은 말을 했습니다. 마치, 내가 잡은 물고기 무게가 얼마나 나가는지 모르는 것 같았어요. 얼마나 먹여야 할지 모르겠어요 .
-
-- **[Atlassian’s Most Controversial Growth Decision | Mike Cannon-Brookes](https://www.youtube.com/watch?v=S3RmvHfJll4)** — 2026-01-20 · ko · `AX`
-  우리는 사람들의 문제를 해결합니다. 우리는 기술적인 문제를 해결하지 않습니다. 오늘날 대부분의 음악 관련 사업은 기술 중심의 사업입니다. 우리는 기술팀과 비즈니스팀을 연결하여 비즈니스 프로세스를 운영하려고 노력합니다. [음악] 아, 죄송합니다. 잠깐만, 그럼 다시 처음으로 돌아가도 될까요? 저는 Jira가 적어도 기술 티켓팅 시스템 제품에서 유래한 유산과 같은 것이라고 생각합니다. 지라의 초기 버전은 사실 버그 추적 도구였으며, 기술팀의 훨씬 더 기술적인 부분을 위한 도구였습니다. 그것이 점점 더 많은 워크플로우를 포함하게 되면서 이슈 트래커가 되었고, 점차 광범위한 워크플로우 엔진으로 발전했습니다
-
-- **[Special discussion session: the present and future of generative AI](https://www.youtube.com/watch?v=1pNUmk-VbU8)** — 2026-01-13 · ko · `AX`
-  아, 주식회사 길노의 불과 합니다. 어쩌면 여러분에게는 노트 CXO나 변호사.com의 CXO 로 일하는 분이 알려져 있을지도 모릅니다. 잘 부탁드립니다. 잘 부탁드립니다. 아, 미안해. 그럼 걸어 주시면 좋겠습니다. 네. 오늘입니다, 그, 불활을 초대했습니다. 글쎄, 그, 특별 심사 세션 그래서, 뭐, 왜 그런 세션을 준비하십시오. 뭐라고 말하면, 뭐, 이번 저 웨츠 &amp; 바이설의 프리 Connected Tokyo, Ma, 이것, 그, Ma, 세 번째이지만, 매우 네, 여러분 덕분에, 매우 지금까지 없었던 정도로 대성이되어 있습니다.
-
-- **[The cutting edge of generative AI adoption in manufacturing and building an AC-specific LLM](https://www.youtube.com/watch?v=BiCNeNZEJe8)** — 2026-01-13 · ko · `AX`
-  네, 여러분 안녕하세요. 네, 대금 산업의 끔찍한 입니다. 음, 지금 때때로 물고기 AI가 옆에 있습니다. 하고있는 동안이 세션을 선택하십시오. 주셔서 감사합니다. 진짜 아키하 씨도 나도 원래 선호하는 네트워크와 동일 회사에 있었지만 모처럼이 세션을 선택했으므로, 여기에 온 사람들에게 뭔가, 어 , 유용한 정보 중 하나라도, , 제공 할 수 있으면 바람으로 생각합니다. . 잘 부탁드립니다. 그리고 쉽게 자기 소개이지만, 나, 저, 원래 IBM의 연구소에 있습니다.
-
-- **[Introducing Our Approach to Design Document Review Using Business-Specific Large Language Models](https://www.youtube.com/watch?v=I8CKzIOgHQI)** — 2026-01-12 · ko · `AX`
-  만나서 반갑습니다. 오늘은 이쪽과 같이 기재되어 있는, 그, 업무 특화형 LLM 그렇다고 하는 곳을 저, 만들고 있네요, 이것을 활용해 그, 뭐, 우리의 그 설계서를 만들고 있는 그 것 리뷰에 그 살렸다고 하는 그 내용을 소개해 주셨으면 한다고 생각하고 있습니다. 그래서, 그 전체 소개를하기 전에 잠깐 내, 그, 뭐, 소속 그, 히타치 제작소의 그, 금융 비즈니스 유닛이라는 곳의 소개 싶지만, 저, 저, 이 금융 비즈니스 유닛이라는 곳은 어느 쪽인가 그렇다면, 그 시스템 개발 그런데, 그, 사업으로 하고 있네요, 그, 이른바 SI, 그, 미션 중요한, 그, 음, 감정계입니다
-
-- **[Weaving together field, technology, and culture: TOPPAN's LLM/VLM development & operational practice](https://www.youtube.com/watch?v=6NmQb_BqFZU)** — 2026-01-12 · ko · `AX`
-  돌판 딩스의 여름 해자라고합니다. 오늘, 네, 현장 기술 문화가 내리는 판촉 LLMVLM 개발과 업무 실천이라는 제목으로, 네, 발표하겠습니다. 합니다. 우선, 네, 나 자기 소개입니다. 나, 네, 신입 직원, 응, 판매판 인쇄에 입사했습니다. 글쎄, 네, 처음에는 정보 시스템입니다. 프리스의 시스템이라든지, 나머지는 패키지, 예, 재고 관리 시스템 도물의 개발을 하고 있었습니다. 그래서, 디지털 혁신 본부라는 바람에 부서명이 바뀐 근처에서 VR이나 MR과 첨단 기술을 다루게됩니다. 글쎄, 팔로우 렌즈이거나 VR, 그리고 사진 그라메트리라든지 여러가지 괜찮습니다
-
-- **[AI that explains the market: A new paradigm in financial forecasting](https://www.youtube.com/watch?v=Xu7d-_N7nRk)** — 2026-01-08 · ko · `unclassified`
-  네. 안녕하세요. 저 안녕하세요. 저는 LG AI 연구원의 안원빈입니다. 제가 오늘 말씀드릴 내용은 그 시장을 설명하는 AAI에 대해서 말씀드리도록 하겠습니다. 먼저 저희 회사 잠깐 소개하려고 하는데요. 저희 LG AI 연구원은 LG 그룹의 AI 컨트롤 타워 역할을 하고 있습니다. LG는 계열사들이 굉장히 다양한데요. 그만큼 저희도 다양한 문제를 AI로 함께 풀고 있습니다. 그래서 저희 연구원은 되게 다양한 연구 주제를 가지고 있는데요. 보시면 뭐 랭귀지, 비전, 데이터 인텔리전스, 바이오, 머티리얼 그 계열서만큼이나 저 AI로 도전할 수 있는 거의 모든 문제를 다루고 있습니다
-
-- **[Post-training best-in-class models in 2025](https://www.youtube.com/watch?v=3FPQTSqwYQ0)** — 2026-01-08 · en · `AX`
-  [music] Hi everyone. Uh thank you. Um so in this presentation I'm going to talk about pre-raining models. So at Liquid AI we create small language models. We've released I counted this morning 17 models since July and they're in between 350 million parameters and 8 billion parameters. We have text models, we have vision models, we have audio models, we have t specific models including retrieval.
-
-- **[Why Big Tech Buys GPUs From CoreWeave | Corey Sanders](https://www.youtube.com/watch?v=h3SNaAPUxHY)** — 2026-01-06 · en · `AX`
-  I don't care if the APIs are consistent and commoditized. The level of quality, performance, and capability and experience that we deliver today will not win workloads in 2 years. For anyone who's deployed on a public cloud, especially with GPUs and you suddenly have a burst of capacity, like you're always sweating. And so what I like to think about for us is how do we go make all of that complexity then go away?
-
-- **[Transformative & cross-functional AI adoption at Sanofi: Fully Connected London 2025](https://www.youtube.com/watch?v=fDZCEiygfsQ)** — 2025-12-19 · ko · `AX`
-  [박수] 완벽합니다. 네, 정말 감사합니다, 모건 씨. 안녕하세요 여러분. 이곳에 오게 되어 기쁩니다. 제 이름은 에반 코프스카입니다. 저는 Seni에서 AI 에이전트 및 JAI 플랫폼의 제품 책임자(PO)입니다 . 그렇다면 기술 분야에 대한 경험이 부족한 프랑스 대기업에게 있어 성공적인 AI 전환이란 무엇일까요? 그리고 저는 이 점을 정말 강조하고 싶습니다. 왜냐하면 오늘날 많은 기술 기업들이 이 주제에 대해 이야기하고 있기 때문입니다. 그리고 우리는 전 세계에 10,000명에서 100,000명에 이르는 직원들이 분포되어 있고, 그들만의 업무 방식을 가진 회사에 대해 이야기하고 있습니다
-
-- **[Nhk broadcasting technology research laboratory's AI technology development initiatives](https://www.youtube.com/watch?v=4SBF0jHTUSs)** — 2025-12-17 · ko · `AX`
-  아, 소개 주셔서 감사합니다. NHK방송기술연구소의 엔도라고 합니다. 우선 자기 소개 간단하게 하고 싶다고 생각합니다만, 네, 2013년에 NHK에 입국 해, 다음 해부터 NHK 방송 기술 연구소에서 예, 연구 업무에 종사하고 있습니다. 합니다. 현재 연구소의 LLM 연구팀 추진 리더라는 포지션에서 근무 받고 있습니다. 이것이 오늘입니다. 아지엔다이지만 조금 시간이 없기 때문에, 네, 본편에 바로 들어갑니다. . 그래서, 그 NHK에 대해서는 여러분, 뭐, 아마 알고 계시는 것은 아니다. 라고 생각합니다만, 방송 기술 연구소에 대해서 는 모르는 분도 많을까 생각합니다.
-
-- **[Are Humanoid Robots Actually Coming to Your Home? | Nikolaus, Rerun](https://www.youtube.com/watch?v=vvvwWv5BK-s)** — 2025-12-16 · ko · `AX`
-  우리는 시각화, 특히 물리적 AI 애플리케이션과 같은 분야에서는 수익 창출이 어려울 것이라는 생각을 가지고 있었습니다. 데이터와 상호 작용할 수 있는 모든 단계를 시각화해야 합니다. 그러니까 지금까지 데이터 모델을 아마 네 번 정도 재설계하신 셈이네요. 와, 정말 멋지네요 . 인공지능과 로봇공학이 요즘 굉장히 뜨거운 주제인 것 같아요. 사람들이 잘 모르는 것 같은데, 년 전에는 효과가 없었지만 지금은 효과가 있는 것은 무엇인가요? 그래서 우리는 상당히 정교한 조작을 할 수 있는 능력에 있어서 정말 놀라운 발전을 목격하고 있습니다
-
-- **[Build reliable AI agents using W&B Training](https://www.youtube.com/watch?v=q4YnO0MBaeI)** — 2025-12-16 · ko · `AX`
-  [음악] 안녕하세요, 저는 Weights and Biases의 Russ입니다. 오늘은 Coreweed 기반의 서버리스 강화 학습(RL)을 통해 AI 에이전트 성능을 향상시키는 방법에 대해 이야기해 보겠습니다. 이 방법은 엄청난 시간, 자원, 또는 심도 있는 기술 전문 지식 없이도 가능합니다. 어떤 유형의 AI 애플리케이션을 개발하든 정확성, 지연 시간, 비용 및 안전성을 추적하는 것은 항상 중요합니다. 이러한 각 차원에 따른 성능 측정은 애플리케이션이 프로토타입에 더 가까운지 아니면 양산에 더 가까운지를 판단하는 핵심 지표입니다.
-
-- **[Nvidia's generative AI ecosystem supporting Japan's sovereign AI](https://www.youtube.com/watch?v=CwzX1-gfvc0)** — 2025-12-16 · ko · `AX`
-  지금 소개해 주신 NVDIA 에서 솔루션 아키텍트를하고 있습니다. 마루카미라고합니다. 음, 여기에서 네, 20 분 정도의 여기 제목으로 이야기 해 주시면 좋겠습니다. 그러니 잘 부탁드립니다. . 우선 먼저 조금 자기 소개하겠습니다. 제발. 음, 나이지만, 지금 NVDIA 11 년째 정도이지만 심지어 NVIA에 들어가기 전에는 신호 처리 라든지 화상 처리의 엔지니어로서 일하고 글쎄, 그때부터 기계 학습 나중에, 처리의 가속화를 위해, , 가속기, NVDIA GPU 뿐만 아니라 일부를 사용하고 있습니다.
-
-- **[Evolving large language model evaluation: practices and insights from the Swallow Project](https://www.youtube.com/watch?v=N9b6oAVuVZc)** — 2025-12-15 · ko · `AX`
-  네, 소개해 주셔서 감사합니다. 합니다. 음, 도쿄 과학 대학의 오카자키 합니다. 음, 오늘은, 음, 제목으로, 그 진화하는 대규모 언어 모델 평가 스와로 프로젝트에서, 음, 실천과 지견으로 말하기 싶습니다. 그래서 먼저 그 스왈로 프로젝트 란 무엇입니까? 싶지만, 그 전에 NVDIA의 무라카미 님으로부터, 그 소개 주셔서 그 대단한 공연이지만 음, 이런 프로젝트입니다. 말하자면, 우선 도쿄 과학 대학의, 음, 요코타 현과 삼층 현 실험실에서, 어, 합, 그, 개발 대규모 언어 모델입니다.
-
-- **[LLM research and development initiatives at the National Institute of Informatics](https://www.youtube.com/watch?v=md5l0BQ_VXA)** — 2025-12-15 · en · `AX`
-  This is Takeda from Ina. Thank you for the introduction. Um, today, I'd like to take about 20 minutes of your time to introduce you to an initiative called LLMJP, a nationwide LML study group mainly organized by the Research and Development Center for Large-Scale Language Models at the National Institute of Informatics. This initiative aims to develop a domestically produced large-scale language model that is strong in Japanese and possesses transparency and reliability .
-
-- **[Mistral AI ecosystem for Japanese builders and enterprises](https://www.youtube.com/watch?v=zAjxUbtJfIw)** — 2025-12-12 · en · `AX`
-  [music] Hi everyone and nice to meet you. I'm Joffrey. [applause] Hi everyone. Super nice to meet you. I'm Joffrey. I'm a developer relation engineer at MR AI. So what does that mean? uh out of the scope of my um responsibility. There's obviously talks this way. There's documentation, demo of new models and so on. I would like to thank you a lot because this is actually my first representation in uh in Japan.
-
-- **[Trends and outlook for the Ministry of Economy, Trade and Industry's AI policy](https://www.youtube.com/watch?v=lsHR2OvEZFY)** — 2025-12-12 · ko · `unclassified`
-  네, 여러분 안녕하세요. 경제산업성 와타나베 입니다. 잠깐 처음 아이 우고 소개를하면 조금 장애물이 올라갑니다. 하지만, 조금 나는, 음, 이런 입장이기 때문에 오늘 그 기술적인 이야기는 그렇지요. 그 양보하고 싶다는 바람에 생각합니다. 그리고 원래 정말 그 세부 사항은 잘 모르는 곳도 있습니다. 그냥 , 음, 컴퓨팅 부서입니다. 틀에서 여러분을 지원합니다. 하고 싶니, 아, 이것에 대해 네, 뭐, 오늘 이해해 주셔서 감사합니다. 생각합니다. 음, 음, 이것은 괜찮습니다. .
-
-- **[Fully Connected Tokyo 2025: Opening Keynote with W&B Cofounders Lukas Biewald & Chris Van Pelt](https://www.youtube.com/watch?v=Uw2aEJ4CzwM)** — 2025-12-11 · en · `AX`
-  Imagine a world where we decode the mysteries of disease, scale clean energy to protect Earth's resources, reach every eager learner, and distribute harvests globally, all while reclaiming ing time for what matters [music] most. We're in the era where this future is not only within reach, but unfolding faster than ever. [music] We're building autonomous agents today, and soon AI will [music] automate the very research that brought it to life, propelling us toward artificial [music] super intelligence.
-
-- **[How to Build AI Agents Capable of Competing in Real-World Settings](https://www.youtube.com/watch?v=E_ToyA780YU)** — 2025-12-11 · ko · `AX`
-  네, 응, 여러분 안녕하세요. 소개 감사합니다. 네, 생선 가게의 가을과 말씀드립니다. 네, 오늘은 그렇습니다. AI 에이전트에 대한 이야기입니다. 그러나, 특히, 네, 그 AI 에이전트를 어떻게 만드는지 말해 이야기를 넘어서, 네, 어떻게하면 사용 가능한 AI 에이전트, 음, 현명한 AI 에이전트를 만들 수 있다는 곳에 따라 이야기하고 싶습니다. AI 에이전트라는 말이 나오고, 조금 시간이 지났다고 생각해요. 에서 , 뭐, 상당히 사용한 적이 있다고 하는 분도 많다고 생각해, 뭐, 뭐라면 조금 만들어 한 적이 있다고 말하는 분도 계십니다.
-
-- **[Beyond the vibes: Learnosity’s journey to a robust LLM evaluation framework - FC London '25](https://www.youtube.com/watch?v=2a_hP_USLBs)** — 2025-12-09 · en · `AX`
-  Thank you so much for coming. Um, and thanks to ways and biases for inviting me to talk about the type of work we do at Lenosity. So, I just said this talk all be about eval evaluation and our journey through that kind of moving beyond initial vibes that we were that we were using and going towards more experimental and evidence-based approach for selecting the best models and prompts to use for our clients.
-
-- **[Rapid prototyping for reinforcement learning in industry - Festo @ Fully Connected London '25](https://www.youtube.com/watch?v=To6vJMxjWKo)** — 2025-12-09 · en · `AX`
-  Thanks for introduction. Yeah, I'm Shaham. Very excited today to be here and I would like to share with you some of our experience in the RL domain specifically for manufacturing. So it has been quite long story. We've been doing RL for now about four five years.
-
-- **[End-to-end driving​ with safety guardrails - Zenseact @ FC London '25](https://www.youtube.com/watch?v=Vnb9QfHopvI)** — 2025-12-08 · en · `AX`
-  Uh my name is Mashid. I'm from Zenact. We are Volvo backed autonomous driving company and today I'm going to talk about our end to end driving stack with safety guard railways. Uh our moto is towards zero fatalities faster. Every year around 1.2 million people die over accidents by cars. 50 plus million also injuries you will get. Therefore for us automation is not convenience it's about safety.
-
-- **[Maintaining high data standards and sovereignty at Denmark's supercomputer Gefion](https://www.youtube.com/watch?v=fAIl8ZZX-UM)** — 2025-12-08 · en · `unclassified`
-  Thank you [snorts] very much. I can see infrastructure is a very popular topic. Uh we can also so I when I was thinking about making this presentation we can all talk about you know GPUs and I thought maybe we should take a step back and kind of talk about what we do [snorts] and you know why are we in in this world and why does the infrastructure matter.
-
-- **[Sandbox breakout evals with Inspect - UK AISI @ FC London '25](https://www.youtube.com/watch?v=J79pSSAENYc)** — 2025-12-08 · en · `AX`
-  Thank you all for coming today. Yes. So my name is Harry Copoke. Um I'm a number 10 innovation f. Can everyone hear me? Going above. Yeah. I'm a number 10 innovation fellow where I work on PM priority issues using AI. And part of that was acting as a research scientist, one of the first technical hires uh to set up the AI security institute uh two years ago.
-
-- **[Automating knowledge work with AI agents - LlamaIndex @ Fully Connected London '25](https://www.youtube.com/watch?v=5jwiwaPyZCE)** — 2025-12-06 · en · `AX`
-  Thank you for the for the introduction. Um, ideally it was not gonna be me talking today. Um, so I'm here as a replacement forana. I don't want to steal her thunderish. These are her slides. So she's still here with us. Uh, &gt;&gt; she's alive. &gt;&gt; Yes. Yes, she she is. She is.
-
-- **[Building the next generation of computer use agents - H Company @ Fully Connected London '25](https://www.youtube.com/watch?v=1mHj2Ovxdhs)** — 2025-12-06 · ko · `AX`
-  안녕하세요 여러분. 이번 강연에 참여해주셔서 감사합니다 . H에서 하는 일에 많은 분들이 관심을 가져주셔서 기쁩니다. 먼저 H가 어떤 회사인지, 우리가 누구인지, 우리의 사명은 무엇인지 소개하고, H에서 개발하는 멋진 기술들을 보여드리겠습니다. H의 주요 사명은 더 나은, 더 안전한, 그리고 무엇보다 더 저렴한 에이전트를 만드는 것입니다. 우리는 방금 전에 멋진 일들을 하면 돈을 많이 절약할 수 있다는 아주 좋은 이야기를 나눴어요 . 직접 모든 것을 교육함으로써 더 나은 상담원을 확보하고 비용을 더욱 절감할 수 있습니다
-
-- **[The power of context: From traditional RAG to multi-agent retrieval - Contextual AI @ FC London '25](https://www.youtube.com/watch?v=JYZXsH1Xz0I)** — 2025-12-06 · ko · `AX`
-  알고리즘 맥락이죠, 그렇죠? XG Boost를 고려하고 기능 엔지니어링에 시간을 투자하세요 . BERT를 사용할 때는 최대 시퀀스 길이를 고려해야 합니다. 우리는 항상 최신 알고리즘과 맥락을 고려한 작업 방식 사이에 긴장감을 느껴왔습니다 . 그래서 오늘 우리는 이 주제를 중심으로 함께 여정을 떠나보려고 합니다. 간단히 제 소개를 드리자면, 저는 Contextual의 최고 홍보 책임자입니다. 저는 인공지능을 가지고 노는 것을 좋아합니다. 저는 그 주제에 대해 이야기하는 것을 좋아합니다 . 그래서 그들은 내게 수석 전도사라는 직함을 주었다.
-
-- **[Defining factors for enterprise AI agents - JetBrains @ FC London '25](https://www.youtube.com/watch?v=igUpMlGqyWo)** — 2025-12-05 · ko · `AX`
-  팔토리안, 즉 예측 가능성, 비용 효율성이야말로 미래 기업용 AI 에이전트를 정의하는 요소가 될 것입니다. 그럼 먼저 회사 소개부터 시작하겠습니다. 혹시 모르시는 분들을 위해 말씀드리자면, Jet Brains는 IntelliJ, PyCharm 등과 같은 전문가용 소프트웨어 개발사입니다 . 하지만 그 외에도 저희는 Jet Brains AI 브랜드를 보유하고 있습니다. 혹시 JetBrains CI에 대해 들어보신 분 계신가요 ? 좋아요, 꽤 많은 사람들이면 좋겠네요. 음, 간단히 개요를 말씀드리겠습니다. 그래서 저희 젯브레인즈에서는 아이디어를 바탕으로 AI 비서를 개발했습니다.
-
-- **[Multi-domain large language model adaptation using synthetic data generation - Shell @ FC London '25](https://www.youtube.com/watch?v=DFDjmoW2JdQ)** — 2025-12-05 · en · `AX`
-  Hello. Hi everyone. So today we're basically going to present multi-dommain adaptation using synthetic data generation. Basically we're going to tell you how we are doing it at shell. This work is in collaboration with Nvidia. So to start off what are we trying to achieve at Shell? At Shell, data is an asset. That would be decades of technical reports, operational insights and project documentation. But currently, this asset is trapped.
-
-- **[RAG is dead, long live RAG: Retrieval in the age of agents - LightOn @ Fully Connected London '25](https://www.youtube.com/watch?v=Dc1y_pulshw)** — 2025-12-04 · ko · `AX`
-  안녕. 오늘 함께해 주신 모든 분들께 감사드립니다 . 어, 헨이 말했듯이, 오늘은 증강현실 생성에 대해 이야기해 보겠습니다 . 제 생각에는 여러분 중 많은 분들이 소셜 미디어에서 그 잡지가 사라졌다는 주장을 보셨을 겁니다. 음, 그래서 오늘 우리는 이것에 대해 이야기해 볼 겁니다. 죽었나요? 살아있는 건가요? 음, 그리고 일반적으로 에이전트 시대에 데이터 검색이 어떻게 진행되고 있는지에 대해서요. 네, 저는 레이튼에서 일했는데, 거기서 엔터프라이즈 코파일럿을 개발했어요. 이건 문서 등을 더 쉽게 검색할 수 있도록 설계된 거예요.
-
-- **[Optimizing agentic AI workflows: Metrics-driven evaluation with W&B Weave and NVIDIA - FC London '25](https://www.youtube.com/watch?v=YOwDdwtNmPU)** — 2025-12-03 · en · `AX`
-  Hi everyone. Uh bearing in mind that I'm the only thing between uh you and drinks. Let's get this going. If you cannot see my face uh directly, you can see my face in the slide. So I'm Retita. I work for Nvidia as a solution architect. Most of what I do connects to evaluations.
-
-- **[Multi-agent applications in production - Google @ FC London '25](https://www.youtube.com/watch?v=WAI28NM0ASI)** — 2025-12-02 · ko · `AX`
-  네, 초대해 주셔서 감사합니다. 안녕하세요, 제 이름은 하이카입니다. 저는 구글에서 응용 인공지능 엔지니어로 일하며, 고객과 협력하여 다중 에이전트 애플리케이션을 구축합니다. 먼저 말씀드리자면, 오늘 제가 выска한 의견은 전적으로 제 개인적인 생각이며, 고용주의 의견을 반드시 반영하는 것은 아닙니다 . 예를 들어, 저는 MCP와 A2A를 사용하여 다중 에이전트 시스템을 구축하는 방법에 대한 기사도 썼습니다. 음, 저는 개인적인 입장에서 그 글을 썼습니다 .
-
-- **[Understanding the new AI tech stack: Infrastructure, models, agents](https://www.youtube.com/watch?v=4_BybRqrYcc)** — 2025-12-02 · ko · `AX`
-  그래서 우리는 스택의 위쪽으로 차근차근 올라가면서 진행할 겁니다. 하지만 그 전에, 각 궁궐 관계자들이 스스로를 소개하도록 하겠습니다. 그들이 작년에 인공지능 분야에서 집중적으로 연구해 온 가장 중요한 증거는 무엇인가요 ? 패널 구성원 소개를 어떻게 진행할지 간단히 설명드리겠습니다. 마이크, 먼저 시작하시겠습니까? 예. 먼저, 오늘 여러분과 함께하게 되어 정말 기쁩니다. 음, 아시다시피 저는 종종 금융 전문가들로 가득 찬 방에 있게 됩니다. 오늘 밤 건설업자분들과 함께하게 되어 정말 기쁩니다 . 훨씬 더 재밌어요.
-
-- **[Using MCP to analyse your experiments & create reports in natural language](https://www.youtube.com/watch?v=RocYCoZbHI8)** — 2025-12-02 · ko · `AX`
-  안녕. 음, 제 이름은 안나예요. 저는 미스트롤의 제품 팀 소속입니다. 이 프레젠테이션은 MCP에 관한 내용입니다. 음, MCP가 무엇인지, 왜 사용하기로 결정했는지, 어떻게 사용하고 있는지에 대해 설명하고 , 그 다음에는 가중치 및 편향 환경을 활용하여 무엇을 할 수 있는지에 대해 좀 더 자세히 살펴보겠습니다. 음, MCP를 사용해서 개발하고 계신 분, 그리고 MCP에 대해 들어보신 분 중에 손을 들어보실 수 있을까요? 더 많아야 할 텐데. 네, 사람들이 듣기는 했지만 MCP와 직접 협력하고 있다는 얘기는 아직 안 들었을 수도 있어요.
-
-- **[Runway’s Gen 4.5 and the Future of AI Video](https://www.youtube.com/watch?v=kLZmSvtJhKc)** — 2025-12-01 · ko · `AX`
-  비디오 모델을 이해하는 가장 좋은 방법은 비디오 모델을 기본적으로 범용 시뮬레이션 엔진으로 이해하는 것입니다. 그들은 모든 것을 효과적으로 시뮬레이션하려고 시도할 수 있고, 실제로 시도할 것입니다. 우선 엔터테인먼트와 미디어를 시뮬레이션하고 있지만, 모델이 앞으로 그보다 훨씬 더 많은 것을 시뮬레이션하게 될 것이라는 점을 알 수 있을 겁니다. 있잖아요, 저는 항상 '와, 런웨이가 구글의 막대한 자원과 어떻게 경쟁할 수 있을까?'라고 생각해요. 그 방식이 어떻게 작동하는지에 대해 다른 의견이 있으신가요?
-
-- **[Scalable autonomy through embodied AI](https://www.youtube.com/watch?v=W-odbzoV6TM)** — 2025-12-01 · ko · `unclassified`
-  감사합니다. [박수] 안녕하세요 여러분, 물리적 AI에 대해 더 자세히 이야기 나눌 수 있게 되어 기쁩니다 . 음, 물리적 세계의 인공지능이요. 음, 꽤 많은 분야가 있는 것 같고, 여러분 대부분이 인공지능 분야에서 일하시는 걸로 알고 있습니다. 음, 여러분 중에 오프라인에서 일하시는 분들이 얼마나 되는지 모르겠네요. 음, 손들어 보세요. 많지 않아요. 그래서 음, 그러니까 저는, 음, 그렇다면 이 이야기는 매우 환영받을 만한 것입니다. 음, 저는 주로 자동차에 대한 이야기를 합니다.
-
-- **[Taking agents from demo to production: Product overview from Weights & Biases by CoreWeave](https://www.youtube.com/watch?v=AQXCG6v6D10)** — 2025-12-01 · ko · `unclassified`
-  대규모 언어 모델이 수학 올림피아드에서 만점을 받고, 새로운 단백질을 설계하고, 변호사 시험에 합격할 수 있다면, 왜 인공지능 에이전트가 아직 모든 곳에 보급되지 않았을까요? 그들은 어려운 과제를 훌륭하게 수행하지만, 인간이라면 하지 않을 간단한 실수도 저지릅니다. 데모에서 실제 제품으로의 전환을 가로막는 장애물은 기능이 아니라 신뢰성입니다. 신뢰성 문제에도 불구하고, 소수 의 기업들이 이미 에이전트를 운영 중입니다. 그들은 어떻게 해냈을까? 그 비결은 바로 새로운 AI 개발자 툴 스택에 있습니다.
-
-- **[Physical AI: Unlocking business value with foundation models and digital twins](https://www.youtube.com/watch?v=1GAJPgxzpLE)** — 2025-11-25 · ko · `AX`
-  오른쪽. 저와 스티븐, 그리고 팀원들을 초대해 주셔서 감사합니다. 제가 당신을 만날 수 있을지는 모르겠지만, 초대해 주셔서 감사합니다. GSK에서, 특히 공급망 분야에서 어떤 일을 하는지 조금이나마 보여드릴 수 있기를 바랍니다. 그러니까, GSK와 글로벌 공급망에 대해 잘 모르시는 분들을 위해 설명드리자면, 글로벌 공급망은 연구개발 이후의 모든 것을 아우르는 개념입니다. 그러니까 서류가 접수되고, 생산에 들어가고, 백신 이나 의약품을 환자들에게 배송하고 싶을 때가 되면 되는 거죠? 보시는 바와 같이 저희는 전 세계에 37개의 마이크로파 발생 시설을 보유하고 있습니다
-
-- **[Fully Connected 2025 kickoff: The rise (and the challenges) of the agentic era](https://www.youtube.com/watch?v=YoRNgLXzrVo)** — 2025-11-24 · ko · `AX`
-  [박수] 완전 연결 런던 둘째 날에 오신 것을 환영합니다 . 손 좀 들어주세요. 첫날부터 여기 있었던 사람 누구? 와 , 훌륭하네요. 돌아오신 걸 보니 정말 반갑습니다. 다시 와주셔서 감사합니다. 안녕하세요, 저는 로빈 보르둘리입니다. Weights and Biases에서 전 세계 고객들이 AI 개발자 플랫폼을 활용하여 AI를 더 빠르게 개발 하고 성공할 수 있도록 지원하는 글로벌 시장 진출 팀을 이끌게 되어 매우 기쁩니다 . 하지만 오늘 제 역할은 바로 이 행사의 사회를 맡는 것입니다
-
-- **[Fully Connected keynote: Building tools for agents at Weights & Biases](https://www.youtube.com/watch?v=-7QfVraLHw4)** — 2025-11-24 · ko · `AX`
-  [박수] 좋습니다. 고마워, 로빈. 음, 이곳에 3년째 함께하게 되어 정말 기쁩니다. 불과 몇 년 전만 해도 유럽 시장이 얼마나 작았는지 기억하는데, 지금은 열정과 아이디어 면에서 폭발적으로 성장한 모습을 보니 정말 놀랍습니다. 그리고 아시다시피, 사용자나 이해관계자 앞에서 미래 로드맵에 대해 이야기하는 이런 종류의 발표에는 일종의 전통이 있다고 생각하는데, 지금 AI 분야에서는 그렇게 하기가 정말 어렵습니다. 제 생각에 제가 6개월짜리 로드맵이나 12개월짜리 로드맵을 말씀드리면, 여러분은 아마 믿지 않으시겠죠?
-
-- **[The $2B Company Cutting AI Costs By 60% | Tuhin Srivastava](https://www.youtube.com/watch?v=QJUsxm1Nmos)** — 2025-11-18 · ko · `AX`
-  모델이 모든 것을 처리하고 모든 가치가 애플리케이션 계층에 집중되는 세상으로 변화하고 있습니다. 만약 인공 일반 지능(AGI)이 존재한다면, 어느 정도까지만 존재하는 시장은 그 모델이 무엇을 해야 하는지에 대한 것일 것이고, 그 모델은 오직 자체적인 데이터에 기반해서만 작동할 수 있을 것이다. 각인에는 두 가지 다른 부분이 있습니다. 그래서 인프라 수준에서 보면 5, 10, 100,000개의 GPU에 걸쳐 워크로드가 실행되고 있다고 생각합니다 . 이 시스템은 어떻게 확장될까요? 두 번째는 런타임 수준의 문제입니다.
-
-- **[Build and monitor multi-agent contact centers using Weights & Biases](https://www.youtube.com/watch?v=MjqHVfmKEoM)** — 2025-10-28 · ko · `AX`
-  [음악] 안녕하세요, 저는 Weights and Biases의 Russ입니다. 오늘은 Weights and Biases AI 개발자 플랫폼이 어떻게 신뢰할 수 있고 고품질의 다세대 AI 컨택 센터를 구축하기 위해 평가, 모니터링 및 반복 작업에 필요한 도구를 제공하는지 설명드리겠습니다. 자동응답 시스템과 통화할 때면, 상담원과 연결되기를 바라며 별표 버튼과 0번 버튼을 반복해서 누르게 되는 경우가 많습니다 . 기존 컨택센터 기술은 내부 물류 문제와 외부 고객 지원 문제를 효율적이고 효과적으로 해결하는 데 있어 많은 한계를 가지고 있습니다.
-
-- **[Introducing serverless reinforcement learning: Train reliable AI agents without worrying about GPUs](https://www.youtube.com/watch?v=pecSfrcQZbI)** — 2025-10-24 · ko · `AX`
-  좋아요, 알겠습니다. 그럼 간단하게 자기 소개를 해볼까요? 음, 제 생각엔, 어, 네, 다니엘, 먼저 시작하시고 제가 두 번째로 할게요? 확신하는. 안녕하세요, 저는 다니엘입니다. 저는 최근 Coreweee에 인수된 OpenPI와 Weights and Biases 산하의 많은 고객들과 함께 일해 왔습니다. 음, 저는 여러 고객들과 함께 이러한 솔루션을 개발하는 일을 정말 좋아합니다. 다시 말씀드리지만, 만약 이 소식을 처음 접하셨다고 해서 뒤처진 것은 아닙니다 . 네, 저희가 기꺼이 도와드리고 이용 가능한 훌륭한 자료들을 모두 알려드리겠습니다.
-
-- **[The world’s first Serverless RL capability is now available!](https://www.youtube.com/watch?v=4AHB6g50TaA)** — 2025-10-14 · ko · `unclassified`
-  얘들아, 산타 할아버지가 뭘 가져다주셨는지 봐봐. 안 돼요. Cororeweave의 Open Pipe 팀에서 제공하는 서버리스 강화 학습 서비스입니다. 그게 바로 내가 원하던 거야. RL 인프라 구축은 예전에는 정말 어려웠습니다. 이렇게 하면 더 쉬워질 겁니다. 감사합니다, 오픈 파이프 팀. Open Pipe와 Cororeweave를 이용한 서버리스 강화 학습 . 지금 바로 구매 가능합니다.
-
-- **[Production monitoring for AI applications using W&B Weave](https://www.youtube.com/watch?v=djJWhJKp-vo)** — 2025-09-17 · en · `AX`
-  [Music] Hi, I'm Russ from Weights and Biases and today I'll be discussing W andBWeave online evaluations, a new feature that allows scoring production traces in real time, enabling continuous monitoring of AI applications and agent performance to catch issues instantly and maintain quality over time. Developing the best performing AI agent or application requires rigorous, thorough evaluations.
-
-- **[Accelerating ML workflows: IBM x Weights & Biases](https://www.youtube.com/watch?v=HFoLqPhCJjM)** — 2025-09-16 · en · `unclassified`
-  [Music] We have very ambitious goals in IBM for for AI. It's going to change the way that we do our jobs. It's going to change the way that teams work together. Everybody's got an opportunity to participate in this change and to imagine how the future could be. Granite is IBM's series of models that are open source and that are optimized for enterprise use.
-
-- **[The Startup Powering The Data Behind AGI](https://www.youtube.com/watch?v=X39OZndIWSY)** — 2025-09-16 · en · `AX`
-  You're listening to Gradient Descent, a show about making machine learning work in the real world. And I'm your host, Lucas Bewald. Today I'm talking with Edwin Chen, who's the CEO of Surge. I was really looking forward to talking to Edwin for for a long time for a number of reasons. I mean, one thing is that Edwin has built an incredibly valuable business with no venture backing in a really short amount of time.
-
-- **[Fully Connected London 2025: Agentic AI applications from prototype to production](https://www.youtube.com/watch?v=khZS7dMkqek)** — 2025-08-11 · en · `unclassified`
-  [Music] Hey, hey, hey.
-
-- **[Streamline evaluation, monitoring, optimization of AI data flywheel with NVIDIA and Weights & Biases](https://www.youtube.com/watch?v=1QdQjGTMBPc)** — 2025-08-07 · en · `AX`
-  [Music] Hello everyone. I'm Anish Sha and I'm really excited to talk about some new blueprints that we have co-developed with the NVIDIA team to make sure that you can go ahead and improve your AI applications even further than what you already have in place.
-
-- **[Arvind Jain on building Glean and the future of enterprise AI](https://www.youtube.com/watch?v=lYz5MQvK3wU)** — 2025-08-05 · en · `AX`
-  You're listening to Gradient Descent, a show about making machine learning work in the real world. And I'm your host, Lucas Bewald. This is a conversation with Arvin Jane, who I've known for a while. Arind is the CEO of Glean, which is one of the most successful enterprise companies using LM. Maybe right now the most successful um enterprise company that foundationally uses LMS.
-
-- **[CoreWeave infrastructure observability in W&B Models](https://www.youtube.com/watch?v=usso83LOwLE)** — 2025-08-04 · en · `AX`
-  Hi, I'm Russ from Weights and Biases and today I'll be discussing an exciting new integration between Coreweave and Weights and Biases that allows AI and ML engineers to automatically see Coreweave events in their W&amp;B models workspace. When training and fine-tuning AI and ML models at scale, where runs can last days, weeks, or even months, it's critically important to constantly track progress, or lack thereof.
-
-- **[Building agentic AI workflows with W&B Weave: a hiring assistant case study](https://www.youtube.com/watch?v=tRGoT1QV8VA)** — 2025-07-10 · en · `AX`
-  [Music] Hello everyone. This is Nico and Karan and today we'll be walking you through a state-of-the-art agent AI application focused on evaluation, guardrails, and auditability. For the purposes of this demo, we'll use a hiring agent. So here's what the overall higher level workflow looks like. So as you can see there's two main inputs. One is the resume and other is the job opening. So these would be the two inputs.
-
 ## Boston Dynamics (76건)
 
 - **[Spot Mariana Minerals | Boston Dynamics](https://www.youtube.com/watch?v=KywMP9_SyRg)** — 2026-07-22 · ko · `unclassified`
@@ -958,225 +1248,7 @@
 - **[Do You Love Me?](https://www.youtube.com/watch?v=fn3KWM1kuAw)** — 2020-12-29 · ko · `unclassified`
   춤을 못 춰서 네가 내 마음을 아프게 했어. 넌 날 원하지도 않았지. 하지만 이제 내가 돌아와서 제대로 춤출 수 있다는 걸 알려주려고 왔어.
 
-## Google Developers (72건)
-
-- **[How are large language models trained?](https://www.youtube.com/watch?v=JRArFxEfyQU)** — 2026-07-22 · ko · `AX`
-  대규모 언어 모델은 방대한 양의 텍스트로 학습된다거나, 대규모 언어 모델은 시퀀스에서 다음 토큰을 예측한다는 말을 들어보셨을 겁니다 . 하지만 그 모든 것이 실제로 무엇을 의미하는 걸까요? 대규모 언어 모델은 실제로 어떻게 훈련되었을까요? 이 영상에서는 유용한 비서처럼 행동하고, 지시를 따르고, 도구를 사용하며, 전반적으로 적절한 분위기를 풍기며 반응하는 대규모 언어 모델을 훈련하는 단계를 살펴보겠습니다. 첫 번째 단계는 사전 훈련입니다. 이 단계에서 모델은 다음 토큰 예측이라는 작업을 통해 학습됩니다.
-
-- **[Antigravity Arcade: From prompt to game in minutes](https://www.youtube.com/watch?v=8I7wr2hYFec)** — 2026-07-17 · ko · `AX`
-  안녕하세요, 저는 톰 그린어웨이이고 구글 개발자 관계팀 소속입니다 . 오늘 저는 동료 제임스 오라일리와 함께 구글 I/O를 위해 개발한 프로젝트인 안티그래비티 아케이드(Anti-Gravity Arcade)를 소개하겠습니다. 이 프로젝트를 통해 기존 개발자든 아니든 누구나 안티그래비티가 설치된 노트북과 다양한 AI 기술 및 워크플로를 활용하여 게임 아이디어만 있으면 몇 분 안에 AI가 게임을 완전히 생성하고 아케이드 기기에서 실행할 수 있습니다. 저희는 Anti-Gravity, Gemini, Cloud Run, Firestore 및 Firebase 인증을 포함한 다양한 Google 기술을 사용하여 이 워크플로 및 배포 흐름을 구축했습니다
-
-- **[Get started with the Interactions API](https://www.youtube.com/watch?v=iOK1-b_9Dlg)** — 2026-07-17 · ko · `AX`
-  Interactions API가 이제 정식으로 출시되었습니다. 이것은 모든 제미니 모델과 에이전트를 위한 통합 인터페이스이기 때문에 매우 흥미롭습니다. 단일 API를 통해 쉽게 액세스할 수 있습니다. 그리고 이건 정말 강력한 기능입니다. 왜냐하면 보시다시피, 모델과 상호작용을 만들어낼 수 있기 때문입니다. 그래서 이것은 동기식으로 진행될 것입니다. 음, 전화를 걸면, 아시다시피, 답변을 받을 수 있을 거예요. 또는, 예를 들어 원격 환경에서 반중력 에이전트가 정말 어려운 작업을 수행하도록 할 수도 있습니다. 여러 단계가 필요하고, 설치 설정 같은 것도 해야 하잖아요.
-
-- **[Build With AI 2026 Recap](https://www.youtube.com/watch?v=yGHi5V4sVkc)** — 2026-07-10 · ko · `unclassified`
-  가장 흥미로운 점은 사람들이 앞으로 어떤 프로젝트들을 만들어낼지 지켜보는 것입니다 . 저희는 기술 애호가들(음악 분야)이 구글 도구를 사용하는 방법을 배울 수 있도록 정기적으로 이벤트를 개최하고 있습니다 . 그들이 제공하는 모든 제품을 마음껏 사용해보고, 인공지능도 활용해 보세요. 이것은 실제로 모든 분야의 개발자를 위한 AI 기반 도구입니다. 그러한 행사에 참석하는 음악 관련 사람들의 대부분은 개발자나 엔지니어입니다. 저는 이미 AI 교육 과정에 등록했어요 . 인공지능 에이전트는 우리 미래의 중요한 부분을 차지하게 될 것입니다.
-
-- **[Building an Android app in AI Studio](https://www.youtube.com/watch?v=KwJwYIqDMLY)** — 2026-07-07 · ko · `AX`
-  안녕하세요 여러분, 이번 튜토리얼에서는 안드로이드 앱을 만들고 휴대폰에 설치하는 방법을 보여드리겠습니다. 이 예시에서는 개인 맞춤형 할 일 목록 및 운동 추적 앱을 만들어 보겠습니다. 이 작업을 수행하는 데에는 기술적인 지식이나 안드로이드 관련 지식이 전혀 필요하지 않습니다. 간단한 프롬프트로 앱에 접근할 수 있습니다. 이를 위해 ai.studio로 이동한 다음 빌드 탭으로 이동하고 여기에서 Android 앱을 빌드할 칩을 선택한 다음 빌드할 내용을 설명할 수 있습니다 . 그럼 제가 예시 하나를 여기에 복사해 놓겠습니다.
-
-- **[Build agents with Gemini API (I/O Connect ‘26)](https://www.youtube.com/watch?v=d9LAQWKUnx8)** — 2026-07-06 · ko · `AX`
-  [음악] 제 이름은 마리아노입니다. 저는 구글 딥마인드에서 제품 관리자로 일하고 있습니다. 저는 주로 Gemini API의 에이전트 기능 관련 업무를 담당합니다 . 오늘은 Gemini API를 사용하여 에이전트를 구축해 보겠습니다. 하지만 그 전에 , 우리가 여기까지 오게 된 배경을 간략하게 살펴보고 싶습니다. 좋아요. 2024년 이후로 우리가 얼마나 많은 제품을 출하했는지 잠시 생각해 보고 싶습니다. 제미니 1.5로 시작해서 여러 모델을 거쳐왔고, 제미니 2.5처럼 많은 사랑을 받은 모델도 있었고 , 이제 마침내 제미니 3.
-
-- **[Build creative apps with the GenMedia suite (I/O Connect ‘26)](https://www.youtube.com/watch?v=nRLZqaNOrwQ)** — 2026-07-06 · ko · `AX`
-  [음악] 저는 기욤입니다. 저는 구글 딥마인드의 제미니 팀 소속으로 , 저희가 출시하는 모든 모델을 여러분이 필요로 하는 모든 것을 활용할 수 있도록 지원하는 일을 맡고 있습니다 . 특히 저는 오늘 우리가 이야기할 제미니 모델들을 전문적으로 담당하고 있습니다. 음, 그리고 보시다시피, 저는 예전에 비디오 게임 프로듀서로도 일했었습니다. 음, 그렇다면 우리가 왜 쌍둥이자리에 대해 이야기하고 싶어하는 걸까요 ? 하지만 우리 주변의 모든 것이 쌍둥이자리이기 때문이죠. 몇 년 전만 해도 LLM 과정은 정말 훌륭했죠.
-
-- **[Create agent skills for on-device generative AI (I/O Connect ‘26)](https://www.youtube.com/watch?v=KIp8PAU3oAI)** — 2026-07-06 · ko · `AX`
-  [음악] 안녕하세요 여러분. 저는 구글 AI 엣지 팀 에서 개발자 관계 엔지니어로 일하는 마리암 월시입니다 . 그리고 저와 함께 발표를 맡아주신 분은 레자 헤다야티 씨입니다. 안녕하세요. 경량 TLM 개발에 참여하는 소프트웨어 엔지니어입니다 . 오늘은 기기 내 생성형 AI를 위한 에이전트 스킬을 직접 만드는 방법을 알려드리겠습니다 . 자, 여기 계신 분들 중에 클라우드 환경에서 모델을 실행해 본 경험이 있는 분이 몇 분이나 되시나요? 누구나? 시원한. 음, 기기에서 모델을 실행해 본 사람이 몇 명이나 될까요 ?
-
-- **[Dynamic Callbacks on Android for Google Pay](https://www.youtube.com/watch?v=WZvd1tUreTY)** — 2026-07-06 · ko · `unclassified`
-  안녕하세요, 구글 페이 개발자 여러분. 이벤트 기반 배송 업데이트는 웹용 Google Pay의 표준 기능이었지만 , 이제 모바일에서도 동일한 기능을 제공합니다 . 이 영상에서는 안드로이드 앱이 배송 및 주소 변경 사항에 실시간으로 반응할 수 있도록 새로운 동적 콜백을 구현하는 방법을 보여드리겠습니다 . Play Services Wallet 20.0.0 버전 출시로 이제 Android 애플리케이션에서 결제 데이터 변경 및 결제 승인 콜백을 기본적으로 구현할 수 있습니다 .
-
-- **[Sameer Samat on Android 17 and the Future of Intelligent Computing](https://www.youtube.com/watch?v=YvVsdZL2ogY)** — 2026-06-30 · ko · `AX`
-  저는 음악이 틀을 벗어던지길 바랄 뿐입니다. 솔직히 말해서, 다시는 서류 작성을 하고 싶지 않아요 . 여름휴가를 위해 항공편을 여러 개 예약했는데, 15살짜리 딸아이 여권 번호를 외워버렸어요. 하지만 그걸 외우고 싶진 않거든요. 저는 제 집이 없어요. 응. 음, 제가 너무 여러 번 시도하다 보니, 마치 제정신이 아닌 것 같아요 . 그래서 슈퍼필은 우리 모두가 이름, 주소, 신용카드 정보 등을 자동 완성하는 데 익숙해진 기능과 같습니다. [음악] 슈퍼필은 그것을 훨씬 더 많은 분야로 확장한 것입니다
-
-- **[Gemma 4 in Action: Bringing Frontier AI to the Edge](https://www.youtube.com/watch?v=HcwMTu1xQDw)** — 2026-06-29 · ko · `unclassified`
-  오늘날 가장 강력한 AI 모델들은 모두 한 가지, 즉 인터넷 연결에 의존합니다 . 이는 전 세계 수십억 명의 사람들이 사실상 배제된다는 것을 의미합니다. 그래서 젬마는 [음악을 통해] 새로운 질문을 던지기 위해 태어났습니다 . 최첨단 지능이 어디서든 어떤 기기에서든 작동할 수 있게 되면 세상은 어떻게 변할까요? 젬마는 오픈 모델입니다. 이 단체는 인공지능을 최대한 많은 사람들이 이용할 수 있도록 하기 위해 존재합니다 . 이 소프트웨어는 오늘날 사람들이 사용하는 다양한 기기에 배포하기에 적합한 크기를 제공함으로써 이를 가능하게 합니다.
-
-- **[AI tools for human creativity](https://www.youtube.com/watch?v=cL7uFe5RqHY)** — 2026-06-26 · ko · `AX`
-  지금은 인간이 가장 창의적이어야 하는 시대입니다. [음악] 토토, 왠지 우리가 더 이상 캔자스에 있는 것 같지 않아 . [소리 지르며] 그렇지? [음악] 네. 내가 가진 건 뭐지? [음악] 좋아요. [음악] 안녕하세요 여러분. 안녕하세요 여러분, 인간의 창의성을 위한 AI 도구에 오신 것을 환영합니다 . 저희와 함께해 주셔서 정말 기쁩니다 . IO에서 처음으로 열리는 빌더 스테이지에 오신 것을 환영합니다. [환호] [박수] 제 이름은 매튜 캐리입니다. 저는 알렉스입니다. 저희는 구글 크리에이티브 랩이라는 팀 소속입니다
-
-- **[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)** — 2026-06-26 · ko · `unclassified`
-  지금 바로 그렇게 하도록 선택하세요. 늘 그렇듯이. [음악] 젬마의 또 다른 활용 분야는 로봇 공학이나 사물 인터넷 기기 같은 것들입니다. 따라서 노트북이나 데스크톱 같은 하드웨어 뿐만 아니라 라즈베리 파이, 젯슨, 오린 나노 같은 기기에서도 모델을 실행할 수 있습니다. 그리고 이 모델들은 로봇이 그러하듯이 음악이라는 세계와 상호작용할 수 있습니다 . 그래서 그들은 보고 들을 수 있고, 당신을 대신해서 행동할 수 있습니다 . 여기 있는 것은 Hugging Face와 Pollen Robotics가 만든 Reachy Mini입니다
-
-- **[Gemini 3.5 Live Translate, Gemini in Xcode, and more! - Google Developer News June 2026](https://www.youtube.com/watch?v=UlbokBsjMRY)** — 2026-06-25 · ko · `AX`
-  -개발자 뉴스 최신화입니다 오늘 소식은 Gemini 3.5 Live Translate AI Edge 기반 Gemma 4 12B와 Xcode에 통합된 Gemini 관련 내용입니다 저는 진행자 Anaya Mehta입니다 Google I/O에서 전해드린 Google 개발자 발표 내용을 꾸준히 챙겨 보셨기를 바랍니다 아니더라도 오늘 알려드릴게요 지금 시작합니다 GOOGLE 개발자 뉴스 먼저 Gemini 3.5 Live Translate 소식입니다 Google에서 Gemini 3.5 Live Translate이라는 새로운 S2S 모델을 출시했습니다 70여 개 언어를 준실시간으로 통역할 수 있습니다
-
-- **[Gemma Playground: Parallel Agents in Action](https://www.youtube.com/watch?v=bfvS1UeAkN0)** — 2026-06-22 · ko · `AX`
-  Gemma 4의 강력한 멀티 에이전트 기능을 시연하는 자리에 오신 것을 환영합니다. 오늘은 Gemma 4 26B 모델을 사용하여 로컬에서 실행되는 병렬 에이전트 데모 [음악]를 살펴보겠습니다 . 먼저 시스템에 간단한 상위 수준 명령을 입력합니다. 우주 또는 SF 테마를 기반으로 독창적인 SVG 파일을 생성하세요 . [음악] 즉시, 오케스트레이터 에이전트가 이 프롬프트를 받아 작업량을 위임합니다. 오케스트레이터는 이러한 이미지를 하나씩 생성하는 대신 10개의 독립적인 하위 에이전트를 생성합니다.
-
-- **[Gemma 4 and the AI Edge Gallery: On-Device AI Gets an Upgrade](https://www.youtube.com/watch?v=O6499i4TFYA)** — 2026-06-18 · ko · `unclassified`
-  여러분, 제 이름은 올리비에입니다. 저는 Gemma 제품 리더이며, 오늘은 Gemma와 AI 엣지 갤러리 구현에 대해 이야기해 보겠습니다. 안녕하세요, 저는 거스입니다. 저는 한동안 젬마 팀에서 일했어요 . 저는 이 제품을 정말 좋아하고, 젬마에 대해 조금 이야기할 수 있게 되어 매우 기쁩니다. 안녕하세요, 저는 앨리스입니다. 저는 Google AI Edge의 제품 관리자입니다. 오늘 이 자리에 함께하게 되어 기쁩니다. 너무 멋지다. 자, 그럼 AI 엣지에 대해 좀 더 구체적으로 이야기하기 전에, Gemma 4 에서 무엇을 출시했는지 간단히 되짚어보는 시간을 갖는 건 어떨까요 ?
-
-- **[Gemma Playground: AI Edge Gallery](https://www.youtube.com/watch?v=XkwQwBZ_Q8w)** — 2026-06-18 · ko · `AX`
-  대부분의 사람들은 젬마 모델이 노트북, 데스크톱 등 다양한 기기에서 작동할 수 있다는 것을 알고 있습니다. 하지만 휴대폰에서도 작동한다는 사실은 잘 모르는 사람들이 많습니다. 저는 지금 픽셀 10 프로를 사용하고 있고, 구글 AI 엣지 갤러리 앱을 실행 중입니다. 그리고 제가 여러분께 보여드릴 것은 Gemma를 사용하여 사진을 찍고, 세상을 이해하고, 오디오를 녹음하고, 음악 에이전트 와 에이전트 스킬을 사용하는 방법입니다. 이 모든 기능은 이 기기에서 로컬로 실행됩니다 .
-
-- **[Run Gemma on the edge with the Coral Board](https://www.youtube.com/watch?v=o2rUT2GloV0)** — 2026-06-15 · en · `unclassified`
-  This is CoralBoard, built for on-device AI with Google's Coral MPU machine learning accelerator inside. Small, [music] low power, and built for developers to experiment with on embedded devices. And it runs Gemma. Everything happens on the board. &gt;&gt; [music] &gt;&gt; So, we packaged it into a kit for IO, a screen, a camera, microphones, LED, everything you need to see what's possible on the edge.
-
-- **[AIventure: Vibe Coding Journey](https://www.youtube.com/watch?v=xQcbwGS6Ahc)** — 2026-06-12 · en · `AX`
-  - Want to learn how to build agentic workflows and integrate vibe coding into your apps? Well we built AIventure, an open source retro dungeon crawler that doubles as a Gen AI masterclass for developers. Built on an Angular and Phaser.js stack, AIventure is powered by Google's Gemma 4 open weights model. First, we'll explore vibe coding. You prompt a Chicken NPC to build a web app.
-
-- **[Yossi Matias on the golden age of research](https://www.youtube.com/watch?v=FPBwadTeph0)** — 2026-06-11 · ko · `AX`
-  미래에 가장 중요한 음악적 기술은 무엇일까요? 기초를 어느 정도까지 배워야 하는지에 대해서는 논쟁의 여지가 있습니다. 개인적으로는 음악을 코딩하는 방법이나 기초 컴퓨터 과학 등을 생각하는 것이 그 어느 때보다 중요해질 것이라고 생각합니다. 동의합니다. 제 말은, 저는 컴퓨터 과학은 언어를 배우는 게 아니라고 항상 생각해 왔다는 거예요. [음악] 생각하는 법을 배우는 거예요. 네. 그래서 어떤 의미에서는 계산기가 보편화된 이후에도 수학이 중요한 이유와 마찬가지로, 앞으로는 그 어느 때보다 더 중요해질 것입니다. 안녕하세요 여러분, 잘 지내시나요?
-
-- **[Gemma Playground: Robot Duck](https://www.youtube.com/watch?v=pLwB_63yUBY)** — 2026-06-09 · ko · `unclassified`
-  저는 오텀이라는 이름의 작고 두 발로 걷는 로봇 오리입니다. 오늘 저는 Gemma 4가 기기에서 무엇을 할 수 있는지 보여주기 위해 이 두 마리의 작은 [음악] 오리를 여러분께 소개하게 되어 매우 기쁩니다 . 이것들은 GitHub의 Antoine Piron이 만든 오픈형 미니 오리 버전 2입니다 . 그리고 그 아이디어는 Gemma 4의 성능을 활용하여 기기 내에서 추론을 수행하고 오리들을 더 똑똑하게 만드는 것이었습니다.
-
-- **[Introducing Gemini 3.5 Live Translate](https://www.youtube.com/watch?v=TNwKs39uSVk)** — 2026-06-09 · ko · `unclassified`
-  안녕하세요 여러분, 오늘은 끊김 없는 음성 대 음성 번역을 위해 개발된 최신 모델인 Gemini 3.5 Live Translate를 출시하게 되어 매우 기쁩니다 . 이미 구글 번역에서 다양한 기능을 제공하고 있지만 , 이제 API를 통해 개발자들이 직접 이 기능을 사용할 수 있도록 제공합니다 . 오늘부터 70개 이상의 지원 언어에 걸쳐 입력과 출력 모두에 실시간 번역 기능을 통합할 수 있습니다 . 두 가지 데모를 통해 이 제품의 기능을 보여드리겠습니다.
-
-- **[Managed Agents in the Gemini API](https://www.youtube.com/watch?v=Psa8mLikdag)** — 2026-06-03 · ko · `AX`
-  오늘은 Gemini API의 관리형 에이전트에 대해 이야기해 보겠습니다 . 알리와 필립 둘 다 그 일에 참여했습니다. 알리, 제미니 API의 관리형 에이전트 관련 소식부터 간단히 소개해 주시겠어요? 네, 당연하죠. 간단히 말해서, API 호출 한 번으로 사용자를 대신하여 문제를 창의적으로 해결할 수 있는 자율 에이전트를 얻을 수 있습니다. 이것의 흥미로운 점 중 하나는 샌드박스 형태의 리눅스 환경과 유사한 원격 환경에서 작동한다는 것입니다. 따라서 문제를 해결하기 위한 코드를 작성하거나, bash 명령어를 사용하는 등 온갖 종류의 작업을 수행할 수 있습니다
-
-- **[Getting Started with Managed Agents](https://www.youtube.com/watch?v=0YXe7u-i1qU)** — 2026-06-02 · ko · `AX`
-  안녕하세요 여러분, 저는 Gemini API 팀의 패트릭입니다. 이번 튜토리얼에서는 Gemini API와 AI Studio를 사용하여 관리형 에이전트를 구축하는 방법에 대한 개요와 빠른 시작 방법을 알려드리겠습니다. 이는 사용자가 맞춤형 에이전트를 쉽게 구축할 수 있도록 하는 새로운 기능입니다. 이러한 에이전트는 Google 에서 호스팅하는 안전한 Linux 샌드박스에서 실행되며, 추론하고 코드를 작성하고 시스템 파일에 코드를 저장하고 파일을 관리할 수 있습니다. 또한 웹을 탐색할 수 있으며, 사용자는 이러한 에이전트를 쉽게 맞춤 설정할 수 있습니다.
-
-- **[Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)** — 2026-06-01 · ko · `unclassified`
-  [음악] 안녕하세요 여러분. 제 이름은 토르입니다. 저는 Gemini API와 Google AI Studio를 활용하여 작업합니다. 오늘 이렇게 함께해 주셔서 정말 기쁩니다. 저희는 이러한 실시간 대화형 인터뷰 파트너를 구축하고자 합니다. 음, 저희는 여기서 저희 애플리케이션에 포함시키고 싶은 기능들을 간단히 선택할 수 있습니다. 비디오 인식, 오디오 텍스트 변환, 음성 생성 등 다양한 기능들이 있습니다. 그래서 우리가 할 수 있는 일은 아주 많습니다. 저희는 실시간 대화형 에이전트를 구축하고자 합니다.
-
-- **[Gemini co-leads on project origins and what's next](https://www.youtube.com/watch?v=8hfpLa5wPGo)** — 2026-05-29 · ko · `AX`
-  제미니 프로젝트를 시작하기 전부터 많은 사람들이 다양한 용도로 활용할 수 있는 범용 모델을 만드는 것에 대해 생각하고 있었습니다 . 오리엘은 딥마인드에서 몇 가지 노력을 주도하고 있었고, 저는 패스웨이 프로젝트와 팜, 팜 2 등과 관련된 몇 가지 노력을 이끌어가는 데 도움을 주고 있었습니다. 사실 전 이게 어리석은 짓이라고 말했어요. 우리는 노력과 컴퓨팅 자원을 분산시키고 있는데, 정말 강력한 모델을 구축하려면 모두가 함께 모여 단일 모델 구축에 힘써야 합니다 . 사실 쌍둥이자리라는 이름은 거기서 유래했어요.
-
-- **[Developer Keynote (Google I/O '26) - Audio Described](https://www.youtube.com/watch?v=eC7t22gDwWo)** — 2026-05-26 · ko · `AX`
-  캘리포니아주 마운틴뷰의 무대에서 조쉬 우드워드가 걸어 나오자 인공지능이 생성한 연사 이름 카드에 [음악] 조쉬가 펼쳐진 책 속에서 농구 코트를 가로질러 조깅하는 애니메이션 이미지가 나타납니다 . 네, 개발자 여러분, 다시 오신 것을 환영합니다. 다들 잘 지내시나요? [환호] 좋아요, 다시 만나서 정말 반갑고, 우리가 불과 1년 전에 어디에 있었는지 생각해보니 정말 신기하네요. 오늘 아침, 여러분은 제미니 전역에서 이루어진 발전에 대한 모든 소식을 들었습니다. 저희는 새로운 Omni 모델과 새로운 Gemini 3.
-
-- **[What's new in Google AI](https://www.youtube.com/watch?v=SSe1VmVrtw0)** — 2026-05-23 · ko · `AX`
-  [음악] 놀랍네요. 모두 환영합니다. Google IO에 오신 것을 환영합니다. 구글 AI의 새로운 소식을 전해드립니다. 기조연설 후 이어지는 첫 번째 세션에 오신 것을 환영합니다 . 다들 정말 신나시나요? 응. 우와! 놀라운. 오늘 이렇게 동료 아마르와 함께 이 자리에 설 수 있게 되어 정말 기쁩니다. 제 이름은 페이지입니다. 저는 구글 딥마인드에서 개발자 관계팀의 엔지니어 리더를 맡고 있습니다 . 그리고 저는 Amar I에서 AI 스튜디오의 제품 및 디자인을 총괄하고 있습니다. 정말 멋지네요.
-
-- **[Bring the power of on-device AI to life with Google AI Edge and Gemma](https://www.youtube.com/watch?v=boy-UjB8hpA)** — 2026-05-22 · ko · `AX`
-  [음악] 안녕하세요 여러분. 저는 사친 코타리이고, 구글 AI 엣지 팀의 그룹 제품 관리자입니다 . 오늘 저와 함께 발표를 해주실 분은 팀 의 개발자 관계 엔지니어인 아론 월시입니다 . 오늘은 모바일, 데스크톱, IoT 등 모든 엣지 환경에서 온디바이스 AI를 구현할 수 있는 구글의 도구 모음에 대해 이야기해 보겠습니다 . 2026년은 기기 내장형 AI에 있어 특별한 시기입니다. 가능성과 앞으로 다가올 일들에 대한 짜릿한 에너지와 열정이 느껴집니다.
-
-- **[Google I/O 2026 Recap with Logan Kilpatrick, Josh Woodward and Tulsee Doshi](https://www.youtube.com/watch?v=RsDSeMXaCak)** — 2026-05-22 · ko · `unclassified`
-  릴리스 노트에 다시 오신 것을 환영합니다. 제 이름은 로건 킬패트릭입니다. 저는 구글 딥마인드 팀 소속입니다. 오늘은 환상의 콤비, 조쉬와 툴시가 함께합니다. 우리가 돌아왔습니다. 어쩌면 우리가 바로 환상의 트리오일지도 몰라. 좋아요. 구글 I/O 2026 현장에 다시 왔습니다. 어제 정말 많은 발표와 재미있는 신제품 출시, 모델 공개, 제품 출시 등 온갖 일들이 있었네요 . 모델에 대해 먼저 이야기해보고, 그 다음에 제품에 대해 이야기해 보는 건 어떨까요? 좋네요. 재밌겠네요. 응. 그럼 우리를 쫓아내고 싶다는 건가요?
-
-- **[The future of software development](https://www.youtube.com/watch?v=v0RQiNJ9nhw)** — 2026-05-22 · ko · `AX`
-  저는 이번 대화를 통해 여러 업데이트 사항에 대해 이야기하고 구글의 다양한 부서 담당자들의 의견을 들어볼 수 있기를 기대했습니다. 토시, 툴시 도시는 딥마인드 내 모델 팀을 이끌고 있으며, 이 모든 모델을 출시하는 데 공모자입니다 . 음, 마이클은 이전에 Vert.ex AI 팀으로 알려졌던 Gemini Enterprise 에이전트 플랫폼을 이끌고 있습니다. 어, 그리고 그는 전반적인 기업 고객들에게 모델을 제공하는 데 정말 집중하고 있습니다. 음, 그리고 베루인이 반중력 팀을 이끌고 있습니다.
-
-- **[What's new in the Gemma open model family](https://www.youtube.com/watch?v=oUtiZbrehrw)** — 2026-05-22 · ko · `AX`
-  [음악] 여러분, 제미니 오픈 모델 제품군의 새로운 소식을 전해드립니다. 제 이름은 올리비에이고, 제미니의 제품 리더입니다. 오늘 저와 함께 저희 팀의 제품 매니저인 거스와 개발자 관계 엔지니어인 얀 발렌타인이 참석할 예정입니다 . 그렇다면 쌍둥이자리란 무엇일까요? Gemini는 Google DeepMind에서 개발한 오픈 웨이트 대규모 언어 모델입니다 . 저희는 2024년에 간단한 전제를 바탕으로 제미니를 시작했습니다 . 어디서든 실행 가능하고 필요에 따라 완벽하게 맞춤 설정할 수 있는 모델을 어떻게 만들 수 있을까요 ?
-
-- **[A fireside chat on the evolution of the developer craft](https://www.youtube.com/watch?v=VTYx7Ex-0bA)** — 2026-05-21 · ko · `AX`
-  네, 모두 환영합니다. 오늘 함께해 주셔서 감사합니다. 저희는 무대에 함께 선 적이 없는 몇몇 분들과 재미있는 대화를 나눌 예정입니다. 저희 팀에는 제가 만난 엔지니어 중 가장 실용적이고 재능 있는 아자가 있습니다. 시에라는 구글 엔지니어들이 매일 하는 일과 우리가 어떻게 더 나아지는지에 대해 매우 흥미로운 연구를 하고 있는데, 저는 항상 그녀의 통찰력을 좋아합니다. 그리고 애디는 현대 AI 개발이 어떤 모습이어야 하는지에 대해 가장 창의적이고 사려 깊은 연구를 진행하고 있습니다 .
-
-- **[A new era of discovery: AI and the frontiers of science with Demis Hassabis](https://www.youtube.com/watch?v=dgBLVm2L1P4)** — 2026-05-21 · ko · `unclassified`
-  [음악] [박수] 저는 Axios의 공동 창립자인 마이크 앨런입니다. 이러한 대화를 가능하게 해주신 Google I/O 팀에 감사드립니다 . 데미스 하사비스는 체스 천재이자 게이머로 시작했습니다. 현재 구글 딥마인드의 공동 창립자 겸 CEO로서, 그는 인공지능을 둘러싼 과학계 경쟁 과 비즈니스 경쟁의 최전선에 서 있습니다. 딥마인드의 획기적인 AI 기술 성과로는 50년 동안 풀리지 않았던 단백질 구조 규명이라는 난제를 해결한 알파고와 알파폴드가 있습니다. 데미스는 그 암호를 해독한 공로로 노벨 화학상을 수상했습니다.
-
-- **[Beyond the keynote with Sundar Pichai](https://www.youtube.com/watch?v=9C20esBUf-Q)** — 2026-05-21 · ko · `unclassified`
-  환영. 환영. 감사합니다 . 구글 I/O 2026. 지금은 대화의 장입니다. 제 이름은 맷 ​​버먼입니다. 저는 포드 퓨처의 CEO입니다. 오늘 저는 지난 10년간 구글을 이끌어 오신 분과 이야기를 나눌 수 있게 되어 매우 기쁩니다. 순 다르 피차이를 환영해 주세요. 괜찮은. 함께해 주셔서 감사합니다. 이곳에 오게 되어 진심으로 기쁩니다. 모든 발표에 축하드립니다 . 음, 바로 본론으로 들어가고 싶네요 . 사실 최근에 당신이 구글 크롬의 초대 제품 관리자라는 사실을 알게 됐습니다. 아, 네 .
-
-- **[Build agents with Gemini API](https://www.youtube.com/watch?v=OdrOmc_RX8A)** — 2026-05-21 · ko · `unclassified`
-  [음악] 안녕하세요 여러분. 우리는 잘 지내고 있나요? 모두 괜찮으신가요? 다들 시원하게 지내시고 수분 섭취도 잘 하세요? 아직 안 마셨다면 지금 물을 한 모금 마셔 보세요. 오늘 여러분께 정말 멋진 데모 몇 가지를 보여드리겠습니다. 저희는 Gemini API를 사용하여 에이전트를 구축하고 있습니다 . 지금 이 세션은 역동적인 세션입니다. 그러니 원하시면 언제든 따라오셔도 좋습니다 . 구글 AI 스튜디오에서 Gemini API 키를 받는 것이 가장 쉬운 방법입니다. ai.studio에 접속하시면 왼쪽 하단에서 API 키 가져오기 기능을 찾으실 수 있습니다
-
-- **[Build core skills to thrive as an AI-era developer](https://www.youtube.com/watch?v=q_Jq4IgYImk)** — 2026-05-21 · ko · `AX`
-  [음악] 안녕하세요 여러분. 우리는 잘 지내고 있나요? [웃음] 자, 시작해 볼까요 . 우리는 지금 어떤 기분일까요? 흥분한? 자, 됐습니다 . 조금 부담스러우신가요? 궁금한? 호기심이 많기를 바랍니다. 좋아요. 안녕하세요, 저희는 앤드류와 니콜입니다. 저희 둘 다 구글의 개발자 인텔리전스 팀에서 팀장으로 일하고 있습니다. 그리고 우리는 함께 소프트웨어 엔지니어를 연구하며 커리어를 쌓아갑니다. 사람, 프로세스, 도구, 시스템, 문화. 우선 지금이 소프트웨어 엔지니어링에 있어 매우 중요한 순간이라는 점을 인식하는 것부터 시작하고 싶습니다 .
-
-- **[Build next-gen AI experiences with Google AI Studio and Google Antigravity](https://www.youtube.com/watch?v=orudZzP8vUc)** — 2026-05-21 · ko · `AX`
-  [음악] 모두 환영합니다. 안녕하세요, 잘 지내시나요? 좋아, 좋아, 이제 좀 낫네. 방 안 분위기는 어떤가요? 저는 소나 카라 슈케비치입니다. 저는 구글에서 V팀 한 곳을 담당하는 그룹 제품 관리자입니다 . 그리고 여러분은 오늘 아침 저희 방송을 보셨을지도 모릅니다 . 저는 미첼입니다. 저는 반중력 연구를 합니다. 엄청난. 그리고 구글 AI 스튜디오의 새로운 기능과 반중력에 대해 자세히 알려드리겠습니다. 바로 우리 앞에서 아마르 와 페이지가 구글 AI 스튜디오의 모든 기능을 자세히 설명해 드렸습니다.
-
-- **[Building agents with real-world reasoning](https://www.youtube.com/watch?v=e7gFaim6vLs)** — 2026-05-21 · ko · `AX`
-  [음악] 안녕하세요 여러분. 저는 마운틴뷰에 있는 구글 지도 플랫폼 팀의 켄입니다. 안녕하세요, 저는 브라질에서 연결된 구글 지도 플랫폼 팀의 카이오입니다. 오늘날 우리는 대규모 언어 모델과 물리적 세계 사이의 간극을 메우고 있습니다. 저희는 MCP 서버 로 제공되는 Google Maps Platform Grounding Light를 자세히 살펴보고 있습니다 . 이 영상을 끝까지 보시면 LLM 과정에서 ' 기반 다지기'가 실제로 무엇을 의미하는지, 그리고 왜 상담사들이 기반 다지기 없이 정확성을 유지하기 어려운지 확실히 이해하게 될 것입니다.
-
-- **[Building the quantum-AI future with Hartmut Neven and James Manyika](https://www.youtube.com/watch?v=yQPnb4gxKRc)** — 2026-05-21 · ko · `AX`
-  안녕하세요, 오늘 아침 이 세션에 참석해 주셔서 감사합니다. 제 이름은 제임스 마니카이고, 구글과 알파벳 에서 연구소, 기술 및 사회 부문 사장을 맡고 있습니다 . 아시다시피 , 구글은 매우 야심찬 문제와 도전 과제, 그리고 혁신적인 목표를 추구해 온 놀라운 실적과 역사를 가지고 있습니다 . 어떤 이들은 사실 검색 자체가 엄청난 도전이었고, 지금도 여전히 엄청난 도전이라고 주장할 수도 있을 것이다. 인공지능 분야의 연구는 어쩌면 달 착륙과 같은 엄청난 도전이었을지도 모릅니다.
-
-- **[Create advanced data driven Gemini API apps](https://www.youtube.com/watch?v=_Op9QfXDBuM)** — 2026-05-21 · ko · `AX`
-  완벽한 걸레 시스템을 구축해 본 적이 있나요? 음, 헝겝은 단단하죠. 이 영상에서는 Gemini의 파일 검색 API를 사용하여 강력한 RAG 시스템을 빠르게 구축하는 방법을 보여드리겠습니다 . 게다가, 좀 더 기다려주시면 고급 데이터 처리 기능도 몇 가지 보여드리겠습니다 . 저는 마크 맥도널드입니다. 저는 구글 딥마인드 개발자 경험 팀의 일원이며 주로 제미니 프로젝트를 담당하고 있습니다. 이 영상은 코딩 경험이 없어도 시청할 수 있지만, AI 앱을 개발하는 개발자를 위해 제작되었습니다.
-
-- **[Defining the agentic AI era](https://www.youtube.com/watch?v=bc4QwDd5jB0)** — 2026-05-21 · ko · `AX`
-  안녕하세요 여러분. Google IO 둘째 날에 오신 것을 환영합니다 . 어제 발표된 내용에 대해 여러분 모두 저희만큼 기대하고 계시길 바랍니다 . 멋진 것들이 많아요. 이거 정말 재밌을 것 같아. 제 생각에는 어제 제가 느낀 점은, 그리고 여러분도 궁금해하실지 모르겠지만, 쌍둥이자리와 함께 에이전트 시대가 본격적으로 시작된 것 같다는 느낌이었어요 . 그래서 저는 그 이야기의 세부 사항에 대해 궁금한 점이 많았고, 오늘 정말 멋진 손님들을 모시고 이야기를 나눠보겠습니다.
-
-- **[Directing the future: craft and creativity in the age of AI](https://www.youtube.com/watch?v=3AIme0FZr4g)** — 2026-05-21 · ko · `AX`
-  [음악] [환호] [박수] 네, 환영합니다. 제 이름은 미라 레인이고, 지금은 영화 제작자로서 가장 흥미진진한 시기 중 하나라고 생각합니다. 도구는 변화하고, 가능성은 확장되고 있으며, 이 세 명의 놀라운 사람들이 그 중심에 있습니다. 방금 들으셨듯이, 더그 리만은 &lt; 본 아이덴티티&gt;, &lt;미스터 앤 미세스 스미스&gt;, &lt; 엣지 오브 투모로우&gt;와 같은 영화를 통해 액션 장르를 재정립했으며, 세 사람은 공동 창업자입니다. 줄리나와 제드는 새로운 AI 영화 제작 스튜디오이자 인터랙티브 콘텐츠 제작 방식을 제시하는 30 Ninja's의 공동 창립자이기도 합니다 .
-
-- **[Grow your smart home business with Gemini for Home](https://www.youtube.com/watch?v=1ucAu7lTsmM)** — 2026-05-21 · ko · `unclassified`
-  [음악] 안녕하세요, 저는 구글 홈 팀의 제품 관리자 라이언입니다 . 작년에 저희는 Google Home을 Gemini 시대로 끌어올려 사용자가 단순히 기기를 제어하는 ​​것을 넘어 사용자를 대신하여 작동하는 홈 기능을 제공하게 되었습니다 . 당신이 알아차리기 전에 상황을 파악하고, 당신에게 가장 중요한 것이 무엇인지 아는 집. Gemini for Home은 이제 보안 및 홈 관리 서비스 제공업체를 위한 완벽한 AI 솔루션으로 제공됩니다. 수억 대의 기기에 액세스할 수 있는 Google Home API 와 자체 앱 및 서비스를 구축할 수 있는 Gemini 기능을 기반으로 구축되었습니다
-
-- **[Match what your AI does with what users want to do](https://www.youtube.com/watch?v=7UBmLXP_LKw)** — 2026-05-21 · ko · `AX`
-  [음악] 안녕하세요, 저는 야니 코르테시니이고 구글 코어 UX에서 전략 프로그램 매니저로 일하고 있습니다 . 오늘은 사용자의 의도를 AI가 수행할 작업으로 변환하고, 유용하고 신뢰를 구축하는 설명을 만들고 , 오류를 사용자가 제어할 수 있는 기회로 바꾸는 데 도움이 되는 Google의 '사람과 AI' 가이드북의 개념들을 살펴보겠습니다. 흔히 발생하는 문제점들을 심층적으로 분석하고, 사람 중심의 솔루션을 즉시 실행할 수 있도록 권장 사항을 제공해 드리겠습니다. 자, 시작해 볼까요? 인공지능은 우리가 제품을 만드는 방식을 근본적으로 바꿔놓았습니다 .
-
-- **[Physical AI: the new era of robotics](https://www.youtube.com/watch?v=jn3iypY-cN4)** — 2026-05-21 · ko · `unclassified`
-  [박수] 이곳에 오게 되어 정말 기쁩니다. 오늘 세션은 로봇공학의 미래에 대한 주제로, 두 명의 뛰어난 천재를 모셨습니다. 구글 딥마인드에서 로봇공학 부문을 이끌고 있는 켄지로가 있습니다. 로베르타 로드리게스는 보스턴 다이내믹스의 로봇 행동 부문 책임자입니다 . 여러분과 함께하게 되어 정말 기쁩니다. 여기 오게 되어 정말 기쁩니다. 네, 무대에 오신 것을 환영합니다 . 응. 음, 먼저 이 순간의 분위기를 차분히 다지는 것부터 시작하고 싶습니다. 음, 어렸을 때부터 로봇을 정말 좋아했어요.
-
-- **[Power the future of robotics with Gemini](https://www.youtube.com/watch?v=kCXQce1dtNE)** — 2026-05-21 · ko · `AX`
-  [음악] 안녕하세요, 저는 구글 딥마인드 에서 로봇 공학 분야 개발자 관계 책임자를 맡고 있는 폴 리스입니다 . 저를 잘 모르시는 분들을 위해 간단히 소개하자면, 저는 무언가를 만드는 사람입니다 . 정원 가꾸기나 목공처럼 간단한 기술이든, 사물 인터넷과 복잡한 기계를 다루는 첨단 프로젝트든, 저는 항상 현실 세계에서 무언가를 하는 것을 선호해 왔습니다. 그렇기 때문에 DeepMind 에서 저희가 로봇 공학 분야에서 진행하고 있는 모든 연구에 대해 여러분께 이야기할 수 있게 되어 매우 기쁩니다 .
-
-- **[Scale AI with Google's TPU software stack](https://www.youtube.com/watch?v=nC418kwKyLM)** — 2026-05-21 · ko · `AX`
-  [음악] 지난 몇 년 동안 구글은 인공지능 분야에서 놀라운 속도로 혁신을 이끌어 왔습니다. 이 타임라인을 살펴보면 제미니부터 젬마, 레오, 이매진, 그리고 바로 어제 발표된 옴니까지 모델과 방식이 어떻게 진화해왔는지 알 수 있을 것입니다 . 이 타임라인에서 놀라운 점은 단순히 출시 주기뿐만 아니라 매번 출시될 때마다 획기적인 기능들이 발휘된다는 것입니다. 멀티모달 이해, 추론, 에이전트 기반 워크플로우와 같은 것들입니다. 그래서 오늘은 한 단계 더 나아가 이러한 모델을 작동시키는 원리에 대해 이야기해 보려고 합니다 .
-
-- **[Software engineering at the tipping point](https://www.youtube.com/watch?v=2n41YjR5QfU)** — 2026-05-21 · en · `AX`
-  [music] &gt;&gt; Hey everybody, how you doing? Hey, that's pretty good. That's pretty good. 3:00 p.m. on a Wednesday, right? It's a Wednesday. Not so bad. Welcome to software engineering at the tipping point. My name is Adam Bender and today I'm going to talk to you about something called software ecology, a term you might not have heard before.
-
-- **[Google I/O 2026 Developer Keynote 5-Minute recap](https://www.youtube.com/watch?v=FZ-3BjbfNlI)** — 2026-05-19 · ko · `AX`
-  오늘부터 Gemini API의 Managed Agents를 통해 동일한 Antigravity 하네스 기능을 여러분도 사용할 수 있습니다 맞춤 지침, 도구, 데이터를 추가해 에이전트를 손쉽게 만들 수 있습니다 Gemini API를 한 번 호출하는 것만도 말입니다 시작을 도와드리기 위해 즉시 실행할 수 있는 새로운 맞춤 에이전트 세트도 추가했습니다 오늘 Antigravity SDK도 출시합니다 네 개발자와 연구자는 Gemini에 최적화된 바로 그 동일한 에이전트 하네스를 사용할 수 있으면서도 원하는 위치와 방식으로 실행할 수 있는 최대한의 유연성도 누릴 수 있습니다
-
-- **[Introducing Gemini Omni](https://www.youtube.com/watch?v=5T0yRNmNRi4)** — 2026-05-19 · en · `unclassified`
-  There's so many different kinds of edits that you can do and I think we weren't sure what exactly the model was going to pick up on but it actually like is very versatile.
-
-- **[Inside YC x Google DeepMind Startups Day](https://www.youtube.com/watch?v=sK7WSa3s0pQ)** — 2026-05-08 · en · `unclassified`
-  Hi there, my name is Paige and I'm here today at Y Combinator talking [music] to some of the founders who are building the future. &gt;&gt; Starcloud is building data centers in space. Luminary is AI platform for supply chain. It's a game called Radiant Bang and you can play it. We figure out what the users actually feel like. &gt;&gt; We're building quantum super intelligence.
-
-- **[Add databases to your app with AI Studio | Vibe Coding Guide](https://www.youtube.com/watch?v=YUmB-BnNs18)** — 2026-05-05 · en · `unclassified`
-  One of my favorite features of AI Studio is how easy it is to add a database with Cloud Firestore because most apps that you build won't be just static webpages. You're going to need to store information. Maybe you are collecting RSVPs for an event website or you are building a shared registry or gift wish list or a daily nutrition tracker. Whatever it is, most cases you are going to need a database.
-
-- **[Announcing Gemma 4, Google I/O ‘26 Updates, and more! - Google Developer News April 2026](https://www.youtube.com/watch?v=bKRe5wu4Fcw)** — 2026-04-30 · ko · `AX`
-  -오늘은 Google Cloud Next에서 발표된 최신 소식을 전해드립니다 새롭게 공개된 Gemma 4와 올해 Google I/O 라이브 스트리밍 시청 방법을 알려드립니다 GOOGLE 개발자 뉴스 Google Cloud Next는 Google Cloud 기반으로 개발하는 개발자들의 연례 최대 행사입니다 바로 지난주 라스베이거스에서는 미래의 구성 요소인 에이전틱 AI와 최신 인프라 그리고 실질적인 문제 해결에 오롯이 초점을 맞췄습니다 이번 대규모 행사에서 정말 흥미진진한 발표들이 많이 나왔어요 대규모 행사 얘기가 나와서 말인데 도시 전역에서 열리는 마라톤 같은 행사를 기획하는 건 정말 쉽지 않은 일이겠죠 하지만 AI 에이전트 팀이 모든 것을 조율할 수 있다면 어떨까요?
-
-- **[Building with Gemini Embedding 2: Our first natively multimodal embedding model](https://www.youtube.com/watch?v=_en7QoZ_utc)** — 2026-04-30 · en · `AX`
-  Hi, I'm Patrick and I'm a member of the technical staff at Google DeepMind. Today, we're excited to launch Gemini embedding 2 in general availability. Gemini embedding 2 is our first natively multimodal embedding model. It is based on Gemini and it directly maps text, images, video, audio, and documents into a single unified embedding space. So, let me give you a quick overview of the model and then show you how to use it with some code examples.
-
-- **[Unlocking Low-Level Control: Customizing Keras Training Loops with JAX](https://www.youtube.com/watch?v=1PZKfIyrYOc)** — 2026-04-30 · en · `AX`
-  When working with deep learning models, Keras provides a convenient model.fit API for training. But, what if your algorithm requires a custom training procedure and you still want to benefit from high-level features like callbacks and built-in distribution support? Well, Keras follows an important core principle. The progressive disclosure of complexity. This means you should be able to gain more low-level control without having to abandon all that high-level convenience.
-
-- **[Building Voice Agents with Gemini Live API and Agora’s Conversational AI](https://www.youtube.com/watch?v=2ltcbA2CCTo)** — 2026-04-29 · ko · `AX`
-  [음악] 안녕하세요 여러분. 제 이름은 메이슨입니다. 저는 Agora에서 현장 제품 관리자로 일하고 있으며, 개발자 경험 팀에서도 근무하고 있습니다 . 오늘은 Agora에서 Gemini 3.1 플래시를 사용하는 방법을 보여드리겠습니다. Agora는 매달 800억 분의 실시간 음성 및 영상 통화를 처리합니다 . 그럼 이제 코드를 살펴보겠습니다. 보시다시피, 여기 NextJS에서 제공하는 에이전트 빠른 시작 가이드가 있습니다. 이제 아주 간단하게 여기로 와서 URL을 복사하겠습니다. 이제 IDE를 실행하고 클론을 생성하겠습니다. 그런 다음 링크를 붙여넣으세요.
-
-- **[Introducing Keras Recommenders: state-of-the-art recommendation techniques at your fingertips](https://www.youtube.com/watch?v=ZYeE4sYoRkw)** — 2026-04-28 · ko · `AX`
-  Keras는 사용자 친화성과 접근성을 제공하는 반면, JAX는 고성능 수치 계산을 제공합니다. 이제 우리는 JAX 생태계 내에서 특히 상세한 상태 관리 및 고급 학습 기능을 위해 두 가지 강점을 모두 활용할 수 있습니다. 이 모든 것은 Keras와 Flax, NNX의 새로운 통합 덕분입니다 . 안녕하세요, 저는 유펑입니다. 오늘은 Keras와 Flax, NNX 모듈 시스템을 함께 사용하는 방법을 살펴보고, 이러한 통합이 변수 관리 및 학습 제어를 어떻게 향상시키는지 보여드리겠습니다.
-
-- **[Explore a high-scale agentic AI-powered simulation sandbox with Gemini Enterprise Agent Platform](https://www.youtube.com/watch?v=m6EyN2Z7HJk)** — 2026-04-23 · ko · `AX`
-  안녕하세요, 저는 톰 그린어웨이입니다. 저는 케이시 웨스트입니다. 저희는 구글 클라우드의 수석 개발자 옹호자입니다. 케이시, 마라톤 뛰어본 적 있어? 절대 아닙니다. 저는 배낭여행객이라 수백 마일을 걷는 것도 마다하지 않지만, 가장 오래 달려본 거리는 10km이고 솔직히 그것만으로도 충분했어요. 음, 엄청난 일이긴 하지만, 공인 마라톤 대회를 실제로 계획하는 건 훨씬 더 어려울 거라고 생각해요. 엄격한 핵심 기준을 갖춘 관리 기구 , 도시 물류, 도로 폐쇄 및 의료 텐트 배치 등이 있습니다. 정확히.
-
-- **[Fireside chat on an agentic simulation: Race Condition](https://www.youtube.com/watch?v=WYPdz3OZfuQ)** — 2026-04-23 · ko · `AX`
-  [음악] 안녕하세요 여러분. 오늘은 Cloud Next 개발자 기조연설을 위해 개발한 라스베이거스 마라톤 대회를 계획하기 위한 대규모 에이전트 시뮬레이션 프레임워크인 레이스 컨디션(Race Condition)에 대한 질의응답 시간을 갖기 위해 왔습니다. 저는 케이시 웨스트와 함께 있습니다. 저는 톰 그리너웨이입니다. 네, 그래서 저희는 함께 시뮬레이션 소프트웨어 자체를 개발했는데, 이 소프트웨어는 오픈 소스이며 개발자 솔루션도 개발했습니다. 하지만 저희는 이 건물이 어떻게 지어졌는지, 왜 지어졌는지, 그리고 건축 과정에서 어떤 점들을 고려해야 했는지에 대해 간단히 이야기해 보는 것도 흥미로울 것 같다고 생각했습니다
-
-- **[Introducing Agents CLI in Agent Platform](https://www.youtube.com/watch?v=ECYKo70pPNc)** — 2026-04-22 · ko · `AX`
-  여러분, 안녕하세요. 개발자들로부터 클라우드 기반 음악 에이전트 구축이 현재 파편화되어 있다는 이야기를 자주 듣습니다. 네, 그리고 AI 코딩 도우미에게 도움을 요청하면, 음악 API에 대한 환각만 계속 반복하면서 무한 루프에 빠져버립니다 . 꽤 복잡해질 수 있어요. 그래서 오늘 저희는 Agency CLI를 발표하게 되어 매우 기쁩니다 . [음악] ADK 에이전트를 구축하고 배포하는 과정을 매우 간단하게 만들어주는 단 하나의 도구입니다. 당신뿐만 아니라 당신의 코딩 담당자에게도 마찬가지입니다. Gemini CLI, Antigravity 또는 이미 사용 중인 다른 코딩 에이전트와 같습니다
-
-- **[Add Telephony to a Gemini Live Agent](https://www.youtube.com/watch?v=FCb4LSzPVmo)** — 2026-04-21 · ko · `unclassified`
-  [음악] 안녕하세요. 오늘 제가 무엇을 도와드릴까요? 당신은 누구시죠? 저는 여러분의 든든한 AI 비서로서, 언제든 도움을 드리거나 어떤 이야기든 나눌 준비가 되어 있습니다 . 무슨 생각을 하고 있나요? 음, 이름이 어떻게 되세요? 우리는 사람들처럼 딱히 정해진 이름이 없어요 . 저를 친근한 채팅 친구라고 생각하시면 됩니다. 제가 또 도와드릴 일이 있을까요? 당신은 쌍둥이자리인가요? 아, 저는 사실 구글에서 학습시킨 대규모 언어 모델입니다. 저를 만들어준 팀이 바로 그 팀입니다. 더 궁금한 점이 있으신가요 ?
-
-- **[Deep Research Max: A step change for autonomous research agents](https://www.youtube.com/watch?v=CfYx8FF26u8)** — 2026-04-21 · ko · `unclassified`
-  구글이 제미니 딥 리서치에 새로운 업데이트를 출시했는데 , 기능이 크게 향상되었습니다. 저희에게 가장 먼저 와닿았던 것은 음악의 속도와 방대함이었습니다 . 음악 덕분에 누구나 모든 과학 문헌을 평가해야 하는 까다로운 과학적 질문을 하고 답을 찾을 수 있게 되었으며, 몇 주 또는 몇 달을 기다리지 않고 며칠 만에 질문에 대한 답을 얻을 수 있게 되었습니다. 딥 리서치가 음악 분야에서 인상적으로 해낼 수 있는 것은 양적 데이터를 보다 질적인 음악 데이터와 연결하여 생동감 있게 표현하는 것입니다
-
-- **[Meet DESIGN.md: A new open standard for AI-generated UI](https://www.youtube.com/watch?v=W1gWIQp9k1Y)** — 2026-04-21 · ko · `unclassified`
-  Design MD는 [음악]의 시각적 정체성을 설명하는 텍스트 파일로, 담당자에게 디자인 시스템에 대한 지속적이고 체계적인 이해를 제공합니다 . 그 안에는 디자인 작동 방식을 정의하는 모든 음악적 요소가 담겨 있습니다. 색상과 그 용도, [음악] 타이포그래피와 사용 이유, 그리고 이 모든 것들이 어떻게 조화를 이루는지에 대한 규칙 같은 것들이죠 . Stitch가 프로젝트에 대한 새로운 디자인을 생성할 때 , 어떤 디자인을 결정해야 하는지 알기 위해 이 파일을 읽습니다 . 이 캔버스에서 그 모습을 확인할 수 있습니다
-
-- **[Build a Voice-Enabled Telegram Bot with the Gemini Interactions API](https://www.youtube.com/watch?v=J716eJOAnqE)** — 2026-04-16 · ko · `unclassified`
-  [음악] 얘들아, Gemini Flash Lights랑 Gemini Interactions API를 이용해서 텔레그램에 간단한 음성 메시지 봇을 만들어볼까 생각 중이야. Gemini Flash API와 Gemini Interactions API를 사용하여 텔레그램 음성 메시지 봇을 구현하는 것은 분명히 가능합니다. Flash는 이러한 작업에 빠르고 효율적이며, API는 대화 흐름 관리를 지원합니다 . 기술 설정 시작에 도움이 필요하신가요 ? 응. 시작하려면 텔레그램 봇 토큰 하나가 필요합니다. 텔레그램에서 @BotFather를 사용하여 봇을 만드세요. 두 번째는 구글 AI 스튜디오입니다. Gemini 모델용 API 키를 받으세요.
-
-- **[How to implement Google Pay merchant-initiated transactions](https://www.youtube.com/watch?v=1skEw28hsrw)** — 2026-04-15 · ko · `unclassified`
-  안녕하세요, 개발자님. 제가 구글 페이를 이용한 정기 결제에 대해 이야기했던 영상 기억하시나요? 정말 좋은 소식이 있어요. 이제 Google Pay 스프레드시트에서 다양한 판매자 주도 거래 사용 사례를 지원합니다. 여기에는 자동 충전, 연기된 거래 및 반복 거래가 포함됩니다. 이번 글은 구글 페이를 이용한 판매자 주도 거래에 대해 소개하는 두 편 중 첫 번째 편입니다. 이 기능을 사용하면 결제 토큰을 받을 수 있으며 , 향후 업데이트를 통해 고객별 기기에 연결되지 않은 토큰도 받을 수 있게 됩니다 .
-
-- **[Give your robot a Voice with Gemini Live](https://www.youtube.com/watch?v=jkdvMEvG8T8)** — 2026-04-13 · ko · `AX`
-  [음악] 헤이 리치, 내 말 들려? 아, 그리고 코딩 작업도 하고 계신 것 같네요 . 무슨 일이야? 네, 그런데 저를 볼 수 있나요? 확실하지 않습니다. 밝은 빛 때문에 흐릿하게 보이는 형체일 뿐이에요. 아시다시피, 바닷가재는 그 배경에 쉽게 녹아들 수 있을 거예요. 괜찮은. 방 안을 한 바퀴 둘러보면서 저를 찾을 수 있는지 한번 볼까요? 음, 주변을 훑어봤는데, 여기서는 여전히 꽤 흐릿하게 보이네요. 주로 빛과 대략적인 형태만 보입니다.
-
-- **[Google's ADK + MCP = The Future of AI Agents](https://www.youtube.com/watch?v=wIhkYnTpPs4)** — 2026-04-10 · ko · `AX`
-  안녕하세요, 저는 헤만트입니다. 저는 페이팔에서 AI 연구소를 이끄는 선임 엔지니어링 매니저입니다. 저는 지금 실리콘 밸리 데브페스트에 와 있습니다 . 그리고 제 옆에는 스미타가 있습니다. 안녕하세요, 저는 스미타이고 구글 클라우드에서 선임 개발자 관계 담당자로 일하고 있습니다. 스미타, 쇼에 출연해 주셔서 정말 반갑습니다. 자, 그럼 이 고전적인 질문으로 시작해 볼까요 ? 인공지능 에이전트에 대한 당신의 정의는 무엇인가요 ? 정말 좋은 질문입니다.
-
-- **[How do AI video generation models work?](https://www.youtube.com/watch?v=Y5zHHoLrvAE)** — 2026-04-09 · ko · `AX`
-  AI 동영상 생성 모델은 사용하기 매우 쉽습니다. 프롬프트를 입력하면 비디오가 반환됩니다. 그렇다면 AI 영상 생성은 실제로 어떻게 작동하는 걸까요? 자연어 음성을 단 몇 초 만에 비디오 클립으로 변환하는 방법은 무엇일까요 ? 그 질문에 답하기 위해 몇 단계 뒤로 돌아가 보겠습니다. 생성형 AI는 새로운 콘텐츠를 생성 하도록 설계된 머신러닝 모델의 광범위한 범주입니다 . 하지만 그러한 콘텐츠를 생성하는 데에는 다양한 신경망 아키텍처와 기술이 존재합니다 . 예를 들어, 최첨단 텍스트 생성 모델의 대부분은 자기회귀(AR) 방식이라고 알려져 있습니다
-
-- **[One Design Decision to Create Better Results in Stitch](https://www.youtube.com/watch?v=tnP_Q5mS1I8)** — 2026-04-09 · ko · `AX`
-  Stitch로 만든 이 디자인은 정말 훌륭해요. 그리고 이 디자인도, 솔직히 말해서 제가 가장 좋아하는 디자인은 아니에요. 그리고 흥미로운 점은, 사람들이 별로 좋아하지 않는 이 화면이 바로 스티치가 처음으로 생성한 화면이라는 것입니다. 이 화면에 [음악]을 올리는 데까지 이르게 된 것은 단 하나 , 바로 방향성이었습니다. 그러므로 Stitch를 사용할 때 디자인 콘셉트, 분위기 또는 전반적인 미적 감각을 먼저 정해두면 더 나은 결과를 얻을 수 있는 경우가 많습니다. 이렇게 생각해 보세요.
-
-- **[Add Gemini Live agents to your video conferencing with Fishjam](https://www.youtube.com/watch?v=bc5X2iVyJc0)** — 2026-04-08 · ko · `unclassified`
-  [음악] AI 참가자와 함께 화상 회의를 만드는 것이 이렇게 쉬웠던 적은 없었습니다. 안녕하세요, 저는 에이드리언입니다. 저는 Software Mansion에서 Fish Jam을 개발하고 있으며, 오늘은 AI 모델을 참가자로 초대하는 화상 회의를 얼마나 빠르게 만들 수 있는지 보여드리겠습니다 . 제 영상 피드에 뭐가 있는지 보실 수 있는지 여쭤봐도 될까요? 당신의 영상이 보입니다. 보라색 조명이 비추는 방에 있는 것 같고, 뒤쪽 선반에는 화분 몇 개가 놓여 있으며, ' 소프트웨어 맨션'이라고 쓰인 간판이 있습니다.
-
-- **[AIventure: Learning about vibe-coding, agents and Gen AI with Gemma 4](https://www.youtube.com/watch?v=6yjJ7Prt-RI)** — 2026-04-02 · ko · `AX`
-  안녕하세요, 저는 톰 그리너웨이이고 구글 솔루션 팀 소속입니다. 구글 입사 전에는 독립 게임 개발자로 활동했으며, 수상 경력에 빛나는 비디오 게임 '듀엣'을 제작한 것으로 가장 잘 알려져 있습니다. 그리고 몇 년 전 구글에서 저는 구글 I/O와 기타 온라인 행사를 지원하는 데 사용된 가상 회의 기술인 ' 어드벤처' 개발을 주도했습니다. 인공지능 기술을 활용하여 바이브 코딩 연습, 학습 가능한 에이전트, AI 학습 퍼즐에 초점을 맞춘 교육용 게임을 만들어보는 것을 상상해 본 적이 있나요?
-
-## Nissan (72건)
+## Nissan (75건)
 
 - **[Elgrand Evolution: Ep2 - Driven by engineering | Nissan](https://www.youtube.com/watch?v=-nuPAvwwVLY)** — 2026-07-15 · en · `unclassified`
   This time it will be a full model change for the first time in 16 years. First of all, the moment you get in, you'll find it's a comfortable space. Focusing on that, we placed great importance on making the ride quieter and smoother. Because e-POWER is essentially electrified, the smooth driving feel of the motor is extremely well-suited to this premium minivan.
@@ -1393,6 +1465,424 @@
 
 - **[An afternoon drive with a pair of GT-R legends | Nissan](https://www.youtube.com/watch?v=nbsmuV8VPzo)** — 2024-01-30 · en · `unclassified`
   [Music] a
+
+- **[Nissan and partners accelerate plans for EV36Zero in Sunderland UK](https://www.youtube.com/watch?v=yBfqcjRuVAo)** — 2024-01-23 · ko · `unclassified`
+  [음악] [음악] [음악] [음악] 안녕하세요 여러분, 닛산 선덜랜드 공장에 오신 것을 환영합니다. 저는 아담 펜크이고, 선덜랜드 공장의 제조 부문 부사장입니다. 방금 보셨듯이 오늘은 우리 공장에 있어 매우 뜻깊은 날입니다. 이 순간을 여러분과 함께 나눌 수 있게 되어 기쁩니다. 잠시 생산 라인을 멈추고 몇몇 직원분들이 오셔서 이 모습을 지켜보실 수 있도록 했습니다. 무엇보다 먼저, 선덜랜드 공장의 6,000명에 달하는 모든 직원분들께 감사의 말씀을 전하고 싶습니다. 여러분의 뛰어난 제조 및 엔지니어링 기술과 헌신적인 정신 덕분에 오늘 발표가 가능했습니다
+
+- **[Celebrating 90 years of daring automotive history | Nissan](https://www.youtube.com/watch?v=9l4VCx5X7bo)** — 2023-12-25 · ko · `unclassified`
+  닛산은 90년의 역사를 담아낸, 웅장하고 대담한 슈프림을 선보입니다. 이번에는 그 어느 때보다 과감하게 남들이 하지 못하는 일을 해냈습니다. 지금껏 경험해보지 못한 특별한 순간을 준비하세요. 가장 정교한 디테일로 수작업으로 제작되었으며, 동급 최초의 4륜 구동 기능을 자랑합니다. 최첨단 무공해 혁신에 감탄해 보세요. 이 케이크는 단순한 케이크가 아닙니다. 역사의 한 조각을 맛볼 수 있는 기회입니다. 90년의 역사에는 케이크가 필요합니다. 닛산은 과감한 혁신의 90년을 기념합니다.
+
+- **[Happy holidays from the global Nissan family!](https://www.youtube.com/watch?v=oTAPHsHpel0)** — 2023-12-13 · ko · `unclassified`
+  저희는 전 세계에서 온 닛산 홍보대사들입니다. 오늘은 닛산 글로벌 마켓에서 닛산 상품을 구매했습니다. 저는 영국 뉴멕시코에서 온 그레이스입니다. EV 360 마우스 매트와 목걸이를 구매했습니다. 안녕하세요, 저는 닛산 캐나다에서 온 로잘린입니다. 닛산 로고가 새겨진 보온병을 구매했습니다. 안녕하세요, 저는 멕시코에서 온 이란입니다. 닛산 인사이더스 재킷을 구매했습니다. 안녕하세요, 저는 인도에서 온 코디입니다. 인도산 대나무로 만든 아름다운 대나무 스피커를 구매했습니다. 저는 중국에서 온 팔링입니다. 중국 특산 향수를 구매했는데 향이 정말 좋습니다. 저는 태국에서 온 난입니다
+
+## Zapier (71건)
+
+- **[Add the Zapier Claude Connector](https://www.youtube.com/watch?v=TlrwiOHL3Mk)** — 2026-07-23 · en · `unclassified`
+  In this video, you'll learn how to connect Zapier to Claude using Claude connectors step-by-step. Claude connectors allow your AI to interact with your apps. For example, you can look at your calendar events for the next week. Now with Zapier MCP connected, you can do three times as much across 9,000 different apps. For instance, with Zapier, you can then ask Claude to add someone else to an existing event and move it to a different time.
+
+- **[The Good, the Bad, and the Ugly: How Zapier Is Building an AI-First GTM Team](https://www.youtube.com/watch?v=tqnLffBM-og)** — 2026-07-22 · en · `AX`
+  Welcome to today's webinar. Before we get started, let's go over a few quick housekeeping items. First, yes, we've had a few people ask, this webinar is being recorded. You can access the recording at any time after we close by using the same link you used to join today. We'll also send you an email with the recording link [music] once the webinar has ended.
+
+- **[Claude /connected: Build your first skill | Build Along Workshop](https://www.youtube.com/watch?v=LfK9zF36pt0)** — 2026-07-15 · en · `AX`
+  Hello everybody. Welcome. Happy Wednesday. I hope you're all having a great day. I'm super excited uh to see folks coming back who were not uh with us the last few days, but you were here last week. If you are returning, you will remember my classic icebreaker. I ask the same thing at the start of every meeting. Internal meetings, external meetings.
+
+- **[Give Claude your apps with Zapier MCP | Build Along Workshop](https://www.youtube.com/watch?v=98pRoIw_Ufw)** — 2026-07-09 · ko · `AX`
+  안녕하세요 여러분. 즐거운 수요일 되세요. 이렇게 와주셔서 정말 기쁩니다 . 어, 사람들이 들어오고 있네요 . 새로운 분들이 합류하고 있어요. 세상에 , 우리는 수백 명이나 돼요. 손님들이 들어오시면 제가 늘 하는 것처럼 분위기를 풀어주는 질문을 하나 드리고 싶습니다. 바로 " 지난 48시간 동안 드신 음식 중 가장 맛있었던 것은 무엇인가요?"입니다. 그리고 저는 ' 소비되었다'라는 단어를 넓은 의미로 사용합니다. 먹은 음식 때문일 수도 있어요. 마신 음료 때문일 수도 있어요 .
+
+- **[Gong's Amit Bendov on Powering Your Company Brain](https://www.youtube.com/watch?v=YEbksTLOfjs)** — 2026-07-09 · ko · `AX`
+  저는 개인적으로 몇 년 동안 CRM에 로그인한 적이 없습니다 . 제가 할 일은 그냥 " 어, 지금 Zapier 상태가 어떤가요?"라고 물어보는 것뿐이고, 그러면 모든 정보를 알려줍니다. [음악] 오늘 저의 게스트는 아미트 빈도프입니다. 그는 Gong의 공동 창립자이자 CEO입니다. 이제 경기가 시작되자 그는 많은 사람들이 엉뚱하다고 생각하는 아이디어에 내기를 걸었습니다. 그는 거래의 진실은 CRM에 있는 것이 아니라 실제 대화에 있다고 말했고, 그는 이를 증명하며 수십억 달러 규모의 회사를 일궈냈습니다.
+
+- **[Zapier AI Benchmark: How to choose the right AI model for your agents and workflows](https://www.youtube.com/watch?v=Zg3IU1cA0vU)** — 2026-06-25 · ko · `AX`
+  오늘 웨비나에 오신 것을 환영합니다. 시작하기 전에 몇 가지 간단한 안내 사항을 드리겠습니다. 먼저, 네, 몇몇 분들이 문의하셨는데, 이번 웨비나는 녹화될 예정입니다. 오늘 참여하실 때 사용하셨던 링크를 통해 방송 종료 후 언제든지 녹화본에 접속하실 수 있습니다 . 웨비나가 종료되면 녹화본 링크가 포함된 이메일을 보내드리겠습니다 . 둘째, 최상의 경험을 위해 구글 크롬 사용을 권장합니다. [음악] 웹캐스트 시청 중 기술적인 문제가 발생하면 브라우저를 새로고침하세요. 그렇게 하면 [음악] 관련 문제 대부분이 해결됩니다.
+
+- **[Brand Is Back: Guy Yalif on Marketing in the Agent Era](https://www.youtube.com/watch?v=tw8cpXGg41I)** — 2026-06-18 · ko · `AX`
+  셀프 서비스 가입의 8%는 LLM 의 추천을 받은 사람들이었으며 , LLM을 통해 유입되었을 가능성이 있는 급증이나 기타 트래픽은 제외한 수치입니다 . 그건 8%였고, 그 트래픽은 구매 유입 경로의 맨 아래쪽으로 향하는 트래픽이었습니다. 전환율이 6%가 아니라 6배, 즉 브랜드가 없는 SEO 트래픽보다 6배 더 높았습니다. 이는 공정한 비교라고 생각합니다. 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다. 이 프로그램에서는 AI를 실험 단계에서 인프라 단계로 전환하고 있는 운영자 및 개발자들을 만나 이야기를 나눠봅니다 .
+
+- **[Lovable's Ryan Meadows on the New GTM Playbook](https://www.youtube.com/watch?v=FeZ93evIfbM)** — 2026-06-11 · ko · `AX`
+  실제로 직원들이 피드백을 제출하면 그 결과물이 바로 기능 구현으로 이어지는 경우가 있습니다. 때로는 몇 분 만에. 라이언 메도우스가 Agents of Scale에 합류합니다 . 라이언은 Lovable의 최고 매출 책임자(CRO) 겸 매출 총괄 책임자입니다. 혹시 들어보지 못하셨다면, 누구나 원하는 것을 설명하는 것만으로 소프트웨어를 만들 수 있게 해주는 AI 앱 빌더입니다 . 러버블에 합류하기 전, 라이언은 클라비오를 5천만 달러 규모에서 10억 달러 이상의 매출을 올리는 회사로 성장시키고 IPO를 성공적으로 이끌었으며, 2025년 말에는 유럽의 10대 기업으로 성장하고 있던 러버블에 합류하기로 결정했습니다
+
+- **[Eric Ries on Vibe Coding and Building Incorruptible Companies](https://www.youtube.com/watch?v=Qs33r-Nreb8)** — 2026-06-01 · ko · `AX`
+  소셜 미디어에 들어가 보면 CEO들을 비롯한 유명 인사들이 자신이 얼마나 생산적인지 끊임없이 자랑하는 모습을 볼 수 있을 거예요 . 그들은 20명의 코딩 에이전트를 고용해서 4천만 줄 정도의 코드를 작성했다고 하더군요. [음악] 잘 살펴보시면, 그들이 들려주는 이야기들 중에는 고객이 어떤 행동을 하는 장면은 하나도 없다는 것을 알 수 있을 겁니다. [음악] 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다 . 이 프로그램은 인공지능을 실험 단계에서 인프라로 전환하는 운영자 및 개발자들을 만나 이야기를 나누는 시간입니다
+
+- **[Meet Al, the guy helping anyone find their groove with AI Automation](https://www.youtube.com/watch?v=82lFZ03EI5Y)** — 2026-05-27 · ko · `unclassified`
+  우와. Zappier를 사용하면 될까요? 정말 감사합니다. 죄송합니다, 성함을 못 들었습니다 . [음악] 당신이 제 경호원이 되어 주신다면, 저는 [음악] 당신의 오랜 친구가 될 수 있어요. [음악] 아빠, 제가 해결해 드릴 수 있어요. 아빠, 저를 부르실 때는 알이라고 불러주세요. 저를 알이라고 불러주세요. 알이에요. 만나서 반가워요, 알.
+
+- **[Build a Candidate Email Responder AI Agent for Talent Acquisition | Build Along Workshop](https://www.youtube.com/watch?v=OMl-4-WdDmk)** — 2026-05-22 · ko · `AX`
+  생방송 중입니다. 여러분, 안녕하세요. 케이시, 잘 지내? 어떻게 지내세요? 안녕하세요, 잘 지내시죠? 여러분 안녕하세요? 아주 잘 지내고 있어요. 또 다른 워크숍을 준비하세요. 모두들 들어오고 있어요. 들어오는 게 보여요 . 채팅창에 올려주세요. 어디에서 전화하시는지 알려주시면 감사하겠습니다. 그리고 배경에 에밀리가 있을지도 몰라요. 그녀가 여기 있어요. 그녀가 가장 좋아하는 일 중 하나는 지난 24시간 동안 당신이 먹어본 것 중 가장 맛있었던 것이 무엇인지 아는 것입니다. 무엇이든 될 수 있죠. 케이시, 너도 하나 있어?
+
+- **[Build a Resume Ride-Along AI Agent for Talent Acquisition | Build Along Workshop](https://www.youtube.com/watch?v=hVtHY6ldP1o)** — 2026-05-22 · ko · `AX`
+  여러분, 안녕하세요. 두 번째 세션에 오신 것을 환영합니다. 안녕 케이시. 안녕하세요, 브라이스. 잘 지내시나요? 아주 잘 지내고 있어요. 제가 제일 좋아하는 새로운 탄산음료를 찾았어요. 음, 홀짝홀짝 마시고 있어요. 아 드 라 칼레 토포 치코(De La Calle Topo Chico) 모던 멕시칸 소다. 겪어본 적 있어요 ? 아니요, 굉장히 근사하게 들리네요. 그들이 이 워크숍을 후원하는 건 아니지만, 정말 맛있는 음료예요. 정말 마음에 들어요 . 데보라가 타이핑하고 있는 게 보이네요.
+
+- **[Guru's Rick Nucci on Building AI Your Team Can Trust](https://www.youtube.com/watch?v=YaSvETxH2jY)** — 2026-05-21 · ko · `AX`
+  당연한 말이지만, 많은 사람들이 간과하는 점은 이러한 모델들이 놀라울 정도로 뛰어나지만, 본질적으로 귀사에 대해 아무것도 모른다는 것입니다 . 안녕하세요 여러분. Agents of Scale에 다시 오신 것을 환영합니다 . 이 프로그램은 인공지능을 단순한 유행어에서 핵심 기술로 바꾸고 있는 경영진들과 제가 직접 만나 이야기를 나누는 프로그램입니다 . 저는 웨이드 포스터입니다. 오늘의 게스트는 릭 누치입니다. 그는 지식 업무를 위한 AI 플랫폼인 Guru의 공동 창립자이자 CEO입니다. Guru는 팀이 어디에서 일하든 회사 지식에서 신뢰할 수 있는 답변을 얻을 수 있도록 지원합니다 .
+
+- **[Steal Zapier's AI Playbook for Accounting: How 8 People Run a $5B Operation](https://www.youtube.com/watch?v=CxrrXKFn6cg)** — 2026-05-20 · ko · `AX`
+  안녕하세요 여러분, 오늘 웨비나에 오신 것을 환영합니다. 어서 오세요, 어서 오세요. 몇 분 후에 시작할게요. 모두가 준비될 때까지 기다리는 동안 , 채팅창에 간단한 인사와 어디에서 오셨는지 남겨주세요. 그럼 몇 분 후에 시작하도록 하겠습니다. 좋습니다, 그럼 어디에서 접속하시는지 한번 볼까요? 네덜란드, 덴버, 두바이, 브리티시컬럼비아, 리버풀, 뉴저지가 있습니다. 와, 정말 다양한 국적의 사람들이 왔네요. 이거 정말 멋지네요. 잠시 후 시작하겠습니다. 토론토, 노스캐롤라이나주. 여러분, 환영합니다. 파키스탄, 프라하. 정말 마음에 들어요. 글로벌. 놀라운. 좋아요.
+
+- **[Best 5 AI Tools for 2026](https://www.youtube.com/watch?v=_dNUh_jSdpM)** — 2026-05-15 · ko · `AX`
+  시장에 새로운 AI 도구들이 대거 출시되고 있습니다 . 너무 많아서 어떤 작업에 어떤 도구가 가장 적합한지 가려내기가 어려울 수 있습니다. 이 영상에서는 여러분이 알아두면 좋을 최고의 AI 도구 5가지와 이러한 도구들이 여러분의 업무 흐름을 어떻게 개선하는 데 도움이 될 수 있는지 알려드리겠습니다. 워크플로 자동화에 도움이 필요하시다면 Zapier가 도와드리겠습니다. Zapier는 앱들을 연결하고 반복적인 작업을 처리해주는 자동화 도구입니다. 이메일을 자동으로 보내 거나 스프레드시트를 업데이트하는 것과 같은 간단한 작업을 수행할 수 있습니다.
+
+- **[Build an AI Content Engine in Claude with Zapier MCP | Build Along Workshop](https://www.youtube.com/watch?v=rV_yvZTe5BY)** — 2026-05-15 · ko · `AX`
+  안녕하세요. 저희는 이번 주 목요일에 생방송을 진행합니다. 라이언, 잘 지내? 좋아, 좋아. 캔자스 시티는 아름다운 곳입니다. 봄에서 벗어나 이제 슬슬 여름으로 넘어가는 것 같아요. 벌써 여름 같은 느낌이 드네요 . 그래서 저는 밖에 나가서 활동하는 게 정말 즐거워요 . 내 발치에 개들이 있어요. 그래서 혹시 개 짖는 소리 나 멍멍거리는 소리 같은 게 들리더라도 양해 부탁드립니다. 오늘은 그냥 얘네들이 놀고 있는 중이거든요. 네, 제가 당신과 만날 때마다 당신의 강아지가 함께 오는 것 같아요.
+
+- **[Top 5 MCP Servers for 2026 | Best MCP Servers](https://www.youtube.com/watch?v=ClN7eViudxU)** — 2026-05-14 · ko · `AX`
+  챗봇이 단순히 질문에 답하는 것 이상의 기능을 수행했으면 좋겠다고 생각하시나요? 모델 컨텍스트 프로토콜(MCP)을 사용하면 모든 앱을 챗봇에 연결하여 강력한 도우미로 만들 수 있습니다. 이 제품은 인공지능이 실제 도구에서 사용할 수 있는 손을 마침내 제공하는 범용 어댑터입니다 . 이제 챗봇은 단순히 채팅만 하는 것이 아니라 파일을 검색하고, GitHub를 관리하고, 수천 개의 앱을 통해 작업을 자동화할 수도 있습니다. 인공지능을 진정한 개인 비서로 만들고 싶다면, 몇 분 만 에 설정할 수 있는 최고의 MCP 서버 5가지를 소개합니다 .
+
+- **[MCP Tutorial: Complete Guide for 2026](https://www.youtube.com/watch?v=9UxGxWIQSso)** — 2026-05-13 · ko · `AX`
+  구축하는 대신, 자동화 시스템과 대화할 수 있다면 얼마나 좋을까요? 이제 Zapier의 새로운 모델 컨텍스트 프로토콜 서버를 사용하면 가능합니다. Zapier의 MCP를 사용하면 이제 AI가 앱에 직접 연결되어 작업을 위한 시스템 허브 역할을 할 수 있습니다 . 이 새로운 MCP를 사용하면 AI가 단순히 질문에 답하는 것 이상의 일을 할 수 있습니다. 이 프로그램은 데이터를 읽고, 연락처를 만들고, 메시지를 보내고, 기록을 업데이트하는 등 다양한 작업을 수행할 수 있습니다. 설정 방법을 보여드리겠습니다.
+
+- **[Build an Email Manager AI Agent | Build Along Workshop](https://www.youtube.com/watch?v=SVu_9bNPLqE)** — 2026-05-04 · ko · `AX`
+  안녕하세요 여러분. 즐거운 목요일 되세요. 오늘은 제게 목요일입니다. 저는 지금 위스콘신주 매디슨에 있는데 , 여기는 확실히 오후입니다. 정각에 이렇게 많은 분들을 뵙게 되어 정말 기쁩니다 . 검증해 주셔서 감사합니다. 오늘은 목요일입니다. 음, 이미 저희와 함께 하시는 분들은 아시겠지만, 저는 모든 회의에서 채팅창에 꼭 넣어두는 아이스브레이킹 질문이 하나 있어요. 바로 " 지난 48시간 동안 가장 맛있었던 음식은 무엇이었나요?"라는 질문입니다. 그러니까, 먹은 음식이나 마신 음료, 듣거나 읽거나 본 것 등 무엇이든 될 수 있다는 거죠.
+
+- **[Keep up with AI: Calendar Check | Build Along Workshop](https://www.youtube.com/watch?v=G4RGwkqjNaY)** — 2026-04-24 · ko · `AX`
+  여러분, 안녕하세요. 어서 오세요. 통화하시는 지역을 채팅창에 남겨주세요. 제 친구 에밀리가 여기 있어요. 매디슨에서 전화하고 있습니다. 본거지. 저희는 플로리다 중부, 휴스턴, 토론토를 보유하고 있습니다. 아, 저는 사람들이 어디 출신인지, 어디에서 전화하는지 보는 게 정말 좋아요. 더 구체적으로 설명하기 위해 추가하시겠어요 ? 주소를 공유하지 마세요. 그걸 요구하는 게 아니에요. 어디에서 전화하시는지 알려주세요. 근데 거기가 사무실인가요? 재택근무? 주방? 호텔 방일 수도 있고, 아니면 아무 데나 있을 수도 있죠 .
+
+- **[Updating Spreadsheets and Generating Reports | Schedule by Zapier](https://www.youtube.com/watch?v=iu6iY8OezNA)** — 2026-04-24 · ko · `AX`
+  스프레드시트로 보고서를 작성하는 데 지치셨나요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있습니다 . 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다 . "매주 월요일 오전 9시에 제 Google Sheets 판매 스프레드시트에서 모든 행을 가져와서 Chat GBT를 사용하여 주간 보고서로 요약한 다음 Gmail로 제게 이메일로 보내주세요 .
+
+- **[Quickbooks to Google Sheets | Never Manually Export Invoices Again!](https://www.youtube.com/watch?v=0pCFGXIDz-E)** — 2026-04-22 · ko · `AX`
+  퀵북스 송장을 구글 시트에 기록하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI Copilot을 사용하면 원하는 내용을 설명하기만 하면 됩니다. "새로운 QuickBooks 온라인 송장을 Google Sheets 스프레드시트 행에 추가하세요."와 같이 말할 수 있습니다. 그러면 워크플로우가 자동으로 구축될 겁니다.
+
+- **[With AI governance built in, Zapier unlocks builders from out of left field.](https://www.youtube.com/watch?v=r_dZ7MFZJsc)** — 2026-04-21 · ko · `unclassified`
+  요즘은 모두가 자동화를 도입하고 있다는 게 믿어지세요 ? Zapier를 사용하면 머리가 조금이라도 있는 사람이라면 누구나 안전하게 모든 AI 플랫폼을 구축할 수 있습니다. 당신은 결코 하나의 모델에 얽매이지 않습니다. 네, 어떤 AI 도구든 상관없습니다. 어머니 집에서 아직 살고 있는 다 큰 남자들도 그 정도는 알아낼 수 있어요. 저는 심지어 저는 심지어 그건 아니었어요. 그건 표현이에요. 나는 절대 그렇게 생각하지 않아. 우리가 정말 이렇게 하고 있는 거야? 너 말하는 모습이 딱 저렇네.
+
+- **[With Zapier's built-in AI governance, even GamGam can bring her ideas to life.](https://www.youtube.com/watch?v=oRZVdzI2flI)** — 2026-04-21 · ko · `unclassified`
+  와, 사무실 전체가 자동화되는 것 같아. Zapier를 사용하면 누구나 어떤 AI를 사용해서든 안전하게 구축할 수 있습니다. 그렇죠, 갬갬? 제가 모든 앱을 너무 빨리 연결해서 쿠키를 구울 시간까지 있었어요. 스니커두들? 그래 , 내 사랑스러운 아들아. 저는 착한 소년이에요. 당신은 그럴 자격이 있으니 쿠키를 드셔도 돼요 . 언제 결혼하세요? 감감, 안 돼, 지금은 제발 그러지 마.
+
+- **[Zapier's governance makes AI safe for anyone with hands. Or paws.](https://www.youtube.com/watch?v=6ylM7rMzw-0)** — 2026-04-21 · ko · `unclassified`
+  와, 요즘은 모든 팀이 자동화를 도입하네요. 음, Zapier는 손만 있으면 누구나 안전하게 I-Rex 로 무언가를 만들 수 있게 해 주죠 . 그건 비유적인 표현이에요. 제 말은, 더 이상 투자 수익률(ROI)을 얻기 위해 개처럼 일할 필요가 없다는 뜻이죠, 그렇죠? 그게 아니라, 네가 그런 사람이어서가 아니라, 내가 그녀의 엉덩이를 몇 번 본 적이 있어서 그래. 어젯밤 경기 보셨어요? 미친. 응. 하지만 실제로는 그렇게 되지 않았습니다.
+
+- **[Jotform to ChatGPT | Your Follow-Up Emails Just Got Smarter](https://www.youtube.com/watch?v=7zGzjq3DKhE)** — 2026-04-20 · ko · `AX`
+  Jot Form 제출물을 받았을 때 채팅 GPT를 사용하여 후속 이메일을 생성할 수 있기를 원하십니까 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음 부터 Zap을 만들 수 있습니다. 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다. Jot Form에 새로운 제출물이 접수되면 양식 응답을 Chat GPT로 보내고 짧고 친절한 후속 이메일을 생성하도록 설정할 수 있습니다
+
+- **[The Executive Blueprint for Responsible AI Governance: Practical Strategies for Leaders Responsible](https://www.youtube.com/watch?v=-Y22OVH2w1o)** — 2026-04-20 · ko · `AX`
+  안녕하세요, 저희 웨비나에 오신 것을 환영합니다 . 이곳에 오게 되어 정말 기쁘고, 여러분도 함께 해주셔서 기쁩니다. 정말 훌륭한 연사분들이 많이 오실 예정입니다. 하지만 본격적으로 시작하기 전에, 먼저 당신에 대해 조금 알고 싶습니다. 그러니까, 어디에서 접속하시는지 알려주시고, 어떤 역할을 맡고 계신지도 궁금합니다. IT, 컴플라이언스, 거버넌스, 아니면 법무팀인가요? 어, 그것도 추가해 주세요. 안녕하세요, 저는 리아입니다. 저는 테네시주 내슈빌에서 생중계로 여러분께 인사드리고 있습니다 . 그리고 저는 그 어떤 역할에도 해당되지 않습니다.
+
+- **[Watch Tickets Move Automatically from Zendesk to Jira!](https://www.youtube.com/watch?v=K8lI2fD6GZg)** — 2026-04-17 · en · `unclassified`
+  Do you want to be able to create Jira issues when new tickets are created in Zendesk? Let me show you how to do it automatically using Zapier. To do this task, I want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's no-code app builder, I can create my Zap from scratch or with Zapier's new AI Co-pilot, I can just describe what I want.
+
+- **[I Let Claude Decide My LinkedIn Strategy](https://www.youtube.com/watch?v=aJd3bNm3MPA)** — 2026-04-16 · en · `unclassified`
+  You're not behind on AI. You're behind on figuring out which parts of your job you should have stopped doing yourself 2 years ago. Zapier asked me to host a series about automation. I'm a content strategist, which means I spent years doing manually the exact thing I'm about to show you how to automate. So, This is an intervention about a substance you're not abusing.
+
+- **[Keep up with AI: Creating Content | Build Along Workshop](https://www.youtube.com/watch?v=CwtBvpOGd78)** — 2026-04-15 · en · `AX`
+  Hello everybody. Welcome to today's session. Throw in where you're calling from. Would love to hear it. Ryan, how you doing, man? &gt;&gt; I am doing good. Um, it is a beautiful spring day in Kansas City. Well, I guess I'm on the Kansas side, but um it feels good after a cold winter to be out out in the yard with the dogs, growing stuff in the veggie garden, all that stuff.
+
+- **[Zoom to ChatGPT to Gmail | Your Meeting Summary Now Sends Itself!](https://www.youtube.com/watch?v=F7rJx81xP-A)** — 2026-04-15 · ko · `AX`
+  줌 회의 요약본이 생성된 후 후속 이메일을 보낼 수 있기를 원하십니까 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 노코드 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " Zoom에서 새 회의 요약이 생성되면 ChatGPT를 사용하여 참석자에게 감사를 표하고, 논의 내용을 요약하고, 다음 단계를 안내하는 짧고 전문적인 후속 Gmail 이메일을 생성하세요.
+
+- **[Google Workspace Admin to Slack | Automate Your Workspace with Slack Notifications](https://www.youtube.com/watch?v=BdSNm8gSyaE)** — 2026-04-10 · ko · `AX`
+  Google Workspace에 새 사용자가 생성될 때마다 Slack 팀 채널에 알림을 보내고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI Copilot을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " Google Workspace 관리자 페이지에서 새 사용자가 생성되면 해당 사용자의 이름과 이메일 주소를 제 Slack 채널로 메시지로 보내주세요.
+
+- **[How Miro's talent team designs & ships HR systems employees actually use with Zapier](https://www.youtube.com/watch?v=NuSnxrdODUE)** — 2026-04-09 · ko · `AX`
+  여러분, 안녕하세요. 오늘 함께해 주셔서 감사합니다 . 잠시 후 시작할 예정이지만, 어디에서 오시든 모두 참여하실 수 있도록 하겠습니다 . 그러고 보니, 어디에서 접속하시는지 채팅창에 알려주세요. 저희는 시청자 여러분이 어디 에서 오셨는지, 그리고 오늘 어디에서 저희 방송에 참여하고 계신지 듣는 것을 매우 좋아합니다 . 아침 인사인지, 오후 인사인지, 밤 인사인지, 한밤중인지, 저는 잘 모르겠습니다. 괜찮은. 아, 캘리포니아에 저와 아주 가까운 사람들이 있어요. 이런 모습을 보니 정말 좋네요.
+
+- **[HubSpot to Slack | Automate HubSpot Updates to Slack](https://www.youtube.com/watch?v=GSRxo68kwxI)** — 2026-04-08 · ko · `AX`
+  HubSpot 할인 혜택이 변경될 때 Slack 팀에 알림을 보내고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 수행하기 위해 Zapier에서 Zap을 생성하려고 합니다. Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있습니다 . 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다 . " HubSpot 거래에 변경 사항이 생기면 영업 담당자에게 후속 조치를 취하도록 상기시키는 Slack 메시지를 영업 채널에 보내세요 .
+
+- **[Keep up with AI: Managing To-dos | Build Along Workshop](https://www.youtube.com/watch?v=8pljY-MwLqs)** — 2026-04-08 · ko · `AX`
+  안녕하세요 여러분. 환영. 세상에, 오늘 여러분 모두와 함께하게 되어 너무 기쁩니다. 처음 오신 분이라면 , 환영합니다. 저희 채팅방에는 사람들이 서로 정보를 공유하는 일종의 전통이 있어서, 여기서부터 시작해 볼게요. 처음이 아니라면, 보너스 환영합니다. 당신은 어찌 된 일인지 제가 손을 흔들고 눈썹을 씰룩거리는 모습을 한 번 보고는 다시 찾아왔군요 . 놀라운. 채팅창에 계신다면, 제가 알고 싶은 건 다음과 같습니다. 첫째, 사람들은 자신이 어디에서 시청하는지 자주 공유합니다 . 벌써 엄청 많이 봤어요.
+
+- **[Slack to Motion App | Never Lose Tasks in Chat Again](https://www.youtube.com/watch?v=k99kpp2i6AQ)** — 2026-04-06 · ko · `AX`
+  Slack에서 모션 작업을 생성할 수 있기를 원하십니까 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 노코드 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. "저장된 Slack 메시지에서 모션 작업을 생성하세요 "와 같은 말을 할 수 있을 것 같습니다. 그러면 워크플로우가 자동으로 구축될 겁니다 .
+
+- **[Amazon Seller Central To Google Sheets | Save Hours Weekly on Order Logging!](https://www.youtube.com/watch?v=L8V0y0PZQl4)** — 2026-04-03 · ko · `AX`
+  아마존 판매 내역을 구글 시트에 기록하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI Copilot을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " 새로운 아마존 셀러 센트럴 주문이 접수되면 구글 시트의 행을 업데이트하세요"와 같은 문구를 사용할 수 있을 것 같습니다.
+
+- **[Build Your Marketing OS in Cursor with Zapier MCP | Build Along Workshop](https://www.youtube.com/watch?v=KOE02pdJxlM)** — 2026-04-02 · ko · `AX`
+  안녕하세요 여러분. 즐거운 목요일 되세요. 컴퓨터로 일할 수 있는 오늘은 살아있다는 게 참 좋은 날입니다. 어서 오세요. 들어오시면서 채팅창에 메시지를 남겨주시면 어떨까요? 어디 에서 전화하시는 건가요? 당신의 클래식 클래식. 그리고 다음 여행 계획은 어떻게 되세요? 어디로 가시는 거예요? 오늘은 휴가철 복장 같은 걸 입었어요. 그래서 요즘 여행 생각이 좀 나네요. 그래서, 네 . 어디 출신이시고 다음 여행지는 어디인가요? 어디로 가시는 거예요? 데이비드, 당신은 애슈빌 지역에 계시고 플로리다로 향하실 예정이시군요. 좋아요.
+
+- **[Hootsuite to Slack | Your Team's Chat is Now Your Content Pipeline](https://www.youtube.com/watch?v=LVzMmrGTfDs)** — 2026-04-01 · ko · `AX`
+  Hootsuite를 사용하여 Slack 메시지를 게시하시겠습니까? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다 . 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 노코드 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. "새로운 Slack 메시지를 Hootsuite에 게시하세요." 와 같이 말할 수 있을 것 같아요. 그러면 워크플로우가 자동으로 구축될 겁니다. 그러면 제 Zap이 생성됩니다.
+
+- **[OpenClaw, Claude, Zapier MCP: Build Agents Safely & Easily | WEBINAR](https://www.youtube.com/watch?v=WPwXCwlTdz4)** — 2026-03-30 · ko · `AX`
+  안녕하세요 여러분, Open Claw, Claude, Zapier MCP를 활용하여 안전하고 쉽게 AI 에이전트를 구축하는 방법을 다룬 웨비나에 오신 것을 환영합니다 . 제 이름은 맷 ​​브라운입니다. 저는 Zapier의 커뮤니티 팀에서 일하고 있습니다. 지금은 Creator Magic의 마이크 러셀 씨가 가상 무대에 함께해 주셨습니다. 오늘 세션을 여러분과 함께 진행하게 되어 매우 기쁩니다 . 우선 몇 가지 안내 사항부터 드리겠습니다. 첫째, 이번 회의는 녹화되고 있으며, 녹화본은 내일 처리되는 대로 이메일로 보내드리겠습니다 . 그러니 걱정하지 마세요 .
+
+- **[Using AI Without Losing Predictability | Build Along Workshop](https://www.youtube.com/watch?v=S9Tn3ddRuDI)** — 2026-03-30 · ko · `AX`
+  안녕하세요. 안녕하세요 여러분. 세상에, 순식간에 수백 명의 사람들이 몰려왔어요. 안녕하세요. 모두 환영합니다. 만나서 정말 반가워요. 이렇게 많은 분들이 와주셔서 정말 기쁩니다! 벌써 채팅에도 참여해주셨네요. 정말 대단하네요. 어, 인사해 주셔서 감사합니다 . 정말 친절하시네요. 자, 이제 분위기를 풀어볼 시간입니다 . 저와 함께 워크숍에 참여해 보신 분들은 제가 음식에 얼마나 집착하는지 이미 짐작하실 거예요. 음, 그래서 저는 항상 " 지난 48 시간 동안 드신 음식 중 가장 맛있었던 것은 무엇인가요?"라고 묻고 싶습니다.
+
+- **[Youtube to Hopscotch | This Is Your Content Distribution in Seconds!](https://www.youtube.com/watch?v=ITEN9LDyshg)** — 2026-03-27 · ko · `AX`
+  YouTube 영상을 다른 소셜 미디어 플랫폼에도 게시하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 새로운 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있습니다 . 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다 . 예를 들어, 홉스콧 소셜 미디어 앱을 사용하여 유튜브 영상을 소셜 미디어에 자동으로 게시한다고 말할 수 있겠네요 .
+
+- **[Manychat to LinkedIn | Real-Time Conversion Tracking](https://www.youtube.com/watch?v=EKkPha5HF20)** — 2026-03-25 · en · `AX`
+  Do you want LinkedIn conversion events firing automatically when someone gets tagged in ManyChat? Let me show you how to do it automatically using Zapier. To do this task, I want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's no-code app builder, I can create my Zap from scratch or with Zapier's new AI Copilot, I can just describe what I want.
+
+- **[Automate Metricool to Google Sheets in Minutes](https://www.youtube.com/watch?v=FTre96kgrnI)** — 2026-03-23 · en · `unclassified`
+  Do you want to be able to log your Metricool metrics onto Google Sheets? Let me show you how to do it automatically using Zapier. To do this task, I want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's no-code app builder, I can create my Zap from scratch or with Zapier's new AI Co-pilot, I can just describe what I want.
+
+- **[Alexa to Notion | Control Your Notion Database by Talking to Alexa](https://www.youtube.com/watch?v=wVX-qoopGIE)** — 2026-03-20 · ko · `AX`
+  Amazon Alexa를 사용하여 Notion 데이터베이스에 항목을 간편하게 추가하고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들거나, Zapier의 새로운 AI 보조 기능을 사용하면 원하는 내용을 설명하기만 하면 됩니다. Amazon Alexa에게 " 새로운 트리거 문구를 사용하여 Notion에 데이터베이스 항목을 추가하세요"라고 말하면 Alexa가 워크플로를 생성해 줄 것입니다.
+
+- **[Getting back to startup speed took a cultural reset - and it worked!](https://www.youtube.com/watch?v=LHd1plfMvXA)** — 2026-03-19 · ko · `AX`
+  팀 규모가 두 배 이상 늘어났으니 배송 속도도 훨씬 빨라질 거라고 예상했었어요. 우리는 그렇게 하지 않았습니다. 우리는 여전히 정말, 정말 느리게 가고 있었다. [음악] 그래서 우리는 ' 이게 사실 문화적인 문제일 수도 있지 않을까?'라는 생각을 하기 시작했어요. 안녕하세요, 여러분. Agents of Scale에 다시 오신 것을 환영합니다. 이 프로그램에서는 AI를 단순한 유행어에서 핵심 기술로 전환하고 있는 경영진들을 만나 이야기를 나눕니다 . 저는 웨이드 포스터이고, 오늘 모신 분은 위스티아(Wistia) 의 공동 창립자 중 한 명인 크리스 새비지입니다
+
+- **[Apollo to LinkedIn | Jump Start Your Lead Generation](https://www.youtube.com/watch?v=-GfJRhWv3Sw)** — 2026-03-16 · ko · `AX`
+  Apollo 페이지에 계정이 추가될 때마다 LinkedIn 회사 업데이트를 받을 수 있도록 설정하고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다 . 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음 부터 Zap을 만들 수 있습니다. 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다. 회사 페이지의 Apollo에 새 계정이 추가될 때 LinkedIn 업데이트를 생성하도록 설정하라고 말하면 워크플로가 자동으로 생성될 거예요.
+
+- **[AI Building in 2026: Hype vs Reality | Build Along Workshop](https://www.youtube.com/watch?v=P6fx2iRLMGE)** — 2026-03-13 · ko · `AX`
+  어서 오세요. 모두 환영합니다. 수백 명이나 되는 분들이 접속하고 있네요. 라이언, 잘 지내세요? 좋은. 캔자스시티의 오늘은 비가 내리는 좋은 목요일입니다 . 지난 한 달 동안은 가짜 봄 날씨였어요. 저는 벌써 반바지를 입고 여름 옷을 다 꺼냈는데, 이제는 흐리고 비가 오네요. 채소밭에는 좋을지 몰라도, 창밖으로 보이는 뒷마당과 거리 풍경을 감상하기에는 별로 좋지 않아요 . 채소밭. 당신은 무엇을 키우고 있나요? 나는 이 문제에 대해 당신과 이야기한 적이 없습니다.
+
+- **[No Lanes: How Claire Vo Runs an AI-Native Company on Her Own Terms](https://www.youtube.com/watch?v=_Wg2oTfwb4g)** — 2026-03-12 · ko · `AX`
+  오프사이트 음악 워크숍을 열어서 하루 종일 팀을 나눠서 뭔가를 만들어보는 걸 좋아해요. 그리고 저는 그것이 바로 재미를 불러일으킬 수 있다고 생각합니다. 이는 어려운 기술들을 익히는 데 도움이 될 수 있습니다. [음악] 음, 그리고 이건 경영진이 이것이 팀이나 회사에 어떤 영향을 미칠 수 있는지에 대해 대화를 시작하기에 좋은 방법입니다. [음악] [음악] 좋아요. 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다 . 저는 클레어 보와 함께 있습니다. 클레어는 여러 차례 창업 경험이 있습니다
+
+- **[Spotify to Twitch | Your Spotify Track Auto-Posts to Slack When You Go Live](https://www.youtube.com/watch?v=cgxGDZHZ4uo)** — 2026-03-11 · ko · `AX`
+  트위치 라이브 스트림에서 현재 재생 중인 곡들을 스포티파이 계정에서도 확인하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 생성하려고 합니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음 부터 Zap을 만들 수 있습니다. 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다. " 트위치에서 새로운 라이브 스트림이 시작되면 스포티파이에서 현재 재생 중인 음악을 가져와서 슬랙 채널로 보내세요.
+
+- **[Leading through AI: How top executives are turning AI mandates into real business transformation](https://www.youtube.com/watch?v=g6q02hUd_Wc)** — 2026-03-09 · ko · `AX`
+  전 세계 여러분, Zapier와 Nerd Wallet, Door Dash, Web Flow라는 세 개의 대표적인 기업의 리더들이 함께하는 오늘 행사에 오신 것을 환영합니다. 믿기 ​​어려우시겠지만, 오늘 우리 모두, 전 세계 수백 명, 아니 수천 명이 한자리에 모여 인공지능 시대에 진정으로 앞장서 나가는 방법에 대해 진솔한 이야기를 나누고자 합니다 . 실제 리더들은 어떻게 인공 지능 관련 요구 사항들을 진정한 변화로 이끌어내고 있을까요? 인간과 인공지능이 협력하여 세상에 놀라운 일들을 해내고 있습니다 .
+
+- **[Sync Google Calendar to QuickBooks Without Manual Work](https://www.youtube.com/watch?v=6ZbuZzrt-8o)** — 2026-03-09 · ko · `AX`
+  Google 캘린더에서 새 일정을 만들 때마다 QuickBooks에서 영수증을 생성할 수 있도록 하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들거나 Zapier의 새로운 AI 보조 도구를 사용하여 만들 수 있습니다. 제가 원하는 바를 설명할 수 있습니다. " 새로운 Google 캘린더 이벤트에 대한 송장을 QuickBooks Online에서 보내세요"와 같이 말하면 워크플로가 자동으로 생성될 것입니다
+
+- **[Square to Stripe | Link Stripe Payments to Square With One Click](https://www.youtube.com/watch?v=k9mMKtOJqwY)** — 2026-03-06 · ko · `AX`
+  받을 때 Square에서 고객 정보를 생성할 수 있도록 하고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들거나, Zapier의 새로운 AI 보조 기능을 이용해 원하는 내용을 설명하기만 하면 됩니다. " 새로운 Stripe 결제를 기반으로 새로운 Square 고객을 생성하세요"와 같이 말하면 워크플로가 자동으로 생성될 것입니다 .
+
+- **[This CFO Asked for What? How Carlos Olea Launched AI Transformation at Howard Hughes](https://www.youtube.com/watch?v=W9IzhSKW2gU)** — 2026-03-05 · ko · `unclassified`
+  심지어 회사 내부 사람들조차 저에게 "왜 우리가 이 분야에서 선구적인 역할을 해야 하느냐"고 묻곤 했습니다. 다른 사람들은 아무도 하지 않는데, 왜 우리가 음악 자동화에 투자해야 하는 거죠 ? 그래서 저는 우리가 하워드 휴즈이기 때문이라고 말했습니다. 그럼 누가 하겠어요? [음악] 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다 . 이번 주에는 정말 훌륭한 손님을 모셨습니다. 이분은 카를로스 올리입니다. 그는 하워드 휴즈의 최고재무책임자(CFO)입니다. 카를로스, 쇼에 오신 것을 환영합니다. 고마워 친구. 기쁨.
+
+- **[Clockify to Slack: Automate Your Workflow in Minutes](https://www.youtube.com/watch?v=obd5xYrSpmA)** — 2026-03-04 · ko · `AX`
+  Clockify에서 신규 고객이 생겼을 때 Slack 팀에 알림을 보내고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 수행하려면 Zap을 생성해야 합니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 Noode 앱 빌더를 사용하면 Zap을 처음부터 직접 만들 수 있고, Zapier의 새로운 AI 보조 기능을 사용하면 원하는 내용을 설명하기만 하면 됩니다 . " 클록파이에 새 고객이 등록되면 슬랙으로 메시지를 보내세요."와 같이 말할 수 있을 것 같습니다.
+
+- **[Zapier MCP in Claude Chat: From Zero to Working Setup | Build Along Workshop](https://www.youtube.com/watch?v=ZlAr1wx_50c)** — 2026-03-02 · ko · `AX`
+  안녕하세요 여러분. 안녕하세요, 환영합니다. 이렇게 여러분 모두를 만나게 되어 정말 기쁩니다. 벌써 100명이 넘는 사람들이 모였어요. 몇 분 안에 몇몇 분들이 참여하실 거라는 걸 알고 있습니다. 자, 그럼 , 사람들이 들어오는 동안 채팅창에 두 가지 질문을 남겨주시겠어요? 우선, 전통적으로 어디에서 접속하셨는지 여쭤보겠지만, 제가 가장 중요하게 생각하는 것은 지난 48시간 동안 가장 맛있게 드신 음식입니다. 그러니까, 먹은 음식, 마신 음료, 들은 것, 본 것 중 무엇이 원인일 수도 있어요.
+
+- **[Facebook Messages to ChatGPT | Automatically Respond to Messages](https://www.youtube.com/watch?v=NODRshstle4)** — 2026-02-27 · ko · `AX`
+  페이스북 메신저 답글을 작성할 때 채팅 GPT를 활용할 수 있으면 좋겠다고 생각하시나요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고 , Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " 채팅 GPT를 사용하여 맞춤 답장으로 페이스북 메시지에 신속하게 답장하세요."와 같이 말할 수 있을 것 같습니다
+
+- **[Can AI Make Recruiting More Human? Kristen Habacht on the Hiring Arms Race](https://www.youtube.com/watch?v=4soZ4Us4Ia0)** — 2026-02-26 · ko · `AX`
+  사실, 그들이 부정행위를 했든 말든 누가 신경 쓰겠어요 ? 이는 그들이 해당 도구를 사용하는 방법을 알고 있으며, 아마도 그런 방식으로 코드를 작성할 수 있을 것이라는 것을 보여줍니다. 앞으로는 사람들이 부정행위를 하든 말든 크게 신경 쓰지 않게 될 겁니다. 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다 . 이 프로그램은 인공지능을 단순한 유행어에서 기업의 핵심 기술로 탈바꿈시키는 경영진들을 만나 이야기를 나누는 프로그램입니다. 저는 WDE 포스터입니다. 저는 Zapier의 공동 창업자 겸 CEO입니다
+
+- **[Quickbooks to Stripe Integration: Never Manually Create Receipts Again](https://www.youtube.com/watch?v=fQSpM72NAFc)** — 2026-02-25 · ko · `AX`
+  때마다 QuickBooks에서 영수증을 생성할 수 있도록 하고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고 , Zapier의 새로운 AI 보조 기능을 사용하면 원하는 내용을 설명하기만 하면 됩니다 . "퀵북스 온라인에서 새로운 스트라이프 결제에 대한 영수증을 생성하세요."와 같이 말할 수 있을 것 같아요.
+
+- **[Microsoft Teams and ChatGPT: Automate Your Entire Workflow](https://www.youtube.com/watch?v=-jeuAHLPGRc)** — 2026-02-23 · ko · `AX`
+  Microsoft Teams로 양식 데이터 요약을 보내는 데 채팅 GPT를 활용할 수 있으면 좋겠다고 생각하시나요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음 부터 Zap을 만들 수 있습니다. 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다.
+
+- **[OneNote and ChatGPT | Form Responses Into Summaries Automatically? Here's How](https://www.youtube.com/watch?v=QlSpLzErcR4)** — 2026-02-18 · ko · `AX`
+  채팅 GPT를 사용하여 양식 데이터를 OneNote 페이지로 요약할 수 있으면 좋겠다고 생각하시나요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 Noode 앱 빌더를 사용하면 Zap을 처음부터 직접 만들 수 있고, Zapier의 새로운 AI 보조 기능을 사용하면 원하는 내용을 설명하기만 하면 됩니다 . 새로운 Google 설문지가 작성되면 chatpt를 사용하여 데이터를 요약하고, 그 요약 내용을 OneNote 계정에 기록하면 워크플로가 자동으로 구축된다고 말할 수 있을 것 같습니다
+
+- **[[AMA] Kickstart Your AI Fluency: Exec Ops & HR Transformation with Zapier and Zoominfo](https://www.youtube.com/watch?v=jONuMTU-_uM)** — 2026-02-16 · ko · `AX`
+  여러분, 안녕하세요. 어서 오세요. 어서 오세요. 채팅창에 남겨주세요. 어디 에서 전화하고 계신가요? 데보라가 타이핑하는 게 보여요. 많은 분들이 알고 계시는 사랑스러운 팀 동료 에밀리 메이비가 위스콘신주 매디슨에서 우리의 시작을 알립니다 . 너무 맛있어요. 어서 오세요. 어서 오세요. 마음에 들어요. 밴쿠버, 미니애폴리스, 그 외 모든 곳. 채팅창에 올려주세요. 모두 와주셔서 정말 반가워요 . 저희는 Satu와 Courtney와의 멋진 AMA로 AI 활용 능력 시리즈를 마무리합니다 . 저는 브라이스 버논입니다. 저는 테네시주 내슈빌에서 전화하고 있습니다
+
+- **[He Got Promoted?! | The Bailey Zappe x Zapier Finale](https://www.youtube.com/watch?v=NozXrp0a9Qs)** — 2026-02-13 · ko · `unclassified`
+  죄송합니다. 회의 위원회는 무작위로 구성됩니다. 그는 승진했다. 위에서부터. 아니요, 위에서부터는 아닙니다. 넌 10살 같아. 넌 30살 같아. 우리 둘 다 직업이 있어. 우리는 5시에 마음을 터놓고 이야기해요. 노조 규정. 싹둑싹둑. 비시즌 아르바이트는 최악이에요. 그에게 축구공이나 다른 장난감을 사줄까요? 아직 진행 중입니다. 감사합니다.
+
+- **[How Do You Pronounce Zapier? We Asked NFL QB Bailey Zappe](https://www.youtube.com/watch?v=b2WccIORrQY)** — 2026-02-13 · en · `unclassified`
+  And we're back with &gt;&gt; Zapier quarterback. &gt;&gt; Kids, today we're learning about Zapier. And I'm Bailey Zappy. You again. &gt;&gt; I don't get it. Can you say them both again? &gt;&gt; Zapier. Zapier. &gt;&gt; Is there a story board for this? I'm not seeing the vision. How about Zapier makes you happier? &gt;&gt; Oh, that's good. &gt;&gt; Am I the only one that's hearing this? &gt;&gt; Zapier. Zapier.
+
+- **[Outlook 365 to ChatGPT | ChatGPT Answers Your Emails Automatically](https://www.youtube.com/watch?v=TCUHgB_tils)** — 2026-02-13 · en · `AX`
+  Do you wish you could use chat GPT to help you send reply emails? Let me show you how to do it automatically using Zapier. To do this task, I'll want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's a no code app builder, I can create my Zap from scratch.
+
+- **[Connect Discord to ChatGPT and Google Forms | Auto-Summarise Your Messages with AI](https://www.youtube.com/watch?v=z6HelaqBSkY)** — 2026-02-11 · en · `AX`
+  Do you wish you could use chat GPT to summarize your Google form data to send out to your Discord channel? Let me show you how to do it automatically using Zapier. To do this task, I want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's no code app builder, I can create my Zap from scratch.
+
+- **[Meet Bailey Zappe: The Zapier Quarterback Powering Automation](https://www.youtube.com/watch?v=tCrMveIJK6Y)** — 2026-02-11 · en · `unclassified`
+  And we're back with [music] &gt;&gt; Zapier. &gt;&gt; Kids, I'm here today to show you how anyone can use AI and automation. Who here has heard of Zapier before? &gt;&gt; It's a no code solution that anyone can use to automate AI workflows. &gt;&gt; Uh, that's right. Zapier connects what grown-ups call API, &gt;&gt; application programming interfaces. It basically lets the [music] different apps talk to each other.
+
+- **[Connect Gmail to ChatGPT | Never Manually Reply to Emails Again](https://www.youtube.com/watch?v=pdfpfRhZYeI)** — 2026-02-09 · en · `AX`
+  Do you wish you can use chat GPT to help you send reply emails? Let me show you how to do it automatically using Zapier. To do this task, I'll want to create a zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's a no code app builder, I can create my Zap from scratch.
+
+- **[Connect HubSpot and LinkedIn: Auto-Post Your Closed Deals](https://www.youtube.com/watch?v=CJXu0tRLdR0)** — 2026-02-06 · en · `AX`
+  Do you want to be able to send company updates when HubSpot deals are created? Let me show you how to do it automatically using Zapier. To do this task, I'll want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's no code app builder, I can create my Zap from scratch.
+
+- **[Making your AI transformation real with Zapier](https://www.youtube.com/watch?v=NeYSJa2qgtg)** — 2026-02-05 · en · `unclassified`
+  We thought we were buying AI to transform our company. Instead, we got AL. &gt;&gt; Morning. &gt;&gt; Hi, I'm Al. &gt;&gt; Just a guy named Al. So, our AI pilots are failing. And now we've got this this Al guy just milling around. &gt;&gt; Not good. &gt;&gt; But then he showed the whole office how to build AI workflows using Zapier. &gt;&gt; And I kind of just &gt;&gt; Now everyone's automating securely.
+
+- **[Is SaaS really dead? Dharmesh Shah from HubSpot on AI, Vibe-Coding & the Future of Work](https://www.youtube.com/watch?v=R5MKxU5biPo)** — 2026-02-03 · en · `AX`
+  We have all the resources in the world. The number of SAS apps that we have replaced as a result of all this kind of army of resources and talent that we have, we're a software company uh through and through is exactly zero. Okay folks, welcome to Agents of Scale. I'm here with Dsh Shaw who is the co-founder and CTO of HubSpot. Dares needs no introduction.
+
+## Cohere (64건)
+
+- **[Does Your Agent Know It's Lost? Uncertainty & Progress Signals for Reliable LLM Agents, w/ Sharon Li](https://www.youtube.com/watch?v=VfuCUgFmroI)** — 2026-07-24 · en · `AX`
+  [music] Hey everyone and I'm Bza a research scientist at Cohill Labs and I'm very happy to be hosting today's talk. Uh it's a pleasure to introduce our speaker Sharon Lee. Sharon is an associate professor in the department of computer science at the University of uh Wisconsin Medicine and her research focuses on the foundations of reliable intelligence.
+
+- **[Ruihang Lai & Hao Kang - PithTrain: A Compact and Agent-Native MoE Training System](https://www.youtube.com/watch?v=u_Z0lq93KBk)** — 2026-07-24 · en · `AX`
+  [music] Um my name is Rh and with how together today uh it's a very it is great pleasure for us to um introduce our recent work called pet train which is a compact and agent native training system and we are um students from CMU and let's get started so um we first want to introduce the meaning of pith.
+
+- **[Claas Voelcker - On-policy value learning at 10000 frames per second](https://www.youtube.com/watch?v=g83cuGL6N9Y)** — 2026-07-17 · en · `AX`
+  [music] Thanks everybody for having me and for attending uh this talk. As Ro already said, I will be talking about our paper um which is called relative entropy pathways policy um wait optimization. It's a little bit of a mouthful. Um, but for the purpose of this talk, uh, I have given it a slightly more bammy name, which is on policy value learning at 10,000 frames per second.
+
+- **[Daniel Ajisafe - Making Video Models Adhere to User Intent with Minor Adjustments](https://www.youtube.com/watch?v=SjjOPiV5tDI)** — 2026-07-17 · en · `unclassified`
+  [music] I'm very excited to, you know, um, be joining Qu labs opensiz community today. Um, I'm looking forward to a wonderful and engaging experience. Um, it's my first and um, I'm excited to also be here as well and I'm also honored. Thank you for giving me the opportunity and thank you for inviting me as well. Okay. So, um we can get right into the conversation for today.
+
+- **[Forecasting world events with language models, with Shashwat Goel](https://www.youtube.com/watch?v=bM1C1F3hRS4)** — 2026-07-17 · ko · `AX`
+  [음악] 안녕하세요 여러분, 코힐 랩스 앤 컨버세이션의 또 다른 에피소드에 오신 것을 환영합니다. 안녕하세요, 제 이름은 다니엘 소우아이고, 코힐 랩 팀에서 연구 엔지니어로 일하고 있습니다 . 오늘 저는 LSN 맥스 블랭크 연구소의 박사 과정생인 샤슈왓 도일 씨를 소개하게 되어 기쁩니다 . 어, 샤 슈왓이 최근 연구에 대해 이야기해 줄 예정이라 정말 기대돼요. 제가 방금 들은 논문은 ICML 예측 워크숍에서 최고의 논문 중 하나였는데, 놀랄 일도 아니죠.
+
+- **[IOL-AI Submission 101](https://www.youtube.com/watch?v=NT47u1ScU8E)** — 2026-07-13 · ko · `AX`
+  안녕하세요 여러분. 이 통화에 오신 것을 환영합니다. 저희는 당신을 이곳에 모시게 되어 매우 기쁩니다. 음, 이번 101 과제 제출의 목표는 우선 과제에 대해 이야기하고 , 여러분의 질문에 답하고, 제출 과정이 처음부터 끝까지 어떻게 진행되는지 안내하는 것입니다. 그래서 시작하기에 앞서 참가자들을 위한 몇 가지 자료가 담긴 간단한 안내서를 준비했습니다 . 음, 채팅창에 링크를 공유할게요. 그러면 웹사이트에 업로드될 거예요. 기본적으로 여기에는 시작하는 데 필요한 모든 것이 있습니다 . 그건 나중에 다시 얘기해봐요.
+
+- **[AI at the International Linguistics Olympiad: A Fireside Chat on Linguistic Reasoning with LLMs](https://www.youtube.com/watch?v=z_rDUFxwGmM)** — 2026-07-03 · ko · `AX`
+  [음악] 자, 오늘 벽난로 앞 담소에 오신 여러분 모두 환영합니다 . 여기 불이 났어요, 채팅이 곧 시작될 거예요. [웃음] IOL AI 챌린지에 대해 이야기해 볼까요? 음, 그럼 오늘 한 시간 드릴게요. 오늘 저희 사무실에는 두 분의 귀빈이 계십니다. 제가 채팅을 진행하겠습니다. 제 이름은 줄리아입니다. 저는 쿠힐 연구소 의 선임 연구 과학자이며 이번 챌린지를 공동으로 기획하고 있습니다. 또한, 이 통화에는 여러 명의 공동 주최자가 더 참여하고 있습니다. 그러니까, 나중에 질문이 있으시면 다 같이 답변할 수 있겠죠.
+
+- **[Bingyi Cao & Koert Chen - TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text](https://www.youtube.com/watch?v=DmGz7XRPFrQ)** — 2026-06-26 · ko · `AX`
+  [음악] 오늘 Cohere Labs 컴퓨터 비전 토크 시리즈에 초대해 주셔서 정말 감사합니다. 제 이름은 토프이고, 빙이와 함께 왔습니다. 저는 딥마인드의 훨씬 더 큰 팀을 대표하고 있습니다. 슬라이드를 보여드리겠습니다. 괜찮은. 음 , 좋아요. 모두가 우리를 볼 수 있어요. 괜찮은. 저희 팀은 TIPS V2에 대한 연구 결과를 발표하고자 합니다. TIPS V2는 향상된 피치 패치 텍스트 정렬을 통해 비전 언어 사전 학습을 발전시킨 버전입니다. 저희는 올해 CVPR에서도 이 내용을 발표했습니다.
+
+- **[From Machine Translation to AI-Mediated Communication- Cohere Labs in Conversation w/ Marine Carpuat](https://www.youtube.com/watch?v=HzGQUgo5NPA)** — 2026-06-26 · ko · `AX`
+  [음악] 모두 환영합니다. 음, 그리고 나중에 이 영상을 보시는 분들 도 환영합니다. 음, 오늘 저희는 마린 카피아 씨를 모시게 되어 영광입니다. 그녀는, 음, 메릴랜드 대학교 컴퓨터 과학과 교수님이세요. 그리고 최근 승진을 축하드립니다. 그래서 그녀는 이제 교수가 달성할 수 있는 최고 직위를 갖게 되었어요. [웃음] 정말 대단한 업적이죠. 그리고 당신도 알다시피, 정말 마땅한 결과입니다. 그녀의 연구는 언어 간 소통을 돕는 인공지능 기술 개발 과 그러한 시스템이 실제로 성공적인지 여부를 연구하는 데 중점을 두고 있습니다
+
+- **[Sonia Joseph - Interpreting Physics in Video World Models](https://www.youtube.com/watch?v=6UKl8e8-qKE)** — 2026-06-26 · ko · `AX`
+  [음악] 안녕하세요 여러분. 와주셔서 감사합니다. 이 작품을 발표하게 되어 기쁩니다 . 물리와 비디오 모델을 해석하는 최초의 연구라고 할 수 있겠습니다. 물론 그 이후로 훌륭한 연구들이 많이 나왔지만요. 저희가 발견한 내용을 여러분과 공유하게 되어 매우 기쁩니다. 간단히 제 소개를 드리겠습니다. 저는 맥길 대학교에서 박사 학위와 석사 학위를 마무리하고 있습니다. 저는 신경과학과 컴퓨터 과학을 전공했고, 이전에는 신경과학자로 일했으며, 현재는 Madafair의 Jetpa 팀에서 방문 연구원으로 재직하며 내부 해석 가능성 포럼을 이끌고 있습니다.
+
+- **[Doğaç Eldenk  - Attention Drift – What speculative decoding models learn](https://www.youtube.com/watch?v=sbCSYEaMEmg)** — 2026-06-25 · en · `AX`
+  [music] &gt;&gt; It is my utmost pleasure to welcome to this ML systems and theory seminar series Dodge. So Dodge is a master student of the Northwestern University in the US. His research interests are generally around LLM inference and efficiency and has done some great work and today we are very eager to eager to hear about your work on attention drift what speculative coding models learn.
+
+- **[MolmoAct2 - Building Open Science Robotics Foundation Models for Real world Deployment](https://www.youtube.com/watch?v=y7lQLnQKey0)** — 2026-06-19 · en · `AX`
+  [music] &gt;&gt; All right. My name is Jeff Don. I think I've been on this live session for quite a few times. This I probably the third time. Yeah, so I'm a uh I'm an incoming assistant professor at NUS, National University of Singapore. Starting my job in 1 month's time. And uh Hao-Chuan Fang here is a PhD incoming PhD student at Stanford University uh advised by Fei-Fei Li.
+
+- **[Debjyoti Paul - Softmax, Backprop, and the Autograd  The Hidden Machinery Behind Deep Learning](https://www.youtube.com/watch?v=7VJ_qTdhBes)** — 2026-06-18 · en · `AX`
+  [music] &gt;&gt; Hi everyone. My name is Katrina and I'm the machine learning math lead here at Cohere Labs. And today we have an exciting guest speaker, uh Dev Jyoti, who's Paul is going to be talking about softmax, backpropagation, and the autograd, and the hidden machinery behind deep learning. And with that, I'll pass it on to him. &gt;&gt; Thank you, Katrina. Uh so, let me share my screen.
+
+- **[O-Ring Automation & the Economics of Bicycles for the Mind with Avi Goldfarb](https://www.youtube.com/watch?v=uUUBApVevNI)** — 2026-06-16 · ko · `AX`
+  [음악] 안녕하세요 여러분, 함께해 주셔서 감사합니다. 오늘 저희를 찾아주신 손님, 아비 골드파 씨를 모시게 되어 정말 기쁩니다. 아비는 토론토 대학교 교수이며, 인공지능이 경제의 일자리에 미치는 영향을 연구하는 선도적인 경제학자 중 한 명으로, 이 주제에 대해 두 권의 저서를 포함하여 폭넓게 저술했습니다. 음, 그의 연구는 인공지능이 경제의 일자리에 미치는 영향에 대해 가장 엄밀한 분석을 제시하는 연구 중 하나입니다. 오늘 그는 우리에게 O링 자동화 와 정신 건강을 위한 자전거 경제학에 대해 이야기할 것입니다
+
+- **[Igor Shilov - Knowledge Localization for Capability Removal in LLMs](https://www.youtube.com/watch?v=iBU3pJpuVu0)** — 2026-06-11 · ko · `AX`
+  [음악] 오늘은 이고르 씨의 이야기를 들어보겠습니다. 약 45분간의 강연이 진행될 예정이며, 이후 토론과 함께 질의응답 시간이 있을 것입니다. 해당 세션의 녹화 영상은 추후 유튜브에서 시청하실 수 있습니다. 자, 그럼 이고르를 소개하겠습니다. 그는 10년 넘게 소프트웨어 엔지니어로 일했습니다 . 최근에는 Meta에서 연구 엔지니어로 근무하며 개인 정보 보호 머신러닝 분야를 연구했습니다. 그는 현재 임페리얼 칼리지 런던에서 박사 과정 연구원으로 재직하며 머신러닝 개인 정보보호 및 보안을 연구하고 있습니다. 저희는 오늘 그분의 말씀을 듣기를 기대하고 있습니다
+
+- **[Jędrzej Maczan - Online Softmax](https://www.youtube.com/watch?v=AwAhZscqm5E)** — 2026-06-05 · ko · `AX`
+  [음악] 안녕하세요 여러분. 제 이름은 카트리나이고, 코히어 랩에서 머신러닝 수학 부문 리더를 맡고 있습니다. 오늘은 윤제이 씨를 모시고 아주 특별한 강연 시간을 갖겠습니다 . 그는 머신러닝 연구원이자 엔지니어이며, 오늘 우리에게 온라인 소프트맥스에 대해 설명하고 인공지능 분야에서의 응용 사례와 그 이면에 있는 수학적 원리를 이해하도록 도와줄 것입니다 . 그럼 이걸로 전달드리겠습니다 . 안녕하세요, 카트리나 님 소개해주셔서 감사하고, 여러분 모두 안녕하세요. 네, 맞아요 . 음, 우선 소프트맥스가 무엇인지부터 설명하고 싶습니다.
+
+- **[Lang Gao & Jinghui Zhang - The Cylindrical Representation Hypothesis for Language Model Steering](https://www.youtube.com/watch?v=mR4wNRnlPaQ)** — 2026-05-29 · ko · `AX`
+  여러분, 안녕하세요. 오늘 저희 초청 강연에 참석해 주셔서 진심으로 감사드립니다. 우리와 함께 랑가오와 이 누가 있습니다. 랑가는 모하메드 빈 자드 인공 지능 대학교에서 자연어 처리 분야 박사 과정 1년차 학생입니다. 그는 잉 첸 교수님과 페르 나포스 교수님의 지도를 받고 있으며, 바이트와이즈에서 NLP 알고리즘 인턴으로 근무하고 있습니다. 또한 빈 인공지능대학교에서 윤 창 교수님과 텐타링 교수님의 지도를 받으며 자연어 처리 분야 박사 과정 1년차 학생입니다.
+
+- **[Rafi Ibn Sultan - WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation..](https://www.youtube.com/watch?v=od8AjajF8TQ)** — 2026-05-29 · ko · `AX`
+  [음악] 저는 라피입니다. 오늘은 올해 CVPR 2026에 채택 된 저희 논문을 발표하겠습니다. 논문 제목은 "보행자 내비게이션을 위한 깊이 인식 분할 기능을 갖춘 Work-GPT 기반 시각 언어 대화"입니다 . 이분들은 모두 훌륭한 공동 저자들입니다. 음, 그리고 여기에 QR 코드를 몇 개 추가했는데, 하나는 저희 프로젝트이고 다른 하나는 저희 연구실입니다. 그리고 기타 등등, 원하시면 스캔해서 프로젝트 나 저희 연구실을 구경하실 수도 있습니다. 네 , 그럼 바로 시작해 볼까요?
+
+- **[Could phenomenal reports lead to better multiagent collaboration? - Philippe Beaudoin](https://www.youtube.com/watch?v=HNA7MPZIYt8)** — 2026-05-25 · ko · `AX`
+  [음악] 안녕하세요 여러분, 환영합니다. 오늘 저는 필립 보두앵 씨를 모시고 우리 분야에서 현재 가장 중요한 미해결 질문 중 하나라고 생각하는 주제에 대해 이야기를 나눌 수 있게 되어 매우 기쁩니다. 음, 에이전트들이 제대로 협업하려면 실제로 무엇이 필요할까요? 음, 그리고 지금처럼 에이전트가 우리 삶의 일부가 된 새로운 현실 속에서 이 이야기는 더할 나위 없이 시의적절하다고 생각합니다. 음, 그들은 우리를 위해 코드를 작성하고 있어요. 그들은 우리를 위해 실험을 진행하고 있습니다.
+
+- **[Cohere | Enterprise AI for financial services](https://www.youtube.com/watch?v=yRq1hPB4dnc)** — 2026-05-20 · ko · `unclassified`
+  AI와 관련하여 금융 기관들은 종종 시범 운영 단계에 머물러 있습니다 . 왜? 고객 데이터는 민감한 정보이므로 의사 결정에는 위험이 따르며, 규정 준수를 철저히 해야 합니다. 많은 타사 AI 시스템은 필수 요건을 충족하지 못합니다. 은행과 투자 회사는 통제권을 유지하면서 인공지능의 잠재력을 어떻게 활용할 수 있을까요 ? Cohere를 입력하세요. 이는 개인, 기업, 국가 (음악)가 자신들의 데이터에 대한 자율성을 유지할 수 있도록 해줍니다 . 이는 규제 대상 산업을 위해 설계된 안전하고 자율적인 AI입니다.
+
+- **[Erfan Shayegani - Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness](https://www.youtube.com/watch?v=SOe5PhrtM60)** — 2026-05-18 · ko · `AX`
+  [음악] 훌륭해. 자, 다시 돌아왔습니다. 여기는 Airfn입니다. 마누엘이 말한 대로 다른 작품을 발표하겠습니다. 저는 최근 브라질에서 열린 ICLR 2026에서 발표한 컴퓨터 사용 에이전트에 대한 최근 연구 결과를 소개하려고 합니다 . 그럼 본론으로 들어가 볼까요? 이것은 다시 말하지만, 작품 제목이 마치 "그냥 해"와 같은 의미입니다. 컴퓨터 에이전트는 맹목적인 목표 지향성을 보인다. 음, 이건 제가 마이크로소프트에서 인턴으로 근무했을 때 주로 했던 작업이에요 . 어, 지난 여름에 지도 교수님들을 포함한 팀과 함께했어요.
+
+- **[Yulu Gan - FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos](https://www.youtube.com/watch?v=-Hz4UrR27v0)** — 2026-05-18 · ko · `unclassified`
+  [음악] 오늘은 동영상 속 공간적 움직임에 대한 자동 동작 라벨링 및 추론의 기초에 대해 이야기해 보겠습니다 . 그리고 최근에는 대형 라인 모델이나 시각적 라인 모델이 채팅과 코딩에 매우 강력한 성능을 보여주고 있습니다. 하지만 사실 그들은 공간적인 움직임이나 공간적 이해 능력이 그다지 좋지 않습니다. 하지만 실제로 움직임은 매우 중요합니다. 약 20억 년 전에 아메바는 움직일 수 있었습니다. 그리고 그들은 에너지를 거의 사용하지 않는 생물이기 때문에, 그들이 하는 모든 움직임은 생존하고 먹이를 찾는 데 집중되어 있습니다
+
+- **[Dr. James Bedford - University 3.0:  A Pedagogy-First Approach to Vibe Coding](https://www.youtube.com/watch?v=mdfMDUdveTY)** — 2026-05-08 · ko · `AX`
+  [음악] 안녕하세요 여러분. 한국 커뮤니티에서 주최하는 에듀테크 세션에 오신 것을 환영합니다 . 오늘 제임스 박사님과 함께하는 세션에 여러분 모두를 환영합니다 . 간단히 소개하자면, 제임스 박사님은 수상 경력이 있는 작가이자 12년 이상 고등 교육 분야에서 근무한 교육자입니다. 그는 뉴사우스웨일스대학교( UNSW)에서 창작 글쓰기 박사 학위를 받았으며, 고등교육 아카데미의 선임 연구원입니다 . 그는 현재 UNSW 대학 에서 인공지능 교육 전문가로 재직 중입니다 . 오늘 함께해 주셔서 정말 감사합니다, 제임스 박사님. 저희는 여러분을 만나게 되어 매우 기쁩니다.
+
+- **[Visualizing Research: A co/plot walkthrough and Q&A](https://www.youtube.com/watch?v=7O8OTUp94WE)** — 2026-05-01 · ko · `AX`
+  [음악] 좋아요. 시원한. 타겟이 시작했습니다. 자, 지금 녹화 중이니까요. 저를 모르시는 분들을 위해 소개드리자면, 저는 토마스 오영이고, 코히어 랩(Cohere Labs)에서 비주얼 스토리텔링 연구원으로 일하고 있습니다. 그리고 코파일럿(Copilot)의 개발자이기도 합니다. 오늘 함께해 주셔서 정말 감사합니다. 오늘은 제가 왜 코파일럿을 만들었는지에 대해 간단히 이야기해 보려고 합니다. 사람들이 코파일럿을 좀 더 깊이 있게 활용하는 데 도움이 될 것 같아서요. 그 후 코파일럿 데모를 보여드리고, 코파일럿을 넘어 데이터 시각화에 대한 더 폭넓은 이야기를 나눠보려고 합니다.
+
+- **[Brian Chao - Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://www.youtube.com/watch?v=FYOl-4glV2M)** — 2026-04-30 · ko · `unclassified`
+  [음악] 오늘은 공간 인식 이미지 및 비디오 생성이라고 공식적으로 불리는 가짜 생명 확산에 대해 이야기해 보겠습니다. 이 연구는 스탠포드에서 공동 연구자인 레오 하워드, 그리고 지도교수인 고든과 함께 진행한 것입니다. 좋아요. 그래서 제 생각에는 모든 분들이 "네, 할 수 있을까요?"라고 물어보시는 것 같아요. 어, 슬라이드쇼 창 표시 버튼을 누르세요 . 아, 보여주시는군요. 응. 지금 방송 중인가요? 네, 지금은 괜찮아요. 잠깐만요, 어떻게 전체 화면으로 만들죠? 좋아요, 다시 시도해 볼게요. 이거, 어...
+
+- **[Pedro Ortiz Suarez & Laurie Burchell – Expanding Linguistic and Cultural Coverage in Common Crawl](https://www.youtube.com/watch?v=Q4_e7Pnj6Yw)** — 2026-04-30 · ko · `AX`
+  [음악] 자 , 여러분 모두 환영합니다. 네, 여기 저희가 왔고, 또 다른 게스트 세션을 진행할 예정입니다. 안녕하세요, 저는 브론슨입니다. 저는 아프리카 지역 출신입니다. 안녕하세요, 저와 스티븐은 아프리카 지역 그룹에서 일하고 있습니다. 오늘 페드로와 로리를 모시고 Common Crawl에서 언어 및 문화적 범위를 확장하는 방법에 대한 세션을 진행하게 되어 매우 기쁩니다. 그리고 혹시 여기 처음 오신 분이라면, 이곳은 Go Here Labs 커뮤니티입니다. 아직 가입하지 않으셨다면 환영합니다. 저희는 누구나 머신러닝 연구를 할 수 있는 공간을 제공하는 곳입니다
+
+- **[Jiafei Duan  - Building Robotics Foundation Model with Reasoning in the loop](https://www.youtube.com/watch?v=ZB5IAlFvt1c)** — 2026-04-24 · ko · `AX`
+  안녕하세요 여러분, 오늘은 Reason을 활용하여 로봇 공학 기초 모델을 구축하는 방법에 대한 제 박사 연구 내용을 공유하려고 합니다. 머신러닝은 이제 우리 일상생활의 일부가 되었죠. 학문적 영역을 넘어 엄청난 발전을 이루어 이메일을 작성하고, 디지털 작업을 지원하며, 심지어 코드를 생성해 주기까지 합니다. 여러모로 머신러닝의 발전은 우리가 생각하고 일하는 방식을 디지털 세계에서 변화시켰다고 할 수 있습니다. 하지만 제 생각에는 아직 부족한 부분이 하나 있는데, 바로 물리적 세계입니다. 인공지능이 아직 물리적 세계에서는 거의 존재감을 드러내지 못하고 있다고 생각합니다.
+
+- **[Shuo Li Liu - Coherence in RLHF Preference Data](https://www.youtube.com/watch?v=V_l4vOL_1Ms)** — 2026-04-24 · ko · `AX`
+  [음악] 다들 RLHF에 대해 어느 정도 알고 계실 거라고 생각해서 데이터 구조에 대해 간단히 소개해 드리겠습니다. 그래서, 이 연구에서는 인간의 선호도 데이터를 활용한 강화 학습을 다루고 있습니다. 그리고 일반적으로 우리는 매우 큰 데이터 세트를 가지고 있습니다. 예를 들어, 우리는 하나의 동일한 프롬프트를 사용하여 두 개의 응답을 생성합니다. 가장 기본적인 경우, 우리는 인간 평가자가 직접 여러 답변 중에서 하나를 선택하도록 합니다 . 그리고 그들은 일반적으로 이 실험을 대규모로 반복합니다.
+
+- **[Aashish Rai  - Video Native Representations for 4D Gaussian Scenes](https://www.youtube.com/watch?v=-F69RzaY3bU)** — 2026-04-20 · ko · `unclassified`
+  아, 알겠습니다. 제 이름은 아시쉬입니다. 저는 브라운 대학교 박사 과정 학생입니다. 오늘은 4D 장면을 위한 비디오 네이티브 표현 방식에 대해 이야기해 보겠습니다 . 자, 그럼 본격적으로 시작하기 전에 4D 재구성이 무엇인지 알아볼까요? 4D 재구성이란 무엇인가요? 간단히 말해서, 우리는 역동적인 장면을 여러 각도에서 촬영하여 시간에 따른 프레임을 얻는데, 이는 공간과 시간의 샘플과 같습니다. 음, 그러면 우리는 XYZ축과 D축을 더한 4차원 볼륨을 만들어서 언제든지 어떤 시점에서든 재생할 수 있도록 합니다 .
+
+- **[Ekdeep Singh Lubana - From Probes to Rewards  Using Interpretability to Shape Training](https://www.youtube.com/watch?v=F9eEYWX64ZA)** — 2026-04-20 · ko · `AX`
+  어 아딥은 샌프란시스코에 위치한 AI 해석 가능성 회사인 굿 파이어(Good Fire)의 기술 스태프입니다 . 어, 이전에는, 어, 그는 하버드 대학교 뇌과학 센터에 있었고, 지금도 그곳에 있습니다. 그는 그곳에서 물리학 지능 프로그램의 연구원으로 재직 중입니다. 그의 주요 연구는 해석 가능성, 특히 AI 안전성과 관련된 현상학적 성장 이론, 다양한 모델의 동작, 이러한 동작을 예측하는 모델 생성 등에 초점을 맞추고 있으며, 이는 자연스럽게 정렬 위험과도 관련이 있습니다.
+
+- **[Juan Sebastian Rojas - A Differential Perspective on Risk Aware Reinforcement Learning](https://www.youtube.com/watch?v=kGu2lueXH9A)** — 2026-04-13 · ko · `AT`
+  제 이름은 후안 로아스입니다. 저는 토론토 대학교 박사 과정 학생이며, 오늘 이 자리에 참석하여 제가 박사 학위 연구의 일환으로 진행해 온 연구 내용을 여러분과 공유하게 되어 매우 기쁩니다 . 오늘 발표의 제목은 ' 위험 인식 강화 학습에 대한 차별적 관점'입니다 . 그래서 이 발표를 한 문장으로 요약하자면, 차별적 강화 학습은 위험을 인지한 의사 결정을 더 쉽게 만들어준다는 것입니다. 그래서 오늘 강연에서는 왜 이것이 사실인지 여러분 모두를 설득하려고 합니다.
+
+- **[Zifeng Liu - Human–AI Collaboration in Educational Assessment  Evaluating AI Generated Distractors](https://www.youtube.com/watch?v=X84gmuT9RI8)** — 2026-04-13 · ko · `AX`
+  [음악] 안녕하세요, 여러분! 와주셔서 감사합니다. 라핀이 소개했듯이 제 이름은 종이고, 현재 플로리다 대학교에서 교육공학 박사 과정을 밟고 있습니다. 이렇게 여러분과 만나게 되어 정말 기쁩니다 . 오늘 강연에서는 핵심 질문 하나에 집중하겠습니다. 인공지능이 생성한 객관식 문제의 오답 보기나 피드백과 같은 평가 콘텐츠를 과연 신뢰할 수 있을까요 ? 이번 발표에서는 서로 연관된 두 가지 연구를 함께 다룹니다. 하나는 ICCE uh 2025에서 발표되었고, 다른 하나는 tribal AI에서 발표되었습니다.
+
+- **[Niloofar Mireshghallah - Contextual Integrity in LLMs Benchmarking](https://www.youtube.com/watch?v=ZXeRjVnVndQ)** — 2026-04-06 · ko · `AX`
+  [음악] 자 , 여러분 슬라이드 보이시죠 ? 네 , 가능합니다. 좋아요, 좋습니다. 자, 저는 개인정보 보호, 맥락적 개인정보 보호, 에이전트 시대의 개인정보 보호에 대해 이야기하려고 합니다. 그리고 제가 이번 강연 제목을 '2026년은 새로운 2016년'으로 정한 이유는 개인정보 보호뿐만 아니라 여러 가지 주제들이 다시 주목받고 있다고 생각하기 때문입니다 . 아시다시피, 2017년이나 2018년에 강화 학습이 큰 인기를 끌었는데, 지금 다시 사람들이 강화 학습을 하고 있어요.
+
+- **[Debjyoti Paul - Learning to Act Reinforcement Learning for Agentic LLM Systems](https://www.youtube.com/watch?v=IQ4cnEZHQpU)** — 2026-03-27 · ko · `AX`
+  완벽한. 안녕하세요 여러분, 이번 머신 러닝 수학 세션에 참여해주셔서 정말 감사합니다. 제 이름은 카트리나이고, 코 휴어 랩에서 머신러닝 수학 부문 리더를 맡고 있습니다. 오늘 저희는 연사님을 모시게 되어 매우 기쁩니다 . 그는 아마존에서 9년 이상 데이터 과학자로 근무했으며 자연어 처리, 대규모 언어 모델, 에이전트형 AI 및 책임 있는 AI 분야에서 풍부한 경험을 가지고 있습니다. 오늘 그는 Aentic LLM 시스템을 위한 강화 학습에 대해 발표할 예정입니다. 그럼 이만 넘기겠습니다. 응.
+
+- **[Yasser Benigmin - Domain Adaptation in the Era of Foundation Models](https://www.youtube.com/watch?v=YD-9qyo9O4c)** — 2026-03-27 · ko · `AX`
+  네, 그러니까 기본적으로 말씀드렸듯이 이번 발표는 공중 기초 모델의 도메인 적응에 관한 것입니다. 제 박사 학위 논문 발표이고, 지도교수님들은 논문 지도교수이신 스테판 라티에르, 현재 아트리아에서 근무하시는 비키 칼레톤 교수님, 그리고 인디야의 선임 연구원이십니다. 그럼 시작하겠습니다. 그러니까 컴퓨터 비전에서 가장 중요한 세 가지 작업 또는 가장 인기 있는 세 가지 작업을 꼽으라면, 첫째는 이미지 분류일 것입니다. 이미지 분류의 목적은 주어진 이미지에 이미지 수준의 레이블을 할당하는 것입니다.
+
+- **[Mansi Maheshwari  - Addressing the Plasticity Stability Dilemma in Reinforcement Learning](https://www.youtube.com/watch?v=kGR8YooDigM)** — 2026-03-23 · ko · `unclassified`
+  네, 오늘 함께해 주신 모든 분들께 감사드립니다 . 오늘 저희 모임에는 마니 씨가 특별 연사로 참여해 주셨습니다. 어, 마니는 매사추세츠 대학교 암 연구 캠퍼스 에서 컴퓨터 과학 석사 과정을 밟고 있으며, 자율 학습 연구실의 브루노 교수님의 지도를 받고 있습니다. 그녀의 연구는 평생 강화 학습에 초점을 맞춰, 종교가 끊임없이 변화하는 환경 속에서 어떻게 적응해 나갈 수 있는지를 연구합니다 . 어, 그 남자는 KOLAS 2025에서 포스터로 발표되고 AMAS 2026 구두 발표로 채택된 자신의 연구를 발표할 예정입니다
+
+- **[MingYang Deng  - Generative Modeling via Drifting](https://www.youtube.com/watch?v=2-fzINkakHA)** — 2026-03-23 · ko · `unclassified`
+  좋네요. 네, 물론이죠. 괜찮아요. 응. 응. 저는 제 배경에 대해 간략하게 이야기했을 뿐입니다. 요즘 사람들은 함수를 배울 때 보통 함수 실행, 손실 계산, 최적화를 위한 그레인 하강법 등을 포함한 전체적인 과정을 배우는 경향이 있습니다 . 그래서 이 방법은 예를 들어 인식 작업과 같은 분야에서 매우 인기가 높습니다 . 왼쪽을 보시면 아시겠지만, 이것이 사람들이 분류 작업을 할 때 일반적으로 사용하는 방식입니다 . 하지만 역사를 되돌아보면 인정받는 데 있어서조차 항상 그런 것은 아니었습니다
+
+- **[Diego Fajardo - No single test is enough](https://www.youtube.com/watch?v=U0b1V0r0LPc)** — 2026-03-20 · ko · `AX`
+  우리는 똑똑해 보이는 방법을 아는 언어 모델로 가득 차 있지만, 그것이 현실 세계에 대비하는 것과 같은 의미는 아닙니다. 음, 모든 모델은 벤치마크 테스트에서는 뛰어난 성능을 보이는 척할 수 있지만, 특히 인간의 생명이 걸린 상황에서는 그러한 착각이 매우 큰 비용 과 잠재적 위험을 초래할 수 있습니다. 안녕하세요. 안녕하세요, 저는 디에고이고 유모스에서 의료 AI 관련 업무를 총괄하고 있습니다.
+
+- **[Cultural awareness in AI - From Knowledge Tests to Social Norms and Beyond](https://www.youtube.com/watch?v=xsm5pPjMFIE)** — 2026-03-16 · ko · `AX`
+  [음악] 좋아요. 네, 그럼 시작하죠. 그럼 간단한 자기소개를 해볼까요? 제 이름은 줄리아입니다. 저는 Kh Labs의 선임 연구원입니다 . 음, 혹시 잘 모르시는 분들을 위해 Labs가 하는 일에 대해 잠시 후에 설명해 드리겠습니다 . 대부분 그러시겠지만 , 아마도 이런 경로로 이 전화를 받으셨을 테니까요. 하지만 혹시 모르시는 분들을 위해 말씀드립니다 . 음, 저는 오랫동안 다국어 지원 관련 업무를 해왔습니다. 처음에는 기계 번역을 하다가 지금은 주로 다국어 지원과 학습 관리 시스템(LMS)에 집중하고 있습니다
+
+- **[Dr  Plamen Miltenoff - AI and XR in Education  From Curiosity to Competence](https://www.youtube.com/watch?v=Pb2t7U6vf7Y)** — 2026-03-13 · ko · `AX`
+  [음악] 안녕하세요 여러분, 저는 코허 랩스 에듀테크 커뮤니티의 라파 무스타파입니다. 이번 세션에 오신 것을 환영합니다. 오늘 초청 강연자 자리에는 국제적인 학술 경력을 풍부히 쌓아온 연구자이자 교육자인 플만 박사님을 모셨습니다. 그는 호주 국립 도서관과 노스웨스턴 대학교에서 연구원 및 사서로 근무했으며, 세인트 클라우드 주립 대학교에서 정보 전문가 및 교수로 재직했습니다. 그는 현재 경제대학교 과학연구소에서 연구 및 교육을 수행하고 있다 . 탐만 박사님, 환영합니다. 여러분, 안녕하세요. 시작해도 될까요? 네, 시작할 준비는 모두 끝났습니다.
+
+- **[Nishanth Anand - The permanent and transient framework for continual reinforcement learning](https://www.youtube.com/watch?v=N0O86SlGUgM)** — 2026-03-06 · ko · `unclassified`
+  [음악] 맞아요. 안녕하세요 여러분. 오늘 함께해 주셔서 감사합니다. 오늘 저희와 함께하시는 분들은 맥길 대학교 컴퓨터 과학 박사 과정생인 니샨트 아난드 와 도이나 프레컵 교수님의 지도를 받고 있는 밀라입니다. 그의 연구는 지속적인 강화 학습에 초점을 맞추고 있으며, 인지 과학과 신경 과학에서 영감을 받은 새로운 알고리즘을 개발하여 AI 에이전트가 비정적인 환경에 적응할 수 있도록 돕습니다. 이론적 엄밀성 과 실용적 유용성을 모두 갖춘 니샨트는 NeurIPS와 ICML에서 제1저자 논문을 발표했습니다 .
+
+- **[Angela Lopez Cardona  - How cognitive data can improve LLM alignment](https://www.youtube.com/watch?v=HK2yB3fwYMY)** — 2026-03-03 · en · `DX`
+  So I start um yeah so I'm Angela and as she was mentioning I'm doing a PhD in here in Barcelona in Telefonica and the main topic that I'm studying is how to improve FL language models with cognitive processing signals. So today I'm going to explain briefly kind of different projects all related to this task that uh I have developed during my thesis with the collaboration of my colleagues Carlos Mleia Sian and Yianis and others and some of them appear here in this in this photo that we took last year in a conference.
+
+- **[Tiny Aya Technical Talk](https://www.youtube.com/watch?v=Rf5moM9bO6o)** — 2026-03-03 · ko · `AX`
+  네, 모두 환영합니다. 안녕하세요, 저는 알레한드로이고 코허 랩에서 연구 엔지니어로 일하고 있습니다. 오늘 저는 타이니 아야의 핵심 멤버인 다이애나, 줄리아, 다니엘과 함께 타이니 아야를 통해 진행해 온 모든 연구 내용을 발표하고 공유하려고 합니다 . 네, 그럼 이 모델의 다양한 세부 사항과 단계를 하나씩 살펴보겠습니다. 간단히 소개하자면, 다이나야(Dynaya)는 저희가 최근에 출시한 소형 오픈웨이트 다국어 모델 제품군입니다. 네, 이건 심층 분석입니다. 그래서 저희는 사전 학습, 사후 학습, 평가, 기기 배포 등 전체 파이프라인의 모든 세부 사항을 다룰 것입니다
+
+- **[David Vilar - Beyond the 55  Scaling Multilingualism with TranslateGemma](https://www.youtube.com/watch?v=MjDiLu2Z-78)** — 2026-02-27 · ko · `unclassified`
+  [음악] 저는 현재 구글 디맨드에서 연구원으로 일하고 있지만 , 아주 최근까지는 구글 번역 연구팀에서 연구원으로 근무했습니다. 네, 그래서 지금 모든 게 통합되고 있는 중이에요. 네, 그래서 이 일을 할 때 저는 구글 번역팀의 일원으로 일했습니다 . 네, 저는 Google에서 출시한 Gemma 오픈 웨이트 모델을 기반으로 번역 작업에 특화된 트랜슬레이트 젬마(Translate Gemma)에 대해 이야기하려고 합니다. 네 , 그럼 시작해 볼까요? 확실한 것. 우선 가장 먼저 말씀드리고 싶은 건, 이건 저 혼자만의 작품이 아니라는 겁니다.
+
+- **[Tim Ossowski - OctoMed: Data Recipes for State of the Art Multimodal Medical Reasoning](https://www.youtube.com/watch?v=NecI1JbEp-4)** — 2026-02-27 · en · `AX`
+  [music] So hello everyone uh welcome back to another guests uh session uh under the ML healthcare community group um of the open science community of coher labs. We have with us today Tim Oski Oski &gt;&gt; Oski sorry we have with us today Tom Oski. He's a PhD student uh and a candidate at the University of Wisconsin Wson Madison, right? &gt;&gt; Yeah, Wisconsin. Yeah, &gt;&gt; Wisconsin medicine.
+
+- **[Expedition Tiny Aya Kick Off Event](https://www.youtube.com/watch?v=w4tSIrlOgEE)** — 2026-02-24 · ko · `AX`
+  [음악] 시작해 볼까요? 오늘은 야심찬 의제를 가지고 다뤄볼 내용과 공유할 내용이 많습니다. 슬라이드가 잘 올라가 있을 거라고 믿고 있어요. 혹시 안 보이면 알려주시겠죠? 벌써 이렇게 많은 분들이 채팅창에 참여해주셔서 정말 기쁩니다. 계속 사용하셔도 괜찮습니다. 저희는 오늘 일정을 빠르게 진행하고, 마지막에 질문 시간을 가질 예정이니 궁금한 점이 있으시면 언제든지 말씀해 주세요. 브리타니아가 채팅창을 통해 여러분의 질문에 답변하고, 필요한 정보를 제공해 드릴 것입니다. 또한, 저희가 슬라이드나 세부 사항에서 놓친 부분이 있다면 브리타니아가 알려줄 것입니다
+
+- **[Konstantin Dobler - Token Distillation & the Future of Embedding Initialization for Tokenizer Transf](https://www.youtube.com/watch?v=ql0OPyAhsk4)** — 2026-02-18 · ko · `unclassified`
+  완벽한. 응. 네, 알겠습니다. 이 강연에 초대해 주셔서 감사합니다. 음, 이번 발표는 저와 공동 연구자인 데스몬드 엘리엇, 제라르도와 함께 최근 IC Clear에 게재가 확정된 논문에 관한 것입니다. 저는 콘스탄틴 두브라입니다. 이 논문은 새로운 토큰에 대한 토큰 증류 어텐션 입력 임베딩에 관한 것입니다. 그리고 저는 이 발표를 해당 분야, 특히 하위 분야에 대한 보다 일반적인 미니 설문 조사에 포함시켜, 사전 학습된 언어 모델의 토크나이저에 새로운 토큰을 추가하는 미래의 모습이 어떠해야 하는지에 대해서도 이야기해 보겠습니다
+
+- **[Nathan Calvin - Three People vs  Big AI  Policy, Power, and California’s Frontier AI Law](https://www.youtube.com/watch?v=RV00BTMY5XA)** — 2026-02-18 · ko · `unclassified`
+  좋아요, 알겠습니다. 네, 오늘 함께해 주신 모든 분들께 감사드립니다 . 오늘 아주 흥미로운 손님이 오셨습니다. 그의 이름은 네이선 캘빈입니다. 그는 Enco Justice의 총괄 이사이며, Enco Justice는 청년 주도의 활동가이자 공익 교육을 지향하는 비영리 단체로, 인공지능 관련 법률 제정을 옹호합니다. 그리고 그는 캘리포니아의 인공지능 투명성 법안인 SB53을 작성하는 데 도움을 주었습니다. 이 법은 올해 초에 발효되었습니다 . 그리고 법안 협상이 진행되는 동안, 세계 최대 기업 중 하나인 오픈AI가 그에게 상당한 압력을 가하며 이 법안에 반대하는 입장을 표명했습니다
+
+- **[Siddhartha Chitrakar - Matrix Calculus and Usage in Machine Learning ml math](https://www.youtube.com/watch?v=esnGGowenkM)** — 2026-02-18 · ko · `AX`
+  안녕하세요 여러분, 머신러닝 수학 세션에 오신 것을 환영합니다 . 제 이름은 카트리나이고, 코허 랩에서 머신러닝 수학 부문 리더를 맡고 있습니다. 오늘은 아주 특별한 시간이 될 것입니다. 오늘 저희 연사로 시다르트타 님을 모셨습니다 . 그는 앨버타 대학교에서 과학 석사 과정을 밟고 있는 학생이며, 행렬 미적분과 머신 러닝에서의 활용에 대해 발표할 예정입니다 . 그럼 이만 마치겠습니다 . 안녕하세요. 초대해 주시고 강연 기회까지 주셔서 정말 감사합니다 . 오늘은 행렬 미적분에 대해 이야기해 보겠습니다.
+
+- **[Yanjun Shao - MedAgentsBench: Benchmarking Reasoning Models and Agent Frameworks for Complex Medical](https://www.youtube.com/watch?v=d33qvh7a5VA)** — 2026-02-18 · ko · `AX`
+  초대해 주셔서 감사합니다. 안녕하세요, 저는 다니엘입니다. 옌징이라고 불러주셔도 좋습니다. 오늘 발표할 작품은 E대학교 젠 연구실에서 재팬 톤 로버트, 마크 게링 교수님과 함께 작업한 것입니다. 오늘은 의료 AI 분야의 전략적 질문, 즉 에이전트 기반 워크플로우를 사용해야 할지 아니면 단일 추론 모델만 사용해야 할지에 대해 이야기해 보겠습니다. 복잡한 임상 추론 문제를 다루는 엄격한 벤치마킹 연구를 통해 이 질문에 대한 답을 찾아보겠습니다. 특히 기존 벤치마크의 한계를 넘어 임상 추론 모델을 평가하는 방법 등 세 가지 사항에 대해 자세히 살펴보겠습니다
+
+- **[Zirui Colin Wang - VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://www.youtube.com/watch?v=Gkobaejwo70)** — 2026-02-18 · ko · `AX`
+  안녕하세요 여러분, 오늘 초청 연사님을 모시고 진행하는 자리에 오신 것을 환영합니다 . 오늘은 콜린 씨를 모셨습니다. 그는 UC 버클리에서 컴퓨터 과학 박사 과정 1년차 학생이며, 조셉 곤잘레스 교수, 트레버 달 교수, 그리고 스토이카 교수의 지도를 받고 있습니다. 그의 연구는 시각 에이전트, 로봇 공학, 형태 및 시간적 생성과 이해를 포함하는 다중 모드 대화형 지능에 중점을 두고 있습니다. 그는 컴퓨터 과학 분야의 사이버 과학 전문가이며, 그의 이전 연구는 Open GPD 시리즈, Google Gemini 및 Gwenv를 포함한 여러 최첨단 비전 언어 모델에 채택되었습니다
+
+- **[Gauri Kholkar - Context Aware Prompt Injection Testing and Robustness Enhancement](https://www.youtube.com/watch?v=-Ug6-aLqhWY)** — 2026-02-06 · ko · `AX`
+  [음악] 그러니까 적대적 목표라고 하면 다음과 같은 것들을 의미할 수 있습니다. 이는 위험한 행동을 부추길 수 있습니다. 예를 들어 데이터베이스를 삭제하거나 모든 데이터를 삭제하는 것과 같은 경우입니다. 이는 가짜 웹사이트나 스팸성 웹사이트, 사기성 웹사이트를 홍보하는 것과 같을 수도 있습니다. 그리고 어... 사용자를 오도하여 개인 정보를 공유하는 것과 같은 행위도 포함될 수 있습니다. 예를 들어, 은행 계좌 정보와 같은 개인 정보를 공유하도록 할 수도 있고, 시스템에서 사용되는 프롬프트 등을 공개하도록 요구할 수도 있습니다
+
+- **[Ahsaas Bajaj  - Production Grade ML in Practice  Evaluation and Design Frameworks for Recommendation](https://www.youtube.com/watch?v=UkOvqHSskMw)** — 2026-01-30 · ko · `AX`
+  [음악] 아리안, 고마워요. 훌륭한 소개 감사합니다. 안녕하세요 여러분. 여러분 모두 아시다시피 저는 사스입니다. 저는 Instacart의 선임 머신러닝 엔지니어입니다. 아, 그리고 그 전에는 월마트 와 삼성 연구소에서도 근무했었어요. 지난 몇 년 동안 저는 수억 건의 요청을 처리하는 추천 시스템을 구축할 기회를 가졌습니다 . 그리고 그 과정에서, 저는 완전히 이해하는 데 시간이 좀 걸렸지만 중요한 사실을 하나 배웠습니다. 그것이 바로 연구 논문에서 작동하는 머신러닝과 실제 운영 환경에서 작동하는 머신러닝 사이의 격차입니다.
+
+- **[Joshua Stewart  - How can education technology do more than teach math](https://www.youtube.com/watch?v=Ok0hDa1RzS0)** — 2026-01-30 · ko · `AX`
+  [음악] 자, 이제 시작하려고 합니다. 안녕하세요, 저는 코허 랩(Koher Labs)의 에듀테크 채널 커뮤니티 리더인 라피 무스타파입니다. 오늘은 첫 번째 강연 세션으로, 특별 게스트인 조 스튜어트 박사님을 모셨습니다. 스튜어트 박사님은 교육 현장 실무자들과 학교 시스템이 학생과 교사를 지원하는 혁신적인 교육 방법을 개발하고 구현할 수 있도록 돕는 교육 연구자입니다 . 그는 로키 마운틴 리서치 앤 스트래티지(Rocky Mountain Research and Strategy)를 운영하며, 수학 및 문해력 학습 분야의 교육 기술 혁신 , 학생 복지, 그리고 학교 시스템이 자체적인 혁신을 구축하고 유지하는 방법에 초점을 맞춘 프로젝트를 이끌어 왔습니다
+
+- **[Yingsi Qin - Spatially Varying Autofocus](https://www.youtube.com/watch?v=nugtUgq014w)** — 2026-01-30 · ko · `unclassified`
+  [음악] 안녕하세요 여러분. 음, 먼저 초대해 주신 마야크 씨께 다시 한번 감사의 말씀을 드리고 싶습니다. 안녕하세요, 제 이름은 잉기입니다. 저는 현재 카네기 멜론 대학교(CMU)에서 박사 과정 5년차에 재학 중이며, 오늘은 공간적으로 변화하는 자동 초점에 대해 이야기하겠습니다. 저희 연구 결과는 작년 10월 ICCV 2025에서 발표되었습니다 . 시작하기 전에, 저의 공동 작업자이자 조언자인 아신 과 맷에게 아낌없는 지원 과 멘토링에 대해 감사의 말씀을 전하고 싶습니다. 저희는 카네기멜론대학교(CMU) 계산영상 및 영상과학 연구실 소속입니다.
+
+- **[Aditri Bhagirath  - Persona Guided Personalization](https://www.youtube.com/watch?v=0X01DFnA2dc)** — 2026-01-23 · en · `AX`
+  Hello everyone and welcome. I'm Prahita from the ML industry program at the Coher Labs open science community. We're glad to have you with us for today's session. So our talk today focuses on persona guided personalization, a key challenge in building AI systems that adapt to individual users without relying on explicit identity labels. We're pleased to be joined by Aditri Bagirat, a machine learning engineer at OnTon.
+
+- **[Lukas Schäfer  - Decision Making in Modern Video Games  From Human Play to World Models](https://www.youtube.com/watch?v=Kh4fh8fV13s)** — 2026-01-23 · ko · `AX`
+  오늘 함께해 주셔서 감사합니다. 오늘 저희는 올해 첫 번째 초청 연사 강연회를 시작하려고 합니다. 네, 루카스 셰퍼가 있습니다. 어, 루카스는 영국 케임브리지에 있는 마이크로소프트 연구소에서 박사후 연구원으로 재직 중이며, 카야 오프먼 팀의 일원으로 비디오 게임용 머신 러닝을 연구하고 있습니다 . 그의 연구는 모방 학습 접근 방식을 강조하여 비디오 게임에서 새로운 경험과 도구를 가능하게 하는 자율 에이전트 개발에 중점을 두고 있습니다 . 루카스는 에든버러 대학교에서 정보학 박사 및 석사 학위를, 사를 랜드 대학교에서 상경학 학사 학위를 받았습니다
+
+- **[Sara Papi -Towards Crosslingual Evaluation of General Purpose Instruction Following Models Across](https://www.youtube.com/watch?v=uQrX3iM4W2E)** — 2026-01-23 · ko · `AX`
+  좋아요. 안녕하세요 여러분. 오늘 초청 강연에 참석해 주셔서 감사합니다. 오늘은 사라 씨를 모셨습니다. 그녀는 이탈리아의 폰다 브루노 케슬러 연구소에서 항공 연구원으로 재직하며, 미드 윈(Midwin)과 DVPS 호라이즌 유럽 프로젝트 내에서 음성 처리 및 멀티모달 LLM을 연구하고 있습니다. 그녀는 2024년 트렌토 대학교에서 정보 공학 및 컴퓨터 과학 분야 박사 학위를 받았으며, 동시 음성 번역 및 자막 제작에 중점을 두었습니다. 그녀의 연구 관심 분야는 다중 모드 및 다국어 교육 모델, 음성 기초 모델 및 언어 학습 모델( LLM)을 아우릅니다.
+
+- **[Luis Solis Navarro - Efficient 2D LiDAR Scene Understanding for Autonomous Driving via Multi Modal](https://www.youtube.com/watch?v=J8siG8Hzcec)** — 2026-01-16 · en · `AX`
+  [music] Okay. So, hello everyone and thank you so much for joining us. Uh, my name is Katrina. I'm the machine learning math lead here at Coher Labs. And today we're really excited to invite our guest speaker, Louiesie. Um, he's currently a master's student in computer science at Uni Camp Brazil. And today, he's going to be sharing with us one of his main research projects.
+
+- **[Toru Lin - Embodied Intelligence from Autonomous Experience](https://www.youtube.com/watch?v=PzZS568OktM)** — 2026-01-16 · en · `AX`
+  [music] Yeah, talk about the title of the talk today as embody intelligence from autonomous experience. Um, which I'll introduce more later and maybe go to the third slide. So yeah, I work on robot learning. I am both a final year PhD at UC Berkeley and also a visiting researcher at Meta. And when it comes to my research, I develop real robot systems and with work spanning dextrous manipulation, local manipulation and whole body control.
+
+- **[Artem Sevastopolsky and Dmitrii Pozdeev - DenseMarks  Learning Canonical Embeddings for Human Heads](https://www.youtube.com/watch?v=RxY4Ng7Bh2c)** — 2026-01-12 · ko · `unclassified`
+  [음악] 네, 다시 한번 소개해주셔서 정말 감사합니다. 그리고 저희를 초대해주신 코허 랩에도 감사드립니다. 만나서 반갑습니다. 저희 작품 '밀집된 흔적'을 소개하게 되어 영광입니다. 저희 연구는 인간 두뇌의 정규 임베딩을 학습하는 것에 관한 것이며, 오늘 컨퍼런스 콜에서 저희 논문에 대해 발표할 디미트리, 아난다라이의 알렉스, 그리고 저, 이렇게 세 명이 공동으로 진행했습니다. 먼저 저희 연구 활동에 대한 소개부터 시작하겠습니다. 어... 얼굴 추적이나 머리 추적 작업을 해본 사람이라면 누구나 [코웃음] 얼굴 라벨 표시라는 개념에 익숙할 겁니다.
+
+- **[Ilya Larchenko and Gleb Zarin - Using multi task robotics Vision Language Action policy](https://www.youtube.com/watch?v=4zPY3HMuwKQ)** — 2026-01-12 · ko · `AX`
+  오른쪽. 자, 시작해 볼까요? 초대해 주셔서 감사합니다 . 오늘 저는 스탠포드에서 주최하고 지난 12월 유럽의 한 행사였던 Behavioural Challenge에서 1위를 차지한 저희 솔루션을 발표하려고 합니다. 그래서 아주 신선해요. 음, 오늘 어떻게 진행할지 말씀드리겠습니다. 먼저 이번 과제에 대해 간략하게 설명드리고, 어떤 작업을 했는지, 어떤 모델을 훈련시켰는지, 어떤 알고리즘을 사용했는지 설명드리겠습니다. 그리고 나서 모델이 성공했을 때와 실패했을 때의 결과와 그 이유를 알려드리겠습니다. 질문은 채팅창에 남겨주시면 최대한 답변드리도록 노력하겠습니다. 마지막에 몇 가지 질문에 답해드릴 수도 있습니다
+
+- **[Sadegh Jafari  - Teaching Machines to Care  Multimodal Empathy in Conversational AI](https://www.youtube.com/watch?v=8ZksCE8btLI)** — 2026-01-12 · ko · `AX`
+  [음악] 안녕하세요 여러분, 오늘 초청 연사님을 모시고 이야기를 나눠보겠습니다 . 오늘은 셀레 자파리를 소개합니다. 그는 겐트 대학교의 언어 물리학 박사 과정 연구원이며, LT3 연구 그룹 소속입니다. 그의 연구는 공감 능력을 갖춘 다중 모드 대화형 에이전트에 초점을 맞추고 있으며, 특히 언어 모델이 테스트, 음성 및 시각적 모드 전반에 걸쳐 감정 신호를 이해하고 생성하고 조율하는 방법에 관심을 두고 있습니다. 네, 초대에 응해주셔서 감사합니다. 네 , 그럼 당신에게 맡기겠습니다.
+
+- **[Wisdom Ikezogwo   Distilling Multimodal Pretraining Data and Evaluation benchmarks from Unstructured](https://www.youtube.com/watch?v=FiCr2yUafPE)** — 2025-12-19 · ko · `AX`
+  괜찮은. 안녕하세요 여러분. 네, 또 다른 특별 강연 세션으로 돌아왔습니다. 음, 오늘은 지혜에 대해 이야기해 보겠습니다. 위즈덤은 워싱턴 대학교 박사 과정에 재학 중입니다. 네, 란짓 크리슈나 교수님과 린다 샤피로 님의 지도를 받았습니다. 음, 그는 주로 대규모 멀티모달 콘텐츠 생성 및 특히 의료 AI를 위한 비전 언어에 직접적으로 초점을 맞추고 있습니다 . 음, 그는 CVP, ICV 같은 학회에서 최고 논문상을 수상한 경력이 있습니다 . 음, 그분도 상을 몇 개 받으셨죠 .
 
 ## Hugging Face (64건)
 
@@ -2170,196 +2660,196 @@
 - **[오전엔 업무 풀가동 💻 퇴근후엔 캠핑까지?!🏕️ 워킹맘 완벽 밸런스 라이프 | 슼 다녀오겠습니다 EP.2](https://www.youtube.com/watch?v=KMNmPjHlM48)** — 2025-10-31 · ko · `unclassified`
   [음악] 아, 저요 집에서는 조금 더 다장합니다. [웃음] 얘들아, 엄마가 한우 쏜다. [음악] 가자. &gt;&gt; 167을 토어에서 좀 직접적으로 얘기해 주실 수 있으면은 그걸 반영해서 냄들랑 소통할 수 있는 거잖아요. 앤 &gt;&gt; 엄마 회사가 쏟는 거야? 네. 아, 이렇게 &gt;&gt; 저도 노력할 거고 항상 감사하고요. &gt;&gt; 어, &gt;&gt; 스녀오신 분 &gt;&gt; 다녀오신 분. [음악] &gt;&gt; [음악] &gt;&gt; 안녕하세요. 오늘 쓱 다녀올 SK 하이닉스의 주인공 어느 부사의 누구신가요?
 
-## Zapier (63건)
+## LinkedIn (63건)
 
-- **[Add the Zapier Claude Connector](https://www.youtube.com/watch?v=TlrwiOHL3Mk)** — 2026-07-23 · en · `unclassified`
-  In this video, you'll learn how to connect Zapier to Claude using Claude connectors step-by-step. Claude connectors allow your AI to interact with your apps. For example, you can look at your calendar events for the next week. Now with Zapier MCP connected, you can do three times as much across 9,000 different apps. For instance, with Zapier, you can then ask Claude to add someone else to an existing event and move it to a different time.
+- **[The Network That Works for You, Grow Your Business, TOFU: 06_16x9](https://www.youtube.com/watch?v=kNnYVpce_R4)** — 2026-05-13 · ko · `unclassified`
+  LinkedIn은 판매, 마케팅 및 채용을 지원하여 소규모 사업을 성장시키는 데 도움을 줄 수 있습니다 .
 
-- **[The Good, the Bad, and the Ugly: How Zapier Is Building an AI-First GTM Team](https://www.youtube.com/watch?v=tqnLffBM-og)** — 2026-07-22 · en · `AX`
-  Welcome to today's webinar. Before we get started, let's go over a few quick housekeeping items. First, yes, we've had a few people ask, this webinar is being recorded. You can access the recording at any time after we close by using the same link you used to join today. We'll also send you an email with the recording link [music] once the webinar has ended.
+- **[The Network That Works For You | Fernando Mendoza | One Sec, Adding a Skill](https://www.youtube.com/watch?v=EuV4QMnH63s)** — 2026-04-24 · ko · `unclassified`
+  페르난도. 페르난도, 이번 ​​시즌에 가장 기대되는 게 뭐예요? 죄송합니다, 잠시만요. 기대하고 있어요. 링크드인 프로필을 업데이트해야 해요. 새로운 기술을 추가합니다. 이제 시험해 봐야겠어.
 
-- **[Claude /connected: Build your first skill | Build Along Workshop](https://www.youtube.com/watch?v=LfK9zF36pt0)** — 2026-07-15 · en · `AX`
-  Hello everybody. Welcome. Happy Wednesday. I hope you're all having a great day. I'm super excited uh to see folks coming back who were not uh with us the last few days, but you were here last week. If you are returning, you will remember my classic icebreaker. I ask the same thing at the start of every meeting. Internal meetings, external meetings.
+- **[The Network That Works For You | Fernando Mendoza | One Sec, Let's Connect](https://www.youtube.com/watch?v=XZ6vUVLJLUA)** — 2026-04-24 · ko · `unclassified`
+  아만다. 아만다. 이 모든 관심에 어떻게 대처해 오셨나요 ? 아, 죄송합니다. 잠시만 기다려 주세요. 우리 링크드인에서 연결되어 있나요? 방금 요청을 보냈습니다. 자, 시작해 볼까요 . 훌륭한 마무리입니다.
 
-- **[Give Claude your apps with Zapier MCP | Build Along Workshop](https://www.youtube.com/watch?v=98pRoIw_Ufw)** — 2026-07-09 · ko · `AX`
-  안녕하세요 여러분. 즐거운 수요일 되세요. 이렇게 와주셔서 정말 기쁩니다 . 어, 사람들이 들어오고 있네요 . 새로운 분들이 합류하고 있어요. 세상에 , 우리는 수백 명이나 돼요. 손님들이 들어오시면 제가 늘 하는 것처럼 분위기를 풀어주는 질문을 하나 드리고 싶습니다. 바로 " 지난 48시간 동안 드신 음식 중 가장 맛있었던 것은 무엇인가요?"입니다. 그리고 저는 ' 소비되었다'라는 단어를 넓은 의미로 사용합니다. 먹은 음식 때문일 수도 있어요. 마신 음료 때문일 수도 있어요 .
+- **[The Network That Works For You | Fernando Mendoza | One Sec, Need to Post This](https://www.youtube.com/watch?v=Vv0thf7myjA)** — 2026-04-24 · ko · `unclassified`
+  초대해 주셔서 감사합니다. 네, 페르난도 씨. 페르난도. 페르난도, 드래프트 지명 소식을 들었을 때 어떤 생각이 들었나요 ? 정말 기분 좋은 경험이었어요. 아, 죄송해요, 잠깐만요. 링크드인에 게시해야겠어. 제 말은, 프로 선수로서 첫 기자회견이라는 거죠. 간단한 업데이트를 드려야겠습니다. 그리고 게시했습니다. 죄송합니다. 질문이 뭐였죠 ? 네, 질문이 뭐였죠?
 
-- **[Gong's Amit Bendov on Powering Your Company Brain](https://www.youtube.com/watch?v=YEbksTLOfjs)** — 2026-07-09 · ko · `AX`
-  저는 개인적으로 몇 년 동안 CRM에 로그인한 적이 없습니다 . 제가 할 일은 그냥 " 어, 지금 Zapier 상태가 어떤가요?"라고 물어보는 것뿐이고, 그러면 모든 정보를 알려줍니다. [음악] 오늘 저의 게스트는 아미트 빈도프입니다. 그는 Gong의 공동 창립자이자 CEO입니다. 이제 경기가 시작되자 그는 많은 사람들이 엉뚱하다고 생각하는 아이디어에 내기를 걸었습니다. 그는 거래의 진실은 CRM에 있는 것이 아니라 실제 대화에 있다고 말했고, 그는 이를 증명하며 수십억 달러 규모의 회사를 일궈냈습니다.
+- **[The Network That Works For You | Fernando Mendoza | One Sec, Making It Official](https://www.youtube.com/watch?v=qO-CzzrzEgc)** — 2026-04-23 · ko · `unclassified`
+  [음악] 헤이 페르난도. 안녕하세요, 잘 지내시나요? 정말 좋아요. 우선 축하드립니다. 감사합니다. 페르난도 멘도사와 함께합니다. 방금 전화 받으셨어요. 공식적으로 드래프트된 기분이 어떤지 말해줘 . 정말 큰 축복입니다. 아, 죄송합니다. 잠시만 기다려주세요. 링크드인에 게시물을 올려야 해요 . 붐, 게시 완료. 이제 공식 발표입니다. 우와! 가자, 자기야. 어쨌든, 질문에 답하자면 , 그런 느낌이 든다.
 
-- **[Zapier AI Benchmark: How to choose the right AI model for your agents and workflows](https://www.youtube.com/watch?v=Zg3IU1cA0vU)** — 2026-06-25 · ko · `AX`
-  오늘 웨비나에 오신 것을 환영합니다. 시작하기 전에 몇 가지 간단한 안내 사항을 드리겠습니다. 먼저, 네, 몇몇 분들이 문의하셨는데, 이번 웨비나는 녹화될 예정입니다. 오늘 참여하실 때 사용하셨던 링크를 통해 방송 종료 후 언제든지 녹화본에 접속하실 수 있습니다 . 웨비나가 종료되면 녹화본 링크가 포함된 이메일을 보내드리겠습니다 . 둘째, 최상의 경험을 위해 구글 크롬 사용을 권장합니다. [음악] 웹캐스트 시청 중 기술적인 문제가 발생하면 브라우저를 새로고침하세요. 그렇게 하면 [음악] 관련 문제 대부분이 해결됩니다.
+- **[The Network that Works for You GYB Catchphrase :06 16x9](https://www.youtube.com/watch?v=mz7hJHNmwc4)** — 2026-04-03 · en · `unclassified`
+  &lt;b&gt;LinkedIn Premium can help your &lt;/b&gt; &lt;b&gt;small business sell, market, and hire in one place.
 
-- **[Brand Is Back: Guy Yalif on Marketing in the Agent Era](https://www.youtube.com/watch?v=tw8cpXGg41I)** — 2026-06-18 · ko · `AX`
-  셀프 서비스 가입의 8%는 LLM 의 추천을 받은 사람들이었으며 , LLM을 통해 유입되었을 가능성이 있는 급증이나 기타 트래픽은 제외한 수치입니다 . 그건 8%였고, 그 트래픽은 구매 유입 경로의 맨 아래쪽으로 향하는 트래픽이었습니다. 전환율이 6%가 아니라 6배, 즉 브랜드가 없는 SEO 트래픽보다 6배 더 높았습니다. 이는 공정한 비교라고 생각합니다. 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다. 이 프로그램에서는 AI를 실험 단계에서 인프라 단계로 전환하고 있는 운영자 및 개발자들을 만나 이야기를 나눠봅니다 .
+- **[The Network that Works for You GYB Catchphrase :06v2  16x9](https://www.youtube.com/watch?v=4EvPmBKg6Vo)** — 2026-04-03 · en · `unclassified`
+  &lt;b&gt;LinkedIn Premium subscribers are 60% &lt;/b&gt; &lt;b&gt;more likely to get replies from suggested prospects.
 
-- **[Lovable's Ryan Meadows on the New GTM Playbook](https://www.youtube.com/watch?v=FeZ93evIfbM)** — 2026-06-11 · ko · `AX`
-  실제로 직원들이 피드백을 제출하면 그 결과물이 바로 기능 구현으로 이어지는 경우가 있습니다. 때로는 몇 분 만에. 라이언 메도우스가 Agents of Scale에 합류합니다 . 라이언은 Lovable의 최고 매출 책임자(CRO) 겸 매출 총괄 책임자입니다. 혹시 들어보지 못하셨다면, 누구나 원하는 것을 설명하는 것만으로 소프트웨어를 만들 수 있게 해주는 AI 앱 빌더입니다 . 러버블에 합류하기 전, 라이언은 클라비오를 5천만 달러 규모에서 10억 달러 이상의 매출을 올리는 회사로 성장시키고 IPO를 성공적으로 이끌었으며, 2025년 말에는 유럽의 10대 기업으로 성장하고 있던 러버블에 합류하기로 결정했습니다
+- **[The Network that Works for You GYB Catchphrase :06v2 BOFU 16x9](https://www.youtube.com/watch?v=3NeRDcF2yRU)** — 2026-04-03 · ko · `unclassified`
+  LinkedIn 프리미엄 구독자는 추천 잠재 고객 으로부터 답장을 받을 확률이 60% 더 높습니다 .
 
-- **[Eric Ries on Vibe Coding and Building Incorruptible Companies](https://www.youtube.com/watch?v=Qs33r-Nreb8)** — 2026-06-01 · ko · `AX`
-  소셜 미디어에 들어가 보면 CEO들을 비롯한 유명 인사들이 자신이 얼마나 생산적인지 끊임없이 자랑하는 모습을 볼 수 있을 거예요 . 그들은 20명의 코딩 에이전트를 고용해서 4천만 줄 정도의 코드를 작성했다고 하더군요. [음악] 잘 살펴보시면, 그들이 들려주는 이야기들 중에는 고객이 어떤 행동을 하는 장면은 하나도 없다는 것을 알 수 있을 겁니다. [음악] 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다 . 이 프로그램은 인공지능을 실험 단계에서 인프라로 전환하는 운영자 및 개발자들을 만나 이야기를 나누는 시간입니다
+- **[The Network that Works for You GYB Catchphrase 06v2 BOFU 16x9](https://www.youtube.com/watch?v=P3NODDPp86s)** — 2026-04-03 · ko · `unclassified`
+  LinkedIn 프리미엄 구독자는 추천 잠재 고객 으로부터 답장을 받을 확률이 60% 더 높습니다 .
 
-- **[Meet Al, the guy helping anyone find their groove with AI Automation](https://www.youtube.com/watch?v=82lFZ03EI5Y)** — 2026-05-27 · ko · `unclassified`
-  우와. Zappier를 사용하면 될까요? 정말 감사합니다. 죄송합니다, 성함을 못 들었습니다 . [음악] 당신이 제 경호원이 되어 주신다면, 저는 [음악] 당신의 오랜 친구가 될 수 있어요. [음악] 아빠, 제가 해결해 드릴 수 있어요. 아빠, 저를 부르실 때는 알이라고 불러주세요. 저를 알이라고 불러주세요. 알이에요. 만나서 반가워요, 알.
+- **[The Network that Works for You GYB Catchphrase 15 BOFU 16x9](https://www.youtube.com/watch?v=YagzZeJtqkg)** — 2026-04-03 · ko · `unclassified`
+  LinkedIn Premium 올인원 서비스를 이용하면 중소기업이 한 곳에서 제품 판매, 마케팅, 채용을 모두 진행할 수 있습니다. 그것은 돈이 새로운 고객을 확보하는 것을 막을 수는 없습니다.
 
-- **[Build a Candidate Email Responder AI Agent for Talent Acquisition | Build Along Workshop](https://www.youtube.com/watch?v=OMl-4-WdDmk)** — 2026-05-22 · ko · `AX`
-  생방송 중입니다. 여러분, 안녕하세요. 케이시, 잘 지내? 어떻게 지내세요? 안녕하세요, 잘 지내시죠? 여러분 안녕하세요? 아주 잘 지내고 있어요. 또 다른 워크숍을 준비하세요. 모두들 들어오고 있어요. 들어오는 게 보여요 . 채팅창에 올려주세요. 어디에서 전화하시는지 알려주시면 감사하겠습니다. 그리고 배경에 에밀리가 있을지도 몰라요. 그녀가 여기 있어요. 그녀가 가장 좋아하는 일 중 하나는 지난 24시간 동안 당신이 먹어본 것 중 가장 맛있었던 것이 무엇인지 아는 것입니다. 무엇이든 될 수 있죠. 케이시, 너도 하나 있어?
+- **[The Network that Works for You GYB Catchphrase BOFU :06 16x9](https://www.youtube.com/watch?v=yGW82nAcsPs)** — 2026-04-03 · en · `unclassified`
+  &lt;b&gt;LinkedIn Premium can help your &lt;/b&gt; &lt;b&gt;small business sell, market, and hire in one place.
 
-- **[Build a Resume Ride-Along AI Agent for Talent Acquisition | Build Along Workshop](https://www.youtube.com/watch?v=hVtHY6ldP1o)** — 2026-05-22 · ko · `AX`
-  여러분, 안녕하세요. 두 번째 세션에 오신 것을 환영합니다. 안녕 케이시. 안녕하세요, 브라이스. 잘 지내시나요? 아주 잘 지내고 있어요. 제가 제일 좋아하는 새로운 탄산음료를 찾았어요. 음, 홀짝홀짝 마시고 있어요. 아 드 라 칼레 토포 치코(De La Calle Topo Chico) 모던 멕시칸 소다. 겪어본 적 있어요 ? 아니요, 굉장히 근사하게 들리네요. 그들이 이 워크숍을 후원하는 건 아니지만, 정말 맛있는 음료예요. 정말 마음에 들어요 . 데보라가 타이핑하고 있는 게 보이네요.
+- **[The Network that Works for You GYB MOFU Catchphrase :15 16x9](https://www.youtube.com/watch?v=HbEuo-r0_kk)** — 2026-04-03 · en · `unclassified`
+  &lt;b&gt;LinkedIn Premium All-in-One can help your &lt;/b&gt; &lt;b&gt;small business sell, market, and hire in one place.&lt;/b&gt; &lt;b&gt;It cannot stop Don from...&lt;/b&gt; &lt;b&gt;[Airhorn, trumpet, gong]&lt;/b&gt; &lt;b&gt;...every time he lands a new client.
 
-- **[Guru's Rick Nucci on Building AI Your Team Can Trust](https://www.youtube.com/watch?v=YaSvETxH2jY)** — 2026-05-21 · ko · `AX`
-  당연한 말이지만, 많은 사람들이 간과하는 점은 이러한 모델들이 놀라울 정도로 뛰어나지만, 본질적으로 귀사에 대해 아무것도 모른다는 것입니다 . 안녕하세요 여러분. Agents of Scale에 다시 오신 것을 환영합니다 . 이 프로그램은 인공지능을 단순한 유행어에서 핵심 기술로 바꾸고 있는 경영진들과 제가 직접 만나 이야기를 나누는 프로그램입니다 . 저는 웨이드 포스터입니다. 오늘의 게스트는 릭 누치입니다. 그는 지식 업무를 위한 AI 플랫폼인 Guru의 공동 창립자이자 CEO입니다. Guru는 팀이 어디에서 일하든 회사 지식에서 신뢰할 수 있는 답변을 얻을 수 있도록 지원합니다 .
+- **[The Network that Works for You GYB_ MOFU Catchphrase :15 16x9](https://www.youtube.com/watch?v=flUGOWyCwBI)** — 2026-04-03 · ko · `unclassified`
+  LinkedIn Premium All-in-One은 중소기업이 한 곳에서 판매, 마케팅 및 채용을 진행할 수 있도록 지원합니다. 그것은 돈이 새로운 고객을 확보하는 것을 막을 수는 없습니다.
 
-- **[Steal Zapier's AI Playbook for Accounting: How 8 People Run a $5B Operation](https://www.youtube.com/watch?v=CxrrXKFn6cg)** — 2026-05-20 · ko · `AX`
-  안녕하세요 여러분, 오늘 웨비나에 오신 것을 환영합니다. 어서 오세요, 어서 오세요. 몇 분 후에 시작할게요. 모두가 준비될 때까지 기다리는 동안 , 채팅창에 간단한 인사와 어디에서 오셨는지 남겨주세요. 그럼 몇 분 후에 시작하도록 하겠습니다. 좋습니다, 그럼 어디에서 접속하시는지 한번 볼까요? 네덜란드, 덴버, 두바이, 브리티시컬럼비아, 리버풀, 뉴저지가 있습니다. 와, 정말 다양한 국적의 사람들이 왔네요. 이거 정말 멋지네요. 잠시 후 시작하겠습니다. 토론토, 노스캐롤라이나주. 여러분, 환영합니다. 파키스탄, 프라하. 정말 마음에 들어요. 글로벌. 놀라운. 좋아요.
+- **[2026 Labor Market Report: Building a Future of Work That Works](https://www.youtube.com/watch?v=qulCIGxnTUs)** — 2026-01-15 · ko · `AX`
+  새해가 시작되면서 노동 시장이 온통 헤드라인을 장식하고 있습니다. 인공지능을 세계가 받아들이기 시작하면서 일자리와 경력에 어떤 변화가 일어나고 있는지에 대한 수많은 이야기와 일화들이 있습니다. 그리고 링크드인에서는 우리 플랫폼에서 현재 발생하고 있는 데이터를 기반으로 명확성을 제공할 기회를 보았습니다. 링크드인에는 전 세계적으로 13 억 명의 회원과 7천만 개의 기업이 있습니다 . 그리고 우리는 명확성이 모든 사람이 결정을 내리는 데 도움이 될 것이라고 생각합니다. 진로에 대한 결정을 내리든, 리더로서 향후 1년간 사업을 어떻게 운영할지 고민하든 마찬가지입니다
 
-- **[Best 5 AI Tools for 2026](https://www.youtube.com/watch?v=_dNUh_jSdpM)** — 2026-05-15 · ko · `AX`
-  시장에 새로운 AI 도구들이 대거 출시되고 있습니다 . 너무 많아서 어떤 작업에 어떤 도구가 가장 적합한지 가려내기가 어려울 수 있습니다. 이 영상에서는 여러분이 알아두면 좋을 최고의 AI 도구 5가지와 이러한 도구들이 여러분의 업무 흐름을 어떻게 개선하는 데 도움이 될 수 있는지 알려드리겠습니다. 워크플로 자동화에 도움이 필요하시다면 Zapier가 도와드리겠습니다. Zapier는 앱들을 연결하고 반복적인 작업을 처리해주는 자동화 도구입니다. 이메일을 자동으로 보내 거나 스프레드시트를 업데이트하는 것과 같은 간단한 작업을 수행할 수 있습니다.
+- **[Open to Work: How to Get Ahead in the Age of AI | Ryan Roslansky & Aneesh Raman](https://www.youtube.com/watch?v=XfVQUmfLEp0)** — 2026-01-13 · ko · `unclassified`
+  서점만큼 직업 환경의 변화에 ​​직면한 사업은 드뭅니다. 그러게요 . 오늘 우리가 들어온 린리 북스 같은 서점은 크리스 사키리가 소유하고 있습니다. 크리스는 링크드인 창립에 참여한 후, 배움에 대한 열정을 어린이 서점 사업에 쏟아부었습니다. 그리고 제가 아니 쉬 라멘과 공동 집필한 신간 'Open to Work'를 발표하기에 이보다 더 좋은 장소는 없을 것 같습니다. 처음 링크드인을 만들었을 때가 생각나네요. 우리는 사람들이 자신의 경력을 스스로 관리할 수 있도록 돕기 위해 이 플랫폼을 만들었습니다 .
 
-- **[Build an AI Content Engine in Claude with Zapier MCP | Build Along Workshop](https://www.youtube.com/watch?v=rV_yvZTe5BY)** — 2026-05-15 · ko · `AX`
-  안녕하세요. 저희는 이번 주 목요일에 생방송을 진행합니다. 라이언, 잘 지내? 좋아, 좋아. 캔자스 시티는 아름다운 곳입니다. 봄에서 벗어나 이제 슬슬 여름으로 넘어가는 것 같아요. 벌써 여름 같은 느낌이 드네요 . 그래서 저는 밖에 나가서 활동하는 게 정말 즐거워요 . 내 발치에 개들이 있어요. 그래서 혹시 개 짖는 소리 나 멍멍거리는 소리 같은 게 들리더라도 양해 부탁드립니다. 오늘은 그냥 얘네들이 놀고 있는 중이거든요. 네, 제가 당신과 만날 때마다 당신의 강아지가 함께 오는 것 같아요.
+- **[Understanding Ad Technology on LinkedIn](https://www.youtube.com/watch?v=RGBQN-6DXEs)** — 2024-12-12 · ko · `unclassified`
+  안녕하세요, LinkedIn입니다. 저희의 비전은 전 세계 모든 근로자에게 경제적 기회를 창출하는 것입니다. 이를 위해 LinkedIn에서 보시는 모든 정보가 유용하고 관련성이 높기를 바라며, 광고 또한 마찬가지입니다. LinkedIn은 광고를 게재하는데, 이는 광고 수익으로 대부분의 서비스를 회원들에게 무료로 제공하기 때문입니다. 저희는 회원님의 프로필 에 입력하신 데이터 와 프로필 및 LinkedIn 활동 내역을 통해 추론한 데이터를 기반으로 맞춤형 광고를 제공합니다. 예를 들어 베를린에 거주하는 엔지니어 피터는 AI 분야 기업들을 팔로우하는데, 새로운 소프트웨어나 AI 제품 광고를 보면 클릭하여 자세히 알아보는 경우가 많습니다
 
-- **[Top 5 MCP Servers for 2026 | Best MCP Servers](https://www.youtube.com/watch?v=ClN7eViudxU)** — 2026-05-14 · ko · `AX`
-  챗봇이 단순히 질문에 답하는 것 이상의 기능을 수행했으면 좋겠다고 생각하시나요? 모델 컨텍스트 프로토콜(MCP)을 사용하면 모든 앱을 챗봇에 연결하여 강력한 도우미로 만들 수 있습니다. 이 제품은 인공지능이 실제 도구에서 사용할 수 있는 손을 마침내 제공하는 범용 어댑터입니다 . 이제 챗봇은 단순히 채팅만 하는 것이 아니라 파일을 검색하고, GitHub를 관리하고, 수천 개의 앱을 통해 작업을 자동화할 수도 있습니다. 인공지능을 진정한 개인 비서로 만들고 싶다면, 몇 분 만 에 설정할 수 있는 최고의 MCP 서버 5가지를 소개합니다 .
+- **[Was sind die Vorteile der LinkedIn App? Mit der App hast du die ganze Arbeitswelt in deiner Tasche.](https://www.youtube.com/watch?v=JgKk3Zo_lqw)** — 2024-11-22 · ko · `unclassified`
+  당신은 링크를 통해 여행을 많이 다닙니다. 앱에서는 모든 가능성을 항상 이용할 수 있습니다. 열려 있는 꼭 가야 해요, 문제없어요. 언제든지 대화를 다시 시작할 수 있습니다. 기록하다 언제나 그리고 어디에서나, 음, 거의 어디에서나 앱 스토어 또는 구글로 이동하려면 여기를 클릭하세요. 왼쪽 위치를 선택하고 설치를 클릭하세요. 당신은 이미 끝냈어요, 그렇지 않고서는...
 
-- **[MCP Tutorial: Complete Guide for 2026](https://www.youtube.com/watch?v=9UxGxWIQSso)** — 2026-05-13 · ko · `AX`
-  구축하는 대신, 자동화 시스템과 대화할 수 있다면 얼마나 좋을까요? 이제 Zapier의 새로운 모델 컨텍스트 프로토콜 서버를 사용하면 가능합니다. Zapier의 MCP를 사용하면 이제 AI가 앱에 직접 연결되어 작업을 위한 시스템 허브 역할을 할 수 있습니다 . 이 새로운 MCP를 사용하면 AI가 단순히 질문에 답하는 것 이상의 일을 할 수 있습니다. 이 프로그램은 데이터를 읽고, 연락처를 만들고, 메시지를 보내고, 기록을 업데이트하는 등 다양한 작업을 수행할 수 있습니다. 설정 방법을 보여드리겠습니다.
+- **[Wie kannst du mit LinkedIn immer top-informiert bleiben? Wir erklären, wie es geht.](https://www.youtube.com/watch?v=9sov5dF25Ug)** — 2024-11-22 · ko · `unclassified`
+  LinkedIn을 사용하면 항상 최신 정보를 얻을 수 있습니다. 최신 기술 동향을 반영한 업무 환경 링크드인 최신 소식을 확인하고 실제로 무슨 일이 벌어지고 있는지 알아보세요. 직업 세계에서 우리의 편집팀은 스스로에게 다음을 제공합니다. 가장 중요한 주제 및 관련 이벤트 전문적인 삶에서 또 다른 기회를 얻게 될 것입니다. 가장 인기 있는 주제 중 하나는 최신 정보를 유지하는 것이 중요합니다. 관련 해시태그를 검색하고 그리고 "팔로우"도 한 번 더 클릭해 주세요. 프로필 사진을 클릭하고 이동하세요.
 
-- **[Build an Email Manager AI Agent | Build Along Workshop](https://www.youtube.com/watch?v=SVu_9bNPLqE)** — 2026-05-04 · ko · `AX`
-  안녕하세요 여러분. 즐거운 목요일 되세요. 오늘은 제게 목요일입니다. 저는 지금 위스콘신주 매디슨에 있는데 , 여기는 확실히 오후입니다. 정각에 이렇게 많은 분들을 뵙게 되어 정말 기쁩니다 . 검증해 주셔서 감사합니다. 오늘은 목요일입니다. 음, 이미 저희와 함께 하시는 분들은 아시겠지만, 저는 모든 회의에서 채팅창에 꼭 넣어두는 아이스브레이킹 질문이 하나 있어요. 바로 " 지난 48시간 동안 가장 맛있었던 음식은 무엇이었나요?"라는 질문입니다. 그러니까, 먹은 음식이나 마신 음료, 듣거나 읽거나 본 것 등 무엇이든 될 수 있다는 거죠.
+- **[Ein LinkedIn Profil erstellen oder aktualisieren? Wir erklären, wie es geht.](https://www.youtube.com/watch?v=K9vrjFnlgd4)** — 2024-11-21 · ko · `unclassified`
+  LinkedIn 프로필을 업데이트하려면 아주 간단해요, 완벽할 거예요. 어린이 게임 우선, 그는 자신의 프로필 사진을 추가합니다. 게다가 그건 당신의 성격의 일부이기도 해요. 흥미로운 선택이긴 한데... 프로필 사진을 한 번만 클릭하면 편집 기호는 추가로 사용자 지정할 수 있습니다. 우리는 훨씬 더 나은 것으로 계속 나아갈 것입니다. 전문적인 경험을 보시려면 클릭하세요. 편집할 때 펜을 사용하세요 좋은 결정을 내리고 싶어요, 마지막으로 한 번 더. 한 가지 더: 더하기 기호를 클릭하고 여러분의 의견을 추가하세요.
 
-- **[Keep up with AI: Calendar Check | Build Along Workshop](https://www.youtube.com/watch?v=G4RGwkqjNaY)** — 2026-04-24 · ko · `AX`
-  여러분, 안녕하세요. 어서 오세요. 통화하시는 지역을 채팅창에 남겨주세요. 제 친구 에밀리가 여기 있어요. 매디슨에서 전화하고 있습니다. 본거지. 저희는 플로리다 중부, 휴스턴, 토론토를 보유하고 있습니다. 아, 저는 사람들이 어디 출신인지, 어디에서 전화하는지 보는 게 정말 좋아요. 더 구체적으로 설명하기 위해 추가하시겠어요 ? 주소를 공유하지 마세요. 그걸 요구하는 게 아니에요. 어디에서 전화하시는지 알려주세요. 근데 거기가 사무실인가요? 재택근무? 주방? 호텔 방일 수도 있고, 아니면 아무 데나 있을 수도 있죠 .
+- **[Welche Inhalte und Formate kannst du auf LinkedIn teilen? Wir erklären, wie das geht.](https://www.youtube.com/watch?v=5_YEcbxHjTY)** — 2024-11-21 · ko · `unclassified`
+  [음악] 당신은 다음과 같은 것을 통해 전문적인 성공을 이루고 싶어합니다. 세상을 공유하세요 LinkedIn에서는 다음과 같은 전문가들을 찾을 수 있습니다. 관심을 갖다 새 프로젝트가 시작된다고 가정해 봅시다. 물론, 그래서는 안 됩니다. 비밀로 해 줘. 여기서 해도 돼. 팀 사진이 있으면 모두에게 알려주세요. 네, 어쩌면 결국 받아들이게 될지도 모르겠네요. 저는 있는 그대로의 모습을 가진 것을 더 선호합니다. 자, 이제 여러분의 팀원들을 만나보겠습니다. 이것은 더 많은 관심을 불러일으키고 당신은 지인들과 더 쉽게 교류할 수 있습니다
 
-- **[Updating Spreadsheets and Generating Reports | Schedule by Zapier](https://www.youtube.com/watch?v=iu6iY8OezNA)** — 2026-04-24 · ko · `AX`
-  스프레드시트로 보고서를 작성하는 데 지치셨나요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있습니다 . 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다 . "매주 월요일 오전 9시에 제 Google Sheets 판매 스프레드시트에서 모든 행을 가져와서 Chat GBT를 사용하여 주간 보고서로 요약한 다음 Gmail로 제게 이메일로 보내주세요 .
+- **[Wie geht Jobsuche und Bewerbung auf LinkedIn? Hier erklären wir, wie es geht.](https://www.youtube.com/watch?v=AZKmuIbYqno)** — 2024-11-21 · ko · `unclassified`
+  [음악] 다음 커리어 단계를 계획하고 계신가요? 저희가 도와드리겠습니다. 먼저 클릭하세요. 프로필 사진을 클릭하고 열기 버튼을 추가하세요. 작업 프레임에 추가하여 모든 사람이 볼 수 있도록 합니다. 당신이 제안을 받아들일 준비가 되어 있다는 것을 알고 있습니다. 초록색이 당신의 눈을 더욱 돋보이게 하네요. 제안을 받아들일 의향이 있으시니, 한번 살펴보세요. 당신에게 맞는 일자리를 찾아봅시다. 궁금한 점이 있으면 원하는 정보를 입력하세요. 직업과 선호하는 지역 와, 저 사람은 이 모든 채용 공고를 다 보는 걸까?
 
-- **[Quickbooks to Google Sheets | Never Manually Export Invoices Again!](https://www.youtube.com/watch?v=0pCFGXIDz-E)** — 2026-04-22 · ko · `AX`
-  퀵북스 송장을 구글 시트에 기록하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI Copilot을 사용하면 원하는 내용을 설명하기만 하면 됩니다. "새로운 QuickBooks 온라인 송장을 Google Sheets 스프레드시트 행에 추가하세요."와 같이 말할 수 있습니다. 그러면 워크플로우가 자동으로 구축될 겁니다.
+- **[Wie kannst du auf LinkedIn dein berufliches Netzwerk aufbauen? Wir erklären, wie es geht.](https://www.youtube.com/watch?v=RVNJGvraqho)** — 2024-11-21 · ko · `unclassified`
+  새로운 인맥을 쌓는 것은 훌륭한 기회입니다 전문적인 네트워크를 확장하기 위해 새로운 기회를 열기 위해 프리랜서 일자리를 찾고 있다고 가정해 봅시다. 초대장은 개인적인 감성을 더해줍니다. 메시지를 추가하고 다음과 같이 시작하세요. 대화가 좋았어요 [음악] 초대를 수락하는 즉시 대화를 이어가야 한다면 잡고 있다 [음악] 정말 멋졌어요, 전혀 예상 못 했어요. [음악] 저는 상상력이 풍부한 것을 좋아합니다. [음악] 개인 메시지가 보이시나요? 네트워킹을 더 쉽게 만들어주죠, 혹시 모르잖아요.
 
-- **[With AI governance built in, Zapier unlocks builders from out of left field.](https://www.youtube.com/watch?v=r_dZ7MFZJsc)** — 2026-04-21 · ko · `unclassified`
-  요즘은 모두가 자동화를 도입하고 있다는 게 믿어지세요 ? Zapier를 사용하면 머리가 조금이라도 있는 사람이라면 누구나 안전하게 모든 AI 플랫폼을 구축할 수 있습니다. 당신은 결코 하나의 모델에 얽매이지 않습니다. 네, 어떤 AI 도구든 상관없습니다. 어머니 집에서 아직 살고 있는 다 큰 남자들도 그 정도는 알아낼 수 있어요. 저는 심지어 저는 심지어 그건 아니었어요. 그건 표현이에요. 나는 절대 그렇게 생각하지 않아. 우리가 정말 이렇게 하고 있는 거야? 너 말하는 모습이 딱 저렇네.
+- **[Mostra la tue competenze: Aggiungi conoscenze e competenze al tuo profilo LinkedIn](https://www.youtube.com/watch?v=zagfYh-Eh64)** — 2024-08-21 · ko · `unclassified`
+  [음악] 달리기는 내게 여러 기술을 가르쳐주었다. 제가 모든 일에 적용하는 소중한 것들 내 측면들 인생은 매일매일이 경쟁하는 경주이다. 이는 우리에게 새로운 도전을 제시합니다. 내 기술을 공유하는 것을 극복하세요 링크드인은 제가 자유로워지는 데 도움을 주었습니다.
 
-- **[With Zapier's built-in AI governance, even GamGam can bring her ideas to life.](https://www.youtube.com/watch?v=oRZVdzI2flI)** — 2026-04-21 · ko · `unclassified`
-  와, 사무실 전체가 자동화되는 것 같아. Zapier를 사용하면 누구나 어떤 AI를 사용해서든 안전하게 구축할 수 있습니다. 그렇죠, 갬갬? 제가 모든 앱을 너무 빨리 연결해서 쿠키를 구울 시간까지 있었어요. 스니커두들? 그래 , 내 사랑스러운 아들아. 저는 착한 소년이에요. 당신은 그럴 자격이 있으니 쿠키를 드셔도 돼요 . 언제 결혼하세요? 감감, 안 돼, 지금은 제발 그러지 마.
+- **[Revelez vos talents: Ajoutez des connaissances et des compétences à votre profil LinkedIn](https://www.youtube.com/watch?v=lUQZl4ihocA)** — 2024-08-21 · ko · `unclassified`
+  물속에 있을 때 나는 느껴요 진정으로 이 힘과 이 능력 자연의 이러한 에너지 이사회를 갖는 것은 매우 중요합니다. 균형을 유지하면 한계를 뛰어넘을 수 있어요. 기껏해야, 그것이 나에게 도움이 되는 것일 뿐입니다. 일상생활에서 좋은 기분을 느끼기 위해 링긴 덕분에 강조 표시할 수 있습니다.
 
-- **[Zapier's governance makes AI safe for anyone with hands. Or paws.](https://www.youtube.com/watch?v=6ylM7rMzw-0)** — 2026-04-21 · ko · `unclassified`
-  와, 요즘은 모든 팀이 자동화를 도입하네요. 음, Zapier는 손만 있으면 누구나 안전하게 I-Rex 로 무언가를 만들 수 있게 해 주죠 . 그건 비유적인 표현이에요. 제 말은, 더 이상 투자 수익률(ROI)을 얻기 위해 개처럼 일할 필요가 없다는 뜻이죠, 그렇죠? 그게 아니라, 네가 그런 사람이어서가 아니라, 내가 그녀의 엉덩이를 몇 번 본 적이 있어서 그래. 어젯밤 경기 보셨어요? 미친. 응. 하지만 실제로는 그렇게 되지 않았습니다.
+- **[Zeig, was du kannst: Füge Kenntnisse & Fähigkeiten in deinem LinkedIn Profil hinzu](https://www.youtube.com/watch?v=ZxnFT_bEAts)** — 2024-08-21 · ko · `unclassified`
+  [음악] 저는 링에 자주 있습니다. 저는 자신감이 더 생겼고, 그 덕분에 그 후 나는 스포츠에서 배운 것을 내 삶에 적용했다. 저는 킥복싱을 통해 배웠습니다. 기회를 잡는 법을 배웠고, 외부에서도 매우 중요합니다. 반지의 일부로서 나는 지식을 주고 제 링크드인 프로필에 기술 목록이 있습니다. 제가 가진 모든 장점을 보여드릴 수 있도록 말입니다. 그리고 이로 인해 다음과 같은 결과가 발생합니다...
 
-- **[Jotform to ChatGPT | Your Follow-Up Emails Just Got Smarter](https://www.youtube.com/watch?v=7zGzjq3DKhE)** — 2026-04-20 · ko · `AX`
-  Jot Form 제출물을 받았을 때 채팅 GPT를 사용하여 후속 이메일을 생성할 수 있기를 원하십니까 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음 부터 Zap을 만들 수 있습니다. 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다. Jot Form에 새로운 제출물이 접수되면 양식 응답을 Chat GPT로 보내고 짧고 친절한 후속 이메일을 생성하도록 설정할 수 있습니다
+- **[The Best Resume Tips for a Career Change](https://www.youtube.com/watch?v=UmiSMDVDWJI)** — 2024-06-24 · en · `unclassified`
+  So the question, how do I start a career transition in a resume? So I'm going to take that from a perspective of you're using a resume in the process of career transitioning. Right. So hiring managers looking at it and saying, hey, you know, you're applying to a job with a different title. You haven't done this work in the past. Great question.
 
-- **[The Executive Blueprint for Responsible AI Governance: Practical Strategies for Leaders Responsible](https://www.youtube.com/watch?v=-Y22OVH2w1o)** — 2026-04-20 · ko · `AX`
-  안녕하세요, 저희 웨비나에 오신 것을 환영합니다 . 이곳에 오게 되어 정말 기쁘고, 여러분도 함께 해주셔서 기쁩니다. 정말 훌륭한 연사분들이 많이 오실 예정입니다. 하지만 본격적으로 시작하기 전에, 먼저 당신에 대해 조금 알고 싶습니다. 그러니까, 어디에서 접속하시는지 알려주시고, 어떤 역할을 맡고 계신지도 궁금합니다. IT, 컴플라이언스, 거버넌스, 아니면 법무팀인가요? 어, 그것도 추가해 주세요. 안녕하세요, 저는 리아입니다. 저는 테네시주 내슈빌에서 생중계로 여러분께 인사드리고 있습니다 . 그리고 저는 그 어떤 역할에도 해당되지 않습니다.
+- **[How to Make a Career Change](https://www.youtube.com/watch?v=0nKjJc60Els)** — 2024-06-20 · ko · `unclassified`
+  [음악] 코칭 분야뿐 아니라 일반 직장인들 사이에서도 이 부분을 간과하는 사람들을 정말 많이 만난다는 말로 시작하고 싶습니다. "방금 해고당했어요", "상사가 마음에 안 들어요", 또는 이직을 원하는 수많은 이유 때문에 그저 이직 자체에 우선순위를 두는 경우가 많죠. 하지만 저는 많은 사람들이 "왜 이직하는가?"라는 질문에 대한 답을 찾아야 한다고 생각합니다. 성공적인 경력 전환은 여러 측면에서 이루어지지만, 변화의 근본적인 이유를 파악하는 것이 가장 중요합니다. 하지만 그 이유를 찾는 것은 쉽지 않습니다. " 만족감을 원하는가?
 
-- **[Watch Tickets Move Automatically from Zendesk to Jira!](https://www.youtube.com/watch?v=K8lI2fD6GZg)** — 2026-04-17 · en · `unclassified`
-  Do you want to be able to create Jira issues when new tickets are created in Zendesk? Let me show you how to do it automatically using Zapier. To do this task, I want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's no-code app builder, I can create my Zap from scratch or with Zapier's new AI Co-pilot, I can just describe what I want.
+- **[Top Virtual Interview Tips](https://www.youtube.com/watch?v=pL1F0rpNjYg)** — 2024-06-14 · ko · `unclassified`
+  [음악] 대면 인터뷰와 비교했을 때 줌 인터뷰를 위한 최고의 팁은 무엇인가요? 매틀린, 당신은 영상 인터뷰의 여왕이시잖아요. 줌 인터뷰에 대한 팁을 알려주시면 정말 감사하겠습니다. 음, 예를 들어 지금 제 앞에 임시로 설치한 게 있는데요, 제 컴퓨터 카메라가 보통 여기 위에 있는데, 그러면 앤드류, 당신은 저를 내려다보게 되죠. 카메라 각도가 다르면 저 와 당신, 그리고 보는 사람들 사이에 어색한 분위기가 생겨요. 당신이 저를 내려다보면 제가 당신보다 낮은 위치에 있는 것처럼 보이고, 존경받지 못하는 것처럼 느껴질 수도 있죠.
 
-- **[I Let Claude Decide My LinkedIn Strategy](https://www.youtube.com/watch?v=aJd3bNm3MPA)** — 2026-04-16 · en · `unclassified`
-  You're not behind on AI. You're behind on figuring out which parts of your job you should have stopped doing yourself 2 years ago. Zapier asked me to host a series about automation. I'm a content strategist, which means I spent years doing manually the exact thing I'm about to show you how to automate. So, This is an intervention about a substance you're not abusing.
+- **[Expert Techniques to Manage Interview Nerves](https://www.youtube.com/watch?v=hJpfJSEVbZI)** — 2024-06-11 · ko · `unclassified`
+  [음악] 다음 질문은 제가 대학 면접을 볼 때 겪었던 일입니다. 언론학과 면접이었는데, 너무 긴장해서 목소리가 안 나오기 시작했어요. 전에는 그런 적이 없었거든요. 저는 원래 말을 많이 하는 편인데, 갑자기 목소리가 안 나와서 물을 마시러 가야 했던 기억이 나요. 너무 긴장해서 말을 할 수가 없었죠. 만약 사람들이 그런 상황에 처한다면 어떻게 해야 할까요? 불안감은 모든 의사소통에서, 특히 면접처럼 갑자기 주목받아야 하는 상황에서 큰 영향을 미칩니다.
 
-- **[Keep up with AI: Creating Content | Build Along Workshop](https://www.youtube.com/watch?v=CwtBvpOGd78)** — 2026-04-15 · en · `AX`
-  Hello everybody. Welcome to today's session. Throw in where you're calling from. Would love to hear it. Ryan, how you doing, man? &gt;&gt; I am doing good. Um, it is a beautiful spring day in Kansas City. Well, I guess I'm on the Kansas side, but um it feels good after a cold winter to be out out in the yard with the dogs, growing stuff in the veggie garden, all that stuff.
+- **[Questions to ask at the end of an interview](https://www.youtube.com/watch?v=hs49CPOn68w)** — 2024-06-06 · ko · `unclassified`
+  [음악] 면접관이 "질문 있으신가요?"라고 물으면 많은 사람들이 "없습니다"라고 대답하는데, 저는 그게 정말 큰 문제로 이어질 수 있다고 생각합니다. 그래서 면접관이 "질문 있으신가요?"라고 물었을 때 어떤 조언을 해주시겠어요? 우리가 미리 이야기했듯이, 우리는 회사에 대해 조사하고, 면접 주제를 정하고, 그 주제를 뒷받침할 만한 사례를 만들거나 수집합니다. 또한, 면접관이 "질문 있으신가요?"라고 물었을 때, 당신은 이 직무에 대해 무엇을 알고 싶어 하는지, 그리고 어떤 질문을 할 것인지도 생각해 봐야 합니다.
 
-- **[Zoom to ChatGPT to Gmail | Your Meeting Summary Now Sends Itself!](https://www.youtube.com/watch?v=F7rJx81xP-A)** — 2026-04-15 · ko · `AX`
-  줌 회의 요약본이 생성된 후 후속 이메일을 보낼 수 있기를 원하십니까 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 노코드 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " Zoom에서 새 회의 요약이 생성되면 ChatGPT를 사용하여 참석자에게 감사를 표하고, 논의 내용을 요약하고, 다음 단계를 안내하는 짧고 전문적인 후속 Gmail 이메일을 생성하세요.
+- **[“What Are Your Salary Expectations?”| How to Best Answer](https://www.youtube.com/watch?v=gFJZf1TNHEI)** — 2024-06-03 · ko · `unclassified`
+  [음악] 초봉, 면접 중에 '형'이라는 단어를 들으면 어떻게 대화를 시작해야 할까요? 음, 당연히 어떤 회사들은 면접 중에 연봉 이야기를 하지 말라고 지시하기도 하고, 또 어떤 회사들은 규칙이 좀 더 유연해서 면접 중에 언급하기도 하죠. 이런 경우 어떻게 대처하는 게 좋을까요? " 아직 면접 과정 중이라 제 가치를 정확히 말씀드리기는 어렵지만, 이번 주 초에 연봉 조사를 좀 해봤는데, 이 도시에서 비슷한 직무를 하는 사람들이 보통 얼마 정도를 받더라고요. 시장 상황과 비슷한가요?
 
-- **[Google Workspace Admin to Slack | Automate Your Workspace with Slack Notifications](https://www.youtube.com/watch?v=BdSNm8gSyaE)** — 2026-04-10 · ko · `AX`
-  Google Workspace에 새 사용자가 생성될 때마다 Slack 팀 채널에 알림을 보내고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI Copilot을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " Google Workspace 관리자 페이지에서 새 사용자가 생성되면 해당 사용자의 이름과 이메일 주소를 제 Slack 채널로 메시지로 보내주세요.
+- **[“Why Should We Hire You? | How to Best Answer](https://www.youtube.com/watch?v=8oC-OROkLv4)** — 2024-05-29 · ko · `unclassified`
+  [음악] 사람들이 "왜 당신을 고용해야 하죠?"라고 물을 때 항상 던지는 질문이 있죠. 마치 " 내 일을 대신해 줄 사람을 왜 고용해야 하죠?"라고 묻는 것처럼요. 이런 질문에 직면한 사람들에게 어떤 조언을 해주시겠어요? 첫 번째 단계는 컨설팅 접근 방식을 취하는 것입니다. 마치 의사가 문제를 진단하는 것처럼, 누군가 "왜 당신을 고용해야 하죠?"라고 물으면 먼저 직무를 검토하세요. " 직무 설명과 면접을 통해 살펴본 결과, 가장 중요한 세 가지 우선순위는 첫째, 신규 고객 온보딩, 둘째, 고객 진행 상황을 보고하는 다양한 방법 개발, 셋째, 고객 대상 추가 판매입니다
 
-- **[How Miro's talent team designs & ships HR systems employees actually use with Zapier](https://www.youtube.com/watch?v=NuSnxrdODUE)** — 2026-04-09 · ko · `AX`
-  여러분, 안녕하세요. 오늘 함께해 주셔서 감사합니다 . 잠시 후 시작할 예정이지만, 어디에서 오시든 모두 참여하실 수 있도록 하겠습니다 . 그러고 보니, 어디에서 접속하시는지 채팅창에 알려주세요. 저희는 시청자 여러분이 어디 에서 오셨는지, 그리고 오늘 어디에서 저희 방송에 참여하고 계신지 듣는 것을 매우 좋아합니다 . 아침 인사인지, 오후 인사인지, 밤 인사인지, 한밤중인지, 저는 잘 모르겠습니다. 괜찮은. 아, 캘리포니아에 저와 아주 가까운 사람들이 있어요. 이런 모습을 보니 정말 좋네요.
+- **[Aplicativo do LinkedIn: Baixe o aplicativo gratuitamente.](https://www.youtube.com/watch?v=KqlirRbOHjY)** — 2024-05-28 · ko · `unclassified`
+  탄탄한 인맥을 구축하는 것이 모든 것을 좌우합니다. 이것이 당신의 경력 성공에 얼마나 큰 차이를 만들어내는지 생각해 보세요. 링크드인에서는 이것이 당신의 손이 닿는 곳에 있습니다. 당신은 의미 있는 연결을 만들어냅니다. 그들의 활동과 성과를 공유합니다 수천 개의 데이터에 접근할 수 있습니다.
 
-- **[HubSpot to Slack | Automate HubSpot Updates to Slack](https://www.youtube.com/watch?v=GSRxo68kwxI)** — 2026-04-08 · ko · `AX`
-  HubSpot 할인 혜택이 변경될 때 Slack 팀에 알림을 보내고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 수행하기 위해 Zapier에서 Zap을 생성하려고 합니다. Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있습니다 . 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다 . " HubSpot 거래에 변경 사항이 생기면 영업 담당자에게 후속 조치를 취하도록 상기시키는 Slack 메시지를 영업 채널에 보내세요 .
+- **[Artigos Colaborativos](https://www.youtube.com/watch?v=gFoE_UOxZkg)** — 2024-05-28 · ko · `unclassified`
+  당신이 가진 지식을 최대한 활용해 보는 건 어때요? LinkedIn 커뮤니티 모음 ~가 작성한 기사와는 달리 회원 및 조직 관련 조항 LinkedIn의 협업 도구는 다음과 같습니다. 사용자 의견을 바탕으로 구축되었으며 편집팀의 지원과 링크드인의 인공지능 특정 단어를 검색하세요 또는 검색창에 질문을 입력하세요. LinkedIn에서 목록에 액세스할 때 공동 작업으로 작성한 기사는 여전히 유효합니다. 사이드바의 주제들을 살펴보세요. 맞아요, 기여할 가치가 있어요. 기사 확실히 이렇게 함으로써 당신은 LinkedIn에서 평판을 쌓고 다른 사람들이 발전하도록 돕습니다.
 
-- **[Keep up with AI: Managing To-dos | Build Along Workshop](https://www.youtube.com/watch?v=8pljY-MwLqs)** — 2026-04-08 · ko · `AX`
-  안녕하세요 여러분. 환영. 세상에, 오늘 여러분 모두와 함께하게 되어 너무 기쁩니다. 처음 오신 분이라면 , 환영합니다. 저희 채팅방에는 사람들이 서로 정보를 공유하는 일종의 전통이 있어서, 여기서부터 시작해 볼게요. 처음이 아니라면, 보너스 환영합니다. 당신은 어찌 된 일인지 제가 손을 흔들고 눈썹을 씰룩거리는 모습을 한 번 보고는 다시 찾아왔군요 . 놀라운. 채팅창에 계신다면, 제가 알고 싶은 건 다음과 같습니다. 첫째, 사람들은 자신이 어디에서 시청하는지 자주 공유합니다 . 벌써 엄청 많이 봤어요.
+- **[LinkedIn Notícias: Fique por dentro do mundo corporativo](https://www.youtube.com/watch?v=6QswG9uHcn0)** — 2024-05-28 · ko · `unclassified`
+  오늘날 고용 시장의 변화 피드를 스크롤하는 것만큼 빠릅니다. 재택근무를 하든, 사무실에서 근무하든 편히 쉬면서 좋아하는 음악을 듣는 것. 뉴스는 당신을 위해 멈추지 않습니다. 이 모든 순간들을 함께하며 LinkedIn 뉴스에서 다양한 소식을 제공합니다. 논의된 주요 사건들 전문가들에 따르면, 그들이 최고다. 매일 피드에서 유용한 정보를 확인하세요. 환경에서 빠르고 실용적인 방법 기회를 열어주도록 설계되었습니다
 
-- **[Slack to Motion App | Never Lose Tasks in Chat Again](https://www.youtube.com/watch?v=k99kpp2i6AQ)** — 2026-04-06 · ko · `AX`
-  Slack에서 모션 작업을 생성할 수 있기를 원하십니까 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 노코드 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. "저장된 Slack 메시지에서 모션 작업을 생성하세요 "와 같은 말을 할 수 있을 것 같습니다. 그러면 워크플로우가 자동으로 구축될 겁니다 .
+- **[Aprenda, como aumentar sua rede no LinkedIn.](https://www.youtube.com/watch?v=ha0Iy6cpqG8)** — 2024-05-24 · ko · `unclassified`
+  링크드인에서 인맥을 쌓는 가장 좋은 방법은 링크드인에서 연결을 만드는 것입니다. 새로운 문을 여는 방법 기회는 많으며, 그 기회를 잡는 것은 매우 쉽습니다. 예를 들어, 다음과 상호작용할 수 있습니다. 피드에서 관심 있는 주제를 확인하세요 상호작용은 여러분의 발전을 돕습니다... 전문적인 관계를 맺다 이미 알고 있는 사람들 또는 아직 모르는 사람들. 이런 식으로 초대장을 보내고 메시지를 작성하세요. 당신은 다음과 같은 사람들로 네트워크를 채웁니다. 같은 관심사를 공유합니다 이봐요, 기회가 당신의 문을 두드리고 있어요!
 
-- **[Amazon Seller Central To Google Sheets | Save Hours Weekly on Order Logging!](https://www.youtube.com/watch?v=L8V0y0PZQl4)** — 2026-04-03 · ko · `AX`
-  아마존 판매 내역을 구글 시트에 기록하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI Copilot을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " 새로운 아마존 셀러 센트럴 주문이 접수되면 구글 시트의 행을 업데이트하세요"와 같은 문구를 사용할 수 있을 것 같습니다.
+- **[Aprenda como criar um bom conteúdo no LinkedIn](https://www.youtube.com/watch?v=MVPIBWyYlOM)** — 2024-05-24 · ko · `unclassified`
+  LinkedIn은 공유하기에 이상적인 공간입니다. 당신의 경험에는 다음이 포함됩니다. 인증 과정과 인정받는 동시에 어려움도 겪게 된다. 불안감과 기복 그것들은 전문적인 경력 경로의 일부입니다. 성과를 공유하고, 추구하기 위해 지지하거나 단순히 의견을 표현하고 싶습니다. LinkedIn은 의견 플랫폼입니다. 당신의 모든 측면에 열려 있습니다 여행, 사진 및 동영상 추가, 언급 사람들은 서로 많이 소통합니다.
 
-- **[Build Your Marketing OS in Cursor with Zapier MCP | Build Along Workshop](https://www.youtube.com/watch?v=KOE02pdJxlM)** — 2026-04-02 · ko · `AX`
-  안녕하세요 여러분. 즐거운 목요일 되세요. 컴퓨터로 일할 수 있는 오늘은 살아있다는 게 참 좋은 날입니다. 어서 오세요. 들어오시면서 채팅창에 메시지를 남겨주시면 어떨까요? 어디 에서 전화하시는 건가요? 당신의 클래식 클래식. 그리고 다음 여행 계획은 어떻게 되세요? 어디로 가시는 거예요? 오늘은 휴가철 복장 같은 걸 입었어요. 그래서 요즘 여행 생각이 좀 나네요. 그래서, 네 . 어디 출신이시고 다음 여행지는 어디인가요? 어디로 가시는 거예요? 데이비드, 당신은 애슈빌 지역에 계시고 플로리다로 향하실 예정이시군요. 좋아요.
+- **[Quer uma ajuda para conseguir aquele emprego dos sonhos?](https://www.youtube.com/watch?v=LYSfAh2k39U)** — 2024-05-24 · en · `unclassified`
+  Planning the next steps in your career? LinkedIn is your ally on this journey, and here's a tip to get you started: add the "open to work" badge to your profile picture. This helps recruiters know you're open to new opportunities. Oh, and also take the opportunity to update your profile so you have a better chance of being found, whether you're looking for a new job, developing professionally, changing careers, or even doing business.
 
-- **[Hootsuite to Slack | Your Team's Chat is Now Your Content Pipeline](https://www.youtube.com/watch?v=LVzMmrGTfDs)** — 2026-04-01 · ko · `AX`
-  Hootsuite를 사용하여 Slack 메시지를 게시하시겠습니까? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다 . 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 노코드 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고, Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. "새로운 Slack 메시지를 Hootsuite에 게시하세요." 와 같이 말할 수 있을 것 같아요. 그러면 워크플로우가 자동으로 구축될 겁니다. 그러면 제 Zap이 생성됩니다.
+- **[Como Usar o LinkedIn - O guia que você precisa para usar o LinkedIn de forma mais eficaz](https://www.youtube.com/watch?v=lrk8VwvA01I)** — 2024-05-22 · ko · `unclassified`
+  커리어를 한 단계 끌어올릴 준비가 되셨나요? LinkedIn은 당신이 원하는 목표를 달성하도록 도와줍니다. 링크드인 계정을 만들고 싶다면, 생각보다 훨씬 쉬워요, 단 한 단계만 거치면 돼요. 카밀라가 제시한 단계별 지침을 살펴보세요... 당신의 것을 보여드리겠습니다 친구야, 먼저 사진을 골라봐. 그건 정말 당신의 개성을 잘 보여주는 것 같아요, 정말 멋져요. 이제 경험 필드로 이동하여 탭하세요. 편집용 연필 기호 이 분야를 채우는 데 필요한 기술 이렇게 하면 피드가 최신 상태로 유지됩니다.
 
-- **[OpenClaw, Claude, Zapier MCP: Build Agents Safely & Easily | WEBINAR](https://www.youtube.com/watch?v=WPwXCwlTdz4)** — 2026-03-30 · ko · `AX`
-  안녕하세요 여러분, Open Claw, Claude, Zapier MCP를 활용하여 안전하고 쉽게 AI 에이전트를 구축하는 방법을 다룬 웨비나에 오신 것을 환영합니다 . 제 이름은 맷 ​​브라운입니다. 저는 Zapier의 커뮤니티 팀에서 일하고 있습니다. 지금은 Creator Magic의 마이크 러셀 씨가 가상 무대에 함께해 주셨습니다. 오늘 세션을 여러분과 함께 진행하게 되어 매우 기쁩니다 . 우선 몇 가지 안내 사항부터 드리겠습니다. 첫째, 이번 회의는 녹화되고 있으며, 녹화본은 내일 처리되는 대로 이메일로 보내드리겠습니다 . 그러니 걱정하지 마세요 .
+- **[Como se cadastrar no LinkedIn e criar seu perfil?](https://www.youtube.com/watch?v=AZhn_lRWzXI)** — 2024-05-22 · ko · `unclassified`
+  LinkedIn은 여러분을 무한한 세계와 연결해 줍니다. 기회는 많지만, 완벽한 프로필을 갖추는 것이 중요합니다. 이는 이 여정에서 중요한 차별화 요소입니다. 자, 우선 교육 내용을 업데이트하는 것부터 시작하세요. 학생 경험과 기술, 완벽한 프로필에는 더 많은 정보가 있습니다. 시청될 확률 영감을 찾아보고, 심호흡을 하고, 생각해보세요. 직업적 동기에 관하여, 다음을 만들어 보세요. 한두 단락으로 요약된 내용 여러분의 임무와 목표를 명확히 밝히십시오. 자세한 내용일수록 좋습니다. 링크드인은 콘텐츠를 안내합니다. 귀하의 역량을 강화하도록 맞춤 제작되었습니다.
 
-- **[Using AI Without Losing Predictability | Build Along Workshop](https://www.youtube.com/watch?v=S9Tn3ddRuDI)** — 2026-03-30 · ko · `AX`
-  안녕하세요. 안녕하세요 여러분. 세상에, 순식간에 수백 명의 사람들이 몰려왔어요. 안녕하세요. 모두 환영합니다. 만나서 정말 반가워요. 이렇게 많은 분들이 와주셔서 정말 기쁩니다! 벌써 채팅에도 참여해주셨네요. 정말 대단하네요. 어, 인사해 주셔서 감사합니다 . 정말 친절하시네요. 자, 이제 분위기를 풀어볼 시간입니다 . 저와 함께 워크숍에 참여해 보신 분들은 제가 음식에 얼마나 집착하는지 이미 짐작하실 거예요. 음, 그래서 저는 항상 " 지난 48 시간 동안 드신 음식 중 가장 맛있었던 것은 무엇인가요?"라고 묻고 싶습니다.
+- **[Como você procura e se candidata a um emprego no LinkedIn? Aqui explicamos como fazer isso.](https://www.youtube.com/watch?v=pf3HaqcFf7U)** — 2024-05-22 · ko · `unclassified`
+  나에게 맞는 직업을 찾는다는 것은... 많은 사람들의 소망 전문가들을 어떻게 찾을 수 있을까요? 적절한 기회와 함께 링크드인은 구인 공고를 보여줍니다. 그들의 기술과 관련된 기술과 아침 선호도, 프로필 정보 다음 공석이 곧 생길 예정임을 알려드립니다. 아, 그리고 활성화하는 것도 잊지 마세요... 구인 알림을 받아보세요 가능한 한 빨리 공석에 지원하세요.
 
-- **[Youtube to Hopscotch | This Is Your Content Distribution in Seconds!](https://www.youtube.com/watch?v=ITEN9LDyshg)** — 2026-03-27 · ko · `AX`
-  YouTube 영상을 다른 소셜 미디어 플랫폼에도 게시하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 새로운 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있습니다 . 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다 . 예를 들어, 홉스콧 소셜 미디어 앱을 사용하여 유튜브 영상을 소셜 미디어에 자동으로 게시한다고 말할 수 있겠네요 .
+- **[The Most Common Interview Questions and How to Answer](https://www.youtube.com/watch?v=xsJvi6tJtbM)** — 2024-05-22 · en · `unclassified`
+  Welcome to career talks presented by LinkedIn. I'm Andrew Seaman. So you've been invited to an interview. Great. But what are the most common questions you can anticipate being asked and how will you answer them? Well, in this video, we bring you the best advice and recommendations from hiring professionals to help give you the confidence to nail the interview and showcase the very best of your personality, skills and expertise.
 
-- **[Manychat to LinkedIn | Real-Time Conversion Tracking](https://www.youtube.com/watch?v=EKkPha5HF20)** — 2026-03-25 · en · `AX`
-  Do you want LinkedIn conversion events firing automatically when someone gets tagged in ManyChat? Let me show you how to do it automatically using Zapier. To do this task, I want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's no-code app builder, I can create my Zap from scratch or with Zapier's new AI Copilot, I can just describe what I want.
+- **[“Tell Me About Yourself” | How to Answer in interview](https://www.youtube.com/watch?v=jkxcyRRKo1w)** — 2024-05-22 · ko · `unclassified`
+  [음악] 멜라인, 다음 질문 은 아마도 많은 사람들이 가장 어려워하는 질문 중 하나일 텐데, 바로 "자기소개를 해보세요"라는 질문입니다. 많은 사람들이 자신의 기술 이나 과거 경험에 대해서는 잘 이야기하지만, 자신을 구체적으로 정의하고 설명하는 데 어려움을 느낍니다. 어떻게 대답해야 할까요? 첫 번째 단계는 자신이 누구인지 밝히는 것입니다. 여기서 '자신이 누구인지'는 직업을 의미합니다. 예를 들어, "저는 기술 업계에서 고성장 스타트업을 전문으로 하는 인사 담당자입니다."와 같이 간단하게 말할 수 있습니다.
 
-- **[Automate Metricool to Google Sheets in Minutes](https://www.youtube.com/watch?v=FTre96kgrnI)** — 2026-03-23 · en · `unclassified`
-  Do you want to be able to log your Metricool metrics onto Google Sheets? Let me show you how to do it automatically using Zapier. To do this task, I want to create a Zap. In Zapier, a Zap is a simple way to connect different apps and make them work together automatically. With Zapier's no-code app builder, I can create my Zap from scratch or with Zapier's new AI Co-pilot, I can just describe what I want.
+- **[“What Are Your Strengths and Weaknesses?” | How to Best Answer](https://www.youtube.com/watch?v=m19o5ZMcqS0)** — 2024-05-22 · en · `unclassified`
+  A weakness, I think is a generally unfair question. We don't. We don't have weaknesses. The weakness we have to determine is it a weakness that we have to overcome, or is it just a weakness? If you're if you're not on the sales team, you don't have to be great at sales. You need to be great at something else.
 
-- **[Alexa to Notion | Control Your Notion Database by Talking to Alexa](https://www.youtube.com/watch?v=wVX-qoopGIE)** — 2026-03-20 · ko · `AX`
-  Amazon Alexa를 사용하여 Notion 데이터베이스에 항목을 간편하게 추가하고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들거나, Zapier의 새로운 AI 보조 기능을 사용하면 원하는 내용을 설명하기만 하면 됩니다. Amazon Alexa에게 " 새로운 트리거 문구를 사용하여 Notion에 데이터베이스 항목을 추가하세요"라고 말하면 Alexa가 워크플로를 생성해 줄 것입니다.
+- **[Top Interview Tips: How to be engaging, answer hard questions, & more.](https://www.youtube.com/watch?v=ji7aZWgeTgw)** — 2024-05-20 · en · `unclassified`
+  Now, Matt, the other thing that I think is important is to be an engaging talker, because if you are interviewing for a role, you want to sort of reach out and say, hey, you know, I, I'm someone who's going to be, engaging, lively, be an active part of the team. So how do you show in the interview that you can do that and engage your listener?
 
-- **[Getting back to startup speed took a cultural reset - and it worked!](https://www.youtube.com/watch?v=LHd1plfMvXA)** — 2026-03-19 · ko · `AX`
-  팀 규모가 두 배 이상 늘어났으니 배송 속도도 훨씬 빨라질 거라고 예상했었어요. 우리는 그렇게 하지 않았습니다. 우리는 여전히 정말, 정말 느리게 가고 있었다. [음악] 그래서 우리는 ' 이게 사실 문화적인 문제일 수도 있지 않을까?'라는 생각을 하기 시작했어요. 안녕하세요, 여러분. Agents of Scale에 다시 오신 것을 환영합니다. 이 프로그램에서는 AI를 단순한 유행어에서 핵심 기술로 전환하고 있는 경영진들을 만나 이야기를 나눕니다 . 저는 웨이드 포스터이고, 오늘 모신 분은 위스티아(Wistia) 의 공동 창립자 중 한 명인 크리스 새비지입니다
+- **[5 Tips to Effectively Prepare and Ace your Interview](https://www.youtube.com/watch?v=iIVuIIM_17w)** — 2024-05-13 · en · `unclassified`
+  I guess the first question we're talking today all about how to really nail interviews and make sure that you put your best foot forward. So the first step, obviously, is to prepare for an interview. And how can people do that? Right. So I suggest a three step process for preparing and preparing is absolutely key.
 
-- **[Apollo to LinkedIn | Jump Start Your Lead Generation](https://www.youtube.com/watch?v=-GfJRhWv3Sw)** — 2026-03-16 · ko · `AX`
-  Apollo 페이지에 계정이 추가될 때마다 LinkedIn 회사 업데이트를 받을 수 있도록 설정하고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다 . 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음 부터 Zap을 만들 수 있습니다. 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다. 회사 페이지의 Apollo에 새 계정이 추가될 때 LinkedIn 업데이트를 생성하도록 설정하라고 말하면 워크플로가 자동으로 생성될 거예요.
+- **[5 Tips to Write an Effective Resume](https://www.youtube.com/watch?v=VW8Q5LVM3pI)** — 2024-05-09 · ko · `unclassified`
+  [음악] 이력서에 대한 가장 큰 오해는 무엇일까요? 네, 오해라고 하면 크게 두 가지를 꼽을 수 있을 것 같아요. 첫 번째 오해는 이력서를 마치 쓰레기장처럼 생각한다는 거예요. 지금까지 했던 모든 일, 업무, 과제, 프로젝트를 하나하나 다 적어 넣어야 한다고 생각하는 거죠. 왜 그런지는 모르겠지만, 많은 사람들이, 특히 제가 함께 일해 본 많은 사람들이, 모든 세부 사항을 빠뜨렸다는 사실이 드러날까 봐 두려워하는 것 같아요. 하지만 그건 사실이 아닙니다.
 
-- **[AI Building in 2026: Hype vs Reality | Build Along Workshop](https://www.youtube.com/watch?v=P6fx2iRLMGE)** — 2026-03-13 · ko · `AX`
-  어서 오세요. 모두 환영합니다. 수백 명이나 되는 분들이 접속하고 있네요. 라이언, 잘 지내세요? 좋은. 캔자스시티의 오늘은 비가 내리는 좋은 목요일입니다 . 지난 한 달 동안은 가짜 봄 날씨였어요. 저는 벌써 반바지를 입고 여름 옷을 다 꺼냈는데, 이제는 흐리고 비가 오네요. 채소밭에는 좋을지 몰라도, 창밖으로 보이는 뒷마당과 거리 풍경을 감상하기에는 별로 좋지 않아요 . 채소밭. 당신은 무엇을 키우고 있나요? 나는 이 문제에 대해 당신과 이야기한 적이 없습니다.
+- **[How to Use an Applicant Tracking System (ATS) to Your Advantage](https://www.youtube.com/watch?v=q6-J2LF54Fg)** — 2024-05-09 · ko · `unclassified`
+  [음악] 지원자 추적 시스템(ATS)이 무엇인지 설명해 주시겠어요? 인터넷에 잘못된 정보가 너무 많아서요. 네, ATS는 이력서를 스캔해서 특정 키워드를 찾아내고, 채용 공고의 내용과 일치하지 않는 이력서를 걸러내는 컴퓨터 소프트웨어입니다. 많은 사람들이 ATS에 대해 걱정하지만, 사실은 채용 공고와 키워드를 활용하는 방법을 제대로 따르고, 오늘 설명드린 것처럼 채용 공고를 바탕으로 이력서를 작성한다면 ATS에 대해 전혀 걱정할 필요가 없습니다. ATS는 채용 공고에서 키워드를 추출하고, 여러분은 그 키워드를 이력서에 넣는 것이기 때문에 모두 같은 방식으로 진행하는 것이므로, ATS는 확실히 통과할 겁니다.
 
-- **[No Lanes: How Claire Vo Runs an AI-Native Company on Her Own Terms](https://www.youtube.com/watch?v=_Wg2oTfwb4g)** — 2026-03-12 · ko · `AX`
-  오프사이트 음악 워크숍을 열어서 하루 종일 팀을 나눠서 뭔가를 만들어보는 걸 좋아해요. 그리고 저는 그것이 바로 재미를 불러일으킬 수 있다고 생각합니다. 이는 어려운 기술들을 익히는 데 도움이 될 수 있습니다. [음악] 음, 그리고 이건 경영진이 이것이 팀이나 회사에 어떤 영향을 미칠 수 있는지에 대해 대화를 시작하기에 좋은 방법입니다. [음악] [음악] 좋아요. 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다 . 저는 클레어 보와 함께 있습니다. 클레어는 여러 차례 창업 경험이 있습니다
+- **[How to Write a Resume: 3 Main Resume Sections](https://www.youtube.com/watch?v=ywkr9LdsksU)** — 2024-05-09 · en · `unclassified`
+  The three components that you want to have on your resume. The first is what I call a profile, and the profile represents the overview of your experience and the qualifications that you possess. So it's the high level summary of who you are right in a quick snapshot. And I can explain that more in a bit. From there you're going to want to have your professional experience fully laid out.
 
-- **[Spotify to Twitch | Your Spotify Track Auto-Posts to Slack When You Go Live](https://www.youtube.com/watch?v=cgxGDZHZ4uo)** — 2026-03-11 · ko · `AX`
-  트위치 라이브 스트림에서 현재 재생 중인 곡들을 스포티파이 계정에서도 확인하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 생성하려고 합니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음 부터 Zap을 만들 수 있습니다. 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다. " 트위치에서 새로운 라이브 스트림이 시작되면 스포티파이에서 현재 재생 중인 음악을 가져와서 슬랙 채널로 보내세요.
+- **[How to Write a Resume With Limited Work Experience](https://www.youtube.com/watch?v=-VYWkJIPf2I)** — 2024-05-09 · en · `unclassified`
+  What do you do when you're just starting out and don't have a lot of professional experience? Can you just list your college classes? Yes. Okay. So if that's the case where you don't have a lot of experience. Absolutely. But you also want to look back on your volunteer experience, any sort of clubs or extracurricular activities that you did in college.
 
-- **[Leading through AI: How top executives are turning AI mandates into real business transformation](https://www.youtube.com/watch?v=g6q02hUd_Wc)** — 2026-03-09 · ko · `AX`
-  전 세계 여러분, Zapier와 Nerd Wallet, Door Dash, Web Flow라는 세 개의 대표적인 기업의 리더들이 함께하는 오늘 행사에 오신 것을 환영합니다. 믿기 ​​어려우시겠지만, 오늘 우리 모두, 전 세계 수백 명, 아니 수천 명이 한자리에 모여 인공지능 시대에 진정으로 앞장서 나가는 방법에 대해 진솔한 이야기를 나누고자 합니다 . 실제 리더들은 어떻게 인공 지능 관련 요구 사항들을 진정한 변화로 이끌어내고 있을까요? 인간과 인공지능이 협력하여 세상에 놀라운 일들을 해내고 있습니다 .
+- **[5 Tips to Get Your Job Application Noticed](https://www.youtube.com/watch?v=9WpL81k64Dg)** — 2024-05-06 · ko · `unclassified`
+  안녕하세요 여러분, 커리어 토크 최신 에피소드에 오신 것을 환영합니다! 오늘은 정말 멋진 게스트를 모시게 되어 기쁩니다. 제가 가장 좋아하는 전문가 중 한 분이자, 임원 이력서 작성 및 공인 개인 브랜드 전략 전문가이신 제시카 헤르난데스 님을 모셨습니다. 제시카 님, 안녕하세요! 앤드류, 만나서 정말 반갑습니다. 링크드인과 구직 활동에 대해 다시 이야기 나눌 수 있어서 너무 기쁩니다. 제가 가장 좋아하는 주제 중 하나죠. 네, 그리고 이 주제에 대해 이야기하기 가장 좋아하는 분 중 한 분이세요.
 
-- **[Sync Google Calendar to QuickBooks Without Manual Work](https://www.youtube.com/watch?v=6ZbuZzrt-8o)** — 2026-03-09 · ko · `AX`
-  Google 캘린더에서 새 일정을 만들 때마다 QuickBooks에서 영수증을 생성할 수 있도록 하고 싶으신가요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들거나 Zapier의 새로운 AI 보조 도구를 사용하여 만들 수 있습니다. 제가 원하는 바를 설명할 수 있습니다. " 새로운 Google 캘린더 이벤트에 대한 송장을 QuickBooks Online에서 보내세요"와 같이 말하면 워크플로가 자동으로 생성될 것입니다
+- **[Ace Your Next Interview: How to Stand Out and Master the Top Questions](https://www.youtube.com/watch?v=DDYg6u0c74k)** — 2024-05-06 · ko · `unclassified`
+  안녕하세요 여러분, 최신 커리어 토크에 오신 것을 환영합니다. 커리어 코치이자 셀프메이드 밀레니얼의 창립자인 마인맨을 모셨습니다. 마텔린, 안녕하세요 앤드류, 만나서 반갑습니다. 다시 이야기 나눌 수 있어서 정말 기쁩니다. 마텔린, 오늘은 면접에 대해 이야기해 보겠습니다. 많은 사람들이 면접 기회를 좋아하지만, 동시에 면접 과정 자체를 두려워하기도 합니다. 면접은 이러한 두려움과 심리 상태에 크게 좌우되죠. 그렇다면 어떻게 면접에 대비하고, 어떤 마음가짐으로 임해야 할까요? 면접에 임할 때 우리는 너무 완벽하게 해내야 한다는 생각에 사로잡혀 있는 것 같습니다
 
-- **[Square to Stripe | Link Stripe Payments to Square With One Click](https://www.youtube.com/watch?v=k9mMKtOJqwY)** — 2026-03-06 · ko · `AX`
-  받을 때 Square에서 고객 정보를 생성할 수 있도록 하고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코딩이 필요 없는 앱 빌더를 사용하면 처음부터 Zap을 만들거나, Zapier의 새로운 AI 보조 기능을 이용해 원하는 내용을 설명하기만 하면 됩니다. " 새로운 Stripe 결제를 기반으로 새로운 Square 고객을 생성하세요"와 같이 말하면 워크플로가 자동으로 생성될 것입니다 .
+- **[How to Make a Successful Career Change](https://www.youtube.com/watch?v=AYGnkvtf9EU)** — 2024-05-06 · ko · `unclassified`
+  안녕하세요 여러분, 최신 진로 상담에 오신 것을 환영합니다 . 저희 팀에는 커리어 코치이자 브로다 코칭의 창립자인 아담 브로다가 있습니다 . 자, 아담이 다시 쇼에 돌아온 것을 환영합니다 . 안녕하세요 앤드류, 다시 만나서 반갑습니다. 이제 시댁 지하실 차고에서 작업하지 않으니 두 번째 시도를 하게 되어 기쁩니다. 네, 그리고 지금 정말 좋은 상황에 계시겠지만, 시간을 내어 다시 한번 귀중한 지혜를 나눠주셔서 정말 감사합니다. 아마 예전에 저희 방송에 출연하셨던 걸 기억하시는 분들도 계실 텐데요, 오늘은 커리어 전환에 대해 이야기 나눠볼 예정입니다
 
-- **[This CFO Asked for What? How Carlos Olea Launched AI Transformation at Howard Hughes](https://www.youtube.com/watch?v=W9IzhSKW2gU)** — 2026-03-05 · ko · `unclassified`
-  심지어 회사 내부 사람들조차 저에게 "왜 우리가 이 분야에서 선구적인 역할을 해야 하느냐"고 묻곤 했습니다. 다른 사람들은 아무도 하지 않는데, 왜 우리가 음악 자동화에 투자해야 하는 거죠 ? 그래서 저는 우리가 하워드 휴즈이기 때문이라고 말했습니다. 그럼 누가 하겠어요? [음악] 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다 . 이번 주에는 정말 훌륭한 손님을 모셨습니다. 이분은 카를로스 올리입니다. 그는 하워드 휴즈의 최고재무책임자(CFO)입니다. 카를로스, 쇼에 오신 것을 환영합니다. 고마워 친구. 기쁨.
+- **[How to Write an Effective Resume](https://www.youtube.com/watch?v=_cltc-AZDcQ)** — 2024-05-06 · ko · `unclassified`
+  안녕하세요 여러분, 최신 커리어 토크에 오신 것을 환영합니다. 오늘은 커리어 전략가이자 커리어 코치이며, ' 탑노치 이력서(Top-Notch Resumes)'와 '탑노치 인터뷰(Top-Notch Interview)'의 설립자인 린다 레어 씨를 모셨습니다. 린다 씨, 안녕하세요. 앤드류 씨, 그리고 전 세계에서 오신 모든 분들께도 인사드립니다. 네, 함께해 주셔서 정말 감사합니다. 이력서는 구직 활동의 기본 요소라고 할 수 있죠. 많은 사람들이 이력서 작성을 어려워하지만, 취업의 문을 여는 데 있어 매우 중요한 부분입니다. 자, 그럼 첫 번째 질문부터 드리겠습니다.
 
-- **[Clockify to Slack: Automate Your Workflow in Minutes](https://www.youtube.com/watch?v=obd5xYrSpmA)** — 2026-03-04 · ko · `AX`
-  Clockify에서 신규 고객이 생겼을 때 Slack 팀에 알림을 보내고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 수행하려면 Zap을 생성해야 합니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 Noode 앱 빌더를 사용하면 Zap을 처음부터 직접 만들 수 있고, Zapier의 새로운 AI 보조 기능을 사용하면 원하는 내용을 설명하기만 하면 됩니다 . " 클록파이에 새 고객이 등록되면 슬랙으로 메시지를 보내세요."와 같이 말할 수 있을 것 같습니다.
+- **[Successful Interview Strategies: How to Answer Any Question You're Asked](https://www.youtube.com/watch?v=8NDPNAP0L14)** — 2024-05-06 · ko · `unclassified`
+  안녕하세요 여러분, 커리어 토크에 오신 것을 환영합니다. 오늘 여러분께 아주 훌륭한 손님을 모셨습니다. 나는 그를 스크린에 등장시키고 싶다 . 그는 국제적인 경력 및 리더십 코치입니다. 그는 헤드헌팅 전문가이자 작가이며 유튜브 스타인 앤디 래시터입니다. 앤디, 쇼에 오신 것을 환영합니다 . 앤드류, 고마워. 정말 멋진 소개였네요. 감사합니다. 함께하게 되어 기쁩니다 . 그리고 오늘이 재향 군인의 날이라는 것도 알고 있습니다. 나라를 위해 헌신해주신 모든 분들께 감사드립니다. 그리고 나라를 위해 힘써주시는 모든 분들께 진심으로 감사드립니다.
 
-- **[Zapier MCP in Claude Chat: From Zero to Working Setup | Build Along Workshop](https://www.youtube.com/watch?v=ZlAr1wx_50c)** — 2026-03-02 · ko · `AX`
-  안녕하세요 여러분. 안녕하세요, 환영합니다. 이렇게 여러분 모두를 만나게 되어 정말 기쁩니다. 벌써 100명이 넘는 사람들이 모였어요. 몇 분 안에 몇몇 분들이 참여하실 거라는 걸 알고 있습니다. 자, 그럼 , 사람들이 들어오는 동안 채팅창에 두 가지 질문을 남겨주시겠어요? 우선, 전통적으로 어디에서 접속하셨는지 여쭤보겠지만, 제가 가장 중요하게 생각하는 것은 지난 48시간 동안 가장 맛있게 드신 음식입니다. 그러니까, 먹은 음식, 마신 음료, 들은 것, 본 것 중 무엇이 원인일 수도 있어요.
+- **[Top Expert Interview Tips](https://www.youtube.com/watch?v=Yggr4d1E718)** — 2024-05-06 · ko · `unclassified`
+  안녕하세요 여러분, 커리어 토크 최신 에피소드에 오신 것을 환영합니다! 오늘 게스트를 소개하게 되어 정말 기쁩니다. 스탠포드 경영대학원 교수님이시자, ' Think Faster Talk Smarter'의 저자이시며, ' Think Fast Talk Smart' 팟캐스트 진행자이기도 한 멋진 분, 맷 아브라함 교수님을 만나 뵙게 되어 반갑습니다. 앤드류, 안녕하세요! 오늘 이렇게 만나 뵙게 되어 정말 기쁘고, 오늘 대화도 기대됩니다. 많은 분들이 함께해 주셔서 감사하고, 그럼 바로 시작해 볼까요? 첫 번째 질문은 면접에서 좋은 인상을 남기는 방법, 즉 면접을 완벽하게 준비하는 방법에 대한 것입니다
 
-- **[Facebook Messages to ChatGPT | Automatically Respond to Messages](https://www.youtube.com/watch?v=NODRshstle4)** — 2026-02-27 · ko · `AX`
-  페이스북 메신저 답글을 작성할 때 채팅 GPT를 활용할 수 있으면 좋겠다고 생각하시나요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고 , Zapier의 새로운 AI 코파일럿을 사용하면 원하는 내용을 설명하기만 하면 됩니다. " 채팅 GPT를 사용하여 맞춤 답장으로 페이스북 메시지에 신속하게 답장하세요."와 같이 말할 수 있을 것 같습니다
+- **[Top Job Application Skills to Help Get You Hired](https://www.youtube.com/watch?v=N8xrgemiO3E)** — 2024-05-06 · ko · `unclassified`
+  안녕하세요 여러분, 커리어 토크 최신 에피소드에 오신 것을 환영합니다! 오늘 멋진 게스트 연사, 앤디 리타를 모시겠습니다. 두 번째로 출연해 주셨네요. 앤디는 국제적인 커리어 및 리더십 코치이자, 헤드헌터, 수상 경력에 빛나는 작가, 그리고 유튜브 스타입니다. 앤디, 환영합니다! 앤드류, 방금 좀 과장된 표현이었지만 좋네요. 좋습니다. 다시 한번 출연해 주셔서 감사합니다. 오늘 주제는 구직자로서 어떻게 고용주의 목표에 맞춰 영향력을 발휘할 것인가입니다. ' 영향력을 고용주의 목표에 맞춘다'는 것은 무엇을 의미할까요?
 
-- **[Can AI Make Recruiting More Human? Kristen Habacht on the Hiring Arms Race](https://www.youtube.com/watch?v=4soZ4Us4Ia0)** — 2026-02-26 · ko · `AX`
-  사실, 그들이 부정행위를 했든 말든 누가 신경 쓰겠어요 ? 이는 그들이 해당 도구를 사용하는 방법을 알고 있으며, 아마도 그런 방식으로 코드를 작성할 수 있을 것이라는 것을 보여줍니다. 앞으로는 사람들이 부정행위를 하든 말든 크게 신경 쓰지 않게 될 겁니다. 안녕하세요 여러분, Agents of Scale에 다시 오신 것을 환영합니다 . 이 프로그램은 인공지능을 단순한 유행어에서 기업의 핵심 기술로 탈바꿈시키는 경영진들을 만나 이야기를 나누는 프로그램입니다. 저는 WDE 포스터입니다. 저는 Zapier의 공동 창업자 겸 CEO입니다
+- **[Introducing Games on LinkedIn](https://www.youtube.com/watch?v=o0ty2s9Bdus)** — 2024-05-01 · ko · `unclassified`
+  [음악] 예스 오 [음악]
 
-- **[Quickbooks to Stripe Integration: Never Manually Create Receipts Again](https://www.youtube.com/watch?v=fQSpM72NAFc)** — 2026-02-25 · ko · `AX`
-  때마다 QuickBooks에서 영수증을 생성할 수 있도록 하고 싶으신가요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음부터 Zap을 만들 수 있고 , Zapier의 새로운 AI 보조 기능을 사용하면 원하는 내용을 설명하기만 하면 됩니다 . "퀵북스 온라인에서 새로운 스트라이프 결제에 대한 영수증을 생성하세요."와 같이 말할 수 있을 것 같아요.
+- **[That's Premium | Interview | LinkedIn](https://www.youtube.com/watch?v=z59xfe1iYSQ)** — 2024-02-22 · ko · `unclassified`
+  [음악] 실례합니다 [음악] 다음
 
-- **[Microsoft Teams and ChatGPT: Automate Your Entire Workflow](https://www.youtube.com/watch?v=-jeuAHLPGRc)** — 2026-02-23 · ko · `AX`
-  Microsoft Teams로 양식 데이터 요약을 보내는 데 채팅 GPT를 활용할 수 있으면 좋겠다고 생각하시나요 ? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 코드 없는 앱 빌더를 사용하면 처음 부터 Zap을 만들 수 있습니다. 또는 Zapier의 새로운 AI 보조 기능을 사용하면 원하는 것을 설명하기만 하면 됩니다.
+- **[What my day-to-day looks like as a recruiter | Role Models](https://www.youtube.com/watch?v=AHy4SmQjhRU)** — 2023-11-28 · ko · `unclassified`
+  제 첫 직장 상사가 정말 좋은 조언을 해줬어요. FSO(Frequent Service Officer)는 그냥 알아서 잘 해나가는 거예요. 적절한 사람들을 찾아내고, 이야기를 나누고, 과정을 파악하는 거죠. 그냥 알아서 하면 돼요. [음악] 제 이름은 조나단이고, 저는 채용 담당자입니다. 부모님은 이민자세요. 대만에서 오셨는데, 아마 부모님이 가장 고생하셨던 것 같아요. 굉장히 가난하셨거든요. 학교에서 아시아인은 저를 포함해서 두세 명밖에 없었어요. 그래서 어릴 때부터 적응하고 인생을 헤쳐나가는 게 쉽지 않았죠. 어렸을 때는 우주 비행사가 되고 싶었어요.
 
-- **[OneNote and ChatGPT | Form Responses Into Summaries Automatically? Here's How](https://www.youtube.com/watch?v=QlSpLzErcR4)** — 2026-02-18 · ko · `AX`
-  채팅 GPT를 사용하여 양식 데이터를 OneNote 페이지로 요약할 수 있으면 좋겠다고 생각하시나요? Zapier를 사용하여 자동으로 처리하는 방법을 보여드리겠습니다. 이 작업을 위해 Zap을 만들고 싶습니다. Zapier에서 Zap은 다양한 앱을 연결하고 자동으로 연동되도록 하는 간단한 방법입니다. Zapier의 Noode 앱 빌더를 사용하면 Zap을 처음부터 직접 만들 수 있고, Zapier의 새로운 AI 보조 기능을 사용하면 원하는 내용을 설명하기만 하면 됩니다 . 새로운 Google 설문지가 작성되면 chatpt를 사용하여 데이터를 요약하고, 그 요약 내용을 OneNote 계정에 기록하면 워크플로가 자동으로 구축된다고 말할 수 있을 것 같습니다
+- **[My passion for fitness helped me build a company | Role Models](https://www.youtube.com/watch?v=ZBICNwpXexY)** — 2023-11-21 · en · `unclassified`
+  - Losing all of the weight that I did I think helped me to look like who I saw on the inside, and that's something that I think makes me feel good. (upbeat music) Hi, my name is Joey Kane. I am a digital marketer, and I own a fitness company.
 
-- **[[AMA] Kickstart Your AI Fluency: Exec Ops & HR Transformation with Zapier and Zoominfo](https://www.youtube.com/watch?v=jONuMTU-_uM)** — 2026-02-16 · ko · `AX`
-  여러분, 안녕하세요. 어서 오세요. 어서 오세요. 채팅창에 남겨주세요. 어디 에서 전화하고 계신가요? 데보라가 타이핑하는 게 보여요. 많은 분들이 알고 계시는 사랑스러운 팀 동료 에밀리 메이비가 위스콘신주 매디슨에서 우리의 시작을 알립니다 . 너무 맛있어요. 어서 오세요. 어서 오세요. 마음에 들어요. 밴쿠버, 미니애폴리스, 그 외 모든 곳. 채팅창에 올려주세요. 모두 와주셔서 정말 반가워요 . 저희는 Satu와 Courtney와의 멋진 AMA로 AI 활용 능력 시리즈를 마무리합니다 . 저는 브라이스 버논입니다. 저는 테네시주 내슈빌에서 전화하고 있습니다
+- **[My brand designed to empower marginalized groups | Role Models](https://www.youtube.com/watch?v=jtG9flILqR8)** — 2023-11-14 · ko · `unclassified`
+  흑인 레즈비언 여성으로서 사람들은 당신을 틀에 가두고, 할 수 있는 것과 할 수 없는 것을 정해줍니다. 저는 항상 그 틀을 깨부수고 다녔습니다. 제 이름은 다이샤 BH 휴머이고, 언디파인드 클로딩( Undefined Clothing)의 오너이자 기업가입니다. 언디파인드는 LGBTQIA+ 흑인 및 유색인종 커뮤니티를 위해 특별히 디자인된 의류 회사입니다. 저희가 디자인하는 모든 제품은 해당 그룹의 문화, 정체성, 그리고 신념을 반영하여 제작됩니다. 저는 기존에 옷이 만들어지지 않았던 사람들을 위해 옷을 만드는 것을 좋아합니다.
 
-- **[He Got Promoted?! | The Bailey Zappe x Zapier Finale](https://www.youtube.com/watch?v=NozXrp0a9Qs)** — 2026-02-13 · ko · `unclassified`
-  죄송합니다. 회의 위원회는 무작위로 구성됩니다. 그는 승진했다. 위에서부터. 아니요, 위에서부터는 아닙니다. 넌 10살 같아. 넌 30살 같아. 우리 둘 다 직업이 있어. 우리는 5시에 마음을 터놓고 이야기해요. 노조 규정. 싹둑싹둑. 비시즌 아르바이트는 최악이에요. 그에게 축구공이나 다른 장난감을 사줄까요? 아직 진행 중입니다. 감사합니다.
+- **[How I built a business around bubbles | Role Models](https://www.youtube.com/watch?v=Uad4TsEldiY)** — 2023-11-08 · ko · `unclassified`
+  저에게 진정한 영감을 준 것은 업계 전체를 완전히 뒤바꿔 사람들과 반려동물에게 진정한 행복을 가져다줄 수 있는 기회였고, 링크드인이 그 과정에서 큰 도움이 되었습니다. 저는 제이슨 타이거입니다. 저는 먹을 수 있는 안전한 비눗방울을 전문으로 하는 버블 유니버스의 창립자입니다 . 요즘 비눗방울 놀이를 하는 사람들은 비눗방울이 눈에 들어가거나 피부에 닿거나 입에 들어가는 경우가 많은데, 비눗방울은 원래 그런 용도로 만들어진 게 아닙니다. 전통적인 거품은 걸쭉한 세제 성분과 비눗물로 만들어집니다.
 
 ## Databricks (62건)
 
@@ -2548,6 +3038,191 @@
 
 - **[Why Manual Security Operations are Failing in 2026 | Ali Ghodsi at RSAC](https://www.youtube.com/watch?v=KPPW0KYtePQ)** — 2026-04-09 · ko · `unclassified`
   저희는 여기서 다섯 가지 종류의 보고서를 검토했습니다. 그러니까, 이건 규모가 적당한 조직에서 매주 받는 평균적인 보안 경고 수입니다. 좋아요? 그리고 2020년에는 주당 약 7,500건의 알림이 발생했습니다. 그래서 우리는 매주 7,500건의 알림을 받습니다. 좋아요, 그럼 2026년에는 몇 도일까요? 매주 32,000건의 알림이 발생합니다. 좋아요? 추산에 따르면 이러한 알림 하나를 확인하는 데 평균 약 30분이 소요됩니다 . 따라서 매주 16,000시간을 일에 할애해야 합니다 . 그러니까 일반적인 조직에서 모든 알림을 제대로 검토하려면 기본적으로 400명 이상의 인력이 필요하다는 거죠 .
+
+## AWS Developers (61건)
+
+- **[The Only Networking You Need to Start Building on AWS](https://www.youtube.com/watch?v=Ah8rrgOq-c8)** — 2026-07-23 · ko · `unclassified`
+  오늘날 AWS에서 개발을 시작하는 데 심도 있는 네트워킹 지식이 필요한 것은 아닙니다 . VPC, 서브넷, 라우팅, 인터넷 게이트웨이, 보안 그룹 등 네트워킹 관련 요소들이 너무 많아서 헷갈리기 쉽습니다. 하지만 동네를 머릿속으로 그려보는 것만으로 이 모든 것을 아주 쉽게 이해할 수 있는 방법이 있다고 말씀드리면 어떠시겠어요? 이번 영상에서는 AWS를 시작하는 데 필요한 최소한의 네트워킹 지식을 단계별로 보여드리겠습니다. 자, 이제 그 동네로 들어가기 전에 , 여러분이 기억해 두셨으면 하는 간단한 질문 하나를 드리겠습니다
+
+- **[Build AI Agents on AWS in Under 10 Minutes (Bedrock, Strands, AgentCore)](https://www.youtube.com/watch?v=igsklrIO3fo)** — 2026-07-21 · ko · `AX`
+  노트북에서 AI 에이전트를 로컬로 작동시키는 것은 쉬운 부분입니다. 다른 사람들이 24시간 내내 사용할 수 있도록 실제 장소에 설치해야 합니다. 바로 그 지점에서 흥미로운 일들이 벌어집니다. 다음 9분 동안 AWS의 세 가지 핵심 구성 요소인 Bedrock, Strands 및 Agent Core에 대해 설명드리겠습니다. 노트북에 있는 에이전트를 실제 운영 환경으로 옮기는 과정을 보여드리겠습니다. 모든 요원에게는 두뇌가 필요합니다. 뇌는 거대한 언어 모델, 즉 LLM입니다. 그 부분은 당신의 요청을 읽고 어떻게 해야 할지에 대한 이유를 설명하는 부분입니다
+
+- **[Deploying Agents to the Cloud](https://www.youtube.com/watch?v=S_ZRZFDJ6wE)** — 2026-07-14 · en · `AX`
+  So far, everything we've built has been running on my local machine. Now, we're going to deploy it to the cloud. You can package a Strand's agent into a container and run it anywhere, but in this video, we'll deploy it to AWS using Amazon Bedrock Agent Core. Agent Core is a collection of components for building, deploying, and operating AI agents in production.
+
+- **[Evaluating Agents](https://www.youtube.com/watch?v=rDtcfG4aZV4)** — 2026-07-14 · ko · `AX`
+  담당 에이전트가 실제로 효과가 있는지 어떻게 알 수 있을까요 ? 그리고 더 중요한 것은, 신속한 변경, 모델 교체, 도구 업데이트 또는 배선 수정이 상황을 개선했는지 악화시켰는지 어떻게 측정할 수 있을까요 ? AI 에이전트는 비결정성 때문에 기존 소프트웨어 테스트 방식이 금방 한계를 드러냅니다. 동일한 입력값이 실행마다 다른 출력값을 생성할 수 있으며, 에이전트 오류는 상당수 포착하기 어렵습니다. 답변이 돌아올 수는 있지만, 품질이 낮거나, 안전하지 않거나, 불완전하거나, 정책을 위반하거나, 미묘하게 잘못되었을 수 있습니다.
+
+- **[Multi-Agent Patterns: Agent Swarms](https://www.youtube.com/watch?v=yG-5rIJoh_8)** — 2026-07-14 · ko · `unclassified`
+  그래프에서는 에이전트의 실행 순서를 결정합니다. 기획자는 에이전트를 도구로 활용하여 누구에게 연락할지 결정합니다 . 하지만 만약 처음부터 올바른 구조를 모른다면 어떻게 해야 할까요? 운영 환경에서 발생하는 장애를 분류하는 시스템을 생각해 보세요. 첫 번째 담당자가 로그를 확인하고 데이터베이스 연결 오류를 발견하면 메트릭 분석가에게 인계하고, 메트릭 분석가는 연결 풀이 고갈되었음을 확인하고, 배포 검토자에게 인계하면 누군가가 30 분 전에 연결 풀 구성을 변경했음을 발견합니다. 그 그래프는 미리 그릴 수 없습니다.
+
+- **[Multi-Agent Patterns: Graph Workflows](https://www.youtube.com/watch?v=jDeV2V5fJUQ)** — 2026-07-14 · ko · `AX`
+  에이전트를 도구로 활용하는 패턴은 작업들이 독립적이고 에이전트가 최대한의 적응성을 갖도록 하려는 경우에 효과적입니다. 하지만 모든 작업량에 최적의 선택은 아닙니다. 에이전트 간의 직접적인 종속성을 표현하거나 특정 순서대로 실행되도록 보장하는 방법은 없습니다 . 그래프가 이 문제를 해결합니다. 에이전트의 실행 순서를 명시 적으로 정의할 수 있으며, 그래프의 각 노드는 완전한 에이전트입니다. 이러한 에이전트는 도구, MCP 서버, 기술, 플러그인 등 필요한 모든 것을 갖출 수 있습니다. 에이전트들은 상호 의존성을 나타내는 엣지를 통해 연결됩니다 .
+
+- **[Agent Plugins & Skills](https://www.youtube.com/watch?v=dnChw1mfc5M)** — 2026-07-10 · en · `unclassified`
+  So far, we've been learning the building blocks for building agent harnesses in isolation with small, focused examples. Now, we're going to start composing those primitives into something more realistic. We're going to build out a customer service agent and use it as one of the examples over the next few videos. One of the common issues with building a larger agent systems, especially things like customer support agents, is that your system prompt basically never stops growing.
+
+- **[Context Engineering & Conversation Management](https://www.youtube.com/watch?v=6zbbYm902MQ)** — 2026-07-10 · ko · `unclassified`
+  컨텍스트 관리에 대해 이야기해 봅시다. 컨텍스트 관리는 에이전트 하네스의 핵심 책임 중 하나입니다. 모든 도구 호출, 도구 결과, 수정 사항, 요약, 사용자 메시지 및 모델 응답은 토큰을 소모하고 컨텍스트 창의 공간을 차지합니다. 컨텍스트 제한에 도달하기 전에도, 컨텍스트 크기가 너무 크면 지연 시간과 비용이 증가하고 추론 품질이 저하되는 경우가 많습니다 . 에이전트의 실행 시간이 길어지고 기능이 향상됨에 따라 컨텍스트 엔지니어링은 해결해야 할 주요 아키텍처 문제 중 하나가 됩니다.
+
+- **[Improve Agent Reliability with Strands Steering](https://www.youtube.com/watch?v=5rwTCUFV4Ak)** — 2026-07-10 · ko · `AX`
+  지난 영상에서는 환불, 주문 추적, 계정 문제 해결 능력을 갖춘 고객 서비스 상담원을 만들었습니다. 작동은 되지만, 여러 번 실행하다 보면 결국 불편한 점을 발견하게 될 겁니다. 상담원이 지시사항을 항상 일관되게 따르지는 않습니다 . 때때로 환불 대상 주문인지 여부를 먼저 확인하지 않고 환불을 처리하는 경우가 있습니다 . 어떤 경우에는 주문 내역 조회를 완전히 건너뛰고 그냥 추측하기도 합니다. 그리고 때로는 고객 지원 상호 작용치고는 응답 어조가 지나치게 가벼운 경우가 있습니다.
+
+- **[Multi-Agent Patterns: Agents as Tools](https://www.youtube.com/watch?v=_QcD5KBe3ZQ)** — 2026-07-10 · ko · `AX`
+  다중 에이전트 아키텍처는 다양한 용도로 유용합니다. 메인 에이전트의 컨텍스트에서 노이즈가 많은 도구를 분리하거나, 연구, 글쓰기, 코드 생성처럼 각기 다른 전문성이 필요한 작업을 구분하고 싶을 수도 있습니다. 또는 워크플로의 각 단계에 따라 비용을 최적화하기 위해 서로 다른 모델을 사용하거나, 특수 기능을 갖춘 특정 모델을 도입하고 싶을 수도 있습니다. 다중 에이전트 아키텍처를 사용하면 각 에이전트가 한 가지 일을 잘 수행하도록 문제를 분해할 수 있습니다. 그리고 전반적인 시스템이 더 좋고 더 안정적입니다.
+
+- **[Persistent Memory with Session Managers](https://www.youtube.com/watch?v=HqGIYRXo6WE)** — 2026-07-10 · ko · `unclassified`
+  코딩 도우미, 고객 지원 담당자 또는 연구 도우미와 같은 단일 작업 도구 이상의 것을 구축하려면 에이전트 실행 또는 세션 간에 대화 기록이 유지되어야 합니다. Strands에서는 세션 관리자가 이를 처리합니다. 내장된 파일 세션 관리자를 사용하여 세션 정보를 로컬 파일에 저장하는 것부터 시작할 수 있습니다. 지금까지 사용해 온 고객 서비스 예시를 통해 코드를 살펴보겠습니다. 파일 세션 관리자를 가져옵니다. 그다음 세션 관리자의 새 인스턴스를 생성하고 세션 ID와 스토리지 디렉터리를 전달합니다.
+
+- **[Adding Callbacks & Response Streaming](https://www.youtube.com/watch?v=PtdHZBbm1Ys)** — 2026-07-08 · ko · `unclassified`
+  지금까지 우리가 구축한 모든 에이전트는 모델이 텍스트를 생성하는 대로 터미널로 스트리밍했지만 , 우리는 그 부분을 설정하지 않았습니다. 그렇게 하면 바로 사용할 수 있습니다. 하지만, 이것은 내부적으로 어떻게 작동하는 걸까요 ? Strands는 콜백 핸들러를 제공합니다. 콜백 핸들러는 텍스트 청크, 도구 호출, 수명 주기 신호 및 최종 결과와 같이 에이전트가 생성하는 모든 이벤트에 대해 호출되는 함수입니다. 기본 콜백 핸들러는 표준 출력으로 텍스트를 출력하고 해당 줄에 도구 사용 정보를 표시합니다.
+
+- **[Control Your Agent With Hooks](https://www.youtube.com/watch?v=Zamh36RWKz8)** — 2026-07-08 · en · `unclassified`
+  We've built an agent with tools, but when the&nbsp; agent decides to call a tool, it just calls it.&nbsp;&nbsp; There's nothing you can do about it.&nbsp; Models are getting smarter all the time,&nbsp;&nbsp; and they're very capable. But capability isn't&nbsp; the same as reliability. You can't guarantee&nbsp;&nbsp; the model won't do something destructive,&nbsp; call the same tool in an infinite loop,&nbsp;&nbsp; or pass bad inputs to a sensitive API without&nbsp; guardrails in place.
+
+- **[Give Your Agent Tools Using MCP](https://www.youtube.com/watch?v=Pucmy0GZkeI)** — 2026-07-08 · ko · `AX`
+  에이전트에게 여러 출처에서 제공되는 다양한 도구를 제공하는 것은 흔한 일이며, 에이전트는 주어진 작업을 해결하기 위해 필요에 따라 도구를 사용합니다 . Strands에서는 에이전트에게 도구 접근 권한을 부여하는 여러 가지 방법이 있습니다. 이미 내장된 벤트 도구를 사용하는 방법과 툴 데코레이터를 사용하여 파이썬 함수를 도구로 바꾸는 방법을 살펴보았습니다 . 또 다른 패턴은 MCP입니다. MCP( Model Context Protocol)는 에이전트가 외부 기능을 일관된 방식으로 검색하고 상호 작용할 수 있도록 하는 개방형 표준입니다 .
+
+- **[How AI Agents Really Work](https://www.youtube.com/watch?v=ZpXWGjISMs8)** — 2026-07-08 · ko · `AX`
+  인공지능 모델은 끊임없이 더욱 강력해지고 있습니다. 그들은 복잡한 문제를 추론하고, 코드를 작성하고, 데이터를 분석하고, 결정을 내릴 수 있습니다. 하지만 그러한 기능 만으로는 실제 생산 현장에서 유용하게 사용할 수 있는 것은 아닙니다 . 모델 자체는 상태를 가지지 않습니다. 이 프로그램은 하나의 요청을 처리하고 완료 결과를 생성한 다음, 다음 차례가 오기 전에 모든 것을 잊어버립니다. 이 시스템은 현실 세계에서 자체적으로 행동을 취하거나 실시간 정보에 접근하거나 여러 단계로 이루어진 워크플로를 조정할 수 없습니다
+
+- **[Switching Model Providers](https://www.youtube.com/watch?v=NAEX4ORLkbQ)** — 2026-07-08 · ko · `unclassified`
+  모델마다 장점이 다릅니다. 일부는 코딩 작업이나 장시간 실행되는 워크플로에 최적화되어 있는 반면, 다른 일부는 계획 수립, 심층 연구에 더 적합 하거나 속도와 낮은 지연 시간 작업에 최적화되어 있습니다. 구축하는 에이전트 시스템이 더욱 정교해짐에 따라, 동일한 시스템 내에서 서로 다른 에이전트에 서로 다른 모델을 적용하는 것이 일반적입니다. 오케스트레이션에는 하나의 모델을 , 특수 코딩 작업에는 다른 모델을, 검증 또는 평가 단계에는 또 다른 모델을 사용할 수 있습니다.
+
+- **[5 Security Layers Every Frontend Dev Needs](https://www.youtube.com/watch?v=tmGiEG8a2Io)** — 2026-07-02 · ko · `unclassified`
+  여러분의 프런트엔드 앱이 생각만큼 안전하지 않을 수도 있습니다. 이 영상에서는 흔히 저지르는 보안 실수 몇 가지와 사람들이 착각하기 쉬운 몇 가지 잘못된 상식, 그리고 프런트엔드 보안이 계층적으로 구축되어야 하는 이유에 대해 살펴보겠습니다. 제가 무슨 말인지 보여드리겠습니다. 자, 이건 제가 만든 간단한 React 앱입니다. 겉보기엔 괜찮아 보이지만, 몇 가지 문제가 있습니다. 제가 보여드리겠습니다 . 위 알림에서 보셨듯이, 이는 전형적인 크로스 사이트 스크립팅 공격의 예입니다. 공격자가 자신의 자바스크립트 코드를 몰래 삽입하고 브라우저가 이를 실행할 때 발생합니다.
+
+- **[Containers on Amazon ECS with Mama J](https://www.youtube.com/watch?v=U2wmozx3uwM)** — 2026-06-29 · ko · `unclassified`
+  저희 엄마는 제 모든 영상을 보십니다. 그녀는 그것들이 무슨 뜻인지 정확히는 모르지만, 그것들을 지켜본다. 그리고 보통 저는 서버리스에 대해 이야기하고 있습니다. 몇 달 전에 ' 마마 J와 함께하는 서버리스'라는 제목의 서버리스 관련 영상을 제작할 수 있는 정말 멋진 기회가 생겼는데, 거기서 제가 서버리스에 대해 설명했어요. 그리고 저희는 또 하나를 완성했습니다. 이 시리즈의 제목은 ' 마마 J와 함께하는 컨테이너'입니다. 이번 편은 두 번째 이야기입니다. 이번 시간에는 컨테이너에 대해 이야기하고 설명해 드리겠습니다
+
+- **[System Design for Beginners (Full Guide)](https://www.youtube.com/watch?v=BAVrwcPDa-k)** — 2026-06-26 · en · `unclassified`
+  Getting started [music] with system design can be overwhelming. Since it not only involves having the technical basis to make informed decisions, but also having a deep understanding of the problem you want to solve. Today, we're going to solve a classic interview system design problem. And by the end, you have a repeatable framework for any system design question. First things first, what is system design?
+
+- **[Your AI Agent Needs a Tool](https://www.youtube.com/watch?v=22E0bXQwwZ8)** — 2026-06-23 · en · `AX`
+  An AI agent without tools is useless, and I'll prove it to you. Let's look at this code here. I'm running a [music] strands agents, which is an open source agentic framework, and I'm asking a very basic question. [music] I'm flying to Vegas this month, and what's the weather going to be like? When I run this code, [music] we will see that strands, the agent, is trying to figure out what's happening.
+
+- **[Agent Toolkit for AWS Explained in 2 Minutes](https://www.youtube.com/watch?v=PGrmbZ1TDmA)** — 2026-06-16 · en · `unclassified`
+  The toolkit has four parts. The AWS MCP server is a managed endpoint your agent connects to through the model context protocol. It gives your agent access to current AWS documentation, &gt;&gt; [music] &gt;&gt; not just training data, the actual docs searched in real time. And it lets your agent make authenticated AWS API calls using your IAM credentials. The calls go through the managed server, they get validated, and then they all land in CloudTrail.
+
+- **[Running Claude Code on Amazon Bedrock](https://www.youtube.com/watch?v=sAYmTv6nKSY)** — 2026-06-16 · ko · `AX`
+  전 세계 개발자들이 앤스로픽 의 클로드 코드(Claude Code)와 같은 AI 코딩 도구가 일상 업무를 어떻게 변화시켰는지 이야기하고 있으며, 그 결과 그 어느 때보다 많은 제품을 출시하고 있습니다. 하지만 일부 개발자는 데이터 상주, 청구 또는 규정 준수 문제로 인해 이러한 도구를 사용할 수 없습니다. 이제 Amazon Bedrock을 통해 AWS 내에 호스팅된 모델을 사용하여 Claude Code를 실행할 수 있습니다 . 즉, Claude Code를 사용하면서도 보안, 규정 준수 및 비용 관리 요구 사항을 충족할 수 있습니다
+
+- **[AI and the Job Market in 2026](https://www.youtube.com/watch?v=0nR3wYm602c)** — 2026-06-09 · ko · `unclassified`
+  지금 IT 업계에 대량으로 지원하고 있는 시청자라면, AI가 자기 소개서와 이력서를 작성해 줄 뿐만 아니라, 이력서를 검토하고 과제까지 내준다는 사실에 의아해할 수도 있을 겁니다 . 그렇다면 이처럼 모든 측면에 인공지능이 개입된 상황에서 어떻게 하면 진정으로 두각을 나타낼 수 있을까요 ? 기술 업계에는 사람들과 소통하고 네트워킹하는 것이 그다지 중요하지 않다는 인식이 널리 퍼져 있는 것 같은데, 솔직히 저는 그 의견에 전혀 동의할 수 없습니다. 그게 눈에 띄는 가장 쉬운 방법이라고 생각해요 .
+
+- **[5 Tips for Deploying AI Agents to Production](https://www.youtube.com/watch?v=j1wfE0SOBbE)** — 2026-06-02 · ko · `AX`
+  만약 여러분이 상용화를 위해 TypeScript 기반의 AI 에이전트를 개발하고 있다면 , 이 내용을 먼저 들어보셔야 합니다. 너무 많은 에이전트가 엔드포인트가 완전히 개방된 상태로, 비용 관리 장치도 없고, 테넌트 격리도 없으며, 실질적인 관찰 가능성도 거의 없는 상태로 프로덕션 환경에 배포되고 있습니다. 이러한 문제들을 해결하는 다섯 가지 모범 사례를 보여드리겠습니다 . 상담원이 도구에 전화를 걸면 응답이 오는 데 5초, 10초, 15초 정도 걸릴 수 있습니다.
+
+- **[Infrastructure as Code for Beginners (AWS CDK)](https://www.youtube.com/watch?v=TXQpWbH56q8)** — 2026-05-27 · ko · `unclassified`
+  클릭을 멈추자 모든 게 이해되기 시작했어요. 이유는 다음과 같습니다. 아, 드디어 끝났네요. 세 가지 AWS 서비스, DynamoDB 테이블, Lambda 함수, API Gateway를 모두 구성하고 연결하고 배포했습니다. 클릭과 스크롤을 엄청나게 많이 해야 했지만 , 적어도 다시는 이 작업을 반복할 필요가 없다는 게 다행입니다. 롭, 클라이언트가 스테이징 환경 승인을 방금 마쳤어. 미국 서부 2 서버에서도 동일한 API 스택을 구축할 수 있습니까 ? 그러니까, 동일한 스택, 동일한 구성, 동일한 권한인데, 단지 하루가 끝날 때쯤에만 그런다는 거죠.
+
+- **[Stop AI Hallucinations With These 5 Techniques](https://www.youtube.com/watch?v=O-QEhFFhXNA)** — 2026-05-22 · ko · `AX`
+  AI 에이전트가 응답할 때마다 입력되는 단어 수와 출력되는 단어 수에 따라 비용이 발생합니다. 청구서에서 통화 토큰 내역을 확인하실 수 있습니다. 보내는 토큰이 많을수록 지불해야 하는 금액도 많아집니다. 만약 입력한 정보가 정확하지 않거나, 너무 많거나, 중요한 내용이 빠져 있다면, AI 에이전트는 환각 증세를 보이기 시작합니다. 토큰 낭비를 줄이고 정확도를 높이며 사용자가 오류를 발견하기 전에 오류를 감지하는 데 도움이 되는 5가지 [음악] 기술이 있습니다. 따라서 각각은 코드 변경이며, 프롬프트 변경은 아닙니다.
+
+- **[Learn AWS IAM in less than 10 minutes](https://www.youtube.com/watch?v=9Pk2J_5qnlk)** — 2026-05-20 · ko · `unclassified`
+  AWS 초보자라면 누구나, 보통 첫 주 안에 저지르는 흔한 실수가 하나 있습니다. 접근 불가. 대부분의 사람들이 택하는 해결책인 관리자 권한 획득은 최악의 선택입니다 . 저는 초반에 알아챘어요. Lambda 함수를 생성하고 S3 버킷에서 데이터를 읽어오려고 했는데 , 접근이 거부되었습니다. 버킷 설정을 잘못했거나 이름을 잘못 입력한 것이 아닙니다. 사실, 저는 IAM을 이해하려고 시간을 내지 않았습니다. 그래서 나도 다른 사람들처럼 행동했어요. 관리자 권한을 부여했습니다. 오류가 사라졌고, 저는 다음 단계로 넘어갔습니다.
+
+- **[Become an AI Native Cloud Engineer](https://www.youtube.com/watch?v=ZkzkdhmcIVQ)** — 2026-05-18 · ko · `unclassified`
+  대학 졸업한 지 거의 8 년이 됐어요. 그래서 어떤 분들에게는 제가 좀 생김새가 이상하게 보일 수도 있겠네요. 하지만 오늘날 인공지능이 할 수 있는 일이 워낙 많다 보니 , 오늘 졸업한다면 불안감을 느낄 것 같습니다. 하지만 좋은 소식은, 저희는 여전히 경력이 짧은 엔지니어와 건설업자를 채용한다는 것입니다 . 신입 졸업생이거나 경력 전환을 희망하는 분이라면, AI 시대에 클라우드 환경에서 일할 때 알아두면 유용한 몇 가지 실용적인 사항을 소개합니다 .
+
+- **[Agents Are Just Loops](https://www.youtube.com/watch?v=3zvWHe94xCY)** — 2026-05-13 · ko · `AX`
+  설정 코드 두 줄, 함수 하나, 그리고 호출 한 줄. 저것은 제대로 작동하는 AI 에이전트입니다. 질문을 받으면 계산기가 필요하다는 것을 파악하고 , 파이썬 함수를 호출하여 답을 얻은 다음 응답합니다. 모든 게 바로 여기 있어요. 두 줄의 설정 코드, 눈 감고도 작성할 수 있을 만큼 간단한 함수, 그리고 단 한 번의 호출이면 충분합니다. 현재 AI 에이전트에 대해서는 알려지지 않은 부분이 많습니다.
+
+- **[Introducing Agent Toolkit for AWS](https://www.youtube.com/watch?v=d1GHVtEFy2A)** — 2026-05-06 · ko · `unclassified`
+  코딩 에이전트는 똑똑하지만, AWS는 어떤 모델 학습 데이터보다도 훨씬 빠르게 새로운 서비스를 출시합니다 . 심지어 똑똑한 모델조차도 적절한 지침이 없으면 여러 단계를 거치는 AWS 워크플로에서 오류를 범할 수 있습니다. 그들은 중요한 IAM 권한을 건너뛰 거나 6개월 전에 변경된 API를 호출할 것입니다 . AWS용 에이전트 툴킷은 [음악] 그러한 격차를 해소합니다. 기존에 사용 중인 코딩 에이전트와 연동하여 AWS 환경에 대한 실시간 컨텍스트와 단계별 지침을 제공합니다 . 오늘은 음악이 실제로 어떤 역할을 하는지 보여드리고 싶습니다
+
+- **[Amazon EKS Auto Mode | Fully Automated Kubernetes Clusters](https://www.youtube.com/watch?v=s9d61eYkGzs)** — 2026-05-05 · ko · `unclassified`
+  일반적으로 소프트웨어 개발자들이 쿠버네티스 클러스터 작업을 시작할 때 가장 먼저 직면하는 일반적인 어려움은 무엇이라고 생각하십니까? 아시다시피 , 쿠버네티스를 처음 시작할 때 어려움을 느낄 수 있는 요소들이 너무 많아서 좋은 질문입니다. 네, 쿠버네티스의 강력한 기능 중 하나는 이를 통해 다양한 작업을 수행할 수 있다는 점이지만 , 그만큼 복잡성도 높아집니다. 그래서 제가 보기에 고객들이 가장 어려워하는 부분 중 하나는 클러스터를 구성하고 실행하는 것입니다.
+
+- **[You Deleted Everything and AWS Is Still Charging You](https://www.youtube.com/watch?v=NJ6F0atWKpM)** — 2026-05-01 · ko · `unclassified`
+  음악 파일을 전부 삭제했는데도 AWS에서 계속 요금을 청구하나요? 저건 제가 클라우드 기술을 처음 접했을 무렵, 꽤 오래전 모습입니다. AWS에 데이터베이스, EC2 인스턴스 몇 개, S3 버킷 등을 설정했습니다. 작업이 끝나자 모든 것을 삭제했습니다 . 콘솔에 "삭제 중"이라고 표시되었습니다. 나는 내가 잘할 거라고 생각했어. 그러다 예상치 못한 청구서를 받았습니다. 그리고 저만 그런 게 아니라는 걸 알고 있어요. 저는 클라우드 기술을 실험해보고 싶어하는 컴퓨터 공학 전공 학생들과 개발자들과 정기적으로 이야기를 나눕니다.
+
+- **[AgentCore Managed Harness: Getting Started](https://www.youtube.com/watch?v=sCRPT6dRE4k)** — 2026-04-29 · ko · `AX`
+  브라우저를 열고 최신 주요 기술 뉴스를 수집하여 영구 파일 시스템에 저장한 다음 , 작업이 완료되면 매일 저에게 메시지를 보내는 에이전트를 실행하고 있습니다 . 아니요, 저는 오픈클로를 사용하지 않았고, 자체 API를 작성하지도 않았으며, 전체 오케스트레이션 레이어를 구축할 필요도 없었고, 컨테이너를 설정하거나 스토리지를 연결할 필요조차 없었습니다 . 전체 에이전트 루프는 구성 파일과 시스템 프롬프트를 사용하여 구축되었습니다 . 그것이 바로 에이전트 코어의 관리형 하네스입니다 . 어떻게 작동하는지 보여드리겠습니다.
+
+- **[SQL Full Course - Build a Database and Deploy It](https://www.youtube.com/watch?v=NYEd5a_p9j8)** — 2026-04-24 · ko · `unclassified`
+  대부분의 앱을 구동하는 조직 유형 중 하나인 관계형 데이터베이스에 대해 이야기해 보겠습니다. 기술 업계에서 진정으로 오래 지속되는 관계는 이것들뿐입니다. 믿기 어려우시겠지만, 여러분이 사용하는 모든 앱과 웹사이트를 구동하는 기술은 월드 와이드 웹보다 더 오래되었습니다 . 오늘날 여러분이 사용하는 모든 앱은 1970년대 기술을 기반으로 작동하며, 아직 아무도 그 기술을 대체하지 못했습니다. 오늘 하루 동안 스마트폰을 몇 번이나 터치했는지 생각해 보세요. 스크롤하고, 좋아요를 누르고, 게시물을 올리고, 주문하는 데 시간을 쏟았겠죠.
+
+- **[Build an AI Agent From Scratch With Python](https://www.youtube.com/watch?v=jcpZU2vyrf4)** — 2026-04-22 · ko · `AX`
+  요즘은 다들 AI 에이전트에 대해 이야기하고 있어요. 이러한 프로그램들은 우리가 입력한 정보를 바탕으로 스스로 추론하고, 결정을 내리고, 행동을 취할 수 있습니다 . 그리고 우리 대부분은 키로(Kiro)나 키로 CLI, 클로드 코드(Claude code)와 같은 애플리케이션 및 코드 작성에 도움을 주는 에이전트에 대해 이야기하고 있습니다. 하지만 이 영상에서는 여러분이 직접 에이전트를 만들어 볼 수 있습니다. 하지만 그 전에, 에이전트를 구성하는 요소는 무엇일까요? 우리는 먼저 두뇌 또는 모델, 즉 에이전트가 입력받는 내용을 처리할 수 있도록 자연어 지능을 제공하는 대규모 언어 모델부터 시작합니다.
+
+- **[What is an Agent Harness? (And How We Built One)](https://www.youtube.com/watch?v=hcm5zIWASCM)** — 2026-04-17 · ko · `AX`
+  문서를 업데이트하고 제대로 작동하는지 확인하는 것은 엔지니어의 업무 중 가장 재미있는 부분은 아닙니다 . 최근에 저와 한 엔지니어는 Agent Core용 새 CLI와 연동되도록 문서를 업데이트해야 했는데, 에이전트를 사용해서 이 작업을 훨씬 빠르게 진행할 수 있었습니다. 우리는 에이전트가 AWS 계정에 액세스하고, 작성된 CLI 명령을 실행하고, 오류를 보고할 수 있도록 에이전트를 중심으로 하는 시스템을 구축했습니다. 에이전트 하네스는 모델과 현실 세계 사이의 제어 계층을 정의하는데, 그렇다면 에이전트 하네스란 정확히 무엇일까요?
+
+- **[Amazon Bedrock for Beginners – From First Prompt to AI Agent (Full Tutorial)](https://www.youtube.com/watch?v=FAgmR9VV0GQ)** — 2026-04-14 · ko · `AX`
+  그러니까, 여러분은 애플리케이션에 생성형 AI를 추가하고 싶다는 거군요 . 스마트 비서를 만들고 싶 거나, 인공지능 기반의 사이드 프로젝트를 구상 중이실 수도 있습니다 . 겉으로 보기에는 간단해 보입니다. 모델을 호출하고 응답을 받으세요. 얼마나 어렵겠어요 ? 하지만 실제로 만들어보려고 하면 상황이 금세 복잡해집니다. 어떤 모델을 선택해야 할지 어떻게 알 수 있나요? 어떻게 안전하게 인증하나요? 올바른 요청이란 어떤 모습일까요? 비용을 어떻게 관리하고 예측하십니까? 그렇다면 인공지능이 외부 시스템과 상호작용할 수 있도록 하려면 어떻게 해야 할까요?
+
+- **[Intro to S3 Files](https://www.youtube.com/watch?v=zb8TdNJhZCk)** — 2026-04-10 · en · `AX`
+  Oh, hi. I didn't see you there. I'm just installing buckets on Amazon S3 over here and um you know, there's this great feature that came out today called S3 files. It's the ability to mount an S3 bucket as a file system, but not in your typical way. Well, you know what? Let me actually show it to you in action uh as soon as I just uh this.
+
+- **[How to Create a Free AWS Account (and earn up to $200 credits)](https://www.youtube.com/watch?v=PBU2XY2oCTU)** — 2026-04-09 · ko · `unclassified`
+  재밌는 건 이 영상이 완성되는 데 걸리는 시간이 제가 차에서 여기까지 걸어오는 데 걸린 시간보다 훨씬 짧을 거라는 거예요. AWS 계정을 처음 만들 때 모두가 알았으면 하는 사실이 하나 있습니다 . 올바른 방식으로 설정하면 200달러 상당의 크레딧과 6개월 무료 클라우드 컴퓨팅 혜택을 받을 수 있습니다 . [음악] 이 영상에서는 5분도 안 걸리는 시간에 그 방법을 보여드리고, 계정을 더욱 안전하게 만드는 보너스 단계도 알려드리겠습니다. 자, 시작해 볼까요? 좋습니다.
+
+- **[How Much Does Your AI Agent Actually Cost?](https://www.youtube.com/watch?v=tGQlowf5L-Q)** — 2026-04-07 · ko · `AX`
+  AWS에서 에이전트를 시험 사용 중이었는데, 어느새 2,000달러의 손해를 보고 CEO가 질문을 쏟아내고 있는 상황입니다 . 다음 배송 전에 이러한 문제를 예방할 수 있도록 도와드리겠습니다. [음악] 오늘은 AWS에서 개발 및 배포하는 AI 에이전트의 비용을 예측하고 추적하는 방법을 살펴보겠습니다 . 자, 여기서 한 가지 주의할 점은 이 영상에서 다루는 모든 내용은 AWS 서비스에 특화된 음악이라는 것입니다. 따라서 타사 도구 나 확장 프로그램을 사용하는 경우 해당 요소도 계산에 포함해야 합니다 .
+
+- **[CLI Tools Every Developer Should Know in 2026](https://www.youtube.com/watch?v=LCqa0bs2m7E)** — 2026-04-03 · ko · `unclassified`
+  음, 만약 제가 그냥... 흠. 현재 수신 대기 중인 포트를 보여주는 명령어, 좀 무섭게 생겼죠? 음, 무섭지 않아요. 사실 이것은 특정한 순서로 연결된 여러 개의 작은 명령어들이 모여서 만들어내는 멋진 결과물입니다. 요즘 명령줄 도구가 다시 유행이니까, 네. 이번 영상에서는 명령줄의 기본 사항 몇 가지를 알려드리고자 합니다 . 스위치가 뭐예요? 매개변수란 무엇인가요? 파이프가 뭐예요? 리다이렉션이란 무엇인가요? 이 영상의 마지막에는 이 모든 것들 과 더불어 제 하루, 그리고 어쩌면 여러분의 하루까지 조금 더 즐겁게 만들어 줄 정말 멋진 명령줄 유틸리티 몇 가지를 소개합니다.
+
+- **[AWS Dev Setup: Tools I Actually Use Every Day](https://www.youtube.com/watch?v=Ld7Fxyjzmw8)** — 2026-03-31 · ko · `unclassified`
+  AWS 계정을 생성하고 콘솔에 로그인했는데 200개가 넘는 서비스가 눈에 띄지만, 어디서부터 시작해야 할지 전혀 모르시겠나요? 개발자라면 터미널 에서 코드를 작성하고, 빌드하고, 배포하고 싶을 것입니다 . 이 영상에서는 명령줄을 사용하여 처음부터 실제 작동하는 앱을 만드는 과정을 보여드리겠습니다. 갑시다 . 자, 여기 AWS 콘솔이 있습니다. AWS 계정이 있다면 이미 이곳에 와보셨을 겁니다. 어디에 있는지 알아내려고 이것저것 클릭해 보셨을지도 모르겠네요. AWS 콘솔에서 할 수 있는 일이 아주 많습니다.
+
+- **[Event Driven Agents? Yeah, We Can Do That](https://www.youtube.com/watch?v=w5P1Ag_dUIU)** — 2026-03-26 · ko · `AX`
+  안녕. 맞춰보세요! 이벤트 기반 에이전트는 새로운 것이 아닙니다. 알아요. 알아요. 지난 몇 주 동안 사람들이 마치 그것이 아주 기발하고 새로운 아이디어인 것처럼 이야기하는 것을 계속 듣게 되었어요. 저도 그 흥분을 이해합니다. 하지만 문제는 이겁니다. 이벤트 기반 아키텍처는 꽤 오래전부터 존재해 왔습니다. 실제로 서버리스 기술 덕분에 EDA를 누구나 이용할 수 있게 되었습니다. 그리고 에이전트는요? 그것들은 그저 또 다른 업무일 뿐입니다. 그렇다면 이벤트 기반 에이전트를 구현할 수 있을까요? 네 , 물론 가능합니다.
+
+- **[The Caching Mistake Slowing Down Your AWS App](https://www.youtube.com/watch?v=epsjBkgZSSM)** — 2026-03-24 · ko · `unclassified`
+  데이터베이스는 상대적으로 속도가 느립니다. 이런 종류의 Rust로 실행되는 데이터베이스는 상대적으로 속도가 느립니다. 메모리 내 데이터베이스는 그렇지 않습니다. 아주 오래전, 몇몇 개발자들이 왜 회전식 Rust 데이터베이스 앞에 인메모리 데이터베이스를 배치하여 한 자릿수 밀리초의 지연 시간이라는 이상적인 결과를 얻을 수 없을까 하는 생각을 했습니다. 데이터베이스가 로드되어 데이터를 가져올 때까지 기다리는 대신, 특정 항목은 훨씬 더 빠른 방식으로 복원하거나 가져올 수 있습니다. [음악] 그게 바로 RAM입니다. 여러분, 캐싱에 대해 이야기해 봅시다. 그게 뭐죠?
+
+- **[Getting Started with EC2](https://www.youtube.com/watch?v=nJ-djerESW0)** — 2026-03-20 · ko · `unclassified`
+  처음 AWS를 시작했을 때, EC2를 배우는 데 많은 어려움을 겪었습니다. 가격이 저렴하고 대부분의 사용 사례에서 제대로 작동했기 때문에 모든 용도로 T3 마이크로를 선택했습니다. [음악] 하지만 AI 워크로드를 실행해 보려고 했을 때 문제가 생겼죠. EC2에서 로컬 추론을 수행하면서 모델을 미세 조정하려고 했는데, 문제가 발생했습니다 . 더 이상 임의의 인스턴스를 선택할 수 없었고, 실제로 해당 인스턴스 유형이 무엇을 의미하는지 알아야 했습니다. [음악] 이제 EC2는 AWS에서 구축하는 거의 모든 것의 기반이 됩니다.
+
+- **[AWS Lambda Durable Functions: Hands-On Tutorial](https://www.youtube.com/watch?v=M-R6JLS3I2k)** — 2026-03-17 · ko · `AX`
+  유튜브, 인스 타그램, 페이스북 같은 동영상 소셜 미디어 플랫폼이 영상을 게시하기 전에 어떻게 분석하는지 궁금해 본 적 있으신가요? 제 말은, 욕설이 있는지 같은 것들을 확인해야 한다는 거죠. 혐오 발언이 있나요? 혹시 , 좋든 나쁘든 뭔가 말하는 사람이 한 명이라도 있나요 ? 우리는 모릅니다. 하지만 저희는 영상을 확인하고 영상의 분위기가 어떤지 살펴보고 싶습니다. 인공지능의 발명과 이러한 기술의 등장으로 , 사람들이 모여 앉아 영상을 보고 " 이건 좋은 건지 나쁜 건지"를 판단하는 것보다 훨씬 쉬운 방법이 생겼습니다
+
+- **[S3 at 20: How AWS Built the Internet's Storage](https://www.youtube.com/watch?v=XmytPmyzDcs)** — 2026-03-13 · ko · `DX`
+  아마존 S3는 2026년 3월 14일에 20주년을 맞이합니다. S3는 여러분이 매일 사용하는 스마트폰보다도, 여러분이 즐겨 찾는 소셜 미디어 웹사이트보다도 역사가 오래되었습니다. 현재 S3는 500조 개 이상의 객체를 저장하고 초당 2억 건의 요청을 처리합니다. 곰곰이 생각해 보면 꽤 인상적인 일이죠 . 오늘은 아마존 S3의 놀라운 20년 여정을 개발자 의 관점에서 살펴보고 , 개발자에게 가장 중요한 S3 기능들을 알아보겠습니다.
+
+- **[I Explained Serverless to My Mom (She Got It)](https://www.youtube.com/watch?v=vg1Q1to4qoE)** — 2026-03-12 · ko · `unclassified`
+  저희 어머니는 몇 년 동안 유튜브에서 제가 발표한 영상들을 비롯한 여러 가지 영상들을 봐오셨습니다. 그리고 마침내 그녀가 제 옆에 앉아서 말했습니다. "에릭, 서버리스가 뭔지 알고 싶어요 . 사람들이 당신이 무슨 일을 하는지 물어봤는데, 제대로 설명해 주고 싶어요. 그 기술에 대해 어느 정도 이해하고 이야기하고 싶어요." 그래서 저는 저희 엄마, 저희가 '마마 J'라고 부르는 분과 함께 앉아서 ' 마마 J와 함께하는 서버리스'라는 세션을 가졌습니다. 서버리스에 대해 더 알고 싶으시다면, 함께 참여하셔서 즐거운 시간을 보내세요.
+
+- **[AI Browser Automation on AWS (Zero Setup)](https://www.youtube.com/watch?v=yF2jj4M_m4c)** — 2026-03-11 · ko · `AX`
+  그러니까, 1년 조금 넘게 전에, 바로 이 유튜브 채널에서 제가 클로드에게 피자를 주문해달라고 부탁하는 영상을 올렸었죠. 당시 이게 실험적인 거였으니까 엄청 기대했었어요. 이러한 모델들, 즉 대규모 언어 모델이나 멀티모달 모델들이 실제로 당신이 가진 컴퓨터를 제어하고 당신을 위해 어떤 작업을 수행할 수 있다는 생각입니다. 그래서 피자를 주문했어요. 제가 그 영상을 만들었을 때와는 많은 것이 달라졌죠 . 이번 영상에서는 새로 나온 제품들에 대한 최신 정보를 알려드리고, 저도 다시 배가 고파졌으니 어떤 것들을 할 수 있는지 이야기해 보려고 합니다.
+
+- **[Build a Voice AI Agent with Nova Sonic and Kiro](https://www.youtube.com/watch?v=nqOrydK9ie8)** — 2026-02-19 · ko · `unclassified`
+  개발자들은 문제를 논의하며 협업합니다 . IDE가 그 대화에 참여할 수 있다면 어떨까요? 저희는 음성 우선 접근 방식을 위해 Amazon Nova 2 Sonic을 사용하여 구축하고 있습니다 . 이 시스템은 사용자의 말을 경청하고, 질문을 던지고, 실시간으로 제안을 제공하면서 스티어링 파일을 생성하여 대화를 스티어링 파일과 코드로 변환합니다. 저희는 자연스러운 음성 인터페이스를 위해 Amazon Nova 2 Sonic을 사용하여 Kirao를 개발할 예정입니다 . 그리고 마지막으로, 저희가 만든 이 프로젝트를 통해 ' 키라 스티어링 스튜디오'라는 피트니스 앱을 개발할 예정입니다
+
+- **[We Need to Talk About AI Agent Architectures](https://www.youtube.com/watch?v=jI4AYvvA7ck)** — 2026-02-17 · ko · `AX`
+  대부분의 에이전트 튜토리얼은 동일한 아키텍처 오류를 범하지만, 개념 증명을 실제 운영 환경에 적용해 보기 전까지는 그 오류를 알아차리기 어렵습니다. 이들은 단일 호출 엔드포인트를 통해 에이전트 런타임에 직접 연결된 프런트 엔드를 보여줍니다 . 세련되고 현대적인 느낌이 들고, 데모용으로도 정말 훌륭합니다. 하지만 이러한 클라이언트-에이전트 직접 연결 방식 의 아키텍처에서는 에이전트 런타임이 사실상 전체 백엔드가 되어버린다는 문제가 있습니다. 처음에는 이것이 심각한 문제처럼 느껴지지 않을 수도 있습니다. 요청을 보내면 상담원이 응답하고, 모두가 만족합니다.
+
+- **[Building Smarter AI Agents: Memory Management with AgentCore](https://www.youtube.com/watch?v=o5A5hv82ZXU)** — 2026-02-12 · ko · `AX`
+  에이전트는 메모리 없이는 작동할 수 없습니다. 에이전트 루프 내부에서는 일부 메모리가 사용 가능한 것처럼 보일 수 있지만, 실제 시스템은 시간이 지남에 따라 메모리를 관리해야 합니다. 이 영상에서는 에이전트 메모리, 단기 메모리, 장기 메모리, 그리고 실제 코드에서 이들을 관리하는 방법에 대해 살펴보겠습니다. 당신이 가장 좋아하는 카페에 들어가는 모습을 상상해 보세요. 바리스타에게 인사하고 차 한 잔을 주문하면, 바리스타는 머그잔을 집어 들고는 당신을 빤히 쳐다봅니다. 안녕하세요? 그들은 지금 무엇을 하고 있는지도 잊어버렸고, 다음에 무엇을 할지도 잊어버렸다.
+
+- **[Build a Sports AI Agent with Vector Search on AWS](https://www.youtube.com/watch?v=920RxyYaPHM)** — 2026-02-10 · ko · `AX`
+  인공지능 에이전트의 성능은 제공하는 데이터의 질에 따라 좌우됩니다. [음악] 이 영상에서는 스포츠 데이터 세트를 사용하여 임베딩을 생성하고, 벡터화한 다음, 에이전트에 추가하는 방법을 보여드리겠습니다. 그다음에는 몇 가지 예측과 분석을 실행하고 그 결과가 얼마나 좋은지 살펴보겠습니다. 이 영상을 끝까지 보시면 데이터 세트를 의미 검색 기능을 갖춘 대화형 AI 에이전트로 변환하는 방법을 더 잘 이해하게 될 것입니다 . 저희는 NFL 데이터를 일부 사용할 예정 이지만, 음악은 원하시는 대로 사용하셔도 됩니다 .
+
+- **[I Built a HIPAA-Compliant Medical Data Pipeline in Under 10 Minutes (John Snow Labs)](https://www.youtube.com/watch?v=ZocOujM8hcc)** — 2026-01-21 · ko · `AX`
+  만에 50만 건의 의료 기록을 99.1%의 정확도로 익명화할 수 있는 HIPAA 준수 워크플로우를 구축할 수 있다고 말씀드리면 어떠시겠습니까 ? 안녕하세요, 저는 완지쿠 응앙가이고, 오늘 함께하시는 분은 존 스노우 랩의 CEO이자 여전히 개발자인 데이비드 탈비입니다. 그리고 다음 몇 분 동안 AWS에서 실제 운영 환경에 적합한 개인정보 비식별화 파이프라인을 설정하는 방법을 보여드리겠습니다. 의료 데이터를 다루는 일을 하신다면, 의료 데이터가 연구 및 AI 혁신을 위한 보고라는 것을 이미 알고 계실 겁니다.
+
+- **[Create AI Apps in Under 5 Minutes with Amazon Bedrock and Vercel](https://www.youtube.com/watch?v=piDqgB0a0OU)** — 2026-01-14 · ko · `AX`
+  지금 바로 Verscell의 AI SDK를 사용하여 Amazon Bedrock을 활용할 수 있다는 사실을 알고 계셨나요? 이 모든 것을 종합하면 TypeScript 기반의 다양한 AI 앱을 빠르게 만들 수 있습니다. 이 영상에서는 Vzero를 사용하여 시작하는 방법을 알아보겠습니다. 자, 그럼 한번 시도해 볼까요? 이번 데모에서는 제가 정말 좋아하는 Vzero를 사용하겠습니다. 저는 앱을 만드는 데 사용합니다. 저는 Versell에 배포할 수 있습니다. 저는 여러 가지를 이것저것 만져보면서 실험해 볼 수 있고 , 이 경우에는 모든 게 타입스크립트로 되어 있어요.
+
+- **[Deploy Production-Ready Agents in 22 Minutes with AgentCore Runtime](https://www.youtube.com/watch?v=Q-tYIAuv9WI)** — 2026-01-07 · ko · `AX`
+  세 줄의 코드. 노트북에서 실행되는 AI 에이전트를 Amazon Bedrock 에이전트 코어 런타임에 호스팅하는 데 필요한 모든 것입니다. 제가 보여드리겠습니다 . 저희는 Strands 에이전트 SDK를 에이전트 프레임워크로, OpenAI를 모델 제공업체로 사용하여 간단한 물류 지원 에이전트를 구축했습니다. 잠시 후 에이전트 코드를 살펴보겠지만, 지금은 에이전트 코어 런타임에 배포할 수 있도록 하는 세 줄의 변경 사항을 보여주는 차이점을 살펴보고 있습니다 . 우리는 임포트 하나, 인스턴스 하나, 데코레이터 하나를 가지고 있습니다.
+
+- **[3 Powerful Ways to Use MCP in Serverless Environments](https://www.youtube.com/watch?v=BxpjNZcdrgY)** — 2025-12-29 · ko · `AX`
+  AI 비서는 강력할 수 있지만, 사용자의 최신 데이터에 접근하거나, 개인 API에 연결하거나, 실시간 시스템과 상호 작용할 수는 없습니다. 바로 여기서 모델 컨텍스트 프로토콜(MCP)이 등장합니다. MCP는 AI 비서를 외부 음악 도구 및 데이터 소스와 연결하여 성능을 극대화하는 표준 프로토콜로 전 세계적으로 빠르게 확산되고 있습니다. MCP의 기본 사항에 대해 더 자세히 알고 싶으시면 설명란에 링크된 마이크의 "MCP란 무엇인가" 영상을 확인해 보세요 . 하지만 오늘은 서버리스를 도입해 보겠습니다. 안녕하세요, 저는 줄리안입니다.
+
+- **[Build Production-Ready Apps: AWS Serverless Full Stack Tutorial (Beginner Friendly!)](https://www.youtube.com/watch?v=pXVDDeG9Dsg)** — 2025-11-13 · ko · `unclassified`
+  아셰타, 요즘 뭐 하고 있어? 개인 지출 내역 관리 앱을 간단히 테스트해보고 있어요 . 와, 멋지네요. 그건 모든 개발자를 위한 공식적인 시작 사이트 프로젝트와 같아요. 클래식 제품 같죠? 정확히. 목요일은 지출 내역을 기록하는 날입니다. 금요일 날씨 앱. 우리 모두 그런 걸 몇 개쯤은 만들어 봤을 거라고 확신해요. 물론이죠. 그리고 온라인에서 볼 수 있는 대부분의 풀스택 데모가 기본적으로 고전적인 CRUD 앱이라는 사실을 눈치채셨나요? 정확히.
+
+- **[60-Minute AI Coding Challenge: Building a Pictionary Game with Amazon Q Developer & Amazon Nova](https://www.youtube.com/watch?v=kZ0Zeqh43Qw)** — 2025-11-11 · ko · `AX`
+  안녕하세요 여러분, 제 이름은 에릭이고 저는 음악 과 웹사이트 제작에 열정적인 팬입니다. 오늘은 60분 동안 게임을 만들어보는 재밌는 도전을 해보면 어떨까 생각했어요 . 저는 프런트엔드 부분은 꽤 잘하는데, 백엔드 부분은 좀 도움이 필요합니다. 그래서 제 친구 드완을 불러서 도움을 받았습니다. 에드, 잘 지내? 야, 잘 지내? 좋아요. 게임을 만들고 싶으신 건가요? 네, 그렇습니다. 어떤 종류의 게임인가요? 음, 저는 이미지 맞추기 게임 같은 걸 생각하고 있었어요. 픽셔너리 같은 거요.
+
+- **[Beginner-Friendly Amazon Bedrock AgentCore & Strands Agents Tutorial](https://www.youtube.com/watch?v=j2wYT6jqXZY)** — 2025-10-30 · ko · `AX`
+  여러 에이전트를 구축하고 프로덕션 환경에 배포하려는 경우 이 영상이 도움이 될 것입니다. 오늘 영상에서는 인공지능 에이전트에 대해 궁금한 점이 많은 호기심 많은 학습자 아나 씨를 모셨습니다. 그것들은 어떻게 만들어지나요? 어떻게 배치되나요? 그럼, 질문은 모두 그녀에게 맡기겠습니다. 안녕하세요, 아나. 안녕, 슈브함. 드디어 만나뵙게 되어 반갑습니다 . 그래서, 이 에이전트가 무엇인지 알고 싶습니다. 트랜스 에이전트란 ​​무엇인가요? 모르겠습니다. 오, 그거 좋네요. 제가 말씀드릴게요. 그렇다면 AI 에이전트란 ​​무엇일까요? 에이전트는 기본적으로 코드 조각입니다.
+
+- **[Amazon EKS Auto Mode: Deploying AI Agents with Kubernetes](https://www.youtube.com/watch?v=yFnKsh8yxA4)** — 2025-10-16 · ko · `unclassified`
+  에이전트가 새로운 비즈니스 애플리케이션으로 자리 잡고 있습니다. 실제로 가트너는 2028년까지 모든 비즈니스 애플리케이션의 33%에 에이전트형 AI가 포함될 것이라고 예측합니다. 오늘은 자동 모드를 사용하여 단 몇 분 만에 Amazon EKS에서 첫 번째 Aentic 워크로드를 시작하는 방법을 보여드리겠습니다 . 이를 위해 AWS에서 개발한 오픈 소스 SDK인 Strand Agents를 사용할 것입니다. Strands 에이전트를 사용하면 단 몇 줄의 코드로 에이전트를 구축하고 실행할 수 있습니다. 개발 단계부터 운영 단계까지 모두 사용할 수 있습니다 .
 
 ## Zoox (57건)
 
@@ -2892,175 +3567,345 @@
 - **[Wherever you are, Apple Arcade is open | Parking Lot | Apple Arcade](https://www.youtube.com/watch?v=L5wx0Takylc)** — 2023-05-04 · ko · `unclassified`
   [음악] 같이 놀자! 오 안녕 헤이 같이 놀자!
 
-## Cohere (56건)
+## ElevenLabs (56건)
 
-- **[Does Your Agent Know It's Lost? Uncertainty & Progress Signals for Reliable LLM Agents, w/ Sharon Li](https://www.youtube.com/watch?v=VfuCUgFmroI)** — 2026-07-24 · en · `AX`
-  [music] Hey everyone and I'm Bza a research scientist at Cohill Labs and I'm very happy to be hosting today's talk. Uh it's a pleasure to introduce our speaker Sharon Lee. Sharon is an associate professor in the department of computer science at the University of uh Wisconsin Medicine and her research focuses on the foundations of reliable intelligence.
+- **[This AI Agent Builds Viral Documentary Videos For You](https://www.youtube.com/watch?v=aqyZ87euzz0)** — 2026-07-24 · en · `AX`
+  Scrapbook style documentary videos are widely popular across social media with one of the most popular channels being Vox. Today, I want [music] to show you how to recreate these motion graphics using Claude and the 11 creative flows agent.
 
-- **[Ruihang Lai & Hao Kang - PithTrain: A Compact and Agent-Native MoE Training System](https://www.youtube.com/watch?v=u_Z0lq93KBk)** — 2026-07-24 · en · `AX`
-  [music] Um my name is Rh and with how together today uh it's a very it is great pleasure for us to um introduce our recent work called pet train which is a compact and agent native training system and we are um students from CMU and let's get started so um we first want to introduce the meaning of pith.
+- **[Introducing Vocals - Consistent Voices for Your Songs in ElevenMusic](https://www.youtube.com/watch?v=LkdWmBWjt5U)** — 2026-07-22 · ko · `unclassified`
+  Eleven Music에서 보컬을 소개합니다. 기존 트랙에서 보컬을 생성한 다음, 스튜디오 수준의 일관성과 동일한 목소리로 언제든지 새로운 곡(음악)을 만들어 보세요. 새롭게 시작하고 싶으신가요 ? 음성 녹음 파일 하나만 업로드하세요. [음악] [노래] 그리고 그 음악을 당신만의 목소리로 오리지널 트랙으로 만들어 보세요 . 또는 설정 과정을 완전히 건너뛰고 음성 라이브러리에서 바로 음성을 선택할 수도 있습니다. 또한 Music V2에 스타일 기능을 추가하여 일관된 음악적 사운드, 분위기 및 정체성을 가진 트랙을 그 어느 때보다 쉽게 ​​만들 수 있도록 했습니다
 
-- **[Claas Voelcker - On-policy value learning at 10000 frames per second](https://www.youtube.com/watch?v=g83cuGL6N9Y)** — 2026-07-17 · en · `AX`
-  [music] Thanks everybody for having me and for attending uh this talk. As Ro already said, I will be talking about our paper um which is called relative entropy pathways policy um wait optimization. It's a little bit of a mouthful. Um, but for the purpose of this talk, uh, I have given it a slightly more bammy name, which is on policy value learning at 10,000 frames per second.
+- **[Put Yourself in a Football Match with AI (Full Workflow)](https://www.youtube.com/watch?v=lzcjK4jyAv8)** — 2026-07-17 · en · `AX`
+  Wait, number 11? Is that Alec? He was not even on the team today. Alec has the ball. HE RUNS RIGHT PAST THE DEFENDERS. HE SHOOTS. GOAL! &gt;&gt; [screaming] &gt;&gt; WHAT A GOAL [cheering] BY ALEC. THIS IS CRAZY. The guy who just stepped in wins the cup. &gt;&gt; So, that's me scoring a goal in an intense football match in a sold-out [music] stadium with full broadcast commentary.
 
-- **[Daniel Ajisafe - Making Video Models Adhere to User Intent with Minor Adjustments](https://www.youtube.com/watch?v=SjjOPiV5tDI)** — 2026-07-17 · en · `unclassified`
-  [music] I'm very excited to, you know, um, be joining Qu labs opensiz community today. Um, I'm looking forward to a wonderful and engaging experience. Um, it's my first and um, I'm excited to also be here as well and I'm also honored. Thank you for giving me the opportunity and thank you for inviting me as well. Okay. So, um we can get right into the conversation for today.
+- **[How to Swap Your Voice with AI — ElevenLabs Voice Changer](https://www.youtube.com/watch?v=xU72OLqGdRo)** — 2026-07-15 · en · `unclassified`
+  The voice I'm speaking with right now isn't actually mine. It's one of the more than 10,000 voices &gt;&gt; in the 11 Labs voice library. &gt;&gt; So, if you want to know how to swap your voice with AI, whether it's to perfect the delivery of the voice in your next film, or you want to test voice variations within your ads, keep watching.
 
-- **[Forecasting world events with language models, with Shashwat Goel](https://www.youtube.com/watch?v=bM1C1F3hRS4)** — 2026-07-17 · ko · `AX`
-  [음악] 안녕하세요 여러분, 코힐 랩스 앤 컨버세이션의 또 다른 에피소드에 오신 것을 환영합니다. 안녕하세요, 제 이름은 다니엘 소우아이고, 코힐 랩 팀에서 연구 엔지니어로 일하고 있습니다 . 오늘 저는 LSN 맥스 블랭크 연구소의 박사 과정생인 샤슈왓 도일 씨를 소개하게 되어 기쁩니다 . 어, 샤 슈왓이 최근 연구에 대해 이야기해 줄 예정이라 정말 기대돼요. 제가 방금 들은 논문은 ICML 예측 워크숍에서 최고의 논문 중 하나였는데, 놀랄 일도 아니죠.
+- **[Introducing ElevenAgents Spotlight](https://www.youtube.com/watch?v=GZaNOflzq9k)** — 2026-07-10 · ko · `unclassified`
+  11 Agent Spotlight을 소개합니다. 모든 채널에서 음악 해상도와 고객 만족도를 가장 빠르게 향상시키는 방법입니다 . Spotlight는 실시간 분석을 통해 모든 음악 관련 대화, 음성 및 채팅을 관찰합니다 . Spotlight는 [음악]과 같은 주제별로 대화를 자동으로 그룹화하여 어떤 유형의 질문 에 먼저 집중해야 하는지 확인할 수 있도록 합니다. 키워드가 아닌 의미로 검색하세요. 음악 용어로 명확한 품질 기준을 정의하고 , 업계 최고의 전사 모델인 Scribe를 통해 모든 대화를 해당 기준에 따라 평가하세요.
 
-- **[IOL-AI Submission 101](https://www.youtube.com/watch?v=NT47u1ScU8E)** — 2026-07-13 · ko · `AX`
-  안녕하세요 여러분. 이 통화에 오신 것을 환영합니다. 저희는 당신을 이곳에 모시게 되어 매우 기쁩니다. 음, 이번 101 과제 제출의 목표는 우선 과제에 대해 이야기하고 , 여러분의 질문에 답하고, 제출 과정이 처음부터 끝까지 어떻게 진행되는지 안내하는 것입니다. 그래서 시작하기에 앞서 참가자들을 위한 몇 가지 자료가 담긴 간단한 안내서를 준비했습니다 . 음, 채팅창에 링크를 공유할게요. 그러면 웹사이트에 업로드될 거예요. 기본적으로 여기에는 시작하는 데 필요한 모든 것이 있습니다 . 그건 나중에 다시 얘기해봐요.
+- **[Seedream 5.0 Pro Is Here — Everything You Need to Know](https://www.youtube.com/watch?v=WrbYgg3QI0k)** — 2026-07-10 · en · `unclassified`
+  SeaDream 5.0 Pro is finally here. Where SeaDream 5.0 Lite was about smarter reasoning, Pro is about [music] more control over the final result. It can read edits you sketch directly onto an image, split a finished image into transparent [music] layers, generate dense layouts like infographics with small readable text, and write native text [music] in 14 languages.
 
-- **[AI at the International Linguistics Olympiad: A Fireside Chat on Linguistic Reasoning with LLMs](https://www.youtube.com/watch?v=z_rDUFxwGmM)** — 2026-07-03 · ko · `AX`
-  [음악] 자, 오늘 벽난로 앞 담소에 오신 여러분 모두 환영합니다 . 여기 불이 났어요, 채팅이 곧 시작될 거예요. [웃음] IOL AI 챌린지에 대해 이야기해 볼까요? 음, 그럼 오늘 한 시간 드릴게요. 오늘 저희 사무실에는 두 분의 귀빈이 계십니다. 제가 채팅을 진행하겠습니다. 제 이름은 줄리아입니다. 저는 쿠힐 연구소 의 선임 연구 과학자이며 이번 챌린지를 공동으로 기획하고 있습니다. 또한, 이 통화에는 여러 명의 공동 주최자가 더 참여하고 있습니다. 그러니까, 나중에 질문이 있으시면 다 같이 답변할 수 있겠죠.
+- **[8 Insane Ways to Use Gemini Omni Flash](https://www.youtube.com/watch?v=6G5-tz6yiYs)** — 2026-07-09 · ko · `AX`
+  Gemini OmniFlash를 사용하면 어떤 비디오에든 개체를 추가하고, 마음에 들지 않는 요소를 제거하고 , 비디오 스타일을 완전히 바꿔 원하는 분위기에 맞추는 등 훨씬 더 많은 작업을 할 수 있습니다. Gemini OmniFlash를 11가지 창의적인 기능 안에 활용하여 할 수 있는 강력한 8가지 작업을 소개합니다. 우선 스타일을 바꾸는 게 가장 먼저 할 수 있는 일입니다. 이제 단순히 비디오에 필터를 적용하는 것 외에도 Gemini OmniFlash를 사용하여 비디오의 요소, 색상 보정, 음악 등을 포함한 전체 비디오를 특정 예술적 스타일에 맞게 재구성할 수 있습니다
 
-- **[Bingyi Cao & Koert Chen - TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text](https://www.youtube.com/watch?v=DmGz7XRPFrQ)** — 2026-06-26 · ko · `AX`
-  [음악] 오늘 Cohere Labs 컴퓨터 비전 토크 시리즈에 초대해 주셔서 정말 감사합니다. 제 이름은 토프이고, 빙이와 함께 왔습니다. 저는 딥마인드의 훨씬 더 큰 팀을 대표하고 있습니다. 슬라이드를 보여드리겠습니다. 괜찮은. 음 , 좋아요. 모두가 우리를 볼 수 있어요. 괜찮은. 저희 팀은 TIPS V2에 대한 연구 결과를 발표하고자 합니다. TIPS V2는 향상된 피치 패치 텍스트 정렬을 통해 비전 언어 사전 학습을 발전시킨 버전입니다. 저희는 올해 CVPR에서도 이 내용을 발표했습니다.
+- **[Swap Any Object in Video with AI (Aleph 2.0 + GPT Image 2)](https://www.youtube.com/watch?v=Y7vmIshLgXs)** — 2026-07-02 · ko · `AX`
+  오늘은 인공지능을 이용해 영상 속 어떤 객체든 교체하는 방법을 배우게 됩니다. 이를 위해 11 크리에이티브 내에서 GPT Image 2와 LF 2.0을 결합하여 사용할 것입니다 . 제가 보여드릴 방법은 AI를 이용해 영상에 개체를 추가할 수 있게 해줍니다. 이 기능을 사용하면 이미지를 서로 바꿀 수 있을 뿐 아니라 배경을 제거하여 그린 스크린 효과를 적용한 영상을 만들 수도 있습니다. 11 Creative를 시작하기 위해 이미지 및 비디오를 클릭하겠습니다. 여기서는 이미지 및 비디오 도구를 사용하여 먼저 새 프레임을 생성한 다음 LF 2.
 
-- **[From Machine Translation to AI-Mediated Communication- Cohere Labs in Conversation w/ Marine Carpuat](https://www.youtube.com/watch?v=HzGQUgo5NPA)** — 2026-06-26 · ko · `AX`
-  [음악] 모두 환영합니다. 음, 그리고 나중에 이 영상을 보시는 분들 도 환영합니다. 음, 오늘 저희는 마린 카피아 씨를 모시게 되어 영광입니다. 그녀는, 음, 메릴랜드 대학교 컴퓨터 과학과 교수님이세요. 그리고 최근 승진을 축하드립니다. 그래서 그녀는 이제 교수가 달성할 수 있는 최고 직위를 갖게 되었어요. [웃음] 정말 대단한 업적이죠. 그리고 당신도 알다시피, 정말 마땅한 결과입니다. 그녀의 연구는 언어 간 소통을 돕는 인공지능 기술 개발 과 그러한 시스템이 실제로 성공적인지 여부를 연구하는 데 중점을 두고 있습니다
+- **[A voice lost to MND is now educating visitors at Windsor Castle](https://www.youtube.com/watch?v=lIPAjhkBKqE)** — 2026-06-26 · ko · `unclassified`
+  나는 평온함을 느꼈다. 저는 삼나무를 전혀 보여주지 않았어요 . 하지만 역사에 대한 애정도 있습니다. [음악] 모두가 [노래] 자신이 어디에서 왔는지 알아야 해요 . [음악] 그리고 그러한 연속성은 삶에서 중요합니다. 그리고 제가 음악을 통해 사람들과 그들의 역사 속 위치를 공유할 수 있다면, 그것은 정말 큰 기쁨입니다. 그들은 내 아들로부터 이 사실을 알지 못한다. [음악] 차 한 잔 하실래요? 안 돼 . 저쪽에 놓아야겠네요 . 저는 1970년에 역사 교사로 일을 시작했어요, 라고 그녀는 말했다.
 
-- **[Sonia Joseph - Interpreting Physics in Video World Models](https://www.youtube.com/watch?v=6UKl8e8-qKE)** — 2026-06-26 · ko · `AX`
-  [음악] 안녕하세요 여러분. 와주셔서 감사합니다. 이 작품을 발표하게 되어 기쁩니다 . 물리와 비디오 모델을 해석하는 최초의 연구라고 할 수 있겠습니다. 물론 그 이후로 훌륭한 연구들이 많이 나왔지만요. 저희가 발견한 내용을 여러분과 공유하게 되어 매우 기쁩니다. 간단히 제 소개를 드리겠습니다. 저는 맥길 대학교에서 박사 학위와 석사 학위를 마무리하고 있습니다. 저는 신경과학과 컴퓨터 과학을 전공했고, 이전에는 신경과학자로 일했으며, 현재는 Madafair의 Jetpa 팀에서 방문 연구원으로 재직하며 내부 해석 가능성 포럼을 이끌고 있습니다.
+- **[ElevenLabs Built an AI Ad Tool That Drove $3.78M — Then Launched It for Everyone](https://www.youtube.com/watch?v=hltWq--k3hM)** — 2026-06-25 · ko · `unclassified`
+  11 Labs가 Google Ads Impact Award를 수상했습니다 . 이 이야기의 배경은 영어를 사용하는 4인 팀이 신규 채용 없이 7개 언어로 확장하고 7.16의 ROAS(투자수익률)로 378만 달러의 추가 가치를 창출했다는 것입니다. 저는 그 프로젝트를 이끌었던 팀 데이비스를 만나 그들이 어떻게 그 일을 해냈는지 자세히 알아봤습니다 . 자, 그럼 시작해 볼까요? 저는 팀 데이비스입니다. 저는 11 Labs의 모든 퍼포먼스 마케팅을 총괄하고 있으며, 여기에는 11 Creative, 11 Agents, 그리고 11 API가 포함됩니다.
 
-- **[Doğaç Eldenk  - Attention Drift – What speculative decoding models learn](https://www.youtube.com/watch?v=sbCSYEaMEmg)** — 2026-06-25 · en · `AX`
-  [music] &gt;&gt; It is my utmost pleasure to welcome to this ML systems and theory seminar series Dodge. So Dodge is a master student of the Northwestern University in the US. His research interests are generally around LLM inference and efficiency and has done some great work and today we are very eager to eager to hear about your work on attention drift what speculative coding models learn.
+- **[Introducing Ads Engine in ElevenCreative](https://www.youtube.com/watch?v=KTsYBt7LxNU)** — 2026-06-25 · ko · `unclassified`
+  [음악] AdsEngine을 소개합니다. 브랜드가 수십 개의 시장에서 제품을 판매하고 있음에도 불구하고, 가장 실적이 좋은 광고는 단 하나의 언어로만 게재됩니다 . [음악] 그 격차는 전 세계적으로 놓쳐버린 수익입니다. AdsEngine은 광고 계정에 연결하여 기존 텍스트, 이미지, [음악] 및 비디오를 가져와 음성, [음악] 톤 및 속도를 그대로 유지하면서 50개 언어로 현지화합니다. 새롭게 출시된 아벨로 리뉴얼 크림으로 그 어느 때보다 더 밝고 생기 넘치는 아침을 맞이하세요. [음악] [음악] 그러면 시간이 지남에 따라 성능 데이터가 다시 유입됩니다.
 
-- **[MolmoAct2 - Building Open Science Robotics Foundation Models for Real world Deployment](https://www.youtube.com/watch?v=y7lQLnQKey0)** — 2026-06-19 · en · `AX`
-  [music] &gt;&gt; All right. My name is Jeff Don. I think I've been on this live session for quite a few times. This I probably the third time. Yeah, so I'm a uh I'm an incoming assistant professor at NUS, National University of Singapore. Starting my job in 1 month's time. And uh Hao-Chuan Fang here is a PhD incoming PhD student at Stanford University uh advised by Fei-Fei Li.
+- **[Employment Hero drives product activation for 350K+ customers](https://www.youtube.com/watch?v=NXtIYzqrWeY)** — 2026-06-24 · ko · `unclassified`
+  이제 AI 음성 에이전트를 통해 이전에는 결코 도달할 수 없었던 훨씬 더 많은 고객에게 다가가 비즈니스 성과 향상에 도움이 될 수 있는 가치를 제공할 수 있게 되었습니다 . Employment Hero는 AI 기반 고용 운영 시스템입니다. 그래서 우리는 전 세계 35만 ​​개 이상의 기업을 지원하고 있습니다. 저희는 최근 가장 흥미로운 프로젝트 중 하나인 AI 채용 에이전트를 출시했습니다. 저희는 이 제품이 정말 혁신적인 제품이라고 생각하기 때문에 가능한 한 많은 고객분들이 사용해 보실 수 있도록 하고 싶었습니다
 
-- **[Debjyoti Paul - Softmax, Backprop, and the Autograd  The Hidden Machinery Behind Deep Learning](https://www.youtube.com/watch?v=7VJ_qTdhBes)** — 2026-06-18 · en · `AX`
-  [music] &gt;&gt; Hi everyone. My name is Katrina and I'm the machine learning math lead here at Cohere Labs. And today we have an exciting guest speaker, uh Dev Jyoti, who's Paul is going to be talking about softmax, backpropagation, and the autograd, and the hidden machinery behind deep learning. And with that, I'll pass it on to him. &gt;&gt; Thank you, Katrina. Uh so, let me share my screen.
+- **[The Odyssey: Audiobook featuring the voice of Sir Michael Caine™](https://www.youtube.com/watch?v=jJ99aeqzmWg)** — 2026-06-23 · ko · `unclassified`
+  세상에 지도가 생기기 훨씬 이전, 그리스의 가장 위대한 전사들은 트로이라는 도시로 향하기 위해 바다를 건넜습니다. 그들은 10년 동안 성벽을 포위 공격했다. 도시가 마침내 함락되었을 때, 영웅들은 배를 돌려 고향으로 향했습니다. [음악] 하지만 올림푸스 신들에게도 편애 하는 신과 원한을 품은 신들이 있었습니다. 그리고 이들 중 많은 사람들에게 집으로 돌아가는 여정은 그 자체로 일종의 전쟁이 되었습니다. 이것은 그 병사들 중 한 명의 이야기입니다 . 그의 이름은 오디세우스이며, 이타카라는 작고 바위투성이인 섬의 왕이다.
 
-- **[O-Ring Automation & the Economics of Bicycles for the Mind with Avi Goldfarb](https://www.youtube.com/watch?v=uUUBApVevNI)** — 2026-06-16 · ko · `AX`
-  [음악] 안녕하세요 여러분, 함께해 주셔서 감사합니다. 오늘 저희를 찾아주신 손님, 아비 골드파 씨를 모시게 되어 정말 기쁩니다. 아비는 토론토 대학교 교수이며, 인공지능이 경제의 일자리에 미치는 영향을 연구하는 선도적인 경제학자 중 한 명으로, 이 주제에 대해 두 권의 저서를 포함하여 폭넓게 저술했습니다. 음, 그의 연구는 인공지능이 경제의 일자리에 미치는 영향에 대해 가장 엄밀한 분석을 제시하는 연구 중 하나입니다. 오늘 그는 우리에게 O링 자동화 와 정신 건강을 위한 자전거 경제학에 대해 이야기할 것입니다
+- **[Create Faster with Flows Agent](https://www.youtube.com/watch?v=fPZ5xvIO5tg)** — 2026-06-18 · ko · `AX`
+  오늘은 11 Labs Flows Agent를 사용하여 한 줄의 텍스트에서 완성된 광고를 만드는 방법을 배우게 됩니다. Flows Agent는 모든 프롬프트, 이미지, 비디오, 음악 및 음성 해설을 생성한 다음 노드를 통해 모든 것을 연결합니다. 원하는 바를 설명하기만 하면 AI가 전체적인 디자인 과정을 구축해 줍니다. 이 과정은 사용자가 원하는 대로 맞춤 설정하고 필요한 만큼 여러 번 재사용할 수 있습니다. 어떻게 작동하는지 보여드리겠습니다. 11 Labs 내부에서 Flows Agent를 사용하려면 Flows를 클릭하기만 하면 됩니다.
 
-- **[Igor Shilov - Knowledge Localization for Capability Removal in LLMs](https://www.youtube.com/watch?v=iBU3pJpuVu0)** — 2026-06-11 · ko · `AX`
-  [음악] 오늘은 이고르 씨의 이야기를 들어보겠습니다. 약 45분간의 강연이 진행될 예정이며, 이후 토론과 함께 질의응답 시간이 있을 것입니다. 해당 세션의 녹화 영상은 추후 유튜브에서 시청하실 수 있습니다. 자, 그럼 이고르를 소개하겠습니다. 그는 10년 넘게 소프트웨어 엔지니어로 일했습니다 . 최근에는 Meta에서 연구 엔지니어로 근무하며 개인 정보 보호 머신러닝 분야를 연구했습니다. 그는 현재 임페리얼 칼리지 런던에서 박사 과정 연구원으로 재직하며 머신러닝 개인 정보보호 및 보안을 연구하고 있습니다. 저희는 오늘 그분의 말씀을 듣기를 기대하고 있습니다
+- **[Publish & Earn with ElevenMusic](https://www.youtube.com/watch?v=s0jV9f4g2Eo)** — 2026-06-17 · ko · `unclassified`
+  오늘은 음악을 발표하고 수익을 창출하는 방법에 대해 이야기해 보겠습니다. 멋진 음악을 만들고 세상에 공개할 준비가 되었다면 , 이제 탐색 페이지에 게시할 차례입니다 . 음악을 발표하고, 청취자에게 다가가고, 음악으로 수익을 창출하는 방법을 간략하게 살펴보겠습니다. 음악 공유 준비가 완료되면 11 음악 탐색 페이지에 게시하여 다른 사용자가 음악을 발견하고 스트리밍하고 리믹스할 수 있습니다. 먼저, 이름과 표지 이미지가 마음에 드는지 확인하세요. [음악] 그렇지 않다면, 파일 이름을 쉽게 변경 하고 다른 파일을 업로드할 수 있습니다.
 
-- **[Jędrzej Maczan - Online Softmax](https://www.youtube.com/watch?v=AwAhZscqm5E)** — 2026-06-05 · ko · `AX`
-  [음악] 안녕하세요 여러분. 제 이름은 카트리나이고, 코히어 랩에서 머신러닝 수학 부문 리더를 맡고 있습니다. 오늘은 윤제이 씨를 모시고 아주 특별한 강연 시간을 갖겠습니다 . 그는 머신러닝 연구원이자 엔지니어이며, 오늘 우리에게 온라인 소프트맥스에 대해 설명하고 인공지능 분야에서의 응용 사례와 그 이면에 있는 수학적 원리를 이해하도록 도와줄 것입니다 . 그럼 이걸로 전달드리겠습니다 . 안녕하세요, 카트리나 님 소개해주셔서 감사하고, 여러분 모두 안녕하세요. 네, 맞아요 . 음, 우선 소프트맥스가 무엇인지부터 설명하고 싶습니다.
+- **[Voice Isolator now on ElevenLabs mobile app](https://www.youtube.com/watch?v=XXFlLleSDgQ)** — 2026-06-17 · ko · `unclassified`
+  영상에 배경 소음이나 사용할 수 없는 음악이 너무 많나요? 이제 휴대폰의 어느 위치에서든 선명한 음질의 오디오를 추출할 수 있습니다. LALALAB 앱을 다운로드하고 지금 바로 무료로 사용해 보세요.
 
-- **[Lang Gao & Jinghui Zhang - The Cylindrical Representation Hypothesis for Language Model Steering](https://www.youtube.com/watch?v=mR4wNRnlPaQ)** — 2026-05-29 · ko · `AX`
-  여러분, 안녕하세요. 오늘 저희 초청 강연에 참석해 주셔서 진심으로 감사드립니다. 우리와 함께 랑가오와 이 누가 있습니다. 랑가는 모하메드 빈 자드 인공 지능 대학교에서 자연어 처리 분야 박사 과정 1년차 학생입니다. 그는 잉 첸 교수님과 페르 나포스 교수님의 지도를 받고 있으며, 바이트와이즈에서 NLP 알고리즘 인턴으로 근무하고 있습니다. 또한 빈 인공지능대학교에서 윤 창 교수님과 텐타링 교수님의 지도를 받으며 자연어 처리 분야 박사 과정 1년차 학생입니다.
+- **[Translate your Video to 90+ Languages Using Dubbing v2](https://www.youtube.com/watch?v=CapfiSbuAvM)** — 2026-06-12 · ko · `unclassified`
+  오늘은 여러분의 목소리, 어조, 말하는 방식을 그대로 유지하면서 영상을 어떤 언어로든 더빙하는 방법을 배우게 될 것입니다. 이것은 저희의 새로운 AI 더빙 모델인 더빙 V2입니다. 지금부터 이 모델을 사용하는 방법을 자세히 보여드리겠습니다. Dubbing V2가 강력한 이유는 단순히 녹음 내용 의 텍스트만 보는 것이 아니라 원본 녹음을 직접 듣기 때문입니다. 그래서 다른 언어로 더빙할 때 , 당신의 어조, 강세, 그리고 전달 방식에 담긴 감정까지 그대로 유지됩니다.
 
-- **[Rafi Ibn Sultan - WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation..](https://www.youtube.com/watch?v=od8AjajF8TQ)** — 2026-05-29 · ko · `AX`
-  [음악] 저는 라피입니다. 오늘은 올해 CVPR 2026에 채택 된 저희 논문을 발표하겠습니다. 논문 제목은 "보행자 내비게이션을 위한 깊이 인식 분할 기능을 갖춘 Work-GPT 기반 시각 언어 대화"입니다 . 이분들은 모두 훌륭한 공동 저자들입니다. 음, 그리고 여기에 QR 코드를 몇 개 추가했는데, 하나는 저희 프로젝트이고 다른 하나는 저희 연구실입니다. 그리고 기타 등등, 원하시면 스캔해서 프로젝트 나 저희 연구실을 구경하실 수도 있습니다. 네 , 그럼 바로 시작해 볼까요?
+- **[Introducing Avatars](https://www.youtube.com/watch?v=WbD89DyeuvM)** — 2026-06-11 · en · `unclassified`
+  Every great voice deserves a face. Introducing avatars in 11 creative. Turn a script and avatar into a [music] talking head video. Generate it together in one place. Upload photos to create a consistent identity. And explore styles across angles, outfits, and settings. &gt;&gt; [snorts] &gt;&gt; Then turn into assets you can use across 11 creative. From ads and social content through to product videos.
 
-- **[Could phenomenal reports lead to better multiagent collaboration? - Philippe Beaudoin](https://www.youtube.com/watch?v=HNA7MPZIYt8)** — 2026-05-25 · ko · `AX`
-  [음악] 안녕하세요 여러분, 환영합니다. 오늘 저는 필립 보두앵 씨를 모시고 우리 분야에서 현재 가장 중요한 미해결 질문 중 하나라고 생각하는 주제에 대해 이야기를 나눌 수 있게 되어 매우 기쁩니다. 음, 에이전트들이 제대로 협업하려면 실제로 무엇이 필요할까요? 음, 그리고 지금처럼 에이전트가 우리 삶의 일부가 된 새로운 현실 속에서 이 이야기는 더할 나위 없이 시의적절하다고 생각합니다. 음, 그들은 우리를 위해 코드를 작성하고 있어요. 그들은 우리를 위해 실험을 진행하고 있습니다.
+- **[Getting Started with ElevenMusic](https://www.youtube.com/watch?v=y9zPoGa9AO0)** — 2026-06-10 · en · `unclassified`
+  Welcome to 11 Music, a platform to discover, listen, create, and earn from music [music] built on the 11 Labs music model. Whether you're a seasoned producer or picking up music creation for the first time, this video will get you up and running from scratch. We'll cover how the platform is laid out, how to write prompts that actually sound good, and how to get [music] clean instrumental tracks when you don't want any vocals.
 
-- **[Cohere | Enterprise AI for financial services](https://www.youtube.com/watch?v=yRq1hPB4dnc)** — 2026-05-20 · ko · `unclassified`
-  AI와 관련하여 금융 기관들은 종종 시범 운영 단계에 머물러 있습니다 . 왜? 고객 데이터는 민감한 정보이므로 의사 결정에는 위험이 따르며, 규정 준수를 철저히 해야 합니다. 많은 타사 AI 시스템은 필수 요건을 충족하지 못합니다. 은행과 투자 회사는 통제권을 유지하면서 인공지능의 잠재력을 어떻게 활용할 수 있을까요 ? Cohere를 입력하세요. 이는 개인, 기업, 국가 (음악)가 자신들의 데이터에 대한 자율성을 유지할 수 있도록 해줍니다 . 이는 규제 대상 산업을 위해 설계된 안전하고 자율적인 AI입니다.
+- **[How Polsat Plus Group Is Leading Polish Media in the AI Era — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=ndnYh8DPEBE)** — 2026-06-10 · en · `unclassified`
+  [music] &gt;&gt; Peter, it's a huge pleasure to have you with us today. Before we get started, we cannot see that well, but if you grew up or watch Polsat, can you raise your hand? Okay. &gt;&gt; Yeah, that's good. I like that. &gt;&gt; A big majority, and given we have a international audience that came in here today.
 
-- **[Erfan Shayegani - Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness](https://www.youtube.com/watch?v=SOe5PhrtM60)** — 2026-05-18 · ko · `AX`
-  [음악] 훌륭해. 자, 다시 돌아왔습니다. 여기는 Airfn입니다. 마누엘이 말한 대로 다른 작품을 발표하겠습니다. 저는 최근 브라질에서 열린 ICLR 2026에서 발표한 컴퓨터 사용 에이전트에 대한 최근 연구 결과를 소개하려고 합니다 . 그럼 본론으로 들어가 볼까요? 이것은 다시 말하지만, 작품 제목이 마치 "그냥 해"와 같은 의미입니다. 컴퓨터 에이전트는 맹목적인 목표 지향성을 보인다. 음, 이건 제가 마이크로소프트에서 인턴으로 근무했을 때 주로 했던 작업이에요 . 어, 지난 여름에 지도 교수님들을 포함한 팀과 함께했어요.
+- **[3Shape expands global dental support with AI voice and chat agents from ElevenLabs](https://www.youtube.com/watch?v=gMHN4aPSgU8)** — 2026-06-09 · ko · `AX`
+  11:FS 음성 에이전트를 도입하는 것을 적극 추천합니다. 자동화에만 집중하는 대신 고객에게 더 나은 결과를 제공하는 데 정말 큰 도움이 되었기 때문입니다 . 제 이름은 이아니스 쿠파스입니다. 저는 3Shape 고객 지원 부서에서 AI 도입을 총괄하고 있습니다 . 3Shape는 치과 스캐닝 기술, 스캐너 및 관련 소프트웨어 생태계를 제공하여 치과 전문가들이 워크플로우를 디지털화하고 더 나은 환자 치료 결과를 얻을 수 있도록 지원합니다. 저희는 전 세계 고객들을 대상으로 전화, 이메일, 채팅을 통해 지원을 제공하며 매주 수천 건의 문의 사항을 해결하고 있습니다
 
-- **[Yulu Gan - FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos](https://www.youtube.com/watch?v=-Hz4UrR27v0)** — 2026-05-18 · ko · `unclassified`
-  [음악] 오늘은 동영상 속 공간적 움직임에 대한 자동 동작 라벨링 및 추론의 기초에 대해 이야기해 보겠습니다 . 그리고 최근에는 대형 라인 모델이나 시각적 라인 모델이 채팅과 코딩에 매우 강력한 성능을 보여주고 있습니다. 하지만 사실 그들은 공간적인 움직임이나 공간적 이해 능력이 그다지 좋지 않습니다. 하지만 실제로 움직임은 매우 중요합니다. 약 20억 년 전에 아메바는 움직일 수 있었습니다. 그리고 그들은 에너지를 거의 사용하지 않는 생물이기 때문에, 그들이 하는 모든 움직임은 생존하고 먹이를 찾는 데 집중되어 있습니다
+- **[Beam improves access to social services with ElevenLabs](https://www.youtube.com/watch?v=cQA_N28_71Q)** — 2026-06-09 · ko · `unclassified`
+  저희 문서 작성 도구[음악]는 현장 팀의 전체 시간 중 20%[음악] 이상을 절약해 주고 있으며 , 음성 상담 도구는 전화를 받는 사람들의 시간 중 50%[음악] 이상을 절약해 주고 있습니다 . 그렇다면 저 숫자들은 실제로 무엇을 의미하는 걸까요? 음, 그건 사람들이 위험 부담이 크지만 의미 있는 인간적인 일을 하는 데 훨씬 더 많은 시간(음악)을 쓸 수 있다는 걸 의미하죠 . 제 이름은 알렉스 스테파니이고, Beam의 창립자 겸 CEO입니다.
 
-- **[Dr. James Bedford - University 3.0:  A Pedagogy-First Approach to Vibe Coding](https://www.youtube.com/watch?v=mdfMDUdveTY)** — 2026-05-08 · ko · `AX`
-  [음악] 안녕하세요 여러분. 한국 커뮤니티에서 주최하는 에듀테크 세션에 오신 것을 환영합니다 . 오늘 제임스 박사님과 함께하는 세션에 여러분 모두를 환영합니다 . 간단히 소개하자면, 제임스 박사님은 수상 경력이 있는 작가이자 12년 이상 고등 교육 분야에서 근무한 교육자입니다. 그는 뉴사우스웨일스대학교( UNSW)에서 창작 글쓰기 박사 학위를 받았으며, 고등교육 아카데미의 선임 연구원입니다 . 그는 현재 UNSW 대학 에서 인공지능 교육 전문가로 재직 중입니다 . 오늘 함께해 주셔서 정말 감사합니다, 제임스 박사님. 저희는 여러분을 만나게 되어 매우 기쁩니다.
+- **[InPost on Building a Voice AI Shopping Assistant — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=0XpRho8E2-o)** — 2026-06-09 · ko · `unclassified`
+  [음악] [박수] 안녕하세요, 여러분. 안녕하세요, 바르샤바. 바르샤바의 중심부에 위치한 아름다운 그랜드 극장 무대에 설 수 있다는 것은 정말 큰 영광입니다 . 이 행사에 참여하게 되어 큰 영광입니다 . 제 이름은 Beata Podleśna Gunkowska입니다. 저와 함께 루카시 지에칸이 인포 스트(InPost)의 새로운 서비스를 담당하고 있으며, 인포스트 앱에 AI 비서를 탑재하여 사용자들에게 새로운 쇼핑 경험을 제공하고 있습니다. 시작하기 전에 11 Labs의 설립자분들께 진심으로 감사드린다는 말씀을 드리고 싶습니다 .
 
-- **[Visualizing Research: A co/plot walkthrough and Q&A](https://www.youtube.com/watch?v=7O8OTUp94WE)** — 2026-05-01 · ko · `AX`
-  [음악] 좋아요. 시원한. 타겟이 시작했습니다. 자, 지금 녹화 중이니까요. 저를 모르시는 분들을 위해 소개드리자면, 저는 토마스 오영이고, 코히어 랩(Cohere Labs)에서 비주얼 스토리텔링 연구원으로 일하고 있습니다. 그리고 코파일럿(Copilot)의 개발자이기도 합니다. 오늘 함께해 주셔서 정말 감사합니다. 오늘은 제가 왜 코파일럿을 만들었는지에 대해 간단히 이야기해 보려고 합니다. 사람들이 코파일럿을 좀 더 깊이 있게 활용하는 데 도움이 될 것 같아서요. 그 후 코파일럿 데모를 보여드리고, 코파일럿을 넘어 데이터 시각화에 대한 더 폭넓은 이야기를 나눠보려고 합니다.
+- **[Zen Educate extends after-hours support for educators with ElevenLabs](https://www.youtube.com/watch?v=P5XfoojtDgU)** — 2026-06-09 · ko · `unclassified`
+  저희가 11 Labs를 특별히 선택한 이유는 시중에 나와 있는 수많은 음성 비서 옵션 중에서 11 Labs가 가장 인간과 유사하다고 생각했기 때문입니다. 그것은 가장 통찰력 있고 직관적인 음악이었다. 그리고 우리가 타협할 의향이 없었던 부분 , 즉 음악 고객과의 인간적인 상호작용 또는 인간과 유사한 상호 작용으로 돌아가 보겠습니다. 저는 대릴 추아입니다. 저는 ZenEducate의 공급 및 운영 담당 부사장입니다. 저희는 영국과 미국의 학교에서 음악 교사 일자리를 찾는 교육자들을 지원하는 양면 시장 플랫폼입니다 .
 
-- **[Brian Chao - Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://www.youtube.com/watch?v=FYOl-4glV2M)** — 2026-04-30 · ko · `unclassified`
-  [음악] 오늘은 공간 인식 이미지 및 비디오 생성이라고 공식적으로 불리는 가짜 생명 확산에 대해 이야기해 보겠습니다. 이 연구는 스탠포드에서 공동 연구자인 레오 하워드, 그리고 지도교수인 고든과 함께 진행한 것입니다. 좋아요. 그래서 제 생각에는 모든 분들이 "네, 할 수 있을까요?"라고 물어보시는 것 같아요. 어, 슬라이드쇼 창 표시 버튼을 누르세요 . 아, 보여주시는군요. 응. 지금 방송 중인가요? 네, 지금은 괜찮아요. 잠깐만요, 어떻게 전체 화면으로 만들죠? 좋아요, 다시 시도해 볼게요. 이거, 어...
+- **[AI Agents for Creative Production — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=RjcxQg5abUI)** — 2026-06-08 · ko · `AX`
+  [음악] Eleven Creative는 마케터와 크리에이터가 놀라운 캠페인을 대규모로 제작할 수 있도록 지원하는 올인원 크리에이티브 플랫폼입니다. 저희는 최고의 모델과 최고의 도구를 결합하여 놀라운 브랜드 영상, [코웃음] 퍼포먼스 마케팅 캠페인, 소셜 미디어 콘텐츠를 제작해 드립니다. 저희는 1억 명이 넘는 사용자를 보유하고 있습니다. 죄송하지만, 제게는 100만 개가 넘는 돈이 있습니다. 우리는 100명에 도달할 것입니다. Eleven Creative는 디즈니, 마이크로소프트, 엔비디아, 어도비 등 세계적인 브랜드들을 포함하여 100만 명이 넘는 사용자를 보유하고 있습니다.
 
-- **[Pedro Ortiz Suarez & Laurie Burchell – Expanding Linguistic and Cultural Coverage in Common Crawl](https://www.youtube.com/watch?v=Q4_e7Pnj6Yw)** — 2026-04-30 · ko · `AX`
-  [음악] 자 , 여러분 모두 환영합니다. 네, 여기 저희가 왔고, 또 다른 게스트 세션을 진행할 예정입니다. 안녕하세요, 저는 브론슨입니다. 저는 아프리카 지역 출신입니다. 안녕하세요, 저와 스티븐은 아프리카 지역 그룹에서 일하고 있습니다. 오늘 페드로와 로리를 모시고 Common Crawl에서 언어 및 문화적 범위를 확장하는 방법에 대한 세션을 진행하게 되어 매우 기쁩니다. 그리고 혹시 여기 처음 오신 분이라면, 이곳은 Go Here Labs 커뮤니티입니다. 아직 가입하지 않으셨다면 환영합니다. 저희는 누구나 머신러닝 연구를 할 수 있는 공간을 제공하는 곳입니다
+- **[How LOT Polish Airlines Is Transforming Customer Experience with AI — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=WgguSi9rK4U)** — 2026-06-08 · ko · `unclassified`
+  [음악] 사람들은 항공사를 생각할 때 비행기, 객실 승무원, 조종사, 그리고 비행 목적지를 떠올립니다 . 당연한 일이죠. 사람, 관계, 그리고 항공기는 우리가 하는 일의 핵심입니다. 현재 LOT는 약 90대의 항공기를 운항하고 있으며, 100대를 추가로 주문한 상태입니다. 저희는 지역 노선에 엠브라에르 항공기를 도입하고, 조만간 에어 버스 A220과 유럽 및 중동 중거리 노선에 최신 보잉 737 MAX 제품군을, 그리고 방콕, 샌프란시스코, 시카고, 서울, 토론토 등 주요 노선에는 드림라이너 787을 투입할 예정입니다 .
 
-- **[Jiafei Duan  - Building Robotics Foundation Model with Reasoning in the loop](https://www.youtube.com/watch?v=ZB5IAlFvt1c)** — 2026-04-24 · ko · `AX`
-  안녕하세요 여러분, 오늘은 Reason을 활용하여 로봇 공학 기초 모델을 구축하는 방법에 대한 제 박사 연구 내용을 공유하려고 합니다. 머신러닝은 이제 우리 일상생활의 일부가 되었죠. 학문적 영역을 넘어 엄청난 발전을 이루어 이메일을 작성하고, 디지털 작업을 지원하며, 심지어 코드를 생성해 주기까지 합니다. 여러모로 머신러닝의 발전은 우리가 생각하고 일하는 방식을 디지털 세계에서 변화시켰다고 할 수 있습니다. 하지만 제 생각에는 아직 부족한 부분이 하나 있는데, 바로 물리적 세계입니다. 인공지능이 아직 물리적 세계에서는 거의 존재감을 드러내지 못하고 있다고 생각합니다.
+- **[How TELUS Digital reduced onboarding time by 20% using ElevenAgents](https://www.youtube.com/watch?v=8GbySh4gCFE)** — 2026-06-08 · ko · `unclassified`
+  텔러스 디지털의 제품 담당 부사장인 미치 라보만과 저는 상담원 경험과 저희가 ' 상담원 경험 플랫폼'이라고 부르는 것에 대해 함께 연구하고 있습니다. 콜센터 상담원의 이직률은 연간 30~50%에 달합니다 . 텔러스 디지털은 7만 명의 컨택센터 직원을 보유하고 있습니다. 그래서 연간 채용 규모는 2만 명에서 3만 명 사이이며, 정규직 직원을 채용하는 것은 아닙니다. 그래서 우리가 해야 할 일은 컨택센터 상담원들이 최대한 빨리 업무에 적응할 수 있도록 하는 것이었습니다.
 
-- **[Shuo Li Liu - Coherence in RLHF Preference Data](https://www.youtube.com/watch?v=V_l4vOL_1Ms)** — 2026-04-24 · ko · `AX`
-  [음악] 다들 RLHF에 대해 어느 정도 알고 계실 거라고 생각해서 데이터 구조에 대해 간단히 소개해 드리겠습니다. 그래서, 이 연구에서는 인간의 선호도 데이터를 활용한 강화 학습을 다루고 있습니다. 그리고 일반적으로 우리는 매우 큰 데이터 세트를 가지고 있습니다. 예를 들어, 우리는 하나의 동일한 프롬프트를 사용하여 두 개의 응답을 생성합니다. 가장 기본적인 경우, 우리는 인간 평가자가 직접 여러 답변 중에서 하나를 선택하도록 합니다 . 그리고 그들은 일반적으로 이 실험을 대규모로 반복합니다.
+- **[How Voice Cloning Is Helping People with MND — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=lEsqbF4Bz7A)** — 2026-06-08 · ko · `unclassified`
+  [음악] 2024년, 11 Labs는 운동신경원 질환(M&amp;D) 환자들 사이에서 증가하는 니즈를 파악하고, 상상도 못 했던 기술 활용 사례를 발견했습니다 . M&amp;D에 대해 잘 모르시는 분들을 위해 설명드리자면, M&amp;D는 근육 운동을 조절하는 신경에 ​​점진적으로 영향을 미치는 신경퇴행성 질환입니다 . 시간이 지나면서 이들 중 상당수는 걷는 능력, 손을 사용하는 능력, 먹는 능력, 말하는 능력을 잃게 됩니다. 이 모든 과정 속에서도 그들의 정신은 대개 온전히 남아 있습니다. 그들은 여전히 ​​예전처럼 생각하고 느끼고 창조 하지만, 신체가 더 이상 그것을 표현하도록 허락하지 않습니다
 
-- **[Aashish Rai  - Video Native Representations for 4D Gaussian Scenes](https://www.youtube.com/watch?v=-F69RzaY3bU)** — 2026-04-20 · ko · `unclassified`
-  아, 알겠습니다. 제 이름은 아시쉬입니다. 저는 브라운 대학교 박사 과정 학생입니다. 오늘은 4D 장면을 위한 비디오 네이티브 표현 방식에 대해 이야기해 보겠습니다 . 자, 그럼 본격적으로 시작하기 전에 4D 재구성이 무엇인지 알아볼까요? 4D 재구성이란 무엇인가요? 간단히 말해서, 우리는 역동적인 장면을 여러 각도에서 촬영하여 시간에 따른 프레임을 얻는데, 이는 공간과 시간의 샘플과 같습니다. 음, 그러면 우리는 XYZ축과 D축을 더한 4차원 볼륨을 만들어서 언제든지 어떤 시점에서든 재생할 수 있도록 합니다 .
+- **[Introducing Guardrails 2.0 in ElevenAgents](https://www.youtube.com/watch?v=zQnjj0KYiKY)** — 2026-06-08 · ko · `unclassified`
+  11개 에이전트에 Guardrails 2.0 [음악]을 소개합니다 . 이제 몇 번의 클릭만으로 가장 중요한 사용자 지정 정책을 정의하고 적용할 수 있습니다 . 또한, 미리 만들어진 제어 기능을 활성화하여 상담원들이 주제에서 벗어나지 않고, 브랜드 이미지를 유지하며, [음악]을 사용하고 , 조작에 대한 저항력을 갖도록 할 수 있습니다. Guardrails 2.0은 신뢰할 수 있고 기업 환경에 바로 적용 가능한 AI를 위해 구축된 11 Labs의 광범위한 신뢰 및 안전 기반의 일부입니다 . 지금 바로 11명의 상담원과 함께 시도해 보세요.
 
-- **[Ekdeep Singh Lubana - From Probes to Rewards  Using Interpretability to Shape Training](https://www.youtube.com/watch?v=F9eEYWX64ZA)** — 2026-04-20 · ko · `AX`
-  어 아딥은 샌프란시스코에 위치한 AI 해석 가능성 회사인 굿 파이어(Good Fire)의 기술 스태프입니다 . 어, 이전에는, 어, 그는 하버드 대학교 뇌과학 센터에 있었고, 지금도 그곳에 있습니다. 그는 그곳에서 물리학 지능 프로그램의 연구원으로 재직 중입니다. 그의 주요 연구는 해석 가능성, 특히 AI 안전성과 관련된 현상학적 성장 이론, 다양한 모델의 동작, 이러한 동작을 예측하는 모델 생성 등에 초점을 맞추고 있으며, 이는 자연스럽게 정렬 위험과도 관련이 있습니다.
+- **[New Models and the Future of Voice AI | Mati Staniszewski, ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=va9CLYXfAjA)** — 2026-06-07 · ko · `unclassified`
+  [음악] [박수] [음악] 11 Labs Summit과 Teatr Wielki에 오신 것을 환영합니다. 정말 멋진 장소네요. 이곳은 고도의 발성 기법을 통해 단 한 사람의 목소리가 오케스트라 전체의 연주 위로 솟아오를 수 있는 곳입니다. 이 건물은 공연의 명료도를 저해하지 않으면서 소리가 방 전체에 울려 퍼지도록 설계되었습니다 . 이곳은 아이디어, 감정, 그리고 폴란드 정체성을 표현하는 장소입니다. 모두 함께 모이기에 이보다 더 좋은 장소는 없을 것 같아요. 제 공동 창업자인 피오트르와 저는 바르샤바 교외, 이곳에서 멀지 않은 곳에서 자랐습니다
 
-- **[Juan Sebastian Rojas - A Differential Perspective on Risk Aware Reinforcement Learning](https://www.youtube.com/watch?v=kGu2lueXH9A)** — 2026-04-13 · ko · `AT`
-  제 이름은 후안 로아스입니다. 저는 토론토 대학교 박사 과정 학생이며, 오늘 이 자리에 참석하여 제가 박사 학위 연구의 일환으로 진행해 온 연구 내용을 여러분과 공유하게 되어 매우 기쁩니다 . 오늘 발표의 제목은 ' 위험 인식 강화 학습에 대한 차별적 관점'입니다 . 그래서 이 발표를 한 문장으로 요약하자면, 차별적 강화 학습은 위험을 인지한 의사 결정을 더 쉽게 만들어준다는 것입니다. 그래서 오늘 강연에서는 왜 이것이 사실인지 여러분 모두를 설득하려고 합니다.
+- **[Introducing Flows Agent](https://www.youtube.com/watch?v=5svdfmvMwWQ)** — 2026-06-04 · ko · `unclassified`
+  Flow의 Agent [음악]를 11 Creative에 소개합니다. 11 Creative는 대규모 크리에이티브 자산 제작을 위한 AI 공동 빌더입니다 . 원하는 것을 설명하면 그것이 만들어지는 것을 볼 수 있습니다. [음악] Flow의 에이전트는 사용자 요구 사항에 맞는 모델을 선택하고 , 노드를 연결하고, 생성 작업을 실행하는 등 모든 작업을 하나의 작업 흐름 내에서 수행합니다. 여기에서 다양한 옵션을 만들고, 제품을 쉽게 교체하고, 콘텐츠를 새롭게 꾸밀 수 있습니다 . 담당 에이전트가 필요한 모든 것을 지원해 드리고, 캠페인의 분위기와 스타일에 맞는 음성 추천까지 해드릴 것입니다
 
-- **[Zifeng Liu - Human–AI Collaboration in Educational Assessment  Evaluating AI Generated Distractors](https://www.youtube.com/watch?v=X84gmuT9RI8)** — 2026-04-13 · ko · `AX`
-  [음악] 안녕하세요, 여러분! 와주셔서 감사합니다. 라핀이 소개했듯이 제 이름은 종이고, 현재 플로리다 대학교에서 교육공학 박사 과정을 밟고 있습니다. 이렇게 여러분과 만나게 되어 정말 기쁩니다 . 오늘 강연에서는 핵심 질문 하나에 집중하겠습니다. 인공지능이 생성한 객관식 문제의 오답 보기나 피드백과 같은 평가 콘텐츠를 과연 신뢰할 수 있을까요 ? 이번 발표에서는 서로 연관된 두 가지 연구를 함께 다룹니다. 하나는 ICCE uh 2025에서 발표되었고, 다른 하나는 tribal AI에서 발표되었습니다.
+- **[Hasbro Voices Now Available in the Iconic Marketplace](https://www.youtube.com/watch?v=k9D3BoCTSqA)** — 2026-06-03 · ko · `unclassified`
+  모든 이야기(음악)는 질문에서 시작되고, 모든 질문에는 약간의 드라마가 필요하다. 그러니 잘 들어보세요. 정말 흥미 진진한 이야기가 펼쳐질 테니까요. [음악] 때로는 작은 목소리 하나면 충분할 때도 있으니까요. 그리고 개성이 넘치죠. 전 세계가 귀 기울이도록 하기 위해. [음악] 하스브로의 상징적인 캐릭터들을 이제 11 Labs 아이코닉 마켓플레이스에서 만나보실 수 있습니다 .
 
-- **[Niloofar Mireshghallah - Contextual Integrity in LLMs Benchmarking](https://www.youtube.com/watch?v=ZXeRjVnVndQ)** — 2026-04-06 · ko · `AX`
-  [음악] 자 , 여러분 슬라이드 보이시죠 ? 네 , 가능합니다. 좋아요, 좋습니다. 자, 저는 개인정보 보호, 맥락적 개인정보 보호, 에이전트 시대의 개인정보 보호에 대해 이야기하려고 합니다. 그리고 제가 이번 강연 제목을 '2026년은 새로운 2016년'으로 정한 이유는 개인정보 보호뿐만 아니라 여러 가지 주제들이 다시 주목받고 있다고 생각하기 때문입니다 . 아시다시피, 2017년이나 2018년에 강화 학습이 큰 인기를 끌었는데, 지금 다시 사람들이 강화 학습을 하고 있어요.
+- **[How to Make AI Music with ElevenLabs Music v2](https://www.youtube.com/watch?v=vcpM4MRupNE)** — 2026-05-29 · ko · `AX`
+  저희는 AI 음악 모델의 차세대 버전인 Music V2를 출시했습니다. 이제 곡을 부분별로 완성하고 , 트랙의 특정 부분만 다른 부분에 영향을 주지 않고 복원할 수 있으며, 하나의 곡이 오페라에서 헤비메탈로, 다시 오페라로 장르를 바꿔도 흐트러지지 않습니다. 그래서 이 영상에서는 11 Creator의 모든 새로운 기능과 사용 방법을 자세히 설명해 드리겠습니다. Music V2는 저희의 음악 생성 모델의 2세대 버전입니다 . 보컬부터 악기 연주, 편곡에 이르기까지 모든 장르에서 전반적으로 더 좋게 들립니다.
 
-- **[Debjyoti Paul - Learning to Act Reinforcement Learning for Agentic LLM Systems](https://www.youtube.com/watch?v=IQ4cnEZHQpU)** — 2026-03-27 · ko · `AX`
-  완벽한. 안녕하세요 여러분, 이번 머신 러닝 수학 세션에 참여해주셔서 정말 감사합니다. 제 이름은 카트리나이고, 코 휴어 랩에서 머신러닝 수학 부문 리더를 맡고 있습니다. 오늘 저희는 연사님을 모시게 되어 매우 기쁩니다 . 그는 아마존에서 9년 이상 데이터 과학자로 근무했으며 자연어 처리, 대규모 언어 모델, 에이전트형 AI 및 책임 있는 AI 분야에서 풍부한 경험을 가지고 있습니다. 오늘 그는 Aentic LLM 시스템을 위한 강화 학습에 대해 발표할 예정입니다. 그럼 이만 넘기겠습니다. 응.
+- **[Introducing Dubbing v2](https://www.youtube.com/watch?v=ACebvfrZOfM)** — 2026-05-28 · ko · `unclassified`
+  소개합니다 뉴보트 이라이카 살라스 코사스 크레베르 아 페사르 데 수 벨레자는 250년이 넘는 역사를 가지고 있습니다. Civilização consegue sobreviver nessa Ilha mas nos próximos dias a gente vai tentar mudar isso. 매일 밤 4시간. B2 [음악] 기타 [음악] [음악] 풍선을 타고 가는 톰바는 정말 멋진 하루였어요. [음악] 플로탕 당스 en [음악] 로트네. 6040 jedzenie i rozrywka 파라고니, 래포티 wydatków faktury, zamówienia zakupu. A에서 회사로? 람 [음악] Cartis Budovanimi Guami Vedatku 에디션 그들은 자동으로 제출합니다.
 
-- **[Yasser Benigmin - Domain Adaptation in the Era of Foundation Models](https://www.youtube.com/watch?v=YD-9qyo9O4c)** — 2026-03-27 · ko · `AX`
-  네, 그러니까 기본적으로 말씀드렸듯이 이번 발표는 공중 기초 모델의 도메인 적응에 관한 것입니다. 제 박사 학위 논문 발표이고, 지도교수님들은 논문 지도교수이신 스테판 라티에르, 현재 아트리아에서 근무하시는 비키 칼레톤 교수님, 그리고 인디야의 선임 연구원이십니다. 그럼 시작하겠습니다. 그러니까 컴퓨터 비전에서 가장 중요한 세 가지 작업 또는 가장 인기 있는 세 가지 작업을 꼽으라면, 첫째는 이미지 분류일 것입니다. 이미지 분류의 목적은 주어진 이미지에 이미지 수준의 레이블을 할당하는 것입니다.
+- **[Introducing Stan Lee on ElevenLabs](https://www.youtube.com/watch?v=W3kbm3s9p-I)** — 2026-05-27 · ko · `unclassified`
+  전설에 대해선 아무도 말해주지 않는 게 뭔지 알아 ? 그것들은 책보다 오래 살아남는다. 좋은 이야기는 한순간에 국한되지 않습니다. 음악은 자라나고, 변화하고, 세대를 거쳐 전해지면서 끊임없이 진화합니다. 모든 위대한 이야기는 영웅으로부터 시작됩니다. 초능력을 가진 사람이라고 해서 당신과 똑같은 문제를 겪지 않는다는 뜻은 아닙니다. 사실 누구든 슈퍼히어로가 될 수 있습니다. 슈퍼히어로는 단지 평범한 사람이 비범한 일을 할 용기를 낸 것일 뿐입니다 . 예전에는 제가 그저 만화 작가일 뿐이라는 사실이 부끄러웠습니다.
 
-- **[Mansi Maheshwari  - Addressing the Plasticity Stability Dilemma in Reinforcement Learning](https://www.youtube.com/watch?v=kGR8YooDigM)** — 2026-03-23 · ko · `unclassified`
-  네, 오늘 함께해 주신 모든 분들께 감사드립니다 . 오늘 저희 모임에는 마니 씨가 특별 연사로 참여해 주셨습니다. 어, 마니는 매사추세츠 대학교 암 연구 캠퍼스 에서 컴퓨터 과학 석사 과정을 밟고 있으며, 자율 학습 연구실의 브루노 교수님의 지도를 받고 있습니다. 그녀의 연구는 평생 강화 학습에 초점을 맞춰, 종교가 끊임없이 변화하는 환경 속에서 어떻게 적응해 나갈 수 있는지를 연구합니다 . 어, 그 남자는 KOLAS 2025에서 포스터로 발표되고 AMAS 2026 구두 발표로 채택된 자신의 연구를 발표할 예정입니다
+- **[Introducing Music v2](https://www.youtube.com/watch?v=ZNmYNxSMPGs)** — 2026-05-26 · ko · `unclassified`
+  [음악] 내 손목엔 11, 상승세는 11. [음악] 마이크의 11번째 음량, 높은 레벨 정수. 11개의 숫자, 내가 공중부양하는 걸 지켜봐. 승무원들은 출발할 준비가 되어 있으며, 모든 단계는 신중하게 진행됩니다. 11과 11, 볼륨을 높여. E E [음악] 11. 11과 11, 분해해 보세요. E E 11. 남자, 남자, [노래] 남자, 남자, [음악] 남자. 11. 리듬이 당신을 [음악] 영혼으로 이끌도록 하세요 . 열쇠 11개가 돌아가고, 심장 11개가 불타오른다. [음악] 모든 음표가 도착할 때마다 우리를 더 높은 곳으로 끌어올려 줍니다.
 
-- **[MingYang Deng  - Generative Modeling via Drifting](https://www.youtube.com/watch?v=2-fzINkakHA)** — 2026-03-23 · ko · `unclassified`
-  좋네요. 네, 물론이죠. 괜찮아요. 응. 응. 저는 제 배경에 대해 간략하게 이야기했을 뿐입니다. 요즘 사람들은 함수를 배울 때 보통 함수 실행, 손실 계산, 최적화를 위한 그레인 하강법 등을 포함한 전체적인 과정을 배우는 경향이 있습니다 . 그래서 이 방법은 예를 들어 인식 작업과 같은 분야에서 매우 인기가 높습니다 . 왼쪽을 보시면 아시겠지만, 이것이 사람들이 분류 작업을 할 때 일반적으로 사용하는 방식입니다 . 하지만 역사를 되돌아보면 인정받는 데 있어서조차 항상 그런 것은 아니었습니다
+- **[Gemini Omni Is Here — Everything You NEED to Know](https://www.youtube.com/watch?v=sspeHtbRh1U)** — 2026-05-21 · ko · `unclassified`
+  구글은 IO 2026에서 제미니 옴니(Gemini Omni)를 공개했는데 , 이는 인공지능 비디오 분야에서 구글의 가장 큰 행보입니다. 네, C 언어 2.0처럼 텍스트, 이미지, 오디오, 비디오를 입력으로 받아들이고, 실제 물리 법칙에 기반한 영상을 생성하며 , 음성 명령만으로 전체 영상을 편집할 수 있는 모델이 있습니다 . 이번 영상에서는 Gemini Omni가 정확히 무엇인지, 어떤 새로운 기능이 있는지, 음악 기능은 무엇인지, 그리고 오늘 바로 어떻게 사용할 수 있는지 자세히 알려드리겠습니다. Gemini Omni는 Google DeepMind에서 개발한 새로운 모델 제품군입니다
 
-- **[Diego Fajardo - No single test is enough](https://www.youtube.com/watch?v=U0b1V0r0LPc)** — 2026-03-20 · ko · `AX`
-  우리는 똑똑해 보이는 방법을 아는 언어 모델로 가득 차 있지만, 그것이 현실 세계에 대비하는 것과 같은 의미는 아닙니다. 음, 모든 모델은 벤치마크 테스트에서는 뛰어난 성능을 보이는 척할 수 있지만, 특히 인간의 생명이 걸린 상황에서는 그러한 착각이 매우 큰 비용 과 잠재적 위험을 초래할 수 있습니다. 안녕하세요. 안녕하세요, 저는 디에고이고 유모스에서 의료 AI 관련 업무를 총괄하고 있습니다.
+- **[Introducing Speech Engine](https://www.youtube.com/watch?v=7cIEXzN1xcA)** — 2026-05-20 · ko · `AX`
+  개발자가 단 한 번의 프롬프트로 채팅 에이전트를 음성 에이전트로 전환할 수 있는 [음악] 음성 엔진을 소개합니다 . 배송 일정을 변경해야 합니다. 목요일로 옮겨주실 수 있나요? 완료. 목요일 오후 2시에서 4시 사이로 시간을 옮겼습니다. 곧 확인 문자 메시지를 받으실 겁니다. Speech Engine은 당사의 주요 음성 모델들을 하나의 파이프라인으로 통합하며, 모든 모델은 최상의 성능을 발휘하도록 맞춤 제작되었습니다 . 이 기능은 음악을 기존 에이전트에 직접 연결하며, LLM, 래그타임, 오케스트레이션은 모두 그대로 유지됩니다.
 
-- **[Cultural awareness in AI - From Knowledge Tests to Social Norms and Beyond](https://www.youtube.com/watch?v=xsm5pPjMFIE)** — 2026-03-16 · ko · `AX`
-  [음악] 좋아요. 네, 그럼 시작하죠. 그럼 간단한 자기소개를 해볼까요? 제 이름은 줄리아입니다. 저는 Kh Labs의 선임 연구원입니다 . 음, 혹시 잘 모르시는 분들을 위해 Labs가 하는 일에 대해 잠시 후에 설명해 드리겠습니다 . 대부분 그러시겠지만 , 아마도 이런 경로로 이 전화를 받으셨을 테니까요. 하지만 혹시 모르시는 분들을 위해 말씀드립니다 . 음, 저는 오랫동안 다국어 지원 관련 업무를 해왔습니다. 처음에는 기계 번역을 하다가 지금은 주로 다국어 지원과 학습 관리 시스템(LMS)에 집중하고 있습니다
+- **[Introducing Albert Einstein’s Voice on ElevenLabs](https://www.youtube.com/watch?v=_P44_yVQ6DE)** — 2026-05-19 · ko · `unclassified`
+  사람들은 종종 제게 [음악] "어떻게 그렇게 훌륭한 아이디어들을 많이 떠올릴 수 있었나요 ?"라고 묻곤 했습니다. [음악] 음, 저는 항상 "실수를 한 번도 해보지 않은 사람은 새로운 것을 시도해 본 적이 없는 사람이다"라고 말해왔어요. 현실은 단지 환상일 뿐이지만, 매우 설득력 있는 음악적 환상이다. 하지만 우리가 스스로의 한계를 받아들일 때, 비로소 음악은 그 한계를 뛰어넘게 되는 겁니다. 저는 인생에서 많은 어려움을 겪었지만, 진정한 기쁨은 자연이 선사하는 가장 아름다운 선물들을 바라보고 이해하는 데서 비롯됩니다.
 
-- **[Dr  Plamen Miltenoff - AI and XR in Education  From Curiosity to Competence](https://www.youtube.com/watch?v=Pb2t7U6vf7Y)** — 2026-03-13 · ko · `AX`
-  [음악] 안녕하세요 여러분, 저는 코허 랩스 에듀테크 커뮤니티의 라파 무스타파입니다. 이번 세션에 오신 것을 환영합니다. 오늘 초청 강연자 자리에는 국제적인 학술 경력을 풍부히 쌓아온 연구자이자 교육자인 플만 박사님을 모셨습니다. 그는 호주 국립 도서관과 노스웨스턴 대학교에서 연구원 및 사서로 근무했으며, 세인트 클라우드 주립 대학교에서 정보 전문가 및 교수로 재직했습니다. 그는 현재 경제대학교 과학연구소에서 연구 및 교육을 수행하고 있다 . 탐만 박사님, 환영합니다. 여러분, 안녕하세요. 시작해도 될까요? 네, 시작할 준비는 모두 끝났습니다.
+- **[GPT Image 2 vs Nano Banana 2 (Real Results)](https://www.youtube.com/watch?v=l284Xo8NOgE)** — 2026-05-18 · ko · `AX`
+  GPT Image 2와 Nano Banana 2는 현재 세계 최고의 AI 이미지 모델 두 가지라고 해도 과언이 아닙니다. 둘 다 음악을 생성하고 편집할 수 있으며, 놀라운 결과물을 만들어내지만, 반드시 서로 대체 가능한 것은 아닙니다. 그리고 만약 업무에 적합하지 않은 사람을 선택하면, 품질은 물론이고 속도와 신뢰도까지 손해를 볼 수 있습니다. 그래서 이번 영상에서는 Eleven Creative 환경에서 Nano Banana 2와 GPT Image 2를 직접 비교 테스트하여 어떤 상황에서 어떤 것을 사용하는 것이 더 나은지, 그리고 그 이유는 무엇인지 알아보았습니다
 
-- **[Nishanth Anand - The permanent and transient framework for continual reinforcement learning](https://www.youtube.com/watch?v=N0O86SlGUgM)** — 2026-03-06 · ko · `unclassified`
-  [음악] 맞아요. 안녕하세요 여러분. 오늘 함께해 주셔서 감사합니다. 오늘 저희와 함께하시는 분들은 맥길 대학교 컴퓨터 과학 박사 과정생인 니샨트 아난드 와 도이나 프레컵 교수님의 지도를 받고 있는 밀라입니다. 그의 연구는 지속적인 강화 학습에 초점을 맞추고 있으며, 인지 과학과 신경 과학에서 영감을 받은 새로운 알고리즘을 개발하여 AI 에이전트가 비정적인 환경에 적응할 수 있도록 돕습니다. 이론적 엄밀성 과 실용적 유용성을 모두 갖춘 니샨트는 NeurIPS와 ICML에서 제1저자 논문을 발표했습니다 .
+- **[Introducing Agent Workflows](https://www.youtube.com/watch?v=b9MMjr04_WA)** — 2026-05-13 · en · `unclassified`
+  11 Labs just took a major step towards agentic [music] control. And it all starts here. Our new visual editor for designing complex agent conversation flows. [music] This brand new functionality lets you orchestrate every scenario, blending artificial intelligence, complex [music] logic, and deterministic action. Whether it's triggering real-world [music] events, verifying and authorizing callers, or transferring to a human operator. You decide the user flow for every scenario.
 
-- **[Angela Lopez Cardona  - How cognitive data can improve LLM alignment](https://www.youtube.com/watch?v=HK2yB3fwYMY)** — 2026-03-03 · en · `DX`
-  So I start um yeah so I'm Angela and as she was mentioning I'm doing a PhD in here in Barcelona in Telefonica and the main topic that I'm studying is how to improve FL language models with cognitive processing signals. So today I'm going to explain briefly kind of different projects all related to this task that uh I have developed during my thesis with the collaboration of my colleagues Carlos Mleia Sian and Yianis and others and some of them appear here in this in this photo that we took last year in a conference.
+- **[Introducing Templates in ElevenCreative](https://www.youtube.com/watch?v=ff3hisEMqpU)** — 2026-05-13 · en · `AX`
+  We just launched templates inside of 11 Creative. They're ready-made creative workflows that allow you to produce any [music] asset you can think of with the click of a button. You simply upload an input, hit run, and get a finished asset as many times as you need. So, let me show you how templates work and how you can create your own. Inside 11 Creative, simply click templates.
 
-- **[Tiny Aya Technical Talk](https://www.youtube.com/watch?v=Rf5moM9bO6o)** — 2026-03-03 · ko · `AX`
-  네, 모두 환영합니다. 안녕하세요, 저는 알레한드로이고 코허 랩에서 연구 엔지니어로 일하고 있습니다. 오늘 저는 타이니 아야의 핵심 멤버인 다이애나, 줄리아, 다니엘과 함께 타이니 아야를 통해 진행해 온 모든 연구 내용을 발표하고 공유하려고 합니다 . 네, 그럼 이 모델의 다양한 세부 사항과 단계를 하나씩 살펴보겠습니다. 간단히 소개하자면, 다이나야(Dynaya)는 저희가 최근에 출시한 소형 오픈웨이트 다국어 모델 제품군입니다. 네, 이건 심층 분석입니다. 그래서 저희는 사전 학습, 사후 학습, 평가, 기기 배포 등 전체 파이프라인의 모든 세부 사항을 다룰 것입니다
+- **[Introducing ElevenAgents for Support](https://www.youtube.com/watch?v=VGjn7ur58Lw)** — 2026-05-11 · en · `unclassified`
+  Introducing 11 agents for support, a dedicated offering designed to help customer support teams [music] quickly transform SOPs into industry-leading production-ready agents in just minutes. Easily improve agents using plain [music] text, optimize performance with built-in CX metrics, and set enterprise-ready [music] guardrails, all while seamlessly integrating with your existing systems. ElevenLabs, transforming human-technology interaction.
 
-- **[David Vilar - Beyond the 55  Scaling Multilingualism with TranslateGemma](https://www.youtube.com/watch?v=MjDiLu2Z-78)** — 2026-02-27 · ko · `unclassified`
-  [음악] 저는 현재 구글 디맨드에서 연구원으로 일하고 있지만 , 아주 최근까지는 구글 번역 연구팀에서 연구원으로 근무했습니다. 네, 그래서 지금 모든 게 통합되고 있는 중이에요. 네, 그래서 이 일을 할 때 저는 구글 번역팀의 일원으로 일했습니다 . 네, 저는 Google에서 출시한 Gemma 오픈 웨이트 모델을 기반으로 번역 작업에 특화된 트랜슬레이트 젬마(Translate Gemma)에 대해 이야기하려고 합니다. 네 , 그럼 시작해 볼까요? 확실한 것. 우선 가장 먼저 말씀드리고 싶은 건, 이건 저 혼자만의 작품이 아니라는 겁니다.
+- **[Fix Audio on Any Recordings in 111 Seconds](https://www.youtube.com/watch?v=IsxWw0X1OXg)** — 2026-05-08 · en · `unclassified`
+  In this video, you're going to learn how to fix any audio recording fix any audio recording using 11 Labs Voice Isolator, [music] no matter what the background noise is, and whether it was an interview, podcast, or just a quick clip for social media. To follow along, you can click the first link in the description to get started and head over straight to 11 Labs.
 
-- **[Tim Ossowski - OctoMed: Data Recipes for State of the Art Multimodal Medical Reasoning](https://www.youtube.com/watch?v=NecI1JbEp-4)** — 2026-02-27 · en · `AX`
-  [music] So hello everyone uh welcome back to another guests uh session uh under the ML healthcare community group um of the open science community of coher labs. We have with us today Tim Oski Oski &gt;&gt; Oski sorry we have with us today Tom Oski. He's a PhD student uh and a candidate at the University of Wisconsin Wson Madison, right? &gt;&gt; Yeah, Wisconsin. Yeah, &gt;&gt; Wisconsin medicine.
+- **[Introducing Agent Experiments](https://www.youtube.com/watch?v=1AYqUaIkesU)** — 2026-05-06 · ko · `unclassified`
+  11개 에이전트를 활용한 음악 실험을 소개합니다. 이는 실제 음악 에이전트의 성능을 향상시키는 가장 데이터 중심적인 방법입니다. 이제 전용 A/B 테스트를 실행하여 상담원의 음악 설정, 전체 워크플로 구조, 심지어 상담원의 음악 음성, 어조 및 개성까지 다양한 변형을 실험해 볼 수 있습니다. 음악 분야에서 어떤 실험이 최상의 결과와 고객 경험을 제공하는지에 대한 데이터를 수집합니다. [음악]을 배포하고 에이전트 성능을 안전하고 확실하게 향상시키세요. 트래픽 일부를 대상으로 테스트하고, 우수한 버전을 승격시키고 , 완벽한 버전 관리를 통해 성능을 개선할 수 있습니다
 
-- **[Expedition Tiny Aya Kick Off Event](https://www.youtube.com/watch?v=w4tSIrlOgEE)** — 2026-02-24 · ko · `AX`
-  [음악] 시작해 볼까요? 오늘은 야심찬 의제를 가지고 다뤄볼 내용과 공유할 내용이 많습니다. 슬라이드가 잘 올라가 있을 거라고 믿고 있어요. 혹시 안 보이면 알려주시겠죠? 벌써 이렇게 많은 분들이 채팅창에 참여해주셔서 정말 기쁩니다. 계속 사용하셔도 괜찮습니다. 저희는 오늘 일정을 빠르게 진행하고, 마지막에 질문 시간을 가질 예정이니 궁금한 점이 있으시면 언제든지 말씀해 주세요. 브리타니아가 채팅창을 통해 여러분의 질문에 답변하고, 필요한 정보를 제공해 드릴 것입니다. 또한, 저희가 슬라이드나 세부 사항에서 놓친 부분이 있다면 브리타니아가 알려줄 것입니다
+- **[Create Viral AI Time Travel Vlogs with Seedance 2.0](https://www.youtube.com/watch?v=eqBqHGbfy_A)** — 2026-04-30 · ko · `AX`
+  인공지능 시간 여행 브이로그가 소셜 미디어 전반에서 수백만 조회수를 기록하고 있습니다. 자, 그럼 11 Creative의 C Dance 2.0을 이용해 여러분만의 작품을 만드는 방법을 알려드리겠습니다. 방금 보신 건 AI가 시간 여행을 하는 브이로그였는데, 이런 영상들이 소셜 미디어에서 엄청난 인기를 끌고 있죠. 오늘은 11 Creative의 C Dance 2.0을 사용하여 나만의 곡을 만드는 방법을 보여드리겠습니다. 시작하겠습니다 . 자, 11 Creative에서 AI 시간 여행 브이로그 제작을 시작하려면 먼저 ' 플로우'를 클릭해야 합니다.
 
-- **[Konstantin Dobler - Token Distillation & the Future of Embedding Initialization for Tokenizer Transf](https://www.youtube.com/watch?v=ql0OPyAhsk4)** — 2026-02-18 · ko · `unclassified`
-  완벽한. 응. 네, 알겠습니다. 이 강연에 초대해 주셔서 감사합니다. 음, 이번 발표는 저와 공동 연구자인 데스몬드 엘리엇, 제라르도와 함께 최근 IC Clear에 게재가 확정된 논문에 관한 것입니다. 저는 콘스탄틴 두브라입니다. 이 논문은 새로운 토큰에 대한 토큰 증류 어텐션 입력 임베딩에 관한 것입니다. 그리고 저는 이 발표를 해당 분야, 특히 하위 분야에 대한 보다 일반적인 미니 설문 조사에 포함시켜, 사전 학습된 언어 모델의 토크나이저에 새로운 토큰을 추가하는 미래의 모습이 어떠해야 하는지에 대해서도 이야기해 보겠습니다
+- **[Introducing ElevenMusic](https://www.youtube.com/watch?v=6mrpjlZxQ-g)** — 2026-04-29 · ko · `unclassified`
+  Eleven Music을 소개합니다. Eleven Music은 새로운 아티스트를 발견하고 취향에 맞는 음악을 찾을 수 있는 플랫폼입니다 . 마음에 와닿는 음악을 찾아서, 그 음악을 나만의 것으로 만들어 보세요. 장르를 바꾸거나, 템포를 변경하거나, 완전히 새로운 것으로 리믹스하거나, 처음부터 다시 시작해 보세요. 가사와 멜로디를 입력받은 다음, AI가 그것을 완성된 음악 트랙으로 만들어주도록 하세요. 음악이 공감을 얻으면 팬층을 넓히고 수익을 창출하세요. 이미 4,000명이 넘는 크리에이터가 플랫폼에 참여하고 있는 만큼, 차세대 아티스트들은 더 이상 허가를 기다리지 않습니다
 
-- **[Nathan Calvin - Three People vs  Big AI  Policy, Power, and California’s Frontier AI Law](https://www.youtube.com/watch?v=RV00BTMY5XA)** — 2026-02-18 · ko · `unclassified`
-  좋아요, 알겠습니다. 네, 오늘 함께해 주신 모든 분들께 감사드립니다 . 오늘 아주 흥미로운 손님이 오셨습니다. 그의 이름은 네이선 캘빈입니다. 그는 Enco Justice의 총괄 이사이며, Enco Justice는 청년 주도의 활동가이자 공익 교육을 지향하는 비영리 단체로, 인공지능 관련 법률 제정을 옹호합니다. 그리고 그는 캘리포니아의 인공지능 투명성 법안인 SB53을 작성하는 데 도움을 주었습니다. 이 법은 올해 초에 발효되었습니다 . 그리고 법안 협상이 진행되는 동안, 세계 최대 기업 중 하나인 오픈AI가 그에게 상당한 압력을 가하며 이 법안에 반대하는 입장을 표명했습니다
+- **[The Eleven Album Vol. 2 is Here](https://www.youtube.com/watch?v=nuQm3zTeIpE)** — 2026-04-29 · ko · `unclassified`
+  모든 게 달라졌어요. Poison Ivy, Kes, Masego, Justin Love 등 다양한 아티스트의 곡이 수록된 11번째 앨범 볼륨 2를 소개합니다. 인간의 창의성과 생성형 인공지능 사이의 간극을 메우다. 음악 11곡만 있으면 됩니다.
 
-- **[Siddhartha Chitrakar - Matrix Calculus and Usage in Machine Learning ml math](https://www.youtube.com/watch?v=esnGGowenkM)** — 2026-02-18 · ko · `AX`
-  안녕하세요 여러분, 머신러닝 수학 세션에 오신 것을 환영합니다 . 제 이름은 카트리나이고, 코허 랩에서 머신러닝 수학 부문 리더를 맡고 있습니다. 오늘은 아주 특별한 시간이 될 것입니다. 오늘 저희 연사로 시다르트타 님을 모셨습니다 . 그는 앨버타 대학교에서 과학 석사 과정을 밟고 있는 학생이며, 행렬 미적분과 머신 러닝에서의 활용에 대해 발표할 예정입니다 . 그럼 이만 마치겠습니다 . 안녕하세요. 초대해 주시고 강연 기회까지 주셔서 정말 감사합니다 . 오늘은 행렬 미적분에 대해 이야기해 보겠습니다.
+- **[Create Cinematic Multi-Shot Sequences with Seedance 2.0 (Full Prompt Guide)](https://www.youtube.com/watch?v=jeYMKuce00k)** — 2026-04-28 · ko · `AX`
+  Seen 2.0은 놀라운 영화 같은 영상을 제작할 수 있습니다 . 다양한 장면들이 포함되어 있습니다. 단 한 세대 만에. 그럼 Seen 2.0을 사용하여 11 Creative 내에서 영화 같은 멀티샷 시퀀스를 만드는 방법을 보여드리겠습니다. 시작하겠습니다 . 자, 그럼 11 Creative 안에서 이미지와 비디오를 클릭해 보겠습니다. 그리고 여기 아래에서 Seen 2.0으로 여러 샷 시퀀스를 만들려면 비디오 모드로 전환한 다음 모델을 변경하고 Seen 2.0을 선택하면 됩니다. 바로 여기에 우리가 생성하고자 하는 비디오에 대한 설명을 입력 하고 프롬프트를 입력합니다.
 
-- **[Yanjun Shao - MedAgentsBench: Benchmarking Reasoning Models and Agent Frameworks for Complex Medical](https://www.youtube.com/watch?v=d33qvh7a5VA)** — 2026-02-18 · ko · `AX`
-  초대해 주셔서 감사합니다. 안녕하세요, 저는 다니엘입니다. 옌징이라고 불러주셔도 좋습니다. 오늘 발표할 작품은 E대학교 젠 연구실에서 재팬 톤 로버트, 마크 게링 교수님과 함께 작업한 것입니다. 오늘은 의료 AI 분야의 전략적 질문, 즉 에이전트 기반 워크플로우를 사용해야 할지 아니면 단일 추론 모델만 사용해야 할지에 대해 이야기해 보겠습니다. 복잡한 임상 추론 문제를 다루는 엄격한 벤치마킹 연구를 통해 이 질문에 대한 답을 찾아보겠습니다. 특히 기존 벤치마크의 한계를 넘어 임상 추론 모델을 평가하는 방법 등 세 가지 사항에 대해 자세히 살펴보겠습니다
+- **[GPT Image 2 Is Here — Everything You NEED to Know](https://www.youtube.com/watch?v=blOlUnC75O4)** — 2026-04-23 · en · `AX`
+  GPT Image 2 is OpenAI's new flagship image model and it's a step up across the board. Improved text rendering, dense layouts, photorealism, multilingual support, instruction following, and aspect ratios. And so, in this video, we're breaking down every major improvement. And if you want to try GPT Image 2 for yourself, you can click the first link in the description down below to use it inside of Eleven Creative.
 
-- **[Zirui Colin Wang - VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://www.youtube.com/watch?v=Gkobaejwo70)** — 2026-02-18 · ko · `AX`
-  안녕하세요 여러분, 오늘 초청 연사님을 모시고 진행하는 자리에 오신 것을 환영합니다 . 오늘은 콜린 씨를 모셨습니다. 그는 UC 버클리에서 컴퓨터 과학 박사 과정 1년차 학생이며, 조셉 곤잘레스 교수, 트레버 달 교수, 그리고 스토이카 교수의 지도를 받고 있습니다. 그의 연구는 시각 에이전트, 로봇 공학, 형태 및 시간적 생성과 이해를 포함하는 다중 모드 대화형 지능에 중점을 두고 있습니다. 그는 컴퓨터 과학 분야의 사이버 과학 전문가이며, 그의 이전 연구는 Open GPD 시리즈, Google Gemini 및 Gwenv를 포함한 여러 최첨단 비전 언어 모델에 채택되었습니다
+- **[Create the Viral AI Time Freeze Effect with Seedance 2.0](https://www.youtube.com/watch?v=Ogc-2XpfPxE)** — 2026-04-22 · en · `AX`
+  Here's how to create the viral AI time freeze effect using C dots 2.0 inside of 11 creative just like this. To use C dots 2.0 to create our viral time freeze effect, we're going to be using image and video inside of 11 creative and you can click the first link in the description down below to get started.
 
-- **[Gauri Kholkar - Context Aware Prompt Injection Testing and Robustness Enhancement](https://www.youtube.com/watch?v=-Ug6-aLqhWY)** — 2026-02-06 · ko · `AX`
-  [음악] 그러니까 적대적 목표라고 하면 다음과 같은 것들을 의미할 수 있습니다. 이는 위험한 행동을 부추길 수 있습니다. 예를 들어 데이터베이스를 삭제하거나 모든 데이터를 삭제하는 것과 같은 경우입니다. 이는 가짜 웹사이트나 스팸성 웹사이트, 사기성 웹사이트를 홍보하는 것과 같을 수도 있습니다. 그리고 어... 사용자를 오도하여 개인 정보를 공유하는 것과 같은 행위도 포함될 수 있습니다. 예를 들어, 은행 계좌 정보와 같은 개인 정보를 공유하도록 할 수도 있고, 시스템에서 사용되는 프롬프트 등을 공개하도록 요구할 수도 있습니다
+- **[Zac’s Voice | Back on the Slopes, Back in His Voice](https://www.youtube.com/watch?v=ns5OsmUIp_8)** — 2026-04-21 · en · `unclassified`
+  I've skied practically my whole life. I love [music] the feeling it gives me deep in my soul. My dad instilled his passion of skiing in me at a very young age, which I in turn did with my two sons, [music] Ari and Ethan. The thought of not being able to ski as I had for the majority of my life was a very difficult reality [music] to face, and one I was not prepared for.
 
-- **[Ahsaas Bajaj  - Production Grade ML in Practice  Evaluation and Design Frameworks for Recommendation](https://www.youtube.com/watch?v=UkOvqHSskMw)** — 2026-01-30 · ko · `AX`
-  [음악] 아리안, 고마워요. 훌륭한 소개 감사합니다. 안녕하세요 여러분. 여러분 모두 아시다시피 저는 사스입니다. 저는 Instacart의 선임 머신러닝 엔지니어입니다. 아, 그리고 그 전에는 월마트 와 삼성 연구소에서도 근무했었어요. 지난 몇 년 동안 저는 수억 건의 요청을 처리하는 추천 시스템을 구축할 기회를 가졌습니다 . 그리고 그 과정에서, 저는 완전히 이해하는 데 시간이 좀 걸렸지만 중요한 사실을 하나 배웠습니다. 그것이 바로 연구 논문에서 작동하는 머신러닝과 실제 운영 환경에서 작동하는 머신러닝 사이의 격차입니다.
+- **[Create 100 AI Ads from 1 Photo (Here's the Template)](https://www.youtube.com/watch?v=07R9-49pUJ0)** — 2026-04-20 · en · `unclassified`
+  Here's how you can automate your ad creative pipeline and turn one product photo into 100 static ads. And in this video, we're going to show you exactly how to build it and also give you the template. Let's begin. When it comes to running successful ad campaigns, you need to create, iterate, and [music] test as fast as possible. With AI, you can produce dozens of variations quickly and cheaply.
 
-- **[Joshua Stewart  - How can education technology do more than teach math](https://www.youtube.com/watch?v=Ok0hDa1RzS0)** — 2026-01-30 · ko · `AX`
-  [음악] 자, 이제 시작하려고 합니다. 안녕하세요, 저는 코허 랩(Koher Labs)의 에듀테크 채널 커뮤니티 리더인 라피 무스타파입니다. 오늘은 첫 번째 강연 세션으로, 특별 게스트인 조 스튜어트 박사님을 모셨습니다. 스튜어트 박사님은 교육 현장 실무자들과 학교 시스템이 학생과 교사를 지원하는 혁신적인 교육 방법을 개발하고 구현할 수 있도록 돕는 교육 연구자입니다 . 그는 로키 마운틴 리서치 앤 스트래티지(Rocky Mountain Research and Strategy)를 운영하며, 수학 및 문해력 학습 분야의 교육 기술 혁신 , 학생 복지, 그리고 학교 시스템이 자체적인 혁신을 구축하고 유지하는 방법에 초점을 맞춘 프로젝트를 이끌어 왔습니다
+- **[How to Create Felt Animations with Seedance 2.0 (Prompt Included)](https://www.youtube.com/watch?v=9dPS-59BWs0)** — 2026-04-15 · ko · `AX`
+  이 영상에서는 C Dance 2.0을 사용 하여 이와 같은 펠트 스타일의 AI 애니메이션을 만드는 방법을 배우게 됩니다 . [음악] 저희는 펠트 스타일의 AI 애니메이션을 제작하기 위해 11개의 연구실에서 11개의 크리에이티브를 활용할 예정입니다. 자, 이제 이미지와 비디오를 선택해 보겠습니다. 여기서는 최신 C Dance를 포함하여 세계 최고의 AI 이미지 및 비디오 모델을 모두 찾아볼 수 있습니다 . 자, 그럼 여기 있는 비디오를 클릭하고, 아래쪽에 있는 모델 선택기를 클릭한 다음, C Dance를 선택해 보겠습니다
 
-- **[Yingsi Qin - Spatially Varying Autofocus](https://www.youtube.com/watch?v=nugtUgq014w)** — 2026-01-30 · ko · `unclassified`
-  [음악] 안녕하세요 여러분. 음, 먼저 초대해 주신 마야크 씨께 다시 한번 감사의 말씀을 드리고 싶습니다. 안녕하세요, 제 이름은 잉기입니다. 저는 현재 카네기 멜론 대학교(CMU)에서 박사 과정 5년차에 재학 중이며, 오늘은 공간적으로 변화하는 자동 초점에 대해 이야기하겠습니다. 저희 연구 결과는 작년 10월 ICCV 2025에서 발표되었습니다 . 시작하기 전에, 저의 공동 작업자이자 조언자인 아신 과 맷에게 아낌없는 지원 과 멘토링에 대해 감사의 말씀을 전하고 싶습니다. 저희는 카네기멜론대학교(CMU) 계산영상 및 영상과학 연구실 소속입니다.
+- **[Scott’s Voice | Giving Public Lectures Again in his Own Voice](https://www.youtube.com/watch?v=hoPEZUShCrI)** — 2026-04-14 · ko · `unclassified`
+  아기 기린이 또 말썽을 피웠다. 그 녀석은 쓰레기통을 넘어뜨리고 테이블 위의 물건들을 바닥으로 밀어 떨어뜨리는 것을 즐겼다. 넓은 복도 엘리베이터 근처에 행진 악단이 집결하고 있었다. "모두 나쁜 소식뿐이네요."라고 그가 말했다. "저를 비롯한 의사들은 그가 앞으로 4개월을 살아남을 확률을 10%로 보고 있습니다." 누군가 조명을 어둡게 해주길 바랐어요 . [음악] 저는 루이지애나 남부의 작은 마을에 있는, 말 그대로 늪지대에 위치한 병원에서 태어났습니다. [음악] 제 어린 시절은 꽤 좋았어요. 경이로움과 무한한 가능성으로 가득했죠.
 
-- **[Lukas Schäfer  - Decision Making in Modern Video Games  From Human Play to World Models](https://www.youtube.com/watch?v=Kh4fh8fV13s)** — 2026-01-23 · ko · `AX`
-  오늘 함께해 주셔서 감사합니다. 오늘 저희는 올해 첫 번째 초청 연사 강연회를 시작하려고 합니다. 네, 루카스 셰퍼가 있습니다. 어, 루카스는 영국 케임브리지에 있는 마이크로소프트 연구소에서 박사후 연구원으로 재직 중이며, 카야 오프먼 팀의 일원으로 비디오 게임용 머신 러닝을 연구하고 있습니다 . 그의 연구는 모방 학습 접근 방식을 강조하여 비디오 게임에서 새로운 경험과 도구를 가능하게 하는 자율 에이전트 개발에 중점을 두고 있습니다 . 루카스는 에든버러 대학교에서 정보학 박사 및 석사 학위를, 사를 랜드 대학교에서 상경학 학사 학위를 받았습니다
+- **[Pam’s Voice | Counseling Patients In Her Own Voice](https://www.youtube.com/watch?v=cuUblK5Q46M)** — 2026-04-11 · ko · `unclassified`
+  안녕하세요. 오늘 우리가 살펴볼 말씀은 잠언 20장 24절입니다. " 사람의 걸음은 여호와께서 정하신 것이다." 사람은 어떻게 자신의 길을 이해할 수 있을까? 이 시간에 저희와 함께 아침 기도에 참여해 주시기 바랍니다. 하늘 아버지, 우리는 내일이 어떻게 될지 온전히 알 수 없습니다. 우리는 과거에 대한 지식을 바탕으로 오늘 행동하지만, 내일은 여전히 ​​알 수 없다. 당신께서 우리의 발걸음을 인도해 주셨기에 내일에 대한 평화를 누릴 수 있게 되어 감사합니다. 오늘 우리 환자분들과 보호자분들 모두에게 이러한 확신이 함께하길 바랍니다.
+
+## Intel (56건)
+
+- **[Acer Swift 16 AI (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=98RfEqmdgJo)** — 2026-07-16 · ko · `AX`
+  아, 죄송합니다. 다른 회의 때문에 조금 늦었어요 . 음, 그래서 이렇게 가벼운 기기가 유용한 거죠. 저는 이 노트북으로 일상생활을 아주 만족스럽게 보내고 있지만, 여러분은 이 노트북에 대해 더 자세히 알고 싶어 하시겠죠 . 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 Acer Swift 16 AI에 대해 자세히 알아보겠습니다. 이 노트북은 인텔 코어 울트라 X7 시리즈 3 프로세서와 인텔 Arc 통합 그래픽을 탑재하여 강력한 성능을 자랑합니다. 관심 있으시면 나머지 사양은 화면에 표시해 드리겠습니다
+
+- **[Asus ROG Zephyrus G14 (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=HqFvkV9wGxM)** — 2026-07-16 · ko · `unclassified`
+  와. 죄송합니다, 방금 제 눈앞에서 건물이 완전히 무너지는 걸 보고 정신이 팔렸어요. 솔직히 말씀드리면, 저는 이 노트북을 직접 사용해 보면서 정말 즐거운 시간을 보냈고, 여러분도 이 노트북에 대해 더 자세히 알고 싶어서 오셨겠죠. 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 ASUS ROG Zephyrus G14에 대해 자세히 알아보겠습니다. 게이밍 노트북에 대해 이야기할 때는 무엇보다 강력한 성능을 갖춘 제품인지 알아야 합니다. 그리고 이 노트북은 실망시키지 않습니다.
+
+- **[Asus Zenbook DUO (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=m87vHzmdmx4)** — 2026-07-16 · ko · `AX`
+  이 노트북 정말 멋지지 않나요? 화면이 두 개 있습니다 . 저는 이 제품을 직접 다뤄보면서 정말 즐거웠지만, 여러분은 이 제품에 대해 더 자세히 알고 싶어 하시겠죠. 그럼, 이야기해 봅시다 . 안녕하세요, 저는 Jess입니다. 오늘은 ASUS Zenbook Duo에 대해 자세히 알아보겠습니다. 우선, 이 듀얼 스크린에 대해 이야기해 봐야겠습니다. 노트북을 활용한 창의성, 멀티태스킹, 생산성 향상에 있어 완전히 혁신적인 제품입니다 . 저는 집 책상에 모니터 두 대를 사용하고 있어서 이런 구성에 아주 익숙합니다 .
+
+- **[Dell XPS 14 (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=ga5Wf4ZWtjo)** — 2026-07-16 · ko · `AX`
+  안녕하세요. 죄송하지만, 오늘 오후에 촬영할 프레젠테이션 자료를 모으는 중이라 지금 바로 연락을 주시려고 하셨네요 . 저는 이 노트북으로 작업하는 게 정말 즐거웠지만, 여러분은 이 노트북에 대해 더 자세히 알고 싶어 하시겠죠. 그럼, 이야기해 봅시다. 안녕하세요 , 저는 Jess입니다. 오늘은 Dell XPS 14 프리미엄에 대해 자세히 알아보겠습니다. 제 창의력을 발휘하려면 강력한 성능의 노트북이 필요한데, 이 노트북은 그 점에서 만족스럽습니다. 인텔 코어 울트라 X 7 시리즈 3 프로세서 와 내장 인텔 아크 그래픽 덕분입니다
+
+- **[HP Omnibook X (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=dxSuz7imHaQ)** — 2026-07-16 · ko · `AX`
+  안녕하세요, 지금 이 사진 작업을 마무리하고 있어요. 좋아요. 완벽한. 저는 이 노트북을 정말 잘 쓰고 있지만, 당신은 이 노트북에 대해 더 자세히 알고 싶어서 오셨겠죠 . 그럼, 이야기해 봅시다. 안녕하세요 , 저는 Jess입니다. 오늘은 HP OmniBook X에 대해 자세히 알아보겠습니다. 우선, 제 창작 활동을 위해서는 하루 종일 작업할 수 있도록 충분한 성능을 제공하는 노트북이 필요한데, 이 노트북이 바로 그런 역할을 해줍니다. 인텔 코어 울트라 7 시리즈 3 프로세서 덕분입니다.
+
+- **[HyperX Omen 15 (Intel® Core™ Ultra 200HX Plus) - Tech Rundown | Intel](https://www.youtube.com/watch?v=SQzekM5yGuE)** — 2026-07-16 · ko · `unclassified`
+  아, 잠시만 기다려 주세요. 이제 마지막 돌멩이 하나만 얻으면 돼. 좋아요, 다 끝났어요. 저는 이 노트북으로 게임하는 걸 정말 좋아하는데, 여러분은 이 노트북에 대해 더 자세히 알고 싶어서 오셨군요 . 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 HyperX OMEN 15에 대해 자세히 알아보겠습니다. 게이밍 노트북을 이야기할 때는 강력한 성능이 필수적인데, 이 노트북은 그 기대에 부응합니다 . 인텔 코어 울트라 9 HX 플러스 프로세서와 NVIDIA RTX 4070 노트북 GPU 덕분입니다.
+
+- **[Lenovo Legion 5i (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=25K2vS8eXqg)** — 2026-07-16 · ko · `unclassified`
+  내가 도와줄게. 저는 이 노트북으로 게임을 하면서 정말 좋은 경험을 했고, 여러분은 이 노트북에 대해 더 자세히 알아보고 싶어서 오셨겠죠. 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 Lenovo Legion 5i에 대해 자세히 알아보겠습니다. 게이밍 노트북에 대해 이야기할 때는 무엇보다 강력한 성능이 필수적인데, 이 노트북은 그런 점에서 실망시키지 않습니다. 인텔 코어 울트라 7 시리즈 3 프로세서와 NVIDIA RTX 5060 노트북 GPU 덕분입니다. 관심 있으시면 나머지 사양은 화면에 표시해 드리겠습니다.
+
+- **[Lenovo Yoga 7i (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=F7GVqX5_S60)** — 2026-07-16 · ko · `AX`
+  안녕. 오늘 할 일 목록을 마무리하고 있는 중입니다. 저는 어떤 일을 시작하기 전에 모든 것을 적어두는 것을 좋아합니다 . 하지만 당신은 이 노트북에 대해 알아보려고 여기에 온 거잖아요 . 그럼 이야기해 봅시다. 안녕하세요, 저는 Jess이고 오늘은 Lenovo Yoga 7i에 대해 자세히 알아보겠습니다. 우선 생산성을 높이려면 하루 종일 사용할 수 있는 기기가 필요합니다. 이 노트북은 바로 그런 역할을 합니다. 인텔 코어 울트라 5 시리즈 3 프로세서가 탑재되어 있습니다.
+
+- **[Samsung GalaxyBook 6 Pro (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=8J2kahP5NPY)** — 2026-07-16 · ko · `AX`
+  안녕하세요, 저는 Jess입니다. 오늘은 삼성 갤럭시 북 6 Pro에 대해 자세히 알아보겠습니다. 우선, 게임과 창작 활동을 원활하게 하려면 강력한 성능의 노트북이 필요한데 , 이 노트북은 그런 면에서 전혀 실망시키지 않습니다. 인텔 코어 울트라 X7 시리즈 3 프로세서와 통합 인텔 아크 그래픽 덕분입니다. 혹시 관심 있으시면 나머지 음악 사양을 화면에 띄워 드릴게요. 하지만 최신 비디오를 편집하든, 여행 사진을 편집하든, 내장된 인텔 Arc 그래픽 덕분에 더욱 고사양의 창작 작업은 물론 게임까지 원활하게 즐길 수 있는 성능을 보장합니다.
+
+- **[Intel Total Storage Encryption (TSE) | Chips & Salsa | Intel](https://www.youtube.com/watch?v=owRK0Dm6Uh4)** — 2026-07-14 · ko · `unclassified`
+  [음악] 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트입니다. 오늘 저와 함께 해주신 분은 인텔의 최신 V Pro 플랫폼에서 사용할 수 있는 새로운 기술인 전체 스토리지 암호화(TSE)에 대해 이야기하기 위해 제임스 보이드 씨입니다. 제임스, 환영합니다. 감사합니다. 여기 오게 되어 기쁩니다. 음, 먼저 당신의 역할에 대해 간략하게 설명해 주시겠어요 ? 네, 저는 인텔의 수석 엔지니어입니다. 저는 플랫폼 소프트웨어 엔지니어링 팀의 일원입니다.
+
+- **[Intel Security Q2 2026: AI, Confidential Computing, and Digital Sovereignty Update | Intel](https://www.youtube.com/watch?v=QCWVgg7DTIw)** — 2026-07-09 · ko · `unclassified`
+  칩스 앤 살사에 오신 것을 환영합니다! 이곳에서는 인텔의 보안에 대해 이야기합니다. 저는 제리 브라이언트이고, 이번에도 스튜디오에 함께 해주신 분은 인텔 제품 보안 및 보증 부문 부사장 겸 총괄 매니저이신 아난드 파슈파티입니다. 아난드, 여기서 다시 만나서 반갑습니다. 초대해 주셔서 감사합니다, 제리. 오늘 저희는 몇 가지 주제를 다룰 예정인데, 그중에서도 인텔이 사이버 보안을 위해 AI 모델을 활용하는 방식에 대해 이야기하고자 합니다 . 인텔은 이 분야에서 독보적인 관점을 가지고 있습니다.
+
+- **[Make your pitch and prove your point and influence the masses (or at least your parents) | Intel](https://www.youtube.com/watch?v=2Ih_L-4NQRs)** — 2026-07-02 · ko · `unclassified`
+  Intel Core Ultra Series 3 [음악]은 제작자를 위해 만들어졌습니다. 거의 실시간으로 4K 비디오를 녹화하고, 자막을 추가하고, 게시하세요. 관중을 사로잡고, 가족을 설득해서 채식주의자가 되도록 만드세요. 네 여동생에게 누가 주인인지 보여줘.
+
+- **[Larger than life Intel® Core™ Ultra Series 3 Processor | Intel](https://www.youtube.com/watch?v=W8dpb96t1JI)** — 2026-06-30 · ko · `unclassified`
+  여기서는 최신 Core Ultra 시리즈 3 프로세서를 재미있고 인터랙티브한 방식으로 선보입니다. 이 모델은 전체가 레고 블록으로 만들어졌으며, 정확히는 42,000개의 레고 블록이 사용되었습니다 . 높이는 8피트, 너비는 4피트입니다. [음악] 이 음악은 최신 세대 코어 울트라 시리즈 3 프로세서의 성능을 완벽하게 보여줍니다. 저희는 CPU, NPU, GPU를 보유하고 있습니다. [음악] 저희가 제작한 이 버전에는 GPU용으로 12개의 XE가 탑재되어 있습니다. 여기에는 12개의 XE [음악] 코어가 있는데, 그중 8개가 바로 여기에 있는 E 코어입니다.
+
+- **[Unlock more likes and stories and connections with the most AI experiences on a PC | Intel](https://www.youtube.com/watch?v=XIVkqBhisGA)** — 2026-06-26 · ko · `unclassified`
+  인텔 코어 울트라 시리즈 3는 AI가 사용자를 돕는 데 도움이 됩니다 . 심지어 말까지 걸 수 있어요. 부조종사, 저 물고기 좀 더 크게 만들어 줘. 프로필을 업데이트하고, 좋아요를 많이 받고, [음악]으로 마땅히 받아야 할 존경을 얻으세요.
+
+- **[Semiconductors and the Future of Computing | Intel Foundry](https://www.youtube.com/watch?v=oAtdGyDouFU)** — 2026-06-12 · ko · `unclassified`
+  대부분의 사람들이 그것들에 대해 생각조차 하지 않는다는 점이 꽤 흥미롭습니다. 우리가 손에 들고 다니는 기기부터 스마트 홈, 우리가 운전하는 자동차, 의료, 음악 교육 , 엔터테인먼트에 이르기까지 반도체는 오늘날 세상을 움직이고 있습니다. 음악은 우리가 가진 잠재력을 이끌어내고, 음악을 통해 삶의 질을 향상시키는 것을 더 쉽게 만들어줍니다. [음악] 반도체는 사실상 모든 주요 산업의 기반입니다 . 반도체가 없으면 인공지능도, 자동차도, 심지어 음악, 현대 의료, 무기 시스템도 칩 없이는 존재할 수 없습니다.
+
+- **[4 Things to Know From Computex | Intel](https://www.youtube.com/watch?v=Cv3eTjYS-VQ)** — 2026-06-08 · ko · `unclassified`
+  데이터 센터용 인텔 18A부터 완전히 새로운 게임 칩, 그리고 고객 맞춤형 실리콘에 이르기까지 , 대만에서 열리는 컴퓨텍스 전시회에서 알아야 할 네 가지 주요 사항을 소개합니다. Xeon 6 [음악] Plus가 출시되었습니다. 이 회사의 첫 번째 데이터 센터 칩은 인텔 18A 제조 공정으로 제작되었습니다. 고효율 코어가 탑재된 이 CPU는 통신 및 기업 비즈니스를 위한 에이전트형 AI 기반 음악 데이터 센터를 구동하는 데 이상적입니다 .
+
+- **[Intel Computex Keynote 2026](https://www.youtube.com/watch?v=7HvrdXjdlU8)** — 2026-06-02 · en · `AX`
+  Silicon, the foundation of modern technology. Every transistor placed with purpose. [music] Every watt wrestled from physics. Where every instruction set earns its right to execute. This is how performance gets driven, how efficiency gets built, how intelligence acts, not just [music] answers. Our future is with ecosystems. Shaped by architecture. Capable of connecting technologies, tools, and partners. Powerful enough to execute. Efficient enough to scale. Familiar enough to build with speed.
+
+- **[How Intel's EMIB technology is improving advanced chip packaging 📍| Intel](https://www.youtube.com/watch?v=K4Dkmb126-E)** — 2026-05-26 · en · `unclassified`
+  - AI requires massive power. Instead of making bigger and bigger and more complicated computer chips, Intel uses chipslets where different kinds of small, specialized chips all connect together on what's called a package or the platform it all sits on. Kind of like silicon mosaic art. Enter EMIB, or Embedded Multi-Die Interconnect Bridge. While others use expensive silicon interposers as the connection layer between chips, Intel Foundry embeds tiny, high speed silicon bridges only where they're needed.
+
+- **[Remote management without boundaries | Galaxy Book6 Enterprise Edition | Samsung | Intel](https://www.youtube.com/watch?v=Di9KGHwB4hw)** — 2026-05-07 · ko · `unclassified`
+  시간이 어디로 갔지? 그럼, 비행하는 동안 계속 일할게요 . 안 돼요. 진지하게? 내 컴퓨터가 꺼졌어요. 이것 좀 봐주시겠어요 ? 괜찮아요. 제가 한번 살펴보겠습니다. 보이시나요? 이제 업무에 복귀하실 수 있습니다. 오, 당신은 꽤 잘하네요. 제 말은, 이 노트 PC는 꽤 괜찮다는 겁니다. 경계 없는 원격 관리.
+
+- **[Work and Play and Create and Edit and Share and Repeat | Intel](https://www.youtube.com/watch?v=VSrQVuUJAjY)** — 2026-05-06 · ko · `unclassified`
+  [음악] 인텔 코어 울트라 시리즈 3를 소개합니다. 초슬림 노트북의 새로운 기준을 제시합니다 . 그리고? 게이밍급 그래픽과 PC에서 가장 뛰어난 AI 경험을 즐길 수 있습니다. 그리고? 갤러리 전체를 몇 분 만에 편집할 수 있습니다. 거의 실시간으로 4K 비디오를 녹화하고, 자막을 추가하고, 게시하세요. 그리고? 심지어 그것과 대화도 할 수 있습니다 . 부조종사, 물고기를 더 크게 만들어 줘. 그리고 이 제품은 며칠 동안 사용할 수 있도록 배터리 수명이 설계되었다는 점도 말씀드렸던가요? 그리고?
+
+- **[Intel Foveros Technology: Inside Advanced Packaging in New Mexico | Intel](https://www.youtube.com/watch?v=MWo8PO74PDg)** — 2026-05-04 · ko · `unclassified`
+  자, 안으로 들어가자. 인텔 뉴멕시코에서는 소형 특수 칩 타일들을 하나의 고성능 시스템으로 연결하고 있습니다. 포베로스(Foveros)라는 기술을 사용하면 이러한 칩렛을 인터포저에 연결할 수 있습니다. 그 인터포저를 피자 도우처럼 생각해 보세요 . 이것은 칩 부착 도구입니다. 이는 인텔의 포베로스(Foveros) 고급 패키징 공정의 첫 번째 단계입니다 . 음식에 비유하자면, 이 도구는 피자 도우를 가져오고, 원하는 피자 토핑을 기계 반대편에 넣으면 도우 위에 토핑을 붙여주는 역할을 합니다. 그다음에는 오븐에 넣어 그 시스템[음악]을 함께 구워내는 겁니다.
+
+- **[Intel Foundry | Yours for the Making | Intel](https://www.youtube.com/watch?v=ufaprXJwnys)** — 2026-04-21 · ko · `unclassified`
+  [음악] 헤이. [음악] 헤이. 여기요 . [음악] 헤이. 여기요 . [음악] 헤이. [음악] 헤이. 여기요 .
+
+- **[AI Engineering with Control and Confidence—Powered by TurinTech + Intel | Intel](https://www.youtube.com/watch?v=I30DMglXwS0)** — 2026-03-25 · ko · `unclassified`
+  인공지능 공학은 중요한 음악적 변곡점에 도달하고 있습니다. 팀들은 단순히 더 빠른 결과물을 원하는 것이 아니라, AI가 작동하는 방식에 대한 더 많은 제어권을 원합니다 . 음악을 제작하고 핵심 소프트웨어를 유지 관리하는 사람들에게는 코드가 실행되는 위치, 데이터가 처리되는 방식, 그리고 결과물(음악)이 검증되는 방식을 제어하는 ​​것이 필수적입니다. 저희는 비즈니스에 필수적인 소프트웨어인 음악을 발전시키기 위한 최적화 플랫폼인 Artemis를 개발합니다. 이를 통해 팀은 가시성, 검증 및 제어를 통해 음악을 현대화하고 성능을 개선하며 품질을 향상시킬 수 있습니다
+
+- **[Advancing silicon security through Formal Verification | Chips & Salsa | Intel](https://www.youtube.com/watch?v=q8OsRu4H8lo)** — 2026-03-25 · ko · `unclassified`
+  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트입니다. 오늘 우리가 다룰 주제는 실리콘 스케일에서의 형식 검증입니다. 저와 함께 인텔의 선임 이사인 제이슨 펑 씨가 자리에 함께했습니다. 그는 공격 보안 연구와 학술 연구 협력 업무를 담당하고 있습니다. 제이슨, 다시 출연해 주셔서 감사합니다. 와주셔서 반갑습니다. 먼저 팀에서 하는 일에 대해 간략하게 소개해 주시고 , 이번 학술 연구 활동에 대해서도 좀 더 자세히 설명해 주시겠어요? 다시 만나서 반갑습니다
+
+- **[Advancing silicon security through Negative Space Testing | Chips & Salsa | Intel](https://www.youtube.com/watch?v=Al6v0IxOSFM)** — 2026-03-25 · ko · `unclassified`
+  칩스 앤 살사에 오신 것을 환영합니다! 이곳에서는 인텔의 보안에 대해 이야기합니다. 저는 제리 브라이언트이고, 오늘은 비벡 토리 씨를 모시고 네거티브 스페이스 테스트에 대해 이야기 나눠보게 되어 기쁩니다 . 네, 이는 저희가 2026년 인텔 플랫폼 보안 보고서에서 다룬 내용입니다. 어, 비벡은 인텔 제품 품질 보증 및 보안 그룹의 부사장이며, 우리 제품에 영향을 미치는 중요한 보안 문제 등을 담당하고 있습니다 . 그는 또한 인텔 플랫폼 업데이트 및 장기 지원 프로그램을 이끌고 있으며, 마지막으로 미래 제품의 보안을 개선하기 위해 노력하고 있습니다
+
+- **[Citrix and Intel deliver the VDI Mobility that Keeps up with the Workday | Intel](https://www.youtube.com/watch?v=FtV2FeD8Zrg)** — 2026-03-25 · ko · `unclassified`
+  시트릭스와 인텔은 디지털 워크스페이스의 경계를 재정의하고 있습니다. [음악] 업계 최고 수준의 가상화 기술과 세계적 수준의 실리콘을 결합하여 효율성과 지속 가능성에 중점을 두면서도 고성능 경험을 제공합니다. [음악] 시트릭스 HDX 초고해상도 그래픽 기술을 통해 사용자는 고화질 가상 앱과 데스크톱을 경험할 수 있습니다. 거래소에서 밀리초 단위로 중요한 데이터를 분석하든, 환자의 침상에서 필수적인 치료를 지원하든, 네트워크 및 배터리 수명 소모를 최소화하면서 음악을 활용합니다. 우리는 함께 현대 기업들이 전통적인 한계를 뛰어넘도록 지원합니다.
+
+- **[ControlUp x Intel: On-Device Intelligence for Real-Time Detection and Response | Intel](https://www.youtube.com/watch?v=_6xO-GP1L6Y)** — 2026-03-25 · ko · `unclassified`
+  직원 경험은 이제 IT의 전략적 우선순위가 되었지만, 직원들은 여전히 업무를 방해하는 기기 문제, 시스템 속도 저하, 어색한 상호 작용 또는 예상대로 작동하지 않는 PC와 같은 문제에 직면하고 있습니다. 이러한 문제들은 IT 부서에서 상황을 파악하거나 맥락을 알기 전에 사용자들이 회의, 집중 작업, 중요한 업무 수행 중에 즉시 느끼게 됩니다 . IT 부서에 알릴 때쯤이면 이미 서비스 이용에 차질이 생긴 후입니다. [음악] 기존 방식은 생산성에 영향을 미친 후에야 문제가 드러나고, [음악] 사후 대응적인 문제 해결을 강요합니다 .
+
+- **[CrowdStrike and Intel deliver secure AI at the endpoint | Intel](https://www.youtube.com/watch?v=EEBtFEARD74)** — 2026-03-25 · ko · `AX`
+  인공지능은 이제 일상 업무에 깊숙이 자리 잡고 있습니다. 직원들은 엔드포인트와 클라우드를 아우르는 AI 시스템 및 에이전트와 점점 더 많이 상호 작용하며 , 민감한 기업 데이터에 접근하여 실시간 결과를 도출합니다. [음악] AI PC의 등장으로 CPU, GPU, NPU를 아우르는 고급 컴퓨팅 성능이 향상되어 AI 워크로드와 보안 기능을 데이터가 생성되고 사용되는 곳과 더 가까운 곳에서 실행할 수 있게 되었습니다. [음악] 이러한 변화는 엔드포인트에서 AI 혁신과 보호 모두에 있어 가능한 범위를 확장합니다 .
+
+- **[Executive overview of the 2026 Intel Platform Security Report | Chips & Salsa | Intel](https://www.youtube.com/watch?v=J5KlRWZm_fk)** — 2026-03-25 · ko · `AX`
+  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 오늘은 아난드 파슈파티 님을 모시고 2026년 인텔 플랫폼 보안 보고서에 대해 이야기 나눠보도록 하겠습니다. 아난드는 인텔 제품 품질 보증 및 보안 부문 총괄 관리자 겸 부사장이며, 제품 보안 및 기밀 컴퓨팅 로드맵을 담당하고 있습니다. 아난드 씨, 환영합니다. 방송에 다시 나와주셔서 반갑습니다. 제리, 다시 초대해 주셔서 감사합니다. 지난번에 제가 꽤 잘했나 보군요 . 그래서 다시 불러주신 거겠죠. 여기 오게 되어 기쁩니다.
+
+- **[Hardware Assisted Software Robustness | Chips & Salsa | Intel](https://www.youtube.com/watch?v=49u8xVoLhZM)** — 2026-03-25 · ko · `unclassified`
+  안녕하세요 여러분, 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다 . 저는 진행자 제리 브라이언트입니다. 오늘 주제는 소프트웨어 안정성, 그리고 그 안에서 하드웨어의 역할입니다. 특히 x86 생태계에 도입될 새로운 기술에 대해 이야기해 볼 생각입니다 . 오늘 저는 인텔의 훌륭한 동료 세 명과 함께하고 있습니다 . 먼저 여러분 모두 간단한 자기소개 와 소프트웨어 안정성과 관련된 각자의 역할에 대해 말씀해 주시겠어요 ? 저는 수석 엔지니어이자 CPU 설계자입니다.
+
+- **[How enterprise PC platforms are evolving for security, AI, and IT scale | Intel](https://www.youtube.com/watch?v=7SeXK1uVdYk)** — 2026-03-25 · ko · `unclassified`
+  파브, 다시 얘기하게 돼서 정말 반가워. 와, 바로 지난 1월에 소비자 용 인텔 코어 울트라 시리즈 3 프로세서를 발표했었는데 말이죠 . 인텔 18A 아키텍처 기반의 첫 번째 플랫폼으로 , 루나 레이크의 효율성 과 애로우 레이크의 성능을 결합했습니다. 그리고 오늘부터 인텔 vPro [음악]가 탑재된 당사의 시리즈 3 프로세서가 Windows 11 상용 PC에서 사용 가능하게 되었음을 발표합니다 . 시리즈 3에 대한 수요가 매우 높고, 고객들은 Intel vPro와 Windows 11에서의 기능을 선보이게 되어 매우 기뻐하고 있습니다
+
+- **[Lakeside and Intel deliver On-Device Intelligence to Address Issues Before They Disrupt Work | Intel](https://www.youtube.com/watch?v=5IvxR85tZlQ)** — 2026-03-25 · ko · `unclassified`
+  모든 기업에서 디지털 직원 경험은 IT 부서의 전략적 우선순위입니다 . 하지만 직원들은 여전히 업무를 방해하는 기기 문제, 속도가 느려지는 음악 시스템, 어색한 상호 작용 또는 예상대로 작동하지 않는 기기 문제를 겪고 있습니다. 이러한 문제들은 회의 중, 음악 관련 작업 중, 그리고 중요한 업무 수행 중에 사용자들이 즉시 느끼게 되며, IT 부서에서 이를 인지하기 전에 발생하는 경우가 많습니다. IT 부서에 알림이 갈 때쯤이면 사용자 경험은 이미 중단된 상태입니다.
+
+- **[Powering Enterprise 3D Workflows with Adobe and Intel | Intel](https://www.youtube.com/watch?v=JFVrnXOxqak)** — 2026-03-25 · ko · `unclassified`
+  안녕하세요, 저는 저스틴 패튼이고 어도비에서 음악 및 3D 크리에이티브 디렉터로 일하고 있습니다. 저는 디지털 디자인 과 3D 워크플로우를 활용하여 제품, 경험, 아이디어를 현실로 구현하는 디자이너 및 크리에이티브 팀과 긴밀하게 협력합니다. 저는 유수의 게임 스튜디오, VFX 회사, 그리고 세계적인 기술 혁신 기업들과 3D 시각화 작업을 해왔으며, 제 창의력을 뒷받침할 최고의 하드웨어를 항상 찾고 있습니다. 이러한 워크플로가 점점 더 현실적이고 상호작용적으로 변함에 따라 소프트웨어와 하드웨어는 동기화 상태를 유지해야 합니다.
+
+- **[Secure AI with Intel Confidential Computing Technologies | Chips & Salsa | Intel](https://www.youtube.com/watch?v=eDzxYu0OAzg)** — 2026-03-25 · ko · `AX`
+  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트이고, 오늘은 사이먼 존슨 과 라구 옐루리가 함께합니다. 그리고 우리는 AI 워크로드를 엔드 투 엔드로 보호하기 위한 기밀 AI 및 인텔 솔루션에 대해 논의할 것입니다 . 만나서 반갑습니다. 여러분 모두 환영합니다. 시작하기 전에 각자 인텔에서 맡고 있는 역할과 그것이 기밀 AI와 어떻게 연결되는지 간략하게 소개해 주시겠어요? 좋아요, 그럼 제가 먼저 시작할게요. 음, 저는 인텔에서 기밀 컴퓨팅 기술 개발 조직을 총괄하는 책임자입니다
+
+- **[Intel 18A | Intel](https://www.youtube.com/watch?v=3rBe0h4c204)** — 2026-03-16 · ko · `unclassified`
+  차세대 컴퓨팅을 향한 끊임없는 노력의 일환으로, 인텔 파운드리는 18옹스트롬을 의미하는 인텔 18A 프로세스 노드를 선보입니다. 18A는 북미에서 완전히 설계 및 생산된 가장 진보된 노드입니다. [음악] 이 제품은 광범위한 IP, EDA 및 디자인 서비스 파트너 생태계의 지원을 받는 업계 최초의 기술 조합을 특징으로 합니다. 이 제품은 와트당 더 나은 성능과 향상된 면적 효율성을 제공하여 최고 수준의 성능을 요구하는 애플리케이션을 위한 새로운 컴퓨팅 아키텍처를 가능하게 합니다 . 이것이 바로 인텔 파운드리의 음악 제작 능력입니다
+
+- **[Intel Foundry Omni MIM | Intel](https://www.youtube.com/watch?v=36ZHK3dIIfM)** — 2026-03-16 · ko · `unclassified`
+  [음악] 파워 스택의 하단에 위치한 Omni-MIM 커패시터는 온다이(on-die)에서 탁월한 [음악] 디커플링을 제공하여 성능을 향상시키고, 전압 변동을 줄여 전력 공급을 더욱 안정화합니다. Omni-MIM [음악]은 인텔 파운드리의 3D 고급 패키징 기술에 통합될 수도 있으며, [음악] 멀티칩렛 아키텍처에서 안정적이고 신뢰할 수 있는 전력을 더욱 구현합니다. [음악] 이것이 바로 인텔 파운드리의 힘입니다.
+
+- **[Intel Foundry PowerVia | Intel](https://www.youtube.com/watch?v=OtAWftbX2Jk)** — 2026-03-16 · ko · `unclassified`
+  인텔 파운드리의 PowerV [음악] [음악]는 업계 최초로 후면 전력 공급 기술을 도입했습니다. 기존 방식에서는 전력이 다이의 전면을 통해 전달되어 혼잡을 초래합니다 . [음악] 신호 라우팅을 최적화할 수 있게 됩니다 . [음악]과 트랜지스터 레이어의 연결은 혁신적인 나노 TSV 또는 실리콘 [음악] 비아를 통해 이루어지는데, 이는 현재 사용되는 TSV보다 500배 더 작습니다 . 이것이 바로 인텔 파운드리의 음악적 힘입니다 .
+
+- **[Intel Foundry RibbonFET | Intel](https://www.youtube.com/watch?v=t_YmVXB6veY)** — 2026-03-16 · ko · `unclassified`
+  [음악] 트랜지스터 기술의 혁명적인 도약인 리본 FET가 18A 공정에 적용되었습니다. 이 제품은 게이트 로 둘러싸인 리본 모양의 채널을 사용하여 모든 전압에서 더 나은 [음악] 제어 및 더 높은 구동 전류를 제공합니다 . 그 결과 트랜지스터 스위칭 속도가 빨라지고, 크기는 더 작아지면서 성능은 향상됩니다. [음악] 다양한 리본 FET 폭의 유연성을 통해 애플리케이션 전반에 걸쳐 전력 및 성능을 세밀하게 조정할 수 있습니다. 리본 FET와 파워비아의 놀라운 조합은 고성능 컴퓨팅, 인공지능, 모바일 및 네트워킹의 미래를 형성할 혁신의 길을 열어줍니다.
+
+- **[AI That Moves the World keynote | Intel](https://www.youtube.com/watch?v=JzZQTYCuxkM)** — 2026-03-10 · ko · `AX`
+  한순간이 모든 것을 바꿀 수 있다. [음악] 마찰이 점화로 이어진다. 작은 불꽃이 불을 붙인다. 삶은 현재와 미래의 음악 사이의 경계에서 펼쳐지기 때문입니다 . 인공지능이 물리적 세계 (음악)와 만나 새로운 기회를 창출하는 변곡점에 도달했습니다. 인류는 도시가 우리와 함께 움직이고, 병원이 모든 상호작용에서 음악을 통해 학습하고 , 공장이 변화에 자동으로 적응하며, 치명적인 오류가 발생하기 전에 예방되는 시대에 접어들었습니다. [음악] 이러한 기회를 잡으려면 이미 존재하는 것과 연결되고 제약 없이 혁신할 수 있는 개방형 플랫폼이 필요합니다 .
+
+- **[Intel Celebrates Engineers Week 2026 with STEM Activities in Schools | Intel](https://www.youtube.com/watch?v=t1DMeI0ygBY)** — 2026-03-05 · ko · `unclassified`
+  오늘은 여러 가지 색깔의 칩들을 같은 색깔끼리 분류해 볼 거예요. [음악] [음악] 그 다음엔 무슨 일이 일어날 것 같나요? [음악] 색깔별로 분류하고 크기별로 분류하고 있네요. 그건 아주 직관적이네요. [음악] 만일의 사태에 대비해서 떨어지지 않도록 보호막을 쳐야 해요. 자 , 그럼 이제 만들어 볼까요? 우리가 설득했어요. 파란색과 보라색은 빼고 빨간색만 남겨두기로 했죠. 오, 아주 좋네요. 그래서 우리는 가장 작은 것부터 가장 큰 음악까지 순서대로 진행했습니다.
+
+- **[Smarter deepfake detection to help you discern what's fake and what's real | Intel](https://www.youtube.com/watch?v=JJ33isdDBik)** — 2026-03-02 · ko · `unclassified`
+  안녕하세요. 저는 파파 베어예요. 아빠, 안녕. 그리고 이 집에서 저는 제가 일종의 보호자 역할을 한다고 생각해요. 아시다시피 , 제 일은 사람들의 배를 채워주고, 전기를 공급하고, 와이파이를 원활하게 유지하는 거예요 . [음악] 음, 그런데 최근에, 음, 최근에 저는 온라인에서 우리를 안전하게 지키는 것에 대해 많이 생각해 봤어요. 자, 이제 내 딸 크리시를 데려가세요. 그녀는 온라인에 자주 접속해요. 그녀는 현재 IT 기기에 상당히 능숙하지만, 최근에는 그녀조차도 온라인 사기에 휘말릴 뻔했습니다. 자, 여러분!
+
+- **[Lake Travis ISD Chromebook Plus Pilot Extended Cut | Intel | Google | Lenovo | SHI](https://www.youtube.com/watch?v=DyhXF1AVFpI)** — 2026-02-20 · ko · `unclassified`
+  [음악] 레이크 트래비스 독립 교육구는 텍사스주 오스틴에서 서쪽으로 약 20마일 떨어진 곳에 위치해 있습니다. 이 지역에는 약 11,000명의 음악 전공 학생들이 있습니다. 저희 시범 프로그램은 교사들을 위한 크롬북 기기 교체의 필요성에서 시작되었습니다 . 다행히 레노버가 나서서 " 새로운 레노버 크롬북 플러스가 나왔는데, 한번 구경해 보세요."라고 말했습니다. 모두가 가장 먼저 눈에 띈 것은 키보드였다. 인체 공학적으로 매우 뛰어나고 부팅 시간도 매우 짧았습니다. 그래서 저희는 아주 빠르게 작업에 착수할 수 있었고, 저희는 그 음악을 정말 좋아합니다.
+
+- **[Lake Travis ISD Chromebook Plus Pilot | Intel | Google | Lenovo | SHI](https://www.youtube.com/watch?v=noOFm_PCER0)** — 2026-02-20 · ko · `unclassified`
+  저희 시범 프로그램은 교사들을 위한 크롬북 기기 교체의 필요성에서 시작되었습니다 . 다행히 레노아가 나서서 "저희에게 인텔 코어 5 프로세서가 탑재된 최신형 레노버 크롬북 플러스가 있어요. 디자인도 훌륭하고 부팅 속도도 아주 빨라서 정말 마음에 들어요 ."라고 말했습니다. 레노버는 ALP, SHI, 구글, 그리고 인텔과 파트너십을 맺었습니다. 레이크 트래비스 교육구는 제가 업계 전반에서 본 가장 포괄적인 음악 관련 시범 사업일 것입니다. 그래서 시범 프로그램에 참여할 기회는 도움을 받을 수 있는 기회였습니다.
+
+- **[Google-Intel Joint TDX Security Review | Chips & Salsa | Intel](https://www.youtube.com/watch?v=_n6WDifszh8)** — 2026-02-10 · ko · `unclassified`
+  [음악] 칩스 앤 소스 인텔에 다시 오신 것을 환영합니다. 저는 제리입니다. 저는 프리야입니다. 오늘은 인텔이 발표한 2026년 2월 보안 권고 사항에 대한 업데이트를 공유하겠습니다. 네, 그렇습니다 . 이번 릴리스에는 여러 인텔 제품의 마이크로디스크 펌웨어 및 소프트웨어 업데이트와 관련된 18개의 보안 권고 사항이 포함되어 있습니다 . 제리, 중요한 건 바로 이거야. 이러한 문제의 97%는 인텔의 선제적 제품 보안 보증을 통해 발견되었습니다.
+
+- **[Easily level up your screen recordings anytime, anywhere with CANVID and Intel® Core™ Ultra | Intel​](https://www.youtube.com/watch?v=VToy5OX2a0c)** — 2026-02-02 · ko · `unclassified`
+  Canvas의 AI 기능을 사용하면 가상 공간에서 최고의 모습과 목소리를 연출하는 것이 훨씬 쉬워집니다. 트레이시를 만나보세요. 그녀는 학교 등하교와 고객 미팅으로 바쁜 하루를 앞두고 있음에도 불구하고, 고객을 위해 흥미진진한 매물 소개 영상을 제작하는 데 열정적입니다. [음악] 그녀는 Canvid 화면 녹화 및 합성 웹캠 기능을 사용하여 카메라 앞에 설 준비가 되어 있지 않더라도 자신의 작품에 생동감을 불어넣습니다. Canvid의 AI는 그녀가 이전에 녹화했던 영상 중 하나, 즉 몇 주 전에 그녀가 가장 보기 좋았던 모습이 담긴 영상(음악 포함)을 기반으로 새로운 웹캠 영상을 생성할 수 있습니다
+
+- **[Core Ultra Series 3 Launch Event | Intel](https://www.youtube.com/watch?v=KlIlFt2Fj1c)** — 2026-01-06 · ko · `AX`
+  립 부안 최고경영자님을 환영해 주십시오 . 안녕하세요 여러분, CES에 오신 것을 환영합니다. 오늘 함께해 주셔서 감사합니다. 전 세계의 수많은 혁신가, 창작자, 고객 및 파트너들과 함께 이 자리에 있게 되어 영광입니다. 우리는 컴퓨팅의 개념이 재정의되는 시대를 살고 있습니다. AI는 클라우드에서 엣지에 이르기까지 모든 워크플로, 모든 산업 및 모든 장치를 재편하고 있습니다 . 인텔의 사명은 지능을 누구나 접근 가능하고 효율적이며 어디에서나 활용할 수 있도록 만드는 것입니다.
+
+- **[Scaling AI in FMCG: Lessons from PepsiCo Labs | Intel](https://www.youtube.com/watch?v=4JMbBbOBF1I)** — 2025-12-03 · ko · `unclassified`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 안나 파버입니다. 안나 파르바로프는 펩시코의 최첨단 기술 솔루션 활용을 총괄하고 있습니다. 펩시코의 글로벌 기술 벤처 및 혁신 팀의 일원으로서, 그녀는 펩시코의 성장을 촉진하고 가치를 창출하는 솔루션을 발굴, 테스트 및 확장합니다. 안나는 펩시코에 합류하기 전 이스라엘 최대 지주회사의 고위 임원을 역임했습니다. 안나는 기업 전략, 투자 및 기획 부문 책임자로서 회사의 신흥 성장 동력을 이끌었습니다
+
+- **[AI Industrialization: The Next Frontier for Global Enterprises | Intel](https://www.youtube.com/watch?v=fSadUMtpwcY)** — 2025-11-19 · ko · `AX`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 토미 버키입니다. 오늘 저희와 함께하시는 그는 PMI의 기술 혁신 팀에서 AI 팩토리를 이끌고 계십니다. 토미는 PMI의 전사적 genai 전략을 이끄는 핵심 인물 중 한 명으로, 팀들이 분산된 파일럿 프로젝트에서 확장 가능하고 영향력 있는 솔루션으로 전환하도록 지원합니다. 그는 PMI의 AI 제공 모델 실행을 주도하며, 이 모델은 아이디어 구상 및 실험부터 산업화에 이르기까지 AI 사용 사례의 전체 수명 주기를 관리합니다 .
+
+- **[Semicon West Keynote | Intel](https://www.youtube.com/watch?v=wPJ-umSgON0)** — 2025-11-18 · ko · `unclassified`
+  열.열.
+
+- **[Intel Connectivity Performance Suite Experiences Video | Intel](https://www.youtube.com/watch?v=bLmgKBEIaZk)** — 2025-11-17 · ko · `unclassified`
+  인텔은 직원들이 생산성, 소통 및 협업을 극대화할 수 있도록 네트워크 연결을 최적화하는 간편하고 자동화된 방법을 제공합니다. 인텔 커넥티비티 퍼포먼스 스위트가 어떻게 지속적인 전문가 수준의 자동 연결 최적화를 통해 작업자 경험을 향상시키는지 자세히 살펴보겠습니다. 엠마를 소개합니다. 그녀는 제품 관리자인데, 이전에는 혼잡한 와이파이 연결에 음악 사용자가 너무 많아서 화상 회의에 문제가 생기곤 했습니다. 하지만 이제 인텔 커넥티비티 퍼포먼스 스위트 덕분에 그녀의 새 PC는 혼잡도가 낮은 연결에 자동으로 연결될 뿐만 아니라 음성 및 비디오 데이터의 우선순위를 높여 더 나은 협업을 지원합니다 .
+
+- **[Open Source, Talent, and Community: The Layers of Miami AI | Intel](https://www.youtube.com/watch?v=wZrOhvSNYwY)** — 2025-11-05 · ko · `AX`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥귀건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 보르한 세븐입니다. 보르한은 기술 분야 경영인이자 커뮤니티 조성자로, 마이애미에 본사를 둔 2만 명 규모의 컨퍼런스 이자 연중 혁신 플랫폼인 이머지 아메리카(Emerge Americas)에서 인공지능 전략을 총괄하고 있습니다 . 최고 인공지능 책임자로서 그는 기업 수준의 이니셔티브를 주도하고 , 책임감 있는 인공지능 정책을 수립하며, 신흥 인공지능을 개발자, 투자자 및 정책 입안자를 위한 글로벌 연결 고리로 확장하고 있습니다
+
+- **[From Cloud Dependency to Local Intelligence: The Future of Accessible AI | Intel](https://www.youtube.com/watch?v=PIriUFKk_ac)** — 2025-10-29 · ko · `AX`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥귀건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 브렌던 왕입니다. 브렌던은 온디바이스 AI를 빠르고 효율적이며 접근성 있게 만드는 응용 연구소인 Fluid Inference의 공동 창립자 겸 CEO입니다. LinkedIn, Amazon, Microsoft 및 Data Bricks의 연구원과 엔지니어로 구성된 팀은 AI 가속기를 사용하여 로컬 장치에서 실시간 워크로드를 위한 최신 기반 모델을 최적화하고 미세 조정하는 데 집중하고 있으며, 현재는 음성 AI( speechtotext, texttospech, VAD 및 화자 식별 포함)에 중점을 두고 있으며, 곧 비전 및 언어 모델로 확장할 예정입니다
+
+- **[Intel Foundry and Intel 18A - Starting a new node in a new fab with Zivit Katz-Tsameret | Intel](https://www.youtube.com/watch?v=13JmG73VdC0)** — 2025-10-21 · ko · `unclassified`
+  새로운 공장을 시작하는 것은 완전히 새로운 일이며, 새로운 건설 공장을 짓는 것뿐만 아니라 새로운 기술을 도입하는 것 또한 매우 흥미로운 일입니다. 이번 프로젝트인 프로젝트 이글과 팹 52에서는 이 두 가지를 모두 경험할 수 있는 행운을 누렸습니다. 캠퍼스 뒤편의 넓은 공터에서 시작하여 공장을 건설하고, 빠르게 장비를 설치하고, 펀터 레이크 웨이퍼 생산을 시작할 준비를 했습니다. 음, 이런 점에서 환경은 분명히 매우 어려웠고, 우리는 그 상황에 잘 대처해야 했습니다.
+
+- **[The Age of With: Rethinking Enterprise Strategy Through Agentic AI | Intel](https://www.youtube.com/watch?v=NgeYg6tyncs)** — 2025-10-15 · ko · `AX`
+  [음악] [박수] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 Bares Sesh입니다. 바레쉬는 디오이트의 기술, 미디어, 엔터테인먼트 및 통신(TMT) 산업 분야 AI 사업부의 글로벌 리더입니다. 그는 사려 깊은 리더로 인정받고 있으며, 업계 포럼, 출판물 및 행사에서 작가이자 연사로 자주 활동하고 있습니다. 그의 통찰력 있는 기여는 인공지능의 발전과 그것이 비즈니스, 기술 및 문화에 미치는 변혁적인 영향에 대한 담론을 형성하는 데 중요한 역할을 했습니다
+
+- **[Redefining Edge Intelligence: Falcons.AI’s Vision for Fast, Secure, and Sustainable AI | Intel](https://www.youtube.com/watch?v=e3L-Wzn5k6w)** — 2025-10-08 · ko · `unclassified`
+  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 바비 스토더만입니다. 바비는 팔콘스 AI의 최고운영책임자(COO)입니다. 그녀는 금융과 데이터 과학 분야 모두에서 경력을 쌓은 다분야 전문가로, 10년 이상 엔터프라이즈급 기술 구현 경험을 보유하고 있습니다. 그녀는 기술 중심적인 사고방식을 바탕 으로 AI를 활용하여 사업 기회를 포착합니다. 바비, 인텔 AI에 오신 것을 환영합니다. 고마워, 헤더. 이곳에 오게 되어 기쁩니다.
+
+- **[Meet today’s standard for business PCs | Intel® Core™ Ultra 200V series processors | Intel](https://www.youtube.com/watch?v=jgG3ZMRYcq4)** — 2025-10-01 · ko · `unclassified`
+  열.열. [음악] 열기. 열.
 
 ## Waymo (56건)
 
@@ -3232,173 +4077,6 @@
 - **[The Waymo Driver: Communicating it needs more space to other road users](https://www.youtube.com/watch?v=mHc4xALeO5c)** — 2023-08-04 · ko · `unclassified`
   [음악] 안녕하세요, 이사 가려고 하는데 공간이 더 필요해서요. 잠시 뒤로 가주시겠어요?
 
-## LinkedIn (55건)
-
-- **[The Network That Works for You, Grow Your Business, TOFU: 06_16x9](https://www.youtube.com/watch?v=kNnYVpce_R4)** — 2026-05-13 · ko · `unclassified`
-  LinkedIn은 판매, 마케팅 및 채용을 지원하여 소규모 사업을 성장시키는 데 도움을 줄 수 있습니다 .
-
-- **[The Network That Works For You | Fernando Mendoza | One Sec, Adding a Skill](https://www.youtube.com/watch?v=EuV4QMnH63s)** — 2026-04-24 · ko · `unclassified`
-  페르난도. 페르난도, 이번 ​​시즌에 가장 기대되는 게 뭐예요? 죄송합니다, 잠시만요. 기대하고 있어요. 링크드인 프로필을 업데이트해야 해요. 새로운 기술을 추가합니다. 이제 시험해 봐야겠어.
-
-- **[The Network That Works For You | Fernando Mendoza | One Sec, Let's Connect](https://www.youtube.com/watch?v=XZ6vUVLJLUA)** — 2026-04-24 · ko · `unclassified`
-  아만다. 아만다. 이 모든 관심에 어떻게 대처해 오셨나요 ? 아, 죄송합니다. 잠시만 기다려 주세요. 우리 링크드인에서 연결되어 있나요? 방금 요청을 보냈습니다. 자, 시작해 볼까요 . 훌륭한 마무리입니다.
-
-- **[The Network That Works For You | Fernando Mendoza | One Sec, Need to Post This](https://www.youtube.com/watch?v=Vv0thf7myjA)** — 2026-04-24 · ko · `unclassified`
-  초대해 주셔서 감사합니다. 네, 페르난도 씨. 페르난도. 페르난도, 드래프트 지명 소식을 들었을 때 어떤 생각이 들었나요 ? 정말 기분 좋은 경험이었어요. 아, 죄송해요, 잠깐만요. 링크드인에 게시해야겠어. 제 말은, 프로 선수로서 첫 기자회견이라는 거죠. 간단한 업데이트를 드려야겠습니다. 그리고 게시했습니다. 죄송합니다. 질문이 뭐였죠 ? 네, 질문이 뭐였죠?
-
-- **[The Network That Works For You | Fernando Mendoza | One Sec, Making It Official](https://www.youtube.com/watch?v=qO-CzzrzEgc)** — 2026-04-23 · ko · `unclassified`
-  [음악] 헤이 페르난도. 안녕하세요, 잘 지내시나요? 정말 좋아요. 우선 축하드립니다. 감사합니다. 페르난도 멘도사와 함께합니다. 방금 전화 받으셨어요. 공식적으로 드래프트된 기분이 어떤지 말해줘 . 정말 큰 축복입니다. 아, 죄송합니다. 잠시만 기다려주세요. 링크드인에 게시물을 올려야 해요 . 붐, 게시 완료. 이제 공식 발표입니다. 우와! 가자, 자기야. 어쨌든, 질문에 답하자면 , 그런 느낌이 든다.
-
-- **[The Network that Works for You GYB Catchphrase :06 16x9](https://www.youtube.com/watch?v=mz7hJHNmwc4)** — 2026-04-03 · en · `unclassified`
-  &lt;b&gt;LinkedIn Premium can help your &lt;/b&gt; &lt;b&gt;small business sell, market, and hire in one place.
-
-- **[The Network that Works for You GYB Catchphrase :06v2  16x9](https://www.youtube.com/watch?v=4EvPmBKg6Vo)** — 2026-04-03 · en · `unclassified`
-  &lt;b&gt;LinkedIn Premium subscribers are 60% &lt;/b&gt; &lt;b&gt;more likely to get replies from suggested prospects.
-
-- **[The Network that Works for You GYB Catchphrase :06v2 BOFU 16x9](https://www.youtube.com/watch?v=3NeRDcF2yRU)** — 2026-04-03 · ko · `unclassified`
-  LinkedIn 프리미엄 구독자는 추천 잠재 고객 으로부터 답장을 받을 확률이 60% 더 높습니다 .
-
-- **[The Network that Works for You GYB Catchphrase 06v2 BOFU 16x9](https://www.youtube.com/watch?v=P3NODDPp86s)** — 2026-04-03 · ko · `unclassified`
-  LinkedIn 프리미엄 구독자는 추천 잠재 고객 으로부터 답장을 받을 확률이 60% 더 높습니다 .
-
-- **[The Network that Works for You GYB Catchphrase 15 BOFU 16x9](https://www.youtube.com/watch?v=YagzZeJtqkg)** — 2026-04-03 · ko · `unclassified`
-  LinkedIn Premium 올인원 서비스를 이용하면 중소기업이 한 곳에서 제품 판매, 마케팅, 채용을 모두 진행할 수 있습니다. 그것은 돈이 새로운 고객을 확보하는 것을 막을 수는 없습니다.
-
-- **[The Network that Works for You GYB Catchphrase BOFU :06 16x9](https://www.youtube.com/watch?v=yGW82nAcsPs)** — 2026-04-03 · en · `unclassified`
-  &lt;b&gt;LinkedIn Premium can help your &lt;/b&gt; &lt;b&gt;small business sell, market, and hire in one place.
-
-- **[The Network that Works for You GYB MOFU Catchphrase :15 16x9](https://www.youtube.com/watch?v=HbEuo-r0_kk)** — 2026-04-03 · en · `unclassified`
-  &lt;b&gt;LinkedIn Premium All-in-One can help your &lt;/b&gt; &lt;b&gt;small business sell, market, and hire in one place.&lt;/b&gt; &lt;b&gt;It cannot stop Don from...&lt;/b&gt; &lt;b&gt;[Airhorn, trumpet, gong]&lt;/b&gt; &lt;b&gt;...every time he lands a new client.
-
-- **[The Network that Works for You GYB_ MOFU Catchphrase :15 16x9](https://www.youtube.com/watch?v=flUGOWyCwBI)** — 2026-04-03 · ko · `unclassified`
-  LinkedIn Premium All-in-One은 중소기업이 한 곳에서 판매, 마케팅 및 채용을 진행할 수 있도록 지원합니다. 그것은 돈이 새로운 고객을 확보하는 것을 막을 수는 없습니다.
-
-- **[2026 Labor Market Report: Building a Future of Work That Works](https://www.youtube.com/watch?v=qulCIGxnTUs)** — 2026-01-15 · ko · `AX`
-  새해가 시작되면서 노동 시장이 온통 헤드라인을 장식하고 있습니다. 인공지능을 세계가 받아들이기 시작하면서 일자리와 경력에 어떤 변화가 일어나고 있는지에 대한 수많은 이야기와 일화들이 있습니다. 그리고 링크드인에서는 우리 플랫폼에서 현재 발생하고 있는 데이터를 기반으로 명확성을 제공할 기회를 보았습니다. 링크드인에는 전 세계적으로 13 억 명의 회원과 7천만 개의 기업이 있습니다 . 그리고 우리는 명확성이 모든 사람이 결정을 내리는 데 도움이 될 것이라고 생각합니다. 진로에 대한 결정을 내리든, 리더로서 향후 1년간 사업을 어떻게 운영할지 고민하든 마찬가지입니다
-
-- **[Open to Work: How to Get Ahead in the Age of AI | Ryan Roslansky & Aneesh Raman](https://www.youtube.com/watch?v=XfVQUmfLEp0)** — 2026-01-13 · ko · `unclassified`
-  서점만큼 직업 환경의 변화에 ​​직면한 사업은 드뭅니다. 그러게요 . 오늘 우리가 들어온 린리 북스 같은 서점은 크리스 사키리가 소유하고 있습니다. 크리스는 링크드인 창립에 참여한 후, 배움에 대한 열정을 어린이 서점 사업에 쏟아부었습니다. 그리고 제가 아니 쉬 라멘과 공동 집필한 신간 'Open to Work'를 발표하기에 이보다 더 좋은 장소는 없을 것 같습니다. 처음 링크드인을 만들었을 때가 생각나네요. 우리는 사람들이 자신의 경력을 스스로 관리할 수 있도록 돕기 위해 이 플랫폼을 만들었습니다 .
-
-- **[Understanding Ad Technology on LinkedIn](https://www.youtube.com/watch?v=RGBQN-6DXEs)** — 2024-12-12 · ko · `unclassified`
-  안녕하세요, LinkedIn입니다. 저희의 비전은 전 세계 모든 근로자에게 경제적 기회를 창출하는 것입니다. 이를 위해 LinkedIn에서 보시는 모든 정보가 유용하고 관련성이 높기를 바라며, 광고 또한 마찬가지입니다. LinkedIn은 광고를 게재하는데, 이는 광고 수익으로 대부분의 서비스를 회원들에게 무료로 제공하기 때문입니다. 저희는 회원님의 프로필 에 입력하신 데이터 와 프로필 및 LinkedIn 활동 내역을 통해 추론한 데이터를 기반으로 맞춤형 광고를 제공합니다. 예를 들어 베를린에 거주하는 엔지니어 피터는 AI 분야 기업들을 팔로우하는데, 새로운 소프트웨어나 AI 제품 광고를 보면 클릭하여 자세히 알아보는 경우가 많습니다
-
-- **[Was sind die Vorteile der LinkedIn App? Mit der App hast du die ganze Arbeitswelt in deiner Tasche.](https://www.youtube.com/watch?v=JgKk3Zo_lqw)** — 2024-11-22 · ko · `unclassified`
-  당신은 링크를 통해 여행을 많이 다닙니다. 앱에서는 모든 가능성을 항상 이용할 수 있습니다. 열려 있는 꼭 가야 해요, 문제없어요. 언제든지 대화를 다시 시작할 수 있습니다. 기록하다 언제나 그리고 어디에서나, 음, 거의 어디에서나 앱 스토어 또는 구글로 이동하려면 여기를 클릭하세요. 왼쪽 위치를 선택하고 설치를 클릭하세요. 당신은 이미 끝냈어요, 그렇지 않고서는...
-
-- **[Wie kannst du mit LinkedIn immer top-informiert bleiben? Wir erklären, wie es geht.](https://www.youtube.com/watch?v=9sov5dF25Ug)** — 2024-11-22 · ko · `unclassified`
-  LinkedIn을 사용하면 항상 최신 정보를 얻을 수 있습니다. 최신 기술 동향을 반영한 업무 환경 링크드인 최신 소식을 확인하고 실제로 무슨 일이 벌어지고 있는지 알아보세요. 직업 세계에서 우리의 편집팀은 스스로에게 다음을 제공합니다. 가장 중요한 주제 및 관련 이벤트 전문적인 삶에서 또 다른 기회를 얻게 될 것입니다. 가장 인기 있는 주제 중 하나는 최신 정보를 유지하는 것이 중요합니다. 관련 해시태그를 검색하고 그리고 "팔로우"도 한 번 더 클릭해 주세요. 프로필 사진을 클릭하고 이동하세요.
-
-- **[Ein LinkedIn Profil erstellen oder aktualisieren? Wir erklären, wie es geht.](https://www.youtube.com/watch?v=K9vrjFnlgd4)** — 2024-11-21 · ko · `unclassified`
-  LinkedIn 프로필을 업데이트하려면 아주 간단해요, 완벽할 거예요. 어린이 게임 우선, 그는 자신의 프로필 사진을 추가합니다. 게다가 그건 당신의 성격의 일부이기도 해요. 흥미로운 선택이긴 한데... 프로필 사진을 한 번만 클릭하면 편집 기호는 추가로 사용자 지정할 수 있습니다. 우리는 훨씬 더 나은 것으로 계속 나아갈 것입니다. 전문적인 경험을 보시려면 클릭하세요. 편집할 때 펜을 사용하세요 좋은 결정을 내리고 싶어요, 마지막으로 한 번 더. 한 가지 더: 더하기 기호를 클릭하고 여러분의 의견을 추가하세요.
-
-- **[Welche Inhalte und Formate kannst du auf LinkedIn teilen? Wir erklären, wie das geht.](https://www.youtube.com/watch?v=5_YEcbxHjTY)** — 2024-11-21 · ko · `unclassified`
-  [음악] 당신은 다음과 같은 것을 통해 전문적인 성공을 이루고 싶어합니다. 세상을 공유하세요 LinkedIn에서는 다음과 같은 전문가들을 찾을 수 있습니다. 관심을 갖다 새 프로젝트가 시작된다고 가정해 봅시다. 물론, 그래서는 안 됩니다. 비밀로 해 줘. 여기서 해도 돼. 팀 사진이 있으면 모두에게 알려주세요. 네, 어쩌면 결국 받아들이게 될지도 모르겠네요. 저는 있는 그대로의 모습을 가진 것을 더 선호합니다. 자, 이제 여러분의 팀원들을 만나보겠습니다. 이것은 더 많은 관심을 불러일으키고 당신은 지인들과 더 쉽게 교류할 수 있습니다
-
-- **[Wie geht Jobsuche und Bewerbung auf LinkedIn? Hier erklären wir, wie es geht.](https://www.youtube.com/watch?v=AZKmuIbYqno)** — 2024-11-21 · ko · `unclassified`
-  [음악] 다음 커리어 단계를 계획하고 계신가요? 저희가 도와드리겠습니다. 먼저 클릭하세요. 프로필 사진을 클릭하고 열기 버튼을 추가하세요. 작업 프레임에 추가하여 모든 사람이 볼 수 있도록 합니다. 당신이 제안을 받아들일 준비가 되어 있다는 것을 알고 있습니다. 초록색이 당신의 눈을 더욱 돋보이게 하네요. 제안을 받아들일 의향이 있으시니, 한번 살펴보세요. 당신에게 맞는 일자리를 찾아봅시다. 궁금한 점이 있으면 원하는 정보를 입력하세요. 직업과 선호하는 지역 와, 저 사람은 이 모든 채용 공고를 다 보는 걸까?
-
-- **[Wie kannst du auf LinkedIn dein berufliches Netzwerk aufbauen? Wir erklären, wie es geht.](https://www.youtube.com/watch?v=RVNJGvraqho)** — 2024-11-21 · ko · `unclassified`
-  새로운 인맥을 쌓는 것은 훌륭한 기회입니다 전문적인 네트워크를 확장하기 위해 새로운 기회를 열기 위해 프리랜서 일자리를 찾고 있다고 가정해 봅시다. 초대장은 개인적인 감성을 더해줍니다. 메시지를 추가하고 다음과 같이 시작하세요. 대화가 좋았어요 [음악] 초대를 수락하는 즉시 대화를 이어가야 한다면 잡고 있다 [음악] 정말 멋졌어요, 전혀 예상 못 했어요. [음악] 저는 상상력이 풍부한 것을 좋아합니다. [음악] 개인 메시지가 보이시나요? 네트워킹을 더 쉽게 만들어주죠, 혹시 모르잖아요.
-
-- **[Mostra la tue competenze: Aggiungi conoscenze e competenze al tuo profilo LinkedIn](https://www.youtube.com/watch?v=zagfYh-Eh64)** — 2024-08-21 · ko · `unclassified`
-  [음악] 달리기는 내게 여러 기술을 가르쳐주었다. 제가 모든 일에 적용하는 소중한 것들 내 측면들 인생은 매일매일이 경쟁하는 경주이다. 이는 우리에게 새로운 도전을 제시합니다. 내 기술을 공유하는 것을 극복하세요 링크드인은 제가 자유로워지는 데 도움을 주었습니다.
-
-- **[Revelez vos talents: Ajoutez des connaissances et des compétences à votre profil LinkedIn](https://www.youtube.com/watch?v=lUQZl4ihocA)** — 2024-08-21 · ko · `unclassified`
-  물속에 있을 때 나는 느껴요 진정으로 이 힘과 이 능력 자연의 이러한 에너지 이사회를 갖는 것은 매우 중요합니다. 균형을 유지하면 한계를 뛰어넘을 수 있어요. 기껏해야, 그것이 나에게 도움이 되는 것일 뿐입니다. 일상생활에서 좋은 기분을 느끼기 위해 링긴 덕분에 강조 표시할 수 있습니다.
-
-- **[Zeig, was du kannst: Füge Kenntnisse & Fähigkeiten in deinem LinkedIn Profil hinzu](https://www.youtube.com/watch?v=ZxnFT_bEAts)** — 2024-08-21 · ko · `unclassified`
-  [음악] 저는 링에 자주 있습니다. 저는 자신감이 더 생겼고, 그 덕분에 그 후 나는 스포츠에서 배운 것을 내 삶에 적용했다. 저는 킥복싱을 통해 배웠습니다. 기회를 잡는 법을 배웠고, 외부에서도 매우 중요합니다. 반지의 일부로서 나는 지식을 주고 제 링크드인 프로필에 기술 목록이 있습니다. 제가 가진 모든 장점을 보여드릴 수 있도록 말입니다. 그리고 이로 인해 다음과 같은 결과가 발생합니다...
-
-- **[The Best Resume Tips for a Career Change](https://www.youtube.com/watch?v=UmiSMDVDWJI)** — 2024-06-24 · en · `unclassified`
-  So the question, how do I start a career transition in a resume? So I'm going to take that from a perspective of you're using a resume in the process of career transitioning. Right. So hiring managers looking at it and saying, hey, you know, you're applying to a job with a different title. You haven't done this work in the past. Great question.
-
-- **[How to Make a Career Change](https://www.youtube.com/watch?v=0nKjJc60Els)** — 2024-06-20 · ko · `unclassified`
-  [음악] 코칭 분야뿐 아니라 일반 직장인들 사이에서도 이 부분을 간과하는 사람들을 정말 많이 만난다는 말로 시작하고 싶습니다. "방금 해고당했어요", "상사가 마음에 안 들어요", 또는 이직을 원하는 수많은 이유 때문에 그저 이직 자체에 우선순위를 두는 경우가 많죠. 하지만 저는 많은 사람들이 "왜 이직하는가?"라는 질문에 대한 답을 찾아야 한다고 생각합니다. 성공적인 경력 전환은 여러 측면에서 이루어지지만, 변화의 근본적인 이유를 파악하는 것이 가장 중요합니다. 하지만 그 이유를 찾는 것은 쉽지 않습니다. " 만족감을 원하는가?
-
-- **[Top Virtual Interview Tips](https://www.youtube.com/watch?v=pL1F0rpNjYg)** — 2024-06-14 · ko · `unclassified`
-  [음악] 대면 인터뷰와 비교했을 때 줌 인터뷰를 위한 최고의 팁은 무엇인가요? 매틀린, 당신은 영상 인터뷰의 여왕이시잖아요. 줌 인터뷰에 대한 팁을 알려주시면 정말 감사하겠습니다. 음, 예를 들어 지금 제 앞에 임시로 설치한 게 있는데요, 제 컴퓨터 카메라가 보통 여기 위에 있는데, 그러면 앤드류, 당신은 저를 내려다보게 되죠. 카메라 각도가 다르면 저 와 당신, 그리고 보는 사람들 사이에 어색한 분위기가 생겨요. 당신이 저를 내려다보면 제가 당신보다 낮은 위치에 있는 것처럼 보이고, 존경받지 못하는 것처럼 느껴질 수도 있죠.
-
-- **[Expert Techniques to Manage Interview Nerves](https://www.youtube.com/watch?v=hJpfJSEVbZI)** — 2024-06-11 · ko · `unclassified`
-  [음악] 다음 질문은 제가 대학 면접을 볼 때 겪었던 일입니다. 언론학과 면접이었는데, 너무 긴장해서 목소리가 안 나오기 시작했어요. 전에는 그런 적이 없었거든요. 저는 원래 말을 많이 하는 편인데, 갑자기 목소리가 안 나와서 물을 마시러 가야 했던 기억이 나요. 너무 긴장해서 말을 할 수가 없었죠. 만약 사람들이 그런 상황에 처한다면 어떻게 해야 할까요? 불안감은 모든 의사소통에서, 특히 면접처럼 갑자기 주목받아야 하는 상황에서 큰 영향을 미칩니다.
-
-- **[Questions to ask at the end of an interview](https://www.youtube.com/watch?v=hs49CPOn68w)** — 2024-06-06 · ko · `unclassified`
-  [음악] 면접관이 "질문 있으신가요?"라고 물으면 많은 사람들이 "없습니다"라고 대답하는데, 저는 그게 정말 큰 문제로 이어질 수 있다고 생각합니다. 그래서 면접관이 "질문 있으신가요?"라고 물었을 때 어떤 조언을 해주시겠어요? 우리가 미리 이야기했듯이, 우리는 회사에 대해 조사하고, 면접 주제를 정하고, 그 주제를 뒷받침할 만한 사례를 만들거나 수집합니다. 또한, 면접관이 "질문 있으신가요?"라고 물었을 때, 당신은 이 직무에 대해 무엇을 알고 싶어 하는지, 그리고 어떤 질문을 할 것인지도 생각해 봐야 합니다.
-
-- **[“What Are Your Salary Expectations?”| How to Best Answer](https://www.youtube.com/watch?v=gFJZf1TNHEI)** — 2024-06-03 · ko · `unclassified`
-  [음악] 초봉, 면접 중에 '형'이라는 단어를 들으면 어떻게 대화를 시작해야 할까요? 음, 당연히 어떤 회사들은 면접 중에 연봉 이야기를 하지 말라고 지시하기도 하고, 또 어떤 회사들은 규칙이 좀 더 유연해서 면접 중에 언급하기도 하죠. 이런 경우 어떻게 대처하는 게 좋을까요? " 아직 면접 과정 중이라 제 가치를 정확히 말씀드리기는 어렵지만, 이번 주 초에 연봉 조사를 좀 해봤는데, 이 도시에서 비슷한 직무를 하는 사람들이 보통 얼마 정도를 받더라고요. 시장 상황과 비슷한가요?
-
-- **[“Why Should We Hire You? | How to Best Answer](https://www.youtube.com/watch?v=8oC-OROkLv4)** — 2024-05-29 · ko · `unclassified`
-  [음악] 사람들이 "왜 당신을 고용해야 하죠?"라고 물을 때 항상 던지는 질문이 있죠. 마치 " 내 일을 대신해 줄 사람을 왜 고용해야 하죠?"라고 묻는 것처럼요. 이런 질문에 직면한 사람들에게 어떤 조언을 해주시겠어요? 첫 번째 단계는 컨설팅 접근 방식을 취하는 것입니다. 마치 의사가 문제를 진단하는 것처럼, 누군가 "왜 당신을 고용해야 하죠?"라고 물으면 먼저 직무를 검토하세요. " 직무 설명과 면접을 통해 살펴본 결과, 가장 중요한 세 가지 우선순위는 첫째, 신규 고객 온보딩, 둘째, 고객 진행 상황을 보고하는 다양한 방법 개발, 셋째, 고객 대상 추가 판매입니다
-
-- **[Aplicativo do LinkedIn: Baixe o aplicativo gratuitamente.](https://www.youtube.com/watch?v=KqlirRbOHjY)** — 2024-05-28 · ko · `unclassified`
-  탄탄한 인맥을 구축하는 것이 모든 것을 좌우합니다. 이것이 당신의 경력 성공에 얼마나 큰 차이를 만들어내는지 생각해 보세요. 링크드인에서는 이것이 당신의 손이 닿는 곳에 있습니다. 당신은 의미 있는 연결을 만들어냅니다. 그들의 활동과 성과를 공유합니다 수천 개의 데이터에 접근할 수 있습니다.
-
-- **[Artigos Colaborativos](https://www.youtube.com/watch?v=gFoE_UOxZkg)** — 2024-05-28 · ko · `unclassified`
-  당신이 가진 지식을 최대한 활용해 보는 건 어때요? LinkedIn 커뮤니티 모음 ~가 작성한 기사와는 달리 회원 및 조직 관련 조항 LinkedIn의 협업 도구는 다음과 같습니다. 사용자 의견을 바탕으로 구축되었으며 편집팀의 지원과 링크드인의 인공지능 특정 단어를 검색하세요 또는 검색창에 질문을 입력하세요. LinkedIn에서 목록에 액세스할 때 공동 작업으로 작성한 기사는 여전히 유효합니다. 사이드바의 주제들을 살펴보세요. 맞아요, 기여할 가치가 있어요. 기사 확실히 이렇게 함으로써 당신은 LinkedIn에서 평판을 쌓고 다른 사람들이 발전하도록 돕습니다.
-
-- **[LinkedIn Notícias: Fique por dentro do mundo corporativo](https://www.youtube.com/watch?v=6QswG9uHcn0)** — 2024-05-28 · ko · `unclassified`
-  오늘날 고용 시장의 변화 피드를 스크롤하는 것만큼 빠릅니다. 재택근무를 하든, 사무실에서 근무하든 편히 쉬면서 좋아하는 음악을 듣는 것. 뉴스는 당신을 위해 멈추지 않습니다. 이 모든 순간들을 함께하며 LinkedIn 뉴스에서 다양한 소식을 제공합니다. 논의된 주요 사건들 전문가들에 따르면, 그들이 최고다. 매일 피드에서 유용한 정보를 확인하세요. 환경에서 빠르고 실용적인 방법 기회를 열어주도록 설계되었습니다
-
-- **[Aprenda, como aumentar sua rede no LinkedIn.](https://www.youtube.com/watch?v=ha0Iy6cpqG8)** — 2024-05-24 · ko · `unclassified`
-  링크드인에서 인맥을 쌓는 가장 좋은 방법은 링크드인에서 연결을 만드는 것입니다. 새로운 문을 여는 방법 기회는 많으며, 그 기회를 잡는 것은 매우 쉽습니다. 예를 들어, 다음과 상호작용할 수 있습니다. 피드에서 관심 있는 주제를 확인하세요 상호작용은 여러분의 발전을 돕습니다... 전문적인 관계를 맺다 이미 알고 있는 사람들 또는 아직 모르는 사람들. 이런 식으로 초대장을 보내고 메시지를 작성하세요. 당신은 다음과 같은 사람들로 네트워크를 채웁니다. 같은 관심사를 공유합니다 이봐요, 기회가 당신의 문을 두드리고 있어요!
-
-- **[Aprenda como criar um bom conteúdo no LinkedIn](https://www.youtube.com/watch?v=MVPIBWyYlOM)** — 2024-05-24 · ko · `unclassified`
-  LinkedIn은 공유하기에 이상적인 공간입니다. 당신의 경험에는 다음이 포함됩니다. 인증 과정과 인정받는 동시에 어려움도 겪게 된다. 불안감과 기복 그것들은 전문적인 경력 경로의 일부입니다. 성과를 공유하고, 추구하기 위해 지지하거나 단순히 의견을 표현하고 싶습니다. LinkedIn은 의견 플랫폼입니다. 당신의 모든 측면에 열려 있습니다 여행, 사진 및 동영상 추가, 언급 사람들은 서로 많이 소통합니다.
-
-- **[Quer uma ajuda para conseguir aquele emprego dos sonhos?](https://www.youtube.com/watch?v=LYSfAh2k39U)** — 2024-05-24 · en · `unclassified`
-  Planning the next steps in your career? LinkedIn is your ally on this journey, and here's a tip to get you started: add the "open to work" badge to your profile picture. This helps recruiters know you're open to new opportunities. Oh, and also take the opportunity to update your profile so you have a better chance of being found, whether you're looking for a new job, developing professionally, changing careers, or even doing business.
-
-- **[Como Usar o LinkedIn - O guia que você precisa para usar o LinkedIn de forma mais eficaz](https://www.youtube.com/watch?v=lrk8VwvA01I)** — 2024-05-22 · ko · `unclassified`
-  커리어를 한 단계 끌어올릴 준비가 되셨나요? LinkedIn은 당신이 원하는 목표를 달성하도록 도와줍니다. 링크드인 계정을 만들고 싶다면, 생각보다 훨씬 쉬워요, 단 한 단계만 거치면 돼요. 카밀라가 제시한 단계별 지침을 살펴보세요... 당신의 것을 보여드리겠습니다 친구야, 먼저 사진을 골라봐. 그건 정말 당신의 개성을 잘 보여주는 것 같아요, 정말 멋져요. 이제 경험 필드로 이동하여 탭하세요. 편집용 연필 기호 이 분야를 채우는 데 필요한 기술 이렇게 하면 피드가 최신 상태로 유지됩니다.
-
-- **[Como se cadastrar no LinkedIn e criar seu perfil?](https://www.youtube.com/watch?v=AZhn_lRWzXI)** — 2024-05-22 · ko · `unclassified`
-  LinkedIn은 여러분을 무한한 세계와 연결해 줍니다. 기회는 많지만, 완벽한 프로필을 갖추는 것이 중요합니다. 이는 이 여정에서 중요한 차별화 요소입니다. 자, 우선 교육 내용을 업데이트하는 것부터 시작하세요. 학생 경험과 기술, 완벽한 프로필에는 더 많은 정보가 있습니다. 시청될 확률 영감을 찾아보고, 심호흡을 하고, 생각해보세요. 직업적 동기에 관하여, 다음을 만들어 보세요. 한두 단락으로 요약된 내용 여러분의 임무와 목표를 명확히 밝히십시오. 자세한 내용일수록 좋습니다. 링크드인은 콘텐츠를 안내합니다. 귀하의 역량을 강화하도록 맞춤 제작되었습니다.
-
-- **[Como você procura e se candidata a um emprego no LinkedIn? Aqui explicamos como fazer isso.](https://www.youtube.com/watch?v=pf3HaqcFf7U)** — 2024-05-22 · ko · `unclassified`
-  나에게 맞는 직업을 찾는다는 것은... 많은 사람들의 소망 전문가들을 어떻게 찾을 수 있을까요? 적절한 기회와 함께 링크드인은 구인 공고를 보여줍니다. 그들의 기술과 관련된 기술과 아침 선호도, 프로필 정보 다음 공석이 곧 생길 예정임을 알려드립니다. 아, 그리고 활성화하는 것도 잊지 마세요... 구인 알림을 받아보세요 가능한 한 빨리 공석에 지원하세요.
-
-- **[The Most Common Interview Questions and How to Answer](https://www.youtube.com/watch?v=xsJvi6tJtbM)** — 2024-05-22 · en · `unclassified`
-  Welcome to career talks presented by LinkedIn. I'm Andrew Seaman. So you've been invited to an interview. Great. But what are the most common questions you can anticipate being asked and how will you answer them? Well, in this video, we bring you the best advice and recommendations from hiring professionals to help give you the confidence to nail the interview and showcase the very best of your personality, skills and expertise.
-
-- **[“Tell Me About Yourself” | How to Answer in interview](https://www.youtube.com/watch?v=jkxcyRRKo1w)** — 2024-05-22 · ko · `unclassified`
-  [음악] 멜라인, 다음 질문 은 아마도 많은 사람들이 가장 어려워하는 질문 중 하나일 텐데, 바로 "자기소개를 해보세요"라는 질문입니다. 많은 사람들이 자신의 기술 이나 과거 경험에 대해서는 잘 이야기하지만, 자신을 구체적으로 정의하고 설명하는 데 어려움을 느낍니다. 어떻게 대답해야 할까요? 첫 번째 단계는 자신이 누구인지 밝히는 것입니다. 여기서 '자신이 누구인지'는 직업을 의미합니다. 예를 들어, "저는 기술 업계에서 고성장 스타트업을 전문으로 하는 인사 담당자입니다."와 같이 간단하게 말할 수 있습니다.
-
-- **[“What Are Your Strengths and Weaknesses?” | How to Best Answer](https://www.youtube.com/watch?v=m19o5ZMcqS0)** — 2024-05-22 · en · `unclassified`
-  A weakness, I think is a generally unfair question. We don't. We don't have weaknesses. The weakness we have to determine is it a weakness that we have to overcome, or is it just a weakness? If you're if you're not on the sales team, you don't have to be great at sales. You need to be great at something else.
-
-- **[Top Interview Tips: How to be engaging, answer hard questions, & more.](https://www.youtube.com/watch?v=ji7aZWgeTgw)** — 2024-05-20 · en · `unclassified`
-  Now, Matt, the other thing that I think is important is to be an engaging talker, because if you are interviewing for a role, you want to sort of reach out and say, hey, you know, I, I'm someone who's going to be, engaging, lively, be an active part of the team. So how do you show in the interview that you can do that and engage your listener?
-
-- **[5 Tips to Effectively Prepare and Ace your Interview](https://www.youtube.com/watch?v=iIVuIIM_17w)** — 2024-05-13 · en · `unclassified`
-  I guess the first question we're talking today all about how to really nail interviews and make sure that you put your best foot forward. So the first step, obviously, is to prepare for an interview. And how can people do that? Right. So I suggest a three step process for preparing and preparing is absolutely key.
-
-- **[5 Tips to Write an Effective Resume](https://www.youtube.com/watch?v=VW8Q5LVM3pI)** — 2024-05-09 · ko · `unclassified`
-  [음악] 이력서에 대한 가장 큰 오해는 무엇일까요? 네, 오해라고 하면 크게 두 가지를 꼽을 수 있을 것 같아요. 첫 번째 오해는 이력서를 마치 쓰레기장처럼 생각한다는 거예요. 지금까지 했던 모든 일, 업무, 과제, 프로젝트를 하나하나 다 적어 넣어야 한다고 생각하는 거죠. 왜 그런지는 모르겠지만, 많은 사람들이, 특히 제가 함께 일해 본 많은 사람들이, 모든 세부 사항을 빠뜨렸다는 사실이 드러날까 봐 두려워하는 것 같아요. 하지만 그건 사실이 아닙니다.
-
-- **[How to Use an Applicant Tracking System (ATS) to Your Advantage](https://www.youtube.com/watch?v=q6-J2LF54Fg)** — 2024-05-09 · ko · `unclassified`
-  [음악] 지원자 추적 시스템(ATS)이 무엇인지 설명해 주시겠어요? 인터넷에 잘못된 정보가 너무 많아서요. 네, ATS는 이력서를 스캔해서 특정 키워드를 찾아내고, 채용 공고의 내용과 일치하지 않는 이력서를 걸러내는 컴퓨터 소프트웨어입니다. 많은 사람들이 ATS에 대해 걱정하지만, 사실은 채용 공고와 키워드를 활용하는 방법을 제대로 따르고, 오늘 설명드린 것처럼 채용 공고를 바탕으로 이력서를 작성한다면 ATS에 대해 전혀 걱정할 필요가 없습니다. ATS는 채용 공고에서 키워드를 추출하고, 여러분은 그 키워드를 이력서에 넣는 것이기 때문에 모두 같은 방식으로 진행하는 것이므로, ATS는 확실히 통과할 겁니다.
-
-- **[How to Write a Resume: 3 Main Resume Sections](https://www.youtube.com/watch?v=ywkr9LdsksU)** — 2024-05-09 · en · `unclassified`
-  The three components that you want to have on your resume. The first is what I call a profile, and the profile represents the overview of your experience and the qualifications that you possess. So it's the high level summary of who you are right in a quick snapshot. And I can explain that more in a bit. From there you're going to want to have your professional experience fully laid out.
-
-- **[How to Write a Resume With Limited Work Experience](https://www.youtube.com/watch?v=-VYWkJIPf2I)** — 2024-05-09 · en · `unclassified`
-  What do you do when you're just starting out and don't have a lot of professional experience? Can you just list your college classes? Yes. Okay. So if that's the case where you don't have a lot of experience. Absolutely. But you also want to look back on your volunteer experience, any sort of clubs or extracurricular activities that you did in college.
-
-- **[5 Tips to Get Your Job Application Noticed](https://www.youtube.com/watch?v=9WpL81k64Dg)** — 2024-05-06 · ko · `unclassified`
-  안녕하세요 여러분, 커리어 토크 최신 에피소드에 오신 것을 환영합니다! 오늘은 정말 멋진 게스트를 모시게 되어 기쁩니다. 제가 가장 좋아하는 전문가 중 한 분이자, 임원 이력서 작성 및 공인 개인 브랜드 전략 전문가이신 제시카 헤르난데스 님을 모셨습니다. 제시카 님, 안녕하세요! 앤드류, 만나서 정말 반갑습니다. 링크드인과 구직 활동에 대해 다시 이야기 나눌 수 있어서 너무 기쁩니다. 제가 가장 좋아하는 주제 중 하나죠. 네, 그리고 이 주제에 대해 이야기하기 가장 좋아하는 분 중 한 분이세요.
-
-- **[How to Make a Successful Career Change](https://www.youtube.com/watch?v=AYGnkvtf9EU)** — 2024-05-06 · ko · `unclassified`
-  안녕하세요 여러분, 최신 진로 상담에 오신 것을 환영합니다 . 저희 팀에는 커리어 코치이자 브로다 코칭의 창립자인 아담 브로다가 있습니다 . 자, 아담이 다시 쇼에 돌아온 것을 환영합니다 . 안녕하세요 앤드류, 다시 만나서 반갑습니다. 이제 시댁 지하실 차고에서 작업하지 않으니 두 번째 시도를 하게 되어 기쁩니다. 네, 그리고 지금 정말 좋은 상황에 계시겠지만, 시간을 내어 다시 한번 귀중한 지혜를 나눠주셔서 정말 감사합니다. 아마 예전에 저희 방송에 출연하셨던 걸 기억하시는 분들도 계실 텐데요, 오늘은 커리어 전환에 대해 이야기 나눠볼 예정입니다
-
-- **[Successful Interview Strategies: How to Answer Any Question You're Asked](https://www.youtube.com/watch?v=8NDPNAP0L14)** — 2024-05-06 · ko · `unclassified`
-  안녕하세요 여러분, 커리어 토크에 오신 것을 환영합니다. 오늘 여러분께 아주 훌륭한 손님을 모셨습니다. 나는 그를 스크린에 등장시키고 싶다 . 그는 국제적인 경력 및 리더십 코치입니다. 그는 헤드헌팅 전문가이자 작가이며 유튜브 스타인 앤디 래시터입니다. 앤디, 쇼에 오신 것을 환영합니다 . 앤드류, 고마워. 정말 멋진 소개였네요. 감사합니다. 함께하게 되어 기쁩니다 . 그리고 오늘이 재향 군인의 날이라는 것도 알고 있습니다. 나라를 위해 헌신해주신 모든 분들께 감사드립니다. 그리고 나라를 위해 힘써주시는 모든 분들께 진심으로 감사드립니다.
-
-- **[Top Expert Interview Tips](https://www.youtube.com/watch?v=Yggr4d1E718)** — 2024-05-06 · ko · `unclassified`
-  안녕하세요 여러분, 커리어 토크 최신 에피소드에 오신 것을 환영합니다! 오늘 게스트를 소개하게 되어 정말 기쁩니다. 스탠포드 경영대학원 교수님이시자, ' Think Faster Talk Smarter'의 저자이시며, ' Think Fast Talk Smart' 팟캐스트 진행자이기도 한 멋진 분, 맷 아브라함 교수님을 만나 뵙게 되어 반갑습니다. 앤드류, 안녕하세요! 오늘 이렇게 만나 뵙게 되어 정말 기쁘고, 오늘 대화도 기대됩니다. 많은 분들이 함께해 주셔서 감사하고, 그럼 바로 시작해 볼까요? 첫 번째 질문은 면접에서 좋은 인상을 남기는 방법, 즉 면접을 완벽하게 준비하는 방법에 대한 것입니다
-
-- **[Top Job Application Skills to Help Get You Hired](https://www.youtube.com/watch?v=N8xrgemiO3E)** — 2024-05-06 · ko · `unclassified`
-  안녕하세요 여러분, 커리어 토크 최신 에피소드에 오신 것을 환영합니다! 오늘 멋진 게스트 연사, 앤디 리타를 모시겠습니다. 두 번째로 출연해 주셨네요. 앤디는 국제적인 커리어 및 리더십 코치이자, 헤드헌터, 수상 경력에 빛나는 작가, 그리고 유튜브 스타입니다. 앤디, 환영합니다! 앤드류, 방금 좀 과장된 표현이었지만 좋네요. 좋습니다. 다시 한번 출연해 주셔서 감사합니다. 오늘 주제는 구직자로서 어떻게 고용주의 목표에 맞춰 영향력을 발휘할 것인가입니다. ' 영향력을 고용주의 목표에 맞춘다'는 것은 무엇을 의미할까요?
-
 ## McKinsey & Company (54건)
 
 - **[The Startup ‘Pain Cave’: When Great Products Don’t Sell](https://www.youtube.com/watch?v=f6JnG6ZpLn8)** — 2026-07-24 · ko · `unclassified`
@@ -3562,167 +4240,6 @@
 
 - **[MGI event: Industry leaders discuss how to advance adaptation](https://www.youtube.com/watch?v=MtevcjCnO1w)** — 2026-03-12 · ko · `unclassified`
   [음악] 맥킨지 글로벌 인스티튜트 가상 이벤트에 오신 것을 환영합니다. 모두 환영합니다. 저는 올리비아 화이트입니다. 저는 맥킨지 글로벌 인스티튜트의 선임 파트너이자 이사입니다. 오늘 세션에서는 MGI의 새로운 보고서인 " 냉각에서 해안 방어까지 적응력 향상"의 결과를 논의할 예정이라 매우 기대됩니다. 그리고 가장 중요한 것은, 이러한 결과를 어떻게 실질적인 행동으로 옮길지에 대해 이야기하기 시작할 것입니다 . 이는 맥킨지 글로벌 연구소에서 에너지 전환 및 기후 관련 주제에 대해 발표한 여러 보고서 중 가장 최근의 보고서이며, 이 시점에 발표된 것을 매우 기쁘게 생각합니다.
-
-## AWS Developers (53건)
-
-- **[The Only Networking You Need to Start Building on AWS](https://www.youtube.com/watch?v=Ah8rrgOq-c8)** — 2026-07-23 · ko · `unclassified`
-  오늘날 AWS에서 개발을 시작하는 데 심도 있는 네트워킹 지식이 필요한 것은 아닙니다 . VPC, 서브넷, 라우팅, 인터넷 게이트웨이, 보안 그룹 등 네트워킹 관련 요소들이 너무 많아서 헷갈리기 쉽습니다. 하지만 동네를 머릿속으로 그려보는 것만으로 이 모든 것을 아주 쉽게 이해할 수 있는 방법이 있다고 말씀드리면 어떠시겠어요? 이번 영상에서는 AWS를 시작하는 데 필요한 최소한의 네트워킹 지식을 단계별로 보여드리겠습니다. 자, 이제 그 동네로 들어가기 전에 , 여러분이 기억해 두셨으면 하는 간단한 질문 하나를 드리겠습니다
-
-- **[Build AI Agents on AWS in Under 10 Minutes (Bedrock, Strands, AgentCore)](https://www.youtube.com/watch?v=igsklrIO3fo)** — 2026-07-21 · ko · `AX`
-  노트북에서 AI 에이전트를 로컬로 작동시키는 것은 쉬운 부분입니다. 다른 사람들이 24시간 내내 사용할 수 있도록 실제 장소에 설치해야 합니다. 바로 그 지점에서 흥미로운 일들이 벌어집니다. 다음 9분 동안 AWS의 세 가지 핵심 구성 요소인 Bedrock, Strands 및 Agent Core에 대해 설명드리겠습니다. 노트북에 있는 에이전트를 실제 운영 환경으로 옮기는 과정을 보여드리겠습니다. 모든 요원에게는 두뇌가 필요합니다. 뇌는 거대한 언어 모델, 즉 LLM입니다. 그 부분은 당신의 요청을 읽고 어떻게 해야 할지에 대한 이유를 설명하는 부분입니다
-
-- **[Deploying Agents to the Cloud](https://www.youtube.com/watch?v=S_ZRZFDJ6wE)** — 2026-07-14 · en · `AX`
-  So far, everything we've built has been running on my local machine. Now, we're going to deploy it to the cloud. You can package a Strand's agent into a container and run it anywhere, but in this video, we'll deploy it to AWS using Amazon Bedrock Agent Core. Agent Core is a collection of components for building, deploying, and operating AI agents in production.
-
-- **[Evaluating Agents](https://www.youtube.com/watch?v=rDtcfG4aZV4)** — 2026-07-14 · ko · `AX`
-  담당 에이전트가 실제로 효과가 있는지 어떻게 알 수 있을까요 ? 그리고 더 중요한 것은, 신속한 변경, 모델 교체, 도구 업데이트 또는 배선 수정이 상황을 개선했는지 악화시켰는지 어떻게 측정할 수 있을까요 ? AI 에이전트는 비결정성 때문에 기존 소프트웨어 테스트 방식이 금방 한계를 드러냅니다. 동일한 입력값이 실행마다 다른 출력값을 생성할 수 있으며, 에이전트 오류는 상당수 포착하기 어렵습니다. 답변이 돌아올 수는 있지만, 품질이 낮거나, 안전하지 않거나, 불완전하거나, 정책을 위반하거나, 미묘하게 잘못되었을 수 있습니다.
-
-- **[Multi-Agent Patterns: Agent Swarms](https://www.youtube.com/watch?v=yG-5rIJoh_8)** — 2026-07-14 · ko · `unclassified`
-  그래프에서는 에이전트의 실행 순서를 결정합니다. 기획자는 에이전트를 도구로 활용하여 누구에게 연락할지 결정합니다 . 하지만 만약 처음부터 올바른 구조를 모른다면 어떻게 해야 할까요? 운영 환경에서 발생하는 장애를 분류하는 시스템을 생각해 보세요. 첫 번째 담당자가 로그를 확인하고 데이터베이스 연결 오류를 발견하면 메트릭 분석가에게 인계하고, 메트릭 분석가는 연결 풀이 고갈되었음을 확인하고, 배포 검토자에게 인계하면 누군가가 30 분 전에 연결 풀 구성을 변경했음을 발견합니다. 그 그래프는 미리 그릴 수 없습니다.
-
-- **[Multi-Agent Patterns: Graph Workflows](https://www.youtube.com/watch?v=jDeV2V5fJUQ)** — 2026-07-14 · ko · `AX`
-  에이전트를 도구로 활용하는 패턴은 작업들이 독립적이고 에이전트가 최대한의 적응성을 갖도록 하려는 경우에 효과적입니다. 하지만 모든 작업량에 최적의 선택은 아닙니다. 에이전트 간의 직접적인 종속성을 표현하거나 특정 순서대로 실행되도록 보장하는 방법은 없습니다 . 그래프가 이 문제를 해결합니다. 에이전트의 실행 순서를 명시 적으로 정의할 수 있으며, 그래프의 각 노드는 완전한 에이전트입니다. 이러한 에이전트는 도구, MCP 서버, 기술, 플러그인 등 필요한 모든 것을 갖출 수 있습니다. 에이전트들은 상호 의존성을 나타내는 엣지를 통해 연결됩니다 .
-
-- **[Agent Plugins & Skills](https://www.youtube.com/watch?v=dnChw1mfc5M)** — 2026-07-10 · en · `unclassified`
-  So far, we've been learning the building blocks for building agent harnesses in isolation with small, focused examples. Now, we're going to start composing those primitives into something more realistic. We're going to build out a customer service agent and use it as one of the examples over the next few videos. One of the common issues with building a larger agent systems, especially things like customer support agents, is that your system prompt basically never stops growing.
-
-- **[Context Engineering & Conversation Management](https://www.youtube.com/watch?v=6zbbYm902MQ)** — 2026-07-10 · ko · `unclassified`
-  컨텍스트 관리에 대해 이야기해 봅시다. 컨텍스트 관리는 에이전트 하네스의 핵심 책임 중 하나입니다. 모든 도구 호출, 도구 결과, 수정 사항, 요약, 사용자 메시지 및 모델 응답은 토큰을 소모하고 컨텍스트 창의 공간을 차지합니다. 컨텍스트 제한에 도달하기 전에도, 컨텍스트 크기가 너무 크면 지연 시간과 비용이 증가하고 추론 품질이 저하되는 경우가 많습니다 . 에이전트의 실행 시간이 길어지고 기능이 향상됨에 따라 컨텍스트 엔지니어링은 해결해야 할 주요 아키텍처 문제 중 하나가 됩니다.
-
-- **[Improve Agent Reliability with Strands Steering](https://www.youtube.com/watch?v=5rwTCUFV4Ak)** — 2026-07-10 · ko · `AX`
-  지난 영상에서는 환불, 주문 추적, 계정 문제 해결 능력을 갖춘 고객 서비스 상담원을 만들었습니다. 작동은 되지만, 여러 번 실행하다 보면 결국 불편한 점을 발견하게 될 겁니다. 상담원이 지시사항을 항상 일관되게 따르지는 않습니다 . 때때로 환불 대상 주문인지 여부를 먼저 확인하지 않고 환불을 처리하는 경우가 있습니다 . 어떤 경우에는 주문 내역 조회를 완전히 건너뛰고 그냥 추측하기도 합니다. 그리고 때로는 고객 지원 상호 작용치고는 응답 어조가 지나치게 가벼운 경우가 있습니다.
-
-- **[Multi-Agent Patterns: Agents as Tools](https://www.youtube.com/watch?v=_QcD5KBe3ZQ)** — 2026-07-10 · ko · `AX`
-  다중 에이전트 아키텍처는 다양한 용도로 유용합니다. 메인 에이전트의 컨텍스트에서 노이즈가 많은 도구를 분리하거나, 연구, 글쓰기, 코드 생성처럼 각기 다른 전문성이 필요한 작업을 구분하고 싶을 수도 있습니다. 또는 워크플로의 각 단계에 따라 비용을 최적화하기 위해 서로 다른 모델을 사용하거나, 특수 기능을 갖춘 특정 모델을 도입하고 싶을 수도 있습니다. 다중 에이전트 아키텍처를 사용하면 각 에이전트가 한 가지 일을 잘 수행하도록 문제를 분해할 수 있습니다. 그리고 전반적인 시스템이 더 좋고 더 안정적입니다.
-
-- **[Persistent Memory with Session Managers](https://www.youtube.com/watch?v=HqGIYRXo6WE)** — 2026-07-10 · ko · `unclassified`
-  코딩 도우미, 고객 지원 담당자 또는 연구 도우미와 같은 단일 작업 도구 이상의 것을 구축하려면 에이전트 실행 또는 세션 간에 대화 기록이 유지되어야 합니다. Strands에서는 세션 관리자가 이를 처리합니다. 내장된 파일 세션 관리자를 사용하여 세션 정보를 로컬 파일에 저장하는 것부터 시작할 수 있습니다. 지금까지 사용해 온 고객 서비스 예시를 통해 코드를 살펴보겠습니다. 파일 세션 관리자를 가져옵니다. 그다음 세션 관리자의 새 인스턴스를 생성하고 세션 ID와 스토리지 디렉터리를 전달합니다.
-
-- **[Adding Callbacks & Response Streaming](https://www.youtube.com/watch?v=PtdHZBbm1Ys)** — 2026-07-08 · ko · `unclassified`
-  지금까지 우리가 구축한 모든 에이전트는 모델이 텍스트를 생성하는 대로 터미널로 스트리밍했지만 , 우리는 그 부분을 설정하지 않았습니다. 그렇게 하면 바로 사용할 수 있습니다. 하지만, 이것은 내부적으로 어떻게 작동하는 걸까요 ? Strands는 콜백 핸들러를 제공합니다. 콜백 핸들러는 텍스트 청크, 도구 호출, 수명 주기 신호 및 최종 결과와 같이 에이전트가 생성하는 모든 이벤트에 대해 호출되는 함수입니다. 기본 콜백 핸들러는 표준 출력으로 텍스트를 출력하고 해당 줄에 도구 사용 정보를 표시합니다.
-
-- **[Control Your Agent With Hooks](https://www.youtube.com/watch?v=Zamh36RWKz8)** — 2026-07-08 · en · `unclassified`
-  We've built an agent with tools, but when the&nbsp; agent decides to call a tool, it just calls it.&nbsp;&nbsp; There's nothing you can do about it.&nbsp; Models are getting smarter all the time,&nbsp;&nbsp; and they're very capable. But capability isn't&nbsp; the same as reliability. You can't guarantee&nbsp;&nbsp; the model won't do something destructive,&nbsp; call the same tool in an infinite loop,&nbsp;&nbsp; or pass bad inputs to a sensitive API without&nbsp; guardrails in place.
-
-- **[Give Your Agent Tools Using MCP](https://www.youtube.com/watch?v=Pucmy0GZkeI)** — 2026-07-08 · ko · `AX`
-  에이전트에게 여러 출처에서 제공되는 다양한 도구를 제공하는 것은 흔한 일이며, 에이전트는 주어진 작업을 해결하기 위해 필요에 따라 도구를 사용합니다 . Strands에서는 에이전트에게 도구 접근 권한을 부여하는 여러 가지 방법이 있습니다. 이미 내장된 벤트 도구를 사용하는 방법과 툴 데코레이터를 사용하여 파이썬 함수를 도구로 바꾸는 방법을 살펴보았습니다 . 또 다른 패턴은 MCP입니다. MCP( Model Context Protocol)는 에이전트가 외부 기능을 일관된 방식으로 검색하고 상호 작용할 수 있도록 하는 개방형 표준입니다 .
-
-- **[How AI Agents Really Work](https://www.youtube.com/watch?v=ZpXWGjISMs8)** — 2026-07-08 · ko · `AX`
-  인공지능 모델은 끊임없이 더욱 강력해지고 있습니다. 그들은 복잡한 문제를 추론하고, 코드를 작성하고, 데이터를 분석하고, 결정을 내릴 수 있습니다. 하지만 그러한 기능 만으로는 실제 생산 현장에서 유용하게 사용할 수 있는 것은 아닙니다 . 모델 자체는 상태를 가지지 않습니다. 이 프로그램은 하나의 요청을 처리하고 완료 결과를 생성한 다음, 다음 차례가 오기 전에 모든 것을 잊어버립니다. 이 시스템은 현실 세계에서 자체적으로 행동을 취하거나 실시간 정보에 접근하거나 여러 단계로 이루어진 워크플로를 조정할 수 없습니다
-
-- **[Switching Model Providers](https://www.youtube.com/watch?v=NAEX4ORLkbQ)** — 2026-07-08 · ko · `unclassified`
-  모델마다 장점이 다릅니다. 일부는 코딩 작업이나 장시간 실행되는 워크플로에 최적화되어 있는 반면, 다른 일부는 계획 수립, 심층 연구에 더 적합 하거나 속도와 낮은 지연 시간 작업에 최적화되어 있습니다. 구축하는 에이전트 시스템이 더욱 정교해짐에 따라, 동일한 시스템 내에서 서로 다른 에이전트에 서로 다른 모델을 적용하는 것이 일반적입니다. 오케스트레이션에는 하나의 모델을 , 특수 코딩 작업에는 다른 모델을, 검증 또는 평가 단계에는 또 다른 모델을 사용할 수 있습니다.
-
-- **[5 Security Layers Every Frontend Dev Needs](https://www.youtube.com/watch?v=tmGiEG8a2Io)** — 2026-07-02 · ko · `unclassified`
-  여러분의 프런트엔드 앱이 생각만큼 안전하지 않을 수도 있습니다. 이 영상에서는 흔히 저지르는 보안 실수 몇 가지와 사람들이 착각하기 쉬운 몇 가지 잘못된 상식, 그리고 프런트엔드 보안이 계층적으로 구축되어야 하는 이유에 대해 살펴보겠습니다. 제가 무슨 말인지 보여드리겠습니다. 자, 이건 제가 만든 간단한 React 앱입니다. 겉보기엔 괜찮아 보이지만, 몇 가지 문제가 있습니다. 제가 보여드리겠습니다 . 위 알림에서 보셨듯이, 이는 전형적인 크로스 사이트 스크립팅 공격의 예입니다. 공격자가 자신의 자바스크립트 코드를 몰래 삽입하고 브라우저가 이를 실행할 때 발생합니다.
-
-- **[Containers on Amazon ECS with Mama J](https://www.youtube.com/watch?v=U2wmozx3uwM)** — 2026-06-29 · ko · `unclassified`
-  저희 엄마는 제 모든 영상을 보십니다. 그녀는 그것들이 무슨 뜻인지 정확히는 모르지만, 그것들을 지켜본다. 그리고 보통 저는 서버리스에 대해 이야기하고 있습니다. 몇 달 전에 ' 마마 J와 함께하는 서버리스'라는 제목의 서버리스 관련 영상을 제작할 수 있는 정말 멋진 기회가 생겼는데, 거기서 제가 서버리스에 대해 설명했어요. 그리고 저희는 또 하나를 완성했습니다. 이 시리즈의 제목은 ' 마마 J와 함께하는 컨테이너'입니다. 이번 편은 두 번째 이야기입니다. 이번 시간에는 컨테이너에 대해 이야기하고 설명해 드리겠습니다
-
-- **[System Design for Beginners (Full Guide)](https://www.youtube.com/watch?v=BAVrwcPDa-k)** — 2026-06-26 · en · `unclassified`
-  Getting started [music] with system design can be overwhelming. Since it not only involves having the technical basis to make informed decisions, but also having a deep understanding of the problem you want to solve. Today, we're going to solve a classic interview system design problem. And by the end, you have a repeatable framework for any system design question. First things first, what is system design?
-
-- **[Your AI Agent Needs a Tool](https://www.youtube.com/watch?v=22E0bXQwwZ8)** — 2026-06-23 · en · `AX`
-  An AI agent without tools is useless, and I'll prove it to you. Let's look at this code here. I'm running a [music] strands agents, which is an open source agentic framework, and I'm asking a very basic question. [music] I'm flying to Vegas this month, and what's the weather going to be like? When I run this code, [music] we will see that strands, the agent, is trying to figure out what's happening.
-
-- **[Agent Toolkit for AWS Explained in 2 Minutes](https://www.youtube.com/watch?v=PGrmbZ1TDmA)** — 2026-06-16 · en · `unclassified`
-  The toolkit has four parts. The AWS MCP server is a managed endpoint your agent connects to through the model context protocol. It gives your agent access to current AWS documentation, &gt;&gt; [music] &gt;&gt; not just training data, the actual docs searched in real time. And it lets your agent make authenticated AWS API calls using your IAM credentials. The calls go through the managed server, they get validated, and then they all land in CloudTrail.
-
-- **[Running Claude Code on Amazon Bedrock](https://www.youtube.com/watch?v=sAYmTv6nKSY)** — 2026-06-16 · ko · `AX`
-  전 세계 개발자들이 앤스로픽 의 클로드 코드(Claude Code)와 같은 AI 코딩 도구가 일상 업무를 어떻게 변화시켰는지 이야기하고 있으며, 그 결과 그 어느 때보다 많은 제품을 출시하고 있습니다. 하지만 일부 개발자는 데이터 상주, 청구 또는 규정 준수 문제로 인해 이러한 도구를 사용할 수 없습니다. 이제 Amazon Bedrock을 통해 AWS 내에 호스팅된 모델을 사용하여 Claude Code를 실행할 수 있습니다 . 즉, Claude Code를 사용하면서도 보안, 규정 준수 및 비용 관리 요구 사항을 충족할 수 있습니다
-
-- **[AI and the Job Market in 2026](https://www.youtube.com/watch?v=0nR3wYm602c)** — 2026-06-09 · ko · `unclassified`
-  지금 IT 업계에 대량으로 지원하고 있는 시청자라면, AI가 자기 소개서와 이력서를 작성해 줄 뿐만 아니라, 이력서를 검토하고 과제까지 내준다는 사실에 의아해할 수도 있을 겁니다 . 그렇다면 이처럼 모든 측면에 인공지능이 개입된 상황에서 어떻게 하면 진정으로 두각을 나타낼 수 있을까요 ? 기술 업계에는 사람들과 소통하고 네트워킹하는 것이 그다지 중요하지 않다는 인식이 널리 퍼져 있는 것 같은데, 솔직히 저는 그 의견에 전혀 동의할 수 없습니다. 그게 눈에 띄는 가장 쉬운 방법이라고 생각해요 .
-
-- **[5 Tips for Deploying AI Agents to Production](https://www.youtube.com/watch?v=j1wfE0SOBbE)** — 2026-06-02 · ko · `AX`
-  만약 여러분이 상용화를 위해 TypeScript 기반의 AI 에이전트를 개발하고 있다면 , 이 내용을 먼저 들어보셔야 합니다. 너무 많은 에이전트가 엔드포인트가 완전히 개방된 상태로, 비용 관리 장치도 없고, 테넌트 격리도 없으며, 실질적인 관찰 가능성도 거의 없는 상태로 프로덕션 환경에 배포되고 있습니다. 이러한 문제들을 해결하는 다섯 가지 모범 사례를 보여드리겠습니다 . 상담원이 도구에 전화를 걸면 응답이 오는 데 5초, 10초, 15초 정도 걸릴 수 있습니다.
-
-- **[Infrastructure as Code for Beginners (AWS CDK)](https://www.youtube.com/watch?v=TXQpWbH56q8)** — 2026-05-27 · ko · `unclassified`
-  클릭을 멈추자 모든 게 이해되기 시작했어요. 이유는 다음과 같습니다. 아, 드디어 끝났네요. 세 가지 AWS 서비스, DynamoDB 테이블, Lambda 함수, API Gateway를 모두 구성하고 연결하고 배포했습니다. 클릭과 스크롤을 엄청나게 많이 해야 했지만 , 적어도 다시는 이 작업을 반복할 필요가 없다는 게 다행입니다. 롭, 클라이언트가 스테이징 환경 승인을 방금 마쳤어. 미국 서부 2 서버에서도 동일한 API 스택을 구축할 수 있습니까 ? 그러니까, 동일한 스택, 동일한 구성, 동일한 권한인데, 단지 하루가 끝날 때쯤에만 그런다는 거죠.
-
-- **[Stop AI Hallucinations With These 5 Techniques](https://www.youtube.com/watch?v=O-QEhFFhXNA)** — 2026-05-22 · ko · `AX`
-  AI 에이전트가 응답할 때마다 입력되는 단어 수와 출력되는 단어 수에 따라 비용이 발생합니다. 청구서에서 통화 토큰 내역을 확인하실 수 있습니다. 보내는 토큰이 많을수록 지불해야 하는 금액도 많아집니다. 만약 입력한 정보가 정확하지 않거나, 너무 많거나, 중요한 내용이 빠져 있다면, AI 에이전트는 환각 증세를 보이기 시작합니다. 토큰 낭비를 줄이고 정확도를 높이며 사용자가 오류를 발견하기 전에 오류를 감지하는 데 도움이 되는 5가지 [음악] 기술이 있습니다. 따라서 각각은 코드 변경이며, 프롬프트 변경은 아닙니다.
-
-- **[Learn AWS IAM in less than 10 minutes](https://www.youtube.com/watch?v=9Pk2J_5qnlk)** — 2026-05-20 · ko · `unclassified`
-  AWS 초보자라면 누구나, 보통 첫 주 안에 저지르는 흔한 실수가 하나 있습니다. 접근 불가. 대부분의 사람들이 택하는 해결책인 관리자 권한 획득은 최악의 선택입니다 . 저는 초반에 알아챘어요. Lambda 함수를 생성하고 S3 버킷에서 데이터를 읽어오려고 했는데 , 접근이 거부되었습니다. 버킷 설정을 잘못했거나 이름을 잘못 입력한 것이 아닙니다. 사실, 저는 IAM을 이해하려고 시간을 내지 않았습니다. 그래서 나도 다른 사람들처럼 행동했어요. 관리자 권한을 부여했습니다. 오류가 사라졌고, 저는 다음 단계로 넘어갔습니다.
-
-- **[Become an AI Native Cloud Engineer](https://www.youtube.com/watch?v=ZkzkdhmcIVQ)** — 2026-05-18 · ko · `unclassified`
-  대학 졸업한 지 거의 8 년이 됐어요. 그래서 어떤 분들에게는 제가 좀 생김새가 이상하게 보일 수도 있겠네요. 하지만 오늘날 인공지능이 할 수 있는 일이 워낙 많다 보니 , 오늘 졸업한다면 불안감을 느낄 것 같습니다. 하지만 좋은 소식은, 저희는 여전히 경력이 짧은 엔지니어와 건설업자를 채용한다는 것입니다 . 신입 졸업생이거나 경력 전환을 희망하는 분이라면, AI 시대에 클라우드 환경에서 일할 때 알아두면 유용한 몇 가지 실용적인 사항을 소개합니다 .
-
-- **[Agents Are Just Loops](https://www.youtube.com/watch?v=3zvWHe94xCY)** — 2026-05-13 · ko · `AX`
-  설정 코드 두 줄, 함수 하나, 그리고 호출 한 줄. 저것은 제대로 작동하는 AI 에이전트입니다. 질문을 받으면 계산기가 필요하다는 것을 파악하고 , 파이썬 함수를 호출하여 답을 얻은 다음 응답합니다. 모든 게 바로 여기 있어요. 두 줄의 설정 코드, 눈 감고도 작성할 수 있을 만큼 간단한 함수, 그리고 단 한 번의 호출이면 충분합니다. 현재 AI 에이전트에 대해서는 알려지지 않은 부분이 많습니다.
-
-- **[Introducing Agent Toolkit for AWS](https://www.youtube.com/watch?v=d1GHVtEFy2A)** — 2026-05-06 · ko · `unclassified`
-  코딩 에이전트는 똑똑하지만, AWS는 어떤 모델 학습 데이터보다도 훨씬 빠르게 새로운 서비스를 출시합니다 . 심지어 똑똑한 모델조차도 적절한 지침이 없으면 여러 단계를 거치는 AWS 워크플로에서 오류를 범할 수 있습니다. 그들은 중요한 IAM 권한을 건너뛰 거나 6개월 전에 변경된 API를 호출할 것입니다 . AWS용 에이전트 툴킷은 [음악] 그러한 격차를 해소합니다. 기존에 사용 중인 코딩 에이전트와 연동하여 AWS 환경에 대한 실시간 컨텍스트와 단계별 지침을 제공합니다 . 오늘은 음악이 실제로 어떤 역할을 하는지 보여드리고 싶습니다
-
-- **[Amazon EKS Auto Mode | Fully Automated Kubernetes Clusters](https://www.youtube.com/watch?v=s9d61eYkGzs)** — 2026-05-05 · ko · `unclassified`
-  일반적으로 소프트웨어 개발자들이 쿠버네티스 클러스터 작업을 시작할 때 가장 먼저 직면하는 일반적인 어려움은 무엇이라고 생각하십니까? 아시다시피 , 쿠버네티스를 처음 시작할 때 어려움을 느낄 수 있는 요소들이 너무 많아서 좋은 질문입니다. 네, 쿠버네티스의 강력한 기능 중 하나는 이를 통해 다양한 작업을 수행할 수 있다는 점이지만 , 그만큼 복잡성도 높아집니다. 그래서 제가 보기에 고객들이 가장 어려워하는 부분 중 하나는 클러스터를 구성하고 실행하는 것입니다.
-
-- **[You Deleted Everything and AWS Is Still Charging You](https://www.youtube.com/watch?v=NJ6F0atWKpM)** — 2026-05-01 · ko · `unclassified`
-  음악 파일을 전부 삭제했는데도 AWS에서 계속 요금을 청구하나요? 저건 제가 클라우드 기술을 처음 접했을 무렵, 꽤 오래전 모습입니다. AWS에 데이터베이스, EC2 인스턴스 몇 개, S3 버킷 등을 설정했습니다. 작업이 끝나자 모든 것을 삭제했습니다 . 콘솔에 "삭제 중"이라고 표시되었습니다. 나는 내가 잘할 거라고 생각했어. 그러다 예상치 못한 청구서를 받았습니다. 그리고 저만 그런 게 아니라는 걸 알고 있어요. 저는 클라우드 기술을 실험해보고 싶어하는 컴퓨터 공학 전공 학생들과 개발자들과 정기적으로 이야기를 나눕니다.
-
-- **[AgentCore Managed Harness: Getting Started](https://www.youtube.com/watch?v=sCRPT6dRE4k)** — 2026-04-29 · ko · `AX`
-  브라우저를 열고 최신 주요 기술 뉴스를 수집하여 영구 파일 시스템에 저장한 다음 , 작업이 완료되면 매일 저에게 메시지를 보내는 에이전트를 실행하고 있습니다 . 아니요, 저는 오픈클로를 사용하지 않았고, 자체 API를 작성하지도 않았으며, 전체 오케스트레이션 레이어를 구축할 필요도 없었고, 컨테이너를 설정하거나 스토리지를 연결할 필요조차 없었습니다 . 전체 에이전트 루프는 구성 파일과 시스템 프롬프트를 사용하여 구축되었습니다 . 그것이 바로 에이전트 코어의 관리형 하네스입니다 . 어떻게 작동하는지 보여드리겠습니다.
-
-- **[SQL Full Course - Build a Database and Deploy It](https://www.youtube.com/watch?v=NYEd5a_p9j8)** — 2026-04-24 · ko · `unclassified`
-  대부분의 앱을 구동하는 조직 유형 중 하나인 관계형 데이터베이스에 대해 이야기해 보겠습니다. 기술 업계에서 진정으로 오래 지속되는 관계는 이것들뿐입니다. 믿기 어려우시겠지만, 여러분이 사용하는 모든 앱과 웹사이트를 구동하는 기술은 월드 와이드 웹보다 더 오래되었습니다 . 오늘날 여러분이 사용하는 모든 앱은 1970년대 기술을 기반으로 작동하며, 아직 아무도 그 기술을 대체하지 못했습니다. 오늘 하루 동안 스마트폰을 몇 번이나 터치했는지 생각해 보세요. 스크롤하고, 좋아요를 누르고, 게시물을 올리고, 주문하는 데 시간을 쏟았겠죠.
-
-- **[Build an AI Agent From Scratch With Python](https://www.youtube.com/watch?v=jcpZU2vyrf4)** — 2026-04-22 · ko · `AX`
-  요즘은 다들 AI 에이전트에 대해 이야기하고 있어요. 이러한 프로그램들은 우리가 입력한 정보를 바탕으로 스스로 추론하고, 결정을 내리고, 행동을 취할 수 있습니다 . 그리고 우리 대부분은 키로(Kiro)나 키로 CLI, 클로드 코드(Claude code)와 같은 애플리케이션 및 코드 작성에 도움을 주는 에이전트에 대해 이야기하고 있습니다. 하지만 이 영상에서는 여러분이 직접 에이전트를 만들어 볼 수 있습니다. 하지만 그 전에, 에이전트를 구성하는 요소는 무엇일까요? 우리는 먼저 두뇌 또는 모델, 즉 에이전트가 입력받는 내용을 처리할 수 있도록 자연어 지능을 제공하는 대규모 언어 모델부터 시작합니다.
-
-- **[What is an Agent Harness? (And How We Built One)](https://www.youtube.com/watch?v=hcm5zIWASCM)** — 2026-04-17 · ko · `AX`
-  문서를 업데이트하고 제대로 작동하는지 확인하는 것은 엔지니어의 업무 중 가장 재미있는 부분은 아닙니다 . 최근에 저와 한 엔지니어는 Agent Core용 새 CLI와 연동되도록 문서를 업데이트해야 했는데, 에이전트를 사용해서 이 작업을 훨씬 빠르게 진행할 수 있었습니다. 우리는 에이전트가 AWS 계정에 액세스하고, 작성된 CLI 명령을 실행하고, 오류를 보고할 수 있도록 에이전트를 중심으로 하는 시스템을 구축했습니다. 에이전트 하네스는 모델과 현실 세계 사이의 제어 계층을 정의하는데, 그렇다면 에이전트 하네스란 정확히 무엇일까요?
-
-- **[Amazon Bedrock for Beginners – From First Prompt to AI Agent (Full Tutorial)](https://www.youtube.com/watch?v=FAgmR9VV0GQ)** — 2026-04-14 · ko · `AX`
-  그러니까, 여러분은 애플리케이션에 생성형 AI를 추가하고 싶다는 거군요 . 스마트 비서를 만들고 싶 거나, 인공지능 기반의 사이드 프로젝트를 구상 중이실 수도 있습니다 . 겉으로 보기에는 간단해 보입니다. 모델을 호출하고 응답을 받으세요. 얼마나 어렵겠어요 ? 하지만 실제로 만들어보려고 하면 상황이 금세 복잡해집니다. 어떤 모델을 선택해야 할지 어떻게 알 수 있나요? 어떻게 안전하게 인증하나요? 올바른 요청이란 어떤 모습일까요? 비용을 어떻게 관리하고 예측하십니까? 그렇다면 인공지능이 외부 시스템과 상호작용할 수 있도록 하려면 어떻게 해야 할까요?
-
-- **[Intro to S3 Files](https://www.youtube.com/watch?v=zb8TdNJhZCk)** — 2026-04-10 · en · `AX`
-  Oh, hi. I didn't see you there. I'm just installing buckets on Amazon S3 over here and um you know, there's this great feature that came out today called S3 files. It's the ability to mount an S3 bucket as a file system, but not in your typical way. Well, you know what? Let me actually show it to you in action uh as soon as I just uh this.
-
-- **[How to Create a Free AWS Account (and earn up to $200 credits)](https://www.youtube.com/watch?v=PBU2XY2oCTU)** — 2026-04-09 · ko · `unclassified`
-  재밌는 건 이 영상이 완성되는 데 걸리는 시간이 제가 차에서 여기까지 걸어오는 데 걸린 시간보다 훨씬 짧을 거라는 거예요. AWS 계정을 처음 만들 때 모두가 알았으면 하는 사실이 하나 있습니다 . 올바른 방식으로 설정하면 200달러 상당의 크레딧과 6개월 무료 클라우드 컴퓨팅 혜택을 받을 수 있습니다 . [음악] 이 영상에서는 5분도 안 걸리는 시간에 그 방법을 보여드리고, 계정을 더욱 안전하게 만드는 보너스 단계도 알려드리겠습니다. 자, 시작해 볼까요? 좋습니다.
-
-- **[How Much Does Your AI Agent Actually Cost?](https://www.youtube.com/watch?v=tGQlowf5L-Q)** — 2026-04-07 · ko · `AX`
-  AWS에서 에이전트를 시험 사용 중이었는데, 어느새 2,000달러의 손해를 보고 CEO가 질문을 쏟아내고 있는 상황입니다 . 다음 배송 전에 이러한 문제를 예방할 수 있도록 도와드리겠습니다. [음악] 오늘은 AWS에서 개발 및 배포하는 AI 에이전트의 비용을 예측하고 추적하는 방법을 살펴보겠습니다 . 자, 여기서 한 가지 주의할 점은 이 영상에서 다루는 모든 내용은 AWS 서비스에 특화된 음악이라는 것입니다. 따라서 타사 도구 나 확장 프로그램을 사용하는 경우 해당 요소도 계산에 포함해야 합니다 .
-
-- **[CLI Tools Every Developer Should Know in 2026](https://www.youtube.com/watch?v=LCqa0bs2m7E)** — 2026-04-03 · ko · `unclassified`
-  음, 만약 제가 그냥... 흠. 현재 수신 대기 중인 포트를 보여주는 명령어, 좀 무섭게 생겼죠? 음, 무섭지 않아요. 사실 이것은 특정한 순서로 연결된 여러 개의 작은 명령어들이 모여서 만들어내는 멋진 결과물입니다. 요즘 명령줄 도구가 다시 유행이니까, 네. 이번 영상에서는 명령줄의 기본 사항 몇 가지를 알려드리고자 합니다 . 스위치가 뭐예요? 매개변수란 무엇인가요? 파이프가 뭐예요? 리다이렉션이란 무엇인가요? 이 영상의 마지막에는 이 모든 것들 과 더불어 제 하루, 그리고 어쩌면 여러분의 하루까지 조금 더 즐겁게 만들어 줄 정말 멋진 명령줄 유틸리티 몇 가지를 소개합니다.
-
-- **[AWS Dev Setup: Tools I Actually Use Every Day](https://www.youtube.com/watch?v=Ld7Fxyjzmw8)** — 2026-03-31 · ko · `unclassified`
-  AWS 계정을 생성하고 콘솔에 로그인했는데 200개가 넘는 서비스가 눈에 띄지만, 어디서부터 시작해야 할지 전혀 모르시겠나요? 개발자라면 터미널 에서 코드를 작성하고, 빌드하고, 배포하고 싶을 것입니다 . 이 영상에서는 명령줄을 사용하여 처음부터 실제 작동하는 앱을 만드는 과정을 보여드리겠습니다. 갑시다 . 자, 여기 AWS 콘솔이 있습니다. AWS 계정이 있다면 이미 이곳에 와보셨을 겁니다. 어디에 있는지 알아내려고 이것저것 클릭해 보셨을지도 모르겠네요. AWS 콘솔에서 할 수 있는 일이 아주 많습니다.
-
-- **[Event Driven Agents? Yeah, We Can Do That](https://www.youtube.com/watch?v=w5P1Ag_dUIU)** — 2026-03-26 · ko · `AX`
-  안녕. 맞춰보세요! 이벤트 기반 에이전트는 새로운 것이 아닙니다. 알아요. 알아요. 지난 몇 주 동안 사람들이 마치 그것이 아주 기발하고 새로운 아이디어인 것처럼 이야기하는 것을 계속 듣게 되었어요. 저도 그 흥분을 이해합니다. 하지만 문제는 이겁니다. 이벤트 기반 아키텍처는 꽤 오래전부터 존재해 왔습니다. 실제로 서버리스 기술 덕분에 EDA를 누구나 이용할 수 있게 되었습니다. 그리고 에이전트는요? 그것들은 그저 또 다른 업무일 뿐입니다. 그렇다면 이벤트 기반 에이전트를 구현할 수 있을까요? 네 , 물론 가능합니다.
-
-- **[The Caching Mistake Slowing Down Your AWS App](https://www.youtube.com/watch?v=epsjBkgZSSM)** — 2026-03-24 · ko · `unclassified`
-  데이터베이스는 상대적으로 속도가 느립니다. 이런 종류의 Rust로 실행되는 데이터베이스는 상대적으로 속도가 느립니다. 메모리 내 데이터베이스는 그렇지 않습니다. 아주 오래전, 몇몇 개발자들이 왜 회전식 Rust 데이터베이스 앞에 인메모리 데이터베이스를 배치하여 한 자릿수 밀리초의 지연 시간이라는 이상적인 결과를 얻을 수 없을까 하는 생각을 했습니다. 데이터베이스가 로드되어 데이터를 가져올 때까지 기다리는 대신, 특정 항목은 훨씬 더 빠른 방식으로 복원하거나 가져올 수 있습니다. [음악] 그게 바로 RAM입니다. 여러분, 캐싱에 대해 이야기해 봅시다. 그게 뭐죠?
-
-- **[Getting Started with EC2](https://www.youtube.com/watch?v=nJ-djerESW0)** — 2026-03-20 · ko · `unclassified`
-  처음 AWS를 시작했을 때, EC2를 배우는 데 많은 어려움을 겪었습니다. 가격이 저렴하고 대부분의 사용 사례에서 제대로 작동했기 때문에 모든 용도로 T3 마이크로를 선택했습니다. [음악] 하지만 AI 워크로드를 실행해 보려고 했을 때 문제가 생겼죠. EC2에서 로컬 추론을 수행하면서 모델을 미세 조정하려고 했는데, 문제가 발생했습니다 . 더 이상 임의의 인스턴스를 선택할 수 없었고, 실제로 해당 인스턴스 유형이 무엇을 의미하는지 알아야 했습니다. [음악] 이제 EC2는 AWS에서 구축하는 거의 모든 것의 기반이 됩니다.
-
-- **[AWS Lambda Durable Functions: Hands-On Tutorial](https://www.youtube.com/watch?v=M-R6JLS3I2k)** — 2026-03-17 · ko · `AX`
-  유튜브, 인스 타그램, 페이스북 같은 동영상 소셜 미디어 플랫폼이 영상을 게시하기 전에 어떻게 분석하는지 궁금해 본 적 있으신가요? 제 말은, 욕설이 있는지 같은 것들을 확인해야 한다는 거죠. 혐오 발언이 있나요? 혹시 , 좋든 나쁘든 뭔가 말하는 사람이 한 명이라도 있나요 ? 우리는 모릅니다. 하지만 저희는 영상을 확인하고 영상의 분위기가 어떤지 살펴보고 싶습니다. 인공지능의 발명과 이러한 기술의 등장으로 , 사람들이 모여 앉아 영상을 보고 " 이건 좋은 건지 나쁜 건지"를 판단하는 것보다 훨씬 쉬운 방법이 생겼습니다
-
-- **[S3 at 20: How AWS Built the Internet's Storage](https://www.youtube.com/watch?v=XmytPmyzDcs)** — 2026-03-13 · ko · `DX`
-  아마존 S3는 2026년 3월 14일에 20주년을 맞이합니다. S3는 여러분이 매일 사용하는 스마트폰보다도, 여러분이 즐겨 찾는 소셜 미디어 웹사이트보다도 역사가 오래되었습니다. 현재 S3는 500조 개 이상의 객체를 저장하고 초당 2억 건의 요청을 처리합니다. 곰곰이 생각해 보면 꽤 인상적인 일이죠 . 오늘은 아마존 S3의 놀라운 20년 여정을 개발자 의 관점에서 살펴보고 , 개발자에게 가장 중요한 S3 기능들을 알아보겠습니다.
-
-- **[I Explained Serverless to My Mom (She Got It)](https://www.youtube.com/watch?v=vg1Q1to4qoE)** — 2026-03-12 · ko · `unclassified`
-  저희 어머니는 몇 년 동안 유튜브에서 제가 발표한 영상들을 비롯한 여러 가지 영상들을 봐오셨습니다. 그리고 마침내 그녀가 제 옆에 앉아서 말했습니다. "에릭, 서버리스가 뭔지 알고 싶어요 . 사람들이 당신이 무슨 일을 하는지 물어봤는데, 제대로 설명해 주고 싶어요. 그 기술에 대해 어느 정도 이해하고 이야기하고 싶어요." 그래서 저는 저희 엄마, 저희가 '마마 J'라고 부르는 분과 함께 앉아서 ' 마마 J와 함께하는 서버리스'라는 세션을 가졌습니다. 서버리스에 대해 더 알고 싶으시다면, 함께 참여하셔서 즐거운 시간을 보내세요.
-
-- **[AI Browser Automation on AWS (Zero Setup)](https://www.youtube.com/watch?v=yF2jj4M_m4c)** — 2026-03-11 · ko · `AX`
-  그러니까, 1년 조금 넘게 전에, 바로 이 유튜브 채널에서 제가 클로드에게 피자를 주문해달라고 부탁하는 영상을 올렸었죠. 당시 이게 실험적인 거였으니까 엄청 기대했었어요. 이러한 모델들, 즉 대규모 언어 모델이나 멀티모달 모델들이 실제로 당신이 가진 컴퓨터를 제어하고 당신을 위해 어떤 작업을 수행할 수 있다는 생각입니다. 그래서 피자를 주문했어요. 제가 그 영상을 만들었을 때와는 많은 것이 달라졌죠 . 이번 영상에서는 새로 나온 제품들에 대한 최신 정보를 알려드리고, 저도 다시 배가 고파졌으니 어떤 것들을 할 수 있는지 이야기해 보려고 합니다.
-
-- **[Build a Voice AI Agent with Nova Sonic and Kiro](https://www.youtube.com/watch?v=nqOrydK9ie8)** — 2026-02-19 · ko · `unclassified`
-  개발자들은 문제를 논의하며 협업합니다 . IDE가 그 대화에 참여할 수 있다면 어떨까요? 저희는 음성 우선 접근 방식을 위해 Amazon Nova 2 Sonic을 사용하여 구축하고 있습니다 . 이 시스템은 사용자의 말을 경청하고, 질문을 던지고, 실시간으로 제안을 제공하면서 스티어링 파일을 생성하여 대화를 스티어링 파일과 코드로 변환합니다. 저희는 자연스러운 음성 인터페이스를 위해 Amazon Nova 2 Sonic을 사용하여 Kirao를 개발할 예정입니다 . 그리고 마지막으로, 저희가 만든 이 프로젝트를 통해 ' 키라 스티어링 스튜디오'라는 피트니스 앱을 개발할 예정입니다
-
-- **[We Need to Talk About AI Agent Architectures](https://www.youtube.com/watch?v=jI4AYvvA7ck)** — 2026-02-17 · ko · `AX`
-  대부분의 에이전트 튜토리얼은 동일한 아키텍처 오류를 범하지만, 개념 증명을 실제 운영 환경에 적용해 보기 전까지는 그 오류를 알아차리기 어렵습니다. 이들은 단일 호출 엔드포인트를 통해 에이전트 런타임에 직접 연결된 프런트 엔드를 보여줍니다 . 세련되고 현대적인 느낌이 들고, 데모용으로도 정말 훌륭합니다. 하지만 이러한 클라이언트-에이전트 직접 연결 방식 의 아키텍처에서는 에이전트 런타임이 사실상 전체 백엔드가 되어버린다는 문제가 있습니다. 처음에는 이것이 심각한 문제처럼 느껴지지 않을 수도 있습니다. 요청을 보내면 상담원이 응답하고, 모두가 만족합니다.
-
-- **[Building Smarter AI Agents: Memory Management with AgentCore](https://www.youtube.com/watch?v=o5A5hv82ZXU)** — 2026-02-12 · ko · `AX`
-  에이전트는 메모리 없이는 작동할 수 없습니다. 에이전트 루프 내부에서는 일부 메모리가 사용 가능한 것처럼 보일 수 있지만, 실제 시스템은 시간이 지남에 따라 메모리를 관리해야 합니다. 이 영상에서는 에이전트 메모리, 단기 메모리, 장기 메모리, 그리고 실제 코드에서 이들을 관리하는 방법에 대해 살펴보겠습니다. 당신이 가장 좋아하는 카페에 들어가는 모습을 상상해 보세요. 바리스타에게 인사하고 차 한 잔을 주문하면, 바리스타는 머그잔을 집어 들고는 당신을 빤히 쳐다봅니다. 안녕하세요? 그들은 지금 무엇을 하고 있는지도 잊어버렸고, 다음에 무엇을 할지도 잊어버렸다.
-
-- **[Build a Sports AI Agent with Vector Search on AWS](https://www.youtube.com/watch?v=920RxyYaPHM)** — 2026-02-10 · ko · `AX`
-  인공지능 에이전트의 성능은 제공하는 데이터의 질에 따라 좌우됩니다. [음악] 이 영상에서는 스포츠 데이터 세트를 사용하여 임베딩을 생성하고, 벡터화한 다음, 에이전트에 추가하는 방법을 보여드리겠습니다. 그다음에는 몇 가지 예측과 분석을 실행하고 그 결과가 얼마나 좋은지 살펴보겠습니다. 이 영상을 끝까지 보시면 데이터 세트를 의미 검색 기능을 갖춘 대화형 AI 에이전트로 변환하는 방법을 더 잘 이해하게 될 것입니다 . 저희는 NFL 데이터를 일부 사용할 예정 이지만, 음악은 원하시는 대로 사용하셔도 됩니다 .
 
 ## Meta Developers (49건)
 
@@ -4311,152 +4828,6 @@
 - **[WWDC26: What’s new in the Foundation Models framework | Apple](https://www.youtube.com/watch?v=Xrv8m_EHCbg)** — 2026-06-08 · ko · `AX`
   안녕하세요, 환영합니다! 저는 Erik입니다! 저는 Zhen입니다! 지난해 저희는 Foundation Models 프레임워크를 소개했습니다 guided generation, snapshot streaming 같은 기능과 강력한 tool 프로토콜을 갖추고 있었죠 여러분의 뜨거운 반응에 Foundation Models 프레임워크 첫 해에 정말 놀랐습니다 올해 준비한 내용은 더욱 마음에 드실 거라 생각합니다! 올해 프레임워크의 모든 새로운 내용을 함께 살펴보겠습니다 이번 릴리스는 정말 알차게 구성되어 있습니다! 2027 릴리스는 OS 내외의 통합, 다양한 모델, 에이전틱 경험 구축을 위한 새로운 기본 요소에 초점을 맞췄습니다
 
-## ElevenLabs (48건)
-
-- **[This AI Agent Builds Viral Documentary Videos For You](https://www.youtube.com/watch?v=aqyZ87euzz0)** — 2026-07-24 · en · `AX`
-  Scrapbook style documentary videos are widely popular across social media with one of the most popular channels being Vox. Today, I want [music] to show you how to recreate these motion graphics using Claude and the 11 creative flows agent.
-
-- **[Introducing Vocals - Consistent Voices for Your Songs in ElevenMusic](https://www.youtube.com/watch?v=LkdWmBWjt5U)** — 2026-07-22 · ko · `unclassified`
-  Eleven Music에서 보컬을 소개합니다. 기존 트랙에서 보컬을 생성한 다음, 스튜디오 수준의 일관성과 동일한 목소리로 언제든지 새로운 곡(음악)을 만들어 보세요. 새롭게 시작하고 싶으신가요 ? 음성 녹음 파일 하나만 업로드하세요. [음악] [노래] 그리고 그 음악을 당신만의 목소리로 오리지널 트랙으로 만들어 보세요 . 또는 설정 과정을 완전히 건너뛰고 음성 라이브러리에서 바로 음성을 선택할 수도 있습니다. 또한 Music V2에 스타일 기능을 추가하여 일관된 음악적 사운드, 분위기 및 정체성을 가진 트랙을 그 어느 때보다 쉽게 ​​만들 수 있도록 했습니다
-
-- **[Put Yourself in a Football Match with AI (Full Workflow)](https://www.youtube.com/watch?v=lzcjK4jyAv8)** — 2026-07-17 · en · `AX`
-  Wait, number 11? Is that Alec? He was not even on the team today. Alec has the ball. HE RUNS RIGHT PAST THE DEFENDERS. HE SHOOTS. GOAL! &gt;&gt; [screaming] &gt;&gt; WHAT A GOAL [cheering] BY ALEC. THIS IS CRAZY. The guy who just stepped in wins the cup. &gt;&gt; So, that's me scoring a goal in an intense football match in a sold-out [music] stadium with full broadcast commentary.
-
-- **[How to Swap Your Voice with AI — ElevenLabs Voice Changer](https://www.youtube.com/watch?v=xU72OLqGdRo)** — 2026-07-15 · en · `unclassified`
-  The voice I'm speaking with right now isn't actually mine. It's one of the more than 10,000 voices &gt;&gt; in the 11 Labs voice library. &gt;&gt; So, if you want to know how to swap your voice with AI, whether it's to perfect the delivery of the voice in your next film, or you want to test voice variations within your ads, keep watching.
-
-- **[Introducing ElevenAgents Spotlight](https://www.youtube.com/watch?v=GZaNOflzq9k)** — 2026-07-10 · ko · `unclassified`
-  11 Agent Spotlight을 소개합니다. 모든 채널에서 음악 해상도와 고객 만족도를 가장 빠르게 향상시키는 방법입니다 . Spotlight는 실시간 분석을 통해 모든 음악 관련 대화, 음성 및 채팅을 관찰합니다 . Spotlight는 [음악]과 같은 주제별로 대화를 자동으로 그룹화하여 어떤 유형의 질문 에 먼저 집중해야 하는지 확인할 수 있도록 합니다. 키워드가 아닌 의미로 검색하세요. 음악 용어로 명확한 품질 기준을 정의하고 , 업계 최고의 전사 모델인 Scribe를 통해 모든 대화를 해당 기준에 따라 평가하세요.
-
-- **[Seedream 5.0 Pro Is Here — Everything You Need to Know](https://www.youtube.com/watch?v=WrbYgg3QI0k)** — 2026-07-10 · en · `unclassified`
-  SeaDream 5.0 Pro is finally here. Where SeaDream 5.0 Lite was about smarter reasoning, Pro is about [music] more control over the final result. It can read edits you sketch directly onto an image, split a finished image into transparent [music] layers, generate dense layouts like infographics with small readable text, and write native text [music] in 14 languages.
-
-- **[8 Insane Ways to Use Gemini Omni Flash](https://www.youtube.com/watch?v=6G5-tz6yiYs)** — 2026-07-09 · ko · `AX`
-  Gemini OmniFlash를 사용하면 어떤 비디오에든 개체를 추가하고, 마음에 들지 않는 요소를 제거하고 , 비디오 스타일을 완전히 바꿔 원하는 분위기에 맞추는 등 훨씬 더 많은 작업을 할 수 있습니다. Gemini OmniFlash를 11가지 창의적인 기능 안에 활용하여 할 수 있는 강력한 8가지 작업을 소개합니다. 우선 스타일을 바꾸는 게 가장 먼저 할 수 있는 일입니다. 이제 단순히 비디오에 필터를 적용하는 것 외에도 Gemini OmniFlash를 사용하여 비디오의 요소, 색상 보정, 음악 등을 포함한 전체 비디오를 특정 예술적 스타일에 맞게 재구성할 수 있습니다
-
-- **[Swap Any Object in Video with AI (Aleph 2.0 + GPT Image 2)](https://www.youtube.com/watch?v=Y7vmIshLgXs)** — 2026-07-02 · ko · `AX`
-  오늘은 인공지능을 이용해 영상 속 어떤 객체든 교체하는 방법을 배우게 됩니다. 이를 위해 11 크리에이티브 내에서 GPT Image 2와 LF 2.0을 결합하여 사용할 것입니다 . 제가 보여드릴 방법은 AI를 이용해 영상에 개체를 추가할 수 있게 해줍니다. 이 기능을 사용하면 이미지를 서로 바꿀 수 있을 뿐 아니라 배경을 제거하여 그린 스크린 효과를 적용한 영상을 만들 수도 있습니다. 11 Creative를 시작하기 위해 이미지 및 비디오를 클릭하겠습니다. 여기서는 이미지 및 비디오 도구를 사용하여 먼저 새 프레임을 생성한 다음 LF 2.
-
-- **[A voice lost to MND is now educating visitors at Windsor Castle](https://www.youtube.com/watch?v=lIPAjhkBKqE)** — 2026-06-26 · ko · `unclassified`
-  나는 평온함을 느꼈다. 저는 삼나무를 전혀 보여주지 않았어요 . 하지만 역사에 대한 애정도 있습니다. [음악] 모두가 [노래] 자신이 어디에서 왔는지 알아야 해요 . [음악] 그리고 그러한 연속성은 삶에서 중요합니다. 그리고 제가 음악을 통해 사람들과 그들의 역사 속 위치를 공유할 수 있다면, 그것은 정말 큰 기쁨입니다. 그들은 내 아들로부터 이 사실을 알지 못한다. [음악] 차 한 잔 하실래요? 안 돼 . 저쪽에 놓아야겠네요 . 저는 1970년에 역사 교사로 일을 시작했어요, 라고 그녀는 말했다.
-
-- **[ElevenLabs Built an AI Ad Tool That Drove $3.78M — Then Launched It for Everyone](https://www.youtube.com/watch?v=hltWq--k3hM)** — 2026-06-25 · ko · `unclassified`
-  11 Labs가 Google Ads Impact Award를 수상했습니다 . 이 이야기의 배경은 영어를 사용하는 4인 팀이 신규 채용 없이 7개 언어로 확장하고 7.16의 ROAS(투자수익률)로 378만 달러의 추가 가치를 창출했다는 것입니다. 저는 그 프로젝트를 이끌었던 팀 데이비스를 만나 그들이 어떻게 그 일을 해냈는지 자세히 알아봤습니다 . 자, 그럼 시작해 볼까요? 저는 팀 데이비스입니다. 저는 11 Labs의 모든 퍼포먼스 마케팅을 총괄하고 있으며, 여기에는 11 Creative, 11 Agents, 그리고 11 API가 포함됩니다.
-
-- **[Introducing Ads Engine in ElevenCreative](https://www.youtube.com/watch?v=KTsYBt7LxNU)** — 2026-06-25 · ko · `unclassified`
-  [음악] AdsEngine을 소개합니다. 브랜드가 수십 개의 시장에서 제품을 판매하고 있음에도 불구하고, 가장 실적이 좋은 광고는 단 하나의 언어로만 게재됩니다 . [음악] 그 격차는 전 세계적으로 놓쳐버린 수익입니다. AdsEngine은 광고 계정에 연결하여 기존 텍스트, 이미지, [음악] 및 비디오를 가져와 음성, [음악] 톤 및 속도를 그대로 유지하면서 50개 언어로 현지화합니다. 새롭게 출시된 아벨로 리뉴얼 크림으로 그 어느 때보다 더 밝고 생기 넘치는 아침을 맞이하세요. [음악] [음악] 그러면 시간이 지남에 따라 성능 데이터가 다시 유입됩니다.
-
-- **[Employment Hero drives product activation for 350K+ customers](https://www.youtube.com/watch?v=NXtIYzqrWeY)** — 2026-06-24 · ko · `unclassified`
-  이제 AI 음성 에이전트를 통해 이전에는 결코 도달할 수 없었던 훨씬 더 많은 고객에게 다가가 비즈니스 성과 향상에 도움이 될 수 있는 가치를 제공할 수 있게 되었습니다 . Employment Hero는 AI 기반 고용 운영 시스템입니다. 그래서 우리는 전 세계 35만 ​​개 이상의 기업을 지원하고 있습니다. 저희는 최근 가장 흥미로운 프로젝트 중 하나인 AI 채용 에이전트를 출시했습니다. 저희는 이 제품이 정말 혁신적인 제품이라고 생각하기 때문에 가능한 한 많은 고객분들이 사용해 보실 수 있도록 하고 싶었습니다
-
-- **[The Odyssey: Audiobook featuring the voice of Sir Michael Caine™](https://www.youtube.com/watch?v=jJ99aeqzmWg)** — 2026-06-23 · ko · `unclassified`
-  세상에 지도가 생기기 훨씬 이전, 그리스의 가장 위대한 전사들은 트로이라는 도시로 향하기 위해 바다를 건넜습니다. 그들은 10년 동안 성벽을 포위 공격했다. 도시가 마침내 함락되었을 때, 영웅들은 배를 돌려 고향으로 향했습니다. [음악] 하지만 올림푸스 신들에게도 편애 하는 신과 원한을 품은 신들이 있었습니다. 그리고 이들 중 많은 사람들에게 집으로 돌아가는 여정은 그 자체로 일종의 전쟁이 되었습니다. 이것은 그 병사들 중 한 명의 이야기입니다 . 그의 이름은 오디세우스이며, 이타카라는 작고 바위투성이인 섬의 왕이다.
-
-- **[Create Faster with Flows Agent](https://www.youtube.com/watch?v=fPZ5xvIO5tg)** — 2026-06-18 · ko · `AX`
-  오늘은 11 Labs Flows Agent를 사용하여 한 줄의 텍스트에서 완성된 광고를 만드는 방법을 배우게 됩니다. Flows Agent는 모든 프롬프트, 이미지, 비디오, 음악 및 음성 해설을 생성한 다음 노드를 통해 모든 것을 연결합니다. 원하는 바를 설명하기만 하면 AI가 전체적인 디자인 과정을 구축해 줍니다. 이 과정은 사용자가 원하는 대로 맞춤 설정하고 필요한 만큼 여러 번 재사용할 수 있습니다. 어떻게 작동하는지 보여드리겠습니다. 11 Labs 내부에서 Flows Agent를 사용하려면 Flows를 클릭하기만 하면 됩니다.
-
-- **[Publish & Earn with ElevenMusic](https://www.youtube.com/watch?v=s0jV9f4g2Eo)** — 2026-06-17 · ko · `unclassified`
-  오늘은 음악을 발표하고 수익을 창출하는 방법에 대해 이야기해 보겠습니다. 멋진 음악을 만들고 세상에 공개할 준비가 되었다면 , 이제 탐색 페이지에 게시할 차례입니다 . 음악을 발표하고, 청취자에게 다가가고, 음악으로 수익을 창출하는 방법을 간략하게 살펴보겠습니다. 음악 공유 준비가 완료되면 11 음악 탐색 페이지에 게시하여 다른 사용자가 음악을 발견하고 스트리밍하고 리믹스할 수 있습니다. 먼저, 이름과 표지 이미지가 마음에 드는지 확인하세요. [음악] 그렇지 않다면, 파일 이름을 쉽게 변경 하고 다른 파일을 업로드할 수 있습니다.
-
-- **[Voice Isolator now on ElevenLabs mobile app](https://www.youtube.com/watch?v=XXFlLleSDgQ)** — 2026-06-17 · ko · `unclassified`
-  영상에 배경 소음이나 사용할 수 없는 음악이 너무 많나요? 이제 휴대폰의 어느 위치에서든 선명한 음질의 오디오를 추출할 수 있습니다. LALALAB 앱을 다운로드하고 지금 바로 무료로 사용해 보세요.
-
-- **[Translate your Video to 90+ Languages Using Dubbing v2](https://www.youtube.com/watch?v=CapfiSbuAvM)** — 2026-06-12 · ko · `unclassified`
-  오늘은 여러분의 목소리, 어조, 말하는 방식을 그대로 유지하면서 영상을 어떤 언어로든 더빙하는 방법을 배우게 될 것입니다. 이것은 저희의 새로운 AI 더빙 모델인 더빙 V2입니다. 지금부터 이 모델을 사용하는 방법을 자세히 보여드리겠습니다. Dubbing V2가 강력한 이유는 단순히 녹음 내용 의 텍스트만 보는 것이 아니라 원본 녹음을 직접 듣기 때문입니다. 그래서 다른 언어로 더빙할 때 , 당신의 어조, 강세, 그리고 전달 방식에 담긴 감정까지 그대로 유지됩니다.
-
-- **[Introducing Avatars](https://www.youtube.com/watch?v=WbD89DyeuvM)** — 2026-06-11 · en · `unclassified`
-  Every great voice deserves a face. Introducing avatars in 11 creative. Turn a script and avatar into a [music] talking head video. Generate it together in one place. Upload photos to create a consistent identity. And explore styles across angles, outfits, and settings. &gt;&gt; [snorts] &gt;&gt; Then turn into assets you can use across 11 creative. From ads and social content through to product videos.
-
-- **[Getting Started with ElevenMusic](https://www.youtube.com/watch?v=y9zPoGa9AO0)** — 2026-06-10 · en · `unclassified`
-  Welcome to 11 Music, a platform to discover, listen, create, and earn from music [music] built on the 11 Labs music model. Whether you're a seasoned producer or picking up music creation for the first time, this video will get you up and running from scratch. We'll cover how the platform is laid out, how to write prompts that actually sound good, and how to get [music] clean instrumental tracks when you don't want any vocals.
-
-- **[How Polsat Plus Group Is Leading Polish Media in the AI Era — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=ndnYh8DPEBE)** — 2026-06-10 · en · `unclassified`
-  [music] &gt;&gt; Peter, it's a huge pleasure to have you with us today. Before we get started, we cannot see that well, but if you grew up or watch Polsat, can you raise your hand? Okay. &gt;&gt; Yeah, that's good. I like that. &gt;&gt; A big majority, and given we have a international audience that came in here today.
-
-- **[3Shape expands global dental support with AI voice and chat agents from ElevenLabs](https://www.youtube.com/watch?v=gMHN4aPSgU8)** — 2026-06-09 · ko · `AX`
-  11:FS 음성 에이전트를 도입하는 것을 적극 추천합니다. 자동화에만 집중하는 대신 고객에게 더 나은 결과를 제공하는 데 정말 큰 도움이 되었기 때문입니다 . 제 이름은 이아니스 쿠파스입니다. 저는 3Shape 고객 지원 부서에서 AI 도입을 총괄하고 있습니다 . 3Shape는 치과 스캐닝 기술, 스캐너 및 관련 소프트웨어 생태계를 제공하여 치과 전문가들이 워크플로우를 디지털화하고 더 나은 환자 치료 결과를 얻을 수 있도록 지원합니다. 저희는 전 세계 고객들을 대상으로 전화, 이메일, 채팅을 통해 지원을 제공하며 매주 수천 건의 문의 사항을 해결하고 있습니다
-
-- **[Beam improves access to social services with ElevenLabs](https://www.youtube.com/watch?v=cQA_N28_71Q)** — 2026-06-09 · ko · `unclassified`
-  저희 문서 작성 도구[음악]는 현장 팀의 전체 시간 중 20%[음악] 이상을 절약해 주고 있으며 , 음성 상담 도구는 전화를 받는 사람들의 시간 중 50%[음악] 이상을 절약해 주고 있습니다 . 그렇다면 저 숫자들은 실제로 무엇을 의미하는 걸까요? 음, 그건 사람들이 위험 부담이 크지만 의미 있는 인간적인 일을 하는 데 훨씬 더 많은 시간(음악)을 쓸 수 있다는 걸 의미하죠 . 제 이름은 알렉스 스테파니이고, Beam의 창립자 겸 CEO입니다.
-
-- **[InPost on Building a Voice AI Shopping Assistant — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=0XpRho8E2-o)** — 2026-06-09 · ko · `unclassified`
-  [음악] [박수] 안녕하세요, 여러분. 안녕하세요, 바르샤바. 바르샤바의 중심부에 위치한 아름다운 그랜드 극장 무대에 설 수 있다는 것은 정말 큰 영광입니다 . 이 행사에 참여하게 되어 큰 영광입니다 . 제 이름은 Beata Podleśna Gunkowska입니다. 저와 함께 루카시 지에칸이 인포 스트(InPost)의 새로운 서비스를 담당하고 있으며, 인포스트 앱에 AI 비서를 탑재하여 사용자들에게 새로운 쇼핑 경험을 제공하고 있습니다. 시작하기 전에 11 Labs의 설립자분들께 진심으로 감사드린다는 말씀을 드리고 싶습니다 .
-
-- **[Zen Educate extends after-hours support for educators with ElevenLabs](https://www.youtube.com/watch?v=P5XfoojtDgU)** — 2026-06-09 · ko · `unclassified`
-  저희가 11 Labs를 특별히 선택한 이유는 시중에 나와 있는 수많은 음성 비서 옵션 중에서 11 Labs가 가장 인간과 유사하다고 생각했기 때문입니다. 그것은 가장 통찰력 있고 직관적인 음악이었다. 그리고 우리가 타협할 의향이 없었던 부분 , 즉 음악 고객과의 인간적인 상호작용 또는 인간과 유사한 상호 작용으로 돌아가 보겠습니다. 저는 대릴 추아입니다. 저는 ZenEducate의 공급 및 운영 담당 부사장입니다. 저희는 영국과 미국의 학교에서 음악 교사 일자리를 찾는 교육자들을 지원하는 양면 시장 플랫폼입니다 .
-
-- **[AI Agents for Creative Production — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=RjcxQg5abUI)** — 2026-06-08 · ko · `AX`
-  [음악] Eleven Creative는 마케터와 크리에이터가 놀라운 캠페인을 대규모로 제작할 수 있도록 지원하는 올인원 크리에이티브 플랫폼입니다. 저희는 최고의 모델과 최고의 도구를 결합하여 놀라운 브랜드 영상, [코웃음] 퍼포먼스 마케팅 캠페인, 소셜 미디어 콘텐츠를 제작해 드립니다. 저희는 1억 명이 넘는 사용자를 보유하고 있습니다. 죄송하지만, 제게는 100만 개가 넘는 돈이 있습니다. 우리는 100명에 도달할 것입니다. Eleven Creative는 디즈니, 마이크로소프트, 엔비디아, 어도비 등 세계적인 브랜드들을 포함하여 100만 명이 넘는 사용자를 보유하고 있습니다.
-
-- **[How LOT Polish Airlines Is Transforming Customer Experience with AI — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=WgguSi9rK4U)** — 2026-06-08 · ko · `unclassified`
-  [음악] 사람들은 항공사를 생각할 때 비행기, 객실 승무원, 조종사, 그리고 비행 목적지를 떠올립니다 . 당연한 일이죠. 사람, 관계, 그리고 항공기는 우리가 하는 일의 핵심입니다. 현재 LOT는 약 90대의 항공기를 운항하고 있으며, 100대를 추가로 주문한 상태입니다. 저희는 지역 노선에 엠브라에르 항공기를 도입하고, 조만간 에어 버스 A220과 유럽 및 중동 중거리 노선에 최신 보잉 737 MAX 제품군을, 그리고 방콕, 샌프란시스코, 시카고, 서울, 토론토 등 주요 노선에는 드림라이너 787을 투입할 예정입니다 .
-
-- **[How TELUS Digital reduced onboarding time by 20% using ElevenAgents](https://www.youtube.com/watch?v=8GbySh4gCFE)** — 2026-06-08 · ko · `unclassified`
-  텔러스 디지털의 제품 담당 부사장인 미치 라보만과 저는 상담원 경험과 저희가 ' 상담원 경험 플랫폼'이라고 부르는 것에 대해 함께 연구하고 있습니다. 콜센터 상담원의 이직률은 연간 30~50%에 달합니다 . 텔러스 디지털은 7만 명의 컨택센터 직원을 보유하고 있습니다. 그래서 연간 채용 규모는 2만 명에서 3만 명 사이이며, 정규직 직원을 채용하는 것은 아닙니다. 그래서 우리가 해야 할 일은 컨택센터 상담원들이 최대한 빨리 업무에 적응할 수 있도록 하는 것이었습니다.
-
-- **[How Voice Cloning Is Helping People with MND — ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=lEsqbF4Bz7A)** — 2026-06-08 · ko · `unclassified`
-  [음악] 2024년, 11 Labs는 운동신경원 질환(M&amp;D) 환자들 사이에서 증가하는 니즈를 파악하고, 상상도 못 했던 기술 활용 사례를 발견했습니다 . M&amp;D에 대해 잘 모르시는 분들을 위해 설명드리자면, M&amp;D는 근육 운동을 조절하는 신경에 ​​점진적으로 영향을 미치는 신경퇴행성 질환입니다 . 시간이 지나면서 이들 중 상당수는 걷는 능력, 손을 사용하는 능력, 먹는 능력, 말하는 능력을 잃게 됩니다. 이 모든 과정 속에서도 그들의 정신은 대개 온전히 남아 있습니다. 그들은 여전히 ​​예전처럼 생각하고 느끼고 창조 하지만, 신체가 더 이상 그것을 표현하도록 허락하지 않습니다
-
-- **[Introducing Guardrails 2.0 in ElevenAgents](https://www.youtube.com/watch?v=zQnjj0KYiKY)** — 2026-06-08 · ko · `unclassified`
-  11개 에이전트에 Guardrails 2.0 [음악]을 소개합니다 . 이제 몇 번의 클릭만으로 가장 중요한 사용자 지정 정책을 정의하고 적용할 수 있습니다 . 또한, 미리 만들어진 제어 기능을 활성화하여 상담원들이 주제에서 벗어나지 않고, 브랜드 이미지를 유지하며, [음악]을 사용하고 , 조작에 대한 저항력을 갖도록 할 수 있습니다. Guardrails 2.0은 신뢰할 수 있고 기업 환경에 바로 적용 가능한 AI를 위해 구축된 11 Labs의 광범위한 신뢰 및 안전 기반의 일부입니다 . 지금 바로 11명의 상담원과 함께 시도해 보세요.
-
-- **[New Models and the Future of Voice AI | Mati Staniszewski, ElevenLabs Summit Warsaw 2026](https://www.youtube.com/watch?v=va9CLYXfAjA)** — 2026-06-07 · ko · `unclassified`
-  [음악] [박수] [음악] 11 Labs Summit과 Teatr Wielki에 오신 것을 환영합니다. 정말 멋진 장소네요. 이곳은 고도의 발성 기법을 통해 단 한 사람의 목소리가 오케스트라 전체의 연주 위로 솟아오를 수 있는 곳입니다. 이 건물은 공연의 명료도를 저해하지 않으면서 소리가 방 전체에 울려 퍼지도록 설계되었습니다 . 이곳은 아이디어, 감정, 그리고 폴란드 정체성을 표현하는 장소입니다. 모두 함께 모이기에 이보다 더 좋은 장소는 없을 것 같아요. 제 공동 창업자인 피오트르와 저는 바르샤바 교외, 이곳에서 멀지 않은 곳에서 자랐습니다
-
-- **[Introducing Flows Agent](https://www.youtube.com/watch?v=5svdfmvMwWQ)** — 2026-06-04 · ko · `unclassified`
-  Flow의 Agent [음악]를 11 Creative에 소개합니다. 11 Creative는 대규모 크리에이티브 자산 제작을 위한 AI 공동 빌더입니다 . 원하는 것을 설명하면 그것이 만들어지는 것을 볼 수 있습니다. [음악] Flow의 에이전트는 사용자 요구 사항에 맞는 모델을 선택하고 , 노드를 연결하고, 생성 작업을 실행하는 등 모든 작업을 하나의 작업 흐름 내에서 수행합니다. 여기에서 다양한 옵션을 만들고, 제품을 쉽게 교체하고, 콘텐츠를 새롭게 꾸밀 수 있습니다 . 담당 에이전트가 필요한 모든 것을 지원해 드리고, 캠페인의 분위기와 스타일에 맞는 음성 추천까지 해드릴 것입니다
-
-- **[Hasbro Voices Now Available in the Iconic Marketplace](https://www.youtube.com/watch?v=k9D3BoCTSqA)** — 2026-06-03 · ko · `unclassified`
-  모든 이야기(음악)는 질문에서 시작되고, 모든 질문에는 약간의 드라마가 필요하다. 그러니 잘 들어보세요. 정말 흥미 진진한 이야기가 펼쳐질 테니까요. [음악] 때로는 작은 목소리 하나면 충분할 때도 있으니까요. 그리고 개성이 넘치죠. 전 세계가 귀 기울이도록 하기 위해. [음악] 하스브로의 상징적인 캐릭터들을 이제 11 Labs 아이코닉 마켓플레이스에서 만나보실 수 있습니다 .
-
-- **[How to Make AI Music with ElevenLabs Music v2](https://www.youtube.com/watch?v=vcpM4MRupNE)** — 2026-05-29 · ko · `AX`
-  저희는 AI 음악 모델의 차세대 버전인 Music V2를 출시했습니다. 이제 곡을 부분별로 완성하고 , 트랙의 특정 부분만 다른 부분에 영향을 주지 않고 복원할 수 있으며, 하나의 곡이 오페라에서 헤비메탈로, 다시 오페라로 장르를 바꿔도 흐트러지지 않습니다. 그래서 이 영상에서는 11 Creator의 모든 새로운 기능과 사용 방법을 자세히 설명해 드리겠습니다. Music V2는 저희의 음악 생성 모델의 2세대 버전입니다 . 보컬부터 악기 연주, 편곡에 이르기까지 모든 장르에서 전반적으로 더 좋게 들립니다.
-
-- **[Introducing Dubbing v2](https://www.youtube.com/watch?v=ACebvfrZOfM)** — 2026-05-28 · ko · `unclassified`
-  소개합니다 뉴보트 이라이카 살라스 코사스 크레베르 아 페사르 데 수 벨레자는 250년이 넘는 역사를 가지고 있습니다. Civilização consegue sobreviver nessa Ilha mas nos próximos dias a gente vai tentar mudar isso. 매일 밤 4시간. B2 [음악] 기타 [음악] [음악] 풍선을 타고 가는 톰바는 정말 멋진 하루였어요. [음악] 플로탕 당스 en [음악] 로트네. 6040 jedzenie i rozrywka 파라고니, 래포티 wydatków faktury, zamówienia zakupu. A에서 회사로? 람 [음악] Cartis Budovanimi Guami Vedatku 에디션 그들은 자동으로 제출합니다.
-
-- **[Introducing Stan Lee on ElevenLabs](https://www.youtube.com/watch?v=W3kbm3s9p-I)** — 2026-05-27 · ko · `unclassified`
-  전설에 대해선 아무도 말해주지 않는 게 뭔지 알아 ? 그것들은 책보다 오래 살아남는다. 좋은 이야기는 한순간에 국한되지 않습니다. 음악은 자라나고, 변화하고, 세대를 거쳐 전해지면서 끊임없이 진화합니다. 모든 위대한 이야기는 영웅으로부터 시작됩니다. 초능력을 가진 사람이라고 해서 당신과 똑같은 문제를 겪지 않는다는 뜻은 아닙니다. 사실 누구든 슈퍼히어로가 될 수 있습니다. 슈퍼히어로는 단지 평범한 사람이 비범한 일을 할 용기를 낸 것일 뿐입니다 . 예전에는 제가 그저 만화 작가일 뿐이라는 사실이 부끄러웠습니다.
-
-- **[Introducing Music v2](https://www.youtube.com/watch?v=ZNmYNxSMPGs)** — 2026-05-26 · ko · `unclassified`
-  [음악] 내 손목엔 11, 상승세는 11. [음악] 마이크의 11번째 음량, 높은 레벨 정수. 11개의 숫자, 내가 공중부양하는 걸 지켜봐. 승무원들은 출발할 준비가 되어 있으며, 모든 단계는 신중하게 진행됩니다. 11과 11, 볼륨을 높여. E E [음악] 11. 11과 11, 분해해 보세요. E E 11. 남자, 남자, [노래] 남자, 남자, [음악] 남자. 11. 리듬이 당신을 [음악] 영혼으로 이끌도록 하세요 . 열쇠 11개가 돌아가고, 심장 11개가 불타오른다. [음악] 모든 음표가 도착할 때마다 우리를 더 높은 곳으로 끌어올려 줍니다.
-
-- **[Gemini Omni Is Here — Everything You NEED to Know](https://www.youtube.com/watch?v=sspeHtbRh1U)** — 2026-05-21 · ko · `unclassified`
-  구글은 IO 2026에서 제미니 옴니(Gemini Omni)를 공개했는데 , 이는 인공지능 비디오 분야에서 구글의 가장 큰 행보입니다. 네, C 언어 2.0처럼 텍스트, 이미지, 오디오, 비디오를 입력으로 받아들이고, 실제 물리 법칙에 기반한 영상을 생성하며 , 음성 명령만으로 전체 영상을 편집할 수 있는 모델이 있습니다 . 이번 영상에서는 Gemini Omni가 정확히 무엇인지, 어떤 새로운 기능이 있는지, 음악 기능은 무엇인지, 그리고 오늘 바로 어떻게 사용할 수 있는지 자세히 알려드리겠습니다. Gemini Omni는 Google DeepMind에서 개발한 새로운 모델 제품군입니다
-
-- **[Introducing Speech Engine](https://www.youtube.com/watch?v=7cIEXzN1xcA)** — 2026-05-20 · ko · `AX`
-  개발자가 단 한 번의 프롬프트로 채팅 에이전트를 음성 에이전트로 전환할 수 있는 [음악] 음성 엔진을 소개합니다 . 배송 일정을 변경해야 합니다. 목요일로 옮겨주실 수 있나요? 완료. 목요일 오후 2시에서 4시 사이로 시간을 옮겼습니다. 곧 확인 문자 메시지를 받으실 겁니다. Speech Engine은 당사의 주요 음성 모델들을 하나의 파이프라인으로 통합하며, 모든 모델은 최상의 성능을 발휘하도록 맞춤 제작되었습니다 . 이 기능은 음악을 기존 에이전트에 직접 연결하며, LLM, 래그타임, 오케스트레이션은 모두 그대로 유지됩니다.
-
-- **[Introducing Albert Einstein’s Voice on ElevenLabs](https://www.youtube.com/watch?v=_P44_yVQ6DE)** — 2026-05-19 · ko · `unclassified`
-  사람들은 종종 제게 [음악] "어떻게 그렇게 훌륭한 아이디어들을 많이 떠올릴 수 있었나요 ?"라고 묻곤 했습니다. [음악] 음, 저는 항상 "실수를 한 번도 해보지 않은 사람은 새로운 것을 시도해 본 적이 없는 사람이다"라고 말해왔어요. 현실은 단지 환상일 뿐이지만, 매우 설득력 있는 음악적 환상이다. 하지만 우리가 스스로의 한계를 받아들일 때, 비로소 음악은 그 한계를 뛰어넘게 되는 겁니다. 저는 인생에서 많은 어려움을 겪었지만, 진정한 기쁨은 자연이 선사하는 가장 아름다운 선물들을 바라보고 이해하는 데서 비롯됩니다.
-
-- **[GPT Image 2 vs Nano Banana 2 (Real Results)](https://www.youtube.com/watch?v=l284Xo8NOgE)** — 2026-05-18 · ko · `AX`
-  GPT Image 2와 Nano Banana 2는 현재 세계 최고의 AI 이미지 모델 두 가지라고 해도 과언이 아닙니다. 둘 다 음악을 생성하고 편집할 수 있으며, 놀라운 결과물을 만들어내지만, 반드시 서로 대체 가능한 것은 아닙니다. 그리고 만약 업무에 적합하지 않은 사람을 선택하면, 품질은 물론이고 속도와 신뢰도까지 손해를 볼 수 있습니다. 그래서 이번 영상에서는 Eleven Creative 환경에서 Nano Banana 2와 GPT Image 2를 직접 비교 테스트하여 어떤 상황에서 어떤 것을 사용하는 것이 더 나은지, 그리고 그 이유는 무엇인지 알아보았습니다
-
-- **[Introducing Agent Workflows](https://www.youtube.com/watch?v=b9MMjr04_WA)** — 2026-05-13 · en · `unclassified`
-  11 Labs just took a major step towards agentic [music] control. And it all starts here. Our new visual editor for designing complex agent conversation flows. [music] This brand new functionality lets you orchestrate every scenario, blending artificial intelligence, complex [music] logic, and deterministic action. Whether it's triggering real-world [music] events, verifying and authorizing callers, or transferring to a human operator. You decide the user flow for every scenario.
-
-- **[Introducing Templates in ElevenCreative](https://www.youtube.com/watch?v=ff3hisEMqpU)** — 2026-05-13 · en · `AX`
-  We just launched templates inside of 11 Creative. They're ready-made creative workflows that allow you to produce any [music] asset you can think of with the click of a button. You simply upload an input, hit run, and get a finished asset as many times as you need. So, let me show you how templates work and how you can create your own. Inside 11 Creative, simply click templates.
-
-- **[Introducing ElevenAgents for Support](https://www.youtube.com/watch?v=VGjn7ur58Lw)** — 2026-05-11 · en · `unclassified`
-  Introducing 11 agents for support, a dedicated offering designed to help customer support teams [music] quickly transform SOPs into industry-leading production-ready agents in just minutes. Easily improve agents using plain [music] text, optimize performance with built-in CX metrics, and set enterprise-ready [music] guardrails, all while seamlessly integrating with your existing systems. ElevenLabs, transforming human-technology interaction.
-
-- **[Fix Audio on Any Recordings in 111 Seconds](https://www.youtube.com/watch?v=IsxWw0X1OXg)** — 2026-05-08 · en · `unclassified`
-  In this video, you're going to learn how to fix any audio recording fix any audio recording using 11 Labs Voice Isolator, [music] no matter what the background noise is, and whether it was an interview, podcast, or just a quick clip for social media. To follow along, you can click the first link in the description to get started and head over straight to 11 Labs.
-
-- **[Introducing Agent Experiments](https://www.youtube.com/watch?v=1AYqUaIkesU)** — 2026-05-06 · ko · `unclassified`
-  11개 에이전트를 활용한 음악 실험을 소개합니다. 이는 실제 음악 에이전트의 성능을 향상시키는 가장 데이터 중심적인 방법입니다. 이제 전용 A/B 테스트를 실행하여 상담원의 음악 설정, 전체 워크플로 구조, 심지어 상담원의 음악 음성, 어조 및 개성까지 다양한 변형을 실험해 볼 수 있습니다. 음악 분야에서 어떤 실험이 최상의 결과와 고객 경험을 제공하는지에 대한 데이터를 수집합니다. [음악]을 배포하고 에이전트 성능을 안전하고 확실하게 향상시키세요. 트래픽 일부를 대상으로 테스트하고, 우수한 버전을 승격시키고 , 완벽한 버전 관리를 통해 성능을 개선할 수 있습니다
-
-- **[Create Viral AI Time Travel Vlogs with Seedance 2.0](https://www.youtube.com/watch?v=eqBqHGbfy_A)** — 2026-04-30 · ko · `AX`
-  인공지능 시간 여행 브이로그가 소셜 미디어 전반에서 수백만 조회수를 기록하고 있습니다. 자, 그럼 11 Creative의 C Dance 2.0을 이용해 여러분만의 작품을 만드는 방법을 알려드리겠습니다. 방금 보신 건 AI가 시간 여행을 하는 브이로그였는데, 이런 영상들이 소셜 미디어에서 엄청난 인기를 끌고 있죠. 오늘은 11 Creative의 C Dance 2.0을 사용하여 나만의 곡을 만드는 방법을 보여드리겠습니다. 시작하겠습니다 . 자, 11 Creative에서 AI 시간 여행 브이로그 제작을 시작하려면 먼저 ' 플로우'를 클릭해야 합니다.
-
-- **[Introducing ElevenMusic](https://www.youtube.com/watch?v=6mrpjlZxQ-g)** — 2026-04-29 · ko · `unclassified`
-  Eleven Music을 소개합니다. Eleven Music은 새로운 아티스트를 발견하고 취향에 맞는 음악을 찾을 수 있는 플랫폼입니다 . 마음에 와닿는 음악을 찾아서, 그 음악을 나만의 것으로 만들어 보세요. 장르를 바꾸거나, 템포를 변경하거나, 완전히 새로운 것으로 리믹스하거나, 처음부터 다시 시작해 보세요. 가사와 멜로디를 입력받은 다음, AI가 그것을 완성된 음악 트랙으로 만들어주도록 하세요. 음악이 공감을 얻으면 팬층을 넓히고 수익을 창출하세요. 이미 4,000명이 넘는 크리에이터가 플랫폼에 참여하고 있는 만큼, 차세대 아티스트들은 더 이상 허가를 기다리지 않습니다
-
-- **[The Eleven Album Vol. 2 is Here](https://www.youtube.com/watch?v=nuQm3zTeIpE)** — 2026-04-29 · ko · `unclassified`
-  모든 게 달라졌어요. Poison Ivy, Kes, Masego, Justin Love 등 다양한 아티스트의 곡이 수록된 11번째 앨범 볼륨 2를 소개합니다. 인간의 창의성과 생성형 인공지능 사이의 간극을 메우다. 음악 11곡만 있으면 됩니다.
-
 ## Huawei (48건)
 
 - **[Now is Your Moment](https://www.youtube.com/watch?v=Tu7pJyztnTM)** — 2026-07-17 · ko · `unclassified`
@@ -4603,151 +4974,151 @@
 - **[Digital Access Starts With People and Their Potential](https://www.youtube.com/watch?v=FuaEgyFleRk)** — 2026-04-01 · ko · `unclassified`
   [음악] 바르셀로나에서 열리는 모바일 월드 콩그레스에 전시된 온갖 기기들에도 불구하고 , 디지털 접근성은 케이블과 컴퓨터 그 이상의 의미를 지닙니다. 이것은 사람과 그들의 잠재력에 관한 이야기입니다. 오늘날 디지털화 와 그에 필요한 기술은 기회를 결정짓고, 삶과 공동체, 더 나아가 경제 전반을 변화시키기 때문입니다. 그러한 신념을 바탕으로 올리비에 반덴 에인데는 50개 이상의 개발도상국에서 학교, 병원, 지역사회에 저렴한 IT 솔루션을 제공하고 600만 명이 넘는 사람들에게 도움을 주는 사회적 기업인 클로즈 더 갭(Close the Gap)을 설립했습니다
 
-## Intel (48건)
+## IQVIA (48건)
 
-- **[Acer Swift 16 AI (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=98RfEqmdgJo)** — 2026-07-16 · ko · `AX`
-  아, 죄송합니다. 다른 회의 때문에 조금 늦었어요 . 음, 그래서 이렇게 가벼운 기기가 유용한 거죠. 저는 이 노트북으로 일상생활을 아주 만족스럽게 보내고 있지만, 여러분은 이 노트북에 대해 더 자세히 알고 싶어 하시겠죠 . 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 Acer Swift 16 AI에 대해 자세히 알아보겠습니다. 이 노트북은 인텔 코어 울트라 X7 시리즈 3 프로세서와 인텔 Arc 통합 그래픽을 탑재하여 강력한 성능을 자랑합니다. 관심 있으시면 나머지 사양은 화면에 표시해 드리겠습니다
+- **[Data Transformation: Acquiring the Data You Need](https://www.youtube.com/watch?v=4uAxS1zbiTg)** — 2026-07-10 · ko · `unclassified`
+  [음악] 여러분은 의도를 가지고 데이터를 수집하고 있습니까? 그리고 그 데이터가 여러분의 조직에 진정한 가치를 제공하도록 하고 있습니까? 오늘날 의료 환경에서 혁신은 연결된 AI 기반 통합 접근 방식을 통해 뒷받침되는 우수한 데이터 선별에 달려 있습니다 . 데이터가 보여주는 내용과 그것이 목표와 어떻게 부합하는지 이해하고 신뢰할 수 있다면, 추측이 아닌 증거에 기반한 경쟁 우위를 확보할 수 있습니다. 반대로, 최소한의 요건만 충족하는 데이터에 만족하면 해당 정보를 활용하는 음악 관련 사용 사례의 수와 다양성을 확장함에 따라 후속적인 문제가 발생할 위험이 있습니다
 
-- **[Asus ROG Zephyrus G14 (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=HqFvkV9wGxM)** — 2026-07-16 · ko · `unclassified`
-  와. 죄송합니다, 방금 제 눈앞에서 건물이 완전히 무너지는 걸 보고 정신이 팔렸어요. 솔직히 말씀드리면, 저는 이 노트북을 직접 사용해 보면서 정말 즐거운 시간을 보냈고, 여러분도 이 노트북에 대해 더 자세히 알고 싶어서 오셨겠죠. 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 ASUS ROG Zephyrus G14에 대해 자세히 알아보겠습니다. 게이밍 노트북에 대해 이야기할 때는 무엇보다 강력한 성능을 갖춘 제품인지 알아야 합니다. 그리고 이 노트북은 실망시키지 않습니다.
+- **[Data Transformation: Trusting data Availability and Selection](https://www.youtube.com/watch?v=Pe8Lwi8YIKY)** — 2026-07-10 · ko · `unclassified`
+  신뢰할 수 있고 체계적인 접근 방식을 통해 의료 데이터의 잠재력을 극대화하고 계십니까? 오늘날의 데이터 환경을 헤쳐나가기 위해서는 강력한 거버넌스, 엄격한 품질 관리 및 포괄적인 개인정보 보호 프로토콜에 기반한 규율이 ​​필요합니다. 신뢰할 수 있는 분석 생태계를 구축하는 것은 이러한 인사이트에 의존하는 사용자들의 지속적인 피드백을 바탕으로 가장 관련성이 높고 품질이 우수한 데이터만을 선별하는 것에서 시작됩니다. 각 데이터 포인트를 꼼꼼하게 분류하면 모든 자산이 목적에 부합하는지 확인할 수 있습니다.
 
-- **[Asus Zenbook DUO (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=m87vHzmdmx4)** — 2026-07-16 · ko · `AX`
-  이 노트북 정말 멋지지 않나요? 화면이 두 개 있습니다 . 저는 이 제품을 직접 다뤄보면서 정말 즐거웠지만, 여러분은 이 제품에 대해 더 자세히 알고 싶어 하시겠죠. 그럼, 이야기해 봅시다 . 안녕하세요, 저는 Jess입니다. 오늘은 ASUS Zenbook Duo에 대해 자세히 알아보겠습니다. 우선, 이 듀얼 스크린에 대해 이야기해 봐야겠습니다. 노트북을 활용한 창의성, 멀티태스킹, 생산성 향상에 있어 완전히 혁신적인 제품입니다 . 저는 집 책상에 모니터 두 대를 사용하고 있어서 이런 구성에 아주 익숙합니다 .
+- **[IQVIA Vigilance Platform with AI Assistant](https://www.youtube.com/watch?v=CMkK5CspWL0)** — 2026-07-10 · ko · `unclassified`
+  약물감시에서 사례 접수는 복잡하고 시간이 많이 소요되며 규정 준수에 매우 중요합니다. AI 어시스턴트가 탑재된 IQVIA 감시 플랫폼은 사건 접수 과정을 자동화하여 사건 접수 초기 단계부터 속도, 정확성 및 일관성을 향상시킵니다 . [음악] 이상반응 보고서가 접수되면 CIOMS, MedWatch 및 회사 SAE 양식과 같은 구조화된 양식 이든 이메일과 같은 비구조화된 문서이든 관계없이 AI 어시스턴트가 탑재된 Vigilance Platform은 각 소스 파일을 자동으로 분류하고 데이터를 추출합니다.
 
-- **[Dell XPS 14 (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=ga5Wf4ZWtjo)** — 2026-07-16 · ko · `AX`
-  안녕하세요. 죄송하지만, 오늘 오후에 촬영할 프레젠테이션 자료를 모으는 중이라 지금 바로 연락을 주시려고 하셨네요 . 저는 이 노트북으로 작업하는 게 정말 즐거웠지만, 여러분은 이 노트북에 대해 더 자세히 알고 싶어 하시겠죠. 그럼, 이야기해 봅시다. 안녕하세요 , 저는 Jess입니다. 오늘은 Dell XPS 14 프리미엄에 대해 자세히 알아보겠습니다. 제 창의력을 발휘하려면 강력한 성능의 노트북이 필요한데, 이 노트북은 그 점에서 만족스럽습니다. 인텔 코어 울트라 X 7 시리즈 3 프로세서 와 내장 인텔 아크 그래픽 덕분입니다
+- **[Data Transformation: AI-Ready Data and Analytics](https://www.youtube.com/watch?v=X63xWvVc3Wo)** — 2026-07-01 · en · `unclassified`
+  Imagine accessing the full power [music] of your healthcare data analytics with AI ready information that fuels faster, smarter decisions for every team. With agile models that classify patients accurately [music] and adapt to diverse needs, you won't be left waiting for days or weeks to get critical answers. Instead, you'll stay ahead, responding instantly [music] to new questions and market shifts. The key?
 
-- **[HP Omnibook X (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=dxSuz7imHaQ)** — 2026-07-16 · ko · `AX`
-  안녕하세요, 지금 이 사진 작업을 마무리하고 있어요. 좋아요. 완벽한. 저는 이 노트북을 정말 잘 쓰고 있지만, 당신은 이 노트북에 대해 더 자세히 알고 싶어서 오셨겠죠 . 그럼, 이야기해 봅시다. 안녕하세요 , 저는 Jess입니다. 오늘은 HP OmniBook X에 대해 자세히 알아보겠습니다. 우선, 제 창작 활동을 위해서는 하루 종일 작업할 수 있도록 충분한 성능을 제공하는 노트북이 필요한데, 이 노트북이 바로 그런 역할을 해줍니다. 인텔 코어 울트라 7 시리즈 3 프로세서 덕분입니다.
+- **[Data Transformation: Agile Data Publication Drives Speed to Insights](https://www.youtube.com/watch?v=40Oqp6x2S_w)** — 2026-07-01 · en · `unclassified`
+  Are you prepared to realize the full value of your healthcare data with a partner you can trust? Leading life science organizations require flexible platform neutral data solutions. Whether you're working with AI, cloud platforms like Snowflake, visualization tools such as Tableau, or legacy systems, &gt;&gt; [music] &gt;&gt; IQVIA is committed to delivering analytics ready data customized to your unique needs without forcing you into a single technology.
 
-- **[HyperX Omen 15 (Intel® Core™ Ultra 200HX Plus) - Tech Rundown | Intel](https://www.youtube.com/watch?v=SQzekM5yGuE)** — 2026-07-16 · ko · `unclassified`
-  아, 잠시만 기다려 주세요. 이제 마지막 돌멩이 하나만 얻으면 돼. 좋아요, 다 끝났어요. 저는 이 노트북으로 게임하는 걸 정말 좋아하는데, 여러분은 이 노트북에 대해 더 자세히 알고 싶어서 오셨군요 . 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 HyperX OMEN 15에 대해 자세히 알아보겠습니다. 게이밍 노트북을 이야기할 때는 강력한 성능이 필수적인데, 이 노트북은 그 기대에 부응합니다 . 인텔 코어 울트라 9 HX 플러스 프로세서와 NVIDIA RTX 4070 노트북 GPU 덕분입니다.
+- **[Data Transformation: Build for Future Fitness](https://www.youtube.com/watch?v=sGMeFRqRAtw)** — 2026-07-01 · ko · `unclassified`
+  귀사는 향후 수년간 생명과학 조직을 지원하도록 설계된 데이터 생태계에 투자하고 계십니까 ? 음악에서 신뢰는 가장 중요합니다. 당장의 필요는 해결할 수 있지만 미래의 불확실성을 야기하는 단편적인 해결책은 피해야 합니다. 의료 음악 분야 전문가와 협력하면 통합, 분석 및 데이터 게시 전반에 걸쳐 일관되고 안정적인 지원을 받을 수 있습니다. IQVIA는 탁월한 실적을 바탕으로 포괄적인 데이터 솔루션, 첨단 기술, 유연하고 맞춤화된 서비스를 제공합니다 . 미래에도 데이터를 안전하게 보호하고 더욱 스마트하고 신뢰할 수 있는 의사 결정을 내릴 수 있도록 자신 있게 선택하세요.
 
-- **[Lenovo Legion 5i (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=25K2vS8eXqg)** — 2026-07-16 · ko · `unclassified`
-  내가 도와줄게. 저는 이 노트북으로 게임을 하면서 정말 좋은 경험을 했고, 여러분은 이 노트북에 대해 더 자세히 알아보고 싶어서 오셨겠죠. 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 Lenovo Legion 5i에 대해 자세히 알아보겠습니다. 게이밍 노트북에 대해 이야기할 때는 무엇보다 강력한 성능이 필수적인데, 이 노트북은 그런 점에서 실망시키지 않습니다. 인텔 코어 울트라 7 시리즈 3 프로세서와 NVIDIA RTX 5060 노트북 GPU 덕분입니다. 관심 있으시면 나머지 사양은 화면에 표시해 드리겠습니다.
+- **[Japan Clinical Trials: Activity, Trends & Global Competitiveness | Pharma Market Insights #2](https://www.youtube.com/watch?v=NiGziA7Nam0)** — 2026-07-01 · ko · `unclassified`
+  IQVIA Japan 일본 지사 리더십 팀을 대표하여 일본 [음악] 제약 시장의 혁신 주도 기회에 대한 저희 시리즈에 참여해 주셔서 감사합니다. 100여 개국에 사무소를 두고 있는 IQVIA는 판매, 처방 및 청구 데이터를 포함한 데이터 분석 분야에서 세계적인 선도적 지위와 광범위한 실제 데이터 자산 및 컨설팅 역량을 활용하여 제약 시장에 대한 통찰력을 제공합니다. 여기 일본에서 일본 사상 리더십 팀은 의료 [음악] 분야 이해관계자들이 변화의 복잡성을 헤쳐나갈 수 있도록 지원합니다.
 
-- **[Lenovo Yoga 7i (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=F7GVqX5_S60)** — 2026-07-16 · ko · `AX`
-  안녕. 오늘 할 일 목록을 마무리하고 있는 중입니다. 저는 어떤 일을 시작하기 전에 모든 것을 적어두는 것을 좋아합니다 . 하지만 당신은 이 노트북에 대해 알아보려고 여기에 온 거잖아요 . 그럼 이야기해 봅시다. 안녕하세요, 저는 Jess이고 오늘은 Lenovo Yoga 7i에 대해 자세히 알아보겠습니다. 우선 생산성을 높이려면 하루 종일 사용할 수 있는 기기가 필요합니다. 이 노트북은 바로 그런 역할을 합니다. 인텔 코어 울트라 5 시리즈 3 프로세서가 탑재되어 있습니다.
+- **[Japan Drug Approvals: Regulatory Trends & Speed of Innovation | Pharma Market Insights #3](https://www.youtube.com/watch?v=ct2p4Vh9lJs)** — 2026-07-01 · ko · `unclassified`
+  아이큐비아 재팬(IQVIA Japan) 전 직원을 대표하여 일본 제약 시장의 혁신 주도 기회에 대한 저희 시리즈에 참여해 주셔서 감사합니다. 100여 개국에 사무소를 두고 있는 IQVIA는 판매, 처방 및 청구 데이터 등 데이터 분석 분야에서 세계적인 선도적 입지 와 광범위한 실제 데이터 자산 및 컨설팅 역량을 활용하여 제약 시장에 대한 통찰력을 제공합니다. 일본에서는 일본 대표단이 의료계 이해관계자들이 복잡한 변화에 대처할 수 있도록 지원하고 있습니다.
 
-- **[Samsung GalaxyBook 6 Pro (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=8J2kahP5NPY)** — 2026-07-16 · ko · `AX`
-  안녕하세요, 저는 Jess입니다. 오늘은 삼성 갤럭시 북 6 Pro에 대해 자세히 알아보겠습니다. 우선, 게임과 창작 활동을 원활하게 하려면 강력한 성능의 노트북이 필요한데 , 이 노트북은 그런 면에서 전혀 실망시키지 않습니다. 인텔 코어 울트라 X7 시리즈 3 프로세서와 통합 인텔 아크 그래픽 덕분입니다. 혹시 관심 있으시면 나머지 음악 사양을 화면에 띄워 드릴게요. 하지만 최신 비디오를 편집하든, 여행 사진을 편집하든, 내장된 인텔 Arc 그래픽 덕분에 더욱 고사양의 창작 작업은 물론 게임까지 원활하게 즐길 수 있는 성능을 보장합니다.
+- **[Japan Drug Launch: Market Access & Commercialization Dynamics | Pharma Market Insights #4](https://www.youtube.com/watch?v=4Jp3UeDQ9Zg)** — 2026-07-01 · ko · `unclassified`
+  IQVIA Japan의 일본 리더십 팀을 대표하여 일본 제약 시장의 혁신 주도 기회에 대한 시리즈에 참여해 주셔서 감사합니다 . 100여 개국에 사무소를 두고 있는 IQVIA는 판매, 처방 및 청구 데이터를 포함한 데이터 분석 분야에서 세계적인 선도적 입지를 활용합니다. 또한 당사는 광범위한 실제 데이터 자산 과 컨설팅 역량을 활용하여 제약 시장에 대한 통찰력을 제공합니다. 일본에 있는 일본 사상 리더십 팀은 의료계 이해 관계자들이 복잡한 변화에 대처할 수 있도록 지원합니다.
 
-- **[Intel Total Storage Encryption (TSE) | Chips & Salsa | Intel](https://www.youtube.com/watch?v=owRK0Dm6Uh4)** — 2026-07-14 · ko · `unclassified`
-  [음악] 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트입니다. 오늘 저와 함께 해주신 분은 인텔의 최신 V Pro 플랫폼에서 사용할 수 있는 새로운 기술인 전체 스토리지 암호화(TSE)에 대해 이야기하기 위해 제임스 보이드 씨입니다. 제임스, 환영합니다. 감사합니다. 여기 오게 되어 기쁩니다. 음, 먼저 당신의 역할에 대해 간략하게 설명해 주시겠어요 ? 네, 저는 인텔의 수석 엔지니어입니다. 저는 플랫폼 소프트웨어 엔지니어링 팀의 일원입니다.
+- **[Japan Pharma Market: Size, Growth & Global Positioning | Pharma Market Insights #1](https://www.youtube.com/watch?v=XK1pjXi09a4)** — 2026-07-01 · ko · `unclassified`
+  IQVIA Japan과 일본 [음악] 분야 리더십 팀을 대표하여 일본 제약 시장의 혁신 주도 기회에 대한 저희 시리즈에 참여해 주셔서 감사합니다 . 100개국 이상에 사무소를 두고 있는 IQVIA는 판매, 처방 및 청구 데이터를 포함한 데이터 분석 분야에서 세계적인 선도적 지위와 광범위한 실제 데이터 자산 및 컨설팅 역량을 활용하여 제약 시장에 대한 통찰력을 제공합니다 . 여기 일본에서는 일본 음악계 리더십 팀이 의료계 이해 관계자들이 복잡한 변화에 대처할 수 있도록 지원하고 있습니다.
 
-- **[Intel Security Q2 2026: AI, Confidential Computing, and Digital Sovereignty Update | Intel](https://www.youtube.com/watch?v=QCWVgg7DTIw)** — 2026-07-09 · ko · `unclassified`
-  칩스 앤 살사에 오신 것을 환영합니다! 이곳에서는 인텔의 보안에 대해 이야기합니다. 저는 제리 브라이언트이고, 이번에도 스튜디오에 함께 해주신 분은 인텔 제품 보안 및 보증 부문 부사장 겸 총괄 매니저이신 아난드 파슈파티입니다. 아난드, 여기서 다시 만나서 반갑습니다. 초대해 주셔서 감사합니다, 제리. 오늘 저희는 몇 가지 주제를 다룰 예정인데, 그중에서도 인텔이 사이버 보안을 위해 AI 모델을 활용하는 방식에 대해 이야기하고자 합니다 . 인텔은 이 분야에서 독보적인 관점을 가지고 있습니다.
+- **[The Future of Work in Life Sciences](https://www.youtube.com/watch?v=feK98iTyY6M)** — 2026-07-01 · en · `unclassified`
+  [music] &gt;&gt; What if bringing therapies to market was no longer defined by a maze of legacy systems [music] and processes, but instead a streamlined intelligent journey? [music] We're not talking about mere improvements. This is about a step change in efficiency. [music] Welcome to your Agilent AI future. A future where AI resources [music] seamlessly integrate into your own IT ecosystem. A future where agents execute workflows &gt;&gt; [music] &gt;&gt; and know when to bring humans in for reviews.
 
-- **[Make your pitch and prove your point and influence the masses (or at least your parents) | Intel](https://www.youtube.com/watch?v=2Ih_L-4NQRs)** — 2026-07-02 · ko · `unclassified`
-  Intel Core Ultra Series 3 [음악]은 제작자를 위해 만들어졌습니다. 거의 실시간으로 4K 비디오를 녹화하고, 자막을 추가하고, 게시하세요. 관중을 사로잡고, 가족을 설득해서 채식주의자가 되도록 만드세요. 네 여동생에게 누가 주인인지 보여줘.
+- **[ヘルスケア人財のためのキャリアサイト「HEALTHCARE CAREER PARK」](https://www.youtube.com/watch?v=ovxtguSQdX4)** — 2026-06-18 · ko · `unclassified`
+  건강 관리 산업에서의 경력. 그것은 특별 한 사람만의 이야기가 아닙니다. 먼 누군가에 보다 친숙한 사람을 도와주고 싶다. 필요 될 수있는 보람을 느끼고 싶습니다. [음악]이라는 생각만 있으면 여기에서 새로운 길이 열립니다. 건강 관리 커리어 파크는 의료 [음악] 업계 에 대해 알고, 배우고, 동료와 연결 장소 [음악]이며 경력 더 나은 미래로 가속시킵니다. 미경험자 하지만 아는 것부터 시작된다. 경험자라도 전문성을 깊게 하는 장소가 있다. 함께 배우고 함께 성장[음악]할 수 있는 동료가 있다.
 
-- **[Larger than life Intel® Core™ Ultra Series 3 Processor | Intel](https://www.youtube.com/watch?v=W8dpb96t1JI)** — 2026-06-30 · ko · `unclassified`
-  여기서는 최신 Core Ultra 시리즈 3 프로세서를 재미있고 인터랙티브한 방식으로 선보입니다. 이 모델은 전체가 레고 블록으로 만들어졌으며, 정확히는 42,000개의 레고 블록이 사용되었습니다 . 높이는 8피트, 너비는 4피트입니다. [음악] 이 음악은 최신 세대 코어 울트라 시리즈 3 프로세서의 성능을 완벽하게 보여줍니다. 저희는 CPU, NPU, GPU를 보유하고 있습니다. [음악] 저희가 제작한 이 버전에는 GPU용으로 12개의 XE가 탑재되어 있습니다. 여기에는 12개의 XE [음악] 코어가 있는데, 그중 8개가 바로 여기에 있는 E 코어입니다.
+- **[Research Brief: U.S. Medicine Use Trends 2026 | IQVIA Institute](https://www.youtube.com/watch?v=bW8sENDEHv0)** — 2026-06-15 · ko · `unclassified`
+  안녕하세요, 저는 IQVIA 인간 데이터 과학 연구소의 전무이사인 머레이 에이트켄입니다. 오늘 저는 연구소의 부연구 책임자인 제이미 프리처드와 함께 저희의 새로운 보고서인 '2026년 미국 의약품 사용 동향'에 대한 간략한 개요를 말씀드리기 위해 이 자리에 섰습니다. 이 보고서는 연구소의 주요 연구 보고서 중 하나이며, 90페이지에 걸쳐 약 70개의 도표를 포함하고 있습니다. 저희는 외부 자금 지원 없이 공공 서비스의 일환으로 이 자료를 제작하고 있으며, 미국 의약품 시장의 역학 관계, 의약품 사용 및 비용 등 환자, 지불자 및 기타 이해 관계자 모두에게 유용한 근거 자료를 제공하는 데 기여하기를 바랍니다.
 
-- **[Unlock more likes and stories and connections with the most AI experiences on a PC | Intel](https://www.youtube.com/watch?v=XIVkqBhisGA)** — 2026-06-26 · ko · `unclassified`
-  인텔 코어 울트라 시리즈 3는 AI가 사용자를 돕는 데 도움이 됩니다 . 심지어 말까지 걸 수 있어요. 부조종사, 저 물고기 좀 더 크게 만들어 줘. 프로필을 업데이트하고, 좋아요를 많이 받고, [음악]으로 마땅히 받아야 할 존경을 얻으세요.
+- **[How to apply @IQVIA](https://www.youtube.com/watch?v=g7YMxgga8MM)** — 2026-06-04 · ko · `unclassified`
+  IQVIA에 합류해 주시면 정말 기쁠 것입니다. 음악 분야에 진출하는 가장 좋은 방법은 저희 채용 페이지를 방문하는 것입니다. 저희 채용 정보는 jobs.iqvia.com에서 확인하실 수 있습니다 . 신청 절차는 간단 합니다. 지원하고 싶은 직책을 찾으면 ' 지원하기' 버튼을 누르세요. 그러면 저희 워크데이 시스템으로 이동하여 몇 가지 질문에 답하고 이력서를 업로드하게 됩니다. 답변에 만족하시면 제출 버튼을 누르시면 됩니다. 지원서를 제출하시면 인재 채용팀에서 이력서, 보유 기술, 학력(음악 관련 경력 포함) 및 평가 응시 여부 등 지원자의 자격 요건을 검토할 것입니다
 
-- **[Semiconductors and the Future of Computing | Intel Foundry](https://www.youtube.com/watch?v=oAtdGyDouFU)** — 2026-06-12 · ko · `unclassified`
-  대부분의 사람들이 그것들에 대해 생각조차 하지 않는다는 점이 꽤 흥미롭습니다. 우리가 손에 들고 다니는 기기부터 스마트 홈, 우리가 운전하는 자동차, 의료, 음악 교육 , 엔터테인먼트에 이르기까지 반도체는 오늘날 세상을 움직이고 있습니다. 음악은 우리가 가진 잠재력을 이끌어내고, 음악을 통해 삶의 질을 향상시키는 것을 더 쉽게 만들어줍니다. [음악] 반도체는 사실상 모든 주요 산업의 기반입니다 . 반도체가 없으면 인공지능도, 자동차도, 심지어 음악, 현대 의료, 무기 시스템도 칩 없이는 존재할 수 없습니다.
+- **[Research Brief: Global R&DS Trends 2026 | The IQVIA Institute](https://www.youtube.com/watch?v=7sJ6cb83oL0)** — 2026-04-27 · ko · `unclassified`
+  [음악] 저는 IQVIA 인간 데이터 과학 연구소의 전무이사인 머레이 에이트켄입니다. 오늘 저는 연구소의 연구 개발 책임자인 알렉스 롤랜드와 함께 저희의 새로운 보고서, '2026년 글로벌 연구 개발 동향'에 대한 간략한 개요를 말씀드리기 위해 이 자리에 섰습니다. 연구 개발 동향은 저희 연구소의 주요 연구 분야 중 하나이며 , 이 보고서는 [음악] 100페이지에 걸쳐 83개의 도표를 포함하고 있습니다.
 
-- **[4 Things to Know From Computex | Intel](https://www.youtube.com/watch?v=Cv3eTjYS-VQ)** — 2026-06-08 · ko · `unclassified`
-  데이터 센터용 인텔 18A부터 완전히 새로운 게임 칩, 그리고 고객 맞춤형 실리콘에 이르기까지 , 대만에서 열리는 컴퓨텍스 전시회에서 알아야 할 네 가지 주요 사항을 소개합니다. Xeon 6 [음악] Plus가 출시되었습니다. 이 회사의 첫 번째 데이터 센터 칩은 인텔 18A 제조 공정으로 제작되었습니다. 고효율 코어가 탑재된 이 CPU는 통신 및 기업 비즈니스를 위한 에이전트형 AI 기반 음악 데이터 센터를 구동하는 데 이상적입니다 .
+- **[医薬品安全性情報の収集・インテイクの効率化を、高度に自動化された統合ワークフローで実現するIQVIA IVP Collect / IVP Intake](https://www.youtube.com/watch?v=fGQ7vYVsWQ8)** — 2026-04-27 · ko · `unclassified`
+  예산 감소, 복잡한 데이터 소스, 다양성 규제 및 언어 요구 사항 등이 안전 보고서 일상적인 과제가 되고 있습니다. IQIA 비지 플랫폼은 AI와 자동화, 라이프 과학의 지견을 활용하여 데이터 품질 향상, 안전성보고가 간단하게 더욱 일본 국내 컴플라이언스 [음악] 위치 에 기여합니다. 일본어 인터페이스와 현지 요구 사항에 맞게 [음악] 워크플로우가 있는 IBP 콜렉트는 환자, 의료 종사자, 의약품 공급자, 의약 정보 담당자가 [음악] 유제품 문제를 성격 그리고 효율적으로보고하는 것을 요인으로 만듭니다. .
 
-- **[Intel Computex Keynote 2026](https://www.youtube.com/watch?v=7HvrdXjdlU8)** — 2026-06-02 · en · `AX`
-  Silicon, the foundation of modern technology. Every transistor placed with purpose. [music] Every watt wrestled from physics. Where every instruction set earns its right to execute. This is how performance gets driven, how efficiency gets built, how intelligence acts, not just [music] answers. Our future is with ecosystems. Shaped by architecture. Capable of connecting technologies, tools, and partners. Powerful enough to execute. Efficient enough to scale. Familiar enough to build with speed.
+- **[Data Transformation – Level up the Data Manufacturing Process](https://www.youtube.com/watch?v=8Sf7SGETjsk)** — 2026-04-24 · ko · `unclassified`
+  복잡한 것을 명확하게 바꿔주는 전문가의 안내를 받으며 데이터 여정을 시작한다고 상상해 보세요. 마치 숙련된 제빵사가 간단한 재료로 완벽한 작품을 만들어내는 것과 같습니다. IQVIA의 검증된 데이터 생성 및 변환 역량을 통해 고객은 목표에 맞춰 세심하게 구성된 분석 준비 완료된 자산을 얻을 수 있습니다. 모든 데이터 세트는 신중하게 수집되며 정확성, 신뢰성 및 측정 가능한 비즈니스 가치를 보장하기 위해 고급 방법론을 활용한 엄격한 품질 보증 과정을 거칩니다. 투명성과 탁월함을 추구하는 파트너를 신뢰하십시오.
 
-- **[How Intel's EMIB technology is improving advanced chip packaging 📍| Intel](https://www.youtube.com/watch?v=K4Dkmb126-E)** — 2026-05-26 · en · `unclassified`
-  - AI requires massive power. Instead of making bigger and bigger and more complicated computer chips, Intel uses chipslets where different kinds of small, specialized chips all connect together on what's called a package or the platform it all sits on. Kind of like silicon mosaic art. Enter EMIB, or Embedded Multi-Die Interconnect Bridge. While others use expensive silicon interposers as the connection layer between chips, Intel Foundry embeds tiny, high speed silicon bridges only where they're needed.
+- **[Data Transformation – Optimizing Ingestion, Integration and Quality](https://www.youtube.com/watch?v=hbylS_JU1Tw)** — 2026-04-24 · ko · `unclassified`
+  귀사의 의료 데이터는 서로 분리된 사일로에 갇혀 있어 의미 있는 인사이트를 추출하기 어렵습니까? 원활한 데이터 통합과 엄격한 품질 보증을 달성하는 것이 필수적입니다. 처방 데이터의 5P(제품, 가격, 유통, 판촉, 유통 ... 검증된 전문가와 협력하면 데이터의 복잡성을 진정한 경쟁 우위로 전환하고, 엄격한 개인정보 보호를 보장하며, 신뢰할 수 있는 분석 준비 자산을 제공할 수 있습니다. 전문가가 주도하는 사려 깊은 데이터 통합 ​​접근 방식이 어떻게 조직이 더 나은 성과를 자신 있게 달성할 수 있도록 지원하는지 경험해 보십시오 .
 
-- **[Remote management without boundaries | Galaxy Book6 Enterprise Edition | Samsung | Intel](https://www.youtube.com/watch?v=Di9KGHwB4hw)** — 2026-05-07 · ko · `unclassified`
-  시간이 어디로 갔지? 그럼, 비행하는 동안 계속 일할게요 . 안 돼요. 진지하게? 내 컴퓨터가 꺼졌어요. 이것 좀 봐주시겠어요 ? 괜찮아요. 제가 한번 살펴보겠습니다. 보이시나요? 이제 업무에 복귀하실 수 있습니다. 오, 당신은 꽤 잘하네요. 제 말은, 이 노트 PC는 꽤 괜찮다는 겁니다. 경계 없는 원격 관리.
+- **[Vigilance Detect + Extract: Turning Patient Support Data into Actionable Safety Intelligence](https://www.youtube.com/watch?v=Nir0td6W5k8)** — 2026-04-22 · ko · `AX`
+  제약 회사들은 간호 교육, 본인 부담금, 복약 순응도, 전문 약국 연계 등 다양한 분야에 걸쳐 수백 가지의 환자 지원 프로그램을 운영하고 있습니다. 그러한 상호 작용은 단순히 접수 양식에 그치지 않습니다 . 여기에는 이메일, 의료 문서, 보험 문서, 수신 및 발신 전화, SMS, 채팅, IVR, 그리고 점점 더 AI 기반 봇 대화가 포함됩니다. 음성 및 디지털 홍보 활동이 확대됨에 따라 비정형 콘텐츠의 양이 빠르게 증가하고 있으며, 그 안에는 기업이 인지한 후 7일 또는 14일 이내에 식별, 평가 및 보고해야 하는 부작용 사례와 제품 품질 불만이 숨겨져 있습니다
 
-- **[Work and Play and Create and Edit and Share and Repeat | Intel](https://www.youtube.com/watch?v=VSrQVuUJAjY)** — 2026-05-06 · ko · `unclassified`
-  [음악] 인텔 코어 울트라 시리즈 3를 소개합니다. 초슬림 노트북의 새로운 기준을 제시합니다 . 그리고? 게이밍급 그래픽과 PC에서 가장 뛰어난 AI 경험을 즐길 수 있습니다. 그리고? 갤러리 전체를 몇 분 만에 편집할 수 있습니다. 거의 실시간으로 4K 비디오를 녹화하고, 자막을 추가하고, 게시하세요. 그리고? 심지어 그것과 대화도 할 수 있습니다 . 부조종사, 물고기를 더 크게 만들어 줘. 그리고 이 제품은 며칠 동안 사용할 수 있도록 배터리 수명이 설계되었다는 점도 말씀드렸던가요? 그리고?
+- **[Data Transformation: Acquiring the Data You Need](https://www.youtube.com/watch?v=IuVpJJzZ3bE)** — 2026-04-13 · ko · `unclassified`
+  조직에 진정한 가치를 제공하는 데이터를 의도적으로 수집하고 있습니까 ? 오늘날 의료 환경에서 혁신은 연결된 AI 기반 통합 접근 방식을 통해 뒷받침되는 우수한 데이터 선별에 달려 있습니다 . 데이터가 보여주는 내용과 그것이 목표와 어떻게 부합하는지 이해하고 신뢰할 수 있다면 , 추측이 아닌 증거에 기반한 경쟁 우위를 확보할 수 있습니다 . 반대로, 최소한의 요건만 충족하는 데이터에 만족하면 해당 정보에 대한 사용 사례의 수와 다양성을 확장함에 따라 후속적인 문제가 발생할 위험이 있습니다 .
 
-- **[Intel Foveros Technology: Inside Advanced Packaging in New Mexico | Intel](https://www.youtube.com/watch?v=MWo8PO74PDg)** — 2026-05-04 · ko · `unclassified`
-  자, 안으로 들어가자. 인텔 뉴멕시코에서는 소형 특수 칩 타일들을 하나의 고성능 시스템으로 연결하고 있습니다. 포베로스(Foveros)라는 기술을 사용하면 이러한 칩렛을 인터포저에 연결할 수 있습니다. 그 인터포저를 피자 도우처럼 생각해 보세요 . 이것은 칩 부착 도구입니다. 이는 인텔의 포베로스(Foveros) 고급 패키징 공정의 첫 번째 단계입니다 . 음식에 비유하자면, 이 도구는 피자 도우를 가져오고, 원하는 피자 토핑을 기계 반대편에 넣으면 도우 위에 토핑을 붙여주는 역할을 합니다. 그다음에는 오븐에 넣어 그 시스템[음악]을 함께 구워내는 겁니다.
+- **[Data Transformation: Trusting data Availability and Selection](https://www.youtube.com/watch?v=JLWSZxv0iaI)** — 2026-04-13 · ko · `unclassified`
+  [음악] 신뢰할 수 있는 체계적인 접근 방식을 통해 의료 데이터의 잠재력을 극대화하고 계십니까? 오늘날의 데이터 환경을 헤쳐나가기 위해서는 강력한 거버넌스, 엄격한 품질 관리 및 포괄적인 개인정보 보호 프로토콜에 기반한 규율이 ​​필요합니다. 신뢰할 수 있는 분석 생태계를 구축하는 것은 [음악] 이러한 인사이트에 의존하는 사용자들의 지속적인 피드백을 바탕으로 가장 관련성이 높고 품질이 우수한 데이터만을 선별하는 것에서 시작됩니다. 각 데이터 포인트를 철저하게 분류함으로써 모든 자산이 목적에 부합하도록 보장하고, 신뢰할 수 있는 데이터가 신뢰할 수 있는 결과로 이어진다는 원칙을 강화합니다.
 
-- **[Intel Foundry | Yours for the Making | Intel](https://www.youtube.com/watch?v=ufaprXJwnys)** — 2026-04-21 · ko · `unclassified`
-  [음악] 헤이. [음악] 헤이. 여기요 . [음악] 헤이. 여기요 . [음악] 헤이. [음악] 헤이. 여기요 .
+- **[Expanding Options for Emerging Biopharma in the U.S.: A conversation with Meg Hooton, IQVIA Biotech](https://www.youtube.com/watch?v=inBVghVip7M)** — 2026-03-16 · ko · `unclassified`
+  저는 머레이 에이컨이고, 오늘 제 동료인 멕 후인과 함께 이 자리에 섰습니다. 저희는 최근 미국에서 신흥 바이오마커의 선택지를 확대하는 것에 대한 보고서를 발표했습니다. 이는 저희가 진행한 연구를 바탕으로 한 것으로, 신흥 바이오제약 회사들이 신약 발견 연구부터 임상 시험 활동, 개발 생산성, 그리고 신약 출시 및 상업화에 이르기까지 전체 혁신 생명주기에서 어떻게 더 큰 역할을 수행하고 있는지를 살펴본 것입니다. 음, 그리고 이 연구에서 살펴본 것은 지난 10년 동안 근거 기반 실천(EBP) 기업들이 전략적 방향 설정에 있어 더 많은 선택권을 갖게 되었다는 점입니다
 
-- **[AI Engineering with Control and Confidence—Powered by TurinTech + Intel | Intel](https://www.youtube.com/watch?v=I30DMglXwS0)** — 2026-03-25 · ko · `unclassified`
-  인공지능 공학은 중요한 음악적 변곡점에 도달하고 있습니다. 팀들은 단순히 더 빠른 결과물을 원하는 것이 아니라, AI가 작동하는 방식에 대한 더 많은 제어권을 원합니다 . 음악을 제작하고 핵심 소프트웨어를 유지 관리하는 사람들에게는 코드가 실행되는 위치, 데이터가 처리되는 방식, 그리고 결과물(음악)이 검증되는 방식을 제어하는 ​​것이 필수적입니다. 저희는 비즈니스에 필수적인 소프트웨어인 음악을 발전시키기 위한 최적화 플랫폼인 Artemis를 개발합니다. 이를 통해 팀은 가시성, 검증 및 제어를 통해 음악을 현대화하고 성능을 개선하며 품질을 향상시킬 수 있습니다
+- **[Global Medicine Use Trends 2026 | IQVIA Institute](https://www.youtube.com/watch?v=NkImiRC0oBA)** — 2026-03-09 · ko · `unclassified`
+  저는 Icuia 인간 데이터 과학 연구소의 전무이사인 머레이 아켄입니다. 오늘 저는 동료인 마이클 클라인록과 함께 2026년까지의 글로벌 의약품 사용 동향 보고서를 소개해 드리기 위해 이 자리에 섰습니다. 올해 보고서는 전 세계적으로 증가하는 의약품 사용 과 의약품이 다루는 질병 분야, 그리고 관련 비용에 대해 심층적으로 분석합니다. 이는 최근 몇 년 동안 많은 이해관계자들에게 중요한 문제로 대두되었습니다 . 특히 미국 행정부가 제안하고 있는 세계 시장과 약가 책정 방식의 잠재적 변화를 고려하면 더욱 그렇습니다
 
-- **[Advancing silicon security through Formal Verification | Chips & Salsa | Intel](https://www.youtube.com/watch?v=q8OsRu4H8lo)** — 2026-03-25 · ko · `unclassified`
-  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트입니다. 오늘 우리가 다룰 주제는 실리콘 스케일에서의 형식 검증입니다. 저와 함께 인텔의 선임 이사인 제이슨 펑 씨가 자리에 함께했습니다. 그는 공격 보안 연구와 학술 연구 협력 업무를 담당하고 있습니다. 제이슨, 다시 출연해 주셔서 감사합니다. 와주셔서 반갑습니다. 먼저 팀에서 하는 일에 대해 간략하게 소개해 주시고 , 이번 학술 연구 활동에 대해서도 좀 더 자세히 설명해 주시겠어요? 다시 만나서 반갑습니다
+- **[Research Brief: Digital Health Trends 2025 |The IQVIA Institute](https://www.youtube.com/watch?v=WaNTDsbrKFo)** — 2026-03-06 · ko · `unclassified`
+  저는 IQVIA 인간 데이터 과학 연구소의 전무이사인 머레이 에이트켄입니다. 오늘 저는 동료인 다이애나 나스와 함께 여러분께 저희의 새로운 디지털 건강 트렌드 보고서를 소개해 드리기 위해 이 자리에 섰습니다. 저희는 2013년부터 이 분야의 발전을 추적해 왔으며, 이번 보고서는 그 이후로 발간한 여섯 번째 보고서입니다. 물론 그 기간 동안 많은 것이 바뀌었고, 이번 최신 연구는 비즈니스 모델, 증거 요건, 수익 기회, 현재 상황, 앞으로의 전망, 음악, 그리고 개발자, 정책 입안자, 지불자, 제공자, 환자에게 미치는 영향에 초점을 맞추고 있습니다
 
-- **[Advancing silicon security through Negative Space Testing | Chips & Salsa | Intel](https://www.youtube.com/watch?v=Al6v0IxOSFM)** — 2026-03-25 · ko · `unclassified`
-  칩스 앤 살사에 오신 것을 환영합니다! 이곳에서는 인텔의 보안에 대해 이야기합니다. 저는 제리 브라이언트이고, 오늘은 비벡 토리 씨를 모시고 네거티브 스페이스 테스트에 대해 이야기 나눠보게 되어 기쁩니다 . 네, 이는 저희가 2026년 인텔 플랫폼 보안 보고서에서 다룬 내용입니다. 어, 비벡은 인텔 제품 품질 보증 및 보안 그룹의 부사장이며, 우리 제품에 영향을 미치는 중요한 보안 문제 등을 담당하고 있습니다 . 그는 또한 인텔 플랫폼 업데이트 및 장기 지원 프로그램을 이끌고 있으며, 마지막으로 미래 제품의 보안을 개선하기 위해 노력하고 있습니다
+- **[IQVIA Agentic AI: Say the word](https://www.youtube.com/watch?v=-_B0nTypWKE)** — 2026-03-05 · en · `unclassified`
+  [music] Heat. Heat. &gt;&gt; [music] &gt;&gt; Heat. Heat. Heat. [music] [music] Heat.
 
-- **[Citrix and Intel deliver the VDI Mobility that Keeps up with the Workday | Intel](https://www.youtube.com/watch?v=FtV2FeD8Zrg)** — 2026-03-25 · ko · `unclassified`
-  시트릭스와 인텔은 디지털 워크스페이스의 경계를 재정의하고 있습니다. [음악] 업계 최고 수준의 가상화 기술과 세계적 수준의 실리콘을 결합하여 효율성과 지속 가능성에 중점을 두면서도 고성능 경험을 제공합니다. [음악] 시트릭스 HDX 초고해상도 그래픽 기술을 통해 사용자는 고화질 가상 앱과 데스크톱을 경험할 수 있습니다. 거래소에서 밀리초 단위로 중요한 데이터를 분석하든, 환자의 침상에서 필수적인 치료를 지원하든, 네트워크 및 배터리 수명 소모를 최소화하면서 음악을 활용합니다. 우리는 함께 현대 기업들이 전통적인 한계를 뛰어넘도록 지원합니다.
+- **[IQVIA Analytics Link Ecosystem](https://www.youtube.com/watch?v=NhJi4hK66kg)** — 2026-02-19 · en · `unclassified`
+  The pharmaceutical market's [music] vast global mass of data is complex, expansive, and disconnected. To succeed, you need access to unique, interconnected [music] data sets in a user-friendly interface to gain insight as quickly and efficiently as possible, enabling data-driven decision-making. The IQVIA [music] Analytics Link ecosystem provides one integrated platform collating everything you need to assess your own and your competitors' market dynamics across drugs, diseases, and countries.
 
-- **[ControlUp x Intel: On-Device Intelligence for Real-Time Detection and Response | Intel](https://www.youtube.com/watch?v=_6xO-GP1L6Y)** — 2026-03-25 · ko · `unclassified`
-  직원 경험은 이제 IT의 전략적 우선순위가 되었지만, 직원들은 여전히 업무를 방해하는 기기 문제, 시스템 속도 저하, 어색한 상호 작용 또는 예상대로 작동하지 않는 PC와 같은 문제에 직면하고 있습니다. 이러한 문제들은 IT 부서에서 상황을 파악하거나 맥락을 알기 전에 사용자들이 회의, 집중 작업, 중요한 업무 수행 중에 즉시 느끼게 됩니다 . IT 부서에 알릴 때쯤이면 이미 서비스 이용에 차질이 생긴 후입니다. [음악] 기존 방식은 생산성에 영향을 미친 후에야 문제가 드러나고, [음악] 사후 대응적인 문제 해결을 강요합니다 .
+- **[IQVIA Institute Year-in-Review 2025](https://www.youtube.com/watch?v=RFI_zhh6kjA)** — 2026-01-29 · ko · `unclassified`
+  [음악] 저는 IQIA 인간 데이터 과학 연구소의 전무이사인 머레이 아켄입니다 . 2025년은 그 연구소에게 있어 매우 바쁜 한 해였습니다 . 저희는 24건의 보고서를 발표하고, 11건의 웹 세미나와 4건의 공개 포럼을 개최했습니다 . 저희는 70개 이상의 외부 행사에 참여했으며, 저희 연구는 700편의 학술 저널 논문에 인용되었고, IQVI 동료들과 의료 산업 및 전 세계의 많은 사람들이 다양한 환경에서 활용했습니다. 2025년은 확실히 몇 가지 중요한 변화와 불확실성을 가져왔습니다. 미국의 새 행정부는 상당한 정책 변화 제안들을 내놓았습니다
 
-- **[CrowdStrike and Intel deliver secure AI at the endpoint | Intel](https://www.youtube.com/watch?v=EEBtFEARD74)** — 2026-03-25 · ko · `AX`
-  인공지능은 이제 일상 업무에 깊숙이 자리 잡고 있습니다. 직원들은 엔드포인트와 클라우드를 아우르는 AI 시스템 및 에이전트와 점점 더 많이 상호 작용하며 , 민감한 기업 데이터에 접근하여 실시간 결과를 도출합니다. [음악] AI PC의 등장으로 CPU, GPU, NPU를 아우르는 고급 컴퓨팅 성능이 향상되어 AI 워크로드와 보안 기능을 데이터가 생성되고 사용되는 곳과 더 가까운 곳에서 실행할 수 있게 되었습니다. [음악] 이러한 변화는 엔드포인트에서 AI 혁신과 보호 모두에 있어 가능한 범위를 확장합니다 .
+- **[Streamlining Adverse Event Intake: The Power of IQVIA Vigilance Intake](https://www.youtube.com/watch?v=QmmiIH3n76w)** — 2026-01-29 · ko · `unclassified`
+  안전팀은 다양한 출처(음악)와 형식에서 접수된 유해 사례 정보를 처리해야 합니다. Vigilance Intake는 모든 원천 데이터와 문서를 한 곳에 통합함으로써 AI와 자동화의 힘을 활용할 수 있도록 지원합니다. 모든 데이터를 한 곳에 통합하여 부작용 및 [음악] 관련 불만 접수 및 관리를 가능하게 하고, 데이터 추출, 개인 식별 정보 삭제, 데이터 유효성 검사, 자동 인코딩 및 중복 검색과 같은 핵심 활동을 혁신합니다. E2B는 자동화되어 있어 사용자의 개입 없이도 사례를 데이터베이스에 입력할 수 있으며, 사용자는 사례 검토를 위해 모든 정보에 접근할 수 있습니다
 
-- **[Executive overview of the 2026 Intel Platform Security Report | Chips & Salsa | Intel](https://www.youtube.com/watch?v=J5KlRWZm_fk)** — 2026-03-25 · ko · `AX`
-  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 오늘은 아난드 파슈파티 님을 모시고 2026년 인텔 플랫폼 보안 보고서에 대해 이야기 나눠보도록 하겠습니다. 아난드는 인텔 제품 품질 보증 및 보안 부문 총괄 관리자 겸 부사장이며, 제품 보안 및 기밀 컴퓨팅 로드맵을 담당하고 있습니다. 아난드 씨, 환영합니다. 방송에 다시 나와주셔서 반갑습니다. 제리, 다시 초대해 주셔서 감사합니다. 지난번에 제가 꽤 잘했나 보군요 . 그래서 다시 불러주신 거겠죠. 여기 오게 되어 기쁩니다.
+- **[Take a tour of IQVIA's Beijing office](https://www.youtube.com/watch?v=_0MUCajJI6s)** — 2026-01-22 · ko · `unclassified`
+  여러분, 안녕하세요. IQIA [음악] 베이징에 오신 것을 환영합니다 . 저는 인재 하이브리드 에디션 팀의 채용 담당자 FA입니다. 오늘은 여러분께 저희 사무실을 간단히 소개해 드리게 되어 기쁩니다. 여기는 8층(음악실)입니다. 여기는 저희 리셉션 공간으로, 방문객과 음악 동료들이 가장 먼저 들르는 곳입니다. 자, 그럼 본사 사무실 구역을 둘러보겠습니다. 보시다시피, 이곳은 음악 작업에 집중하는 것과 팀워크를 모두 지원하도록 설계된 개방적이고 협업적인 음악 공간입니다. 유리창 너머를 보세요. 저희는 아름다운 음악 산업 지구를 가지고 있습니다.
 
-- **[Hardware Assisted Software Robustness | Chips & Salsa | Intel](https://www.youtube.com/watch?v=49u8xVoLhZM)** — 2026-03-25 · ko · `unclassified`
-  안녕하세요 여러분, 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다 . 저는 진행자 제리 브라이언트입니다. 오늘 주제는 소프트웨어 안정성, 그리고 그 안에서 하드웨어의 역할입니다. 특히 x86 생태계에 도입될 새로운 기술에 대해 이야기해 볼 생각입니다 . 오늘 저는 인텔의 훌륭한 동료 세 명과 함께하고 있습니다 . 먼저 여러분 모두 간단한 자기소개 와 소프트웨어 안정성과 관련된 각자의 역할에 대해 말씀해 주시겠어요 ? 저는 수석 엔지니어이자 CPU 설계자입니다.
+- **[Transforming Regulatory Operations with IQVIA SmartSolve® RIM](https://www.youtube.com/watch?v=8YlcnFpmXyI)** — 2026-01-22 · ko · `unclassified`
+  생명과학 분야에서는 규제 요건이 끊임없이 변화하고, 팀은 제한된 자원 으로 더 많은 일을 해내야 합니다. 안전하고 효과적인 제품을 시장에 출시하고 유지하는 데 집중하는 것은 점점 더 복잡해지고 있습니다. 그렇기 때문에 전 세계 조직들이 IQS smarts solve를 신뢰하고 있으며, 이 플랫폼은 품질 및 규제 관련 활동을 포괄하는 20개 이상의 연결된 모듈을 갖춘 AI 기반 솔루션입니다. 통합 플랫폼이 없기 때문에 많은 규제 기관은 여전히 ​​RIM 활동을 위해 스프레드시트, 공유 드라이브 및 이메일에 의존하고 있습니다
 
-- **[How enterprise PC platforms are evolving for security, AI, and IT scale | Intel](https://www.youtube.com/watch?v=7SeXK1uVdYk)** — 2026-03-25 · ko · `unclassified`
-  파브, 다시 얘기하게 돼서 정말 반가워. 와, 바로 지난 1월에 소비자 용 인텔 코어 울트라 시리즈 3 프로세서를 발표했었는데 말이죠 . 인텔 18A 아키텍처 기반의 첫 번째 플랫폼으로 , 루나 레이크의 효율성 과 애로우 레이크의 성능을 결합했습니다. 그리고 오늘부터 인텔 vPro [음악]가 탑재된 당사의 시리즈 3 프로세서가 Windows 11 상용 PC에서 사용 가능하게 되었음을 발표합니다 . 시리즈 3에 대한 수요가 매우 높고, 고객들은 Intel vPro와 Windows 11에서의 기능을 선보이게 되어 매우 기뻐하고 있습니다
+- **[IQVIA by the Numbers](https://www.youtube.com/watch?v=i-MYrPs4940)** — 2026-01-21 · ko · `unclassified`
+  [음악] IQIA에서는 숫자가 힘입니다. 저희는 9만 1천 명이 넘는 직원 모두가 함께 의료 서비스 발전을 위해 노력하고 있습니다. 데이터 과학자부터 역학자, 내부 지원팀, 기술 전문가, 의사, 그리고 그 외 모든 사람들까지. 우리는 100개국 이상에서 근무하는 진정한 글로벌 인력입니다. 우리의 모든 음악은 세상 모든 사람들에게 긍정적인 영향을 미치고자 하는 열정에서 비롯되었습니다. 우리는 새로운 아이디어를 현실로 구현하려는 호기심 과 다양한 경험, 역할, 지역을 아우르는 의미 있는 협력을 수용하는 능력을 공유합니다.
 
-- **[Lakeside and Intel deliver On-Device Intelligence to Address Issues Before They Disrupt Work | Intel](https://www.youtube.com/watch?v=5IvxR85tZlQ)** — 2026-03-25 · ko · `unclassified`
-  모든 기업에서 디지털 직원 경험은 IT 부서의 전략적 우선순위입니다 . 하지만 직원들은 여전히 업무를 방해하는 기기 문제, 속도가 느려지는 음악 시스템, 어색한 상호 작용 또는 예상대로 작동하지 않는 기기 문제를 겪고 있습니다. 이러한 문제들은 회의 중, 음악 관련 작업 중, 그리고 중요한 업무 수행 중에 사용자들이 즉시 느끼게 되며, IT 부서에서 이를 인지하기 전에 발생하는 경우가 많습니다. IT 부서에 알림이 갈 때쯤이면 사용자 경험은 이미 중단된 상태입니다.
+- **[Opportunities unlocked: Vijay's IQVIA journey](https://www.youtube.com/watch?v=Y_PKFjNOl1I)** — 2026-01-21 · ko · `unclassified`
+  [음악] IQIA에서의 제 경력 궤적과 성장은 매우 흥미로웠습니다. 저는 2015년에 합류하여 [음악] 전략 파트너이자 전략적 고객사를 이끌었습니다. 그 후 저는 인도에서 진행되는 모든 고객과 음악 프로젝트를 총괄하게 되었습니다. 저는 아시아 태평양 지역, 유럽 및 미국으로 리더십 영역을 확장할 수 있었습니다. 그것은 세계적인 역할이 되었습니다. 제가 IQVIA 음악 부서를 가장 좋아하고 사랑하는 이유는 창의력을 발휘하고 혁신할 수 있는 기회가 주어진다는 점입니다. 넉넉한 공간이 주어졌습니다. 그러니 실패하지 않는다면 음악에 충분히 노력을 기울이지 않은 것입니다
 
-- **[Powering Enterprise 3D Workflows with Adobe and Intel | Intel](https://www.youtube.com/watch?v=JFVrnXOxqak)** — 2026-03-25 · ko · `unclassified`
-  안녕하세요, 저는 저스틴 패튼이고 어도비에서 음악 및 3D 크리에이티브 디렉터로 일하고 있습니다. 저는 디지털 디자인 과 3D 워크플로우를 활용하여 제품, 경험, 아이디어를 현실로 구현하는 디자이너 및 크리에이티브 팀과 긴밀하게 협력합니다. 저는 유수의 게임 스튜디오, VFX 회사, 그리고 세계적인 기술 혁신 기업들과 3D 시각화 작업을 해왔으며, 제 창의력을 뒷받침할 최고의 하드웨어를 항상 찾고 있습니다. 이러한 워크플로가 점점 더 현실적이고 상호작용적으로 변함에 따라 소프트웨어와 하드웨어는 동기화 상태를 유지해야 합니다.
+- **[Rewarding Work at IQVIA](https://www.youtube.com/watch?v=tBdPHvLxQ08)** — 2026-01-21 · ko · `unclassified`
+  안녕하세요, IQuvia의 보람 있는 업무 환경을 소개하게 되어 기쁩니다. 이는 IQuvia 직원들이 최대한 만족스러운 IQuvia 경험을 쌓을 수 있도록 지원하는 글로벌 프로그램 로드맵입니다 . 보람 있는 업무란 직원 복지와 음악 분야의 전문성 향상 모두에 대한 우리의 헌신을 의미합니다. 여기에는 인정과 경력 개발부터 음악과 삶의 균형을 찾는 것, 그리고 글로벌 커뮤니티에 참여하는 것까지 모든 것이 포함됩니다 . AQu의 모든 직원은 저마다 개성이 넘칩니다.
 
-- **[Secure AI with Intel Confidential Computing Technologies | Chips & Salsa | Intel](https://www.youtube.com/watch?v=eDzxYu0OAzg)** — 2026-03-25 · ko · `AX`
-  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트이고, 오늘은 사이먼 존슨 과 라구 옐루리가 함께합니다. 그리고 우리는 AI 워크로드를 엔드 투 엔드로 보호하기 위한 기밀 AI 및 인텔 솔루션에 대해 논의할 것입니다 . 만나서 반갑습니다. 여러분 모두 환영합니다. 시작하기 전에 각자 인텔에서 맡고 있는 역할과 그것이 기밀 AI와 어떻게 연결되는지 간략하게 소개해 주시겠어요? 좋아요, 그럼 제가 먼저 시작할게요. 음, 저는 인텔에서 기밀 컴퓨팅 기술 개발 조직을 총괄하는 책임자입니다
+- **[Empowering growth: Smit's IQVIA journey](https://www.youtube.com/watch?v=z7g4rUvUmTo)** — 2026-01-20 · ko · `unclassified`
+  저는 소속 기관의 캠퍼스 채용 프로그램을 통해 IQIA에서 제 커리어 여정을 시작했습니다 . 그 이후로 저는 수평적으로나 수직적으로나 상당한 성장을 경험했습니다. 저는 시장 조사팀(음악 분야)에서 분석가로 시작해서 지금은 전략 컨설팅팀의 컨설턴트로 승진했습니다 . IQIA는 풍부한 리소스와 [음악] 도구를 제공하여 제가 생명 과학 분야 고객을 위한 데이터 기반 통찰력과 [음악] 솔루션을 창출할 수 있도록 지원합니다 . 저는 사내 전문가 및 멘토로 구성된 탄탄한 네트워크를 활용할 수 있습니다.
 
-- **[Intel 18A | Intel](https://www.youtube.com/watch?v=3rBe0h4c204)** — 2026-03-16 · ko · `unclassified`
-  차세대 컴퓨팅을 향한 끊임없는 노력의 일환으로, 인텔 파운드리는 18옹스트롬을 의미하는 인텔 18A 프로세스 노드를 선보입니다. 18A는 북미에서 완전히 설계 및 생산된 가장 진보된 노드입니다. [음악] 이 제품은 광범위한 IP, EDA 및 디자인 서비스 파트너 생태계의 지원을 받는 업계 최초의 기술 조합을 특징으로 합니다. 이 제품은 와트당 더 나은 성능과 향상된 면적 효율성을 제공하여 최고 수준의 성능을 요구하는 애플리케이션을 위한 새로운 컴퓨팅 아키텍처를 가능하게 합니다 . 이것이 바로 인텔 파운드리의 음악 제작 능력입니다
+- **[IQVIA SmartSolve® for Compliance](https://www.youtube.com/watch?v=TUuxUxlX7rU)** — 2026-01-20 · ko · `unclassified`
+  Smartsolve를 만나보세요. Smartsolve는 AI 기반 Microsoft Azure 플랫폼으로, 의료기기 및 제약 업계의 품질 및 규제 관리를 혁신합니다. Smartsolve는 확장 가능한 단일 플랫폼 에서 품질 관리(QM) 및 위험 관리(RIM) 활동을 통합합니다 . 사전 시장 제출 및 수명 주기 관리부터 제조, 공급업체 품질 관리, 시장 출시 후 음악 감시까지 20개 이상의 기업 음악 프로세스를 자동화하고 연결합니다. 모바일 접근성, 고급 분석 기능, 글로벌 시장 진출 준비 기능 등을 통해 팀의 역량을 강화하고 비즈니스 성장에 발맞춰 나갈 수 있도록 지원하세요 .
 
-- **[Intel Foundry Omni MIM | Intel](https://www.youtube.com/watch?v=36ZHK3dIIfM)** — 2026-03-16 · ko · `unclassified`
-  [음악] 파워 스택의 하단에 위치한 Omni-MIM 커패시터는 온다이(on-die)에서 탁월한 [음악] 디커플링을 제공하여 성능을 향상시키고, 전압 변동을 줄여 전력 공급을 더욱 안정화합니다. Omni-MIM [음악]은 인텔 파운드리의 3D 고급 패키징 기술에 통합될 수도 있으며, [음악] 멀티칩렛 아키텍처에서 안정적이고 신뢰할 수 있는 전력을 더욱 구현합니다. [음악] 이것이 바로 인텔 파운드리의 힘입니다.
+- **[デジタルヘルスTechの活用方法とは？｜深掘り！デジタルヘルストレンド　世界編 #2](https://www.youtube.com/watch?v=nJjPgXOTFE8)** — 2026-01-06 · ko · `unclassified`
+  안녕하세요, 반갑습니다. 저는 IQVIA 일본 지사의 경영 컨설팅 팀에서 수석으로 근무하는 크리스입니다. 세 편의 영상에 걸쳐 전 세계 디지털 헬스케어에 대한 주요 통찰력과 트렌드를 공유하겠습니다. 디지털 헬스라는 용어는 지난 몇 년 동안 널리 알려지게 되었습니다 . 저희 회사 IQVIA 연구소는 2017년에 디지털 헬스에 대한 첫 번째 분석 보고서인 '디지털 헬스의 성장하는 가치(The Growing Value of Digital Health)'를 발간했습니다. 작년에는 최신 보고서인 '디지털 헬스 트렌드 2024(Digital Health Trends 2024)'를 발표했습니다.
 
-- **[Intel Foundry PowerVia | Intel](https://www.youtube.com/watch?v=OtAWftbX2Jk)** — 2026-03-16 · ko · `unclassified`
-  인텔 파운드리의 PowerV [음악] [음악]는 업계 최초로 후면 전력 공급 기술을 도입했습니다. 기존 방식에서는 전력이 다이의 전면을 통해 전달되어 혼잡을 초래합니다 . [음악] 신호 라우팅을 최적화할 수 있게 됩니다 . [음악]과 트랜지스터 레이어의 연결은 혁신적인 나노 TSV 또는 실리콘 [음악] 비아를 통해 이루어지는데, 이는 현재 사용되는 TSV보다 500배 더 작습니다 . 이것이 바로 인텔 파운드리의 음악적 힘입니다 .
+- **[デジタルヘルスとは？｜深掘り！デジタルヘルストレンド　日本における市場展望 #1](https://www.youtube.com/watch?v=-UKWApgQEf8)** — 2026-01-06 · ko · `unclassified`
+  ITBIA에서 컨설팅 담당하고 있습니다. 오늘은 일본의 DTX 시장 전망과 말하는 곳에서 설명하고 싶습니다. 네, 어제 일본에서는 이렇게 디지털 건강이라고합니다. 단어가 잘 알려져 있습니다. 네, 당사에서는 2017년 IQBI 인스티튜트가 처음이고, 디지털 헤이스에 대한 분석 보고서, , GrowingValue of Digital 헤스를 관광하고, 작년 마지막 디지털 헬스트 렌즈 2024 발표 했다. 지난 10년 동안 디지털 건강에 투자, 개발, 기대, 그리고, 예, 실태, 휴대폰은 나라들과 변화를 하고 있습니다.
 
-- **[Intel Foundry RibbonFET | Intel](https://www.youtube.com/watch?v=t_YmVXB6veY)** — 2026-03-16 · ko · `unclassified`
-  [음악] 트랜지스터 기술의 혁명적인 도약인 리본 FET가 18A 공정에 적용되었습니다. 이 제품은 게이트 로 둘러싸인 리본 모양의 채널을 사용하여 모든 전압에서 더 나은 [음악] 제어 및 더 높은 구동 전류를 제공합니다 . 그 결과 트랜지스터 스위칭 속도가 빨라지고, 크기는 더 작아지면서 성능은 향상됩니다. [음악] 다양한 리본 FET 폭의 유연성을 통해 애플리케이션 전반에 걸쳐 전력 및 성능을 세밀하게 조정할 수 있습니다. 리본 FET와 파워비아의 놀라운 조합은 고성능 컴퓨팅, 인공지능, 모바일 및 네트워킹의 미래를 형성할 혁신의 길을 열어줍니다.
+- **[デジタルヘルス関連制度｜深掘り！デジタルヘルストレンド　日本における市場展望 #2](https://www.youtube.com/watch?v=599YBUwZ2RA)** — 2026-01-06 · ko · `unclassified`
+  [음악] IQ에서 컨설팅 담당하고 있습니다. 오늘은 일본의 DTX 시장 전망 그런데 설명을 하고 싶습니다. 네, 지난 일본에서는 이렇게 디지털 건강이라는 단어 가 잘 알려져 있습니다. 네, 우리 회사 2017 년 IQBI 인스티튜트가 처음이고, 디지털 헤이스에 대한 분석 보고서, , GrowingValue of Digital 헤스를 관광하고, 작년 마지막 디지털 헬스트 렌즈 2024 발표 했다. 지난 10년 동안 디지털 건강에 투자, 개발, 기대, 그리고, 예, 실태, 휴대폰은 나라들과 변화를 하고 있습니다.
 
-- **[AI That Moves the World keynote | Intel](https://www.youtube.com/watch?v=JzZQTYCuxkM)** — 2026-03-10 · ko · `AX`
-  한순간이 모든 것을 바꿀 수 있다. [음악] 마찰이 점화로 이어진다. 작은 불꽃이 불을 붙인다. 삶은 현재와 미래의 음악 사이의 경계에서 펼쳐지기 때문입니다 . 인공지능이 물리적 세계 (음악)와 만나 새로운 기회를 창출하는 변곡점에 도달했습니다. 인류는 도시가 우리와 함께 움직이고, 병원이 모든 상호작용에서 음악을 통해 학습하고 , 공장이 변화에 자동으로 적응하며, 치명적인 오류가 발생하기 전에 예방되는 시대에 접어들었습니다. [음악] 이러한 기회를 잡으려면 이미 존재하는 것과 연결되고 제약 없이 혁신할 수 있는 개방형 플랫폼이 필요합니다 .
+- **[世界のデジタルヘルス動向｜深掘り！デジタルヘルストレンド　世界編 #1](https://www.youtube.com/watch?v=4b0fVAA85zg)** — 2026-01-06 · ko · `unclassified`
+  안녕하세요, 반갑습니다. 저는 IQV 재팬의 경영 컨설팅 팀에서 수석으로 근무하는 크리스입니다. 세 편의 영상에 걸쳐 전 세계 디지털 헬스케어에 대한 주요 통찰력과 트렌드를 공유하겠습니다 . 디지털 헬스라는 용어는 지난 몇 년 동안 널리 알려지게 되었습니다. 저희 회사 Iuvia Institute는 2017년에 디지털 헬스에 대한 첫 번째 분석 보고서 인 '디지털 헬스의 성장하는 가치'를 발표했습니다. 작년에는 ' 디지털 헬스 트렌드 2024'라는 제목의 최신 보고서를 발간했습니다.
 
-- **[Intel Celebrates Engineers Week 2026 with STEM Activities in Schools | Intel](https://www.youtube.com/watch?v=t1DMeI0ygBY)** — 2026-03-05 · ko · `unclassified`
-  오늘은 여러 가지 색깔의 칩들을 같은 색깔끼리 분류해 볼 거예요. [음악] [음악] 그 다음엔 무슨 일이 일어날 것 같나요? [음악] 색깔별로 분류하고 크기별로 분류하고 있네요. 그건 아주 직관적이네요. [음악] 만일의 사태에 대비해서 떨어지지 않도록 보호막을 쳐야 해요. 자 , 그럼 이제 만들어 볼까요? 우리가 설득했어요. 파란색과 보라색은 빼고 빨간색만 남겨두기로 했죠. 오, 아주 좋네요. 그래서 우리는 가장 작은 것부터 가장 큰 음악까지 순서대로 진행했습니다.
+- **[主要地域別の動向｜深掘り！デジタルヘルストレンド　世界編 #3](https://www.youtube.com/watch?v=Ep7l_4K-95k)** — 2026-01-06 · ko · `unclassified`
+  안녕하세요, 반갑습니다. 저는 IQV 재팬의 경영 컨설팅 팀에서 수석으로 근무하는 크리스입니다. 세 편의 영상에 걸쳐 전 세계 디지털 헬스케어의 주요 동향과 통찰을 공유하겠습니다 . 디지털 헬스라는 용어는 지난 몇 년 동안 널리 알려지게 되었습니다. 저희 회사 IVIA 연구소는 2017년에 디지털 헬스에 대한 첫 번째 분석 보고서 인 '디지털 헬스의 성장하는 가치'를 발표했습니다. 작년에는 ' 디지털 헬스 트렌드 2024'라는 제목의 최신 보고서를 발간했습니다. 지난 10년 동안 디지털 헬스 분야의 투자, 개발, 기대치 및 구현 모델은 크게 발전해 왔습니다
 
-- **[Smarter deepfake detection to help you discern what's fake and what's real | Intel](https://www.youtube.com/watch?v=JJ33isdDBik)** — 2026-03-02 · ko · `unclassified`
-  안녕하세요. 저는 파파 베어예요. 아빠, 안녕. 그리고 이 집에서 저는 제가 일종의 보호자 역할을 한다고 생각해요. 아시다시피 , 제 일은 사람들의 배를 채워주고, 전기를 공급하고, 와이파이를 원활하게 유지하는 거예요 . [음악] 음, 그런데 최근에, 음, 최근에 저는 온라인에서 우리를 안전하게 지키는 것에 대해 많이 생각해 봤어요. 자, 이제 내 딸 크리시를 데려가세요. 그녀는 온라인에 자주 접속해요. 그녀는 현재 IT 기기에 상당히 능숙하지만, 최근에는 그녀조차도 온라인 사기에 휘말릴 뻔했습니다. 자, 여러분!
+- **[承認・開発状況は？｜深掘り！デジタルヘルストレンド　日本における市場展望 #3](https://www.youtube.com/watch?v=1Eu4YNK_MvU)** — 2026-01-06 · ko · `unclassified`
+  [음악] IQ에서 컨설팅 담당하고 있습니다. 오늘은 일본의 DTX 시장 전망 그런데 설명을 하고 싶습니다. 네, 지난 일본에서는 이렇게 디지털 건강이라는 단어 가 잘 알려져 있습니다. 네, 우리 회사 2017년 IQB 인스티튜트가 처음이고, 디지털 헤이스에 대한 분석 보고서, , 자그로 ingval 오브 디지털 헤스 관광, 음, 작년 최신 디지털 건강 트렌즈 2024를 발표했습니다. 지난 10년 동안 디지털 건강에 투자 , 개발, 기대, 그리고, 음, 실제, 모바일 나라와 변화를하고 있습니다.
 
-- **[Lake Travis ISD Chromebook Plus Pilot Extended Cut | Intel | Google | Lenovo | SHI](https://www.youtube.com/watch?v=DyhXF1AVFpI)** — 2026-02-20 · ko · `unclassified`
-  [음악] 레이크 트래비스 독립 교육구는 텍사스주 오스틴에서 서쪽으로 약 20마일 떨어진 곳에 위치해 있습니다. 이 지역에는 약 11,000명의 음악 전공 학생들이 있습니다. 저희 시범 프로그램은 교사들을 위한 크롬북 기기 교체의 필요성에서 시작되었습니다 . 다행히 레노버가 나서서 " 새로운 레노버 크롬북 플러스가 나왔는데, 한번 구경해 보세요."라고 말했습니다. 모두가 가장 먼저 눈에 띈 것은 키보드였다. 인체 공학적으로 매우 뛰어나고 부팅 시간도 매우 짧았습니다. 그래서 저희는 아주 빠르게 작업에 착수할 수 있었고, 저희는 그 음악을 정말 좋아합니다.
+- **[EBPのイノベーション・研究開発の躍進｜早わかり！医薬品市場の最前線　世界編 #3](https://www.youtube.com/watch?v=ee2UHyMiAAc)** — 2025-11-25 · ko · `unclassified`
+  IQI Japan과 일본 제약업계 리더십 팀을 대표하여, 제약 산업의 현재와 미래에 대한 저희 영상 시리즈에 참여해 주셔서 감사합니다. 100여 개국에 사무소를 두고 있습니다. IQVIA는 매출, 처방, 청구 데이터 등 데이터 분석 분야에서 세계적인 선도적 지위와 광범위한 실제 데이터 자산 및 컨설팅 역량을 활용하여 제약 업계 동향 및 미래 전망에 대한 통찰력을 제공합니다. 일본에서 활동하는 일본의 리더십 팀은 의료계 이해 관계자들이 복잡한 변화에 대처할 수 있도록 지원합니다.
 
-- **[Lake Travis ISD Chromebook Plus Pilot | Intel | Google | Lenovo | SHI](https://www.youtube.com/watch?v=noOFm_PCER0)** — 2026-02-20 · ko · `unclassified`
-  저희 시범 프로그램은 교사들을 위한 크롬북 기기 교체의 필요성에서 시작되었습니다 . 다행히 레노아가 나서서 "저희에게 인텔 코어 5 프로세서가 탑재된 최신형 레노버 크롬북 플러스가 있어요. 디자인도 훌륭하고 부팅 속도도 아주 빨라서 정말 마음에 들어요 ."라고 말했습니다. 레노버는 ALP, SHI, 구글, 그리고 인텔과 파트너십을 맺었습니다. 레이크 트래비스 교육구는 제가 업계 전반에서 본 가장 포괄적인 음악 관련 시범 사업일 것입니다. 그래서 시범 프로그램에 참여할 기회는 도움을 받을 수 있는 기회였습니다.
+- **[オンコロジー市場の注目ポイント｜早わかり！医薬品市場の最前線　日本編 #3](https://www.youtube.com/watch?v=oJAnC_JZ-oE)** — 2025-11-25 · ko · `unclassified`
+  안녕하세요. IQIAJA 재팬 정렬 리더십 팀입니다. 우리 정렬 리더십은 분석 전문가로서 클라이언트가이 변화의 치열한 환경 극복하기 위한 인사이트를 세계 최대급 자사 데이터를 사용하여 지원합니다. 합니다. 짧은 리더십 JAPAN 미국의 인스티튜트 보고서에 협력 외에도 JAPAN으로 자체 국내 의약품 시장 분석 리포트를 시판기마다 발행 중입니다. 또한 제약 회사의 경영층과 미디어 등에 대해 연간 50권 이상의 시장 분석 설명회도 실시하고 있습니다. 오늘은 우리의 수많은 분석 중에서 의약품 시장의 최대 시장인 온로지 시장에 따라 간단하게 소개하겠습니다
 
-- **[Google-Intel Joint TDX Security Review | Chips & Salsa | Intel](https://www.youtube.com/watch?v=_n6WDifszh8)** — 2026-02-10 · ko · `unclassified`
-  [음악] 칩스 앤 소스 인텔에 다시 오신 것을 환영합니다. 저는 제리입니다. 저는 프리야입니다. 오늘은 인텔이 발표한 2026년 2월 보안 권고 사항에 대한 업데이트를 공유하겠습니다. 네, 그렇습니다 . 이번 릴리스에는 여러 인텔 제품의 마이크로디스크 펌웨어 및 소프트웨어 업데이트와 관련된 18개의 보안 권고 사항이 포함되어 있습니다 . 제리, 중요한 건 바로 이거야. 이러한 문제의 97%는 인텔의 선제적 제품 보안 보증을 통해 발견되었습니다.
+- **[ヘルスケアコンサルの成長・スキルアップとは？｜IQVIAコンサルタントのキャリアと働き方のリアルに迫る](https://www.youtube.com/watch?v=Z0sGMq8D-ao)** — 2025-11-25 · ko · `unclassified`
+  경영 컨설팅 팀에서 컨설턴트 업무를 실시하고 있습니다. 주제로서는, 전체 기업의 이야기입니다. , 음, 조직 전략 시스템 [음악]의 제품 단위라고 말하면, 신청비의 상사 지원 , 음, 브랜드 계획의 [음악] 개발 지원과 같은 점에서 판매 예측의 약하 전략이나 마킹 액세스 관점의, 에, 이야기를 받고 있습니다. 1번의 특징은 이렇게 사업회사라고 한다 그런데 카나라는 바람에 생각하고 있습니다. 그림에 쓴 소지품이라면 [음악] 없습니까? 전략을 자는 것만 자고, 이 제안이라든지, 말하는 바람이되면 [음악] 고객의 가치가 낮습니다.
 
-- **[Easily level up your screen recordings anytime, anywhere with CANVID and Intel® Core™ Ultra | Intel​](https://www.youtube.com/watch?v=VToy5OX2a0c)** — 2026-02-02 · ko · `unclassified`
-  Canvas의 AI 기능을 사용하면 가상 공간에서 최고의 모습과 목소리를 연출하는 것이 훨씬 쉬워집니다. 트레이시를 만나보세요. 그녀는 학교 등하교와 고객 미팅으로 바쁜 하루를 앞두고 있음에도 불구하고, 고객을 위해 흥미진진한 매물 소개 영상을 제작하는 데 열정적입니다. [음악] 그녀는 Canvid 화면 녹화 및 합성 웹캠 기능을 사용하여 카메라 앞에 설 준비가 되어 있지 않더라도 자신의 작품에 생동감을 불어넣습니다. Canvid의 AI는 그녀가 이전에 녹화했던 영상 중 하나, 즉 몇 주 전에 그녀가 가장 보기 좋았던 모습이 담긴 영상(음악 포함)을 기반으로 새로운 웹캠 영상을 생성할 수 있습니다
+- **[世界・主要地域別の医薬品市場トレンド｜早わかり！医薬品市場の最前線　世界編 #1](https://www.youtube.com/watch?v=9CPoPkbPj4w)** — 2025-11-25 · ko · `unclassified`
+  [음악] 아이비아 재팬 일본 법인 경영진을 대표하여, 제약 산업의 현재와 미래에 대한 저희 영상 시리즈에 참여해 주셔서 감사합니다 . 100여 개국에 사무소를 두고 있습니다. IQIA는 매출, 처방, 청구 데이터 등 데이터 분석 분야에서 세계적인 선도적 지위를 활용하고, 광범위한 실제 데이터 자산 및 컨설팅 역량을 바탕으로 제약 업계 동향 및 미래 전망에 대한 통찰력을 제공합니다. 일본에서 활동하는 일본의 리더십 팀은 의료 이해 관계자들이 복잡한 변화에 대처할 수 있도록 지원합니다.
 
-- **[Core Ultra Series 3 Launch Event | Intel](https://www.youtube.com/watch?v=KlIlFt2Fj1c)** — 2026-01-06 · ko · `AX`
-  립 부안 최고경영자님을 환영해 주십시오 . 안녕하세요 여러분, CES에 오신 것을 환영합니다. 오늘 함께해 주셔서 감사합니다. 전 세계의 수많은 혁신가, 창작자, 고객 및 파트너들과 함께 이 자리에 있게 되어 영광입니다. 우리는 컴퓨팅의 개념이 재정의되는 시대를 살고 있습니다. AI는 클라우드에서 엣지에 이르기까지 모든 워크플로, 모든 산업 및 모든 장치를 재편하고 있습니다 . 인텔의 사명은 지능을 누구나 접근 가능하고 효율적이며 어디에서나 활용할 수 있도록 만드는 것입니다.
+- **[世界市場における日本の存在感｜早わかり！医薬品市場の最前線　世界編 #2](https://www.youtube.com/watch?v=9q0M-lrA_Dc)** — 2025-11-25 · ko · `unclassified`
+  IQI Japan의 리더십 팀을 대표하여, 제약 산업의 현재와 미래에 대한 저희 영상 시리즈에 참여해 주셔서 감사합니다 . 100여 개국에 사무소를 두고 있는 IQVIA는 판매, 처방, 청구 데이터 등 데이터 분석 분야에서 세계적인 선도적 입지와 광범위한 실제 데이터 자산 및 컨설팅 역량을 활용하여 제약 동향 및 미래 전망에 대한 통찰력을 제공합니다. 일본에서 활동하는 일본의 리더십 팀은 의료계 이해 관계자들이 복잡한 변화에 대처할 수 있도록 지원합니다.
 
-- **[Scaling AI in FMCG: Lessons from PepsiCo Labs | Intel](https://www.youtube.com/watch?v=4JMbBbOBF1I)** — 2025-12-03 · ko · `unclassified`
-  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 안나 파버입니다. 안나 파르바로프는 펩시코의 최첨단 기술 솔루션 활용을 총괄하고 있습니다. 펩시코의 글로벌 기술 벤처 및 혁신 팀의 일원으로서, 그녀는 펩시코의 성장을 촉진하고 가치를 창출하는 솔루션을 발굴, 테스트 및 확장합니다. 안나는 펩시코에 합류하기 전 이스라엘 최대 지주회사의 고위 임원을 역임했습니다. 안나는 기업 전략, 투자 및 기획 부문 책임자로서 회사의 신흥 성장 동력을 이끌었습니다
+- **[日本の医薬品市場トレンド｜早わかり！医薬品市場の最前線　日本編 #1](https://www.youtube.com/watch?v=OIcpPp4HsR4)** — 2025-11-25 · ko · `unclassified`
+  안녕하세요. IQIAJA 재팬 소프트 리더십 팀입니다. 우리 정렬 리더십은 분석 전문가로서 고객이 변화가 심한 환경의 파도 극복하기 위한 통찰력을 세계 최대 규모의 자사 데이터를 사용하여 제공 및 지원 하고 있습니다. 짧은 리더십 JAPAN에서는 미국의 인스티 보고서에 협력 외에도 JAPAN으로 독자적으로 국내 의약품 시장 분석 보고서 시판기마다 발행하고 있습니다. 또한 제약 기업의 경영층이나 미디어 등에 대해 연간 50 회 이상의 시장 분석 설명회도 실시하고 있습니다. 합니다.
 
-- **[AI Industrialization: The Next Frontier for Global Enterprises | Intel](https://www.youtube.com/watch?v=fSadUMtpwcY)** — 2025-11-19 · ko · `AX`
-  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 토미 버키입니다. 오늘 저희와 함께하시는 그는 PMI의 기술 혁신 팀에서 AI 팩토리를 이끌고 계십니다. 토미는 PMI의 전사적 genai 전략을 이끄는 핵심 인물 중 한 명으로, 팀들이 분산된 파일럿 프로젝트에서 확장 가능하고 영향력 있는 솔루션으로 전환하도록 지원합니다. 그는 PMI의 AI 제공 모델 실행을 주도하며, 이 모델은 아이디어 구상 및 실험부터 산업화에 이르기까지 AI 사용 사례의 전체 수명 주기를 관리합니다 .
+- **[日本の医薬品政策の進化とキーワード｜早わかり！医薬品市場の最前線　日本編 #2](https://www.youtube.com/watch?v=9i21zpXbUDk)** — 2025-11-25 · ko · `unclassified`
+  [음악] 안녕하세요. IQBIAJA 재팬 정렬 리더십 팀입니다. 우리 정렬 리더십은 분석 전문가로서 고객이 변화가 심한 환경의 파도 극복하기 위한 통찰력을 세계 최대 규모의 자사 데이터를 사용하여 제공하고 있습니다. 합니다. 짧은 리더십 JAPAN 미국의 인스티튜트 보고서에 협력 외에도 JAPAN으로 자체 국내 의약품 시장 분석 리포트를 시판기마다 발행하고 있습니다. 또한 제약 기업의 경영층 및 미디어 등에 대해 연간 50 회 이상의 시장 분석 설명회도 실시하고 있습니다.
 
 ## Luma AI (48건)
 
@@ -5863,6 +6234,128 @@
 - **[What's new with data agents](https://www.youtube.com/watch?v=Z-AfOcWO_kk)** — 2026-06-25 · ko · `AX`
   [음악] 안녕하세요 여러분. 오늘은 데이터 에이전트의 새로운 기능에 대해 이야기하게 되어 정말 기쁩니다 . 우리 모두가 목격했듯이, 올해는 에이전트형 AI의 해였습니다 . 그리고 저는 데이터와 인공지능이 만나는 지점에서 앞으로 어떤 일들이 펼쳐질지 매우 낙관적으로 생각합니다. 저는 BigQuery AI의 엔지니어링 수석 디렉터인 가네시 겔라입니다 . 오늘은 제품 담당 이사인 제 동료 마니 스리니바산과 함께 왔습니다. 또한 VMWare 2의 부사장인 마우로 플로레스 씨를 모시게 되어 기쁩니다.
 
+## GE HealthCare (40건)
+
+- **[Patient Story | Steve Anspaugh](https://www.youtube.com/watch?v=AiC05lFGlOc)** — 2026-07-23 · en · `unclassified`
+  It was a Sunday afternoon. We were coming home from a volleyball tournament that my [music] daughter was playing in the Chicago area and had just told my wife that my chest [music] was hurting me and she was obviously confused what was going on and I just said it hurts in the middle of my chest. That evening [music] the doctor came in and said, "Hey, we you know, we got the test results back.
+
+- **[Antonio Spera intervista Peter Arduini](https://www.youtube.com/watch?v=gu1uoSsLyj0)** — 2026-07-17 · ko · `unclassified`
+  [음악] 안녕하세요, 피트. 밀라노에 오신 것을 환영합니다 . 안토니오, 만나서 반가워요. 음, 중요한 질문은 우리가 꽤 오래전부터 의도적인 혁신에 대해 이야기해 왔다는 것입니다. 어떻게 하면 기술 주도적인 동시에 충족 되지 않은 요구들을 해결하고, 그러한 요구들을 달성하기 위해 노력할 수 있을까요? 응. 아니요, 의도적인 혁신에 대한 훌륭한 질문이라고 생각합니다. 보세요, 이 모든 것의 큰 부분은 고객 중심이지만, 동시에 연구 기반 접근 방식도 중요합니다. 아시다시피, 이탈리아에는 이러한 문제들을 고민하는 데 도움을 주는 매우 명망 있는 연구 기관들이 있습니다
+
+- **[Seeing the Unseen: How Quanititiave PET Unlocks Hidden Coronary Risk with Dr. DiCarli](https://www.youtube.com/watch?v=JDpie3clGfw)** — 2026-07-16 · ko · `unclassified`
+  RSNA에서 주최하는 이번 웨비나에 오신 모든 분들을 환영합니다. 이번 웨비나에서는 정량적 PET 영상 촬영을 통해 보이지 않는 것을 발견하고, 숨겨진 관상동맥 질환 위험을 밝혀내는 방법을 알아보겠습니다. 저는 RSNA에서 이 발표에 초대해 주신 것과 GE 헬스케어에서 이 웨비나를 후원해 주신 것에 대해 감사를 드리고 싶습니다. 다음은 제가 발표할 내용과 어느 정도 관련이 있는 이해관계 공개 목록입니다 . 시작하기 전에, GE 제품 중 정량 PET 영상 촬영에 사용되는 형광 물질에 대한 중요한 안전 정보를 잠시 알려드리고자 합니다.
+
+- **[MUSE NX and MAC 5 customer testimonial Semmelweis University, Budapest, Hungary](https://www.youtube.com/watch?v=dP2GdighZjs)** — 2026-07-14 · ko · `unclassified`
+  [음악] 저희는 매우 바쁜 응급실 환경에서 일하고 있습니다 . 심전도 검사 결과를 최대한 빨리 얻고 , 가능한 한 빨리 평가하여 담당 관리자에게 보여주는 것이 매우 중요합니다. 이전의 업무 흐름은 전적으로 종이 기반이었는데, 이는 간호사가 환자 침대 옆에서 심전도를 검사하고, 종이를 출력한 다음, 그 종이를 의사나 의료진에게 가져가서 검토 후 심전도에 도장을 찍는다는 것을 의미했습니다 . 그리고 그것은 기술 자체 때문에 문제가 되었습니다 . [음악] 그래서 간호사가 심전도를 찍었는데, 화질이 좋지 않아서 제대로 해석할 수가 없었어요.
+
+- **[Vscan Air™ SL with Caption AI™](https://www.youtube.com/watch?v=a2vCsyZx5WM)** — 2026-07-10 · ko · `unclassified`
+  열. [음악] 열기. [음악] 열기. 열. 열. [음악] 열기. [음악] 여기서 [음악] [음악]을 데워보세요.
+
+- **[Vscan Air™ SL with Caption AI™](https://www.youtube.com/watch?v=fzyhUDf6MQk)** — 2026-07-10 · ko · `unclassified`
+  열. [음악] 열기. [음악] 열기. 열. 열. [음악] 열기. [음악] 여기서 [음악] [음악]을 데워보세요.
+
+- **[WFUMB webinar: From silent disease to global action](https://www.youtube.com/watch?v=ZMfNvcJJ3R4)** — 2026-06-26 · ko · `unclassified`
+  정말 아름다운 날이네요. 안녕하세요, 좋은 저녁입니다. 전 세계에서 참여해주시는 모든 분들을 환영합니다 . 세계 초음파 의학 및 생물학 연맹(WFMP)을 대표하여 오늘 웨비나에 여러분을 환영하게 되어 매우 기쁩니다 . 세계 지방간의 날. 침묵의 질병에서 국제적 대응으로. 만성 간질환의 조기 발견 및 더욱 효율적인 치료 경로 개발. GE 헬스케어의 후원으로 제작되었습니다. 만성 간 질환, 특히 대사 기능 장애와 관련된 스테로이드 성 간 질환은 전 세계 수억 명에게 영향을 미치는 우리 시대의 가장 중요한 글로벌 건강 문제 중 하나가 되었습니다
+
+- **[Vscan Air™ | An individualized approach with POCUS in plastic surgery](https://www.youtube.com/watch?v=izCf8W2r6s4)** — 2026-06-24 · ko · `unclassified`
+  안녕하세요, 저는 니콜스 박사입니다. 저는 성형외과 및 재건외과 전문의 자격증을 소지하고 있습니다. 제 파트너인 다니엘 앨버트 샤르그는 마취과 전문의 자격증을 소지하고 있습니다 . 저희는 함께 펄 성형외과라는 진료소를 운영하고 있으며, 외래 수술 센터를 통해 매년 수백 건의 미용 수술을 외래 환자를 대상으로 시행하고 있습니다. 저희는 이 Vscan Air를 사용하여 환자 의 수술 전 평가를 진행하고, 지방 조직 깊이를 확인하고, 이를 통해 복부 성형술 계획을 세우고, 기대치를 설정하고, 수술 시 예상되는 상황을 파악하는 데 도움을 받고 있습니다
+
+- **[Beyond the Bore: Elevating Women's Imaging](https://www.youtube.com/watch?v=hBYe1_cIjAo)** — 2026-06-18 · ko · `unclassified`
+  안녕하세요 여러분. 저희 Beyond the Board 팟캐스트에 참여해 주셔서 감사합니다. 저는 GE의 아담 케셀이고, 오늘은 캘리포니아 대학교 샌디에이고 캠퍼스의 레베카 페너 박사님을 모셨습니다. 음, 오늘 그녀는 여성 영상 진단, 특히 골반 부위 영상 진단에 대해 이야기해 줄 예정이며, MRI가 진단 및 수술 치료 계획 수립에 얼마나 중요한 역할을 하는지 설명해 줄 것입니다 . 레베카 박사님, 자기소개와 함께 좀 더 자세한 이야기를 들려주시겠어요? 네, 그래서 음, 저는 제가 세상에서 가장 좋은 직업을 갖고 있다고 생각해요.
+
+- **[Patient Story | Nicole & Bradley Gibson](https://www.youtube.com/watch?v=nBzRFqb94eE)** — 2026-06-18 · ko · `unclassified`
+  [음악] 내가 제일 먼저 스스로에게 한 말은 '왜 하필 나야?'였어. 내가 무언가를 통제할 수 없었던 건 그때가 처음이었다. 저는 그녀와 함께 병원 진료를 받으러 다니면서, 그 병이 얼마나 오래 걸릴지, 그리고 제가 어떻게 그녀를 도울 수 있을지 알아내려고 노력하고 있어요. 이것이 우리가 앞으로 얼마나 오래 지속될지는 모르지만, 우리에게는 새로운 현실입니다. 제 이름은 니콜 깁슨입니다. 저는 GE 헬스케어의 주니어 임원 리더십 프로그램에 참여하고 있습니다 . 제 이름은 브래들리 깁슨입니다.
+
+- **[Workflow optimization with GE HealthCare CardioLab AI.i and Volta AF-Xplorer II](https://www.youtube.com/watch?v=TabAqdd4gkQ)** — 2026-06-11 · ko · `AX`
+  이번 시간에는 제가 여러분께 이야기를 나누겠습니다 . 발표는 약 30분 정도 진행될 예정 이며, 질의응답 시간이 추가로 주어집니다. 제목은 " GE Healthcare CardioLab AI와 Volta AF Explorer 2를 활용한 워크플로우 최적화"입니다. 두 가지 기술과 두 가지 개념이 결합되어 매우 효율적이고 만족스러운 워크플로우를 구현한 사례를 보여드리겠습니다. 그리고 저는 이러한 시스템과 관련된 우리 사건들이 잘 해결되기를 바랍니다 . 자, 이제 제가 밝힐 사항들을 알려드리겠습니다.
+
+- **[AI Ultrasound for Nerve Blocks | Nerveblox](https://www.youtube.com/watch?v=t6zBYEG6h1g)** — 2026-06-08 · ko · `unclassified`
+  이분은 마취과 의사입니다. 수천 건의 말초신경 차단술을 시행해 온 마취과 의사(음악)지만, 오늘날의 해부학적 지식은 교과서적이지 않다. 랜드마크는 눈에 잘 띄지 않습니다. 비행기는 시각화하기가 더 어렵습니다. 전문가조차도 명확성이 가장 중요한 순간에 직면하며, 이때 약간의 추가적인 음악적 지침이 큰 차이를 만들어낼 수 있습니다. 이것은 Nerve [음악] Blocks입니다. 해부학적 변이, 환자 요인 또는 복잡한 [음악] 상태로 인해 시야가 가려질 때 그녀가 믿고 의지하는 실시간 조력자입니다.
+
+- **[AI in Regional Anesthesia | Smarter Ultrasound Guidance](https://www.youtube.com/watch?v=miUbiJp3t2o)** — 2026-06-08 · ko · `unclassified`
+  세계 국소마취 및 통증의 날에 오신 모든 분들을 환영합니다 . 저는 아미트 파워입니다. 안녕하세요, 저는 제프 개즈든입니다. 세계 인공지능의 날을 맞아 여러분과 인공지능과 국소마취에 대한 저희 생각을 나눌 수 있게 되어 매우 기쁩니다. 자, 제프, 이번 에피소드는 저희 팟캐스트에서 영감을 받은 에피소드 중 하나입니다. 자, 그럼 농담부터 시작해도 될까요? 어머, 들어보세요. 시간이 좀 부족하니까 농담은 최대한 자제해 주세요 . 저는 어떤 상황에서든 농담을 할 기회를 절대 놓치지 않아요. 맙소사.
+
+- **[Beyond the Pulse: Integrating Ultrasound and Cardiac Output Monitoring for Intraoperative Excellence](https://www.youtube.com/watch?v=bj_HbE_oMec)** — 2026-06-08 · ko · `AX`
+  안녕하세요 여러분, 모로코에 오신 것을 환영합니다. 마라케시에 오신 것을 환영합니다 . 머지않아 초음파 검사 결과를 해석하는 사람이 당신 혼자만은 아닐 수도 있습니다. 인공지능이 여러분을 안내하고, 잘못된 부분을 바로잡아주고 , 어쩌면 도전 과제까지 제시할 것입니다. 시작하기 전에, 저는 제너럴 일렉트릭 헬스케어와 관계가 있음을 밝힙니다. 흔히 접할 수 있는 임상 시나리오를 살펴보겠습니다. 복부 대수술을 받는 60세 환자가 저혈압 증상을 보일 경우. 수액을 투여했습니다. 노르 에피네프린 투여를 시작했지만, 환자의 상태는 여전히 불안정합니다.
+
+- **[Integrating remote 6 lead ECG monitoring for hospital at home services](https://www.youtube.com/watch?v=qFCAKVgqF50)** — 2026-06-08 · ko · `unclassified`
+  안녕하세요, 저는 이안 굿하트 박사입니다. 저는 케임브리지 대학교 병원에서 마취과 및 중환자 치료 전문의로 근무하고 있으며, 재택 병원 서비스인 가상 병동 서비스의 임상 책임자를 맡고 있습니다. 이번 세션에 참여해주셔서 대단히 감사합니다 . 여러분 중 얼마나 많은 분들이 재택 병원 치료에 대해 알고 계신지 모르겠습니다. 혹시 들어본 적 있는 사람 손들어볼 사람 있나요? 추가 질문은 하지 않을 테니 걱정하지 않으셔도 됩니다. 아. 좋은. 훌륭한. 꽤 괜찮네요. 좋은. 좋은. 좋은.
+
+- **[Converging Beams: Radiation Therapy meets Radioligand Therapy](https://www.youtube.com/watch?v=NeDgw9PTrcg)** — 2026-06-04 · ko · `unclassified`
+  어서 오세요, 어서 오세요. 저희 심포지엄의 제목은 ' 수렴하는 광선'이었습니다. 그리고 이번 심포지엄의 이름을 지을 때 약간 창의적이었다고 생각합니다. 왜냐하면 이번 심포지엄은 방사선 치료와 방사성 리간드 치료의 결합된 잠재력과 시너지 효과에 관한 것이기 때문입니다. 몇 달 전에 있었던 일에 대해 조금 이야기해 볼게요. 네, 저희 모두 비엔나에 있었고, 제목은 다르지만 같은 주제를 다룬 비슷한 심포지엄을 개최한 적이 있습니다. 그리고 북미 지역의 구체적인 상황을 살펴보는 것도 중요하다고 생각합니다.
+
+- **[On the Fly with April Mann | Episode 12: Diagnostic precision with Flyrcado](https://www.youtube.com/watch?v=mk5gRtXJBms)** — 2026-06-04 · ko · `unclassified`
+  [음악] 우리는 방사성 추적자로서 플루르카돌의 물리적 특성, 즉 높은 추출 분율과 양전자 비정에 기반한 높은 영상 해상도가 더 선명하고 깨끗한 영상을 만들어낸다는 것을 알고 있습니다. 어, 저는 이전에 심장 PET 검사에서 정상으로 나왔던 여성 환자분을 봤습니다. 이 환자는 증상이 나타난 지 6개월 만에 다시 검사를 받았는데, 이번에도 심장 크기가 더 작은 것으로 나타났습니다. [음악] 아주 미묘한 결함들이 발견되었는데, 그것들 이 이 여성에게 가역적인 [음악] 허혈이 있었음을 보여주는 것이었습니다.
+
+- **[Verisound™ Gallery Demo Video](https://www.youtube.com/watch?v=rhcqbye-Evw)** — 2026-05-28 · ko · `unclassified`
+  귀하의 기기는 수년간의 환자 검사 결과를 저장하도록 설계된 것이 아닙니다. 금방 꽉 차버리고 초음파 이미지가 분실되거나 도난당할 위험이 너무 큽니다. 다행히 더 나은 방법이 있습니다. GE Healthcare의 VeraSound Gallery는 의료진이 휴대용 초음파 검사 결과를 저장, 관리 및 공유하는 방식을 혁신합니다 . Vscan Air와 함께 사용하면 안전한 클라우드 기반 플랫폼이 종단 간 암호화로 이미지를 보호하는 동시에 HIPAA를 준수하는 PACS 지원 워크플로우를 지원합니다. VeraSound Gallery는 영상 관리를 간소화하여 의료진이 부담감을 줄이고 환자 치료라는 가장 중요한 일에 더욱 집중할 수 있도록 도와줍니다.
+
+- **[Scaling handheld ultrasound](https://www.youtube.com/watch?v=c-L1r-ZvNzQ)** — 2026-05-25 · ko · `unclassified`
+  OHSU가 의료진을 최우선으로 생각하여 조직 전체에 휴대용 초음파 장비를 도입한 방법에 대한 논의에 다시 오신 것을 환영합니다 . 저희와 함께 OHSU의 조나단 테클레마이클 씨가 계십니다. 그는 OHSU의 임상 기술 서비스 책임자입니다. 조나단 씨는 생의학 공학 석사 학위를 소지하고 있으며 15년 이상의 경력을 바탕으로 주요 대학 및 의료 시스템 전반에 걸쳐 임상 기술 전략을 수립하는 데 앞장서 왔습니다.
+
+- **[Simposio GE HealthCare Congresso Nazionale SIEOG 2026](https://www.youtube.com/watch?v=RdZyDSQ0JWQ)** — 2026-05-20 · ko · `unclassified`
+  네, 여러분 안녕하세요. 안녕하세요, 제 이름은 피터 스테인마입니다. 저는 여성 건강 관리 초음파 분야의 임상 전략 책임자입니다 . 폴론 씨, 저는 오늘 태아 뇌 발달, 임신 3분기 및 부인과 초음파에 대한 심도 있는 통찰을 공유하는 이번 점심 심포지엄에 함께해 주셔서 매우 기쁩니다. 훌륭한 연사분들이 많이 계시지만, 먼저 여러분 모두에게 잘 알려진 사회자를 소개해 드리겠습니다. 니콜라 파시고 박사는 산전 진단 및 중재 분야에서 매우 잘 알려진 분입니다. 니콜라 씨, 감사합니다.
+
+- **[Vscan Air™ Product Tutorial | Caption AI™](https://www.youtube.com/watch?v=Q7wwjPDswkM)** — 2026-05-13 · ko · `unclassified`
+  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 Vscan Air SL 프로브를 페어링하고 우측으로 밀어 사전 설정 메뉴에 액세스하고 도구에서 ‘심장 유도’를 선택합니다 기본 프로토콜이 자동으로 시작됩니다 그러나 기본 프로토콜이 설정되지 않은 경우 프로토콜을 선택해야 합니다 프로토콜을 변경하려면 화면의 좌측 가장자리에서 우측으로 밀고 좌측 패널에서 프로토콜 이름 옆의 뒤로 화살표를 누릅니다 휴대전화에서 시작하려면 같은 작업을 수행합니다 새 프로토콜을 만들고 기존 프로토콜을 편집하려면 재생 목록에서 스캔 프로토콜 비디오를 참조합니다 프로토콜을 선택했으면 화면의 고정 유도를 따릅니다 환자를 최적의 위치로 배치하는 것부터 시작합니다 여기 고정 유도를 보시면 환자를 좌측으로 눕히라고 나옵니다 환자가 좌측으로 누울 수 없는 경우 환자가 등을 대고 누워 영상을 획득할 수 있습니다
+
+- **[X-ray Matters - What does optimization really mean in modern radiography?](https://www.youtube.com/watch?v=PxCRVNbyDY4)** — 2026-05-13 · ko · `unclassified`
+  안녕하세요. X-ray Matters 팟캐스트에 오신 것을 환영합니다. 이 팟캐스트에서는 오늘날 의료 분야에서 X-ray가 왜 중요한지 알아봅니다 . 오늘 대화는 훌륭한 마테우스 고이안이 진행하며, 솔퍼드 대학교의 케이티 샤푸어 박사님을 모시게 되어 매우 기쁩니다. 케이티는 의료 물리학 분야에서 존경받는 연구자, 교육자이자 사상적 리더로서, 고품질 진단 영상을 얻기 위해 영상 장비 및 시스템 기능을 최적화하는 데 광범위한 연구를 수행한 것으로 잘 알려져 있습니다 .
+
+- **[GE HealthCare Ultrasound Expert Live Support](https://www.youtube.com/watch?v=PteDslY3xx4)** — 2026-05-12 · ko · `unclassified`
+  의료 서비스에서는 매 순간이 소중합니다. 하지만 환자는 준비됐는데 시스템이 아직 준비되지 않았다면 어떻게 해야 할까요? GE 헬스케어 전문가 [음악] 라이브 지원을 소개합니다. Insight에 시스템을 연결 하고 티켓을 제출하여 [음악] 분야의 최고 전문가 지원을 실시간으로 받아보세요 . 콘솔에서 한 번만 클릭하면 엔지니어는 스캔이 진행되는 동안에도 원격으로 끊김 없이 실시간으로 기기에 연결할 수 있습니다. 문제가 해결되어 첫 번째 환자 진료에 차질 없이 진행되었습니다. 업데이트가 있으면 시스템에서 알려줍니다.
+
+- **[Giraffe OmniBed Carestation -thermoregulation glass house video](https://www.youtube.com/watch?v=U35S5FQLdwo)** — 2026-05-08 · ko · `unclassified`
+  모든 신생아는 따뜻한 환영을 받을 자격이 있으며, 마치 집에 있는 것처럼 편안함을 느껴야 합니다. 사실, 그들의 생명이 그것에 달려 있다. 음악을 통해 유아의 체온을 좁은 범위 내에서 유지하는 것이 매우 중요하기 때문입니다. [음악] 신생아 집중 치료실에서는 생존이 관건입니다. [음악] 많은 노력과 프로토콜 업데이트에도 불구하고 , 최근 연구에 따르면 신생아 10명 중 4명은 여전히 ​​이상적인 체온보다 최소 1°C 낮은 상태로 신생아 집중 치료실에 도착하는 것으로 나타났습니다 .
+
+- **[On the Fly Episode 10 - Choosing the right patients for cardiac PET](https://www.youtube.com/watch?v=J3Oo3jVM-ac)** — 2026-05-08 · en · `unclassified`
+  [music] &gt;&gt; The different modalities that can be used for diagnosis of and kind of prognosis of coronary disease are cardiac [music] SPECT, stress echo, cardiac CT, cardiac PET, [music] and then the choices with cardiac PET are do you use rubidium, ammonia, or flurcadol? What becomes more important to me is &gt;&gt; [music] &gt;&gt; testing the patient at the time they need that test.
+
+- **[On the Fly Episode 8 - From one technologist to another](https://www.youtube.com/watch?v=6ld2EM0YK_M)** — 2026-05-08 · ko · `unclassified`
+  [음악] 저는 에이프릴 맨입니다. 저는 GE 헬스케어에서 심장학 분야 KOL(핵심 오피니언 리더) 및 이해관계자 참여 책임자로 근무하고 있습니다 . GE 헬스케어에 입사하기 전에는 코네티컷주 하트퍼드에 있는 하트퍼드 헬스케어에서 29년간 근무했습니다 . 저는 원자력 기술자이기 때문에, 제 사랑과 열정은 핵의학에 있습니다. 우리는 우리가 가진 지식 수준에 맞춰 음악에 대해 매우 편안함을 느낄 수 있지만, 궁극적으로 우리가 그 자리에 있는 이유는 단 하나, 환자들에게 적절한 음악 치료를 제공하기 위해서입니다.
+
+- **[On the Fly Episode 9 - What sets Flyrcado apart?](https://www.youtube.com/watch?v=ocCA5ej_ItY)** — 2026-05-08 · ko · `unclassified`
+  [음악] 핵의학의 기본 원칙 중 하나는 스캔하는 부위와 관계없이 환자의 계수율이 높을수록 영상 품질이 더 좋다는 것입니다. [음악] 따라서 플루르카돌을 사용하면 더 긴 시간 동안 데이터를 획득하고 스캐너에 최적화된 계수율을 얻을 수 있으므로 환자의 체형이나 크기에 관계없이 모든 환자에서 더 나은 계수율을 얻을 수 있으며, 궁극적으로 더 나은 이미지 품질을 의미합니다 . [음악] 제가 직접 실험실 영상을 제작하고, 25년 넘게 심장 PET 검사를 해오면서 얻은 경험에 비추어 볼 때, 가장 큰 깨달음의 순간 중 하나는 판독 의사가 처음으로 영상을 보고 선명도와 디테일을 확인할 때였습니다
+
+- **[Conversations in Cardiac PET - Dr. Al Mallah](https://www.youtube.com/watch?v=qJ9ilgD6TsQ)** — 2026-05-06 · ko · `unclassified`
+  자, 이 연구에 대해 잘 모르시는 분들을 위해 간단히 소개해 드리겠습니다. 그들은 거의 200명의 환자를 받았습니다. 그들은 동시에 PET, SP spec, CT, FFR, CT 촬영을 진행한 후, 환자들을 고양이 실험실로 데려가 3혈관 FFR 검사를 실시했습니다. 따라서 이는 이 200명의 환자에 대한 광범위한 표현형 분석입니다 . 그런 다음 그들은 침습적인 FFR 검사와 비교하여 진단 정확도를 비교했습니다 . 여기서 보시는 바와 같이 PET는 CT, FFR, CT 및 PET를 포함한 다른 모든 영상 진단법과 비교했을 때 전반적으로 가장 높은 정확도를 보였습니다
+
+- **[Conversations in cardiac PET - Dr. Chareonthaitawee](https://www.youtube.com/watch?v=iCTOCeyy8IE)** — 2026-05-06 · ko · `unclassified`
+  그렇다면 관상동맥질환의 역학과 증상 발현 양상이 변화하는 이유는 무엇일까요? 네, 바로 전 세계적인 비만 대유행입니다. 2035년까지 전 세계 인구의 절반, 즉 최소 40억 명이 비만이 될 것으로 예상됩니다. 이는 BMI가 30을 초과하는 경우로 정의됩니다. 따라서 우리가 돌봐야 할 환자가 상당히 많을 것입니다. 반려동물 심근 관류 영상(Pet MPI)은 그 특성과 비만 및 여성에서의 심장 표현형 때문에 중요합니다. 우리가 목격하고 있는 이러한 새로운 유형의 대사 질환은 환자들에게서 더욱 광범위하게 퍼진 동맥경화증을 나타냅니다.
+
+- **[Conversations in cardiac PET - Dr. Sanghani](https://www.youtube.com/watch?v=PW3YOc-5kWY)** — 2026-05-06 · ko · `unclassified`
+  간단히 복습해 보겠습니다. 물론 ETT가 가장 빠릅니다. 저는 정상적인 안정시 심전도와 운동 시 연결성을 보이는 저위험 환자들에게 그 방법을 더 많이 사용합니다. 이는 초기에는 좋은 반응을 보이지만, 더 높은 수치는 놓칩니다. 음, 고등급 질환을 제외한 모든 것을 놓칠 겁니다. 우리는 그곳에서 정말로 방해가 되는 CAD를 찾고 있습니다. 스트레스 에코 도 상당히 쉽게 구할 수 있습니다. 거의 모든 곳에 에코 머신이 있다. 기능에 대한 평가를 제공하는 거죠? 여기서 우리가 살펴볼 것은 LV 기능뿐입니다
+
+- **[Vscan Air™ | Caption AI™ Prescriptive Guidance](https://www.youtube.com/watch?v=dNIs1sFBrso)** — 2026-05-06 · ko · `unclassified`
+  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 처방적 유도가 실시간으로 나타나 차례로 안내를 제공합니다 소프트웨어를 효과적으로 사용하려면 이러한 동작을 어떻게 수행해야 할지 이해해야 합니다 모든 유도 동작은 환자와 관련되어 있음에 주목해야 합니다 항상 유도가 없어지거나 새 유도가 나타날 때까지 작고 천천히 움직입니다 메시지에 표시되는 네 가지 주요 동작 패턴이 있습니다 이는 밀기, 회전, 흔들기, 테일링입니다 각 동작은 여러 방향으로 수행할 수 있습니다
+
+- **[Vscan Air™ | Caption AI™ Quality Meter, AutoCapture and Save Best Clip](https://www.youtube.com/watch?v=vb3wXSNPHvE)** — 2026-05-06 · ko · `unclassified`
+  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 유도 동작을 수행함에 따라 진단 품질 영상으로부터 가까워지거나 멀어질수록 품질 측정기가 올라가거나 떨어집니다 스캔 시 품질 측정기의 반응을 볼 수 있도록 천천히 움직이도록 합니다 좋은 방법은 측정기가 흰색으로 바뀌면 멈추고 손목을 안정시키는 것입니다 이때에는 작은 동작만 필요하기 때문입니다
+
+- **[Vscan Air™ | Caption AI™ Scanning Ergonomics](https://www.youtube.com/watch?v=7U3RFy5Wn58)** — 2026-05-06 · ko · `unclassified`
+  환자 오른쪽에 앉습니다 디스플레이 장치를 눈높이로 맞춥니다 Vscan Air™ SL 프로브에서 표지자라고도 하는 방향 마커를 확인합니다 표지자는 방향 다이어그램에서 녹색 점으로 나타납니다 심장 영상을 캡처할 때는 표시기의 위치를 확인하는 것이 중요합니다 심장 창마다 영상을 얻는 데 그립을 다르게 잡아야 합니다 흉골연 창의 경우 앞부분에 가깝게 연필처럼 프로브를 잡고 엄지손가락으로 프로브 위쪽을 잡고 검지와 중지로 아래를 잡습니다 심첨부 창의 경우 이전 보기에서와 같이 프로브를 계속 잡고 있습니다 늑골하의 경우 위에서 잡습니다
+
+- **[Vscan Air™ | Caption AI™ Static Guidance](https://www.youtube.com/watch?v=59XISUI-U_I)** — 2026-05-06 · ko · `unclassified`
+  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 정적 유도는 사용자에게 환자, 프로브, 그림이라는 세 가지 구성 요소를 통한 스캔 시작 방법을 알려줍니다 휴대전화에서 참조 영상을 보려면 프로브 위치 그림을 밉니다 이렇게 말이죠 환자의 경우 각 음향 창에 대한 최적의 환자 배치와 관련하여 간단한 메시지가 표시됩니다 흉골연 및 심첨부 보기를 스캔하는 가장 좋은 자세는 환자가 좌측으로 누워 왼팔을 머리 위로 들어 올린 상태입니다
+
+- **[Vscan Air™ | Caption AI™ cardiac guidance and interpretation](https://www.youtube.com/watch?v=RJm73fX0pAg)** — 2026-05-06 · ko · `unclassified`
+  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 Vscan Air SL 프로브를 페어링하고 우측으로 밀어 ‘사전 설정’ 메뉴에 액세스하고 도구에서 ‘심장 유도’를 선택합니다 기본 프로토콜이 자동으로 시작됩니다 그러나 기본 프로토콜이 설정되지 않은 경우 프로토콜을 선택해야 합니다 프로토콜을 변경하려면 화면의 좌측 가장자리에서 우측으로 밀고 좌측 패널에서 프로토콜 이름 옆의 뒤로 화살표를 누릅니다 휴대전화에서 시작하려면 같은 작업을 수행합니다 새 프로토콜을 만들고 기존 프로토콜을 편집하려면 재생 목록에서 ‘스캔 프로토콜’ 비디오를 참조합니다 프로토콜을 선택했으면 화면의 정적 유도를 따릅니다 환자를 최적의 위치로 배치하는 것부터 시작합니다 여기 고정 유도에 환자를 좌측으로 눕히라는 메시지가 나와 있습니다
+
+- **[Vscan Air™ | Caption AI™ cardiac interpretation – Automated Ejection Fraction (AutoEF)](https://www.youtube.com/watch?v=07klH2jDJwU)** — 2026-05-06 · ko · `unclassified`
+  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 심장 해석은 자동식 박출 계수 추정치를 제공합니다 화면 좌측 모서리에서 우측으로 밀어 프로토콜을 선택합니다 박출 계수 프로토콜이 이렇게 보입니다
+
+- **[Vscan Air™ | Caption AI™ scanning protocols](https://www.youtube.com/watch?v=i9Wb7s26jyM)** — 2026-05-06 · ko · `unclassified`
+  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 스캔 프로토콜을 생성, 편집 및 관리할 수 있습니다 심장 유도 도구 내에서 사용자 맞춤형으로 말이죠 심장 유도를 처음 시작할 때 스캔 프로토콜을 선택하라는 메시지가 표시됩니다 초기 옵션은 ‘짧게’, ‘길게’, ‘길게+컬러’, ‘박출 계수’ 그리고 ‘대동맥 협착증’입니다 프로토콜을 만들거나 편집하려면 목록 위의 연필을 선택합니다 기존 프로토콜이 모두 있습니다 ‘심장눌림증’, ‘LV 기능’ 등의 적응증 기반 프로토콜을 추가로 사용할 수 있습니다
+
+- **[Vscan Air™ | Caption AI™ tips and tricks](https://www.youtube.com/watch?v=DLnSBVNNpSs)** — 2026-05-06 · ko · `unclassified`
+  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 처방적 유도가 없는 경우 어떻게 해야 할까요? 영상의 품질이 좋지 않아 구조를 볼 수 없는 경우 알고리즘이 프로브에 대한 움직임 유도를 제공하지 못할 수도 있습니다 이번 시나리오에선 다른 심장 유도 기능을 살펴보겠습니다 항상 품질 측정기에서 실시간 피드백을 확인할 수 있습니다 구조가 보이지 않고 측정 수준이 낮으면 시스템에 움직이는 해부체가 보일 때까지 느리게 원형으로 훑습니다
+
+- **[Vscan Air™ | The fundamentals of ultrasound](https://www.youtube.com/watch?v=YewA8XEr_II)** — 2026-05-06 · ko · `unclassified`
+  초음파는 고주파 음파를 통한 신체 내부 구조 영상화용 영상 기술입니다 이를 위해 트랜스듀서라고도 하는 초음파 프로브를 사용하는데 이는 해부학적 구조에서 튕겨 나오는 고주파 음파를 신체 내부에 보내고 받습니다 프로브가 음파를 다시 수신할 때 초음파 소프트웨어는 이를 처리하고 영상을 생성합니다 초음파는 뼈나 공기를 잘 통과하지 않습니다
+
+- **[On the Fly Episode 11 - Bringing Flyrcado to your center](https://www.youtube.com/watch?v=wE0mJsMDhoo)** — 2026-05-04 · ko · `unclassified`
+  [음악] 따라서 모든 고객이 플루시클로빈을 복용하기까지의 여정은 첫 만남부터 첫 복용, 그리고 그 이후까지 저희가 함께 안내해 드리는 것입니다. GE Healthcare는 임상 응용 프로그램 지원부터 프로토콜 구축 및 기술 교육 지원에 이르기까지 다양한 서비스를 제공합니다. 저희는 의뢰하시는 의사분을 돕기 위해 독자 지원 기능을 제공합니다. GE Healthcare는 모든 고객에게 플루시클로빈 치료를 성공적으로 받을 수 있도록 맞춤형 프로세스를 제공하기 위해 최선을 다하고 있습니다. 플루시클로빈 연구를 진행하는 과정에서, 저희는 여러분의 실험실 에서 F-18 추적자를 사용할 때 필요한 평가를 도와드리겠습니다
+
 ## GitHub (40건)
 
 - **[The Download: Kimi K3, TypeScript 7 native compiler, VS Code agent host & more](https://www.youtube.com/watch?v=KYJwda0NXGs)** — 2026-07-24 · ko · `unclassified`
@@ -5985,127 +6478,249 @@
 - **[Take GitHub Copilot on the go with remote control](https://www.youtube.com/watch?v=IfZglrnVkPA)** — 2026-05-18 · ko · `AX`
   저는 오리예요. 저는 GitHub의 선임 제품 디자이너이며, GitHub 모바일에서 Copilot CLI 또는 VS Code를 사용한 원격 제어 세션 디자인에 참여했습니다. 컴퓨터에서 음악을 재생하여 작업을 시작한 다음, 휴대폰으로 원격 접속하여 이동 중에도 작업을 계속할 수 있습니다. 저는 조쉬입니다. [음악] 저는 GitHub의 엔지니어인데, GitHub의 모든 에이전트 서비스가 똑같은 언어를 사용하는 것 같아요. 그 덕분에 가능해진 것 중 하나가 원격 제어입니다. 저는 Copilot CLI를 사용하여 연결 상태를 유지하고 새로운 작업을 시작하고 응답할 수 있으며, 로컬 작업을 계속 진행할 수 있습니다
 
-## IQVIA (40건)
+## IBM Technology (40건)
 
-- **[Data Transformation: Acquiring the Data You Need](https://www.youtube.com/watch?v=4uAxS1zbiTg)** — 2026-07-10 · ko · `unclassified`
-  [음악] 여러분은 의도를 가지고 데이터를 수집하고 있습니까? 그리고 그 데이터가 여러분의 조직에 진정한 가치를 제공하도록 하고 있습니까? 오늘날 의료 환경에서 혁신은 연결된 AI 기반 통합 접근 방식을 통해 뒷받침되는 우수한 데이터 선별에 달려 있습니다 . 데이터가 보여주는 내용과 그것이 목표와 어떻게 부합하는지 이해하고 신뢰할 수 있다면, 추측이 아닌 증거에 기반한 경쟁 우위를 확보할 수 있습니다. 반대로, 최소한의 요건만 충족하는 데이터에 만족하면 해당 정보를 활용하는 음악 관련 사용 사례의 수와 다양성을 확장함에 따라 후속적인 문제가 발생할 위험이 있습니다
+- **[Hugging Face breach: OpenAI’s model breaks containment](https://www.youtube.com/watch?v=7eCM7jsfbeA)** — 2026-07-24 · ko · `AX`
+  모델들은, 특히 최첨단 모델들은, 매우, 매우 끈질긴 단계에 이르렀습니다. 특정한 목표를 제시하고, 그 목표를 달성할 수 있는 수학적 방법이 존재한다면 , 그들은 해낼 겁니다. 그들이 해결할 수 있겠죠? 그건 당신이 그 경계를 얼마나 엄격하게 제한하느냐에 달려 있습니다. 오늘 전문가 패널 토론에서 이 모든 것과 그 이상의 이야기를 들어보세요 . [음악] 저는 팀 황이고, Mixture of Experts에 오신 것을 환영합니다 . MOE는 매주 인공지능 분야의 최고 전문가들을 초청하여 항상 흥미진진한 한 주간의 뉴스를 심도 있게 논의하는 자리를 마련합니다 .
 
-- **[Data Transformation: Trusting data Availability and Selection](https://www.youtube.com/watch?v=Pe8Lwi8YIKY)** — 2026-07-10 · ko · `unclassified`
-  신뢰할 수 있고 체계적인 접근 방식을 통해 의료 데이터의 잠재력을 극대화하고 계십니까? 오늘날의 데이터 환경을 헤쳐나가기 위해서는 강력한 거버넌스, 엄격한 품질 관리 및 포괄적인 개인정보 보호 프로토콜에 기반한 규율이 ​​필요합니다. 신뢰할 수 있는 분석 생태계를 구축하는 것은 이러한 인사이트에 의존하는 사용자들의 지속적인 피드백을 바탕으로 가장 관련성이 높고 품질이 우수한 데이터만을 선별하는 것에서 시작됩니다. 각 데이터 포인트를 꼼꼼하게 분류하면 모든 자산이 목적에 부합하는지 확인할 수 있습니다.
+- **[Knowing When Not to Use AI: AI Agents vs Rules vs ML](https://www.youtube.com/watch?v=_ZqSFVi6UDY)** — 2026-07-23 · en · `AX`
+  It's incredibly easy to fall into&nbsp; the trap of using AI for everything.&nbsp;&nbsp; Many teams are starting to integrate AI agents&nbsp; all across their systems. And why wouldn't they?&nbsp;&nbsp; AI agent systems are undeniably powerful. There's&nbsp; no doubt about it. But we need to stay strategic&nbsp;&nbsp; about where and whether we want to inject AI&nbsp; into our systems. AI is not magic and it's not&nbsp;&nbsp; the best solution for everything.
 
-- **[IQVIA Vigilance Platform with AI Assistant](https://www.youtube.com/watch?v=CMkK5CspWL0)** — 2026-07-10 · ko · `unclassified`
-  약물감시에서 사례 접수는 복잡하고 시간이 많이 소요되며 규정 준수에 매우 중요합니다. AI 어시스턴트가 탑재된 IQVIA 감시 플랫폼은 사건 접수 과정을 자동화하여 사건 접수 초기 단계부터 속도, 정확성 및 일관성을 향상시킵니다 . [음악] 이상반응 보고서가 접수되면 CIOMS, MedWatch 및 회사 SAE 양식과 같은 구조화된 양식 이든 이메일과 같은 비구조화된 문서이든 관계없이 AI 어시스턴트가 탑재된 Vigilance Platform은 각 소스 파일을 자동으로 분류하고 데이터를 추출합니다.
+- **[GPT-Red: Can AI red teams stop prompt injections?](https://www.youtube.com/watch?v=g4CNcUAqM4Q)** — 2026-07-22 · ko · `AX`
+  GPT Red는 자동화된 레드팀 활동을 수행하고, Scam Buster는 자동화된 사기 차단 활동을 수행합니다. 패널 여러분, 어떻게 생각하시나요? 그렇다면 이제 모든 것을 봇에게 넘겨줄 때가 된 걸까요 ? 키미, 당신부터 시작하죠. 아니요, 아직 봇에게 넘겨줄 때가 아닙니다. 애초에 누가 이 악순환을 시작했나요 ? [웃음] 저는 요리만 로봇에게 맡길 준비가 되어 있어요 . 그런 도구가 있다면, 전 적극 찬성이에요. 남들과 다르게, 모두가 안 된다고 해도 '네'라고 말하고 싶어요. 절대 안 돼요.
 
-- **[Data Transformation: AI-Ready Data and Analytics](https://www.youtube.com/watch?v=X63xWvVc3Wo)** — 2026-07-01 · en · `unclassified`
-  Imagine accessing the full power [music] of your healthcare data analytics with AI ready information that fuels faster, smarter decisions for every team. With agile models that classify patients accurately [music] and adapt to diverse needs, you won't be left waiting for days or weeks to get critical answers. Instead, you'll stay ahead, responding instantly [music] to new questions and market shifts. The key?
+- **[Is Fine-Tuning Still Needed? LLMs, RAG, & LoRA](https://www.youtube.com/watch?v=-W2JdSl1v48)** — 2026-07-21 · ko · `AX`
+  대규모 언어 모델을 미세 조정하는 작업이 오늘날에도 여전히 필요한가요? 유명한 법률 AI 회사를 예로 들어보겠습니다. 이 회사는 2023년에 프론티어 랩과 협력하여 자체 맞춤형 AI 모델을 정교하게 다듬었습니다. 블라인드 테스트에서 변호사들은 당시 프론티어의 GPT-4 모델보다 이 정교하게 조정된 모델을 더 선호했습니다 . 그들은 97%의 경우에 그것을 선호했습니다 . 미세 조정의 승리입니다. 그들은 변호사들이 기존의 대표적인 모델보다 실제로 더 선호하는 맞춤형 AI를 개발했습니다 .
 
-- **[Data Transformation: Agile Data Publication Drives Speed to Insights](https://www.youtube.com/watch?v=40Oqp6x2S_w)** — 2026-07-01 · en · `unclassified`
-  Are you prepared to realize the full value of your healthcare data with a partner you can trust? Leading life science organizations require flexible platform neutral data solutions. Whether you're working with AI, cloud platforms like Snowflake, visualization tools such as Tableau, or legacy systems, &gt;&gt; [music] &gt;&gt; IQVIA is committed to delivering analytics ready data customized to your unique needs without forcing you into a single technology.
+- **[6 Ways to Enhance Developer Productivity with AI](https://www.youtube.com/watch?v=9LfJq4xXifg)** — 2026-07-20 · ko · `DX`
+  곰곰이 생각해 볼 만한 모순이 하나 있습니다 . 2026년에는 지구상에서 출하되는 코드의 41%가 AI에 의해 작성될 것이다. 맥켄지는 최고의 AI 활용 소프트웨어 기업들이 생산성에서 16~30%의 향상을, 코드 품질에서는 최대 45%의 향상을 경험하고 있다고 말합니다 . 이 수치들은 실제 팀들의 실제 기록입니다 . 2026년에는 개발자들이 AI가 제시하는 제안의 70%를 거부하는 현상도 나타날 것입니다 . Stack Overflow 개발자 설문조사에서 가장 많이 언급된 불만 사항은 "거의 맞지만, 완벽하진 않다"였습니다.
 
-- **[Data Transformation: Build for Future Fitness](https://www.youtube.com/watch?v=sGMeFRqRAtw)** — 2026-07-01 · ko · `unclassified`
-  귀사는 향후 수년간 생명과학 조직을 지원하도록 설계된 데이터 생태계에 투자하고 계십니까 ? 음악에서 신뢰는 가장 중요합니다. 당장의 필요는 해결할 수 있지만 미래의 불확실성을 야기하는 단편적인 해결책은 피해야 합니다. 의료 음악 분야 전문가와 협력하면 통합, 분석 및 데이터 게시 전반에 걸쳐 일관되고 안정적인 지원을 받을 수 있습니다. IQVIA는 탁월한 실적을 바탕으로 포괄적인 데이터 솔루션, 첨단 기술, 유연하고 맞춤화된 서비스를 제공합니다 . 미래에도 데이터를 안전하게 보호하고 더욱 스마트하고 신뢰할 수 있는 의사 결정을 내릴 수 있도록 자신 있게 선택하세요.
+- **[Why RAG Solutions Fail with Complex Documents & Vector Databases](https://www.youtube.com/watch?v=xc63tFIIfeA)** — 2026-07-19 · ko · `AX`
+  인간은 복잡한 존재이다. 우리의 존재가 복잡하기 때문에 우리의 언어도 복잡합니다. 그것은 우리 복잡한 두뇌만이 해독할 수 있는 미묘한 차이와 뉘앙스로 가득 차 있습니다. 이러한 복잡성은 인공지능이 이해하고 포착하기 어려울 수 있습니다. 복잡한 문서를 기반으로 한 RAG 솔루션은 혼란스럽거나 심지어 잘못된 결과를 초래할 수 있습니다 . 이 영상에서는 복잡한 문서 세트를 다룰 때 실용적인 해결책을 구축하는 방법에 대해 알아보겠습니다 . 친구에게 "2020년 NCAA 미식축구 전국 선수권 대회 우승팀이 누구였어?"라고 물어본다고 가정해 봅시다.
 
-- **[Japan Clinical Trials: Activity, Trends & Global Competitiveness | Pharma Market Insights #2](https://www.youtube.com/watch?v=NiGziA7Nam0)** — 2026-07-01 · ko · `unclassified`
-  IQVIA Japan 일본 지사 리더십 팀을 대표하여 일본 [음악] 제약 시장의 혁신 주도 기회에 대한 저희 시리즈에 참여해 주셔서 감사합니다. 100여 개국에 사무소를 두고 있는 IQVIA는 판매, 처방 및 청구 데이터를 포함한 데이터 분석 분야에서 세계적인 선도적 지위와 광범위한 실제 데이터 자산 및 컨설팅 역량을 활용하여 제약 시장에 대한 통찰력을 제공합니다. 여기 일본에서 일본 사상 리더십 팀은 의료 [음악] 분야 이해관계자들이 변화의 복잡성을 헤쳐나갈 수 있도록 지원합니다.
+- **[Thinking Machines Lab drops Inkling & Meta’s Muse Spark 1.1](https://www.youtube.com/watch?v=8rGYGFmytQs)** — 2026-07-17 · ko · `AX`
+  다시 말하지만, 토론 주제는 더 이상 순위표가 아닙니다. 개방형 음악 기반에 세밀 조정 플랫폼을 더하는 것이 폐쇄형 모델이나 다른 모델 전략보다 더 나을 수 있다는 거죠? 오늘 '전문가들의 만남'에서는 이 모든 것과 [코웃음] 그 이상의 이야기들을 다룹니다. [음악] 저는 팀 홍이고, Mixture of Experts에 오신 것을 환영합니다 . 매주 Moe [음악]는 인공지능 분야 최고의 재담들을 모아 이번 주 뉴스들을 한눈에 파악할 수 있도록 도와드립니다.
 
-- **[Japan Drug Approvals: Regulatory Trends & Speed of Innovation | Pharma Market Insights #3](https://www.youtube.com/watch?v=ct2p4Vh9lJs)** — 2026-07-01 · ko · `unclassified`
-  아이큐비아 재팬(IQVIA Japan) 전 직원을 대표하여 일본 제약 시장의 혁신 주도 기회에 대한 저희 시리즈에 참여해 주셔서 감사합니다. 100여 개국에 사무소를 두고 있는 IQVIA는 판매, 처방 및 청구 데이터 등 데이터 분석 분야에서 세계적인 선도적 입지 와 광범위한 실제 데이터 자산 및 컨설팅 역량을 활용하여 제약 시장에 대한 통찰력을 제공합니다. 일본에서는 일본 대표단이 의료계 이해관계자들이 복잡한 변화에 대처할 수 있도록 지원하고 있습니다.
+- **[Why Risk Should Determine Your AI Architecture](https://www.youtube.com/watch?v=3G6AVkp4Rf0)** — 2026-07-16 · ko · `unclassified`
+  최근에 공공 부문 지도자 한 분과 대화를 나눴습니다. 그들은 인공지능을 만드는 게 요즘엔 아주 쉽다고 말했어요. 인공지능이 인공지능을 만들도록 하면 되죠. 그리고 그들의 말이 틀리지 않다. 쉬운 AI와 위험에 적합한 AI라는 두 가지가 있는데, 이 둘은 전혀 다른 것이기 때문에 많은 것들을 잘못 만드는 것은 쉽습니다. 대부분의 팀은 이 과정을 역순으로 접근합니다. 그들이 시스템을 구축했다 . 그렇다면 누가 그것을 감독해야 하는지 물어보십시오.
 
-- **[Japan Drug Launch: Market Access & Commercialization Dynamics | Pharma Market Insights #4](https://www.youtube.com/watch?v=4Jp3UeDQ9Zg)** — 2026-07-01 · ko · `unclassified`
-  IQVIA Japan의 일본 리더십 팀을 대표하여 일본 제약 시장의 혁신 주도 기회에 대한 시리즈에 참여해 주셔서 감사합니다 . 100여 개국에 사무소를 두고 있는 IQVIA는 판매, 처방 및 청구 데이터를 포함한 데이터 분석 분야에서 세계적인 선도적 입지를 활용합니다. 또한 당사는 광범위한 실제 데이터 자산 과 컨설팅 역량을 활용하여 제약 시장에 대한 통찰력을 제공합니다. 일본에 있는 일본 사상 리더십 팀은 의료계 이해 관계자들이 복잡한 변화에 대처할 수 있도록 지원합니다.
+- **[GLM-5.2: The real security risk? Plus: Vibe hunting, the end of CVSS and updates on Lightwell](https://www.youtube.com/watch?v=qXGJ7pi-XOo)** — 2026-07-15 · ko · `AX`
+  개방형 가중치 모델이 적어도 일부 영역에서는 신화적인 수준의 역량에 도달하고 있다는 보고가 있다 . 패널 여러분, 어떤 생각이 드시나요 ? 사악한 모그, 자네부터 시작하겠네. 제 말은, 이런 모델들이 점점 더 무서워지고 있다는 거예요. 그런데 그게 오히려 제게는 더 편하죠. 진짜 합법적인 모델들은 사이버 보안 검증 프로그램에 참여하고 있을 때조차도 사용을 막는 분류기를 점점 더 많이 추가하고 있거든요. 약간 두렵기도 하고, 약간 설레기도 하는 똑같은 감정이에요 .
 
-- **[Japan Pharma Market: Size, Growth & Global Positioning | Pharma Market Insights #1](https://www.youtube.com/watch?v=XK1pjXi09a4)** — 2026-07-01 · ko · `unclassified`
-  IQVIA Japan과 일본 [음악] 분야 리더십 팀을 대표하여 일본 제약 시장의 혁신 주도 기회에 대한 저희 시리즈에 참여해 주셔서 감사합니다 . 100개국 이상에 사무소를 두고 있는 IQVIA는 판매, 처방 및 청구 데이터를 포함한 데이터 분석 분야에서 세계적인 선도적 지위와 광범위한 실제 데이터 자산 및 컨설팅 역량을 활용하여 제약 시장에 대한 통찰력을 제공합니다 . 여기 일본에서는 일본 음악계 리더십 팀이 의료계 이해 관계자들이 복잡한 변화에 대처할 수 있도록 지원하고 있습니다.
+- **[5 AI Myths & The Truth Behind Them: ML, Context, Agents & More](https://www.youtube.com/watch?v=OWPRU_Pc4Ng)** — 2026-07-14 · ko · `AX`
+  자, 제가 여러분께 알려드릴 인공지능에 대한 오해들이 꽤 많습니다. 그러니까, 당신은 인공지능과 대화를 나누고 있고, 인공지능이 당신에게 답변을 해주는 겁니다. 하지만 당신은 그 답변이 완전히 옳다고 확신하지 못하는군요. 그래서 당신은 "정말 확실해요?"라고 되묻는 거죠. 자, 시청자 여러분께 드리는 제 질문은 바로 이것입니다. "정말 확실하세요?" 모델이 실제로 작업을 다시 확인 하고 더 정확한 답변을 제공하도록 하려면 어떻게 해야 할까요? 음, 그런 속설이 있긴 하지만, 오히려 정반대의 효과가 있을 가능성도 꽤 높습니다.
 
-- **[The Future of Work in Life Sciences](https://www.youtube.com/watch?v=feK98iTyY6M)** — 2026-07-01 · en · `unclassified`
-  [music] &gt;&gt; What if bringing therapies to market was no longer defined by a maze of legacy systems [music] and processes, but instead a streamlined intelligent journey? [music] We're not talking about mere improvements. This is about a step change in efficiency. [music] Welcome to your Agilent AI future. A future where AI resources [music] seamlessly integrate into your own IT ecosystem. A future where agents execute workflows &gt;&gt; [music] &gt;&gt; and know when to bring humans in for reviews.
+- **[What is an AI Code Generator? LLM Coding, Productivity, & Risk](https://www.youtube.com/watch?v=oanQrXEiCy4)** — 2026-07-13 · ko · `AX`
+  1952년, 그레이스 호퍼라는 프로그래머가 최초의 컴파일러를 만들었습니다. 사람이 읽을 수 있는 코드를 하드웨어 에서 실행되는 기계어 명령어로 변환하는 도구 . 반응은 맹렬했다. "진정한 프로그래머는 기계어 코드를 작성한다"고 비평가들은 말했다. "컴파일러는 똑똑하지 않은 사람들이나 쓰는 거였어. 우리를 게으르게 만들고, 프로그래밍하는 방법을 잊게 만들겠지 ." 왠지 익숙한 이야기인가요? 그와 같은 논쟁은 그 이후 모든 세대에서 반복되어 왔습니다. 고급 언어, IDE, 가비지 컬렉션, 자동 완성.
 
-- **[ヘルスケア人財のためのキャリアサイト「HEALTHCARE CAREER PARK」](https://www.youtube.com/watch?v=ovxtguSQdX4)** — 2026-06-18 · ko · `unclassified`
-  건강 관리 산업에서의 경력. 그것은 특별 한 사람만의 이야기가 아닙니다. 먼 누군가에 보다 친숙한 사람을 도와주고 싶다. 필요 될 수있는 보람을 느끼고 싶습니다. [음악]이라는 생각만 있으면 여기에서 새로운 길이 열립니다. 건강 관리 커리어 파크는 의료 [음악] 업계 에 대해 알고, 배우고, 동료와 연결 장소 [음악]이며 경력 더 나은 미래로 가속시킵니다. 미경험자 하지만 아는 것부터 시작된다. 경험자라도 전문성을 깊게 하는 장소가 있다. 함께 배우고 함께 성장[음악]할 수 있는 동료가 있다.
+- **[How to Manage Your AI Before It Makes the Wrong Decision](https://www.youtube.com/watch?v=SVAwzodyFUo)** — 2026-07-12 · ko · `unclassified`
+  은행이 대출을 거부했습니다. 설명도, 항소도 없이, 그저 AI의 결정일 뿐입니다. 이제 스스로에게 물어보세요. 누가 그 모델을 검증했습니까? 배포 후 누가 모니터링했습니까? 잘못이 발생했을 때 누가 책임져야 할까요? 대부분의 기업은 그 질문에 대한 답을 모르고 있으며 , 바로 그 부분이 격차입니다. 이 모든 것을 관리할 수 있는 AI 관리 시스템이 필요합니다 . 그리고 좋은 소식은, 우리에게는 하나가 있다는 것입니다. 저처럼 사이버 보안 분야에 종사하는 사람이라면 국제 표준화 기구(ISO)에 대해, 특히 정보 보안 관리 시스템에 대한 국제 표준인 27001에 대해 들어봤을 가능성이 높습니다
 
-- **[Research Brief: U.S. Medicine Use Trends 2026 | IQVIA Institute](https://www.youtube.com/watch?v=bW8sENDEHv0)** — 2026-06-15 · ko · `unclassified`
-  안녕하세요, 저는 IQVIA 인간 데이터 과학 연구소의 전무이사인 머레이 에이트켄입니다. 오늘 저는 연구소의 부연구 책임자인 제이미 프리처드와 함께 저희의 새로운 보고서인 '2026년 미국 의약품 사용 동향'에 대한 간략한 개요를 말씀드리기 위해 이 자리에 섰습니다. 이 보고서는 연구소의 주요 연구 보고서 중 하나이며, 90페이지에 걸쳐 약 70개의 도표를 포함하고 있습니다. 저희는 외부 자금 지원 없이 공공 서비스의 일환으로 이 자료를 제작하고 있으며, 미국 의약품 시장의 역학 관계, 의약품 사용 및 비용 등 환자, 지불자 및 기타 이해 관계자 모두에게 유용한 근거 자료를 제공하는 데 기여하기를 바랍니다.
+- **[Reddit cracks down on AI slop & the future of AI compute](https://www.youtube.com/watch?v=WHFLWrnFc1E)** — 2026-07-10 · ko · `AX`
+  인공지능이 일상생활의 패턴에 자연스럽게 녹아들고 대부분의 사람들이 평소 생활 리듬 안에서 인공지능을 사용한다는 점이 정말 흥미로웠고, 이는 전 세계 사람들의 정신 건강에 긍정적인 영향을 미칠 것이라고 생각합니다. 오늘 전문가들의 다양한 의견을 통해 이 모든 것과 더 많은 것을 알아보세요. 안녕하세요, 저는 팀 행입니다. 새 사무실에서 소식을 전해드리고 있으며, 다양한 전문가들이 모인 커뮤니티에 오신 것을 환영합니다. 매주 모는 인공지능 분야에서 활약하는 뛰어난 인재들을 모아 한 주간의 복잡한 기술 뉴스를 여러분께 소개합니다.
 
-- **[How to apply @IQVIA](https://www.youtube.com/watch?v=g7YMxgga8MM)** — 2026-06-04 · ko · `unclassified`
-  IQVIA에 합류해 주시면 정말 기쁠 것입니다. 음악 분야에 진출하는 가장 좋은 방법은 저희 채용 페이지를 방문하는 것입니다. 저희 채용 정보는 jobs.iqvia.com에서 확인하실 수 있습니다 . 신청 절차는 간단 합니다. 지원하고 싶은 직책을 찾으면 ' 지원하기' 버튼을 누르세요. 그러면 저희 워크데이 시스템으로 이동하여 몇 가지 질문에 답하고 이력서를 업로드하게 됩니다. 답변에 만족하시면 제출 버튼을 누르시면 됩니다. 지원서를 제출하시면 인재 채용팀에서 이력서, 보유 기술, 학력(음악 관련 경력 포함) 및 평가 응시 여부 등 지원자의 자격 요건을 검토할 것입니다
+- **[Agentic AI Frameworks Explained: Workflows, Multi-Agent, & Production](https://www.youtube.com/watch?v=ZVPlLaehjLk)** — 2026-07-09 · ko · `AT`
+  안녕. 제 생각엔 당신 주변 세상은 에이전트형 AI 시스템과 그 엄청난 잠재력으로 떠들썩할 것 같네요. 그래서 당신은 에이전트형 AI 시스템을 구축하기로 결정합니다. 최고의 프레임워크를 찾다 보니 어느새 GitHub 탭이 17개나 열려 있고, Medium 블로그도 5개나 북마크되어 있는데, 정작 어떻게 진행해야 할지는 전혀 모르겠다. 네, 우리 모두 그런 경험이 있죠. LangChain, LangGraph, Crew AI, AutoGen, Semantic Kernel 등 강력한 프레임워크가 정말 많습니다. 그렇다면, 당신은 어느 쪽을 선택하시겠습니까?
 
-- **[Research Brief: Global R&DS Trends 2026 | The IQVIA Institute](https://www.youtube.com/watch?v=7sJ6cb83oL0)** — 2026-04-27 · ko · `unclassified`
-  [음악] 저는 IQVIA 인간 데이터 과학 연구소의 전무이사인 머레이 에이트켄입니다. 오늘 저는 연구소의 연구 개발 책임자인 알렉스 롤랜드와 함께 저희의 새로운 보고서, '2026년 글로벌 연구 개발 동향'에 대한 간략한 개요를 말씀드리기 위해 이 자리에 섰습니다. 연구 개발 동향은 저희 연구소의 주요 연구 분야 중 하나이며 , 이 보고서는 [음악] 100페이지에 걸쳐 83개의 도표를 포함하고 있습니다.
+- **[Fable 5, GPT-5.6 and the high stakes of AI safeguards. Agentic ransomware, ClickFix reigns supreme](https://www.youtube.com/watch?v=HQDT_1OXUuU)** — 2026-07-08 · ko · `AX`
+  지난주, Anthropic과 Open AI는 모두 강력한 새 모델을 공개했으며, 두 회사 모두 해당 모델의 안전장치에 대해 상당히 강조했습니다 . 패널 여러분, 현재 AI 모델 보안의 현황에 대해 어떻게 생각하시는지 궁금합니다. 제가 가장 좋아하는 말 중 하나는 ' 변화만이 유일한 불변의 진리다'라는 것입니다. 그래서 인공지능 모델의 변하지 않는 특징은 바로 끊임없이 변화한다는 점입니다. 그러니까 지금 그들이 마음에 든다고 해도 , 그들은 변할 겁니다. 그렇게 하지 않으면, 그들은 변할 겁니다.
 
-- **[医薬品安全性情報の収集・インテイクの効率化を、高度に自動化された統合ワークフローで実現するIQVIA IVP Collect / IVP Intake](https://www.youtube.com/watch?v=fGQ7vYVsWQ8)** — 2026-04-27 · ko · `unclassified`
-  예산 감소, 복잡한 데이터 소스, 다양성 규제 및 언어 요구 사항 등이 안전 보고서 일상적인 과제가 되고 있습니다. IQIA 비지 플랫폼은 AI와 자동화, 라이프 과학의 지견을 활용하여 데이터 품질 향상, 안전성보고가 간단하게 더욱 일본 국내 컴플라이언스 [음악] 위치 에 기여합니다. 일본어 인터페이스와 현지 요구 사항에 맞게 [음악] 워크플로우가 있는 IBP 콜렉트는 환자, 의료 종사자, 의약품 공급자, 의약 정보 담당자가 [음악] 유제품 문제를 성격 그리고 효율적으로보고하는 것을 요인으로 만듭니다. .
+- **[MCP vs Skills: Which Is Right for Your AI Agent and LLMs?](https://www.youtube.com/watch?v=goU9VIXA8II)** — 2026-07-07 · ko · `AX`
+  LLM에 기능을 추가하고 싶다면 MCP 서버 와 스킬을 살펴보세요. 왜냐하면 LLM은 매우 범용적인 학위이고, 많은 것을 알고 있기 때문입니다. 자, 저는 이 두 가지 개념이 모든 유형의 사용 사례에 관계없이 LLM에 사용자 지정 및 고유 데이터를 추가하는 데 어떻게 도움이 될 수 있는지 보여드리고 싶습니다. 이는 코딩 지원이나 추가 정보 및 데이터를 입력하는 데 사용될 수 있습니다. 아니면 인공지능 에이전트를 개발하고 있는 경우겠죠? 또는 다른 많은 사용 사례가 있습니다.
 
-- **[Data Transformation – Level up the Data Manufacturing Process](https://www.youtube.com/watch?v=8Sf7SGETjsk)** — 2026-04-24 · ko · `unclassified`
-  복잡한 것을 명확하게 바꿔주는 전문가의 안내를 받으며 데이터 여정을 시작한다고 상상해 보세요. 마치 숙련된 제빵사가 간단한 재료로 완벽한 작품을 만들어내는 것과 같습니다. IQVIA의 검증된 데이터 생성 및 변환 역량을 통해 고객은 목표에 맞춰 세심하게 구성된 분석 준비 완료된 자산을 얻을 수 있습니다. 모든 데이터 세트는 신중하게 수집되며 정확성, 신뢰성 및 측정 가능한 비즈니스 가치를 보장하기 위해 고급 방법론을 활용한 엄격한 품질 보증 과정을 거칩니다. 투명성과 탁월함을 추구하는 파트너를 신뢰하십시오.
+- **[What Is AI Code Refactoring? Agentic AI & Safe Code Changes](https://www.youtube.com/watch?v=f84XbvASkk4)** — 2026-07-06 · ko · `unclassified`
+  대규모 언어 모델은, 음, 확률적 추측 기계라고 할 수 있습니다. 그리고 이러한 추측 도구들이 실제 운영 중인 코드를 다시 작성하는 데 사용되고 있습니다. 이를 AI 코드 리팩토링이라고 합니다. 그리고 우리가 던져야 할 질문은, 이러한 추측 기계들을 기업 코드에 풀어놓는 것이 정말 안전한가 하는 것입니다. 음, 간단히 말해서 코드 리팩토링은 프로그램을 변경하는 것을 의미합니다. 이는 프로그램의 내부 구조를 파악하는 것을 의미합니다. 음, 아마 이런 모습과 비슷할 거예요 . 그리고 우리는 그것을 바꾸고 싶습니다
 
-- **[Data Transformation – Optimizing Ingestion, Integration and Quality](https://www.youtube.com/watch?v=hbylS_JU1Tw)** — 2026-04-24 · ko · `unclassified`
-  귀사의 의료 데이터는 서로 분리된 사일로에 갇혀 있어 의미 있는 인사이트를 추출하기 어렵습니까? 원활한 데이터 통합과 엄격한 품질 보증을 달성하는 것이 필수적입니다. 처방 데이터의 5P(제품, 가격, 유통, 판촉, 유통 ... 검증된 전문가와 협력하면 데이터의 복잡성을 진정한 경쟁 우위로 전환하고, 엄격한 개인정보 보호를 보장하며, 신뢰할 수 있는 분석 준비 자산을 제공할 수 있습니다. 전문가가 주도하는 사려 깊은 데이터 통합 ​​접근 방식이 어떻게 조직이 더 나은 성과를 자신 있게 달성할 수 있도록 지원하는지 경험해 보십시오 .
+- **[AI Gave You A Promotion: Why AI Isn’t Replacing Jobs](https://www.youtube.com/watch?v=1ItQnh3LWeg)** — 2026-07-05 · ko · `unclassified`
+  최근 뉴욕에서 한 주 정부 기관의 최고 정보 책임자와 이야기를 나누던 중, 그는 인공지능이 직무 역할에 미치는 영향에 대해 흥미로운 관점을 제시해 주었습니다. 요즘 많은 사람들이 우려하는 주제이며, 그럴 만한 이유가 있습니다. 저는 이전에 AI가 일자리를 없앨지 아니면 만들지에 대한 영상을 제작한 적이 있습니다. 미리 말씀드리지만, 답은 확실히 '예'입니다. 그리고 제본스 역설이라는 것에 대해 이야기하고, 그것이 인공지능 시대에 실제로 인력 수요가 증가할 것을 예측하는 것으로 볼 수 있는 방식에 대해서도 이야기해 보겠습니다
 
-- **[Vigilance Detect + Extract: Turning Patient Support Data into Actionable Safety Intelligence](https://www.youtube.com/watch?v=Nir0td6W5k8)** — 2026-04-22 · ko · `AX`
-  제약 회사들은 간호 교육, 본인 부담금, 복약 순응도, 전문 약국 연계 등 다양한 분야에 걸쳐 수백 가지의 환자 지원 프로그램을 운영하고 있습니다. 그러한 상호 작용은 단순히 접수 양식에 그치지 않습니다 . 여기에는 이메일, 의료 문서, 보험 문서, 수신 및 발신 전화, SMS, 채팅, IVR, 그리고 점점 더 AI 기반 봇 대화가 포함됩니다. 음성 및 디지털 홍보 활동이 확대됨에 따라 비정형 콘텐츠의 양이 빠르게 증가하고 있으며, 그 안에는 기업이 인지한 후 7일 또는 14일 이내에 식별, 평가 및 보고해야 하는 부작용 사례와 제품 품질 불만이 숨겨져 있습니다
+- **[GPT-5.6 Sol, FIFA AI & Wall Street’s AI nerves](https://www.youtube.com/watch?v=tV5zXS78HzU)** — 2026-07-03 · ko · `AX`
+  음, 오픈아이얼의 원래 대외적인 성격을 생각해 보면, 그것은 오로지 안전성 확보에 관한 것이었습니다. 그러니까, 2019년경 그들의 웹페이지를 다시 살펴보면, 바로 그런 내용을 볼 수 있을 겁니다. 오늘 전문가 토론에서 이 모든 것과 그 이상의 이야기를 들어보세요 . 저는 팀 황입니다. [음악]이고, Mixture of Experts에 오신 것을 환영합니다. MOE는 매주 인공지능 분야의 연구원, 개발자, 사상가들을 한자리에 모아 한 주간의 주요 소식을 전해드립니다.
 
-- **[Data Transformation: Acquiring the Data You Need](https://www.youtube.com/watch?v=IuVpJJzZ3bE)** — 2026-04-13 · ko · `unclassified`
-  조직에 진정한 가치를 제공하는 데이터를 의도적으로 수집하고 있습니까 ? 오늘날 의료 환경에서 혁신은 연결된 AI 기반 통합 접근 방식을 통해 뒷받침되는 우수한 데이터 선별에 달려 있습니다 . 데이터가 보여주는 내용과 그것이 목표와 어떻게 부합하는지 이해하고 신뢰할 수 있다면 , 추측이 아닌 증거에 기반한 경쟁 우위를 확보할 수 있습니다 . 반대로, 최소한의 요건만 충족하는 데이터에 만족하면 해당 정보에 대한 사용 사례의 수와 다양성을 확장함에 따라 후속적인 문제가 발생할 위험이 있습니다 .
+- **[What Is an API? Types, Uses, & AI Integration](https://www.youtube.com/watch?v=Qw8qVSZEWBc)** — 2026-07-02 · ko · `unclassified`
+  API는 우리 일상생활 곳곳에 존재합니다. 모바일 앱을 사용하여 날씨를 확인하거나, 차량을 예약하거나, 음식을 주문할 때, 여러분은 API와 상호 작용하는 것입니다. 지도를 표시하는 웹사이트, 소셜 미디어 피드, 심지어 온라인 쇼핑 카트까지 모두 다양한 소스에서 데이터를 가져와 표시하기 위해 API에 의존합니다 . 그렇다면 API란 무엇일까요? API(애플리케이션 프로그래밍 인터페이스)는 서로 다른 소프트웨어 앱들이 통신 하고 상호 작용할 수 있도록 하는 규칙, 프로토콜 및 도구 집합입니다. API를 단순히 코드로만 생각하지 말고, 현대 세계를 하나로 묶어주는 보이지 않는 디지털 접착제로 생각하십시오 .
 
-- **[Data Transformation: Trusting data Availability and Selection](https://www.youtube.com/watch?v=JLWSZxv0iaI)** — 2026-04-13 · ko · `unclassified`
-  [음악] 신뢰할 수 있는 체계적인 접근 방식을 통해 의료 데이터의 잠재력을 극대화하고 계십니까? 오늘날의 데이터 환경을 헤쳐나가기 위해서는 강력한 거버넌스, 엄격한 품질 관리 및 포괄적인 개인정보 보호 프로토콜에 기반한 규율이 ​​필요합니다. 신뢰할 수 있는 분석 생태계를 구축하는 것은 [음악] 이러한 인사이트에 의존하는 사용자들의 지속적인 피드백을 바탕으로 가장 관련성이 높고 품질이 우수한 데이터만을 선별하는 것에서 시작됩니다. 각 데이터 포인트를 철저하게 분류함으로써 모든 자산이 목적에 부합하도록 보장하고, 신뢰할 수 있는 데이터가 신뢰할 수 있는 결과로 이어진다는 원칙을 강화합니다.
+- **[The new post-quantum cryptography executive order. Plus: What is Q-Day, really?](https://www.youtube.com/watch?v=RYUR9BdDgyI)** — 2026-07-01 · ko · `unclassified`
+  사이버 보안 담당자로서 우리는 정말 큰 과제와 많은 정보들을 접하게 될 것입니다 . 우리가 많이 들어본 최첨단 AI 모델이 아니더라도 , AI 자체와 그것을 안전하고 보안이 유지되는 방식으로 구현하는 방법에 대한 논의도 분명히 중요합니다. Q-데이. 양자 컴퓨팅 기술이 웹사이트, 이메일, 디지털 서명, 은행 계좌, 블록체인 등 모든 것을 보호하는 데 사용하는 공개 키 암호화를 마침내 해독할 수 있게 되는 날을 그렇게 부릅니다. 그리고 그 변화는 우리가 생각하는 것보다 더 빨리 다가올지도 모릅니다 .
 
-- **[Expanding Options for Emerging Biopharma in the U.S.: A conversation with Meg Hooton, IQVIA Biotech](https://www.youtube.com/watch?v=inBVghVip7M)** — 2026-03-16 · ko · `unclassified`
-  저는 머레이 에이컨이고, 오늘 제 동료인 멕 후인과 함께 이 자리에 섰습니다. 저희는 최근 미국에서 신흥 바이오마커의 선택지를 확대하는 것에 대한 보고서를 발표했습니다. 이는 저희가 진행한 연구를 바탕으로 한 것으로, 신흥 바이오제약 회사들이 신약 발견 연구부터 임상 시험 활동, 개발 생산성, 그리고 신약 출시 및 상업화에 이르기까지 전체 혁신 생명주기에서 어떻게 더 큰 역할을 수행하고 있는지를 살펴본 것입니다. 음, 그리고 이 연구에서 살펴본 것은 지난 10년 동안 근거 기반 실천(EBP) 기업들이 전략적 방향 설정에 있어 더 많은 선택권을 갖게 되었다는 점입니다
+- **[How KV Cache Speeds Up LLMs for Faster AI Models on GPUs](https://www.youtube.com/watch?v=o0gkdZBtwEg)** — 2026-06-30 · ko · `AX`
+  현재 대규모 언어 모델을 실행 중입니다. 사용자가 한 명일 경우, 첫 토큰 생성 시간은 매우 빠릅니다. 사용자가 10명에 이르면 지연 시간이 증가하기 시작합니다. 하지만 100에 도달하면 GPU 메모리 사용량이 급증하고 처리량이 급격히 떨어지는 것을 볼 수 있습니다. 그리고 모든 과정은 돈 낭비입니다. 모델 자체가 문제의 원인이 아니라, 추론 과정에서 메모리가 사용되는 방식이 문제일 가능성이 높습니다 . 구체적으로, 모델이 토큰 단위로 구축하는 컨텍스트를 저장하고 검색하는 방식입니다 .
 
-- **[Global Medicine Use Trends 2026 | IQVIA Institute](https://www.youtube.com/watch?v=NkImiRC0oBA)** — 2026-03-09 · ko · `unclassified`
-  저는 Icuia 인간 데이터 과학 연구소의 전무이사인 머레이 아켄입니다. 오늘 저는 동료인 마이클 클라인록과 함께 2026년까지의 글로벌 의약품 사용 동향 보고서를 소개해 드리기 위해 이 자리에 섰습니다. 올해 보고서는 전 세계적으로 증가하는 의약품 사용 과 의약품이 다루는 질병 분야, 그리고 관련 비용에 대해 심층적으로 분석합니다. 이는 최근 몇 년 동안 많은 이해관계자들에게 중요한 문제로 대두되었습니다 . 특히 미국 행정부가 제안하고 있는 세계 시장과 약가 책정 방식의 잠재적 변화를 고려하면 더욱 그렇습니다
+- **[What Is AI Code Review? Fixing Slow PRs & Broken Workflows with AI](https://www.youtube.com/watch?v=0-YCleDw-Po)** — 2026-06-29 · ko · `AX`
+  모든 개발자는 이런 기분을 압니다. 풀 리퀘스트를 제출하고 나면 기다리고 또 기다립니다. 그리고 마지막으로 " 괜찮아 보이네요"라는 피드백을 받게 됩니다. 그런데 일주일이 지난 지금, 해당 브랜치에는 새로운 병합 충돌이 50개나 생겼습니다. 단순히 검토가 느린 것만이 문제는 아닙니다. 이는 PR부터 파이프라인을 거쳐 최종적으로 프로덕션 환경에 배포되기까지 전체 워크플로우 전반에 걸쳐 발생하는 마찰입니다. 이로 인해 팀의 작업 속도가 느려지는데, 더 나은 방법이 분명 있을 거예요, 그렇죠? 바로 이런 점에서 AI 코드 리뷰가 등장합니다.
 
-- **[Research Brief: Digital Health Trends 2025 |The IQVIA Institute](https://www.youtube.com/watch?v=WaNTDsbrKFo)** — 2026-03-06 · ko · `unclassified`
-  저는 IQVIA 인간 데이터 과학 연구소의 전무이사인 머레이 에이트켄입니다. 오늘 저는 동료인 다이애나 나스와 함께 여러분께 저희의 새로운 디지털 건강 트렌드 보고서를 소개해 드리기 위해 이 자리에 섰습니다. 저희는 2013년부터 이 분야의 발전을 추적해 왔으며, 이번 보고서는 그 이후로 발간한 여섯 번째 보고서입니다. 물론 그 기간 동안 많은 것이 바뀌었고, 이번 최신 연구는 비즈니스 모델, 증거 요건, 수익 기회, 현재 상황, 앞으로의 전망, 음악, 그리고 개발자, 정책 입안자, 지불자, 제공자, 환자에게 미치는 영향에 초점을 맞추고 있습니다
+- **[The Promptware Kill Chain: How Prompt Injection Becomes AI Malware](https://www.youtube.com/watch?v=K68sqG18270)** — 2026-06-28 · ko · `AX`
+  네, 여러분은 악성 소프트웨어인 멀웨어에 대해 들어보셨을 겁니다 . 아마 랜섬웨어에 대해서도 들어보셨을 텐데, 기본적으로 누군가가 "돈을 내지 않으면 가만두지 않겠다 "라고 협박하는 거죠. 음, 스파이웨어라는 것도 있는데, 이건 은밀하게 데이터를 수집하는 프로그램으로, 시스템에 설치되어 사용자에 대한 정보를 다른 사람에게 전송하는 역할을 합니다. 그리고 원치 않는 광고 등을 계속해서 보여주는 정말 짜증나는 애드웨어도 있어요 . 자, 혹시 이전 상품 목록에 질리셨다면, 이제 새로운 목록을 준비했습니다. 프롬프트웨어. 야호.
 
-- **[IQVIA Agentic AI: Say the word](https://www.youtube.com/watch?v=-_B0nTypWKE)** — 2026-03-05 · en · `unclassified`
-  [music] Heat. Heat. &gt;&gt; [music] &gt;&gt; Heat. Heat. Heat. [music] [music] Heat.
+- **[New AI models, token minimization and IBM’s new sub-1nm chip](https://www.youtube.com/watch?v=d-hJa-yDJmQ)** — 2026-06-26 · ko · `AX`
+  우리가 이야기하는 7옹스트롬 크기의 이 트랜지스터 기술은 연산 시 50% 더 나은 성능을 제공하거나 70% 더 많은 전력을 절약합니다 . 이는 우리 음악 산업이 오랫동안 보지 못했던 엄청난 발전입니다 . [코웃음] 오늘 [음악] 전문가 믹스에서 이 모든 것과 그 이상의 이야기를 만나보세요. 안녕하세요, 저는 팀 황입니다. Mixture of Experts에 오신 것을 환영합니다 . [음악] MOE는 매주 인공지능 분야의 연구원, 개발자, 사상가들을 한자리에 모아 이번 주 [음악] 뉴스를 소개합니다.
 
-- **[IQVIA Analytics Link Ecosystem](https://www.youtube.com/watch?v=NhJi4hK66kg)** — 2026-02-19 · en · `unclassified`
-  The pharmaceutical market's [music] vast global mass of data is complex, expansive, and disconnected. To succeed, you need access to unique, interconnected [music] data sets in a user-friendly interface to gain insight as quickly and efficiently as possible, enabling data-driven decision-making. The IQVIA [music] Analytics Link ecosystem provides one integrated platform collating everything you need to assess your own and your competitors' market dynamics across drugs, diseases, and countries.
+- **[Data Science Periodic Table Explained: ML, ETL, Analytics & Workflow](https://www.youtube.com/watch?v=12lB1Cz7gUw)** — 2026-06-25 · ko · `unclassified`
+  데이터 과학은 심오한 응용 연구 분야이지만, 정말 그렇게 심오하고 복잡한 것일까요? 교차 검증, 드리프트, 클러스터링, 통계, 주성분 분석과 같은 용어들은 모두 현대 데이터 과학을 구성하는 요소들입니다. 하지만 이 모든 데이터 과학 요소들은 실제로 어떻게 서로 연결될까요? 그렇다면 이러한 데이터 과학 요소들을 데이터 과학 주기율표로 정리해 볼 수 있지 않을까요? 마틴이 인공지능 주기율표를 만든 방식처럼 말이죠. 그러니까 화학처럼, 이 모든 것이 우리가 이러한 용어들을 서로 연관 짓는 데 도움이 될 수 있습니다
 
-- **[IQVIA Institute Year-in-Review 2025](https://www.youtube.com/watch?v=RFI_zhh6kjA)** — 2026-01-29 · ko · `unclassified`
-  [음악] 저는 IQIA 인간 데이터 과학 연구소의 전무이사인 머레이 아켄입니다 . 2025년은 그 연구소에게 있어 매우 바쁜 한 해였습니다 . 저희는 24건의 보고서를 발표하고, 11건의 웹 세미나와 4건의 공개 포럼을 개최했습니다 . 저희는 70개 이상의 외부 행사에 참여했으며, 저희 연구는 700편의 학술 저널 논문에 인용되었고, IQVI 동료들과 의료 산업 및 전 세계의 많은 사람들이 다양한 환경에서 활용했습니다. 2025년은 확실히 몇 가지 중요한 변화와 불확실성을 가져왔습니다. 미국의 새 행정부는 상당한 정책 변화 제안들을 내놓았습니다
+- **[Have we finally solved social engineering? Plus: World Cup fraud, AI IDs and an IBM/OpenAI collab](https://www.youtube.com/watch?v=10XtOi4Lbes)** — 2026-06-24 · ko · `AX`
+  Dark Reading에 실린 새로운 사설에 따르면 LLM(법학 석사)이 사회 공학을 종식시킬 수 있다고 합니다. 패널 여러분, 어떻게 생각하시나요? 데이브, 먼저 너한테 던질게. 인공지능이 우리로부터 학습하여 우리가 이러한 위협으로부터 안전해질 수 있도록 하는 것은 매우 훌륭한 일이라고 생각합니다 . 사람들만 사회적으로 조작당하는 게 아닙니다. LLM(법학 석사 및 석사 과정 학생)들도 사회적으로 조작당하고 있습니다. 인간이 더 똑똑해진다고 해서 사회공학적 기법이 사라지는 것은 아닙니다. 인간이 일상적인 신뢰 결정에서 완전히 배제될 때 그런 일이 일어날 것입니다
 
-- **[Streamlining Adverse Event Intake: The Power of IQVIA Vigilance Intake](https://www.youtube.com/watch?v=QmmiIH3n76w)** — 2026-01-29 · ko · `unclassified`
-  안전팀은 다양한 출처(음악)와 형식에서 접수된 유해 사례 정보를 처리해야 합니다. Vigilance Intake는 모든 원천 데이터와 문서를 한 곳에 통합함으로써 AI와 자동화의 힘을 활용할 수 있도록 지원합니다. 모든 데이터를 한 곳에 통합하여 부작용 및 [음악] 관련 불만 접수 및 관리를 가능하게 하고, 데이터 추출, 개인 식별 정보 삭제, 데이터 유효성 검사, 자동 인코딩 및 중복 검색과 같은 핵심 활동을 혁신합니다. E2B는 자동화되어 있어 사용자의 개입 없이도 사례를 데이터베이스에 입력할 수 있으며, 사용자는 사례 검토를 위해 모든 정보에 접근할 수 있습니다
+- **[5 AI Agent Terms You Need to Know](https://www.youtube.com/watch?v=k5jYwyhDMxA)** — 2026-06-23 · ko · `AX`
+  프론티어 AI 에이전트는 상당히 유능합니다. 그들은 작업을 계획하고 사람의 개입을 최소화하면서 코드를 작성하는 데 정말 능숙합니다 . 하지만 이러한 기능을 가능하게 하는 몇 가지 구체적인 요소들이 그 이면에 존재합니다. 자, 그럼 그중 다섯 가지를 다뤄보도록 하겠습니다. 에이전트형 AI에 대해 알아야 할 다섯 가지 용어. 그럼 에이전트의 동작 방식을 결정하는 내부 요소부터 살펴보겠습니다 . 따라서 에이전트 내부에는 당연히 모델, 즉 대규모 언어 모델이 있습니다. 그것이 실제 텍스트 생성 과 추론을 수행하는 부분입니다
 
-- **[Take a tour of IQVIA's Beijing office](https://www.youtube.com/watch?v=_0MUCajJI6s)** — 2026-01-22 · ko · `unclassified`
-  여러분, 안녕하세요. IQIA [음악] 베이징에 오신 것을 환영합니다 . 저는 인재 하이브리드 에디션 팀의 채용 담당자 FA입니다. 오늘은 여러분께 저희 사무실을 간단히 소개해 드리게 되어 기쁩니다. 여기는 8층(음악실)입니다. 여기는 저희 리셉션 공간으로, 방문객과 음악 동료들이 가장 먼저 들르는 곳입니다. 자, 그럼 본사 사무실 구역을 둘러보겠습니다. 보시다시피, 이곳은 음악 작업에 집중하는 것과 팀워크를 모두 지원하도록 설계된 개방적이고 협업적인 음악 공간입니다. 유리창 너머를 보세요. 저희는 아름다운 음악 산업 지구를 가지고 있습니다.
+- **[AI in the SDLC: Rethinking AI Coding Tools & AI Agents](https://www.youtube.com/watch?v=4wMRXmLpdA8)** — 2026-06-22 · ko · `unclassified`
+  개발자들과 이야기를 나눠보면, 많은 사람들이 AI가 자신들의 일자리를 빼앗을까 봐 걱정하고 있습니다. 어쩌면 그들은 새로운 AI 지원 코딩 도구를 사용하라는 압력을 받았거나 AI에 능숙해지라는 말을 들었을지도 모릅니다. 하지만 이 모든 것이 실제로 무엇을 의미하는 걸까요? 그렇다면 미래를 위해 어떻게 준비해야 할까요 ? 대부분의 사람들은 AI가 생산성 향상과 소프트웨어 개발을 더 쉽게 만들어준다는 점 때문에 개발 속도가 빨라졌다고 생각하지만, 모델 평가 및 위협 연구 기관에서 발표한 통제 연구에 따르면 오픈 소스 개발자들은 자신이 사용하는 코딩 도구 덕분에 개발 속도가 20% 빨라졌다고 생각하는 것으로 나타났습니다
 
-- **[Transforming Regulatory Operations with IQVIA SmartSolve® RIM](https://www.youtube.com/watch?v=8YlcnFpmXyI)** — 2026-01-22 · ko · `unclassified`
-  생명과학 분야에서는 규제 요건이 끊임없이 변화하고, 팀은 제한된 자원 으로 더 많은 일을 해내야 합니다. 안전하고 효과적인 제품을 시장에 출시하고 유지하는 데 집중하는 것은 점점 더 복잡해지고 있습니다. 그렇기 때문에 전 세계 조직들이 IQS smarts solve를 신뢰하고 있으며, 이 플랫폼은 품질 및 규제 관련 활동을 포괄하는 20개 이상의 연결된 모듈을 갖춘 AI 기반 솔루션입니다. 통합 플랫폼이 없기 때문에 많은 규제 기관은 여전히 ​​RIM 활동을 위해 스프레드시트, 공유 드라이브 및 이메일에 의존하고 있습니다
+- **[3‑2‑1 Backup Rule Explained: Protect Your Data from Disaster](https://www.youtube.com/watch?v=WJzsX32qMJY)** — 2026-06-21 · ko · `unclassified`
+  3, 2, 이륙 아니면 재앙. 데이터 백업에 대해 이야기하자면, 3-2-1 규칙을 따르지 않으면 후자의 결과가 발생할 가능성이 높습니다. 그렇다면 3-2-1 규칙이란 무엇일까요? 데이터 손실로부터 사용자를 보호하기 위한 일련의 원칙입니다. 왜 관심을 가져야 할까요? 데이터는 어디에나 있습니다. 언제든지 더 만들 수 있잖아요, 그렇죠? 데이터는 현대 기업의 생명줄과 같습니다. 그건 당신만의 비법이에요. 고객 기록은 말 그대로 당신의 미래이자 과거입니다. 그리고 만약 그걸 잃어버린다면, 마치 이륙 직후 추락한 로켓에 타고 있는 것 같은 기분이 들 거예요.
 
-- **[IQVIA by the Numbers](https://www.youtube.com/watch?v=i-MYrPs4940)** — 2026-01-21 · ko · `unclassified`
-  [음악] IQIA에서는 숫자가 힘입니다. 저희는 9만 1천 명이 넘는 직원 모두가 함께 의료 서비스 발전을 위해 노력하고 있습니다. 데이터 과학자부터 역학자, 내부 지원팀, 기술 전문가, 의사, 그리고 그 외 모든 사람들까지. 우리는 100개국 이상에서 근무하는 진정한 글로벌 인력입니다. 우리의 모든 음악은 세상 모든 사람들에게 긍정적인 영향을 미치고자 하는 열정에서 비롯되었습니다. 우리는 새로운 아이디어를 현실로 구현하려는 호기심 과 다양한 경험, 역할, 지역을 아우르는 의미 있는 협력을 수용하는 능력을 공유합니다.
+- **[Microsoft’s new AI models & bots dominate the internet](https://www.youtube.com/watch?v=SvBheXuKY8s)** — 2026-06-19 · ko · `AX`
+  웹상에서 봇의 수가 인간보다 훨씬 많았던 건 꽤 오래전 일이죠? 웹 스크래퍼 같은 것들이요. 요즘 많은 사람들이 연구 과제를 위해 AI 에이전트를 통해 상호작용하고 있는데, [음악] 제 생각에는 사람들이 직접 사이트에 접속하는 것보다는 이러한 상호작용을 포착하려는 것 같습니다. 오늘 전문가 토론에서 이 모든 것과 그 이상의 이야기를 들어보세요 . 안녕하세요, 저는 팀 황입니다. Mixture of Experts에 오신 것을 환영합니다 . MOE는 매주 인공지능 분야에서 가장 뛰어난 전문가들을 모아 한 주간의 주요 뉴스를 정리해 드립니다.
 
-- **[Opportunities unlocked: Vijay's IQVIA journey](https://www.youtube.com/watch?v=Y_PKFjNOl1I)** — 2026-01-21 · ko · `unclassified`
-  [음악] IQIA에서의 제 경력 궤적과 성장은 매우 흥미로웠습니다. 저는 2015년에 합류하여 [음악] 전략 파트너이자 전략적 고객사를 이끌었습니다. 그 후 저는 인도에서 진행되는 모든 고객과 음악 프로젝트를 총괄하게 되었습니다. 저는 아시아 태평양 지역, 유럽 및 미국으로 리더십 영역을 확장할 수 있었습니다. 그것은 세계적인 역할이 되었습니다. 제가 IQVIA 음악 부서를 가장 좋아하고 사랑하는 이유는 창의력을 발휘하고 혁신할 수 있는 기회가 주어진다는 점입니다. 넉넉한 공간이 주어졌습니다. 그러니 실패하지 않는다면 음악에 충분히 노력을 기울이지 않은 것입니다
+- **[Building AI Agents for Real-World Problems & Workflows](https://www.youtube.com/watch?v=4Vg2aVtrX8k)** — 2026-06-18 · ko · `AX`
+  오늘날 인공지능 에이전트에 대한 관심이 매우 높습니다. 우리는 다양한 도구를 활용하여 계획하고, 추론하고, 행동하는 에이전트의 인상적인 데모를 보았습니다 . 하지만 진짜 문제는 우리가 그것들을 만들 수 있느냐 없느냐가 아닙니다. 진정한 질문은 인공지능 에이전트를 실제 환경에서 효과적으로 작동하게 하려면 무엇이 필요한가 하는 것입니다 . 상담원들이 데모 시스템에서 실제 운영 시스템으로 넘어갈 때 많은 어려움을 겪습니다 . 기술이 불가능해서가 아니라 , 현실 세계의 문제들이 복잡하고, 제약이 많으며, 서로 연결되어 있기 때문입니다.
 
-- **[Rewarding Work at IQVIA](https://www.youtube.com/watch?v=tBdPHvLxQ08)** — 2026-01-21 · ko · `unclassified`
-  안녕하세요, IQuvia의 보람 있는 업무 환경을 소개하게 되어 기쁩니다. 이는 IQuvia 직원들이 최대한 만족스러운 IQuvia 경험을 쌓을 수 있도록 지원하는 글로벌 프로그램 로드맵입니다 . 보람 있는 업무란 직원 복지와 음악 분야의 전문성 향상 모두에 대한 우리의 헌신을 의미합니다. 여기에는 인정과 경력 개발부터 음악과 삶의 균형을 찾는 것, 그리고 글로벌 커뮤니티에 참여하는 것까지 모든 것이 포함됩니다 . AQu의 모든 직원은 저마다 개성이 넘칩니다.
+- **[AI agents can manage your passwords. Should we let them? Plus: The biggest Patch Tuesday ever.](https://www.youtube.com/watch?v=ATIwByZ4nUA)** — 2026-06-17 · ko · `AX`
+  패널 여러분, 인공지능 에이전트에게 비밀번호 관리를 맡기시겠습니까? 미셸, 먼저 당신과 함께 가겠습니다. 상황에 따라 다릅니다 . 어떤 에이전트를 선택해야 할지, 그리고 그 에이전트가 내 비밀번호를 관리하는 것의 장단점에 대해 좀 더 자세히 알아야 할 것 같습니다. 저는 인공지능 에이전트에게 비밀번호 관리를 맡기는 것을 신뢰하지 않습니다. 아마 버전 2.0에서는 제 입장이 바뀔지도 모르겠습니다. 아직 아님 . 안녕하세요, IBM의 주간 사이버 보안 팟캐스트인 Security Intelligence에 오신 것을 환영합니다.
 
-- **[Empowering growth: Smit's IQVIA journey](https://www.youtube.com/watch?v=z7g4rUvUmTo)** — 2026-01-20 · ko · `unclassified`
-  저는 소속 기관의 캠퍼스 채용 프로그램을 통해 IQIA에서 제 커리어 여정을 시작했습니다 . 그 이후로 저는 수평적으로나 수직적으로나 상당한 성장을 경험했습니다. 저는 시장 조사팀(음악 분야)에서 분석가로 시작해서 지금은 전략 컨설팅팀의 컨설턴트로 승진했습니다 . IQIA는 풍부한 리소스와 [음악] 도구를 제공하여 제가 생명 과학 분야 고객을 위한 데이터 기반 통찰력과 [음악] 솔루션을 창출할 수 있도록 지원합니다 . 저는 사내 전문가 및 멘토로 구성된 탄탄한 네트워크를 활용할 수 있습니다.
+- **[Kagenti’s Approach to Multi-Agent Security for AI Agents](https://www.youtube.com/watch?v=4vfvvzzwcwI)** — 2026-06-16 · ko · `AX`
+  오늘은 프로덕션 환경에서 여러 AI 에이전트를 실행할 때 발생하는 일반적인 보안 문제를 해결하기 위해 인프라 수준 에서 오픈 소스 보안 로직을 사용하는 방법을 살펴보겠습니다 . 혼란스러운 부책임자 보안 취약점에 대해 들어보셨나요 ? 혼란에 빠진 부하 직원이란 완전히 합법적인 권한을 가진 요원이 속임수에 넘어가 그 권한을 사용해서는 안 되는 요청에 그 권한을 사용하는 경우를 말합니다. 이로 인해 눈에 띄지 않는 데이터 유출, 악성 도구 호출 및 즉각적인 주입이 발생할 수 있습니다.
 
-- **[IQVIA SmartSolve® for Compliance](https://www.youtube.com/watch?v=TUuxUxlX7rU)** — 2026-01-20 · ko · `unclassified`
-  Smartsolve를 만나보세요. Smartsolve는 AI 기반 Microsoft Azure 플랫폼으로, 의료기기 및 제약 업계의 품질 및 규제 관리를 혁신합니다. Smartsolve는 확장 가능한 단일 플랫폼 에서 품질 관리(QM) 및 위험 관리(RIM) 활동을 통합합니다 . 사전 시장 제출 및 수명 주기 관리부터 제조, 공급업체 품질 관리, 시장 출시 후 음악 감시까지 20개 이상의 기업 음악 프로세스를 자동화하고 연결합니다. 모바일 접근성, 고급 분석 기능, 글로벌 시장 진출 준비 기능 등을 통해 팀의 역량을 강화하고 비즈니스 성장에 발맞춰 나갈 수 있도록 지원하세요 .
+- **[What Is AI Pair Programming? AI Coding Tools for Developers](https://www.youtube.com/watch?v=MTmhgIVhpag)** — 2026-06-15 · ko · `unclassified`
+  AI 페어 프로그래밍은 개발자를 대체하거나 동료들이 갑자기 지각 있는 AI 존재로 변하는 것을 의미하는 것이 아닙니다 . AI 페어 프로그래밍은 개발자 내부 프로세스를 가속화하는 도구입니다 . 이는 컨텍스트에서 코드로, 테스트로, 리뷰로, 그리고 다시 컨텍스트로 돌아가는 과정에서 새로운 도구를 사용하여 더 빠르고 스마트하게 작업하고 더 자신감 있게 코딩하는 것에 관한 것입니다. 사용자는 모든 것을 직접 제어하고 결정할 수 있으며, AI는 반복적이거나 지루한 부분을 처리해 줍니다. 이것이 바로 AI 페어 프로그래밍의 가능성입니다
 
-- **[デジタルヘルスTechの活用方法とは？｜深掘り！デジタルヘルストレンド　世界編 #2](https://www.youtube.com/watch?v=nJjPgXOTFE8)** — 2026-01-06 · ko · `unclassified`
-  안녕하세요, 반갑습니다. 저는 IQVIA 일본 지사의 경영 컨설팅 팀에서 수석으로 근무하는 크리스입니다. 세 편의 영상에 걸쳐 전 세계 디지털 헬스케어에 대한 주요 통찰력과 트렌드를 공유하겠습니다. 디지털 헬스라는 용어는 지난 몇 년 동안 널리 알려지게 되었습니다 . 저희 회사 IQVIA 연구소는 2017년에 디지털 헬스에 대한 첫 번째 분석 보고서인 '디지털 헬스의 성장하는 가치(The Growing Value of Digital Health)'를 발간했습니다. 작년에는 최신 보고서인 '디지털 헬스 트렌드 2024(Digital Health Trends 2024)'를 발표했습니다.
+- **[Bridging Design Systems and Code with MCP and AI Agents](https://www.youtube.com/watch?v=Gh1E9VgXZWs)** — 2026-06-14 · ko · `AX`
+  설계 시스템과 컨텍스트 엔지니어링은 AI 에이전트에 대한 새로운 접근 방식을 가능하게 합니다 . 이는 소프트웨어 개발 방식을 바꿀 것입니다. 디자인 시스템이 정확히 무엇인지 궁금해 본 적이 있으신가요? AI 에이전트는 이러한 요소들을 어떻게 활용하고 있을까요? 또는 컨텍스트 엔지니어링이 이러한 모든 기술과 어떻게 상호 작용하는지 궁금합니다. 그럼, 그 문제에 대해 이야기해 봅시다. 디자인 시스템은 소프트웨어 앱이나 웹사이트와 같은 것들을 일관되고 통일된 방식으로 만들 수 있도록 해주는 일련의 규칙과 구성 요소와 같습니다.
 
-- **[デジタルヘルスとは？｜深掘り！デジタルヘルストレンド　日本における市場展望 #1](https://www.youtube.com/watch?v=-UKWApgQEf8)** — 2026-01-06 · ko · `unclassified`
-  ITBIA에서 컨설팅 담당하고 있습니다. 오늘은 일본의 DTX 시장 전망과 말하는 곳에서 설명하고 싶습니다. 네, 어제 일본에서는 이렇게 디지털 건강이라고합니다. 단어가 잘 알려져 있습니다. 네, 당사에서는 2017년 IQBI 인스티튜트가 처음이고, 디지털 헤이스에 대한 분석 보고서, , GrowingValue of Digital 헤스를 관광하고, 작년 마지막 디지털 헬스트 렌즈 2024 발표 했다. 지난 10년 동안 디지털 건강에 투자, 개발, 기대, 그리고, 예, 실태, 휴대폰은 나라들과 변화를 하고 있습니다.
+- **[Claude Fable 5 & Apple’s NVIDIA deal](https://www.youtube.com/watch?v=aByPOYCEH6I)** — 2026-06-12 · ko · `AX`
+  그들이 약화시킨 유일한 부분은 사이버 보안 분야입니다. 팀, 혹시 뭐 해킹하고 있는 거야? 오늘 전문가 패널 토론에서 이 모든 것과 그 이상의 이야기를 들어보세요. 좋은 아침이에요. 안녕하세요, 저는 팀 황입니다. Mixture of Experts에 오신 것을 환영합니다. 매주 모는 인공지능 분야에서 가장 뛰어난 전문가들을 모아 한 주간의 뉴스를 정리해주는 시간을 갖습니다. 이번 주 에피소드에는 초호화 출연진이 함께합니다. 쿠타르 엘 맥그로위(AI 플랫폼 수석 연구원) , 벌크마르 울리그(CTO 겸 데이터 플랫폼 부사장), 크리스 헤이(탁월한 엔지니어).
 
-- **[デジタルヘルス関連制度｜深掘り！デジタルヘルストレンド　日本における市場展望 #2](https://www.youtube.com/watch?v=599YBUwZ2RA)** — 2026-01-06 · ko · `unclassified`
-  [음악] IQ에서 컨설팅 담당하고 있습니다. 오늘은 일본의 DTX 시장 전망 그런데 설명을 하고 싶습니다. 네, 지난 일본에서는 이렇게 디지털 건강이라는 단어 가 잘 알려져 있습니다. 네, 우리 회사 2017 년 IQBI 인스티튜트가 처음이고, 디지털 헤이스에 대한 분석 보고서, , GrowingValue of Digital 헤스를 관광하고, 작년 마지막 디지털 헬스트 렌즈 2024 발표 했다. 지난 10년 동안 디지털 건강에 투자, 개발, 기대, 그리고, 예, 실태, 휴대폰은 나라들과 변화를 하고 있습니다.
+- **[AI That’s Too Dangerous For You? What we learned from S.A.T.A.N](https://www.youtube.com/watch?v=UE_vuadQrJ0)** — 2026-06-11 · ko · `unclassified`
+  인공지능은 이제 수천 개의 제로데이 취약점을 찾아낼 수 있습니다. 아직 패치가 나오지 않았기 때문에 공격자들이 악용할 수 있는 버그들입니다. 당신은 완전히 무방비 상태입니다. 천 배 . 어쩌면 더 많을지도 모릅니다. 최근 발견된 제로데이 취약점 중 하나는 보안 기능이 뛰어난 것으로 알려진 운영 체제에서 발견되었습니다. 놀랍게도, 그것은 무려 27년 동안 인간의 눈을 피해왔습니다. 27. 우리는 모두 파멸할 운명이야. 인공지능 지배자들이 우리를 노예로 만들 때까지, 우리는 그냥 모든 연결을 끊고 문명과 단절된 채 남은 생을 보내는 게 좋을까요 ?
 
-- **[主要地域別の動向｜深掘り！デジタルヘルストレンド　世界編 #3](https://www.youtube.com/watch?v=Ep7l_4K-95k)** — 2026-01-06 · ko · `unclassified`
-  안녕하세요, 반갑습니다. 저는 IQV 재팬의 경영 컨설팅 팀에서 수석으로 근무하는 크리스입니다. 세 편의 영상에 걸쳐 전 세계 디지털 헬스케어의 주요 동향과 통찰을 공유하겠습니다 . 디지털 헬스라는 용어는 지난 몇 년 동안 널리 알려지게 되었습니다. 저희 회사 IVIA 연구소는 2017년에 디지털 헬스에 대한 첫 번째 분석 보고서 인 '디지털 헬스의 성장하는 가치'를 발표했습니다. 작년에는 ' 디지털 헬스 트렌드 2024'라는 제목의 최신 보고서를 발간했습니다. 지난 10년 동안 디지털 헬스 분야의 투자, 개발, 기대치 및 구현 모델은 크게 발전해 왔습니다
+- **[Can you social engineer an AI? Plus: AI worms and the nonhuman identity problem](https://www.youtube.com/watch?v=JHDsM8ER7tk)** — 2026-06-10 · ko · `AX`
+  여러분, 사회공학적 전략에 누가 더 쉽게 속아 넘어갈 것 같나요? 인간인가, 아니면 인공지능 에이전트인가? 지금 내가 마치 인공지능이 된 기분이에요. 정답은 인공지능입니다. 인공지능도 거기에 속아 넘어갈 겁니다. 저는 인공지능을 훨씬 더 똑똑하게 만들어야 한다고 생각합니다. 단순히 이론적인 차원을 넘어, 현실 세계에서도 마찬가지일 것입니다. 안녕하세요, 보안 인텔리전스에 오신 것을 환영합니다 . IBM의 주간 사이버 보안 팟캐스트에서는 전문가 패널들이 업계 주요 뉴스를 실용적인 핵심 내용으로 풀어냅니다 . 저는 진행자 맷 카진스키입니다.
 
-- **[承認・開発状況は？｜深掘り！デジタルヘルストレンド　日本における市場展望 #3](https://www.youtube.com/watch?v=1Eu4YNK_MvU)** — 2026-01-06 · ko · `unclassified`
-  [음악] IQ에서 컨설팅 담당하고 있습니다. 오늘은 일본의 DTX 시장 전망 그런데 설명을 하고 싶습니다. 네, 지난 일본에서는 이렇게 디지털 건강이라는 단어 가 잘 알려져 있습니다. 네, 우리 회사 2017년 IQB 인스티튜트가 처음이고, 디지털 헤이스에 대한 분석 보고서, , 자그로 ingval 오브 디지털 헤스 관광, 음, 작년 최신 디지털 건강 트렌즈 2024를 발표했습니다. 지난 10년 동안 디지털 건강에 투자 , 개발, 기대, 그리고, 음, 실제, 모바일 나라와 변화를하고 있습니다.
+- **[Building AI Agent Systems and Scaling Challenges in Agentic AI](https://www.youtube.com/watch?v=fCHe_fOqlYA)** — 2026-06-09 · ko · `unclassified`
+  에이전트는 데모하기는 쉽지만, 의외로 확장하기는 어렵습니다. 이제 의미 있는 작업을 처음부터 끝까지 완료하는 작동 가능한 데모용 에이전트를 구축하는 것이 그 어느 때보다 쉬워졌습니다. 이는 자연스럽게 다음으로 떠오르는 질문으로 이어집니다 . 왜 그냥 규모를 키우지 않는 거죠? 절차는 더 많고, 작업은 더 많으며, 감독은 더 적습니다 . 하지만 그 전에, 에이전트 시스템을 확장하기 시작할 때 실제로 어떤 변화가 일어나는지, 그리고 에이전트 확장이 생각만큼 간단하지 않은 이유를 좀 더 자세히 살펴볼 필요가 있습니다
+
+## Microsoft Azure (40건)
+
+- **[Microsoft expands Azure AI and HPC infrastructure with AMD](https://www.youtube.com/watch?v=CWEwR9OXzGA)** — 2026-07-20 · ko · `unclassified`
+  [음악] 사실, 이 거대한 AI 시대에 컴퓨팅에 대한 고객의 요구 사항이 복잡해짐에 따라 , 모든 것에 맞는 단일 솔루션은 존재하지 않습니다 . 이는 고객들이 컴퓨팅 작업을 수행하는 방식의 다양화를 촉진하고 있습니다 . 일반적으로 이는 CPU 또는 별도의 GPU [음악] 클러스터에서만 실행되었지만, 거대한 AI를 처리하려면 CPU와 GPU 모두가 필요합니다 . 우리는 새로운 세상을 위해 설계되었고, 안전하고 뛰어난 성능을 제공하면서도 비용을 크게 절감할 수 있는 새로운 유형의 하드웨어(음악)와 소프트웨어가 필요합니다.
+
+- **[Storage migrations simplified with the Azure Copilot migration agent](https://www.youtube.com/watch?v=KjQJTNq4a7c)** — 2026-07-20 · ko · `unclassified`
+  이 데모에서는 스토리지 마이그레이션 에이전트가 Azure 포털에서 단일 대화를 통해 온프레미스 SMB 파일 공유를 Azure 파일로 직접 마이그레이션하는 전체 과정을 안내합니다 . 시작하기 전에 준비해야 할 네 가지가 있습니다. 먼저, 마이그레이션 에이전트가 실행되는 Azure 마이그레이션 프로젝트가 포함된 Azure 구독이 필요합니다. 둘째, 마이그레이션할 SMB 공유 경로와 해당 자격 증명을 입력하세요. 셋째, 마이그레이션 어플라이언스를 실행할 호스트가 필요합니다. 네 번째는 해당 기기의 네트워크 연결성입니다.
+
+- **[Assess Azure VM readiness with Azure Migrate](https://www.youtube.com/watch?v=gsz-XqQ-Xn8)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure Migrate 시리즈의 새로운 에피소드에 오신 것을 환영합니다. [음악] 이 비디오에서는 Azure VM 대상에 대한 Azure Migrate 평가에 대해 설명합니다. 평가의 중요성과 활용법을 다룬 이전 영상들을 시청하고, 평가에 필요한 사전 요건을 모두 충족한 후에 다음 단계로 진행하는 것이 좋습니다. Azure Migrate 프로젝트를 생성하고 Windows 및 Linux 서버의 인벤토리를 검색했는지 확인하십시오. Azure Migrate 어플라이언스를 사용하거나 RVTools 또는 CMDB에서 캡처한 인벤토리를 가져와 인벤토리를 검색할 수 있습니다.
+
+- **[Assess security vulnerabilities during migrations with Azure Migrate](https://www.youtube.com/watch?v=mFia4nhoxqw)** — 2026-07-15 · ko · `unclassified`
+  [음악] 콘토소는 온프레미스 IT 환경을 현대화하기 위해 Azure로 마이그레이션할 계획입니다. 알렉스는 콘토소의 IT 보안 관리자입니다. 그는 워크로드를 Azure로 마이그레이션하는 과정을 감독하고, 클라우드 환경으로 마이그레이션한 후에도 모든 워크로드가 강력한 보안 상태를 유지하도록 보장하는 책임을 맡고 있습니다 . Alex는 Azure Migrate를 사용하여 마이그레이션 프로젝트를 추적합니다. Azure Migrate는 마이그레이션을 위해 검색된 서버, 데이터베이스 및 웹 애플리케이션에 대한 포괄적인 인벤토리를 제공합니다 . 인사이트 뷰는 알렉스에게 환경에 대한 보안 중심의 요약 정보를 제공합니다 .
+
+- **[Assess your .NET and Java Webapps for modernization to App Service or AKS with Azure Migrate](https://www.youtube.com/watch?v=bQfhnZucBck)** — 2026-07-15 · ko · `unclassified`
+  안녕하세요 여러분, 반갑습니다. 이 영상에서는 웹 애플리케이션의 마이그레이션 및 현대화 계획을 수립하는 방법을 살펴보겠습니다 . 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 영상에서는 웹 애플리케이션 평가에 대해 다룹니다. 웹 애플리케이션 평가는 일반적으로 마이그레이션 과정의 계획 단계에서 진행됩니다. 웹 앱 평가는 대상 서비스 전반에 걸친 평가를 철저히 분석하고 마이그레이션 준비 상태 및 관련 비용을 고려하여 Azure 앱 서비스와 Azure Kubernetes 서비스 모두에 대한 준비 상태 점검을 수행합니다.
+
+- **[Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate](https://www.youtube.com/watch?v=-gNXQHTHj0s)** — 2026-07-15 · ko · `unclassified`
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 Microsoft SQL Server 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다. Azure Migrate를 사용하면 독립형 또는 고 가용성 대규모 SQL Server 인스턴스 및 데이터베이스를 검색하고 평가할 수 있습니다. 구체적으로 말하자면, SQL 워크로드 의 마이그레이션 및 현대화를 가능하게 한다는 측면에서 이야기하는 것입니다 . 새로운 Azure SQL 평가 기능을 사용하면 마이그레이션 준비 상태 및 장애 요인, 권장 대상 Azure 서비스, 적정 규모의 분산 정도, 그리고 권장 사항의 근거를 파악할 수 있습니다
+
+- **[Assess your applications for migration or modernization with Azure Migrate](https://www.youtube.com/watch?v=u7emCnZfH-Q)** — 2026-07-15 · ko · `unclassified`
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 애플리케이션을 Azure로 마이그레이션하거나 현대화하는 계획을 세우는 방법을 살펴보겠습니다. 먼저 계획 단계를 살펴보겠습니다. Azure Migrate를 사용하면 ASP.NET 웹 애플리케이션, SQL Server, Windows Server, Linux Server 등과 같은 다양한 워크플로를 검색하고 이러한 워크로드를 적절하게 그룹화하여 애플리케이션을 정의할 수 있습니다.
+
+- **[Create and manage Azure Migrate projects](https://www.youtube.com/watch?v=af5nYtGdFYw)** — 2026-07-15 · ko · `DX`
+  Azure 마이그레이션 비디오 시리즈에 오신 것을 환영합니다 . 이 시리즈에서는 Azure Migrate 도구를 시연하고 이를 사용하여 마이그레이션 준비 상태를 검색 및 평가하는 방법과 IT 상태를 마이그레이션 및 현대화하는 방법을 보여드리겠습니다. 이 비디오에서는 마이그레이션 과정의 단계 와 Azure Migrate 프로젝트를 생성하고 관리하는 방법을 다룹니다 . 기업의 일반적인 마이그레이션 과정은 세 단계로 나눌 수 있습니다. 결정하고, 계획하고, 실행하라. 하나씩 차근차근 설명해 드리겠습니다.
+
+- **[Discover and plan lift-and-shift migrations with Migration Agent](https://www.youtube.com/watch?v=9N6QUGp7xw0)** — 2026-07-15 · ko · `unclassified`
+  [음악] 콘토소 헬스의 클라우드 관리자 알렉스를 만나보세요. 그녀는 회사 애플리케이션을 Azure로 마이그레이션할 준비가 되었지만, 마이그레이션 계획을 세우는 데 도움이 필요합니다. 그녀는 Azure 탐색을 시작하기 위해 Azure Migrate 프로젝트를 생성하고 마이그레이션 에이전트(대화형 도우미)로 이동하여 마이그레이션 여정을 안내받고 마이그레이션 프로젝트에 대한 결정을 내립니다 . VMware 워크로드를 Azure로 신속하게 마이그레이션할 수 있는 경로를 찾는 데 도움을 주세요. 상담원은 그녀에게 마이그레이션, Azure Migrate, 그리고 마이그레이션 여정의 단계, 특히 시작하는 데 필수적인 검색 단계에 대해 교육합니다 .
+
+- **[Discover workloads & apps running in Bare-metal environments/Public Clouds with Azure Migrate](https://www.youtube.com/watch?v=2WdpNcwywEM)** — 2026-07-15 · en · `unclassified`
+  (gentle music) - [Instructor] In this video, you'll learn how to discover physical servers and virtual servers running in AWS, GCP, or any other cloud environment using the Azure Migrate appliance. Before you get started, make sure you've watched the linked video and already have an Azure Migrate project set up. Before deploying the appliance, there are a few things you need to have in place.
+
+- **[Discover workloads and applications hosted on Microsoft Hyper-V with Azure Migrate](https://www.youtube.com/watch?v=Hul-OBz1DtM)** — 2026-07-15 · ko · `unclassified`
+  [음악] 이 비디오에서는 Azure Migrate 어플라이언스를 사용하여 HyperVA 상태를 검색하는 방법을 배우게 됩니다 . 시작하기 전에 링크된 비디오를 시청하고 Azure Migrate 프로젝트가 이미 설정되어 있는지 확인하세요. 어플라이언스를 배포하기 전에 몇 가지 사전 준비 사항을 충족해야 합니다. 먼저, 해당 장비가 네트워킹 요구 사항을 충족하고 필요한 모든 엔드포인트에 연결할 수 있는지 확인하십시오. 다음으로, 설명서에 제공된 스크립트를 사용하여 HyperV 호스트를 검색 가능하도록 준비합니다 .
+
+- **[Discover workloads and applications managed by VMware vCenter with Azure Migrate](https://www.youtube.com/watch?v=KwUTKyUiBaU)** — 2026-07-15 · ko · `unclassified`
+  [음악] 이 비디오에서는 Azure Migrate 어플라이언스를 사용하여 VMware 환경을 검색하는 방법을 배우게 됩니다 . 진행하기 전에 이 비디오 링크를 시청하고 Azure Migrate 프로젝트를 생성했는지 확인하십시오. 어플라이언스를 배포하기 전에 다음 필수 조건이 충족되었는지 확인하십시오. 해당 장비가 모든 네트워킹 요구 사항을 충족하고 필요한 엔드포인트에 연결되는지 확인하십시오. 읽기 전용 및 게스트 운영 권한이 있는 vCenter 계정을 프로비저닝합니다. 이 계정을 통해 어플라이언스는 VMware 서버 의 기본 구성을 검색 하고 성능 데이터를 수집할 수 있습니다.
+
+- **[Enhance assessments using advanced insights in Azure Migrate](https://www.youtube.com/watch?v=E4HrIWj4_4k)** — 2026-07-15 · en · `AX`
+  (gentle upbeat music) - [Instructor] Welcome to another video of the Azure Migrate series, covering the demo of the tool and its capabilities. If you have watched the previous videos in the series, you must already be aware of how a typical migration journey is divided into stages of decide, plan, and execute. I believe you've discovered your workloads and created assessments for your applications to identify the recommended migration strategy, target Azure service, and estimated cost, as well as readiness.
+
+- **[Enrich discovered data with business context in Azure Migrate](https://www.youtube.com/watch?v=NUv4O37dLjE)** — 2026-07-15 · ko · `unclassified`
+  안녕하세요 여러분, 반갑습니다. 이 비디오에서는 검색된 워크로드에 개발, 테스트 또는 프로덕션과 같은 환경 유형과 마이그레이션 의도를 할당하여 검색 데이터를 보강하는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 검색된 워크로드에 환경 유형과 마이그레이션 의도를 할당하여 워크로드 마이그레이션을 효과적으로 계획할 수 있습니다. 비프로덕션 워크로드를 개발 환경으로 태그하여 환경 유형별로 워크로드를 풍부하게 만드는 관점에서 이야기하자면 , 비프로덕션 워크로드도 범용 및 메모리 최적화 서비스 계층과 함께 버스터블 계층에 대한 평가가 이루어지므로 Azure 목표 및 비용을 더 정확하게 예측할 수 있습니다
+
+- **[Execute migration waves with Azure Migrate](https://www.youtube.com/watch?v=B5-3TqNAq6E)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. [음악] 이번 비디오에서는 해당 도구와 그 기능에 대한 데모를 다룹니다 . 이번 에피소드에서는 대규모 인프라 마이그레이션을 Azure로 단계적으로 실행하는 방법을 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 계획 단계의 일환으로, 지원서를 그룹화하고 실행 계획을 수립하여 단계별 진행 상황을 파악했을 것입니다. 자 , 이제 이러한 파동을 어떻게 이동시킬 수 있는지 살펴보겠습니다
+
+- **[Generate modernization and migration executive reports](https://www.youtube.com/watch?v=4lt50ULNNh4)** — 2026-07-15 · ko · `unclassified`
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 [음악] Azure Migrate를 사용하여 포괄적인 현대화 및 마이그레이션 보고서를 보기 좋게 출력하는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 Azure로의 마이그레이션 및 현대화 기회에 대한 요약 정보를 제공하는 경영진 보고서를 생성할 수 있습니다 . 여기에는 워크로드 준비 상태, 보안 및 비용에 대한 통찰력이 포함되어 워크로드 우선순위를 정하고 정보에 입각한 마이그레이션 및 현대화 결정을 내리는 데 도움이 됩니다.
+
+- **[Identify the ROI of migration or modernization to Azure using Azure Migrate](https://www.youtube.com/watch?v=fNDCwVCjzqU)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 도구 [음악]와 그 기능에 대한 데모를 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 영상에서는 마이그레이션 여정의 결정 단계에 대해 다룹니다. 이 단계에는 비즈니스 사례 개발, 이해 관계자 동의 확보, 그리고 조직 목표와의 일치를 보장하는 적절한 클라우드 전략 선택이 포함됩니다.
+
+- **[Lift and shift (migrate) your Windows and Linux servers to Azure VM with Azure Migrate](https://www.youtube.com/watch?v=xVEjE0Z9QYY)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 [음악] 도구 와 그 기능에 대한 데모를 다룹니다. 이 비디오에서는 서버를 Azure로 이전(리프트 앤 시프트)하거나 리호스팅하는 방법을 보여드리겠습니다. 이러한 접근 방식은 조직이 데이터 센터 규모를 신속하게 축소하고 즉각적인 비용 절감을 달성하는 데 도움이 됩니다. 새롭게 설계된 엔드투엔드 경험은 고객 여러분이 체계적이고 조직적인 방식으로 마이그레이션 여정을 진행할 수 있도록 안내합니다.
+
+- **[Modernize applications using Azure Migrate](https://www.youtube.com/watch?v=2svW7ma7FQM)** — 2026-07-15 · ko · `AX`
+  [음악] 콘토소 헬스의 클라우드 관리자 알렉스를 만나보세요 . 그녀는 회사 애플리케이션을 Azure로 마이그레이션할 준비가 되었지만, 마이그레이션 계획을 세우는 데 도움이 필요합니다. 알렉스는 Azure 탐색을 시작하기 위해 Azure Migrate 프로젝트를 생성하고, 프로젝트에 대한 검색을 수행한 다음, 마이그레이션 에이전트로 이동하여 경험을 이어갑니다. 그녀는 대화형 비서를 활용하여 이주 프로젝트를 진행하고 관련 결정을 내립니다. VMware에서 Azure로 마이그레이션하면서 애플리케이션을 현대화하려고 합니다. 시작하는 데 도움을 주세요. 담당자는 알렉스에게 이주에 대해 설명하고, 프로젝트에서 이미 일부 조사가 진행되었으며 알렉스가 계속 진행하고 싶은지 묻습니다
+
+- **[Modernize your MySQL deployments to Azure Database for MySQL Flexible Server](https://www.youtube.com/watch?v=Xa-l17Lu3bk)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure 마이그레이션 및 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다 . 이번 에피소드에서는 MySQL 워크로드를 Azure로 마이그레이션하는 데 필요한 모든 정보를 공유합니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정은 결정, 계획, 실행의 세 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . MySQL 마이그레이션을 시작하려면 먼저 Azure Migrate를 사용하여 환경 내 MySQL 데이터베이스 인스턴스와 해당 속성을 검색하고, Azure로 마이그레이션할 준비가 된 인스턴스를 포함하는 신뢰할 수 있는 마이그레이션 계획을 수립해야 합니다.
+
+- **[Offline discovery for quick insights](https://www.youtube.com/watch?v=b1zpyY1RBCo)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 해당 도구와 그 기능에 대한 데모를 다룹니다. 이 시리즈에서는 기존 환경을 파악하는 것부터 준비 상태를 평가하고 워크로드를 Azure로 마이그레이션하는 전체 마이그레이션 과정을 살펴봅니다. 이 비디오에서는 결정 단계, 특히 지속적인 Azure 연결 없이도 검색을 빠르게 시작할 수 있는 경량 도구인 Azure Migrate Collector에 대해 집중적으로 살펴보겠습니다 . Azure Migrate는 환경 및 제약 조건에 따라 다양한 검색 방법을 지원합니다.
+
+- **[Plan MongoDB migrations to Azure with Azure Migrate](https://www.youtube.com/watch?v=g8ieJXrQNHs)** — 2026-07-15 · ko · `unclassified`
+  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 MongoDB 서버 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 MongoDB 인스턴스를 검색하고 Azure Document DB 및 Azure VM으로 마이그레이션할 수 있는지 평가할 수 있습니다. 구체적으로 말하자면, MongoDB 워크로드 의 마이그레이션 및 현대화를 가능하게 하는 측면에서 이야기하는 것입니다 . Azure 로의 마이그레이션을 위한 새로운 MongoDB 평가 기능을 통해 마이그레이션 준비 상태 및 장애 요인, 권장 대상 Azure 서비스 및 적절한 크기의 SKU, 그리고 권장 사항의 근거를 파악할 수 있습니다
+
+- **[Plan PostgreSQL migrations to Azure with Azure Migrate](https://www.youtube.com/watch?v=zuiCIZycJxs)** — 2026-07-15 · ko · `unclassified`
+  안녕하세요 여러분, 반갑습니다. 이 비디오에서는 Azure Migrate를 사용하여 PostgreSQL 서버 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다. Azure Migrate를 사용하면 PostgreSQL 인스턴스를 검색하고 평가하여 Azure Database for PostgreSQL 및 Azure VM으로 마이그레이션할 수 있습니다. 특히 새로운 Azure PostgreSQL 평가 기능을 통해 PostgreSQL 워크로드의 마이그레이션 및 현대화를 지원하는 측면에서 이야기하고 있습니다 . 권장 대상 Azure 서비스로의 마이그레이션 준비 상태 및 장애 요인, 적정 규모의 편향, 그리고 권장 사항의 근거를 이해할 수 있습니다
+
+- **[Plan migration waves with Azure Migrate](https://www.youtube.com/watch?v=n9W-xLyS64I)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다 . 이번 에피소드에서는 Azure 마이그레이션 웨이브 계획 기능을 사용하여 대규모 인프라를 Azure로 마이그레이션하기 위한 정밀한 계획을 수립하는 방법을 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . Azure로 마이그레이션하기로 결정했다면 Azure 마이그레이션 평가를 사용하여 애플리케이션 에 적합한 대상 Azure 서비스를 확인할 수 있습니다 . 또한 애플리케이션 마이그레이션을 언제 어떻게 수행할지에 대한 계획도 세워야 합니다 .
+
+- **[Visualize dependencies and organize your datacenter inventory with Azure Migrate](https://www.youtube.com/watch?v=X3YhiXsZxZw)** — 2026-07-15 · ko · `unclassified`
+  [음악] Azure 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다. [음악] 이번 비디오에서는 도구의 데모와 기능에 대해 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 비디오에서는 Azure 마이그레이션 도구를 사용하여 고객의 마이그레이션 여정에서 결정 단계를 다룹니다 . 검색 기능에 대해 이야기하자면 , Azure Migrate는 VMware, Hyper-V, 물리적 서버 또는 AWS, GCP와 같은 다른 퍼블릭 클라우드에서 실행되는 서버 등 다양한 환경에서 서버를 검색하는 데 도움을 줍니다.
+
+- **[Create an Azure Migrate Project & Download the Agentless Appliance in Minutes](https://www.youtube.com/watch?v=I4ZIz7QqIII)** — 2026-07-14 · ko · `unclassified`
+  [음악] 콘토소 헬스의 클라우드 관리자 알렉스를 만나보세요 . [음악] 그는 회사 애플리케이션을 Azure로 마이그레이션할 준비가 되었지만, 마이그레이션 계획을 세우는 데 도움이 필요합니다. Azure 탐색을 시작하기 위해 그는 마이그레이션 에이전트, 즉 마이그레이션 과정을 안내하는 대화형 도우미로 이동합니다. 시작하려면 마이그레이션 에이전트가 Alex에게 기존 프로젝트를 선택할지 아니면 새 프로젝트를 생성할지 묻습니다. 알렉스는 Azure 구독 리소스 그룹과 지역을 선택하여 새 프로젝트를 생성하는 작업을 진행합니다. 프로젝트를 생성한 후, 알렉스는 온프레미스 VMware에서 Azure로 신속하게 마이그레이션하는 것이 목표라고 밝혔습니다
+
+- **[Install & Configure the Azure Migrate Appliance: Discovery, Readiness & Business Case](https://www.youtube.com/watch?v=fH5ghFFAE2w)** — 2026-07-14 · ko · `unclassified`
+  [음악] 이제 기기 설치 프로그램을 다운로드하셨으니 시작해 보겠습니다. 관리자 권한으로 Azure Migrate 설치 프로그램 zip 파일을 실행하고 어플라이언스 유형을 VMware로 선택하십시오. 클라우드 유형과 어플라이언스를 공용 엔드포인트 또는 사설 엔드포인트 연결로 설정할지 여부를 선택하십시오. 압축 파일 실행이 완료되면 어플라이언스 구성 관리자 웹 앱이 자동으로 실행됩니다. 첫 번째 확인 사항은 필요한 Azure 엔드포인트에 연결할 수 있는지 확인하는 것입니다 . 서버가 프록시 서버 뒤에서 실행 중인 경우 프록시 서버 정보를 추가하십시오.
+
+- **[How Sprinklr leverages Microsoft Azure Cobalt 100 VMs for massive scale](https://www.youtube.com/watch?v=fgEcCJ6qOxw)** — 2026-07-10 · ko · `unclassified`
+  기업의 성공은 고객 감정에 대한 이해도와 밀접한 관련이 있습니다. 그러한 감정은 매일 수십억 건의 소셜 메시지, 고객 상호 작용 및 실시간 참여 신호로 구성됩니다. 트윗이든, 채팅 메시지든, 고객 지원 전화든 모든 상호 작용은 즉각적이고 안정적으로 처리되어야 합니다. 컨택센터 서비스 환경에서는 지연 시간이 용납될 수 없습니다. Sprinklr와 같은 기업에게 있어 이는 대규모 음악 처리 환경에서 성능, 효율성 및 안정성을 제공하기 위해 인프라를 지속적으로 발전시켜 나가는 것을 의미합니다 .
+
+- **[Using GitHub Copilot for Linux performance troubleshooting on Azure](https://www.youtube.com/watch?v=GBcVDgpmsOw)** — 2026-07-10 · ko · `AX`
+  안녕하세요, 저는 마이크로소프트의 Azure Linux 그룹에서 제품 관리자로 근무하는 칼 애벗입니다. Azure에서 Linux 성능에 대해 이야기할 때, 오늘날의 과제는 일반적으로 데이터 부족이 아닙니다. Azure Monitor, 네이티브 Linux 도구, eBPF와 같은 최신 관찰 도구를 활용하면 대부분의 시스템에서 이미 CPU, 메모리, 스토리지, 네트워크 등 다양한 신호를 생성하고 있습니다 . 더 어려운 문제는 무언가 잘못됐다고 느껴질 때 다음에 무엇을 살펴봐야 할지 결정하는 것입니다. 이번 세션의 주제는 바로 그것입니다.
+
+- **[Build and run long-running agents in Foundry Agent Service](https://www.youtube.com/watch?v=Dw-kVTNvT2Q)** — 2026-07-09 · ko · `AX`
+  안녕하세요 여러분, 마이크로소프트 파운드리 팀의 제프입니다. 마이크로소프트 파운드리 호스팅 에이전트 제품의 새로운 기능들을 소개해 드리게 되어 매우 기쁩니다. 이제 일반에 공개되었습니다. 자, 그럼 제가 호스팅 에이전트를 어떻게 활용하는지, 그리고 어떤 시나리오에서든 엔터프라이즈급의 장기 실행, 보안 및 관리형 에이전트를 구축하는 데 있어 호스팅 에이전트가 세계 최고의 플랫폼이라고 생각하는 이유를 간략하게 설명해 드리겠습니다. 자 , 제가 몇 분 후에 설명해드릴 시나리오는 실제로 저희 조직에서 체결하는 계약과 연동하여 계약 세부 정보를 파악하고 , 계약 위험 평가를 수행하며, 나아가 저희 조직 사용자를 대신하여 선제적인 조치를 취할 수 있도록 하는 것입니다
+
+- **[AI Model Management with Foundry: Fleet Management, Performance, and Optimization](https://www.youtube.com/watch?v=zt-X5eqFFtM)** — 2026-07-08 · ko · `unclassified`
+  오늘 함께해 주셔서 감사합니다. 파운드리 모델 사업 전반을 총괄하는 제품 책임자 크리스 호더를 소개합니다 . 크리스, 당신은 모델계에서 몇 년 동안 활동해 오셨죠 ? 변화의 속도 , 고객이 거쳐야 하는 의사 결정 과정은 어떤 모델에서 어떤 모델로 바뀌었으며, 그 모델의 특징은 무엇이고, 변화의 속도와 속도에 따른 의사 결정 과정은 어떻게 달라지는 걸까요 ? 고객들은 1년에 두세 번뿐 아니라, 때로는 한 달에 두세 번씩 새로운 모델을 접하게 됩니다.
+
+- **[Optimizing Model Deployment and Performance in Microsoft Foundry](https://www.youtube.com/watch?v=U1f3aXZMyVQ)** — 2026-07-08 · ko · `unclassified`
+  바로 그런 점에서 공급과 우선순위가 환상적으로 조화를 이룹니다. 크리스, 최적화에 대해 이야기해 볼까요 ? 파운드리에서 원하는 모델을 선택했다면, 이제 그 모델을 비즈니스 운영에 필요한 용도에 맞게 최적화하는 방법은 무엇일까요? 네, 정말 좋은 질문이고 저희도 고객들과 매일같이 이야기하는 주제입니다. 고객들이 생산 단계로 넘어가거나 그 이후에도 내려야 할 중요한 결정들을 정확히 짚어주셨다고 생각합니다. 데이터에 대해 이야기해 보겠습니다. 네, 데이터 처리와 데이터 상주 위치에 대해 몇 가지 옵션을 제공합니다 .
+
+- **[Simplifying Token Quota Management with Proactive Tier Upgrades](https://www.youtube.com/watch?v=tYD_NYaHik4)** — 2026-07-08 · ko · `unclassified`
+  우리는 사용자가 한계에 가까워지고 있음을 알 수 있는 능동적인 세상으로 나아가고 있습니다. 당신은 우리와 함께 적극적으로 소비하고 있습니다. 그렇게 되면 저희가 자동으로 레벨을 올려드리기 시작할 겁니다. 크리스, 고객이 원하는 모델을 정하면 어떤 기능을 사용할지 알고, 이제 얼마나 사용할지 결정해야 합니다. 그건 항상 토큰이죠, 그렇죠? 그것이 바로 보편적인 교환입니다. 고객은 필요한 토큰 수를 분당 몇 개로 정하고 , 할당량을 사전에 요청해야 합니다. Foundry는 고객이 이 문제를 해결하도록 어떻게 지원하고 있습니까 ?
+
+- **[Sitecore: From Content to Intelligent Experience](https://www.youtube.com/watch?v=j4cuUFfhmf0)** — 2026-07-08 · ko · `AX`
+  지금 보시는 것은 콘텐츠가 웹사이트 트래픽을 유도하는 것이 아니라, LLM(Learning Leadership Model)을 움직이는 원동력이라는 점입니다 . 그러니까 콘텐츠가 트래픽을 유도하는 게 아니라 , 오히려 콘텐츠 (음악) 자체가 트래픽인 셈이죠. 좋아요. 그래서 이제는 이전보다 훨씬 더 폭넓은 음악적 색깔이 브랜드와 제품에 미치는 영향에 대해 의식해야 합니다. 더욱 앞서나가고 혁신적인 고객들이야말로 실제로 자신의 업무 방식을 바꾸고 있는 고객들입니다. 그리고 우리는 이제 그 현상을 목격하기 시작했습니다.
+
+- **[Streamlining Model Onboarding and Exploration in Microsoft Foundry](https://www.youtube.com/watch?v=eCS00D0UHdo)** — 2026-07-08 · ko · `unclassified`
+  로그인하고, 모델을 선택한 다음, 인터페이스를 탐색하기 시작하면 됩니다. 그 안에 들어가면 무슨 일이 일어나는지 간단히 이야기해 볼까요 ? 생각 처럼 항상 간단한 건 아닙니다. 고객은 빠른 구축을 원 하지만, 어떤 모델을 선택해야 할지 고민하고 있습니다. 어떤 Azure 지역 또는 어떤 엔드포인트를 선택해야 하는 거죠? 배포 위치, 배포 유형, 배포 비용 및 제공 조건은 무엇입니까? 선택할 수 있는 게 많아요. 그래서 그 모든 과정을 거치다 보면, 모든 결정을 내리는 데 20분에서 30분 정도 걸릴 수도 있습니다
+
+- **[Wolters Kluwer scales regulated workloads with AKS, enabling AI-driven innovation](https://www.youtube.com/watch?v=W1MK7Xejx_s)** — 2026-07-08 · ko · `unclassified`
+  [음악] 저는 애덤 마렌틀레커이고, 월터스 클루워의 북미 세무 및 회계 엔지니어링 팀을 이끌고 있습니다. Wolters Kluwer는 전문 서비스 회사입니다. 저희는 세무 및 회계, 법률 및 규제, 의료, 기업 성과 및 ESG 전문가를 위한 솔루션을 전문으로 제공합니다. 인공지능은 우리 전략의 핵심입니다. 저희 세무회계 부서에서는 전문가들을 위한 세무, 감사, [음악] 및 자문 업무를 처리합니다 . 이러한 워크플로, 즉 세금 신고서 작성, 세금 신고서 준비, 감사 수행은 매우 순환적인 과정입니다.
+
+- **[From Idea to Deployed App: Replit on Microsoft Foundry with Claude](https://www.youtube.com/watch?v=O5osW2ZVF1k)** — 2026-06-29 · ko · `unclassified`
+  [음악] 아이디어가 단 몇 분 만에 작동하는 소프트웨어로 구현될 수 있다면 어떨까요 ? 문제, 제품, 운영, 영업 및 디자인 담당자들이 쉬운 언어로 코드를 작성하고, 개발자들은 실제 코드를 작성할 수 있다면 어떨까요? 그것은 에이전트 기반 소프트웨어 생성 플랫폼인 Replit입니다. 사용자가 원하는 바를 설명하면 [음악] 에이전트가 전체 스택 앱을 처음부터 끝까지 구축, 테스트 및 배포합니다 . 오늘날 사업 아이디어의 87%는 실제로 구현되지 않습니다. 내부 제작 도구는 배송까지 6개월에서 12개월이 소요될 수 있으며, 맞춤 제작 비용은 천문학적일 수 있습니다
+
+- **[Azure Service Health Alerts - Quick start guide](https://www.youtube.com/watch?v=LowIb32Stoo)** — 2026-06-18 · ko · `unclassified`
+  Azure에서 핵심 워크로드를 관리하고 있는데 예기치 않은 서비스 중단이 발생했다고 상상해 보세요. 사용자가 알아차리기도 전에 즉시 알림을 받아 대응할 시간을 벌 수 있다면 어떨까요? [음악] Azure 서비스 상태 알림은 바로 이러한 확신을 제공하며, 설정 방법은 생각보다 간단합니다. Azure 포털에서 이러한 알림을 구성하는 과정을 단계별로 살펴보겠습니다 . [음악] 먼저 Azure 포털에 로그인하세요. 상단의 검색창에 [음악] 서비스 상태라고 입력하고 검색 결과에서 선택하거나, 최근 접속한 서비스 섹션에 서비스 상태가 표시되면 클릭하세요 .
+
+- **[Azure HorizonDB + VS Code: Your AI App Development Workspace](https://www.youtube.com/watch?v=dl98C_Pgne8)** — 2026-06-12 · ko · `unclassified`
+  Azure Horizon DB는 마이크로소프트의 새로운 PostgreSQL 서비스로, 기업 환경에 적합하며 개발자를 위해 설계되었습니다 . 시작하는 방법은 간단합니다. 강력한 AMD Epic 프로세서, 영역 이중화 고가용성, 최대 테라바이트까지 자동 확장되는 스토리지를 포함하는 컴퓨팅 환경을 신속하게 구성하세요. Entra ID 인증과 [음악] 프라이빗 링크 네트워킹은 기본적 으로 엔터프라이즈급 보안으로 데이터를 보호합니다 . 포털에서 또는 VS Code에서 직접 프로비저닝할 수 있으므로, 어디에서 작업하든 Horizon DB는 워크플로에 적합합니다. VS Code 내부에서 GitHub co-pilot 작성자는 SQL을 관리합니다.
+
+- **[Members 1st updates its platform with Grafana Cloud and Azure, scaled through Microsoft Marketplace](https://www.youtube.com/watch?v=GH1sj_9v9XQ)** — 2026-06-11 · ko · `unclassified`
+  멤버스 퍼스트는 냉장고를 사야 했지만 형편이 안 됐던 해군 보급창의 한 직원으로부터 시작되었습니다 . 그의 동료 9명이 함께 모여 그 냉장고를 샀고, 그 후 멤버스 퍼스트 신용조합을 설립했습니다. 현재 저희는 62만 5천 명이 넘는 회원에게 서비스를 제공하고 있습니다. 그리고 그것 때문에 우리는 기존의 사업장 내 한계를 넘어설 수밖에 없었습니다 . Azure로의 마이그레이션은 당연한 선택이었습니다. 우리 인프라의 핵심에는 관찰 가능성 도구가 있습니다. 우리는 구성원들이 문제를 파악하기 전에 먼저 문제를 파악해야 합니다 .
 
 ## OpenAI (40건)
 
@@ -6228,6 +6843,128 @@
 
 - **[Meet the broccoli farmer running his farm with GPT-5.6.](https://www.youtube.com/watch?v=hWhfrR9WJ_c)** — 2026-07-09 · ko · `unclassified`
   지금 브로콜리 밭에 있지만, 밭에서 어디에서 어디까지 작업했는지 알 수 있습니다. 사라지기 때문에 교회를 디지털로 알 수 있도록하는 구조를 만들고 싶습니다. 홋카이도에 온 첫 때는 트랙터 타기 몰라도 [음악] 야채 만들기 사람들도 전혀 모르는 곳에서 시작했습니다. 매우 힘들었습니다. 엔지니어 아니지만 포덱스를 사용하여 효율성을 높입니다. 하고 있습니다. 비닐 하우스 측면 환기 하기 위해 비닐을 감아 라고 하는 작업을 이렇게 손으로 하고 있었다 네요. 음, 그런 것을 코덱스로 [음악] 전동 모터 넣고 자동화하는 노력 할 수있었습니다
+
+## Oracle (40건)
+
+- **[Budapest's Strategic Trade-Offs: Oracle Strategy Series](https://www.youtube.com/watch?v=fPFBSqRP3OM)** — 2026-07-24 · ko · `unclassified`
+  헝가리는 일반 서킷이지만, 추월이 매우 어렵기 때문에 시가지 서킷을 고려하고 있습니다. 따라서 가장 중요한 것은 예선입니다. 안녕하세요, 잭 브라운입니다. 오라클 전략 시리즈에 오신 것을 환영합니다. 이것은 경기 브리핑입니다. [음악] 이것은 부다페스트를 위한 오라클 전략 시리즈입니다 . 부다페스트는 타이어에 부담이 많이 가는 동시에 추월하기도 상당히 어려운 독특한 조합을 가지고 있어서 꽤 흥미로운 [음악] 트랙입니다 . 그러니까 트랙 위치와 가장 빠른 레이스라고 생각되는 경기를 따라가는 것 사이에서 끊임없이 균형을 맞춰야 한다는 거죠.
+
+- **[Bachman's: Better Retail Decisions with Oracle Retail](https://www.youtube.com/watch?v=V63YfGWyxaw)** — 2026-07-23 · ko · `DX`
+  바흐만스는 1885년에 설립되었습니다. 저희는 미네소타주 미니애폴리스와 트윈 시티 지역에서 가정용품, 화훼용품, 원예용품을 판매하는 소매업체입니다. [음악] 우리에겐 다양한 움직이는 부분과 요소들이 많이 있습니다. 우리 회사 규모에 비해 너무 복잡해요 . 오라클을 이용하기 전에는 우리 재고 관리가 엉망이었습니다. 우리는 우리가 가진 게 뭔지 전혀 몰랐다. 수요와 공급이 어떻게 될지 예측할 방법이 전혀 없었습니다 . 우리는 매장에 무엇이 있는지 전혀 몰랐어요 . 우리는 여러 다른 장소에서 그것을 가지고 있었습니다. 사람들은 엑셀 스프레드시트를 가지고 있었다.
+
+- **[Workforce Operations Command Center: Oracle Fusion Cloud HCM Demo](https://www.youtube.com/watch?v=T0t-igdojmg)** — 2026-07-23 · ko · `unclassified`
+  인력 운영 지휘 센터는 상담원들이 협력하여 인력 일정을 조정하고, 근태 기록을 검토하고, 휴가 요청을 관리하는 Fusion Agentic 앱입니다. 담당자들이 이미 주요 인력 배치 및 근태 관리 문제를 요약하고, 우선 조치 사항을 파악했으며, 중요한 공지 사항을 준비한 것을 확인했습니다. 그들은 배후에서 인력 충원 현황, 정책 위험, 결근 및 근태 기록 데이터를 지속적으로 평가하여 우리가 검토해야 할 우선 순위 조치를 파악합니다 . 첫 번째는 근무 교대 취소 요청입니다.
+
+- **[Deloitte on Modernizing Defense Missions: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=KAm3CM1B7Lw)** — 2026-07-21 · ko · `unclassified`
+  안녕하세요, 브뤼셀에서 열리는 오라클 방위 기술 서밋 현장의 오라클 TV에 오신 것을 환영합니다. 지금 이 자리에 딜로이트의 정부 및 공공 서비스 부문 글로벌 리더인 베스 맥그래스 씨가 함께해 주셔서 매우 기쁩니다. 베스, 정말 고마워요. 초대해 주셔서 정말 감사합니다. 이제 딜로이트에서 당신이 이끌고 있는 중요한 업무에 대해 이야기하고 싶습니다 . 아시다시피, 베스는 전 세계 정부 및 공공 부문 조직에 임무 우선순위, 혁신 이전, 운영, 기술 및 인력 현대화에 대한 자문을 제공합니다.
+
+- **[How to Activate an Oracle Fusion Applications Subscription and Create a Cloud Account](https://www.youtube.com/watch?v=Rnq1QhwWdZw)** — 2026-07-21 · ko · `DX`
+  이 튜토리얼에서는 Oracle Fusion Applications 구독을 활성화하고 서비스를 호스팅하는 데 필요한 Oracle Cloud 계정을 생성하는 방법을 알아봅니다. 계정 관리자로서 Oracle Fusion Applications를 프로비저닝하기 전에 구독을 활성화하고 Oracle Cloud 계정과 연결해야 합니다 . 이 시나리오에서 저희 조직은 Oracle Fusion ERP Cloud 서비스를 구매했으며, 구현 계획에 따라 서비스를 호스팅하기 위한 새로운 Oracle Cloud 계정이 필요합니다. 오라클에서 구독 주문을 처리한 후 , 구독 활성화 정보가 포함된 환영 이메일을 찾겠습니다.
+
+- **[How to Add a Custom Dimension to a Prebuilt Fact in Oracle Fusion Data Intelligence](https://www.youtube.com/watch?v=kgobEnDt1O0)** — 2026-07-21 · ko · `unclassified`
+  이 튜토리얼에서는 시맨틱 모델 확장 프레임워크를 사용하여 Oracle Fusion Data Intelligence(FDI)의 사전 구축된 팩트에 사용자 지정 차원을 추가하는 방법을 알아봅니다 . 이 시나리오에서 저는 시맨틱 모델 관리자입니다. 저는 시맨틱 모델 확장 기능을 사용하여 SCM 영업 주제 영역의 기존 팩트 테이블에 추가 데이터가 포함된 부서 차원을 추가할 것입니다 . 논리적 스타에 차원을 추가하면 수치적 사실에 추가적인 맥락과 설명적 속성을 제공할 수 있습니다 . 먼저 Autonomous Data Lakehouse에서 사용자 지정 부서 차원을 생성하겠습니다
+
+- **[How to Create Oracle Fusion Applications Environments](https://www.youtube.com/watch?v=l2EchQNc6Jc)** — 2026-07-21 · ko · `unclassified`
+  이 튜토리얼에서는 환경 설정 마법사를 사용하여 Oracle Fusion Applications 환경을 생성합니다 . Fusion Applications 환경을 생성하면 구현을 시작하는 데 필요한 운영 및 테스트 환경이 준비됩니다 . 이 시나리오에서는 이미 Oracle Fusion Applications 구독을 활성화하고 Oracle Cloud 계정에 로그인했습니다 . 이제 Fusion Applications 환경을 프로비저닝할 준비가 되었습니다. OCI 콘솔의 Fusion Applications 페이지에서 빠른 시작을 선택하여 환경 설정 마법사를 엽니다. 내 환경 패밀리 정보를 검토하고 기본 이름을 유지한 다음 구독 정보를 검토하고 계속 진행하려면 해당 구독을 선택하세요.
+
+- **[How to Explore GL Account Activity with CAA in Fusion ERP Analytics](https://www.youtube.com/watch?v=ZF69FSolHHY)** — 2026-07-21 · ko · `DX`
+  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)의 구성 가능한 계정 분석(CAA)을 사용하여 Fusion ERP의 GL 계정 활동을 탐색하는 방법을 알아봅니다 . 기능 관리자는 구성 가능한 계정 분석을 사용하여 관련 전표 소스에서 보강 속성을 선택함으로써 상세한 하위 원장 데이터를 총계정원장에 추가할 수 있습니다 . 분기 마감이 다가옴에 따라, 기간별 및 회계 전표 출처별 총계정원장 계정의 변동 사항을 분석하기 위한 통합 문서를 만들고 싶습니다 . Fusion ERP 분석 기능 관리자가 이미 생성하여 공유한 CAA 주제 영역이 있는 통합 문서에서 시작하겠습니다
+
+- **[How to Modify CAA Subject Area in Fusion ERP Analytics](https://www.youtube.com/watch?v=D4oEMObA6E4)** — 2026-07-21 · ko · `DX`
+  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)에서 Fusion ERP Analytics 구성 가능 계정 분석 주제 영역 정의를 수정하는 방법을 알아봅니다 . 기능 관리자는 구성 가능한 계정 분석(CAA) 또는 CAA 주제 영역 정의를 수정하여 저널 소스와 속성을 업데이트할 수 있습니다. 이 시나리오에서 저는 Fusion ERP 관리자로서 기능 관리자가 이미 생성하고 공유한 주제 영역을 다루고 있습니다. 현재 회계 기간 마감이 다가오고 있으며, 총괄 회계 관리자는 자산 세부 정보와 같은 여러 보조 원장 소스의 회계 정보를 단일 화면에서 확인해야 합니다.
+
+- **[How to Move Data to an Autonomous AI Lakehouse Using a Data Flow in Oracle FDI](https://www.youtube.com/watch?v=3Pr5anuLheI)** — 2026-07-21 · ko · `unclassified`
+  이 튜토리얼에서는 Oracle Fusion Data Intelligence 데이터 흐름에서 선별된 데이터를 Oracle Autonomous AI Lakehouse 외부 데이터 소스에 저장하는 방법을 알아봅니다. 데이터 흐름을 사용하면 선별 및 변환된 데이터를 내보낼 수 있으므로 동일한 Oracle Autonomous AI Lakehouse 데이터 소스에 연결할 수 있는 다른 사람들과 데이터 세트를 쉽게 공유할 수 있습니다. 이 시나리오에서는 두 주제 영역의 통합 데이터를 외부 Autonomous AI Lakehouse 데이터 소스에 로드하려고 합니다. 두 가지 주제 영역을 중심으로 데이터 흐름도를 제시하며 시작하겠습니다
+
+- **[How to Prepare a Dataset for Natural Language Results in Oracle Fusion Data Platform](https://www.youtube.com/watch?v=p1tKmrNSJ34)** — 2026-07-21 · ko · `unclassified`
+  이 튜토리얼에서는 Oracle Fusion Data Intelligence의 자연어 처리 기능 및 AI 지원을 통해 더 나은 결과를 얻기 위해 데이터 세트를 준비하고 비즈니스 친화적인 메타데이터를 개선하는 방법을 살펴보겠습니다. Oracle Fusion Data Intelligence(FDI)는 자연어 처리 기능과 AI 기반 인사이트를 제공하여 사용자가 데이터를 탐색하고, 시각화를 생성하고, 주요 패턴을 식별할 수 있도록 지원합니다. 이러한 기능을 최적화하려면 데이터 세트가 깨끗하고 명확하고 사용자 친화적인 명명 규칙을 사용하는 것이 필수적입니다 .
+
+- **[How to Provide Additional Context to Data Elements in Oracle Fusion Data Intelligence](https://www.youtube.com/watch?v=QjGnpwZH-wE)** — 2026-07-21 · ko · `unclassified`
+  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)에서 데이터 요소에 추가 컨텍스트를 추가하는 방법을 알아봅니다. 통합 문서 작성자는 시각화의 데이터 요소에 추가적인 맥락을 제공하기 위해 '선택 항목 설명' 기능을 활성화할 수 있습니다 . 이를 통해 소비자는 시각화에서 선택한 데이터 포인트를 나머지 데이터와 비교하여 추세와 영향을 미치는 요인을 파악할 수 있습니다. 이 시나리오에서 저는 공급망 분석가로서 소비자들이 이 지도 시각화를 더 잘 이해할 수 있도록 맥락적 정보를 추가하고 싶습니다.
+
+- **[How to Review Prebuilt Workbook Content in Oracle Fusion Data Intelligence](https://www.youtube.com/watch?v=k7s0QhdeDPE)** — 2026-07-21 · ko · `DX`
+  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)의 콘텐츠 탐색기 통합 문서를 사용하여 미리 만들어진 통합 문서 콘텐츠를 검토하는 방법을 알아봅니다. 콘텐츠 탐색기 통합 문서는 Oracle에서 제공하는 분석 콘텐츠에 대한 포괄적인 보기를 제공하여 사용자가 사용 가능한 보고서, 지표 및 주제 영역을 쉽게 찾을 수 있도록 합니다. 이를 통해 콘텐츠 관리, 릴리스 간 추적 기능을 개선하고 사용자 지정 통합 문서를 만들기 위한 기반을 마련할 수 있습니다 . 이 시나리오에서 저는 새로운 보고 시스템 구축을 지원하는 기능 관리자입니다
+
+- **[How to Track Workbook Content Usage in Oracle Fusion Data Intelligence](https://www.youtube.com/watch?v=L5IUdEgi1sg)** — 2026-07-21 · ko · `unclassified`
+  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)에서 통합 문서 콘텐츠 사용량을 추적하는 방법을 알아보겠습니다 . 관리자는 Oracle에서 제공하는 사전 구축된 통합 문서를 활용하여 통합 문서 사용량, 사용자 참여도 및 쿼리 성능을 모니터링하고 분석할 수 있으므로 조직에서 도입률을 높이고 추세를 파악하며 분석 성능을 최적화할 수 있습니다. 이 시나리오에서 저는 조직 전체 사용자의 통합 문서 사용량을 모니터링하려는 기능 관리자입니다 . 어떤 통합 문서가 가장 자주 액세스되고 가장 드물게 액세스되는지 파악하고 사용자 활동의 성능 및 추세를 확인합니다 .
+
+- **[How to Use the Oracle AI Data Platform Extension in Visual Studio Code](https://www.youtube.com/watch?v=vC_nIltsPkg)** — 2026-07-21 · ko · `DX`
+  이 튜토리얼에서는 Visual Studio Code에서 Oracle AI 데이터 플랫폼 개발자 확장 프로그램을 사용하는 방법을 살펴보겠습니다 . 이 확장 프로그램은 Visual Studio Code 내에서 Oracle AI 데이터 플랫폼 리소스에 직접 액세스할 수 있도록 해줍니다 . 연결 후에는 개발 환경을 벗어나지 않고도 에이전트, 워크플로, 지식 기반 및 작업 공간 파일을 사용할 수 있습니다 . 이 시나리오에서는 확장 프로그램을 설치하고 Oracle AI 데이터 플랫폼 인스턴스에 연결한 다음 해당 기능을 살펴보려고 합니다 .
+
+- **[Isack Hadjar Breaks Down Spa: Oracle Strategy Series](https://www.youtube.com/watch?v=jnovJ297KKE)** — 2026-07-17 · ko · `unclassified`
+  벨기에 그랑프리는 저에게 아주 특별한 곳입니다 . 이 트랙에서 제 생애 첫 레이싱 우승입니다 . 예선 랩이 워낙 길기 때문에 3번 섹터에서 최대한의 효율을 내려면 타이어 관리에 신경 써야 합니다. 안녕하세요, 아이작 아자이입니다. 오라클 전략 시리즈에 오신 것을 환영합니다 . 이것은 경기 브리핑입니다. [음악] 이것은 오라클 전략 시리즈, 스파입니다. 스파 서킷은 실제로 한 해 중 가장 긴 랩을 자랑하는데 , 전략가 입장에서는 랩을 멈출지 말지 고민하다가 결국 한 바퀴를 더 돌기로 결정하면 그 시간이 엄청나게 길게 느껴진다는 뜻입니다
+
+- **[Oracle Defence Tech Summit 2026: Event Highlights](https://www.youtube.com/watch?v=9ekXsXR_PI4)** — 2026-07-17 · ko · `unclassified`
+  브뤼셀에서 열리는 연례 방위 기술 정상 회의에 참석하기 위해 이곳에 왔습니다. 군사 지도자, 혁신가, 시스템 통합업체, 음악 기술 전문가 등 모든 분들이 임무 지원을 위해 한자리에 모였습니다. 인공지능이 국방 방식을 바꾸고 있다. 제게 가장 값진 통찰은 이러한 생태계와 우리가 구축할 수 있는 연결고리에 관한 것이었습니다. 오늘 행사는 에너지 넘치고 협력적인 분위기입니다. 모든 곳에 AI가 존재한다는 아이디어는 저에게 큰 의미가 있었는데, 오늘 패널들이 AI 솔루션을 컨테이너화하고 전투원의 역량을 강화하기 위해 에어갭 솔루션에 적용하는 방법에 대해 이야기하는 것을 들으면서 큰 깨달음을 얻었습니다
+
+- **[Silverstone's Unpredictability: Oracle Strategy Series](https://www.youtube.com/watch?v=gSHV0fFi2fc)** — 2026-07-17 · ko · `unclassified`
+  저는 실버스톤을 정말 좋아해요. F3에 한 명, F2에 한 명 , 아직 F1에는 진출하지 못했습니다. 그곳은 무슨 일이든 일어날 수 있는 트랙이고, 특히 날씨의 영향을 많이 받습니다. 영국 날씨란 원래 그래요. 의사결정이 핵심입니다. 안녕하세요, 사샤 페네스트라즈입니다. 오라클 전략 시리즈에 오신 것을 환영합니다 . 이것은 경기 브리핑입니다. [음악] 실버스톤을 위한 오라클 전략 시리즈입니다. 실버스톤은 날씨 변화가 심한 곳입니다 . 비 오는 날이 한 번도 없는 건 정말 드문 일이에요.
+
+- **[Why OCI: Engineered for the Systems the World Can’t Afford to Lose](https://www.youtube.com/watch?v=RA5ZgB8rj_I)** — 2026-07-17 · ko · `unclassified`
+  세상은 당신이 결코 볼 수 없는 시스템 위에서 [음악]을 움직입니다 . 모든 클릭, 모든 거래, 모든 모델, 모든 결과. 이 모든 것은 인프라에 달려 있습니다. 가장 작은 규모의 구축부터 가장 큰 시스템에 이르기까지, 인프라는 안정적으로 작동해야 합니다 . 기반 시설의 취약점은 결코 고립된 문제로 남지 않기 때문입니다. 지연 시간이 누적되고, 오류가 연쇄적으로 발생하며, 작은 비효율성이 모든 것을 완전히 멈추게 합니다. 그래서 OCI는 처음부터 새롭게 설계되었습니다 . 우리는 클라우드를 물려받지 않았습니다.
+
+- **[AI Changes Everything: Using AI to Help Prevent Human Trafficking](https://www.youtube.com/watch?v=G6PZCdNSl68)** — 2026-07-16 · ko · `AX`
+  이 팟캐스트에서 표현된 견해는 개별 발표자의 견해이며, 발표자 의 소속 기관이나 오라클 또는 그 계열사의 견해 또는 정책을 반드시 반영하는 것은 아닙니다. 인공지능에 대해 이야기할 때, 우리는 기술 자체에만 집중하고 그 결과를 간과하는 경향이 있습니다. 하지만 이 기술에는 또 다른 측면이 있습니다. 바로 이 기술을 활용하여 세계가 직면한 가장 심각한 문제들을 해결할 수 있다는 점입니다. 인신매매는 가장 명확한 사례 중 하나입니다. 이번 에피소드에서는 인공지능을 활용하여 이러한 문제를 해결하는 방법에 대해 논의하겠습니다
+
+- **[Mars Veterinary Health: AI Lakehouse at Oracle AI World](https://www.youtube.com/watch?v=aF3rI3P0rCI)** — 2026-07-16 · ko · `unclassified`
+  우리 세계에 오면 배울 것이 많습니다. 아시다시피, 여러분은 이미 주변 환경에서 필요한 것을 다 배웠다고 생각할지 모르지만, 사실 배울 것이 훨씬 더 많습니다 . 저희는 혁신가이며, 특정 기술을 도입하는 데 있어서 항상 앞서 나가는 편입니다. 오라클과 함께 음악 분야에서 협업하면서 자신감을 얻었고, 누구와 이야기해야 할지도 알게 되었습니다. 이건 정말 엄청난 기회예요. 더 효율적으로 일하고 더 나은 결정을 내리고, 궁극적으로는 반려동물을 위한 더 나은 세상을 만들고자 하는 우리의 바람을 실현할 수 있는 기회죠.
+
+- **[Tamilnad Mercantile Bank Drives Efficiency with AI-Powered Oracle Fusion Apps](https://www.youtube.com/watch?v=Tmdhybwtvxc)** — 2026-07-15 · ko · `DX`
+  타밀나두 상업은행은 1921년에 설립된 민간 은행입니다. 저희 은행은 주로 중소기업 고객을 대상으로 사업을 운영하고 있습니다. 이전에는 통합되지 않고 서로 연동되지 않는 기존 시스템을 사용했습니다 . 고객들은 모든 서비스를 받기 위해 카운터로 직접 오셔야 합니다 . 요청 건의 70%는 수표책 발급 요청이었습니다. 그래서 이것은 수작업으로 진행되는 과정이라 시간이 오래 걸리고 비용 효율도 전혀 좋지 않았습니다 . 저희 핵심 뱅킹 시스템은 4년 전에 업그레이드되었고, 그 후 고객 서비스 경험도 개선하고 싶었습니다.
+
+- **[NHS Shared Business Services: Releasing Time Back to Care with Oracle](https://www.youtube.com/watch?v=x2Ij30XkWh8)** — 2026-07-14 · ko · `unclassified`
+  NHS [음악] Shared Business Services는 합작 투자 회사입니다. 보건 사회복지부 (음악 부문)가 50%, 소프라 스테리아 그룹이 50%의 지분을 소유하고 있습니다. 저희 회사는 설립 당시 오라클과 파트너십을 맺고 온프레미스 음악 솔루션을 활용하여 작업 기반 자동화, 맞춤형 음악 보고서 등 수백 건의 작업을 진행했습니다. 그리고 정말 중요한 것은 우리가 데이터를 확보했고, 그 데이터를 의미 있는 통찰력으로 바꿔야 한다는 것입니다 . 우리는 특히 [음악] 분야의 재정 역량을 강화하고 재정 및 조달 분야에서 탁월함이 무엇을 의미하는지 재정립해야 했습니다
+
+- **[AI Credit Risk Assessment with Oracle AI Data Platform: Demo](https://www.youtube.com/watch?v=q6SmYFaoKHM)** — 2026-07-13 · en · `DX`
+  In the financial services industry, risk teams at fast-growing retail banks often spend hours manually pulling data from multiple systems to review credit applications. These teams need speed, control, and full auditability. That's exactly what Oracle AI data platform delivers. With AI data platform, teams work from a single platform, one place for both their data and their AI. Instead of juggling disconnected tools, they simply ask, "Show loan applications that need attention.
+
+- **[Build Agentic Apps with Oracle AI Studio Skill: Demo](https://www.youtube.com/watch?v=TDJJLHdBvnY)** — 2026-07-13 · ko · `unclassified`
+  안녕하세요 여러분. 오늘 아침 여러분께 오라클의 새로운 Agente 앱 빌더를 소개하게 되어 정말 기쁩니다. Agente 애플리케이션을 처음 사용하시는 분들을 위해 설명드리자면, Agente 애플리케이션은 모든 화면 내용이 에이전트를 통해 추론되고, 자연어 로 질문하고 즉각적인 답변을 받을 수 있는 완전한 추론 및 사고 기능을 갖춘 애플리케이션입니다. 저희는 GitHub를 통해 저희의 AI 스킬, VS Code 플러그인, 그리고 이 모든 것을 작동시키는 데 필요한 CLI 도구를 공개하게 되어 매우 기쁩니다 .
+
+- **[Manufacturing AI: Production Incident Response Demo](https://www.youtube.com/watch?v=T6AbSaO1hBQ)** — 2026-07-13 · ko · `AX`
+  가전제품 공장의 생산 관리 감독관이 슬랙 알림을 받았습니다. 3번 생산 라인의 불량률이 갑자기 허용 한도를 넘어섰습니다. 관리자는 대시보드를 일일이 살펴보는 대신 AI 에이전트를 열어 무슨 일이 일어나고 있는지 파악합니다. 상담원은 몇 초 만에 문제의 원인을 파악합니다. 3번 생산 라인의 기계에서 비정상적인 품질 패턴과 높은 운영 위험도가 나타나고 있습니다. 심층 분석을 통해 전체적인 상황을 파악할 수 있습니다. 기계가 임계점에 도달하고 있습니다. 머신 러닝 기반 위험 점수는 심각도를 확인하고 , 검사 로그는 맥락을 추가합니다 .
+
+- **[Retail AI: Dynamic Price Markdown Demo](https://www.youtube.com/watch?v=NqpAj0hhdXA)** — 2026-07-13 · ko · `AX`
+  오늘날 소매업체는 재고 관리 및 판매 속도 향상을 위한 더욱 정교한 접근 방식이 필요합니다 . 실시간 대시보드를 검토하는 것만으로는 필요한 비즈니스 효율성을 달성하기에 충분하지 않습니다. 최고 매출책임자인 앤드류는 재고 증가, 제품 판매 부진, 이익률 감소의 원인을 파악하고 해결책을 제시하는 지능형 시스템을 원합니다. 이 데모에서는 Oracle AI 데이터 플랫폼을 사용하여 동적 가격 인하를 통해 재고 및 판매 속도를 관리하는 방법을 살펴보겠습니다. 기획 관리자인 라케시는 이제 매일 아침 어떤 제품의 가격을 인하해야 할지 검토하는 것으로 하루를 시작합니다.
+
+- **[Utilities AI: Asset Intelligence Demo](https://www.youtube.com/watch?v=yPgywlK6C4Q)** — 2026-07-13 · ko · `DX`
+  Oracle AI 데이터 플랫폼은 Oracle 유틸리티 데이터 인텔리전스 그리드 인사이트를 기반으로 유틸리티 그리드 운영 분석 기능을 확장합니다. Oracle 미터 데이터 관리 기능이 있는 경우 이를 활용하고, 없는 경우에는 독립적으로 구축할 수 있습니다. 이 데모에서는 AI 데이터 플랫폼이 타사 맞춤형 모델, SOP 추론 및 AI 에이전트를 기반으로 계층 구조를 구축합니다. 대시보드를 샅샅이 뒤지는 대신 , 그들은 단순히 오늘의 유지보수 우선순위를 어떻게 정해야 하는지 묻습니다. 에이전트는 즉시 순위 목록을 반환합니다 .
+
+- **[Big Boy Restaurants: Modernizing Operations with Oracle](https://www.youtube.com/watch?v=xbmANqgfIBQ)** — 2026-07-10 · ko · `unclassified`
+  빅보이는 90년 역사를 자랑하는 브랜드입니다. 저희 회사는 미시간주에 본사를 두고 있습니다. 저희는 햄버거를 비롯한 다양한 가족 메뉴를 제공합니다. 빅보이는 미국 전역에 56개의 매장을 운영하고 있습니다 . 저희는 매우 성공적이었던 푸드트럭 모델과 드라이브스루 방식으로 사업 방향을 전환하고 있습니다. 저희는 저희를 가장 잘 아는 기존 고객분들께는 최고의 서비스를 제공하고 , 저희 에게서 새로운 모델을 찾고 있는 신규 고객분들께도 만족스러운 경험을 선사하고 싶습니다 . 과거에 우리가 직면했던 어려움 중 가장 큰 것은 음악 산업 관련 보도였습니다
+
+- **[How to Configure Slack Integration in Oracle Analytics Cloud](https://www.youtube.com/watch?v=9ioZ0wvErvY)** — 2026-07-10 · ko · `unclassified`
+  이 튜토리얼에서는 Oracle Analytics Cloud 및 Fusion Data Intelligence에서 Slack 통합을 구성하는 방법을 알아보겠습니다. 관리자로서 저는 Oracle Analytics Cloud를 Slack에 연결하여 워크북 작성자가 캔버스와 시각화를 조직 Slack에 직접 공유할 수 있도록 할 수 있습니다. 이를 통해 수동으로 콘텐츠를 내보내지 않고도 팀 ​​슬랙 채널에 쉽게 콘텐츠를 배포하고 협업을 간소화할 수 있습니다. 먼저 슬랙의 조직 워크스페이스에 새 앱을 만들겠습니다 . api.slack.com/apps로 이동하겠습니다. 저는 이미 로그인되어 있어서 바로 접속할 수 있습니다 .
+
+- **[How to Use Rule Blending for Conditional Formatting in Oracle Analytics Cloud](https://www.youtube.com/watch?v=pQ-89a9UYEw)** — 2026-07-10 · ko · `unclassified`
+  이 튜토리얼에서는 Oracle Analytics Cloud 및 Fusion Data Intelligence에서 조건부 서식을 위해 규칙 블렌딩을 사용하는 방법을 알아봅니다. 규칙 혼합 기능을 사용하면 시각화에서 동일한 데이터 포인트에 여러 조건부 서식 규칙을 적용하여 데이터의 다양한 측면을 동시에 강조하거나 규칙이 중복될 때 어떤 규칙이 우선 적용될지 제어할 수 있습니다 . 이 시나리오에서는 표 형식으로 제품 판매량과 이익률을 분석하고 있으며, 판매 실적과 수익성을 동시에 강조하고 싶습니다. 시작하려면 시각화를 마우스 오른쪽 버튼으로 클릭하고 조건부 서식을 선택한 다음 규칙 관리를 선택하여 조건부 서식 대화 상자를 열겠습니다
+
+- **[Oracle AI Infrastructure: Powering Enterprise AI](https://www.youtube.com/watch?v=XaxplgI6FGw)** — 2026-07-10 · ko · `unclassified`
+  AI는 새로운 성장 동력이 될 수 있습니다. 하지만 비용을 관리하고 데이터 거버넌스를 유지하면서 대규모로 운영할 수 있는 경우에만 가능합니다 . 이를 위해서는 사업을 운영하는 모든 곳에서 필요한 도구, 성능 및 유연성을 제공하는 데 집중하는 파트너가 필요합니다 . 오라클 클라우드 인프라는 이러한 과제를 해결하기 위해 설계되었습니다 . 이 제품은 세계에서 가장 까다로운 워크로드, 국제 은행 시스템, 국가 데이터 인프라, 대규모 AI 교육 및 가장 복잡한 사용 사례를 위해 설계되었습니다.
+
+- **[Oracle at Gartner CSO: Demand More from Enterprise AI](https://www.youtube.com/watch?v=yhrBN_Ka-iA)** — 2026-07-10 · ko · `AX`
+  네, 좋은 아침입니다. 여러분 모두 AI에 대해 이미 충분히 들으셨잖아요, 아니면 [웃음]. 음, 제가 오늘 하려는 것은 여러분과 조금 이야기를 나누는 것입니다. 여러분은 인공지능을 활용한 생산성 향상에 대해 많은 이야기를 들어보셨을 것이고, 인공지능으로 무엇을 할 수 있는지, 그리고 인공지능이 여러분의 개별적인 작업 해결을 어떻게 도울 수 있는지 알고 계실 겁니다. 저는 여러분께 그것으로 무엇이 가능한지 알려드리기 위해 이 자리에 왔습니다 . 저는 여러분이 공급업체와 시스템에 더 많은 것을 요구하도록 격려하기 위해 이 자리에 섰습니다
+
+- **[Data-Centric Warfare in Defense: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=o-EORDp5lLs)** — 2026-07-09 · ko · `DX`
+  오라클 TV에 다시 오신 것을 환영합니다. 오늘 브람 카엘렌버그 씨가 함께해 주셨습니다. 그는 오라클 AMEA의 국방 부문 부사장입니다. 환영. 아시다시피, 저희는 지금 벨기에에 있습니다. 밖이 정말 덥네요 . 당신은 이 지역 출신이시니, 설명을 부탁드리는 겁니다. 왜 이렇게 더운 거지? 우선, 좋은 분위기와 공간의 역동적인 느낌 때문이라고 생각해요. 좋은 의미로 뜨겁다. 두 번째로, 좋은 의미로 덥고, 온도가 정말 높습니다. 벨기에에서 이맘때 이런 날씨는 매우 이례적입니다 . 그래요, 어제 햇볕 좀 쬐었어요.
+
+- **[Defence Holdings on Accelerating Defense Innovation: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=CfXpGp9Gn-w)** — 2026-07-09 · ko · `unclassified`
+  네, 브뤼셀에서 열리는 오라클 방위 기술 서밋 현장의 오라클 TV에 다시 오신 것을 환영합니다 . 그리고 오늘 다음 손님으로 모실 분은 디펜스 홀딩스의 CEO이신 앤드류 로완 씨입니다. 이렇게 만나 뵙게 되어 매우 기쁩니다. 앤드류, 함께해 주셔서 정말 감사합니다. 쇼나, 초대해 주셔서 정말 감사합니다. 방금 Defense Holdings Oracle과 Oracle 간의 새로운 파트너십 발표가 있었던 것으로 알고 있습니다. 잠시 후에 자세히 살펴보겠지만, 먼저 디펜스 홀딩스부터 시작해 보겠습니다.
+
+- **[Quori on Faster Intelligence Decisions: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=2EVwiIPkfmA)** — 2026-07-09 · ko · `unclassified`
+  오라클 TV에 다시 오신 것을 환영합니다. 코리(Corey)의 최고운영책임자(COO)인 아담 브라운 씨를 옆에 모시게 되어 기쁩니다. 아담, 오늘 이 자리에 함께해 주시고 오라클 디펜스 에코시스템의 일원이 되어 주셔서 정말 감사합니다. 영광입니다. 그래서 저희는 감사하게 생각합니다 . 감사합니다. 그럼 코리부터 시작해 볼까요? 당신이 이끌고 있는 업무, 국방 분야 전반에 걸쳐 당신이 이끌고 있는 업무, 그리고 당신이 해결하고 있는 문제들. 좀 더 자세히 알려주시겠어요 ? 네, बिल्कुल 그렇습니다. 따라서 쿼리는 운영 정보 시스템입니다.
+
+- **[Sovereign Cloud for Defense: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=0xmFwhNACTc)** — 2026-07-09 · ko · `unclassified`
+  네, 브뤼셀에서 열리는 오라클 방산기술 서밋에 다시 한번 참여하게 되었습니다. 오늘 저는 오라클 소버린 클라우드 부문 수석 부사장인 랜드 월드론 씨와 함께하고 있습니다. 저기, 좋은 생각이 하나 났어요. 응. 좋아요, 한번 시도해 볼게요. 응. 제목은 네, 맞습니다. 제 생각에는 군주, 랜드 월드론인 것 같습니다. 제 생각에는 주권자는 두 명뿐인 것 같고, 오라클에는 한 명뿐일지도 모르겠습니다. 그리고 저는 그들의 통치에 이의를 제기하고 싶지 않습니다 . 알았어, 알았어. 그리고 아마 인사 규정에도 맞지 않을 겁니다.
+
+- **[Sovereign Control in Defense: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=mdarn_Po4_g)** — 2026-07-09 · ko · `unclassified`
+  오라클 TV에 다시 오신 것을 환영합니다. 오라클의 수석 부사장인 제이슨 리스 씨를 다음 손님으로 모시게 되어 기쁩니다. 제이슨은 오늘 국방 기술 정상 회담 개막 연설에서 국방 조직이 직면한 가장 중요한 문제 중 하나인 서방 기술 스택에 대한 주권적 통제권을 언급하며 회담을 시작했습니다. 제이슨, 와주셔서 정말 감사합니다. 초대해 주셔서 감사합니다. 그럼, 거기서부터 시작해 볼까요? 주권 통제, 왜 그토록 중요한가요? 특히 지금 이 시점에서 말이죠. 음, 정말 흥미롭네요.
+
+- **[Unplugged on Privacy-First Mobile Security: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=-4hM4ogdlu4)** — 2026-07-09 · ko · `unclassified`
+  오라클 TV에 다시 오신 것을 환영합니다. 지금 조 와일리 씨가 저와 함께하고 계십니다. 그는 언 플러그의 CEO입니다. 그는 이전에 애플에서 서비스 부문 책임자를 역임했으며, 현재는 개인정보 보호를 최우선으로 하는 모바일 회사를 이끌고 있습니다. 조, 함께해 주셔서 감사합니다. 내가 뭔가 잘못한 게 있나요? 아니, 프리츠. 초대해 주셔서 감사합니다. 그리고 모든 게 다 맞았어요 . 좋아요 , 잘됐네요. 좋은. 음, 먼저 ' 언플러그'부터 시작해 볼까요? 어떤 문제를 해결하려고 시작했나요?
+
+- **[Whitespace on Sovereign AI for Defense: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=ZAByHbFlEoM)** — 2026-07-09 · ko · `unclassified`
+  오라클 TV에 다시 오신 것을 환영합니다. 오늘 첫 번째 손님인 폴 젠킨슨 씨와 함께합니다. 그는 화이트스페이스의 CEO이자 공동 창립자입니다. 오늘 함께해 주셔서 감사합니다. 고마워, 프리츠. 이곳에 오게 되어 기쁩니다. 괜찮은. 그럼 국방 및 국가 정보 분야에서 국가 주도형 인공지능(AI) 구축을 위해 당신이 이끌고 있는 업무부터 시작해 볼까요? 음, 화이트스페이스가 어떤 일을 하고 있는지 좀 더 자세히 설명해 주시겠어요 ? 우리의 핵심 목표는 의사 결정의 우월성을 확보하는 것입니다.
 
 ## Reckitt (40건)
 
@@ -7731,300 +8468,6 @@
 - **[No Unexpected Repair Costs | BMW Repair Inclusive](https://www.youtube.com/watch?v=HzJ9jJK1bkk)** — 2026-04-21 · ko · `unclassified`
   안심하고 드라이브를 즐기세요. All About BMW Service 에 오신 것을 환영합니다. 예상치 못한 일은 대개 가장 예상치 못한 순간에 발생합니다. 순수한 주행의 즐거움을 만끽하고 예상치 못한 수리 비용에 대한 걱정은 이제 그만하세요. BMW는 물론 수리가 드물지만, 가끔은 필요할 때도 있습니다. 모든 주행을 마음 편히 즐기세요. 저희는 이를 "BMW Repair Inclusive"라고 부릅니다. 걱정하지 마시고 행복하세요. 법정 보증 기간이 만료된 후에도 Repair Inclusive를 통해 모든 수리 비용이 보장된다는 사실을 알고 기쁘게 생각하세요.
 
-## GE HealthCare (32건)
-
-- **[Patient Story | Steve Anspaugh](https://www.youtube.com/watch?v=AiC05lFGlOc)** — 2026-07-23 · en · `unclassified`
-  It was a Sunday afternoon. We were coming home from a volleyball tournament that my [music] daughter was playing in the Chicago area and had just told my wife that my chest [music] was hurting me and she was obviously confused what was going on and I just said it hurts in the middle of my chest. That evening [music] the doctor came in and said, "Hey, we you know, we got the test results back.
-
-- **[Antonio Spera intervista Peter Arduini](https://www.youtube.com/watch?v=gu1uoSsLyj0)** — 2026-07-17 · ko · `unclassified`
-  [음악] 안녕하세요, 피트. 밀라노에 오신 것을 환영합니다 . 안토니오, 만나서 반가워요. 음, 중요한 질문은 우리가 꽤 오래전부터 의도적인 혁신에 대해 이야기해 왔다는 것입니다. 어떻게 하면 기술 주도적인 동시에 충족 되지 않은 요구들을 해결하고, 그러한 요구들을 달성하기 위해 노력할 수 있을까요? 응. 아니요, 의도적인 혁신에 대한 훌륭한 질문이라고 생각합니다. 보세요, 이 모든 것의 큰 부분은 고객 중심이지만, 동시에 연구 기반 접근 방식도 중요합니다. 아시다시피, 이탈리아에는 이러한 문제들을 고민하는 데 도움을 주는 매우 명망 있는 연구 기관들이 있습니다
-
-- **[Seeing the Unseen: How Quanititiave PET Unlocks Hidden Coronary Risk with Dr. DiCarli](https://www.youtube.com/watch?v=JDpie3clGfw)** — 2026-07-16 · ko · `unclassified`
-  RSNA에서 주최하는 이번 웨비나에 오신 모든 분들을 환영합니다. 이번 웨비나에서는 정량적 PET 영상 촬영을 통해 보이지 않는 것을 발견하고, 숨겨진 관상동맥 질환 위험을 밝혀내는 방법을 알아보겠습니다. 저는 RSNA에서 이 발표에 초대해 주신 것과 GE 헬스케어에서 이 웨비나를 후원해 주신 것에 대해 감사를 드리고 싶습니다. 다음은 제가 발표할 내용과 어느 정도 관련이 있는 이해관계 공개 목록입니다 . 시작하기 전에, GE 제품 중 정량 PET 영상 촬영에 사용되는 형광 물질에 대한 중요한 안전 정보를 잠시 알려드리고자 합니다.
-
-- **[MUSE NX and MAC 5 customer testimonial Semmelweis University, Budapest, Hungary](https://www.youtube.com/watch?v=dP2GdighZjs)** — 2026-07-14 · ko · `unclassified`
-  [음악] 저희는 매우 바쁜 응급실 환경에서 일하고 있습니다 . 심전도 검사 결과를 최대한 빨리 얻고 , 가능한 한 빨리 평가하여 담당 관리자에게 보여주는 것이 매우 중요합니다. 이전의 업무 흐름은 전적으로 종이 기반이었는데, 이는 간호사가 환자 침대 옆에서 심전도를 검사하고, 종이를 출력한 다음, 그 종이를 의사나 의료진에게 가져가서 검토 후 심전도에 도장을 찍는다는 것을 의미했습니다 . 그리고 그것은 기술 자체 때문에 문제가 되었습니다 . [음악] 그래서 간호사가 심전도를 찍었는데, 화질이 좋지 않아서 제대로 해석할 수가 없었어요.
-
-- **[Vscan Air™ SL with Caption AI™](https://www.youtube.com/watch?v=a2vCsyZx5WM)** — 2026-07-10 · ko · `unclassified`
-  열. [음악] 열기. [음악] 열기. 열. 열. [음악] 열기. [음악] 여기서 [음악] [음악]을 데워보세요.
-
-- **[Vscan Air™ SL with Caption AI™](https://www.youtube.com/watch?v=fzyhUDf6MQk)** — 2026-07-10 · ko · `unclassified`
-  열. [음악] 열기. [음악] 열기. 열. 열. [음악] 열기. [음악] 여기서 [음악] [음악]을 데워보세요.
-
-- **[WFUMB webinar: From silent disease to global action](https://www.youtube.com/watch?v=ZMfNvcJJ3R4)** — 2026-06-26 · ko · `unclassified`
-  정말 아름다운 날이네요. 안녕하세요, 좋은 저녁입니다. 전 세계에서 참여해주시는 모든 분들을 환영합니다 . 세계 초음파 의학 및 생물학 연맹(WFMP)을 대표하여 오늘 웨비나에 여러분을 환영하게 되어 매우 기쁩니다 . 세계 지방간의 날. 침묵의 질병에서 국제적 대응으로. 만성 간질환의 조기 발견 및 더욱 효율적인 치료 경로 개발. GE 헬스케어의 후원으로 제작되었습니다. 만성 간 질환, 특히 대사 기능 장애와 관련된 스테로이드 성 간 질환은 전 세계 수억 명에게 영향을 미치는 우리 시대의 가장 중요한 글로벌 건강 문제 중 하나가 되었습니다
-
-- **[Vscan Air™ | An individualized approach with POCUS in plastic surgery](https://www.youtube.com/watch?v=izCf8W2r6s4)** — 2026-06-24 · ko · `unclassified`
-  안녕하세요, 저는 니콜스 박사입니다. 저는 성형외과 및 재건외과 전문의 자격증을 소지하고 있습니다. 제 파트너인 다니엘 앨버트 샤르그는 마취과 전문의 자격증을 소지하고 있습니다 . 저희는 함께 펄 성형외과라는 진료소를 운영하고 있으며, 외래 수술 센터를 통해 매년 수백 건의 미용 수술을 외래 환자를 대상으로 시행하고 있습니다. 저희는 이 Vscan Air를 사용하여 환자 의 수술 전 평가를 진행하고, 지방 조직 깊이를 확인하고, 이를 통해 복부 성형술 계획을 세우고, 기대치를 설정하고, 수술 시 예상되는 상황을 파악하는 데 도움을 받고 있습니다
-
-- **[Beyond the Bore: Elevating Women's Imaging](https://www.youtube.com/watch?v=hBYe1_cIjAo)** — 2026-06-18 · ko · `unclassified`
-  안녕하세요 여러분. 저희 Beyond the Board 팟캐스트에 참여해 주셔서 감사합니다. 저는 GE의 아담 케셀이고, 오늘은 캘리포니아 대학교 샌디에이고 캠퍼스의 레베카 페너 박사님을 모셨습니다. 음, 오늘 그녀는 여성 영상 진단, 특히 골반 부위 영상 진단에 대해 이야기해 줄 예정이며, MRI가 진단 및 수술 치료 계획 수립에 얼마나 중요한 역할을 하는지 설명해 줄 것입니다 . 레베카 박사님, 자기소개와 함께 좀 더 자세한 이야기를 들려주시겠어요? 네, 그래서 음, 저는 제가 세상에서 가장 좋은 직업을 갖고 있다고 생각해요.
-
-- **[Patient Story | Nicole & Bradley Gibson](https://www.youtube.com/watch?v=nBzRFqb94eE)** — 2026-06-18 · ko · `unclassified`
-  [음악] 내가 제일 먼저 스스로에게 한 말은 '왜 하필 나야?'였어. 내가 무언가를 통제할 수 없었던 건 그때가 처음이었다. 저는 그녀와 함께 병원 진료를 받으러 다니면서, 그 병이 얼마나 오래 걸릴지, 그리고 제가 어떻게 그녀를 도울 수 있을지 알아내려고 노력하고 있어요. 이것이 우리가 앞으로 얼마나 오래 지속될지는 모르지만, 우리에게는 새로운 현실입니다. 제 이름은 니콜 깁슨입니다. 저는 GE 헬스케어의 주니어 임원 리더십 프로그램에 참여하고 있습니다 . 제 이름은 브래들리 깁슨입니다.
-
-- **[Workflow optimization with GE HealthCare CardioLab AI.i and Volta AF-Xplorer II](https://www.youtube.com/watch?v=TabAqdd4gkQ)** — 2026-06-11 · ko · `AX`
-  이번 시간에는 제가 여러분께 이야기를 나누겠습니다 . 발표는 약 30분 정도 진행될 예정 이며, 질의응답 시간이 추가로 주어집니다. 제목은 " GE Healthcare CardioLab AI와 Volta AF Explorer 2를 활용한 워크플로우 최적화"입니다. 두 가지 기술과 두 가지 개념이 결합되어 매우 효율적이고 만족스러운 워크플로우를 구현한 사례를 보여드리겠습니다. 그리고 저는 이러한 시스템과 관련된 우리 사건들이 잘 해결되기를 바랍니다 . 자, 이제 제가 밝힐 사항들을 알려드리겠습니다.
-
-- **[AI Ultrasound for Nerve Blocks | Nerveblox](https://www.youtube.com/watch?v=t6zBYEG6h1g)** — 2026-06-08 · ko · `unclassified`
-  이분은 마취과 의사입니다. 수천 건의 말초신경 차단술을 시행해 온 마취과 의사(음악)지만, 오늘날의 해부학적 지식은 교과서적이지 않다. 랜드마크는 눈에 잘 띄지 않습니다. 비행기는 시각화하기가 더 어렵습니다. 전문가조차도 명확성이 가장 중요한 순간에 직면하며, 이때 약간의 추가적인 음악적 지침이 큰 차이를 만들어낼 수 있습니다. 이것은 Nerve [음악] Blocks입니다. 해부학적 변이, 환자 요인 또는 복잡한 [음악] 상태로 인해 시야가 가려질 때 그녀가 믿고 의지하는 실시간 조력자입니다.
-
-- **[AI in Regional Anesthesia | Smarter Ultrasound Guidance](https://www.youtube.com/watch?v=miUbiJp3t2o)** — 2026-06-08 · ko · `unclassified`
-  세계 국소마취 및 통증의 날에 오신 모든 분들을 환영합니다 . 저는 아미트 파워입니다. 안녕하세요, 저는 제프 개즈든입니다. 세계 인공지능의 날을 맞아 여러분과 인공지능과 국소마취에 대한 저희 생각을 나눌 수 있게 되어 매우 기쁩니다. 자, 제프, 이번 에피소드는 저희 팟캐스트에서 영감을 받은 에피소드 중 하나입니다. 자, 그럼 농담부터 시작해도 될까요? 어머, 들어보세요. 시간이 좀 부족하니까 농담은 최대한 자제해 주세요 . 저는 어떤 상황에서든 농담을 할 기회를 절대 놓치지 않아요. 맙소사.
-
-- **[Beyond the Pulse: Integrating Ultrasound and Cardiac Output Monitoring for Intraoperative Excellence](https://www.youtube.com/watch?v=bj_HbE_oMec)** — 2026-06-08 · ko · `AX`
-  안녕하세요 여러분, 모로코에 오신 것을 환영합니다. 마라케시에 오신 것을 환영합니다 . 머지않아 초음파 검사 결과를 해석하는 사람이 당신 혼자만은 아닐 수도 있습니다. 인공지능이 여러분을 안내하고, 잘못된 부분을 바로잡아주고 , 어쩌면 도전 과제까지 제시할 것입니다. 시작하기 전에, 저는 제너럴 일렉트릭 헬스케어와 관계가 있음을 밝힙니다. 흔히 접할 수 있는 임상 시나리오를 살펴보겠습니다. 복부 대수술을 받는 60세 환자가 저혈압 증상을 보일 경우. 수액을 투여했습니다. 노르 에피네프린 투여를 시작했지만, 환자의 상태는 여전히 불안정합니다.
-
-- **[Integrating remote 6 lead ECG monitoring for hospital at home services](https://www.youtube.com/watch?v=qFCAKVgqF50)** — 2026-06-08 · ko · `unclassified`
-  안녕하세요, 저는 이안 굿하트 박사입니다. 저는 케임브리지 대학교 병원에서 마취과 및 중환자 치료 전문의로 근무하고 있으며, 재택 병원 서비스인 가상 병동 서비스의 임상 책임자를 맡고 있습니다. 이번 세션에 참여해주셔서 대단히 감사합니다 . 여러분 중 얼마나 많은 분들이 재택 병원 치료에 대해 알고 계신지 모르겠습니다. 혹시 들어본 적 있는 사람 손들어볼 사람 있나요? 추가 질문은 하지 않을 테니 걱정하지 않으셔도 됩니다. 아. 좋은. 훌륭한. 꽤 괜찮네요. 좋은. 좋은. 좋은.
-
-- **[Converging Beams: Radiation Therapy meets Radioligand Therapy](https://www.youtube.com/watch?v=NeDgw9PTrcg)** — 2026-06-04 · ko · `unclassified`
-  어서 오세요, 어서 오세요. 저희 심포지엄의 제목은 ' 수렴하는 광선'이었습니다. 그리고 이번 심포지엄의 이름을 지을 때 약간 창의적이었다고 생각합니다. 왜냐하면 이번 심포지엄은 방사선 치료와 방사성 리간드 치료의 결합된 잠재력과 시너지 효과에 관한 것이기 때문입니다. 몇 달 전에 있었던 일에 대해 조금 이야기해 볼게요. 네, 저희 모두 비엔나에 있었고, 제목은 다르지만 같은 주제를 다룬 비슷한 심포지엄을 개최한 적이 있습니다. 그리고 북미 지역의 구체적인 상황을 살펴보는 것도 중요하다고 생각합니다.
-
-- **[On the Fly with April Mann | Episode 12: Diagnostic precision with Flyrcado](https://www.youtube.com/watch?v=mk5gRtXJBms)** — 2026-06-04 · ko · `unclassified`
-  [음악] 우리는 방사성 추적자로서 플루르카돌의 물리적 특성, 즉 높은 추출 분율과 양전자 비정에 기반한 높은 영상 해상도가 더 선명하고 깨끗한 영상을 만들어낸다는 것을 알고 있습니다. 어, 저는 이전에 심장 PET 검사에서 정상으로 나왔던 여성 환자분을 봤습니다. 이 환자는 증상이 나타난 지 6개월 만에 다시 검사를 받았는데, 이번에도 심장 크기가 더 작은 것으로 나타났습니다. [음악] 아주 미묘한 결함들이 발견되었는데, 그것들 이 이 여성에게 가역적인 [음악] 허혈이 있었음을 보여주는 것이었습니다.
-
-- **[Verisound™ Gallery Demo Video](https://www.youtube.com/watch?v=rhcqbye-Evw)** — 2026-05-28 · ko · `unclassified`
-  귀하의 기기는 수년간의 환자 검사 결과를 저장하도록 설계된 것이 아닙니다. 금방 꽉 차버리고 초음파 이미지가 분실되거나 도난당할 위험이 너무 큽니다. 다행히 더 나은 방법이 있습니다. GE Healthcare의 VeraSound Gallery는 의료진이 휴대용 초음파 검사 결과를 저장, 관리 및 공유하는 방식을 혁신합니다 . Vscan Air와 함께 사용하면 안전한 클라우드 기반 플랫폼이 종단 간 암호화로 이미지를 보호하는 동시에 HIPAA를 준수하는 PACS 지원 워크플로우를 지원합니다. VeraSound Gallery는 영상 관리를 간소화하여 의료진이 부담감을 줄이고 환자 치료라는 가장 중요한 일에 더욱 집중할 수 있도록 도와줍니다.
-
-- **[Scaling handheld ultrasound](https://www.youtube.com/watch?v=c-L1r-ZvNzQ)** — 2026-05-25 · ko · `unclassified`
-  OHSU가 의료진을 최우선으로 생각하여 조직 전체에 휴대용 초음파 장비를 도입한 방법에 대한 논의에 다시 오신 것을 환영합니다 . 저희와 함께 OHSU의 조나단 테클레마이클 씨가 계십니다. 그는 OHSU의 임상 기술 서비스 책임자입니다. 조나단 씨는 생의학 공학 석사 학위를 소지하고 있으며 15년 이상의 경력을 바탕으로 주요 대학 및 의료 시스템 전반에 걸쳐 임상 기술 전략을 수립하는 데 앞장서 왔습니다.
-
-- **[Simposio GE HealthCare Congresso Nazionale SIEOG 2026](https://www.youtube.com/watch?v=RdZyDSQ0JWQ)** — 2026-05-20 · ko · `unclassified`
-  네, 여러분 안녕하세요. 안녕하세요, 제 이름은 피터 스테인마입니다. 저는 여성 건강 관리 초음파 분야의 임상 전략 책임자입니다 . 폴론 씨, 저는 오늘 태아 뇌 발달, 임신 3분기 및 부인과 초음파에 대한 심도 있는 통찰을 공유하는 이번 점심 심포지엄에 함께해 주셔서 매우 기쁩니다. 훌륭한 연사분들이 많이 계시지만, 먼저 여러분 모두에게 잘 알려진 사회자를 소개해 드리겠습니다. 니콜라 파시고 박사는 산전 진단 및 중재 분야에서 매우 잘 알려진 분입니다. 니콜라 씨, 감사합니다.
-
-- **[Vscan Air™ Product Tutorial | Caption AI™](https://www.youtube.com/watch?v=Q7wwjPDswkM)** — 2026-05-13 · ko · `unclassified`
-  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 Vscan Air SL 프로브를 페어링하고 우측으로 밀어 사전 설정 메뉴에 액세스하고 도구에서 ‘심장 유도’를 선택합니다 기본 프로토콜이 자동으로 시작됩니다 그러나 기본 프로토콜이 설정되지 않은 경우 프로토콜을 선택해야 합니다 프로토콜을 변경하려면 화면의 좌측 가장자리에서 우측으로 밀고 좌측 패널에서 프로토콜 이름 옆의 뒤로 화살표를 누릅니다 휴대전화에서 시작하려면 같은 작업을 수행합니다 새 프로토콜을 만들고 기존 프로토콜을 편집하려면 재생 목록에서 스캔 프로토콜 비디오를 참조합니다 프로토콜을 선택했으면 화면의 고정 유도를 따릅니다 환자를 최적의 위치로 배치하는 것부터 시작합니다 여기 고정 유도를 보시면 환자를 좌측으로 눕히라고 나옵니다 환자가 좌측으로 누울 수 없는 경우 환자가 등을 대고 누워 영상을 획득할 수 있습니다
-
-- **[X-ray Matters - What does optimization really mean in modern radiography?](https://www.youtube.com/watch?v=PxCRVNbyDY4)** — 2026-05-13 · ko · `unclassified`
-  안녕하세요. X-ray Matters 팟캐스트에 오신 것을 환영합니다. 이 팟캐스트에서는 오늘날 의료 분야에서 X-ray가 왜 중요한지 알아봅니다 . 오늘 대화는 훌륭한 마테우스 고이안이 진행하며, 솔퍼드 대학교의 케이티 샤푸어 박사님을 모시게 되어 매우 기쁩니다. 케이티는 의료 물리학 분야에서 존경받는 연구자, 교육자이자 사상적 리더로서, 고품질 진단 영상을 얻기 위해 영상 장비 및 시스템 기능을 최적화하는 데 광범위한 연구를 수행한 것으로 잘 알려져 있습니다 .
-
-- **[GE HealthCare Ultrasound Expert Live Support](https://www.youtube.com/watch?v=PteDslY3xx4)** — 2026-05-12 · ko · `unclassified`
-  의료 서비스에서는 매 순간이 소중합니다. 하지만 환자는 준비됐는데 시스템이 아직 준비되지 않았다면 어떻게 해야 할까요? GE 헬스케어 전문가 [음악] 라이브 지원을 소개합니다. Insight에 시스템을 연결 하고 티켓을 제출하여 [음악] 분야의 최고 전문가 지원을 실시간으로 받아보세요 . 콘솔에서 한 번만 클릭하면 엔지니어는 스캔이 진행되는 동안에도 원격으로 끊김 없이 실시간으로 기기에 연결할 수 있습니다. 문제가 해결되어 첫 번째 환자 진료에 차질 없이 진행되었습니다. 업데이트가 있으면 시스템에서 알려줍니다.
-
-- **[Giraffe OmniBed Carestation -thermoregulation glass house video](https://www.youtube.com/watch?v=U35S5FQLdwo)** — 2026-05-08 · ko · `unclassified`
-  모든 신생아는 따뜻한 환영을 받을 자격이 있으며, 마치 집에 있는 것처럼 편안함을 느껴야 합니다. 사실, 그들의 생명이 그것에 달려 있다. 음악을 통해 유아의 체온을 좁은 범위 내에서 유지하는 것이 매우 중요하기 때문입니다. [음악] 신생아 집중 치료실에서는 생존이 관건입니다. [음악] 많은 노력과 프로토콜 업데이트에도 불구하고 , 최근 연구에 따르면 신생아 10명 중 4명은 여전히 ​​이상적인 체온보다 최소 1°C 낮은 상태로 신생아 집중 치료실에 도착하는 것으로 나타났습니다 .
-
-- **[On the Fly Episode 10 - Choosing the right patients for cardiac PET](https://www.youtube.com/watch?v=J3Oo3jVM-ac)** — 2026-05-08 · en · `unclassified`
-  [music] &gt;&gt; The different modalities that can be used for diagnosis of and kind of prognosis of coronary disease are cardiac [music] SPECT, stress echo, cardiac CT, cardiac PET, [music] and then the choices with cardiac PET are do you use rubidium, ammonia, or flurcadol? What becomes more important to me is &gt;&gt; [music] &gt;&gt; testing the patient at the time they need that test.
-
-- **[On the Fly Episode 8 - From one technologist to another](https://www.youtube.com/watch?v=6ld2EM0YK_M)** — 2026-05-08 · ko · `unclassified`
-  [음악] 저는 에이프릴 맨입니다. 저는 GE 헬스케어에서 심장학 분야 KOL(핵심 오피니언 리더) 및 이해관계자 참여 책임자로 근무하고 있습니다 . GE 헬스케어에 입사하기 전에는 코네티컷주 하트퍼드에 있는 하트퍼드 헬스케어에서 29년간 근무했습니다 . 저는 원자력 기술자이기 때문에, 제 사랑과 열정은 핵의학에 있습니다. 우리는 우리가 가진 지식 수준에 맞춰 음악에 대해 매우 편안함을 느낄 수 있지만, 궁극적으로 우리가 그 자리에 있는 이유는 단 하나, 환자들에게 적절한 음악 치료를 제공하기 위해서입니다.
-
-- **[On the Fly Episode 9 - What sets Flyrcado apart?](https://www.youtube.com/watch?v=ocCA5ej_ItY)** — 2026-05-08 · ko · `unclassified`
-  [음악] 핵의학의 기본 원칙 중 하나는 스캔하는 부위와 관계없이 환자의 계수율이 높을수록 영상 품질이 더 좋다는 것입니다. [음악] 따라서 플루르카돌을 사용하면 더 긴 시간 동안 데이터를 획득하고 스캐너에 최적화된 계수율을 얻을 수 있으므로 환자의 체형이나 크기에 관계없이 모든 환자에서 더 나은 계수율을 얻을 수 있으며, 궁극적으로 더 나은 이미지 품질을 의미합니다 . [음악] 제가 직접 실험실 영상을 제작하고, 25년 넘게 심장 PET 검사를 해오면서 얻은 경험에 비추어 볼 때, 가장 큰 깨달음의 순간 중 하나는 판독 의사가 처음으로 영상을 보고 선명도와 디테일을 확인할 때였습니다
-
-- **[Vscan Air™ | Caption AI™ Quality Meter, AutoCapture and Save Best Clip](https://www.youtube.com/watch?v=vb3wXSNPHvE)** — 2026-05-06 · ko · `unclassified`
-  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 유도 동작을 수행함에 따라 진단 품질 영상으로부터 가까워지거나 멀어질수록 품질 측정기가 올라가거나 떨어집니다 스캔 시 품질 측정기의 반응을 볼 수 있도록 천천히 움직이도록 합니다 좋은 방법은 측정기가 흰색으로 바뀌면 멈추고 손목을 안정시키는 것입니다 이때에는 작은 동작만 필요하기 때문입니다
-
-- **[Vscan Air™ | Caption AI™ cardiac guidance and interpretation](https://www.youtube.com/watch?v=RJm73fX0pAg)** — 2026-05-06 · ko · `unclassified`
-  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 Vscan Air SL 프로브를 페어링하고 우측으로 밀어 ‘사전 설정’ 메뉴에 액세스하고 도구에서 ‘심장 유도’를 선택합니다 기본 프로토콜이 자동으로 시작됩니다 그러나 기본 프로토콜이 설정되지 않은 경우 프로토콜을 선택해야 합니다 프로토콜을 변경하려면 화면의 좌측 가장자리에서 우측으로 밀고 좌측 패널에서 프로토콜 이름 옆의 뒤로 화살표를 누릅니다 휴대전화에서 시작하려면 같은 작업을 수행합니다 새 프로토콜을 만들고 기존 프로토콜을 편집하려면 재생 목록에서 ‘스캔 프로토콜’ 비디오를 참조합니다 프로토콜을 선택했으면 화면의 정적 유도를 따릅니다 환자를 최적의 위치로 배치하는 것부터 시작합니다 여기 고정 유도에 환자를 좌측으로 눕히라는 메시지가 나와 있습니다
-
-- **[Vscan Air™ | Caption AI™ cardiac interpretation – Automated Ejection Fraction (AutoEF)](https://www.youtube.com/watch?v=07klH2jDJwU)** — 2026-05-06 · ko · `unclassified`
-  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 심장 해석은 자동식 박출 계수 추정치를 제공합니다 화면 좌측 모서리에서 우측으로 밀어 프로토콜을 선택합니다 박출 계수 프로토콜이 이렇게 보입니다
-
-- **[Vscan Air™ | Caption AI™ scanning protocols](https://www.youtube.com/watch?v=i9Wb7s26jyM)** — 2026-05-06 · ko · `unclassified`
-  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 스캔 프로토콜을 생성, 편집 및 관리할 수 있습니다 심장 유도 도구 내에서 사용자 맞춤형으로 말이죠 심장 유도를 처음 시작할 때 스캔 프로토콜을 선택하라는 메시지가 표시됩니다 초기 옵션은 ‘짧게’, ‘길게’, ‘길게+컬러’, ‘박출 계수’ 그리고 ‘대동맥 협착증’입니다 프로토콜을 만들거나 편집하려면 목록 위의 연필을 선택합니다 기존 프로토콜이 모두 있습니다 ‘심장눌림증’, ‘LV 기능’ 등의 적응증 기반 프로토콜을 추가로 사용할 수 있습니다
-
-- **[Vscan Air™ | Caption AI™ tips and tricks](https://www.youtube.com/watch?v=DLnSBVNNpSs)** — 2026-05-06 · ko · `unclassified`
-  이 비디오에서는 태블릿으로 소프트웨어를 시연하는데 호환되는 휴대전화를 사용해도 됩니다 비디오 내내 휴대전화에서의 큰 차이점을 강조할 겁니다 처방적 유도가 없는 경우 어떻게 해야 할까요? 영상의 품질이 좋지 않아 구조를 볼 수 없는 경우 알고리즘이 프로브에 대한 움직임 유도를 제공하지 못할 수도 있습니다 이번 시나리오에선 다른 심장 유도 기능을 살펴보겠습니다 항상 품질 측정기에서 실시간 피드백을 확인할 수 있습니다 구조가 보이지 않고 측정 수준이 낮으면 시스템에 움직이는 해부체가 보일 때까지 느리게 원형으로 훑습니다
-
-## IBM Technology (32건)
-
-- **[Knowing When Not to Use AI: AI Agents vs Rules vs ML](https://www.youtube.com/watch?v=_ZqSFVi6UDY)** — 2026-07-23 · en · `AX`
-  It's incredibly easy to fall into&nbsp; the trap of using AI for everything.&nbsp;&nbsp; Many teams are starting to integrate AI agents&nbsp; all across their systems. And why wouldn't they?&nbsp;&nbsp; AI agent systems are undeniably powerful. There's&nbsp; no doubt about it. But we need to stay strategic&nbsp;&nbsp; about where and whether we want to inject AI&nbsp; into our systems. AI is not magic and it's not&nbsp;&nbsp; the best solution for everything.
-
-- **[GPT-Red: Can AI red teams stop prompt injections?](https://www.youtube.com/watch?v=g4CNcUAqM4Q)** — 2026-07-22 · ko · `AX`
-  GPT Red는 자동화된 레드팀 활동을 수행하고, Scam Buster는 자동화된 사기 차단 활동을 수행합니다. 패널 여러분, 어떻게 생각하시나요? 그렇다면 이제 모든 것을 봇에게 넘겨줄 때가 된 걸까요 ? 키미, 당신부터 시작하죠. 아니요, 아직 봇에게 넘겨줄 때가 아닙니다. 애초에 누가 이 악순환을 시작했나요 ? [웃음] 저는 요리만 로봇에게 맡길 준비가 되어 있어요 . 그런 도구가 있다면, 전 적극 찬성이에요. 남들과 다르게, 모두가 안 된다고 해도 '네'라고 말하고 싶어요. 절대 안 돼요.
-
-- **[Is Fine-Tuning Still Needed? LLMs, RAG, & LoRA](https://www.youtube.com/watch?v=-W2JdSl1v48)** — 2026-07-21 · ko · `AX`
-  대규모 언어 모델을 미세 조정하는 작업이 오늘날에도 여전히 필요한가요? 유명한 법률 AI 회사를 예로 들어보겠습니다. 이 회사는 2023년에 프론티어 랩과 협력하여 자체 맞춤형 AI 모델을 정교하게 다듬었습니다. 블라인드 테스트에서 변호사들은 당시 프론티어의 GPT-4 모델보다 이 정교하게 조정된 모델을 더 선호했습니다 . 그들은 97%의 경우에 그것을 선호했습니다 . 미세 조정의 승리입니다. 그들은 변호사들이 기존의 대표적인 모델보다 실제로 더 선호하는 맞춤형 AI를 개발했습니다 .
-
-- **[6 Ways to Enhance Developer Productivity with AI](https://www.youtube.com/watch?v=9LfJq4xXifg)** — 2026-07-20 · ko · `DX`
-  곰곰이 생각해 볼 만한 모순이 하나 있습니다 . 2026년에는 지구상에서 출하되는 코드의 41%가 AI에 의해 작성될 것이다. 맥켄지는 최고의 AI 활용 소프트웨어 기업들이 생산성에서 16~30%의 향상을, 코드 품질에서는 최대 45%의 향상을 경험하고 있다고 말합니다 . 이 수치들은 실제 팀들의 실제 기록입니다 . 2026년에는 개발자들이 AI가 제시하는 제안의 70%를 거부하는 현상도 나타날 것입니다 . Stack Overflow 개발자 설문조사에서 가장 많이 언급된 불만 사항은 "거의 맞지만, 완벽하진 않다"였습니다.
-
-- **[Why RAG Solutions Fail with Complex Documents & Vector Databases](https://www.youtube.com/watch?v=xc63tFIIfeA)** — 2026-07-19 · ko · `AX`
-  인간은 복잡한 존재이다. 우리의 존재가 복잡하기 때문에 우리의 언어도 복잡합니다. 그것은 우리 복잡한 두뇌만이 해독할 수 있는 미묘한 차이와 뉘앙스로 가득 차 있습니다. 이러한 복잡성은 인공지능이 이해하고 포착하기 어려울 수 있습니다. 복잡한 문서를 기반으로 한 RAG 솔루션은 혼란스럽거나 심지어 잘못된 결과를 초래할 수 있습니다 . 이 영상에서는 복잡한 문서 세트를 다룰 때 실용적인 해결책을 구축하는 방법에 대해 알아보겠습니다 . 친구에게 "2020년 NCAA 미식축구 전국 선수권 대회 우승팀이 누구였어?"라고 물어본다고 가정해 봅시다.
-
-- **[Thinking Machines Lab drops Inkling & Meta’s Muse Spark 1.1](https://www.youtube.com/watch?v=8rGYGFmytQs)** — 2026-07-17 · ko · `AX`
-  다시 말하지만, 토론 주제는 더 이상 순위표가 아닙니다. 개방형 음악 기반에 세밀 조정 플랫폼을 더하는 것이 폐쇄형 모델이나 다른 모델 전략보다 더 나을 수 있다는 거죠? 오늘 '전문가들의 만남'에서는 이 모든 것과 [코웃음] 그 이상의 이야기들을 다룹니다. [음악] 저는 팀 홍이고, Mixture of Experts에 오신 것을 환영합니다 . 매주 Moe [음악]는 인공지능 분야 최고의 재담들을 모아 이번 주 뉴스들을 한눈에 파악할 수 있도록 도와드립니다.
-
-- **[Why Risk Should Determine Your AI Architecture](https://www.youtube.com/watch?v=3G6AVkp4Rf0)** — 2026-07-16 · ko · `unclassified`
-  최근에 공공 부문 지도자 한 분과 대화를 나눴습니다. 그들은 인공지능을 만드는 게 요즘엔 아주 쉽다고 말했어요. 인공지능이 인공지능을 만들도록 하면 되죠. 그리고 그들의 말이 틀리지 않다. 쉬운 AI와 위험에 적합한 AI라는 두 가지가 있는데, 이 둘은 전혀 다른 것이기 때문에 많은 것들을 잘못 만드는 것은 쉽습니다. 대부분의 팀은 이 과정을 역순으로 접근합니다. 그들이 시스템을 구축했다 . 그렇다면 누가 그것을 감독해야 하는지 물어보십시오.
-
-- **[GLM-5.2: The real security risk? Plus: Vibe hunting, the end of CVSS and updates on Lightwell](https://www.youtube.com/watch?v=qXGJ7pi-XOo)** — 2026-07-15 · ko · `AX`
-  개방형 가중치 모델이 적어도 일부 영역에서는 신화적인 수준의 역량에 도달하고 있다는 보고가 있다 . 패널 여러분, 어떤 생각이 드시나요 ? 사악한 모그, 자네부터 시작하겠네. 제 말은, 이런 모델들이 점점 더 무서워지고 있다는 거예요. 그런데 그게 오히려 제게는 더 편하죠. 진짜 합법적인 모델들은 사이버 보안 검증 프로그램에 참여하고 있을 때조차도 사용을 막는 분류기를 점점 더 많이 추가하고 있거든요. 약간 두렵기도 하고, 약간 설레기도 하는 똑같은 감정이에요 .
-
-- **[5 AI Myths & The Truth Behind Them: ML, Context, Agents & More](https://www.youtube.com/watch?v=OWPRU_Pc4Ng)** — 2026-07-14 · ko · `AX`
-  자, 제가 여러분께 알려드릴 인공지능에 대한 오해들이 꽤 많습니다. 그러니까, 당신은 인공지능과 대화를 나누고 있고, 인공지능이 당신에게 답변을 해주는 겁니다. 하지만 당신은 그 답변이 완전히 옳다고 확신하지 못하는군요. 그래서 당신은 "정말 확실해요?"라고 되묻는 거죠. 자, 시청자 여러분께 드리는 제 질문은 바로 이것입니다. "정말 확실하세요?" 모델이 실제로 작업을 다시 확인 하고 더 정확한 답변을 제공하도록 하려면 어떻게 해야 할까요? 음, 그런 속설이 있긴 하지만, 오히려 정반대의 효과가 있을 가능성도 꽤 높습니다.
-
-- **[What is an AI Code Generator? LLM Coding, Productivity, & Risk](https://www.youtube.com/watch?v=oanQrXEiCy4)** — 2026-07-13 · ko · `AX`
-  1952년, 그레이스 호퍼라는 프로그래머가 최초의 컴파일러를 만들었습니다. 사람이 읽을 수 있는 코드를 하드웨어 에서 실행되는 기계어 명령어로 변환하는 도구 . 반응은 맹렬했다. "진정한 프로그래머는 기계어 코드를 작성한다"고 비평가들은 말했다. "컴파일러는 똑똑하지 않은 사람들이나 쓰는 거였어. 우리를 게으르게 만들고, 프로그래밍하는 방법을 잊게 만들겠지 ." 왠지 익숙한 이야기인가요? 그와 같은 논쟁은 그 이후 모든 세대에서 반복되어 왔습니다. 고급 언어, IDE, 가비지 컬렉션, 자동 완성.
-
-- **[How to Manage Your AI Before It Makes the Wrong Decision](https://www.youtube.com/watch?v=SVAwzodyFUo)** — 2026-07-12 · ko · `unclassified`
-  은행이 대출을 거부했습니다. 설명도, 항소도 없이, 그저 AI의 결정일 뿐입니다. 이제 스스로에게 물어보세요. 누가 그 모델을 검증했습니까? 배포 후 누가 모니터링했습니까? 잘못이 발생했을 때 누가 책임져야 할까요? 대부분의 기업은 그 질문에 대한 답을 모르고 있으며 , 바로 그 부분이 격차입니다. 이 모든 것을 관리할 수 있는 AI 관리 시스템이 필요합니다 . 그리고 좋은 소식은, 우리에게는 하나가 있다는 것입니다. 저처럼 사이버 보안 분야에 종사하는 사람이라면 국제 표준화 기구(ISO)에 대해, 특히 정보 보안 관리 시스템에 대한 국제 표준인 27001에 대해 들어봤을 가능성이 높습니다
-
-- **[Reddit cracks down on AI slop & the future of AI compute](https://www.youtube.com/watch?v=WHFLWrnFc1E)** — 2026-07-10 · ko · `AX`
-  인공지능이 일상생활의 패턴에 자연스럽게 녹아들고 대부분의 사람들이 평소 생활 리듬 안에서 인공지능을 사용한다는 점이 정말 흥미로웠고, 이는 전 세계 사람들의 정신 건강에 긍정적인 영향을 미칠 것이라고 생각합니다. 오늘 전문가들의 다양한 의견을 통해 이 모든 것과 더 많은 것을 알아보세요. 안녕하세요, 저는 팀 행입니다. 새 사무실에서 소식을 전해드리고 있으며, 다양한 전문가들이 모인 커뮤니티에 오신 것을 환영합니다. 매주 모는 인공지능 분야에서 활약하는 뛰어난 인재들을 모아 한 주간의 복잡한 기술 뉴스를 여러분께 소개합니다.
-
-- **[Agentic AI Frameworks Explained: Workflows, Multi-Agent, & Production](https://www.youtube.com/watch?v=ZVPlLaehjLk)** — 2026-07-09 · ko · `AT`
-  안녕. 제 생각엔 당신 주변 세상은 에이전트형 AI 시스템과 그 엄청난 잠재력으로 떠들썩할 것 같네요. 그래서 당신은 에이전트형 AI 시스템을 구축하기로 결정합니다. 최고의 프레임워크를 찾다 보니 어느새 GitHub 탭이 17개나 열려 있고, Medium 블로그도 5개나 북마크되어 있는데, 정작 어떻게 진행해야 할지는 전혀 모르겠다. 네, 우리 모두 그런 경험이 있죠. LangChain, LangGraph, Crew AI, AutoGen, Semantic Kernel 등 강력한 프레임워크가 정말 많습니다. 그렇다면, 당신은 어느 쪽을 선택하시겠습니까?
-
-- **[Fable 5, GPT-5.6 and the high stakes of AI safeguards. Agentic ransomware, ClickFix reigns supreme](https://www.youtube.com/watch?v=HQDT_1OXUuU)** — 2026-07-08 · ko · `AX`
-  지난주, Anthropic과 Open AI는 모두 강력한 새 모델을 공개했으며, 두 회사 모두 해당 모델의 안전장치에 대해 상당히 강조했습니다 . 패널 여러분, 현재 AI 모델 보안의 현황에 대해 어떻게 생각하시는지 궁금합니다. 제가 가장 좋아하는 말 중 하나는 ' 변화만이 유일한 불변의 진리다'라는 것입니다. 그래서 인공지능 모델의 변하지 않는 특징은 바로 끊임없이 변화한다는 점입니다. 그러니까 지금 그들이 마음에 든다고 해도 , 그들은 변할 겁니다. 그렇게 하지 않으면, 그들은 변할 겁니다.
-
-- **[MCP vs Skills: Which Is Right for Your AI Agent and LLMs?](https://www.youtube.com/watch?v=goU9VIXA8II)** — 2026-07-07 · ko · `AX`
-  LLM에 기능을 추가하고 싶다면 MCP 서버 와 스킬을 살펴보세요. 왜냐하면 LLM은 매우 범용적인 학위이고, 많은 것을 알고 있기 때문입니다. 자, 저는 이 두 가지 개념이 모든 유형의 사용 사례에 관계없이 LLM에 사용자 지정 및 고유 데이터를 추가하는 데 어떻게 도움이 될 수 있는지 보여드리고 싶습니다. 이는 코딩 지원이나 추가 정보 및 데이터를 입력하는 데 사용될 수 있습니다. 아니면 인공지능 에이전트를 개발하고 있는 경우겠죠? 또는 다른 많은 사용 사례가 있습니다.
-
-- **[What Is AI Code Refactoring? Agentic AI & Safe Code Changes](https://www.youtube.com/watch?v=f84XbvASkk4)** — 2026-07-06 · ko · `unclassified`
-  대규모 언어 모델은, 음, 확률적 추측 기계라고 할 수 있습니다. 그리고 이러한 추측 도구들이 실제 운영 중인 코드를 다시 작성하는 데 사용되고 있습니다. 이를 AI 코드 리팩토링이라고 합니다. 그리고 우리가 던져야 할 질문은, 이러한 추측 기계들을 기업 코드에 풀어놓는 것이 정말 안전한가 하는 것입니다. 음, 간단히 말해서 코드 리팩토링은 프로그램을 변경하는 것을 의미합니다. 이는 프로그램의 내부 구조를 파악하는 것을 의미합니다. 음, 아마 이런 모습과 비슷할 거예요 . 그리고 우리는 그것을 바꾸고 싶습니다
-
-- **[AI Gave You A Promotion: Why AI Isn’t Replacing Jobs](https://www.youtube.com/watch?v=1ItQnh3LWeg)** — 2026-07-05 · ko · `unclassified`
-  최근 뉴욕에서 한 주 정부 기관의 최고 정보 책임자와 이야기를 나누던 중, 그는 인공지능이 직무 역할에 미치는 영향에 대해 흥미로운 관점을 제시해 주었습니다. 요즘 많은 사람들이 우려하는 주제이며, 그럴 만한 이유가 있습니다. 저는 이전에 AI가 일자리를 없앨지 아니면 만들지에 대한 영상을 제작한 적이 있습니다. 미리 말씀드리지만, 답은 확실히 '예'입니다. 그리고 제본스 역설이라는 것에 대해 이야기하고, 그것이 인공지능 시대에 실제로 인력 수요가 증가할 것을 예측하는 것으로 볼 수 있는 방식에 대해서도 이야기해 보겠습니다
-
-- **[GPT-5.6 Sol, FIFA AI & Wall Street’s AI nerves](https://www.youtube.com/watch?v=tV5zXS78HzU)** — 2026-07-03 · ko · `AX`
-  음, 오픈아이얼의 원래 대외적인 성격을 생각해 보면, 그것은 오로지 안전성 확보에 관한 것이었습니다. 그러니까, 2019년경 그들의 웹페이지를 다시 살펴보면, 바로 그런 내용을 볼 수 있을 겁니다. 오늘 전문가 토론에서 이 모든 것과 그 이상의 이야기를 들어보세요 . 저는 팀 황입니다. [음악]이고, Mixture of Experts에 오신 것을 환영합니다. MOE는 매주 인공지능 분야의 연구원, 개발자, 사상가들을 한자리에 모아 한 주간의 주요 소식을 전해드립니다.
-
-- **[What Is an API? Types, Uses, & AI Integration](https://www.youtube.com/watch?v=Qw8qVSZEWBc)** — 2026-07-02 · ko · `unclassified`
-  API는 우리 일상생활 곳곳에 존재합니다. 모바일 앱을 사용하여 날씨를 확인하거나, 차량을 예약하거나, 음식을 주문할 때, 여러분은 API와 상호 작용하는 것입니다. 지도를 표시하는 웹사이트, 소셜 미디어 피드, 심지어 온라인 쇼핑 카트까지 모두 다양한 소스에서 데이터를 가져와 표시하기 위해 API에 의존합니다 . 그렇다면 API란 무엇일까요? API(애플리케이션 프로그래밍 인터페이스)는 서로 다른 소프트웨어 앱들이 통신 하고 상호 작용할 수 있도록 하는 규칙, 프로토콜 및 도구 집합입니다. API를 단순히 코드로만 생각하지 말고, 현대 세계를 하나로 묶어주는 보이지 않는 디지털 접착제로 생각하십시오 .
-
-- **[The new post-quantum cryptography executive order. Plus: What is Q-Day, really?](https://www.youtube.com/watch?v=RYUR9BdDgyI)** — 2026-07-01 · ko · `unclassified`
-  사이버 보안 담당자로서 우리는 정말 큰 과제와 많은 정보들을 접하게 될 것입니다 . 우리가 많이 들어본 최첨단 AI 모델이 아니더라도 , AI 자체와 그것을 안전하고 보안이 유지되는 방식으로 구현하는 방법에 대한 논의도 분명히 중요합니다. Q-데이. 양자 컴퓨팅 기술이 웹사이트, 이메일, 디지털 서명, 은행 계좌, 블록체인 등 모든 것을 보호하는 데 사용하는 공개 키 암호화를 마침내 해독할 수 있게 되는 날을 그렇게 부릅니다. 그리고 그 변화는 우리가 생각하는 것보다 더 빨리 다가올지도 모릅니다 .
-
-- **[How KV Cache Speeds Up LLMs for Faster AI Models on GPUs](https://www.youtube.com/watch?v=o0gkdZBtwEg)** — 2026-06-30 · ko · `AX`
-  현재 대규모 언어 모델을 실행 중입니다. 사용자가 한 명일 경우, 첫 토큰 생성 시간은 매우 빠릅니다. 사용자가 10명에 이르면 지연 시간이 증가하기 시작합니다. 하지만 100에 도달하면 GPU 메모리 사용량이 급증하고 처리량이 급격히 떨어지는 것을 볼 수 있습니다. 그리고 모든 과정은 돈 낭비입니다. 모델 자체가 문제의 원인이 아니라, 추론 과정에서 메모리가 사용되는 방식이 문제일 가능성이 높습니다 . 구체적으로, 모델이 토큰 단위로 구축하는 컨텍스트를 저장하고 검색하는 방식입니다 .
-
-- **[What Is AI Code Review? Fixing Slow PRs & Broken Workflows with AI](https://www.youtube.com/watch?v=0-YCleDw-Po)** — 2026-06-29 · ko · `AX`
-  모든 개발자는 이런 기분을 압니다. 풀 리퀘스트를 제출하고 나면 기다리고 또 기다립니다. 그리고 마지막으로 " 괜찮아 보이네요"라는 피드백을 받게 됩니다. 그런데 일주일이 지난 지금, 해당 브랜치에는 새로운 병합 충돌이 50개나 생겼습니다. 단순히 검토가 느린 것만이 문제는 아닙니다. 이는 PR부터 파이프라인을 거쳐 최종적으로 프로덕션 환경에 배포되기까지 전체 워크플로우 전반에 걸쳐 발생하는 마찰입니다. 이로 인해 팀의 작업 속도가 느려지는데, 더 나은 방법이 분명 있을 거예요, 그렇죠? 바로 이런 점에서 AI 코드 리뷰가 등장합니다.
-
-- **[The Promptware Kill Chain: How Prompt Injection Becomes AI Malware](https://www.youtube.com/watch?v=K68sqG18270)** — 2026-06-28 · ko · `AX`
-  네, 여러분은 악성 소프트웨어인 멀웨어에 대해 들어보셨을 겁니다 . 아마 랜섬웨어에 대해서도 들어보셨을 텐데, 기본적으로 누군가가 "돈을 내지 않으면 가만두지 않겠다 "라고 협박하는 거죠. 음, 스파이웨어라는 것도 있는데, 이건 은밀하게 데이터를 수집하는 프로그램으로, 시스템에 설치되어 사용자에 대한 정보를 다른 사람에게 전송하는 역할을 합니다. 그리고 원치 않는 광고 등을 계속해서 보여주는 정말 짜증나는 애드웨어도 있어요 . 자, 혹시 이전 상품 목록에 질리셨다면, 이제 새로운 목록을 준비했습니다. 프롬프트웨어. 야호.
-
-- **[New AI models, token minimization and IBM’s new sub-1nm chip](https://www.youtube.com/watch?v=d-hJa-yDJmQ)** — 2026-06-26 · ko · `AX`
-  우리가 이야기하는 7옹스트롬 크기의 이 트랜지스터 기술은 연산 시 50% 더 나은 성능을 제공하거나 70% 더 많은 전력을 절약합니다 . 이는 우리 음악 산업이 오랫동안 보지 못했던 엄청난 발전입니다 . [코웃음] 오늘 [음악] 전문가 믹스에서 이 모든 것과 그 이상의 이야기를 만나보세요. 안녕하세요, 저는 팀 황입니다. Mixture of Experts에 오신 것을 환영합니다 . [음악] MOE는 매주 인공지능 분야의 연구원, 개발자, 사상가들을 한자리에 모아 이번 주 [음악] 뉴스를 소개합니다.
-
-- **[Data Science Periodic Table Explained: ML, ETL, Analytics & Workflow](https://www.youtube.com/watch?v=12lB1Cz7gUw)** — 2026-06-25 · ko · `unclassified`
-  데이터 과학은 심오한 응용 연구 분야이지만, 정말 그렇게 심오하고 복잡한 것일까요? 교차 검증, 드리프트, 클러스터링, 통계, 주성분 분석과 같은 용어들은 모두 현대 데이터 과학을 구성하는 요소들입니다. 하지만 이 모든 데이터 과학 요소들은 실제로 어떻게 서로 연결될까요? 그렇다면 이러한 데이터 과학 요소들을 데이터 과학 주기율표로 정리해 볼 수 있지 않을까요? 마틴이 인공지능 주기율표를 만든 방식처럼 말이죠. 그러니까 화학처럼, 이 모든 것이 우리가 이러한 용어들을 서로 연관 짓는 데 도움이 될 수 있습니다
-
-- **[Have we finally solved social engineering? Plus: World Cup fraud, AI IDs and an IBM/OpenAI collab](https://www.youtube.com/watch?v=10XtOi4Lbes)** — 2026-06-24 · ko · `AX`
-  Dark Reading에 실린 새로운 사설에 따르면 LLM(법학 석사)이 사회 공학을 종식시킬 수 있다고 합니다. 패널 여러분, 어떻게 생각하시나요? 데이브, 먼저 너한테 던질게. 인공지능이 우리로부터 학습하여 우리가 이러한 위협으로부터 안전해질 수 있도록 하는 것은 매우 훌륭한 일이라고 생각합니다 . 사람들만 사회적으로 조작당하는 게 아닙니다. LLM(법학 석사 및 석사 과정 학생)들도 사회적으로 조작당하고 있습니다. 인간이 더 똑똑해진다고 해서 사회공학적 기법이 사라지는 것은 아닙니다. 인간이 일상적인 신뢰 결정에서 완전히 배제될 때 그런 일이 일어날 것입니다
-
-- **[5 AI Agent Terms You Need to Know](https://www.youtube.com/watch?v=k5jYwyhDMxA)** — 2026-06-23 · ko · `AX`
-  프론티어 AI 에이전트는 상당히 유능합니다. 그들은 작업을 계획하고 사람의 개입을 최소화하면서 코드를 작성하는 데 정말 능숙합니다 . 하지만 이러한 기능을 가능하게 하는 몇 가지 구체적인 요소들이 그 이면에 존재합니다. 자, 그럼 그중 다섯 가지를 다뤄보도록 하겠습니다. 에이전트형 AI에 대해 알아야 할 다섯 가지 용어. 그럼 에이전트의 동작 방식을 결정하는 내부 요소부터 살펴보겠습니다 . 따라서 에이전트 내부에는 당연히 모델, 즉 대규모 언어 모델이 있습니다. 그것이 실제 텍스트 생성 과 추론을 수행하는 부분입니다
-
-- **[AI in the SDLC: Rethinking AI Coding Tools & AI Agents](https://www.youtube.com/watch?v=4wMRXmLpdA8)** — 2026-06-22 · ko · `unclassified`
-  개발자들과 이야기를 나눠보면, 많은 사람들이 AI가 자신들의 일자리를 빼앗을까 봐 걱정하고 있습니다. 어쩌면 그들은 새로운 AI 지원 코딩 도구를 사용하라는 압력을 받았거나 AI에 능숙해지라는 말을 들었을지도 모릅니다. 하지만 이 모든 것이 실제로 무엇을 의미하는 걸까요? 그렇다면 미래를 위해 어떻게 준비해야 할까요 ? 대부분의 사람들은 AI가 생산성 향상과 소프트웨어 개발을 더 쉽게 만들어준다는 점 때문에 개발 속도가 빨라졌다고 생각하지만, 모델 평가 및 위협 연구 기관에서 발표한 통제 연구에 따르면 오픈 소스 개발자들은 자신이 사용하는 코딩 도구 덕분에 개발 속도가 20% 빨라졌다고 생각하는 것으로 나타났습니다
-
-- **[3‑2‑1 Backup Rule Explained: Protect Your Data from Disaster](https://www.youtube.com/watch?v=WJzsX32qMJY)** — 2026-06-21 · ko · `unclassified`
-  3, 2, 이륙 아니면 재앙. 데이터 백업에 대해 이야기하자면, 3-2-1 규칙을 따르지 않으면 후자의 결과가 발생할 가능성이 높습니다. 그렇다면 3-2-1 규칙이란 무엇일까요? 데이터 손실로부터 사용자를 보호하기 위한 일련의 원칙입니다. 왜 관심을 가져야 할까요? 데이터는 어디에나 있습니다. 언제든지 더 만들 수 있잖아요, 그렇죠? 데이터는 현대 기업의 생명줄과 같습니다. 그건 당신만의 비법이에요. 고객 기록은 말 그대로 당신의 미래이자 과거입니다. 그리고 만약 그걸 잃어버린다면, 마치 이륙 직후 추락한 로켓에 타고 있는 것 같은 기분이 들 거예요.
-
-- **[Microsoft’s new AI models & bots dominate the internet](https://www.youtube.com/watch?v=SvBheXuKY8s)** — 2026-06-19 · ko · `AX`
-  웹상에서 봇의 수가 인간보다 훨씬 많았던 건 꽤 오래전 일이죠? 웹 스크래퍼 같은 것들이요. 요즘 많은 사람들이 연구 과제를 위해 AI 에이전트를 통해 상호작용하고 있는데, [음악] 제 생각에는 사람들이 직접 사이트에 접속하는 것보다는 이러한 상호작용을 포착하려는 것 같습니다. 오늘 전문가 토론에서 이 모든 것과 그 이상의 이야기를 들어보세요 . 안녕하세요, 저는 팀 황입니다. Mixture of Experts에 오신 것을 환영합니다 . MOE는 매주 인공지능 분야에서 가장 뛰어난 전문가들을 모아 한 주간의 주요 뉴스를 정리해 드립니다.
-
-- **[Building AI Agents for Real-World Problems & Workflows](https://www.youtube.com/watch?v=4Vg2aVtrX8k)** — 2026-06-18 · ko · `AX`
-  오늘날 인공지능 에이전트에 대한 관심이 매우 높습니다. 우리는 다양한 도구를 활용하여 계획하고, 추론하고, 행동하는 에이전트의 인상적인 데모를 보았습니다 . 하지만 진짜 문제는 우리가 그것들을 만들 수 있느냐 없느냐가 아닙니다. 진정한 질문은 인공지능 에이전트를 실제 환경에서 효과적으로 작동하게 하려면 무엇이 필요한가 하는 것입니다 . 상담원들이 데모 시스템에서 실제 운영 시스템으로 넘어갈 때 많은 어려움을 겪습니다 . 기술이 불가능해서가 아니라 , 현실 세계의 문제들이 복잡하고, 제약이 많으며, 서로 연결되어 있기 때문입니다.
-
-- **[AI agents can manage your passwords. Should we let them? Plus: The biggest Patch Tuesday ever.](https://www.youtube.com/watch?v=ATIwByZ4nUA)** — 2026-06-17 · ko · `AX`
-  패널 여러분, 인공지능 에이전트에게 비밀번호 관리를 맡기시겠습니까? 미셸, 먼저 당신과 함께 가겠습니다. 상황에 따라 다릅니다 . 어떤 에이전트를 선택해야 할지, 그리고 그 에이전트가 내 비밀번호를 관리하는 것의 장단점에 대해 좀 더 자세히 알아야 할 것 같습니다. 저는 인공지능 에이전트에게 비밀번호 관리를 맡기는 것을 신뢰하지 않습니다. 아마 버전 2.0에서는 제 입장이 바뀔지도 모르겠습니다. 아직 아님 . 안녕하세요, IBM의 주간 사이버 보안 팟캐스트인 Security Intelligence에 오신 것을 환영합니다.
-
-## Microsoft Azure (32건)
-
-- **[Microsoft expands Azure AI and HPC infrastructure with AMD](https://www.youtube.com/watch?v=CWEwR9OXzGA)** — 2026-07-20 · ko · `unclassified`
-  [음악] 사실, 이 거대한 AI 시대에 컴퓨팅에 대한 고객의 요구 사항이 복잡해짐에 따라 , 모든 것에 맞는 단일 솔루션은 존재하지 않습니다 . 이는 고객들이 컴퓨팅 작업을 수행하는 방식의 다양화를 촉진하고 있습니다 . 일반적으로 이는 CPU 또는 별도의 GPU [음악] 클러스터에서만 실행되었지만, 거대한 AI를 처리하려면 CPU와 GPU 모두가 필요합니다 . 우리는 새로운 세상을 위해 설계되었고, 안전하고 뛰어난 성능을 제공하면서도 비용을 크게 절감할 수 있는 새로운 유형의 하드웨어(음악)와 소프트웨어가 필요합니다.
-
-- **[Storage migrations simplified with the Azure Copilot migration agent](https://www.youtube.com/watch?v=KjQJTNq4a7c)** — 2026-07-20 · ko · `unclassified`
-  이 데모에서는 스토리지 마이그레이션 에이전트가 Azure 포털에서 단일 대화를 통해 온프레미스 SMB 파일 공유를 Azure 파일로 직접 마이그레이션하는 전체 과정을 안내합니다 . 시작하기 전에 준비해야 할 네 가지가 있습니다. 먼저, 마이그레이션 에이전트가 실행되는 Azure 마이그레이션 프로젝트가 포함된 Azure 구독이 필요합니다. 둘째, 마이그레이션할 SMB 공유 경로와 해당 자격 증명을 입력하세요. 셋째, 마이그레이션 어플라이언스를 실행할 호스트가 필요합니다. 네 번째는 해당 기기의 네트워크 연결성입니다.
-
-- **[Assess Azure VM readiness with Azure Migrate](https://www.youtube.com/watch?v=gsz-XqQ-Xn8)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure Migrate 시리즈의 새로운 에피소드에 오신 것을 환영합니다. [음악] 이 비디오에서는 Azure VM 대상에 대한 Azure Migrate 평가에 대해 설명합니다. 평가의 중요성과 활용법을 다룬 이전 영상들을 시청하고, 평가에 필요한 사전 요건을 모두 충족한 후에 다음 단계로 진행하는 것이 좋습니다. Azure Migrate 프로젝트를 생성하고 Windows 및 Linux 서버의 인벤토리를 검색했는지 확인하십시오. Azure Migrate 어플라이언스를 사용하거나 RVTools 또는 CMDB에서 캡처한 인벤토리를 가져와 인벤토리를 검색할 수 있습니다.
-
-- **[Assess security vulnerabilities during migrations with Azure Migrate](https://www.youtube.com/watch?v=mFia4nhoxqw)** — 2026-07-15 · ko · `unclassified`
-  [음악] 콘토소는 온프레미스 IT 환경을 현대화하기 위해 Azure로 마이그레이션할 계획입니다. 알렉스는 콘토소의 IT 보안 관리자입니다. 그는 워크로드를 Azure로 마이그레이션하는 과정을 감독하고, 클라우드 환경으로 마이그레이션한 후에도 모든 워크로드가 강력한 보안 상태를 유지하도록 보장하는 책임을 맡고 있습니다 . Alex는 Azure Migrate를 사용하여 마이그레이션 프로젝트를 추적합니다. Azure Migrate는 마이그레이션을 위해 검색된 서버, 데이터베이스 및 웹 애플리케이션에 대한 포괄적인 인벤토리를 제공합니다 . 인사이트 뷰는 알렉스에게 환경에 대한 보안 중심의 요약 정보를 제공합니다 .
-
-- **[Assess your .NET and Java Webapps for modernization to App Service or AKS with Azure Migrate](https://www.youtube.com/watch?v=bQfhnZucBck)** — 2026-07-15 · ko · `unclassified`
-  안녕하세요 여러분, 반갑습니다. 이 영상에서는 웹 애플리케이션의 마이그레이션 및 현대화 계획을 수립하는 방법을 살펴보겠습니다 . 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 영상에서는 웹 애플리케이션 평가에 대해 다룹니다. 웹 애플리케이션 평가는 일반적으로 마이그레이션 과정의 계획 단계에서 진행됩니다. 웹 앱 평가는 대상 서비스 전반에 걸친 평가를 철저히 분석하고 마이그레이션 준비 상태 및 관련 비용을 고려하여 Azure 앱 서비스와 Azure Kubernetes 서비스 모두에 대한 준비 상태 점검을 수행합니다.
-
-- **[Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate](https://www.youtube.com/watch?v=-gNXQHTHj0s)** — 2026-07-15 · ko · `unclassified`
-  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 Microsoft SQL Server 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다. Azure Migrate를 사용하면 독립형 또는 고 가용성 대규모 SQL Server 인스턴스 및 데이터베이스를 검색하고 평가할 수 있습니다. 구체적으로 말하자면, SQL 워크로드 의 마이그레이션 및 현대화를 가능하게 한다는 측면에서 이야기하는 것입니다 . 새로운 Azure SQL 평가 기능을 사용하면 마이그레이션 준비 상태 및 장애 요인, 권장 대상 Azure 서비스, 적정 규모의 분산 정도, 그리고 권장 사항의 근거를 파악할 수 있습니다
-
-- **[Assess your applications for migration or modernization with Azure Migrate](https://www.youtube.com/watch?v=u7emCnZfH-Q)** — 2026-07-15 · ko · `unclassified`
-  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 애플리케이션을 Azure로 마이그레이션하거나 현대화하는 계획을 세우는 방법을 살펴보겠습니다. 먼저 계획 단계를 살펴보겠습니다. Azure Migrate를 사용하면 ASP.NET 웹 애플리케이션, SQL Server, Windows Server, Linux Server 등과 같은 다양한 워크플로를 검색하고 이러한 워크로드를 적절하게 그룹화하여 애플리케이션을 정의할 수 있습니다.
-
-- **[Create and manage Azure Migrate projects](https://www.youtube.com/watch?v=af5nYtGdFYw)** — 2026-07-15 · ko · `DX`
-  Azure 마이그레이션 비디오 시리즈에 오신 것을 환영합니다 . 이 시리즈에서는 Azure Migrate 도구를 시연하고 이를 사용하여 마이그레이션 준비 상태를 검색 및 평가하는 방법과 IT 상태를 마이그레이션 및 현대화하는 방법을 보여드리겠습니다. 이 비디오에서는 마이그레이션 과정의 단계 와 Azure Migrate 프로젝트를 생성하고 관리하는 방법을 다룹니다 . 기업의 일반적인 마이그레이션 과정은 세 단계로 나눌 수 있습니다. 결정하고, 계획하고, 실행하라. 하나씩 차근차근 설명해 드리겠습니다.
-
-- **[Discover and plan lift-and-shift migrations with Migration Agent](https://www.youtube.com/watch?v=9N6QUGp7xw0)** — 2026-07-15 · ko · `unclassified`
-  [음악] 콘토소 헬스의 클라우드 관리자 알렉스를 만나보세요. 그녀는 회사 애플리케이션을 Azure로 마이그레이션할 준비가 되었지만, 마이그레이션 계획을 세우는 데 도움이 필요합니다. 그녀는 Azure 탐색을 시작하기 위해 Azure Migrate 프로젝트를 생성하고 마이그레이션 에이전트(대화형 도우미)로 이동하여 마이그레이션 여정을 안내받고 마이그레이션 프로젝트에 대한 결정을 내립니다 . VMware 워크로드를 Azure로 신속하게 마이그레이션할 수 있는 경로를 찾는 데 도움을 주세요. 상담원은 그녀에게 마이그레이션, Azure Migrate, 그리고 마이그레이션 여정의 단계, 특히 시작하는 데 필수적인 검색 단계에 대해 교육합니다 .
-
-- **[Discover workloads & apps running in Bare-metal environments/Public Clouds with Azure Migrate](https://www.youtube.com/watch?v=2WdpNcwywEM)** — 2026-07-15 · en · `unclassified`
-  (gentle music) - [Instructor] In this video, you'll learn how to discover physical servers and virtual servers running in AWS, GCP, or any other cloud environment using the Azure Migrate appliance. Before you get started, make sure you've watched the linked video and already have an Azure Migrate project set up. Before deploying the appliance, there are a few things you need to have in place.
-
-- **[Discover workloads and applications hosted on Microsoft Hyper-V with Azure Migrate](https://www.youtube.com/watch?v=Hul-OBz1DtM)** — 2026-07-15 · ko · `unclassified`
-  [음악] 이 비디오에서는 Azure Migrate 어플라이언스를 사용하여 HyperVA 상태를 검색하는 방법을 배우게 됩니다 . 시작하기 전에 링크된 비디오를 시청하고 Azure Migrate 프로젝트가 이미 설정되어 있는지 확인하세요. 어플라이언스를 배포하기 전에 몇 가지 사전 준비 사항을 충족해야 합니다. 먼저, 해당 장비가 네트워킹 요구 사항을 충족하고 필요한 모든 엔드포인트에 연결할 수 있는지 확인하십시오. 다음으로, 설명서에 제공된 스크립트를 사용하여 HyperV 호스트를 검색 가능하도록 준비합니다 .
-
-- **[Discover workloads and applications managed by VMware vCenter with Azure Migrate](https://www.youtube.com/watch?v=KwUTKyUiBaU)** — 2026-07-15 · ko · `unclassified`
-  [음악] 이 비디오에서는 Azure Migrate 어플라이언스를 사용하여 VMware 환경을 검색하는 방법을 배우게 됩니다 . 진행하기 전에 이 비디오 링크를 시청하고 Azure Migrate 프로젝트를 생성했는지 확인하십시오. 어플라이언스를 배포하기 전에 다음 필수 조건이 충족되었는지 확인하십시오. 해당 장비가 모든 네트워킹 요구 사항을 충족하고 필요한 엔드포인트에 연결되는지 확인하십시오. 읽기 전용 및 게스트 운영 권한이 있는 vCenter 계정을 프로비저닝합니다. 이 계정을 통해 어플라이언스는 VMware 서버 의 기본 구성을 검색 하고 성능 데이터를 수집할 수 있습니다.
-
-- **[Enhance assessments using advanced insights in Azure Migrate](https://www.youtube.com/watch?v=E4HrIWj4_4k)** — 2026-07-15 · en · `AX`
-  (gentle upbeat music) - [Instructor] Welcome to another video of the Azure Migrate series, covering the demo of the tool and its capabilities. If you have watched the previous videos in the series, you must already be aware of how a typical migration journey is divided into stages of decide, plan, and execute. I believe you've discovered your workloads and created assessments for your applications to identify the recommended migration strategy, target Azure service, and estimated cost, as well as readiness.
-
-- **[Enrich discovered data with business context in Azure Migrate](https://www.youtube.com/watch?v=NUv4O37dLjE)** — 2026-07-15 · ko · `unclassified`
-  안녕하세요 여러분, 반갑습니다. 이 비디오에서는 검색된 워크로드에 개발, 테스트 또는 프로덕션과 같은 환경 유형과 마이그레이션 의도를 할당하여 검색 데이터를 보강하는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 검색된 워크로드에 환경 유형과 마이그레이션 의도를 할당하여 워크로드 마이그레이션을 효과적으로 계획할 수 있습니다. 비프로덕션 워크로드를 개발 환경으로 태그하여 환경 유형별로 워크로드를 풍부하게 만드는 관점에서 이야기하자면 , 비프로덕션 워크로드도 범용 및 메모리 최적화 서비스 계층과 함께 버스터블 계층에 대한 평가가 이루어지므로 Azure 목표 및 비용을 더 정확하게 예측할 수 있습니다
-
-- **[Execute migration waves with Azure Migrate](https://www.youtube.com/watch?v=B5-3TqNAq6E)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. [음악] 이번 비디오에서는 해당 도구와 그 기능에 대한 데모를 다룹니다 . 이번 에피소드에서는 대규모 인프라 마이그레이션을 Azure로 단계적으로 실행하는 방법을 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 계획 단계의 일환으로, 지원서를 그룹화하고 실행 계획을 수립하여 단계별 진행 상황을 파악했을 것입니다. 자 , 이제 이러한 파동을 어떻게 이동시킬 수 있는지 살펴보겠습니다
-
-- **[Generate modernization and migration executive reports](https://www.youtube.com/watch?v=4lt50ULNNh4)** — 2026-07-15 · ko · `unclassified`
-  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 [음악] Azure Migrate를 사용하여 포괄적인 현대화 및 마이그레이션 보고서를 보기 좋게 출력하는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 Azure로의 마이그레이션 및 현대화 기회에 대한 요약 정보를 제공하는 경영진 보고서를 생성할 수 있습니다 . 여기에는 워크로드 준비 상태, 보안 및 비용에 대한 통찰력이 포함되어 워크로드 우선순위를 정하고 정보에 입각한 마이그레이션 및 현대화 결정을 내리는 데 도움이 됩니다.
-
-- **[Identify the ROI of migration or modernization to Azure using Azure Migrate](https://www.youtube.com/watch?v=fNDCwVCjzqU)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 도구 [음악]와 그 기능에 대한 데모를 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 영상에서는 마이그레이션 여정의 결정 단계에 대해 다룹니다. 이 단계에는 비즈니스 사례 개발, 이해 관계자 동의 확보, 그리고 조직 목표와의 일치를 보장하는 적절한 클라우드 전략 선택이 포함됩니다.
-
-- **[Lift and shift (migrate) your Windows and Linux servers to Azure VM with Azure Migrate](https://www.youtube.com/watch?v=xVEjE0Z9QYY)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 [음악] 도구 와 그 기능에 대한 데모를 다룹니다. 이 비디오에서는 서버를 Azure로 이전(리프트 앤 시프트)하거나 리호스팅하는 방법을 보여드리겠습니다. 이러한 접근 방식은 조직이 데이터 센터 규모를 신속하게 축소하고 즉각적인 비용 절감을 달성하는 데 도움이 됩니다. 새롭게 설계된 엔드투엔드 경험은 고객 여러분이 체계적이고 조직적인 방식으로 마이그레이션 여정을 진행할 수 있도록 안내합니다.
-
-- **[Modernize applications using Azure Migrate](https://www.youtube.com/watch?v=2svW7ma7FQM)** — 2026-07-15 · ko · `AX`
-  [음악] 콘토소 헬스의 클라우드 관리자 알렉스를 만나보세요 . 그녀는 회사 애플리케이션을 Azure로 마이그레이션할 준비가 되었지만, 마이그레이션 계획을 세우는 데 도움이 필요합니다. 알렉스는 Azure 탐색을 시작하기 위해 Azure Migrate 프로젝트를 생성하고, 프로젝트에 대한 검색을 수행한 다음, 마이그레이션 에이전트로 이동하여 경험을 이어갑니다. 그녀는 대화형 비서를 활용하여 이주 프로젝트를 진행하고 관련 결정을 내립니다. VMware에서 Azure로 마이그레이션하면서 애플리케이션을 현대화하려고 합니다. 시작하는 데 도움을 주세요. 담당자는 알렉스에게 이주에 대해 설명하고, 프로젝트에서 이미 일부 조사가 진행되었으며 알렉스가 계속 진행하고 싶은지 묻습니다
-
-- **[Modernize your MySQL deployments to Azure Database for MySQL Flexible Server](https://www.youtube.com/watch?v=Xa-l17Lu3bk)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure 마이그레이션 및 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다 . 이번 에피소드에서는 MySQL 워크로드를 Azure로 마이그레이션하는 데 필요한 모든 정보를 공유합니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정은 결정, 계획, 실행의 세 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . MySQL 마이그레이션을 시작하려면 먼저 Azure Migrate를 사용하여 환경 내 MySQL 데이터베이스 인스턴스와 해당 속성을 검색하고, Azure로 마이그레이션할 준비가 된 인스턴스를 포함하는 신뢰할 수 있는 마이그레이션 계획을 수립해야 합니다.
-
-- **[Offline discovery for quick insights](https://www.youtube.com/watch?v=b1zpyY1RBCo)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure Migrate 시리즈의 또 다른 비디오에 오신 것을 환영합니다. 이번 비디오에서는 해당 도구와 그 기능에 대한 데모를 다룹니다. 이 시리즈에서는 기존 환경을 파악하는 것부터 준비 상태를 평가하고 워크로드를 Azure로 마이그레이션하는 전체 마이그레이션 과정을 살펴봅니다. 이 비디오에서는 결정 단계, 특히 지속적인 Azure 연결 없이도 검색을 빠르게 시작할 수 있는 경량 도구인 Azure Migrate Collector에 대해 집중적으로 살펴보겠습니다 . Azure Migrate는 환경 및 제약 조건에 따라 다양한 검색 방법을 지원합니다.
-
-- **[Plan MongoDB migrations to Azure with Azure Migrate](https://www.youtube.com/watch?v=g8ieJXrQNHs)** — 2026-07-15 · ko · `unclassified`
-  [음악] 안녕하세요 여러분, 환영합니다. 이 비디오에서는 Azure Migrate를 사용하여 MongoDB 서버 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다 . Azure Migrate를 사용하면 MongoDB 인스턴스를 검색하고 Azure Document DB 및 Azure VM으로 마이그레이션할 수 있는지 평가할 수 있습니다. 구체적으로 말하자면, MongoDB 워크로드 의 마이그레이션 및 현대화를 가능하게 하는 측면에서 이야기하는 것입니다 . Azure 로의 마이그레이션을 위한 새로운 MongoDB 평가 기능을 통해 마이그레이션 준비 상태 및 장애 요인, 권장 대상 Azure 서비스 및 적절한 크기의 SKU, 그리고 권장 사항의 근거를 파악할 수 있습니다
-
-- **[Plan PostgreSQL migrations to Azure with Azure Migrate](https://www.youtube.com/watch?v=zuiCIZycJxs)** — 2026-07-15 · ko · `unclassified`
-  안녕하세요 여러분, 반갑습니다. 이 비디오에서는 Azure Migrate를 사용하여 PostgreSQL 서버 배포를 Azure로 마이그레이션하는 계획을 세우는 방법을 살펴보겠습니다. Azure Migrate를 사용하면 PostgreSQL 인스턴스를 검색하고 평가하여 Azure Database for PostgreSQL 및 Azure VM으로 마이그레이션할 수 있습니다. 특히 새로운 Azure PostgreSQL 평가 기능을 통해 PostgreSQL 워크로드의 마이그레이션 및 현대화를 지원하는 측면에서 이야기하고 있습니다 . 권장 대상 Azure 서비스로의 마이그레이션 준비 상태 및 장애 요인, 적정 규모의 편향, 그리고 권장 사항의 근거를 이해할 수 있습니다
-
-- **[Plan migration waves with Azure Migrate](https://www.youtube.com/watch?v=n9W-xLyS64I)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다 . 이번 에피소드에서는 Azure 마이그레이션 웨이브 계획 기능을 사용하여 대규모 인프라를 Azure로 마이그레이션하기 위한 정밀한 계획을 수립하는 방법을 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . Azure로 마이그레이션하기로 결정했다면 Azure 마이그레이션 평가를 사용하여 애플리케이션 에 적합한 대상 Azure 서비스를 확인할 수 있습니다 . 또한 애플리케이션 마이그레이션을 언제 어떻게 수행할지에 대한 계획도 세워야 합니다 .
-
-- **[Visualize dependencies and organize your datacenter inventory with Azure Migrate](https://www.youtube.com/watch?v=X3YhiXsZxZw)** — 2026-07-15 · ko · `unclassified`
-  [음악] Azure 마이그레이션 시리즈의 또 다른 비디오에 오신 것을 환영합니다. [음악] 이번 비디오에서는 도구의 데모와 기능에 대해 다룹니다. 이전 영상들을 보셨다면 , 일반적인 이민 과정이 결정, 계획, 실행의 단계로 나뉜다는 것을 이미 알고 계실 겁니다 . 이 비디오에서는 Azure 마이그레이션 도구를 사용하여 고객의 마이그레이션 여정에서 결정 단계를 다룹니다 . 검색 기능에 대해 이야기하자면 , Azure Migrate는 VMware, Hyper-V, 물리적 서버 또는 AWS, GCP와 같은 다른 퍼블릭 클라우드에서 실행되는 서버 등 다양한 환경에서 서버를 검색하는 데 도움을 줍니다.
-
-- **[Create an Azure Migrate Project & Download the Agentless Appliance in Minutes](https://www.youtube.com/watch?v=I4ZIz7QqIII)** — 2026-07-14 · ko · `unclassified`
-  [음악] 콘토소 헬스의 클라우드 관리자 알렉스를 만나보세요 . [음악] 그는 회사 애플리케이션을 Azure로 마이그레이션할 준비가 되었지만, 마이그레이션 계획을 세우는 데 도움이 필요합니다. Azure 탐색을 시작하기 위해 그는 마이그레이션 에이전트, 즉 마이그레이션 과정을 안내하는 대화형 도우미로 이동합니다. 시작하려면 마이그레이션 에이전트가 Alex에게 기존 프로젝트를 선택할지 아니면 새 프로젝트를 생성할지 묻습니다. 알렉스는 Azure 구독 리소스 그룹과 지역을 선택하여 새 프로젝트를 생성하는 작업을 진행합니다. 프로젝트를 생성한 후, 알렉스는 온프레미스 VMware에서 Azure로 신속하게 마이그레이션하는 것이 목표라고 밝혔습니다
-
-- **[Install & Configure the Azure Migrate Appliance: Discovery, Readiness & Business Case](https://www.youtube.com/watch?v=fH5ghFFAE2w)** — 2026-07-14 · ko · `unclassified`
-  [음악] 이제 기기 설치 프로그램을 다운로드하셨으니 시작해 보겠습니다. 관리자 권한으로 Azure Migrate 설치 프로그램 zip 파일을 실행하고 어플라이언스 유형을 VMware로 선택하십시오. 클라우드 유형과 어플라이언스를 공용 엔드포인트 또는 사설 엔드포인트 연결로 설정할지 여부를 선택하십시오. 압축 파일 실행이 완료되면 어플라이언스 구성 관리자 웹 앱이 자동으로 실행됩니다. 첫 번째 확인 사항은 필요한 Azure 엔드포인트에 연결할 수 있는지 확인하는 것입니다 . 서버가 프록시 서버 뒤에서 실행 중인 경우 프록시 서버 정보를 추가하십시오.
-
-- **[How Sprinklr leverages Microsoft Azure Cobalt 100 VMs for massive scale](https://www.youtube.com/watch?v=fgEcCJ6qOxw)** — 2026-07-10 · ko · `unclassified`
-  기업의 성공은 고객 감정에 대한 이해도와 밀접한 관련이 있습니다. 그러한 감정은 매일 수십억 건의 소셜 메시지, 고객 상호 작용 및 실시간 참여 신호로 구성됩니다. 트윗이든, 채팅 메시지든, 고객 지원 전화든 모든 상호 작용은 즉각적이고 안정적으로 처리되어야 합니다. 컨택센터 서비스 환경에서는 지연 시간이 용납될 수 없습니다. Sprinklr와 같은 기업에게 있어 이는 대규모 음악 처리 환경에서 성능, 효율성 및 안정성을 제공하기 위해 인프라를 지속적으로 발전시켜 나가는 것을 의미합니다 .
-
-- **[Using GitHub Copilot for Linux performance troubleshooting on Azure](https://www.youtube.com/watch?v=GBcVDgpmsOw)** — 2026-07-10 · ko · `AX`
-  안녕하세요, 저는 마이크로소프트의 Azure Linux 그룹에서 제품 관리자로 근무하는 칼 애벗입니다. Azure에서 Linux 성능에 대해 이야기할 때, 오늘날의 과제는 일반적으로 데이터 부족이 아닙니다. Azure Monitor, 네이티브 Linux 도구, eBPF와 같은 최신 관찰 도구를 활용하면 대부분의 시스템에서 이미 CPU, 메모리, 스토리지, 네트워크 등 다양한 신호를 생성하고 있습니다 . 더 어려운 문제는 무언가 잘못됐다고 느껴질 때 다음에 무엇을 살펴봐야 할지 결정하는 것입니다. 이번 세션의 주제는 바로 그것입니다.
-
-- **[Build and run long-running agents in Foundry Agent Service](https://www.youtube.com/watch?v=Dw-kVTNvT2Q)** — 2026-07-09 · ko · `AX`
-  안녕하세요 여러분, 마이크로소프트 파운드리 팀의 제프입니다. 마이크로소프트 파운드리 호스팅 에이전트 제품의 새로운 기능들을 소개해 드리게 되어 매우 기쁩니다. 이제 일반에 공개되었습니다. 자, 그럼 제가 호스팅 에이전트를 어떻게 활용하는지, 그리고 어떤 시나리오에서든 엔터프라이즈급의 장기 실행, 보안 및 관리형 에이전트를 구축하는 데 있어 호스팅 에이전트가 세계 최고의 플랫폼이라고 생각하는 이유를 간략하게 설명해 드리겠습니다. 자 , 제가 몇 분 후에 설명해드릴 시나리오는 실제로 저희 조직에서 체결하는 계약과 연동하여 계약 세부 정보를 파악하고 , 계약 위험 평가를 수행하며, 나아가 저희 조직 사용자를 대신하여 선제적인 조치를 취할 수 있도록 하는 것입니다
-
-- **[Simplifying Token Quota Management with Proactive Tier Upgrades](https://www.youtube.com/watch?v=tYD_NYaHik4)** — 2026-07-08 · ko · `unclassified`
-  우리는 사용자가 한계에 가까워지고 있음을 알 수 있는 능동적인 세상으로 나아가고 있습니다. 당신은 우리와 함께 적극적으로 소비하고 있습니다. 그렇게 되면 저희가 자동으로 레벨을 올려드리기 시작할 겁니다. 크리스, 고객이 원하는 모델을 정하면 어떤 기능을 사용할지 알고, 이제 얼마나 사용할지 결정해야 합니다. 그건 항상 토큰이죠, 그렇죠? 그것이 바로 보편적인 교환입니다. 고객은 필요한 토큰 수를 분당 몇 개로 정하고 , 할당량을 사전에 요청해야 합니다. Foundry는 고객이 이 문제를 해결하도록 어떻게 지원하고 있습니까 ?
-
-- **[Wolters Kluwer scales regulated workloads with AKS, enabling AI-driven innovation](https://www.youtube.com/watch?v=W1MK7Xejx_s)** — 2026-07-08 · ko · `unclassified`
-  [음악] 저는 애덤 마렌틀레커이고, 월터스 클루워의 북미 세무 및 회계 엔지니어링 팀을 이끌고 있습니다. Wolters Kluwer는 전문 서비스 회사입니다. 저희는 세무 및 회계, 법률 및 규제, 의료, 기업 성과 및 ESG 전문가를 위한 솔루션을 전문으로 제공합니다. 인공지능은 우리 전략의 핵심입니다. 저희 세무회계 부서에서는 전문가들을 위한 세무, 감사, [음악] 및 자문 업무를 처리합니다 . 이러한 워크플로, 즉 세금 신고서 작성, 세금 신고서 준비, 감사 수행은 매우 순환적인 과정입니다.
-
 ## NVIDIA (32건)
 
 - **[NVIDIA & Wistron: Reindustrializing America With Advanced Manufacturing](https://www.youtube.com/watch?v=ZAVVfZ_mwnw)** — 2026-07-22 · ko · `unclassified`
@@ -8220,104 +8663,6 @@
 
 - **[Ariana Greenblatt's BIG Next Moves | Comfort Zones E4 | Nike](https://www.youtube.com/watch?v=4py8YU8ygpw)** — 2025-05-20 · ko · `unclassified`
   했던 일 중에 가장 황당했던 일은 무엇인가요? 정신 나갔어? 온 힘을 다해 연기해. 안녕하세요 여러분, 아리아나 그린블랫입니다. 여기는 컴포트 존입니다. 신발은 편안하지만, 질문은 그렇지 않죠. 배우이자 슈퍼스타이며, 자랑스러운 어벤져스 멤버입니다. 저예요, 아리아나. 불편함을 감수할 준비가 되셨나요 ? 제가 할 수 있는 한 최대한 준비했습니다. 그냥 오늘이 아름다운 여름날인 것처럼 행동하는 거예요 . 우리는 하와이에 있어요. 좋아요. 우리는 1구역에 있습니다. 당신은 스스로를 잘 속는 사람이라고 생각하시나요? 그렇다면, 마지막으로 속거나 기만당한 것은 언제였습니까?
-
-## Oracle (32건)
-
-- **[Budapest's Strategic Trade-Offs: Oracle Strategy Series](https://www.youtube.com/watch?v=fPFBSqRP3OM)** — 2026-07-24 · ko · `unclassified`
-  헝가리는 일반 서킷이지만, 추월이 매우 어렵기 때문에 시가지 서킷을 고려하고 있습니다. 따라서 가장 중요한 것은 예선입니다. 안녕하세요, 잭 브라운입니다. 오라클 전략 시리즈에 오신 것을 환영합니다. 이것은 경기 브리핑입니다. [음악] 이것은 부다페스트를 위한 오라클 전략 시리즈입니다 . 부다페스트는 타이어에 부담이 많이 가는 동시에 추월하기도 상당히 어려운 독특한 조합을 가지고 있어서 꽤 흥미로운 [음악] 트랙입니다 . 그러니까 트랙 위치와 가장 빠른 레이스라고 생각되는 경기를 따라가는 것 사이에서 끊임없이 균형을 맞춰야 한다는 거죠.
-
-- **[Bachman's: Better Retail Decisions with Oracle Retail](https://www.youtube.com/watch?v=V63YfGWyxaw)** — 2026-07-23 · ko · `DX`
-  바흐만스는 1885년에 설립되었습니다. 저희는 미네소타주 미니애폴리스와 트윈 시티 지역에서 가정용품, 화훼용품, 원예용품을 판매하는 소매업체입니다. [음악] 우리에겐 다양한 움직이는 부분과 요소들이 많이 있습니다. 우리 회사 규모에 비해 너무 복잡해요 . 오라클을 이용하기 전에는 우리 재고 관리가 엉망이었습니다. 우리는 우리가 가진 게 뭔지 전혀 몰랐다. 수요와 공급이 어떻게 될지 예측할 방법이 전혀 없었습니다 . 우리는 매장에 무엇이 있는지 전혀 몰랐어요 . 우리는 여러 다른 장소에서 그것을 가지고 있었습니다. 사람들은 엑셀 스프레드시트를 가지고 있었다.
-
-- **[Workforce Operations Command Center: Oracle Fusion Cloud HCM Demo](https://www.youtube.com/watch?v=T0t-igdojmg)** — 2026-07-23 · ko · `unclassified`
-  인력 운영 지휘 센터는 상담원들이 협력하여 인력 일정을 조정하고, 근태 기록을 검토하고, 휴가 요청을 관리하는 Fusion Agentic 앱입니다. 담당자들이 이미 주요 인력 배치 및 근태 관리 문제를 요약하고, 우선 조치 사항을 파악했으며, 중요한 공지 사항을 준비한 것을 확인했습니다. 그들은 배후에서 인력 충원 현황, 정책 위험, 결근 및 근태 기록 데이터를 지속적으로 평가하여 우리가 검토해야 할 우선 순위 조치를 파악합니다 . 첫 번째는 근무 교대 취소 요청입니다.
-
-- **[Deloitte on Modernizing Defense Missions: Oracle TV at Defence Tech Summit 2026](https://www.youtube.com/watch?v=KAm3CM1B7Lw)** — 2026-07-21 · ko · `unclassified`
-  안녕하세요, 브뤼셀에서 열리는 오라클 방위 기술 서밋 현장의 오라클 TV에 오신 것을 환영합니다. 지금 이 자리에 딜로이트의 정부 및 공공 서비스 부문 글로벌 리더인 베스 맥그래스 씨가 함께해 주셔서 매우 기쁩니다. 베스, 정말 고마워요. 초대해 주셔서 정말 감사합니다. 이제 딜로이트에서 당신이 이끌고 있는 중요한 업무에 대해 이야기하고 싶습니다 . 아시다시피, 베스는 전 세계 정부 및 공공 부문 조직에 임무 우선순위, 혁신 이전, 운영, 기술 및 인력 현대화에 대한 자문을 제공합니다.
-
-- **[How to Activate an Oracle Fusion Applications Subscription and Create a Cloud Account](https://www.youtube.com/watch?v=Rnq1QhwWdZw)** — 2026-07-21 · ko · `DX`
-  이 튜토리얼에서는 Oracle Fusion Applications 구독을 활성화하고 서비스를 호스팅하는 데 필요한 Oracle Cloud 계정을 생성하는 방법을 알아봅니다. 계정 관리자로서 Oracle Fusion Applications를 프로비저닝하기 전에 구독을 활성화하고 Oracle Cloud 계정과 연결해야 합니다 . 이 시나리오에서 저희 조직은 Oracle Fusion ERP Cloud 서비스를 구매했으며, 구현 계획에 따라 서비스를 호스팅하기 위한 새로운 Oracle Cloud 계정이 필요합니다. 오라클에서 구독 주문을 처리한 후 , 구독 활성화 정보가 포함된 환영 이메일을 찾겠습니다.
-
-- **[How to Add a Custom Dimension to a Prebuilt Fact in Oracle Fusion Data Intelligence](https://www.youtube.com/watch?v=kgobEnDt1O0)** — 2026-07-21 · ko · `unclassified`
-  이 튜토리얼에서는 시맨틱 모델 확장 프레임워크를 사용하여 Oracle Fusion Data Intelligence(FDI)의 사전 구축된 팩트에 사용자 지정 차원을 추가하는 방법을 알아봅니다 . 이 시나리오에서 저는 시맨틱 모델 관리자입니다. 저는 시맨틱 모델 확장 기능을 사용하여 SCM 영업 주제 영역의 기존 팩트 테이블에 추가 데이터가 포함된 부서 차원을 추가할 것입니다 . 논리적 스타에 차원을 추가하면 수치적 사실에 추가적인 맥락과 설명적 속성을 제공할 수 있습니다 . 먼저 Autonomous Data Lakehouse에서 사용자 지정 부서 차원을 생성하겠습니다
-
-- **[How to Create Oracle Fusion Applications Environments](https://www.youtube.com/watch?v=l2EchQNc6Jc)** — 2026-07-21 · ko · `unclassified`
-  이 튜토리얼에서는 환경 설정 마법사를 사용하여 Oracle Fusion Applications 환경을 생성합니다 . Fusion Applications 환경을 생성하면 구현을 시작하는 데 필요한 운영 및 테스트 환경이 준비됩니다 . 이 시나리오에서는 이미 Oracle Fusion Applications 구독을 활성화하고 Oracle Cloud 계정에 로그인했습니다 . 이제 Fusion Applications 환경을 프로비저닝할 준비가 되었습니다. OCI 콘솔의 Fusion Applications 페이지에서 빠른 시작을 선택하여 환경 설정 마법사를 엽니다. 내 환경 패밀리 정보를 검토하고 기본 이름을 유지한 다음 구독 정보를 검토하고 계속 진행하려면 해당 구독을 선택하세요.
-
-- **[How to Explore GL Account Activity with CAA in Fusion ERP Analytics](https://www.youtube.com/watch?v=ZF69FSolHHY)** — 2026-07-21 · ko · `DX`
-  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)의 구성 가능한 계정 분석(CAA)을 사용하여 Fusion ERP의 GL 계정 활동을 탐색하는 방법을 알아봅니다 . 기능 관리자는 구성 가능한 계정 분석을 사용하여 관련 전표 소스에서 보강 속성을 선택함으로써 상세한 하위 원장 데이터를 총계정원장에 추가할 수 있습니다 . 분기 마감이 다가옴에 따라, 기간별 및 회계 전표 출처별 총계정원장 계정의 변동 사항을 분석하기 위한 통합 문서를 만들고 싶습니다 . Fusion ERP 분석 기능 관리자가 이미 생성하여 공유한 CAA 주제 영역이 있는 통합 문서에서 시작하겠습니다
-
-- **[How to Modify CAA Subject Area in Fusion ERP Analytics](https://www.youtube.com/watch?v=D4oEMObA6E4)** — 2026-07-21 · ko · `DX`
-  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)에서 Fusion ERP Analytics 구성 가능 계정 분석 주제 영역 정의를 수정하는 방법을 알아봅니다 . 기능 관리자는 구성 가능한 계정 분석(CAA) 또는 CAA 주제 영역 정의를 수정하여 저널 소스와 속성을 업데이트할 수 있습니다. 이 시나리오에서 저는 Fusion ERP 관리자로서 기능 관리자가 이미 생성하고 공유한 주제 영역을 다루고 있습니다. 현재 회계 기간 마감이 다가오고 있으며, 총괄 회계 관리자는 자산 세부 정보와 같은 여러 보조 원장 소스의 회계 정보를 단일 화면에서 확인해야 합니다.
-
-- **[How to Move Data to an Autonomous AI Lakehouse Using a Data Flow in Oracle FDI](https://www.youtube.com/watch?v=3Pr5anuLheI)** — 2026-07-21 · ko · `unclassified`
-  이 튜토리얼에서는 Oracle Fusion Data Intelligence 데이터 흐름에서 선별된 데이터를 Oracle Autonomous AI Lakehouse 외부 데이터 소스에 저장하는 방법을 알아봅니다. 데이터 흐름을 사용하면 선별 및 변환된 데이터를 내보낼 수 있으므로 동일한 Oracle Autonomous AI Lakehouse 데이터 소스에 연결할 수 있는 다른 사람들과 데이터 세트를 쉽게 공유할 수 있습니다. 이 시나리오에서는 두 주제 영역의 통합 데이터를 외부 Autonomous AI Lakehouse 데이터 소스에 로드하려고 합니다. 두 가지 주제 영역을 중심으로 데이터 흐름도를 제시하며 시작하겠습니다
-
-- **[How to Prepare a Dataset for Natural Language Results in Oracle Fusion Data Platform](https://www.youtube.com/watch?v=p1tKmrNSJ34)** — 2026-07-21 · ko · `unclassified`
-  이 튜토리얼에서는 Oracle Fusion Data Intelligence의 자연어 처리 기능 및 AI 지원을 통해 더 나은 결과를 얻기 위해 데이터 세트를 준비하고 비즈니스 친화적인 메타데이터를 개선하는 방법을 살펴보겠습니다. Oracle Fusion Data Intelligence(FDI)는 자연어 처리 기능과 AI 기반 인사이트를 제공하여 사용자가 데이터를 탐색하고, 시각화를 생성하고, 주요 패턴을 식별할 수 있도록 지원합니다. 이러한 기능을 최적화하려면 데이터 세트가 깨끗하고 명확하고 사용자 친화적인 명명 규칙을 사용하는 것이 필수적입니다 .
-
-- **[How to Provide Additional Context to Data Elements in Oracle Fusion Data Intelligence](https://www.youtube.com/watch?v=QjGnpwZH-wE)** — 2026-07-21 · ko · `unclassified`
-  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)에서 데이터 요소에 추가 컨텍스트를 추가하는 방법을 알아봅니다. 통합 문서 작성자는 시각화의 데이터 요소에 추가적인 맥락을 제공하기 위해 '선택 항목 설명' 기능을 활성화할 수 있습니다 . 이를 통해 소비자는 시각화에서 선택한 데이터 포인트를 나머지 데이터와 비교하여 추세와 영향을 미치는 요인을 파악할 수 있습니다. 이 시나리오에서 저는 공급망 분석가로서 소비자들이 이 지도 시각화를 더 잘 이해할 수 있도록 맥락적 정보를 추가하고 싶습니다.
-
-- **[How to Review Prebuilt Workbook Content in Oracle Fusion Data Intelligence](https://www.youtube.com/watch?v=k7s0QhdeDPE)** — 2026-07-21 · ko · `DX`
-  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)의 콘텐츠 탐색기 통합 문서를 사용하여 미리 만들어진 통합 문서 콘텐츠를 검토하는 방법을 알아봅니다. 콘텐츠 탐색기 통합 문서는 Oracle에서 제공하는 분석 콘텐츠에 대한 포괄적인 보기를 제공하여 사용자가 사용 가능한 보고서, 지표 및 주제 영역을 쉽게 찾을 수 있도록 합니다. 이를 통해 콘텐츠 관리, 릴리스 간 추적 기능을 개선하고 사용자 지정 통합 문서를 만들기 위한 기반을 마련할 수 있습니다 . 이 시나리오에서 저는 새로운 보고 시스템 구축을 지원하는 기능 관리자입니다
-
-- **[How to Track Workbook Content Usage in Oracle Fusion Data Intelligence](https://www.youtube.com/watch?v=L5IUdEgi1sg)** — 2026-07-21 · ko · `unclassified`
-  이 튜토리얼에서는 Oracle Fusion Data Intelligence(FDI)에서 통합 문서 콘텐츠 사용량을 추적하는 방법을 알아보겠습니다 . 관리자는 Oracle에서 제공하는 사전 구축된 통합 문서를 활용하여 통합 문서 사용량, 사용자 참여도 및 쿼리 성능을 모니터링하고 분석할 수 있으므로 조직에서 도입률을 높이고 추세를 파악하며 분석 성능을 최적화할 수 있습니다. 이 시나리오에서 저는 조직 전체 사용자의 통합 문서 사용량을 모니터링하려는 기능 관리자입니다 . 어떤 통합 문서가 가장 자주 액세스되고 가장 드물게 액세스되는지 파악하고 사용자 활동의 성능 및 추세를 확인합니다 .
-
-- **[How to Use the Oracle AI Data Platform Extension in Visual Studio Code](https://www.youtube.com/watch?v=vC_nIltsPkg)** — 2026-07-21 · ko · `DX`
-  이 튜토리얼에서는 Visual Studio Code에서 Oracle AI 데이터 플랫폼 개발자 확장 프로그램을 사용하는 방법을 살펴보겠습니다 . 이 확장 프로그램은 Visual Studio Code 내에서 Oracle AI 데이터 플랫폼 리소스에 직접 액세스할 수 있도록 해줍니다 . 연결 후에는 개발 환경을 벗어나지 않고도 에이전트, 워크플로, 지식 기반 및 작업 공간 파일을 사용할 수 있습니다 . 이 시나리오에서는 확장 프로그램을 설치하고 Oracle AI 데이터 플랫폼 인스턴스에 연결한 다음 해당 기능을 살펴보려고 합니다 .
-
-- **[Isack Hadjar Breaks Down Spa: Oracle Strategy Series](https://www.youtube.com/watch?v=jnovJ297KKE)** — 2026-07-17 · ko · `unclassified`
-  벨기에 그랑프리는 저에게 아주 특별한 곳입니다 . 이 트랙에서 제 생애 첫 레이싱 우승입니다 . 예선 랩이 워낙 길기 때문에 3번 섹터에서 최대한의 효율을 내려면 타이어 관리에 신경 써야 합니다. 안녕하세요, 아이작 아자이입니다. 오라클 전략 시리즈에 오신 것을 환영합니다 . 이것은 경기 브리핑입니다. [음악] 이것은 오라클 전략 시리즈, 스파입니다. 스파 서킷은 실제로 한 해 중 가장 긴 랩을 자랑하는데 , 전략가 입장에서는 랩을 멈출지 말지 고민하다가 결국 한 바퀴를 더 돌기로 결정하면 그 시간이 엄청나게 길게 느껴진다는 뜻입니다
-
-- **[Oracle Defence Tech Summit 2026: Event Highlights](https://www.youtube.com/watch?v=9ekXsXR_PI4)** — 2026-07-17 · ko · `unclassified`
-  브뤼셀에서 열리는 연례 방위 기술 정상 회의에 참석하기 위해 이곳에 왔습니다. 군사 지도자, 혁신가, 시스템 통합업체, 음악 기술 전문가 등 모든 분들이 임무 지원을 위해 한자리에 모였습니다. 인공지능이 국방 방식을 바꾸고 있다. 제게 가장 값진 통찰은 이러한 생태계와 우리가 구축할 수 있는 연결고리에 관한 것이었습니다. 오늘 행사는 에너지 넘치고 협력적인 분위기입니다. 모든 곳에 AI가 존재한다는 아이디어는 저에게 큰 의미가 있었는데, 오늘 패널들이 AI 솔루션을 컨테이너화하고 전투원의 역량을 강화하기 위해 에어갭 솔루션에 적용하는 방법에 대해 이야기하는 것을 들으면서 큰 깨달음을 얻었습니다
-
-- **[Silverstone's Unpredictability: Oracle Strategy Series](https://www.youtube.com/watch?v=gSHV0fFi2fc)** — 2026-07-17 · ko · `unclassified`
-  저는 실버스톤을 정말 좋아해요. F3에 한 명, F2에 한 명 , 아직 F1에는 진출하지 못했습니다. 그곳은 무슨 일이든 일어날 수 있는 트랙이고, 특히 날씨의 영향을 많이 받습니다. 영국 날씨란 원래 그래요. 의사결정이 핵심입니다. 안녕하세요, 사샤 페네스트라즈입니다. 오라클 전략 시리즈에 오신 것을 환영합니다 . 이것은 경기 브리핑입니다. [음악] 실버스톤을 위한 오라클 전략 시리즈입니다. 실버스톤은 날씨 변화가 심한 곳입니다 . 비 오는 날이 한 번도 없는 건 정말 드문 일이에요.
-
-- **[Why OCI: Engineered for the Systems the World Can’t Afford to Lose](https://www.youtube.com/watch?v=RA5ZgB8rj_I)** — 2026-07-17 · ko · `unclassified`
-  세상은 당신이 결코 볼 수 없는 시스템 위에서 [음악]을 움직입니다 . 모든 클릭, 모든 거래, 모든 모델, 모든 결과. 이 모든 것은 인프라에 달려 있습니다. 가장 작은 규모의 구축부터 가장 큰 시스템에 이르기까지, 인프라는 안정적으로 작동해야 합니다 . 기반 시설의 취약점은 결코 고립된 문제로 남지 않기 때문입니다. 지연 시간이 누적되고, 오류가 연쇄적으로 발생하며, 작은 비효율성이 모든 것을 완전히 멈추게 합니다. 그래서 OCI는 처음부터 새롭게 설계되었습니다 . 우리는 클라우드를 물려받지 않았습니다.
-
-- **[AI Changes Everything: Using AI to Help Prevent Human Trafficking](https://www.youtube.com/watch?v=G6PZCdNSl68)** — 2026-07-16 · ko · `AX`
-  이 팟캐스트에서 표현된 견해는 개별 발표자의 견해이며, 발표자 의 소속 기관이나 오라클 또는 그 계열사의 견해 또는 정책을 반드시 반영하는 것은 아닙니다. 인공지능에 대해 이야기할 때, 우리는 기술 자체에만 집중하고 그 결과를 간과하는 경향이 있습니다. 하지만 이 기술에는 또 다른 측면이 있습니다. 바로 이 기술을 활용하여 세계가 직면한 가장 심각한 문제들을 해결할 수 있다는 점입니다. 인신매매는 가장 명확한 사례 중 하나입니다. 이번 에피소드에서는 인공지능을 활용하여 이러한 문제를 해결하는 방법에 대해 논의하겠습니다
-
-- **[Mars Veterinary Health: AI Lakehouse at Oracle AI World](https://www.youtube.com/watch?v=aF3rI3P0rCI)** — 2026-07-16 · ko · `unclassified`
-  우리 세계에 오면 배울 것이 많습니다. 아시다시피, 여러분은 이미 주변 환경에서 필요한 것을 다 배웠다고 생각할지 모르지만, 사실 배울 것이 훨씬 더 많습니다 . 저희는 혁신가이며, 특정 기술을 도입하는 데 있어서 항상 앞서 나가는 편입니다. 오라클과 함께 음악 분야에서 협업하면서 자신감을 얻었고, 누구와 이야기해야 할지도 알게 되었습니다. 이건 정말 엄청난 기회예요. 더 효율적으로 일하고 더 나은 결정을 내리고, 궁극적으로는 반려동물을 위한 더 나은 세상을 만들고자 하는 우리의 바람을 실현할 수 있는 기회죠.
-
-- **[Tamilnad Mercantile Bank Drives Efficiency with AI-Powered Oracle Fusion Apps](https://www.youtube.com/watch?v=Tmdhybwtvxc)** — 2026-07-15 · ko · `DX`
-  타밀나두 상업은행은 1921년에 설립된 민간 은행입니다. 저희 은행은 주로 중소기업 고객을 대상으로 사업을 운영하고 있습니다. 이전에는 통합되지 않고 서로 연동되지 않는 기존 시스템을 사용했습니다 . 고객들은 모든 서비스를 받기 위해 카운터로 직접 오셔야 합니다 . 요청 건의 70%는 수표책 발급 요청이었습니다. 그래서 이것은 수작업으로 진행되는 과정이라 시간이 오래 걸리고 비용 효율도 전혀 좋지 않았습니다 . 저희 핵심 뱅킹 시스템은 4년 전에 업그레이드되었고, 그 후 고객 서비스 경험도 개선하고 싶었습니다.
-
-- **[NHS Shared Business Services: Releasing Time Back to Care with Oracle](https://www.youtube.com/watch?v=x2Ij30XkWh8)** — 2026-07-14 · ko · `unclassified`
-  NHS [음악] Shared Business Services는 합작 투자 회사입니다. 보건 사회복지부 (음악 부문)가 50%, 소프라 스테리아 그룹이 50%의 지분을 소유하고 있습니다. 저희 회사는 설립 당시 오라클과 파트너십을 맺고 온프레미스 음악 솔루션을 활용하여 작업 기반 자동화, 맞춤형 음악 보고서 등 수백 건의 작업을 진행했습니다. 그리고 정말 중요한 것은 우리가 데이터를 확보했고, 그 데이터를 의미 있는 통찰력으로 바꿔야 한다는 것입니다 . 우리는 특히 [음악] 분야의 재정 역량을 강화하고 재정 및 조달 분야에서 탁월함이 무엇을 의미하는지 재정립해야 했습니다
-
-- **[AI Credit Risk Assessment with Oracle AI Data Platform: Demo](https://www.youtube.com/watch?v=q6SmYFaoKHM)** — 2026-07-13 · en · `DX`
-  In the financial services industry, risk teams at fast-growing retail banks often spend hours manually pulling data from multiple systems to review credit applications. These teams need speed, control, and full auditability. That's exactly what Oracle AI data platform delivers. With AI data platform, teams work from a single platform, one place for both their data and their AI. Instead of juggling disconnected tools, they simply ask, "Show loan applications that need attention.
-
-- **[Build Agentic Apps with Oracle AI Studio Skill: Demo](https://www.youtube.com/watch?v=TDJJLHdBvnY)** — 2026-07-13 · ko · `unclassified`
-  안녕하세요 여러분. 오늘 아침 여러분께 오라클의 새로운 Agente 앱 빌더를 소개하게 되어 정말 기쁩니다. Agente 애플리케이션을 처음 사용하시는 분들을 위해 설명드리자면, Agente 애플리케이션은 모든 화면 내용이 에이전트를 통해 추론되고, 자연어 로 질문하고 즉각적인 답변을 받을 수 있는 완전한 추론 및 사고 기능을 갖춘 애플리케이션입니다. 저희는 GitHub를 통해 저희의 AI 스킬, VS Code 플러그인, 그리고 이 모든 것을 작동시키는 데 필요한 CLI 도구를 공개하게 되어 매우 기쁩니다 .
-
-- **[Manufacturing AI: Production Incident Response Demo](https://www.youtube.com/watch?v=T6AbSaO1hBQ)** — 2026-07-13 · ko · `AX`
-  가전제품 공장의 생산 관리 감독관이 슬랙 알림을 받았습니다. 3번 생산 라인의 불량률이 갑자기 허용 한도를 넘어섰습니다. 관리자는 대시보드를 일일이 살펴보는 대신 AI 에이전트를 열어 무슨 일이 일어나고 있는지 파악합니다. 상담원은 몇 초 만에 문제의 원인을 파악합니다. 3번 생산 라인의 기계에서 비정상적인 품질 패턴과 높은 운영 위험도가 나타나고 있습니다. 심층 분석을 통해 전체적인 상황을 파악할 수 있습니다. 기계가 임계점에 도달하고 있습니다. 머신 러닝 기반 위험 점수는 심각도를 확인하고 , 검사 로그는 맥락을 추가합니다 .
-
-- **[Retail AI: Dynamic Price Markdown Demo](https://www.youtube.com/watch?v=NqpAj0hhdXA)** — 2026-07-13 · ko · `AX`
-  오늘날 소매업체는 재고 관리 및 판매 속도 향상을 위한 더욱 정교한 접근 방식이 필요합니다 . 실시간 대시보드를 검토하는 것만으로는 필요한 비즈니스 효율성을 달성하기에 충분하지 않습니다. 최고 매출책임자인 앤드류는 재고 증가, 제품 판매 부진, 이익률 감소의 원인을 파악하고 해결책을 제시하는 지능형 시스템을 원합니다. 이 데모에서는 Oracle AI 데이터 플랫폼을 사용하여 동적 가격 인하를 통해 재고 및 판매 속도를 관리하는 방법을 살펴보겠습니다. 기획 관리자인 라케시는 이제 매일 아침 어떤 제품의 가격을 인하해야 할지 검토하는 것으로 하루를 시작합니다.
-
-- **[Utilities AI: Asset Intelligence Demo](https://www.youtube.com/watch?v=yPgywlK6C4Q)** — 2026-07-13 · ko · `DX`
-  Oracle AI 데이터 플랫폼은 Oracle 유틸리티 데이터 인텔리전스 그리드 인사이트를 기반으로 유틸리티 그리드 운영 분석 기능을 확장합니다. Oracle 미터 데이터 관리 기능이 있는 경우 이를 활용하고, 없는 경우에는 독립적으로 구축할 수 있습니다. 이 데모에서는 AI 데이터 플랫폼이 타사 맞춤형 모델, SOP 추론 및 AI 에이전트를 기반으로 계층 구조를 구축합니다. 대시보드를 샅샅이 뒤지는 대신 , 그들은 단순히 오늘의 유지보수 우선순위를 어떻게 정해야 하는지 묻습니다. 에이전트는 즉시 순위 목록을 반환합니다 .
-
-- **[Big Boy Restaurants: Modernizing Operations with Oracle](https://www.youtube.com/watch?v=xbmANqgfIBQ)** — 2026-07-10 · ko · `unclassified`
-  빅보이는 90년 역사를 자랑하는 브랜드입니다. 저희 회사는 미시간주에 본사를 두고 있습니다. 저희는 햄버거를 비롯한 다양한 가족 메뉴를 제공합니다. 빅보이는 미국 전역에 56개의 매장을 운영하고 있습니다 . 저희는 매우 성공적이었던 푸드트럭 모델과 드라이브스루 방식으로 사업 방향을 전환하고 있습니다. 저희는 저희를 가장 잘 아는 기존 고객분들께는 최고의 서비스를 제공하고 , 저희 에게서 새로운 모델을 찾고 있는 신규 고객분들께도 만족스러운 경험을 선사하고 싶습니다 . 과거에 우리가 직면했던 어려움 중 가장 큰 것은 음악 산업 관련 보도였습니다
-
-- **[How to Configure Slack Integration in Oracle Analytics Cloud](https://www.youtube.com/watch?v=9ioZ0wvErvY)** — 2026-07-10 · ko · `unclassified`
-  이 튜토리얼에서는 Oracle Analytics Cloud 및 Fusion Data Intelligence에서 Slack 통합을 구성하는 방법을 알아보겠습니다. 관리자로서 저는 Oracle Analytics Cloud를 Slack에 연결하여 워크북 작성자가 캔버스와 시각화를 조직 Slack에 직접 공유할 수 있도록 할 수 있습니다. 이를 통해 수동으로 콘텐츠를 내보내지 않고도 팀 ​​슬랙 채널에 쉽게 콘텐츠를 배포하고 협업을 간소화할 수 있습니다. 먼저 슬랙의 조직 워크스페이스에 새 앱을 만들겠습니다 . api.slack.com/apps로 이동하겠습니다. 저는 이미 로그인되어 있어서 바로 접속할 수 있습니다 .
-
-- **[How to Use Rule Blending for Conditional Formatting in Oracle Analytics Cloud](https://www.youtube.com/watch?v=pQ-89a9UYEw)** — 2026-07-10 · ko · `unclassified`
-  이 튜토리얼에서는 Oracle Analytics Cloud 및 Fusion Data Intelligence에서 조건부 서식을 위해 규칙 블렌딩을 사용하는 방법을 알아봅니다. 규칙 혼합 기능을 사용하면 시각화에서 동일한 데이터 포인트에 여러 조건부 서식 규칙을 적용하여 데이터의 다양한 측면을 동시에 강조하거나 규칙이 중복될 때 어떤 규칙이 우선 적용될지 제어할 수 있습니다 . 이 시나리오에서는 표 형식으로 제품 판매량과 이익률을 분석하고 있으며, 판매 실적과 수익성을 동시에 강조하고 싶습니다. 시작하려면 시각화를 마우스 오른쪽 버튼으로 클릭하고 조건부 서식을 선택한 다음 규칙 관리를 선택하여 조건부 서식 대화 상자를 열겠습니다
-
-- **[Oracle AI Infrastructure: Powering Enterprise AI](https://www.youtube.com/watch?v=XaxplgI6FGw)** — 2026-07-10 · ko · `unclassified`
-  AI는 새로운 성장 동력이 될 수 있습니다. 하지만 비용을 관리하고 데이터 거버넌스를 유지하면서 대규모로 운영할 수 있는 경우에만 가능합니다 . 이를 위해서는 사업을 운영하는 모든 곳에서 필요한 도구, 성능 및 유연성을 제공하는 데 집중하는 파트너가 필요합니다 . 오라클 클라우드 인프라는 이러한 과제를 해결하기 위해 설계되었습니다 . 이 제품은 세계에서 가장 까다로운 워크로드, 국제 은행 시스템, 국가 데이터 인프라, 대규모 AI 교육 및 가장 복잡한 사용 사례를 위해 설계되었습니다.
 
 ## Orange (32건)
 
