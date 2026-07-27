@@ -1,6 +1,6 @@
 # 채널/출처별 수집 요약
 
-총 4437건 · 197개 채널/출처
+총 4487건 · 199개 채널/출처
 
 ## LG AI Research (100건)
 
@@ -594,6 +594,272 @@
 - **[Project Genie: Create and Explore Worlds](https://www.youtube.com/watch?v=Ow0W3WlJxRY)** — 2026-01-29 · ko · `AX`
   안녕하세요 여러분, 릴리스 노트에 다시 오신 것을 환영합니다 . 제 이름은 로건 킬패트릭입니다. 저는 구글 딥마인드 팀 소속입니다. 오늘은 프로젝트 지니, 지니 3에 대해 이야기해 보겠습니다. 디에고, 슐로미, 잭이 함께합니다. 우리가 무슨 이야기를 하는지, 앞으로 무슨 이야기를 할 건지 전혀 모르는 사람들을 위해, 세계 모델이란 무엇인지부터 시작해 볼까요? 그러니까, 제 생각에는 이것을 이해하는 한 가지 방법은, 기본적으로 텍스트를 입력하면 몇 초 분량의 비디오를 생성하는 비디오 모델이 있다는 것입니다. 그렇죠?
 
+## Meta (88건)
+
+- **[The future is for everyone.](https://www.youtube.com/watch?v=JlRgRmAqoAc)** — 2026-07-23 · en · `unclassified`
+  We need to brace ourselves for what's to &gt;&gt; Some people will have you believe AI will make us less connected, that it's going to leave us behind. We couldn't disagree more. Call [music] us optimists. Call us dreamers. Just as we've always done, we're betting on people. &gt;&gt; [music] &gt;&gt; We bet on people when we connected you to the ones you lost touch with.
+
+- **[Boz To The Future #27: The Future According to Shyam Sankar](https://www.youtube.com/watch?v=bOTy3Q5_trw)** — 2026-07-02 · en · `unclassified`
+  [music] &gt;&gt; Hello, this is Baz to the Future and I am Baz. Uh now, long-time listeners won't know anything has changed, but people who catch these clips on the internet will notice that I am uncharacteristically in a suit, tie, and a mustache. Uh and actually my guest, Shyam Sankar, has a lot to do with both of those factors, to be honest with you.
+
+- **[The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America](https://www.youtube.com/watch?v=gatpk6BhN5w)** — 2026-06-12 · en · `unclassified`
+  [music] &gt;&gt; I mean, United States Army veteran having served with the 82nd Airborne Division. &gt;&gt; [music] &gt;&gt; When I lost my eyesight in Desert Storm from a bunker explosion, I also lost my independence. The moment I put on my Ray-Ban Meta glasses, I got my independence back. &gt;&gt; [music] &gt;&gt; Hey Meta, read this letter. &gt;&gt; Don, I wanted to personally thank you. &gt;&gt; Hey Meta, where's [music] the blue shirt?
+
+- **[Boz To The Future #26: The Future According to Ed Catmull](https://www.youtube.com/watch?v=4s1_DKMYQVo)** — 2026-05-28 · en · `unclassified`
+  Welcome to Bos to the Future. Uh the podcast where we dive deep into a smaller number of topics. I kind of created this podcast after I felt so many podcasts I listen to in the technology sector tended to go really broad and not as deep. Um and so we have the opportunity to do the opposite. And I'm here today with somebody who I would normally say needs no introduction.
+
+- **[Boz & Barstool Sports at Meta House](https://www.youtube.com/watch?v=b0aWXH8UdjE)** — 2026-02-26 · en · `unclassified`
+  Hey guys, it's me, PFT. I guess I'll do the intro. It's me, uh, PFT. I got my good friend Hank here and Bos. Thank you for having us. We appreciate it. Uh, we got Max over here in the audience, too. So, we we might bring Max on stage at some point, uh, in in case we have some questions that we need answered. He's kind of our our fact check guy.
+
+- **[Meta's Early Detection and Disruption Work](https://www.youtube.com/watch?v=MRCbOl-V5eQ)** — 2026-02-10 · en · `unclassified`
+  Parents at a high school near Houston are in shock this morning, but breathing a sigh of relief after local police announced last night that they had stopped a possible plot to massacre students. &gt;&gt; My name is Emily Vatcher and I've been on the law enforcement outreach team at Meta for about 15 years [music] and previously I was an FBI agent.
+
+- **[An Interview With Dr. Jacob A. George, Director of the Utah NeuroRobotics Lab](https://www.youtube.com/watch?v=GKO36t0FFP8)** — 2026-01-27 · en · `AX`
+  All right. We're here today with Dr. Jacob A. George, the Soulsbacher Chen Endowed Professor in the John and Marsha Price College of Engineering's Department of Electrical and Computer Engineering and the Spencer Fox Eckles School of Medicine's Department of Physical Medicine and Rehabilitation at the University of Utah, which is quite a mouthful, but um Jake, if you can just briefly introduce yourself and tell us a little bit about your tenure so far.
+
+- **[Boz To The Future # 25: The Future According to Dylan Field](https://www.youtube.com/watch?v=diMGvhBfy74)** — 2025-11-20 · en · `AX`
+  Welcome to Bos to the Future, a podcast I started so that we could get a little deeper uh on a few topics because so often I find in our industry these conversations kind of can be very surface deep and very broad. Uh and I am thrilled to be joined today with Dylan Field, the CEO and co-founder of Figma, a company he started when he was 19 years old.
+
+- **[Boz To The Future # 24: The Future According to Francois Chardavoine](https://www.youtube.com/watch?v=WpFCYR3f46U)** — 2025-11-10 · en · `AX`
+  Welcome to BOS to the future. Uh a podcast that I created so that we would have time to go much much [music] deeper on a small number of topics as opposed to kind of being surface deep across a larger number as is so often the case in in our industry and kind of in general. I'm thrilled to be joined here today with Francois.
+
+- **[10 Years in the Making](https://www.youtube.com/watch?v=LIvpjFZwx4Q)** — 2025-10-02 · ko · `unclassified`
+  샤르마 박사님과 그분들이 하시는 모든 일을 따르세요 . 좋아요. 응. 맙소사, 효과가 있네. 정말 좋네요. [웃음] 뭔가 멋진 걸 보면 휴대폰을 꺼내지 않고도 공유하고 싶어지잖아요 . 안경 하나만 있으면 이 모든 걸 할 수 있을 거예요. 우리는 이제 다양한 구성 요소들을 하나씩 모아나가기 시작했습니다. 지난달에 [음악] Ray-Ban Stories를 출시했습니다. 사진과 동영상을 촬영하고, 음악을 듣고, 전화를 받을 수 있습니다. 인공지능의 발전은 차세대 컴퓨팅 플랫폼 구축의 발전과 교차합니다 . 차세대 레이밴 메타 스마트 안경.
+
+- **[Meta Connect 2025 Keynote](https://www.youtube.com/watch?v=Q9eLemEd9FY)** — 2025-09-20 · en · `unclassified`
+  ♪ ♪ 00:00:00,400 --&gt; --:--:--:-- ♪ ♪ --:--:--:-- --&gt; --:--:--:-- ♪ ♪ &gt;&gt; MARK WE ARE READY FOR YOU. &gt;&gt; ALL RIGHT. ♪ ♪ &gt;&gt; HOW'S IT GOING MAN? [CHEERING] ♪ ♪ [CHEERING] &gt;&gt; HEY! WE WILL TALK ABOUT THESE IN A MINUTE. WELCOME TO CONNECT! ALL RIGHT! A EYEGLASSES AND VIRTUAL REALITY. OUR GOAL IS TO BUILD GREAT LOOKING GLASSES THAT DELIVER PERSONAL SUPERINTELLIGENCE, AND A FEELING OF PRESENCE USING REALISTIC HOLOGRAMS, AND THESE IDEAS COMBINED.
+
+- **[Meta's Privacy Conversations: Risk Management and AI With Susan Cooper and Bojana Belamy](https://www.youtube.com/watch?v=8FBYm3rcwVI)** — 2025-08-14 · en · `unclassified`
+  [Music] Hello and welcome to another installment of Privacy Conversations, our series where we speak with experts from various fields about the challenges at the intersection of technology and policy. Thank you all so much for joining us today. I'm really excited. We're going to talk about the ways in which advances in technology and AI are requiring companies to evaluate their governance programs and update their compliance protocols.
+
+- **[Your personal AI. The new Meta AI app.](https://www.youtube.com/watch?v=jjwt-7Iov0k)** — 2025-06-24 · en · `unclassified`
+  (upbeat piano music) - Something's missing. Hey, Meta, I need more acidity. You got any ideas? - [Meta AI] You typically use lemon. - You know, it needs like a zhuzh of brightness. - [Meta AI] Last time you used honey. - Honey, duh. Good. That's not special. I need it to be special. - [Meta AI] Light, airy textures can add a special feel.
+
+- **[Meta passkeys | An easier way to sign in](https://www.youtube.com/watch?v=L32d6g5W1Ds)** — 2025-06-18 · ko · `unclassified`
+  패스키란 무엇인가요? 암호 키는 계정에 로그인하고 보호하는 안전하고 편리한 대안입니다. 기존 비밀번호는 기억하기 어렵고, 쉽게 추측되거나 도난당할 수 있지만, 패스키는 기기 잠금 해제에 사용하는 PIN, 지문 또는 얼굴 인식과 동일한 방식으로 본인임을 확인합니다 . 온라인 계정, 채팅 기록, 결제 정보 등을 보호하는 데 도움이 됩니다. 암호 키는 추측하거나 쉽게 훔칠 수 없으므로 피싱 공격이나 암호 스프레이 공격과 같은 공격에 강합니다. 암호 키는 사용자 기기에 로컬로 저장되며 Meta에서 절대 접근하지 않으므로 안심하고 사용할 수 있습니다
+
+- **[Your personal AI. The new Meta AI app.](https://www.youtube.com/watch?v=2l_2k5KrXmo)** — 2025-06-06 · ko · `unclassified`
+  음, 프랭크의 메타 버스트 비율이 또 나왔네요. 아쉽네요. 지난번에 핀즈 앤 프렌즈에서 프랭크를 새로 고용하셨잖아요. 몇 시에 문을 닫나요? 오후 5시쯤인 것 같네요. 맙소사. 프랭크 한 마리 더 사러 가자. 안녕, 메타. 마이크에게 WhatsApp으로 연락해서 오후 1시 약속을 변경해야 한다고 전해줘. 가족 구성원 중 한 명이 비극적으로 잡아먹혔습니다. 지금 마이크에게 보내고 있습니다 . 진지하게? 다시? 알아요. 프랭크가 어떻게 생겼는지 기억이 안 나요. 프랭크는 주황색과 흰색의 부채꼬리 물고기였습니다. 봉지에 담아.
+
+- **[Boz To The Future Podcast #23 - The Future According to James Cameron](https://www.youtube.com/watch?v=qOdjM14QW0s)** — 2025-04-09 · ko · `AX`
+  제 생각에는 평면 광학 배열과 그 배열을 뇌가 실제 데이터로 어떻게 해석하는지를 살펴보는 것이 좋을 것 같습니다. 그리고 이것은 공간 데이터입니다. 시간에 따른 공간 데이터 . 솔직히 말해서 , 거기에 답이 없을 것 같다는 생각이 자꾸 드네요 . 라이트 필드 방식일 수도 있고, 평면 광학 방식일 수도 있지만, 거기에는 어떤 답도 없습니다. 이 내용을 팟캐스트에 꼭 넣어야겠어요. 안녕하세요, Baz the Future에 오신 것을 환영합니다. 저는 바즈입니다.
+
+- **[Talk it out with Meta AI - Book Club](https://www.youtube.com/watch?v=bOj_LCHmINU)** — 2025-03-07 · ko · `unclassified`
+  독서 모임이 너무 기대돼요. 오늘 밤에 보자. 안녕. 마타, 우리 거실을 좀 더 해양풍으로 꾸미려면 어떻게 해야 할까? 배의 구조를 연상시키도록 가구를 각진 형태로 재배치해 보세요. 마타, 이 전채 요리들에 어울리는 기발한 고래 관련 말장난 이름 좀 생각해 줘. 혹등고래 후무스, 일각고래 나초. 귀여운. 고래는 삶의 광대함 과 존재의 무의미함을 상징합니다 . 모비딕에 대한 토론 주제를 좀 알려주시겠어요? 복수부터 시작해 볼까요?
+
+- **[Talk it out with Meta AI - Thermodynamics](https://www.youtube.com/watch?v=G4QO490GlG8)** — 2025-03-07 · ko · `unclassified`
+  내일 부모님이 너를 만나는 게 너무 기대돼 . 너무 기대돼요. 아, 참, 저희 아버지는 NASA에서 열역학 전문가로 일하세요. 안녕. 메타, 열역학자가 도대체 ​​뭐야? 열역학자는 에너지와 열 전달을 연구합니다. 메타, 열평형에 대해 설명해 줘. 열 발생을 관리합니다. 그래서 연료 효율을 최적화합니다. 정확히. 만나서 반갑습니다, 선생님. 액체 연료에서 하이브리드 추진제로의 전환에 대해 당신의 생각을 들어볼 생각에 벌써부터 기대됩니다. 무엇? 저는 보험 판매원입니다. 무엇? 농담이에요. 제가 자세히 알려드릴게요. 아빠, 친절하게 대해 주세요.
+
+- **[i h8 ai](https://www.youtube.com/watch?v=4iIQHZ19El4)** — 2024-10-17 · en · `unclassified`
+  I hate AI from everything that I have been told AI is going to hurt my industry how could I possibly tell a story about why AI was good for us when all I could see from where I'm standing was bad so I wrote my [Music] dad little Anish who was that again little Anish grew up in San Jose California his parents didn't have a lot of money …
+
+- **[Innovation in the EU](https://www.youtube.com/watch?v=j-qLIclSTzM)** — 2024-10-10 · en · `unclassified`
+  imagine me in France with a cresant and the coffee yeah oh I love it are you excited for these products to come to France to the EU I'm very exciting to taste it it's going to be amazing I will get one not available in the EU yeah I know I want now I want to use it hey Ma can this QR code please this product is going …
+
+- **[Ray-Ban Meta & Be My Eyes: Every Step of the Way](https://www.youtube.com/watch?v=YAGVg7b3bNc)** — 2024-10-10 · en · `unclassified`
+  I have a very strong sense of identity in my blindness. One of the misconceptions that people have about blind people is that we don't care about how we look or the way we present ourselves to the world. The Ray-Ban Meta Glasses allows me to still look fashionable and be able to do the tasks that I need done as a blind person. - Hey, Meta call a volunteer with Be My Eyes.
+
+- **[Holographic AR glasses!? First look at Meta's Orion](https://www.youtube.com/watch?v=WUaxBmdMMKo)** — 2024-09-28 · ko · `unclassified`
+  와, 이거 진짜 멋지다. 지난주에 정말 멋진 소식을 발표했습니다 . 이것은 오리온, 세계 역사상 가장 진보된 안경입니다 . 기본적으로 공상 과학이 현실과 만난 것과 같습니다 . 아직 판매하지 않으니 제가 직접 사용해 보겠습니다 . 하지만 먼저, 우리가 어떻게 여기까지 오게 되었는지, 그리고 그 이유는 무엇인지 살펴보겠습니다. 우리는 이것을 미래로 가는 타임머신이라고 생각합니다. 사람들은 미래의 모습을 예측하고, 자신의 창의력을 발휘하여 플랫폼에 더 많은 응용 프로그램, 사용 사례 및 콘텐츠를 추가하는 방법을 알 수 있습니다
+
+- **[Inspired Education](https://www.youtube.com/watch?v=t99r-XaZEyo)** — 2024-09-20 · ko · `unclassified`
+  [음악] 인스파이어드 교육 그룹은 6개 대륙에 걸쳐 120개 학교를 운영하고 있습니다. 헤드셋을 착용해 주세요. 저희는 전 세계 모든 학교에서 2,000대 이상의 메타크 클래스 기기를 사용하고 있습니다. 헤드셋을 착용하면 가상 현실 및 혼합 현실을 활용한 교육 구성 요소 중 하나를 선택할 수 있습니다. 저희는 이러한 모든 가능성을 활용하여 교육 과정을 향상시키고 학생들에게 특별한 경험을 제공하고 있습니다. 정말 놀랍죠? 모든 것을 맞춤형으로 제작할 수 있습니다. 지리, 이해되시나요?
+
+- **[Modern Funk Glassblowing](https://www.youtube.com/watch?v=qDQ36qgjIlw)** — 2024-07-22 · ko · `unclassified`
+  인스타그램은 제가 처음 작업을 시작했을 때부터 제 개인 갤러리였어요. 순전히 제가 뭔가를 만들었다는 사실에 대한 흥분으로 시작했죠. 세상에, 이게 뭐야! 제 작업 스타일은 모던 펑크 미학이라고 설명할 수 있어요. 그냥 자유로운 스타일이죠. 제 영감은 도시 풍경, 밝은 색상, 다양한 패턴, 아이들 장난감에서 많이 와요. 제가 처음 시작했을 때는 사람들이 작업을 하는 방식에 대해 특정한 기준을 가지고 있었어요. 학위를 따야 하고, 갤러리에 소속되어야 한다고요. 하지만 누군가의 조언은 그저 그 사람의 [박수] [음악] 자서전일 뿐이었죠.
+
+- **[Juju Watkins & Chance the Rapper on AI Growing Women’s Basketball](https://www.youtube.com/watch?v=eXYr5dAUYJU)** — 2024-07-12 · ko · `unclassified`
+  WNBA 열성 팬덤에 대해 이야기할 이번 토론에 정말 기대가 큽니다. 이번 토론의 중심은 클로이가 맡아줄 테니, 이제 본격적으로 이야기를 시작해 볼까요? 제 친한 친구 중에 최근에 WNBA 팬이 된 친구가 있는데, 그 친구가 저에게 메타 AI를 처음 소개시켜 준 계기이기도 해요. 그 친구는 시카고 스카이와 피버의 경기를 보러 가기 전에 인스타그램의 메타 AI 계정에 들어가서 시카고 스카이에 대해 알아야 할 게 뭔지 찾아봤다고 하더라고요.
+
+- **[Mama Bears](https://www.youtube.com/watch?v=n0F5oCn5nGU)** — 2024-06-22 · ko · `unclassified`
+  진정한 엄마는 LGBTQ+ 자녀를 있는 그대로 진심으로 지지하고 응원하며 축하합니다. 제가 페이스북 그룹 '리얼 마마 베어스'를 시작했을 때, 엄마들이 서로 소통하고 정보를 공유하며 서로 격려하고 지지를 주고받을 수 있는 공간을 만들고 싶었습니다. 저는 이 그룹의 설립자 리즈 다이어입니다. 그리고 세상을 바꿀 수 있을지도 모른다는 꿈도 있었습니다. 남편과 저는 텍사스주 댈러스-포트워스 지역에서 두 아들을 키웠습니다. 큰아들이 19살 때 게이라고 커밍아웃했을 때, 저희는 어떻게 생각해야 할지 몰랐습니다.
+
+- **[Expand your world with Meta AI](https://www.youtube.com/watch?v=1zwZG4W1xYI)** — 2024-06-12 · ko · `unclassified`
+  [음악] 마라톤을 뛸 수 있도록 훈련 프로그램을 설계해 주세요. C 지점의 호수에서 망원경으로 무엇을 볼 수 있을까요? 이것을 요약해 주세요. 이것을 어떻게 심나요? 무엇을 얻게 될까요? 음, 도움이 필요해요. 이 접시는 뭐죠? 여러분, 퀴즈를 풀어 볼까요? 좋아요, 해 봅시다! 제가 이길 거예요! 커다란 참나무에 사다리로 연결된 현관이 있는 나무 위의 집을 상상해 보세요. 1954년의 리틀 이탈리아를 상상해 보세요. 엄마, 이것 좀 보고 뭘 만들어야 할지 말해 보세요.
+
+- **[FoondaMate](https://www.youtube.com/watch?v=VD8GpYO6kZg)** — 2024-06-06 · ko · `unclassified`
+  [음악] 저는 남아프리카 공화국 뉴브런즈윅의 시골 마을에서 자랐습니다. 저희 집은 자원이 넉넉하지 않았습니다. 2003년 까지 전기조차 들어오지 않았죠. 학교에는 교과서가 몇 권밖에 없었습니다. 서너 명씩 짝을 지어 집에 가져가서 공부했는데, 만약 한 학생이 그 교과서를 잃어버리면 그 반은 더 이상 교과서를 쓸 수 없게 되는 상황이었습니다. 다음 학년 학생들도 마찬가지였죠. 돌이켜보면, 펀도 메이트(Fundomate)라는 아이디어가 그때 처음 떠올랐습니다. 펀도메이트는 WhatsApp이나 메신저를 통해 접속할 수 있는, Lama로 구축된 AI 학습 플랫폼입니다.
+
+- **[Bring Your Vision and Unlock New Possibilities](https://www.youtube.com/watch?v=7DJfjSRrHlI)** — 2024-05-16 · ko · `unclassified`
+  우리가 연결될 때 무언가 특별한 일이 일어납니다. 우리는 살아있음을 느끼고, 도전을 받고, 영감을 받습니다. 하지만 연결은 단순한 감정 그 이상입니다. 그것은 강력한 힘입니다. 우리 사이의 간극을 좁힐 때, 우리는 새로운 가능성을 열어갈 수 있습니다. 바로 그때 우리 삶에서 무언가를 이뤄낼 수 있습니다. 여러분도 그렇게 생각하시나요? 우리 함께 연결해 봅시다!
+
+- **[Bring Your Vision and Unlock New Possibilities](https://www.youtube.com/watch?v=iBdeIJhx_88)** — 2024-05-16 · ko · `unclassified`
+  탐험가 여러분, 낙천주의자 여러분, 신념을 가진 여러분, 다른 사람들이 자신만의 세계를 구현하도록 돕는 모든 연결의 가치를 아는 여러분, 함께 연결해 봅시다.
+
+- **[Come Build Something Different  With Us](https://www.youtube.com/watch?v=aNULtfRUXlM)** — 2024-05-16 · ko · `unclassified`
+  [음악] 미래의 연결을 구축하고 사람들을 더욱 가깝게 만드는 것은 꽤 어려운 일이죠. 하지만 다행히도 우리는 퍼즐을 좋아하고, 끊임없이 반복하고, 디버깅하고, 영감을 찾아 나섭니다. 우리는 이미 가족, 친구, 그리고 전 세계 절반 이상을 연결했습니다. 나머지 절반을 연결하기 위해서는 뭔가 다른 것을 만들어야 합니다. 새로운 것을 만들어낼 새로운 요소가 필요하고, 그 새로운 요소는 바로 당신입니다.
+
+- **[Come Build Something Different With Us](https://www.youtube.com/watch?v=xsdIDp937vc)** — 2024-05-16 · ko · `unclassified`
+  미래의 연결을 구축하고 사람들을 더욱 가깝게 만드는 것. 우리는 이미 전 세계 절반 이상을 연결했습니다. 나머지 절반을 연결하기 위해서는 뭔가 다른 것을 만들어야 합니다. 새로운 것을 만들어낼 새로운 요소가 필요하고, 그 새로운 요소는 바로 당신입니다.
+
+- **[Different Builds Different](https://www.youtube.com/watch?v=_hEhTf3XCtM)** — 2024-05-07 · ko · `unclassified`
+  [음악] 미래의 연결을 구축하고 사람들을 더욱 가깝게 만드는 것, 꽤 어려운 일이죠. 하지만 다행히도 우리는 좋은 퍼즐을 좋아하고, 도전을 절대 피하지 않으며, 끊임없이 반복하고, 디버깅하고, 새로운 것을 만들기 위한 영감을 찾습니다. 우리가 사랑하는 것에 깊이 몰두하고, 서로에게 배우고, 우리 사이의 간극을 메우고, 더 자주 함께할 수 있도록 도와주는 것들 없이는 살아갈 수 없어요. 이것들은 큰 문제이기도 하지만, 훨씬 더 큰 잠재력을 가지고 있죠. 하지만 우리는 이미 이런 경험을 해봤어요.
+
+- **[NYC Brunch Squad](https://www.youtube.com/watch?v=8brxjVNY45I)** — 2024-04-16 · en · `unclassified`
+  God I love New York there's a lot of energy in the city there's a lot of people there's always something going on there's always something to do it's completely different from anywhere else I moved to New York in 2017 I had friends that were already living here and I felt really lucky to have that it made the adjustment a lot easier I actually ended up meeting a …
+
+- **[Fight Back](https://www.youtube.com/watch?v=tI1OUvqMcpU)** — 2024-03-11 · en · `unclassified`
+  When I was a teenager, I think I was 14 or 15, I decided to start doing martial arts. Martial arts or self-defense will affect the way you present yourself to the world. It helped me to feel more confident in my own body and in myself. I decided that I was not just going to be a martial arts practitioner, but I was going to help spread the word about the benefit of physical empowerment.
+
+- **[Native Foods](https://www.youtube.com/watch?v=0_8lkVsQ-Kk)** — 2024-03-01 · en · `unclassified`
+  - Food is the greatest connector in the world. We all eat. Most of us love to eat. Some crazy people like me love to cook, too. [Speaking native language] Hello, welcome. My name is Mindy, and I am the chef and owner of Karkalla Byron Bay. I’m also a proud Widjabul Wia-bul woman from the Bundjalung Nation. My desire is to connect people to our First Nations’ culture through food.
+
+- **[Gorilla Gram](https://www.youtube.com/watch?v=X8lbpvZgYpw)** — 2023-12-28 · en · `unclassified`
+  - Mountain gorillas are curious animals. They bring the connection of the love between the family. Same like humans. There are 12 gorilla families that are on Instagram. Gorillagram brings the gorillas to your home. To your phone. You take a picture, you tag the family, and the individual. It's like a family photo album. Involving communities in a conservation is very critical. In 1970s, habitats were being exploited.
+
+- **[Selfless Fiji](https://www.youtube.com/watch?v=rZkeII645Xc)** — 2023-11-21 · en · `unclassified`
+  Fiji to me is my home country. I wouldn’t be anywhere, any part of the world, than here. In the Pacific, we have a sort of a communal way of doing things. We always want to help one another in any sort of way. - Hello everyone. Selfless Fiji here. We’re here at Fiji Cancer Society. We’re about to come in and really spice up the place with some really creative murals.
+
+- **[Cosmos Astronomy](https://www.youtube.com/watch?v=RvsavdWvm1M)** — 2023-11-15 · ko · `unclassified`
+  나는 밤에 길을 잃곤 했다. 저 위에 있는 별이 어떤 별인지 알고 싶었어요. 각각의 것들은 나는 살펴보고는 그 사실에 놀랐다. 우리는 더 이상 존재하지 않는 행성에 있었다. 지구뿐 아니라 그들은 이미 존재했다 훨씬 더 많은 행성이 있었고, 더 이상 하나의 행성만이 아니었다. 은하 하나였지만, 은하들은 아주 많았다. 더. 그러니까, 저는 점점 더 그렇게 느끼고 있었어요. 작은 저는 이 사실을 공유해야 한다고 생각했습니다. 내가 감탄했던 방식 다른 사람들과 함께하는 천문학.
+
+- **[NYC Creative Share Their World](https://www.youtube.com/watch?v=_RaQ3ZTUBXk)** — 2023-10-30 · ko · `unclassified`
+  [음악] 방금 이 새로운 메타 레이 밴드 선글라스를 손에 넣었어요. 정말 멋지고 무겁지도 않네요. 꽤 가벼워요. 아, 죄송해요. 무슨 일이죠? 저는 니그라 실베스터이고, 오늘은 제 고향인 뉴욕에 왔습니다. 안녕하세요 여러분, 저는 엠마 로그입니다. 지금 로어 이스트 사이드에 있는 제 가게 앞에서 인사드리고 있어요. 제 이름은 케일럽 심슨이고, 사람들의 눈을 뜨게 해주는 집을 보여드리는 일을 합니다. 안녕하세요 여러분, 저는 레오미입니다. 오늘은 제 [음악] 시각으로 제 작품을 보여드리겠습니다. 메타, 녹음 시작해!
+
+- **[PianoVision Film](https://www.youtube.com/watch?v=2QoVxeZXp4k)** — 2023-10-20 · ko · `unclassified`
+  음악은 인간 본성 속에 깊이 연결되는 무언가가 있는 것 같아요. 저에게는 마치 다른 세상으로 데려다주는 듯한 느낌을 줍니다. 모든 사람은 음악이라는 언어를 배워야 자신을 표현할 수 있다고 생각해요. 하지만 저는 음악을 배우는 게 항상 어려웠어요. ADHD가 있는 저에게는 음악이 자연스럽게 머릿속에 들어오지 않았거든요. 음악을 연주하고 배우는 건 쉽지 않았는데, 기존의 교육 방식은 ADHD를 가진 사람들에게는 적합하지 않았기 때문이죠. 저는 Zach Reed이고, Piano Vision의 창립자이자 CEO입니다.
+
+- **[Introducing the Ray-Ban Meta Smart Glasses Collection](https://www.youtube.com/watch?v=E1LW_MteTho)** — 2023-10-13 · ko · `unclassified`
+  [음악] 주변 소리를 차단하지 않고 음악을 감상하고, 나만의 시점에서 창작물을 라이브 스트리밍하고, 흐름을 끊지 않고 전화를 받고, 안경에서 바로 나만의 독특한 시각을 포착하세요. Rayan과 Meta가 선보이는 차세대 스마트 안경입니다.
+
+- **[Traveling Seniors](https://www.youtube.com/watch?v=pSR2A_Rf6gQ)** — 2023-09-19 · ko · `unclassified`
+  건강하게 이 몸이 움직이는 동안은 얼마든지 멀리 가거나 내 발로 걸어 가라. 나는 그것이 있다고 생각하지만, 나이가 오르면 어딘가 아프다. 버린 것 같은 곳에서 스스로 걸을 수 없어 그렇다면 나이가 올라가면서 그 장소라고 말하는 것은 굉장히 좁혀 갈 거라고 생각합니다. 다 이 사실 내가 그 근무한 회의 시설은 단지 운동 프로그램을 제공 할뿐만 아니라 단단히 그것을 합한 뭔가 희망이라고 할까 꿈이라든가 비전이라고 할까 [음악] 체적으로 자유가 없는 분들의 추억의 장소와 가 고향이라는 곳을 영상을 잡으러 가라.
+
+- **[Meta's Privacy Conversation with Erin Egan and Dr. Rumman Chowdhury on Responsible AI](https://www.youtube.com/watch?v=56bQVOv4uc4)** — 2023-09-18 · en · `AX`
+  foreign [Music] hello and welcome to another privacy conversation our Series where we speak with experts about challenges at the intersection of technology and policy thank you for joining us today we're going to spend time talking about what everyone is talking about in policy circles AI recently G7 countries agreed to work together to create an international code of conduct for AI and earlier this year the White House …
+
+- **[Make every connection matter](https://www.youtube.com/watch?v=FRvr2NuvfUY)** — 2023-09-15 · ko · `unclassified`
+  [음악] 우리가 연결될 때 무언가가 일어납니다. 우리는 살아있음을 느끼고, 도전을 받고, 영감을 받습니다. 삶은 더 크고 밝아지지만, 연결은 단순한 감정 그 이상입니다. 그것은 힘입니다. 우리 사이의 간극을 좁힐 때 가능성이 열립니다. 그때 비로소 우리는 삶에서 무언가를 이룰 수 있습니다. [음악] 당신 과 당신의 주변 사람들도 마찬가지입니다. 끊임없이 배우고, 멈추지 않는 사람들, 사람을 우선시하는 것이 진정한 관계를 만든다는 것을 아는 낙관주의자들, 모든 연결이 사람들의 세상을 현실로 만드는 데 얼마나 중요한지 아는 신념을 가진 사람들.
+
+- **[The metaverse today](https://www.youtube.com/watch?v=D8GMeEZSfPQ)** — 2023-09-07 · ko · `unclassified`
+  외국 [음악] 안과 수술 과 이를 가능하게 한 수많은 가상 훈련 시간, 협력적인 실습 학습을 통해 매일 학문적 발전이 이루어지고 있습니다. 몰입형 환경을 통해 숙련된 직업을 얻을 수 있게 되었고, 필수적인 엔진 유지 보수가 완벽해졌으며, 부상으로부터의 회복을 위한 시뮬레이션 훈련과 기술을 연마하고 성능을 향상시키도록 설계된 훈련이 가능해졌습니다. [박수] 이것이 바로 오늘날 메타버스가 매일 활용되고 있는 방식입니다.
+
+- **[Detroit Hives](https://www.youtube.com/watch?v=fIu1J88Or_E)** — 2023-09-01 · ko · `unclassified`
+  100년이 넘는 세월 동안 자동차 산업의 중심지였던 디트로이트는 세계 자동차 산업 발전에 크게 기여해 왔습니다. 디트로이트는 여러 가지로 유명하지만, 특히 꿀벌의 도시로도 잘 알려져 있습니다. 디트로이트에는 사람과 꿀벌 모두에게 안정적인 환경을 제공하기 위해 노력하는 비영리 단체들이 많습니다. 저희는 빈터를 교육용 양봉장이나 꿀벌 친화적인 공간으로 탈바꿈시키고 있습니다. [음악] 트레이는 9만 개가 넘는 빈터를 소유하고 있었는데, 니콜과 저는 지역 사회에 기여하고 상황을 개선할 수 있는 방법을 생각해냈습니다.
+
+- **[Quest for Purpose](https://www.youtube.com/watch?v=NeWbZym4PD0)** — 2023-08-08 · ko · `unclassified`
+  외국어 [음악] 예전에 나쁜 친구들과 어울리고, 늦게 집에 오고, 미성년자 음주 같은 문제로 골머리를 앓았어요. 긍정적인 목표가 없으면 부정적인 것에 빠지기 쉽죠. 지금은 좋아 보이네요, 친구. 네, 제가 15살쯤 됐을 때 아버지 일을 도와 HVAC 수리를 시작했어요. 솔직히 별로 좋아하지는 않았어요. 돈을 줘도 다락방에는 올라가고 싶지 않았던 기억이 나네요. 하지만 저는 항상 게임을 좋아했거든요. 그러던 어느 날 아버지가 인터플레이 커리큘럼을 가져오셔서 "조쉬, 메도우 퀘스트 안에서 HVAC 교육을 받을 수 있어.
+
+- **[It's Coi Leray's World | Make My Day (with David Guetta)](https://www.youtube.com/watch?v=6eW-_YIHlBA)** — 2023-07-17 · en · `unclassified`
+  Coi Leray Guetta Yeah we pop up on ‘em like a piñata And we goin’ off in this... like a siren Tupac baby ‘cause you know I’m a rider I’m hot like a sauna Man, I’m hot like lava Feelin’ like fab and the bucket is Prada Feelin’ like cash shoulda came with a comma I say hakuna matata These...
+
+- **[Free To Move](https://www.youtube.com/watch?v=fMFT6GKsxoA)** — 2023-07-11 · en · `unclassified`
+  - High five. The thing I enjoy most about teaching is the energy that is shared amongst the people. I love having that feedback, joking around, being a little bit silly. I'm a queer and non-binary fitness facilitator and the founder of a body inclusive movement community for LGBTQ+ folks known as Free To Move. Free To Move started with an accident. I was mountain biking in Sedona.
+
+- **[OctoNation](https://www.youtube.com/watch?v=BC9Gm9K0XgE)** — 2023-07-03 · en · `unclassified`
+  - The first time I ever saw an octopus I was on this class field trip, and I remember looking up and just seeing this octopus staring right back down at me. I just remember it having a profound impact on me and thinking like, "Wow, "I can't wait to go learn about this animal." There were no books for kids. There were no resources.
+
+- **[Beaux and Paws](https://www.youtube.com/watch?v=4M-gNcxwhJs)** — 2023-06-05 · en · `unclassified`
+  oh hi I always had a passion for Animals especially dogs and cats when he came to me oh he's smart he's a big love bug [Music] hey Toby the dog can always be someone's number one best friend they're very respectful caring oh you love belly Rubes oh yeah adorable but I really love cats too when I was younger I learned that if dogs ain't animals with this …
+
+- **[Africa Motorcycle Diaries](https://www.youtube.com/watch?v=LdZlElyGGzs)** — 2023-05-22 · en · `unclassified`
+  [Music] foreign [Music] is an escape not just physically but also mentally I get to shut out all other aspects of life and focus on the road [Music] I am the founder at middle of African Motorcycle Diaries which is a network of bikers across Africa I started the group so that we could record our travels to get another picture of what our country is [Music] being a biker …
+
+- **[Shared Dream Dresses](https://www.youtube.com/watch?v=Q8DiqTmXnyc)** — 2023-05-12 · en · `unclassified`
+  foreign [Music] I felt beautiful in it [Music] there's not many times in your life that you probably feel like wow I just look so amazing today or feel so amazing and that was definitely a time where I did I felt like that some people can't afford a dress in general let alone one that was a little bit Hefty of her price tag why I wanted to give …
+
+- **[Frescapesca - Meta - Community Voices](https://www.youtube.com/watch?v=zECIKI7ZiC4)** — 2023-03-30 · ko · `unclassified`
+  [음악] 외국어 [음악] 매일 아침 눈을 뜨면 보이는 풍경 이 바다예요. 항상 바다에 푹 빠져 있죠. 몇 세대 전부터 우리 가족은 어부 집안이었어요. [음악] 아버지와 시간을 보낼 때마다 낚시에 대한 사랑을 느꼈어요. 항상 마음속에 ' 책상 뒤나 컴퓨터 앞에서 낚시하는 건 싫다'는 생각을 했죠. 어부로서 더 자유롭게 살고 싶었어요. 이게 바로 저의 자유예요. [음악] 낚시를 갈 때는 모든 사업 관련 정보를 공유하는 WhatsApp 그룹을 사용해요. [음악] 식당들과도 연결되어 있어서 어떤 생선을 잡았는지 정확히 알 수 있죠.
+
+- **[How VR is Bringing Fitness to More People | “Are We There Yet?”](https://www.youtube.com/watch?v=3ND5rpsBwFc)** — 2023-03-22 · ko · `unclassified`
+  제 아들이 앞으로 접하게 될 것들을 생각하면 부러움을 금할 수 없어요. 사업가이자 자이언 클락, 정말 대단한 사람이에요. 제가 그를 좋아하는 이유는 그가 복싱도 가르친다는 점이에요. 페덱스 스타이기도 하고요. 세상에, 두 손으로 가장 빠른 남자잖아요! 메타 버스가 이런 접근성을 가능하게 해 준 거죠. 메타버스는 포용성과 긍정의 정신을 키워주고, 그 정신이 지금 메타버스에서 제공되는 수많은 피트니스 및 스포츠 경험에 녹아들어 있어요.
+
+- **[Why We Build: Connectivity in New York City](https://www.youtube.com/watch?v=SF6Wi_MVZ88)** — 2023-03-21 · ko · `unclassified`
+  [음악] 연결성은 모든 것입니다. 연결성이 없으면 여러 면에서 더 이상 시민이라고 할 수도 없습니다. 그만큼 심각한 문제입니다. 마치 전기나 물과 같습니다. 예전에는 사치품이었죠. ' 인터넷이 있으니 이런저런 일을 할 수 있겠네' 하는 생각이었는데, 이제는 삶의 필수품이 되었습니다. 거의 다섯 번째 공공 서비스처럼 되어버렸죠. 요즘은 모든 게 온라인으로 이루어지잖아요. 인터넷 서비스 없이는 살아갈 수 없습니다. 연결성이 있어야 합니다. 지구상의 모든 것이 연결되어 있어야 합니다. 저는 뉴욕 브루클린에서 태어나고 자랐으니 어디에도 가지 않을 겁니다.
+
+- **[Keke Palmer Flies Like a Hero in Marvel's Iron Man VR I “Are We There Yet?”](https://www.youtube.com/watch?v=T_vWOlh6EEs)** — 2023-03-09 · ko · `unclassified`
+  아이언맨이 될 수 있다면 정말 멋지지 않을까요? 세상에, 꿈만 같네요! 라이언 페이튼과 함께합니다. 자, 발사! 어때요? 기분 좋네요! 나는 기분이에요! 조작감이 다른 게임이랑 정말 다르네요. 네, 정말 자연스럽게 느껴지도록 많은 노력을 기울였습니다. 맞아요, 맞아요! 아이언맨이 된 기분이에요? 예전 기억처럼 느껴져요! 네, 저희는 포스의 피드백과 몰입감을 극대화해서 마치 손바닥에서 리펄서를 쏘는 듯한 느낌을 주고 싶었습니다. 자, 방금 맨션에 들어왔는데 정말 마음에 드네요. 놀기 좋은 곳 같아요.
+
+- **[How to turn your living room into a spy-worthy escape room with MR | “Are We There Yet?”](https://www.youtube.com/watch?v=shmmrU1NGXk)** — 2023-03-06 · ko · `unclassified`
+  라이언, 이 시리즈를 진행하면서 많은 것을 배웠지만, 얼마나 배웠는지 확인하고 싶어요. 그래서 메타버스에 대해 몇 가지 질문을 해 주시면 제가 얼마나 메타버스에 대해 잘 알고 있는지 알아볼 거예요. 자, 키키, 메타버스에 접속하려면 VR 헤드셋이 필요한가요? 노트북이나 휴대폰으로도 접속할 수 있지만, 메타퀘스트가 가장 좋죠. 제가 메타 퀘스트 팬이긴 하지만, 당신 말에 동의해요. 메타버스는 영업시간에만 열려 있다는 게 사실인가요? 저는 아니라고 생각해요. 당신은 정말 잘 아시네요. 메타버스에서 게임을 하면 친구들과 어떻게 소통할 수 있을까요?
+
+- **[Keep Your Friends Close and Your Enemies Closer with VR Gaming | “Are We There Yet?”](https://www.youtube.com/watch?v=JDZO0qCjTLY)** — 2023-03-03 · ko · `unclassified`
+  라이언, 메타버스에서 즐길 수 있는 멋진 소셜 게임 몇 가지를 소개해 줄 수 있을까? 난 '포퓰레이션 원(Pollification One)'이라는 게임을 즐겨 하는데, 배틀로얄 게임으로 친구나 적 15명과 함께 넓은 오픈월드에서 플레이하는 거야. 서로 경쟁하는 것뿐만 아니라 함께 새로운 세계를 만들어 나가기도 하지. 정말 멋진 게임이고, 무엇보다 다른 사람들과 함께 있는 듯한 느낌이 드는 게 제일 좋아. 여동생이랑도 비슷한 게임을 여러 번 했어. 예를 들어 요리 게임 같은 건 전 세계를 돌아다니면서 같이 요리하기도 하고.
+
+- **[KakiRepair - Meta - Community Voices](https://www.youtube.com/watch?v=Q2cigkB446k)** — 2023-03-02 · ko · `unclassified`
+  외국어 [음악] 저는 항상 호기심이 많았어요. 물건을 분해해서 안에 뭐가 있는지, 어떻게 고치거나 더 좋게 만들 수 있는지 보는 걸 좋아했죠. 뭔가를 고칠 때마다 성취감과 자부심을 느끼고, 그게 더 많은 일을 하도록 동기를 부여해 줘요. ​​제가 이 분야에 기여한 바는 무엇인가요? 5년 전에 타키 리페어를 시작하게 된 계기는 사람들이 고장 난 물건을 직접 고치지 않고 그냥 버려서 쓰레기 매립지로 보내는 걸 보고 깨달았기 때문이에요. 좋은 점은 사람들이 여전히 자신의 물건을 고칠 수 있다는 거죠.
+
+- **[Vote on encore songs with Keke Palmer at VR Concerts | “Are We There Yet?”](https://www.youtube.com/watch?v=ipysUkJr1EA)** — 2023-03-01 · ko · `unclassified`
+  브렌다, 우리 작은 게임 하나 해 볼까 해요. 제가 시나리오를 하나 제시할 테니, VR 콘서트 전문가인 당신이 제 아이디어가 메타버스에서 지금, 미래에, 아니면 절대 불가능할지 말해줄래요? 준비됐나요? 네, 그럼요. 보이시에서 라이브 공연을 하고 뉴욕에서 DJ 레슨을 받는 건 어때요? ( 농담이에요, 보이시 팬 여러분!) 메타버스에서 3천 명 규모의 밴드를 결성하는 건 어때요? 아마 미래에 가능할 것 같아요. 왜냐하면 먼저 친구 5천 명을 사귈 거니까요. 자, 그럼 피아노를 배워서 실제 피아노로 연주하는 건 어때요?
+
+- **[Black Girl's Healing House - Meta - Community Voices](https://www.youtube.com/watch?v=3Royd3575W8)** — 2023-02-28 · ko · `unclassified`
+  [음악] 전인적 웰빙이란 마음, 몸, 영혼을 돌보는 것입니다. [음악] 저는 예전에 불안과 우울증으로 많이 힘들어했는데, 쉽게 접근할 수 있는 방법을 찾고 싶었어요. 그래서 요가와 명상을 시작했죠. 동네 웰니스 센터에서 수업을 듣다 보니 제가 거기 있는 유일한 흑인 여성이라는 걸 깨달았어요. [음악] 모두들 저를 '저 여자는 여기서 뭐 하는 거지?' 하는 눈으로 쳐다봤어요. 심지어 어떤 사람은 제 머리가 거슬린다며 바꾸라고까지 했어요. 그런 경험들이 계기가 되어 흑인 여성을 위한 온라인 전인적 웰빙 커뮤니티인 '블랙 걸스 힐링 하우스'를 만들게 되었어요.
+
+- **[Keke Palmer Creates Her Own Festival In VR | “Are We There Yet?”](https://www.youtube.com/watch?v=obVreaEZGWI)** — 2023-02-28 · ko · `unclassified`
+  저만의 페스티벌, 키키 페스트를 만들어볼까 생각 중이에요. 오늘 저와 함께할 사람은 브렌다 친이에요. 브렌다, 당신은 이미 멋진 가상 콘서트를 많이 제작했지만, 메타버스 에서 열리는 음악 페스티벌에 대한 당신의 아이디어를 듣고 싶어요. 코첼라 페스티벌 보셨어요? 거기서 AR 체험을 했는데, 휴대폰을 들면 공연과 함께 멋진 애니메이션이 나오는 거였잖아요. 정말 멋졌어요. 하지만 저는 메타버스 페스티벌이 미래에는 훨씬 더 멋질 거라고 생각해요. 아티스트들이 VR 안에 자신만의 세계를 만들고, 팬들이 실제로 방문할 수 있게 되는 거죠.
+
+- **[Keke Palmer Flies Like a Hero on Marvel's Iron Man VR I “Are We There Yet?”](https://www.youtube.com/watch?v=fIf_2aaWDF4)** — 2023-02-24 · ko · `unclassified`
+  아이언맨이 될 수 있다면 정말 멋지지 않을까요? 세상에, 그건 꿈만 같네요! 라이언 페이튼, 페이튼! 좋아요, 시작! 어때요? 기분이 어떠세요? 정말 좋네요. 날아다니는 기분이에요. 조작감이 제가 해본 다른 게임들과는 정말 다르네요. 네, 정말 자연스럽게 느껴지도록 많은 노력을 기울였습니다. 알겠습니다. 맞아요. 아이언맨이 된 기분이에요! 신이 난 것 같아요! 네, 저희는 포스의 피드백을 통해 여러분이 손바닥에서 실제로 리펄서를 쏘는 듯한 몰입감을 느끼도록 하고 싶었습니다. 좋아요, 방금 맨션에 들어왔는데 정말 마음에 드네요.
+
+- **[Possibilities with the metaverse](https://www.youtube.com/watch?v=zgzfrlt2Ipk)** — 2023-02-23 · ko · `unclassified`
+  [음악] 어떤 사람들은 메타버스가 단지 가상 세계에만 존재할 것이라고 말하지만, 언젠가 소방관들이 불타는 집에 들어갈 때 메타버스를 활용하면 생명이 위태로운 상황에서 시간을 절약할 수 있을 것이고, 환자의 최근 스캔 이미지를 시각화하는 것은 응급실에서 의사 결정을 신속하게 내리는 데 도움이 될 것이며, 털매머드가 아직 멸종했다고 해서 학생들이 현장 학습으로 매머드를 보러 갈 수 없다는 뜻은 아닙니다. 메타버스는 가상 세계일지 모르지만, 그 영향은 현실이 될 것입니다.
+
+- **[Keke Palmer Flies Like Marvel's Iron Man VR | “Are We There Yet?”](https://www.youtube.com/watch?v=rAN8GfoI1LM)** — 2023-02-21 · ko · `unclassified`
+  아이언맨이 될 수 있다면 정말 멋지지 않을까요? 세상에, 그건 꿈만 같네요! 어서 오세요, ' 우리가 거기 어디쯤 왔을까?' 시리즈에서 메타버스에 대해 알아보겠습니다. 오늘은 카무플라주 게임 스튜디오의 라이언 페이튼 씨와 함께합니다. 안녕하세요, 라이언 씨. 키키, 정말 멋지시네요. 실례지만, 샘 씨, 제가 유튜브에서 샘 씨에 대해 좀 알아봤는데, 그 닉네임 정말 마음에 들어요. 샘 씨는 의미 있는 게임을 만드신다고 들었어요. 그게 샘 씨 에게는 어떤 의미인가요? 저는 감동적인 스토리를 가진 비디오 게임을 하면서 게임을 시작했어요.
+
+- **[Keke Palmer Sculpts in VR with Friends | "Are We There Yet?"](https://www.youtube.com/watch?v=u3R6DqJ_WWA)** — 2023-02-21 · ko · `unclassified`
+  메타버스에 왔으니 창의력을 발휘해 보는 것도 좋겠죠? 자, 시작해 볼까요? 네, 여기 메타버스로 로드트립을 떠나는 쇼가 있습니다. 가장 흥미로운 크리에이터, 교육자, 전문가들과 이야기를 나누며 메타버스의 현재 모습과 미래를 알아보는 시간이죠. 저는 키키 팔머이고, 오늘 게스트는 네덜란드 출신의 놀라운 VR 조각 듀오, 빅토리아 영입니다. 두 분은 메타버스에서 가장 기발하고 독특하며 개성 넘치는 작품들을 함께 만들고 계시죠. 빅토리아, 안녕하세요. 이번 로드트립에서 VR 조각 작품을 보여주신다고 들었어요. 네, 맞습니다. 그럼 다시 한번 출발해 볼까요?
+
+- **[Keke Palmer Beats an NFL Pro at His Own Game 🏈  | “Are We There Yet?”](https://www.youtube.com/watch?v=gN678KKeYJU)** — 2023-02-13 · ko · `unclassified`
+  좋아, 다시 한번 해보자. 키키 파머야. NFL 프로 출신이자 테크 기업가인 앤드류 호크 호킨스야. 자, NFL 프로 에라를 구경시켜 줄 준비 됐어? 그럼, 시작해 보자. 미니 게임 몇 가지를 할 거야. 이건 과녁 맞추기인데, 간단하지? 내가 얼마나 잘하는지 보자. 좋아, 시작해 보자. 던지기 어려울수록 점수가 높아져. 응, 잘했어. 칭찬해 줄게. 정말 잘 했어. 좋아. 자, 이건 빅 보스 모드야. 사람들이 날 빅 보스라고 부르지. 난 이게 메타버스에서만 할 수 있는 거라서 좋아.
+
+- **[Valentine's Day Bouquets - Meta - Community Voices](https://www.youtube.com/watch?v=WaCJMN8x1eM)** — 2023-02-09 · ko · `unclassified`
+  [음악] 저는 어렸을 때부터 꽃을 정말 좋아했어요. 힘들거나 어려운 일이 있을 때 꽃 의 아름다움은 마치 나 자신보다 더 큰 무언가의 작은 빛을 보여주는 것 같았죠. 아들 유치원 선생님께서 과부라고 말씀해 주셨는데, 발렌타인 데이가 다가오자 마음이 너무 아팠어요. 그래서 그날 선생님께 꽃을 만들어 드리기로 결심했죠. 제 사업으로 작은 플랫폼을 만들 수 있다는 생각에 더 많은 사람들을 도울 수 있겠다는 생각이 들었어요. 발렌타인데이에 선물을 받지 못하는 사람들, 특히 과부들을 생각해 봐야겠다고 생각했죠.
+
+- **[Join Keke Palmer Front Row at VR Concerts 🎤 | “Are We There Yet?”](https://www.youtube.com/watch?v=Lt3VcUqKm10)** — 2023-02-03 · ko · `unclassified`
+  맨 앞줄에 저와 함께 앉아 계신 분, 바로 브렌다 친입니다. 브렌다 친은 저스틴 비버 같은 유명 아티스트들을 위한 VR 콘솔을 제작하는 분이에요. 아티스트와 함께 메타버스에서 콘서트를 디자인할 때 어떤 과정을 거치는지 궁금합니다. 저는 아티스트 앨범을 질릴 때까지 듣고, 심지어 직접 공연할 수도 있을 정도예요. 여기에서 브렌다 친의 작품을 몇 가지 살펴볼까요? 네, 저는 웨이브에서 일하면서 저스틴 비버를 위한 콘서트를 함께 만들었어요. 팬들이 가상 세계에 참여하고, 아티스트가 팬들과 소통할 수 있도록 했죠.
+
+- **[LGBTQ+ VR Museum - Meta - Community Voices](https://www.youtube.com/watch?v=w8bnCaFmoaM)** — 2023-02-02 · ko · `unclassified`
+  외국 음악가 인 저는 놀라운 이야기를 가지고 있습니다. 다양한 연령, 다양한 성별, 다양한 지역의 사람들이 있습니다. 제가 커밍아웃했을 때, 저는 주로 긴장했습니다. 27~28년 동안 벽장 속에 숨어 살았기 때문에 당시에는 정말 부정적인 반응이 많았고, 제게는 안전하지 않은 상황이었습니다. 저는 커밍아웃 경험을 되돌아보며, 저와 같은 경험을 하고 있는 다른 사람들에게 어떻게 도움을 줄 수 있을지, 그들의 여정을 조금이라도 더 쉽게 만들어 줄 수 있을지 고민했습니다.
+
+- **[Keke Palmer and VR Concert Creator Explore Virtual Concerts | “Are We There Yet?”](https://www.youtube.com/watch?v=vx0j8amdZTY)** — 2023-02-01 · ko · `unclassified`
+  메타버스에는 이미 수많은 음악 페스티벌이 있지만, 앞으로는 훨씬 더 멋진 모습들을 볼 수 있을 거라고 생각해요. 오늘 저와 함께 메타버스에 대해 알아볼 시리즈를 준비했는데, 저스틴 비버 같은 유명 아티스트들과 작업한 감독 브렌다 친 씨가 동행해 주셨어요. 브렌다 씨, 혹시 항상 기술에 관심이 있으셨나요? 아니면 메타버스라는 분야는 우연히 접하게 된 건가요? 저는 VR 게임 제작으로 시작했고, 그 분야에 푹 빠져 있었어요. 하지만 음악과 미술에 대한 열정도 엄청나거든요.
+
+- **[Keke Palmer and an NFL Pro Tackle VR Sports & Fitness | “Are We There Yet?”](https://www.youtube.com/watch?v=WHDdkx9chsA)** — 2023-02-01 · ko · `unclassified`
+  LA에서 운동할 수도 있고, 저는 오하이오에 있을 수도 있어요. 키키, 같이 운동해요! [음악] 오늘 제 조수석에 앉은 사람은 앤드류 호킨스입니다. 안녕하세요, 앤드류! 키키, 잘 지내세요? 저는 잘 지내요. 이제 모두와 통화해도 될까요? 저는 당신이 저를 허그라고 불러주셨으면 좋겠어요. 좋아요. 우리 공통점이 많은 것 같아요. 여러 가지 일을 할 수 있고, 멀티태스킹도 잘하시네요. 운동선수, 사업가, 수상 경력에 빛나는 프로듀서 등등... 자, 스냅! NFL 선수에서 VR 크리에이터로 전향해서 메타퀘스트 2용 NFL 프로 에라를 개발하셨는데 정말 대단해요.
+
+- **[(Trailer) Keke Palmer answers all your metaverse questions | “Are We There Yet?”](https://www.youtube.com/watch?v=FdlhEOB7Tk4)** — 2023-01-31 · ko · `unclassified`
+  좋아하는 콘서트 맨 앞줄 좌석에 앉고 싶으세요? 정말 끝내줄 거예요! 아니면 좋아하는 슈퍼히어로처럼 하늘을 날고 싶으세요? 아니면 좋아하는 프로 운동선수처럼 훈련하고 싶으세요? 저는 키키 파머이고, 여러분을 메타버스를 가로지르는 가상 여행으로 안내하는 프로그램, '우리가 거기 있나요?'에서 이런 질문들을 던져볼 거예요. 준비됐나요? 시작해 볼까요? NFL 선수 출신 크리에이터 앤드류 호킨스를 만나보세요. 당신은 로스앤젤레스에, 저는 애틀랜타에 있을 수 있어요. 같이 운동도 할 수 있죠!
+
+- **[Beyond Evacuation - Meta - Community Voices](https://www.youtube.com/watch?v=4dF6NEnLOYM)** — 2023-01-11 · ko · `unclassified`
+  2월 말쯤 우크라이나 에서 사람들이 나라를 탈출하려고 발버둥 치는 영상들을 보기 시작했어요. 저희 그룹도 현명하게도 이미 결정을 내린 상태였죠. 상황을 보고 나서 그 사람들을 돕기로 했어요. 저는 커뮤니티 오거나이저인데, 바로 그때 '48시간 안에 국경에 가서 사람들을 구출해야겠다'고 생각했어요. 그렇게 해서 120명 정도의 학생들을 데리고 돌아왔는데, 모두 야심만만하고 학업을 거의 마칠 뻔한 학생들이었어요. 모든 걸 잃고 낯선 나라에 발이 묶인 건 정말 끔찍한 경험이었죠. 처음에는 서로 연락을 주고받으라고 했어요.
+
+- **[The Giving Trees - Meta - Community Voices](https://www.youtube.com/watch?v=-FPjyQryrBY)** — 2022-12-15 · ko · `unclassified`
+  아기 나무를 베어오던 때 기억나세요? 이 나무는 어때요? 정말 멋지네요! 저는 어릴 적 크리스마스트리를 집에 가져오던 추억이 정말 많아요. 가족들이 함께 모이는 모습, 따뜻함과 유대감이 느껴지죠. 이 나무는 많은 사람들에게 정말 사치스러운 것 중 하나예요. 크리스마스트리가 없다는 건 상상도 할 수 없어요. 정말 잘하셨어요! 다른 사람들도 크리스마스 시즌의 따뜻함과 설렘을 느꼈으면 좋겠어요. 저도 이 일을 해보고 싶네요. 목표를 세웠어요. 적어도 한 그루, 많아야 다섯 그루, 열 그루 정도 배달할 거예요.
+
+- **[Meta | Yeh Kaunsa Fest Hai Bhai](https://www.youtube.com/watch?v=aql12RjT1S0)** — 2022-12-14 · ko · `unclassified`
+  갔다 [음악] [웃음] 공사가 10년 동안 완료되지 않았습니다. [감사] 여기에 빈자리가 있습니다. 벽이 울고 있어요, 배치할 곳이 필요해요 당신들은 애초에 존재해서는 안 되는 사람들이에요. 아니요, 이미 거절했어요. 허가가 부여될 것입니다 허락을 구하는 것뿐입니다. 균형 하고 싶은 대로 하세요 감사합니다 대학 [음악] 차 한잔 드리고 싶습니다, 선생님. 몇 명이나 있는지 말해 보세요. 부끄러움을 느껴야 할 때, 부끄러워하는 모습은 어디에 있는가? 5천 명에서 1만 명 정도가 온다면 알려주세요.
+
+- **[Metaverse Culture Series: Tercera Cultura Sizzle](https://www.youtube.com/watch?v=6rqAVSprCgg)** — 2022-12-02 · ko · `unclassified`
+  메타버스에 표현된 우리 문화는 정말 중요하고, 앞으로 나아가야 할 방향의 시작이라고 생각해요. [음악] 저는 메타버스가 아티스트들을 위한 공간이 될 거라고 100% 믿어요. 아티스트로서 우리는 끊임없이 미래를 생각하고 과거, 현재, 미래를 이야기해야 할 책임을 지고 있으니까요. 모든 라틴계 아티스트가 자신만의 세계를 만들고 그 안으로 들어간다고 상상해 보세요. 정말 놀라운 일이겠죠. 물리적으로 아파트를 떠날 수 없는 사람들에게는 정말 좋은 공간이 될 거예요. 어디를 가든, 누구든, 어떻게 자랐든, 누구나 자신의 목소리를 낼 수 있다는 걸 느끼게 해 주는 거죠.
+
+- **[Metaverse Culture Series: Tercera Cultura: The Making of Nuevo Norte](https://www.youtube.com/watch?v=KK3x5LlJZ7M)** — 2022-12-02 · ko · `unclassified`
+  [음악] 메타버스 문화 시리즈를 통해 얻은 이번 경험은 저에게 정말 교육적이고 눈을 뜨게 해주는 경험이었습니다. 가상현실 공간에서 작업하는 건 이번이 처음인데, 항상 작은 규모로만 생각했지만 캔버스는 원하는 만큼 커질 수 있다는 걸 깨달았어요. 이 작은 공간들은 푸에르토리코인으로서의 제 경험을 담고 있습니다. 비록 명칭은 다를지라도, 다양한 히스패닉 문화권에서 공유하는 경험들이 많은 사람들에게 공감을 불러일으킬 거라고 생각해요. 그래서 제가 특히 강조하고 싶었던 것들은 70년대에 대한 애정, 사람들이 모여 이야기를 나누는 공간, 그리고 마이애미에서 자라면서 새벽 4시까지 과학 음악을 듣던 디스코텍입니다
+
+- **[The Blind Poet - Meta - Community Voices](https://www.youtube.com/watch?v=nWaGU54aBeo)** — 2022-12-01 · ko · `unclassified`
+  [음악] 저는 제 눈이 서서히 멀어 가고 있다는 사실을 전혀 몰랐습니다. 증상이 너무 미미해서 시력이 점차 나빠지더니, 마치 터널이 좁아지는 것처럼 제 운명이 다가왔습니다. 불과 8년 전, 이 여정이 시작되었습니다. 의사는 제 눈을 보고는 망막색소변성증( RP)이라고 진단했습니다. 치료법이 없고 유전된다고 했습니다. 갓 태어난 아들과 딸아이도 RP에 걸릴 확률이 2분의 1이라고 했습니다. 저 와 아내가 할 수 있는 일은 아무것도 없다고 했습니다. 시력이 점점 더 나빠지면서 우울증에 빠졌습니다. 직장도 잃고 집도 잃었습니다
+
+- **[메타버스 속 내 세상이 궁금해? Meta의 첫번째 캠페인 #모든것이내세상 #정호연의내세상](https://www.youtube.com/watch?v=7IkBPQQsqH0)** — 2022-12-01 · ko · `unclassified`
+  내 세상을 보여줄게 오래전 아름다움이 새롭게 피어날 [음악] 거야이 내가 만드는 대로 이루어지는 세상 모든 것이 내세상 메타
+
+- **[Metaverse Culture Series: Latinx Tercera Cultura in the Metaverse](https://www.youtube.com/watch?v=H_ne3P-EIIc)** — 2022-11-30 · ko · `unclassified`
+  저는 메타버스가 예술가들을 위한 공간이 될 거라고 100% 확신해요. 예술가로서 우리는 끊임없이 미래를 생각하고 과거, 현재, 미래를 이야기해야 할 책임을 져야 하니까요. 그런 의미에서 제가 이 이름을 생각해낸 건 푸에르토 리코에서 할머니와 함께 살았던 거리 이름에서 따왔어요. 이 세계의 이름을 짓고 소속감과 푸에르토리코에서의 경험을 떠올리면서, 모든 게 시작된 곳으로 돌아가고 싶다는 생각이 들었어요. 모든 건 할머니와 함께 그 거리에서 시작됐고, 그 집은 우리 가족의 보금자리였죠.
+
+- **[메타버스 속 내 세상이 궁금해? Meta의 첫번째 캠페인 #모든것이내세상 #황소윤의내세상](https://www.youtube.com/watch?v=80k6ni9JxoU)** — 2022-11-22 · ko · `unclassified`
+  내가 그랬지 내 세상에 올 거라고 [음악] 난 음악하는 사람 [음악] 하지만 더 많은 걸 만들어낼 수 있어요 [음악] 말하는 대로 내가 만드는 세상 모든 것이 내 세상 메타
+
+- **[Skydog Sanctuary - Facebook App - Community Voices](https://www.youtube.com/watch?v=UNnmN8xZHlM)** — 2022-11-15 · ko · `unclassified`
+  [음악] 제가 영국에서 자랄 때 학교 근처에 작은 승마장이 있었어요. 어느 날, 아마 11살쯤이었을 거예요. 저는 마구간 줄을 따라 쭉 가서 말 한 마리 한 마리에게 문을 열어줬어요. [음악] 엄마가 "클레어, 왜 그랬니?"라고 물으셨죠. 저는 "말들이 해외로 나가고 싶어 하는 것 같았어요."라고 대답했어요. 저희는 위험에 처한 야생마 와 야생 굴을 구조하고, 굶주림, 학대, 방치와 같은 열악한 환경에서 구조해요. 또한 정부의 야생마 포획으로 뿔뿔이 흩어진 야생마 가족을 재결합시켜 주기도 해요.
+
+- **[Quest for Knowledge - Meta - Community Voices](https://www.youtube.com/watch?v=hCUyd4Y-5lo)** — 2022-11-04 · ko · `unclassified`
+  어렸을 적 저는 사람들의 삶을 바꿀 사람이 되겠다는 거창한 꿈을 가지고 있었어요. 제 큰형은 네 살 때 뇌수막염에 걸려 뇌 손상을 입었습니다. 장애가 있는 아이의 형제자매로 사는 것은 쉽지 않은 일이었다. 그래서 제가 상상 속에서 항상 했던 놀이는 '어떻게 하면 내 동생을 치료할 수 있을까?'였습니다. 그것이 저를 과학의 길로 이끌었고, 화학을 발견하게 되었습니다. 저는 생분자 화학자이자 모어 하우스 대학의 메타버시티 책임자로서 , 통합 화학자라고 할 수 있습니다.
+
+- **[Meta | Drag Doggie Duo](https://www.youtube.com/watch?v=oN5CqbahVAk)** — 2022-11-02 · ko · `unclassified`
+  메타 [음악]
+
+- **[Supernatural Grandma - Meta - Community Voices](https://www.youtube.com/watch?v=SKnc-jqLZUs)** — 2022-10-28 · ko · `unclassified`
+  외국어 [음악] 사람들은 저를 오마라고 불러요. 저는 할머니가 아니라 손주들에게는 오마예요. 우리는 목표를 세웠죠. 네, 저는 손주들을 사랑해요. 일곱 명이나 되는데, 우리는 항상 함께예요. [음악] 좋아요, 멋지네요. 제 모든 건강 관리 여정은 당뇨병 진단을 받았을 때 시작됐어요. 저는 아무런 변화도 원하지 않았고, 제 몸 상태가 어떤지도 신경 쓰지 않았어요. 아침에 침대 정리조차 하기 싫었죠. 의사 선생님께 진료를 받으러 갔더니 뭔가 조치를 취해야 한다고 하셨어요. 그래서 식단 관리를 더 진지하게 생각하기 시작했고, 더 많이 걷기 시작했어요.
+
 ## NVIDIA Developer (88건)
 
 - **[How to Customize NVIDIA Nemotron 3 Nano With RLVR in Prime Intellect Lab](https://www.youtube.com/watch?v=Bc8SMuzWvgc)** — 2026-07-23 · ko · `unclassified`
@@ -859,6 +1125,538 @@
 
 - **[NVIDIA's Dedication to Open Source | NVIDIA GTC Washington, D.C. 2025 Keynote](https://www.youtube.com/watch?v=eKwpmzvyD68)** — 2025-10-28 · ko · `unclassified`
   미국은 오픈 소스 분야에서도 선도적인 역할을 해야 합니다 . 저희는 놀라운 자체 개발 모델을 보유하고 있습니다. 저희는 놀라운 자체 개발 모델을 보유하고 있습니다. 우리는 또한 훌륭한 오픈 소스 모델이 필요합니다. 우리나라는 그것에 달려 있습니다. 우리 스타트업들은 그것에 의존하고 있습니다. 그래서 엔비디아는 우리가 해야 할 일을 하기 위해 전념하고 있습니다.
+
+## SK hynix (88건)
+
+- **[AI 시대가 요구하는 차세대 메모리의 기준 [System Architecture & Software Solution] | N잡러2 EP.3](https://www.youtube.com/watch?v=p1rXdpxgB5Y)** — 2026-07-24 · ko · `unclassified`
+  안녕하세요. 안녕하세요. &gt;&gt; 3대 엔잠러 대학생 엠버서 사승민 &gt;&gt; 신재원입니다. 승민님 오늘도 너무 잘생기신 거 아닌가요? &gt;&gt; 아 저는 여기 분당에 무슨 칼이나가온 줄 알았어요. &gt;&gt; 칼 있나? 아니고요. &gt;&gt; 재원님 근데 여기가 어디죠? 여기 SK 하이닉스 군당 캠퍼스잖아요. [음악] &gt;&gt; 분당 캠퍼스까지 오게 될지는 상상도 못 했는데 어 이렇게 오게 됐네요. &gt;&gt; 그러면 [음악] 2천 찍고 분당 캠퍼스까지 지금 접수하러 오신 거예요? &gt;&gt; 아 제가 오늘은 또 2천에이어서 분당까지 한번 확실하게 접수해 보겠습니다
+
+- **[[HY-Knowledge EP.2] How Will Quantum Computers Change Our Lives? | Physicist Kim Sang-wook](https://www.youtube.com/watch?v=sjxr8SM8Tjo)** — 2026-07-24 · en · `unclassified`
+  Atoms are the building blocks of everything in the world. Basically, quantum mechanics is the study of [music] the atomic world. At a fundamental level, the very zeros and ones that all computers are built on can exist simultaneously. And that's what makes it a fundamental revolution. For a regular computer, it would take over 100 years. It's so difficult, and that's exactly what makes it secure.
+
+- **[[하이널리지 EP.2] 양자 컴퓨터 시대, 우리의 삶은 어떻게 달라질까? | 물리학자 김상욱 교수](https://www.youtube.com/watch?v=hDBRM3Q3a-Y)** — 2026-07-24 · ko · `unclassified`
+  원자란 것은이 세상 모든 것을 이루고 있는 근본 단위인데요. 양자역학은 원자의 세계를 이해하려는 그런 학문이죠. 모든 컴퓨터에 기반이 되는 0과 1이라는 데이터 그 자체가 동시에 존재할 수 있는 그런 근본적인 혁명을 일으켜요. 보통의 컴퓨터로는 100년 이상 걸리는 일이라이 사실이 알려지자 이제 컴퓨터를 빨리 만들어야겠다는 생각을 모든 나라들이 하고 &gt;&gt; 이것도 누가 먼저 만드냐가 되게 중요하죠. &gt;&gt; 뭐 만들어도 만들었다고 얘기 안 하겠죠. 컴퓨터가 다루는 데이터의 양이 엄청나기 때문에 언제나 실수는 하게 마련이에요.
+
+- **[[HY-Knowledge EP.1] Will Quantum Computers Change the World? | Physicist Kim Sang-wook](https://www.youtube.com/watch?v=K3u07NaGiuk)** — 2026-07-16 · en · `unclassified`
+  It's called RSA encryption. It's the most secure encryption we have right now. It's what we use for online banking, and Bitcoin uses it, too. It's also used in military systems around the world. It would take a regular computer over 100 years to crack it. But a research paper came out saying a quantum computer could crack it incredibly [music] fast. Once the idea became widely known, every country realized they had to build one fast.
+
+- **[[하이널러지 EP1] 양자 컴퓨터는 세상을 바꿀 기술일까? | 물리학자 김상욱 교수](https://www.youtube.com/watch?v=D9a78FZZ-1Q)** — 2026-07-16 · ko · `unclassified`
+  RSA 암호라고 해요. 현재 가장 안전한 암호인데 그게 현재 우리가 사용하는 인터넷 뱅킹 비트코인도 거의 사용하고 있고요. 모든 군이 사용하고 있어요. 보통의 컴퓨터로는 100년 이상 걸리는 어 일이라 양자 컴퓨터를 사용하면은 굉장히 빠르게 풀 수도 있을 거라는 논문이 [음악] 나왔거든요.이 사실이 알려지자 이제 양자 컴퓨터를 빨리 만들어야겠다는 생각을 모든 나라들이 하고 &gt;&gt; 이것도 누가 먼저 만드느냐가 되게 중요하기 때문. &gt;&gt; 뭐 만들어도 만들었다고 얘기 안 하겠죠. 안녕하세요.
+
+- **[[미래인재 CLASS 제2강] 미래 반도체 ‘PIM’, 떠오르는 이유는 바로 ‘이것’](https://www.youtube.com/watch?v=_fFVIgYzGB8)** — 2026-07-15 · ko · `unclassified`
+  안녕하세요. 미레인 클래스에 오신 걸 환영합니다. 두 번째 특강의 진행을 맡은 SK 하이닉스 대학생 엠버스더 차승민 &gt;&gt; 현시현입니다. 여러분도 소개 한번 해 볼까요? 안녕하세요. 저는 인간 말랑이 홍서영입니다. &gt;&gt; 저는 인간 기오미 최상원입니다. 와우. 어 근데 저번에 미래인제 클래스 1편도 나오지 않았어? 어 맞아. 신청 교수님이랑 HBM에 대해서 얘기를 나눴어. &gt;&gt; 오, 경력직이네. 그니까 &gt;&gt; 그래서 MC 됐나 보다. &gt;&gt; 그니까 오늘을 이끌어놔줄 그니까 &gt;&gt; 굉장히 많이 부담을 갖고 [웃음] &gt;&gt; 파이팅 파이팅.
+
+- **[[뉴스룸] SK하이닉스 대학생 앰버서더, 이천캠퍼스 투어 진행… 반도체 현장과 기업 경영 철학을 배우다](https://www.youtube.com/watch?v=uj5W84VfvCY)** — 2026-07-14 · ko · `unclassified`
+  [음악] 지난 13일 대학생 엠버서들이 SK 하이닉스 2천 캠퍼스를 찾아 &gt;&gt; [음악] &gt;&gt; 뜻깊쁜 시간을 보냈습니다. 이번 캠퍼스 초원은 엠버서더들이 회사에 대한 시야를 넓히고 지금까지의 활동을 점검하며 향후 방향을 [음악] 함께 고민하기 위해 마련됐습니다. 먼저 엠버서더들은 SK 하이닉스의 풀스택 AI [음악] 메모리 크리에이터 도약 과정과 비전을 함께 살펴봤고 이어 M14 윈도우 투어를 통해 실제 반도체 생산 현장을 확인한 뒤 굿찌샵을 찾아 다양한 제품을 둘러보는 시간도 가졌습니다.
+
+- **[[뉴스룸] SK하이닉스, 美 나스닥 입성… 자본시장 심장부에서 '글로벌 컴퍼니' 위상 드높인다](https://www.youtube.com/watch?v=CsjPQECEFi4)** — 2026-07-11 · ko · `unclassified`
+  지난 [음악] 10일 SK 하이닉스가 나스닥 마켓 사이트에서 미국 예탁 증권 ADI 상장 기념 오프닝 베일 타종 인사를 열었습니다. 이날 행사에는 최태원 SK 그룹 [음악] 회장과 최재원 SK스퀘어 수석 부회장, 광노정 SK 하이닉스 CEO 등 그룹과 회사의 [음악] 지요 경영증이 참석해 미국 예탁 증권의 공식거래 개시를 함께 기념했습니다. AI 시대가 [음악] 분격화되며 AI 메모리 CEO가 빠르게 늘고 있는 가운데 SK 하이닉스는 최고 수준의 기술력과 [음악] 안정적인 공급 역량을 바탕으로 고대 역품 메모리 분야에서 큰 경제 운위를 확보하고 있습니다
+
+- **[Semiconductor Humanities EP.3 What Makes Humans Irreplaceable in the Age of AI | Prof. Choe Jae Chun](https://www.youtube.com/watch?v=fO2fypa8vak)** — 2026-07-03 · ko · `unclassified`
+  인공지능에게 간단히 물어볼 수 있다면, 왜 우리는 여전히 책을 읽어야 할까요? 훨씬 더 중요한 것은 읽으 면서 사고의 과정을 따라가는 훈련입니다 . 진정으로 책을 읽는 사람들은 인공지능 시대에서 살아남을 가능성이 더 높을 것이다. [음악]을 안 하는 분들 안녕하세요, 박수현입니다. 반도체 인문학에 오신 것을 환영합니다. 이곳에서는 기술과 인간의 삶이 만나는 지점에서 더 깊은 통찰력을 공유합니다. 오늘은 채재천 음악 교수님을 모셨습니다. 교수님, 환영합니다. 안녕하세요. 최근까지 이화여자대학교에서 강의를 하다가 마침내 음악계에서 성공적으로 은퇴하게 되었습니다
+
+- **[[반도체 인문학 EP3] AI를 이길 수 있는 인간의 조건 | 생명다양성재단 이사장 최재천](https://www.youtube.com/watch?v=WsdDXvDKG_w)** — 2026-07-03 · ko · `unclassified`
+  AI한테 물어보면 되는데 그럼에도 불구하고 굳이 꼭 책을 읽어야 하는 또 이유가 [음악] 있을지 책을 읽으면서 생각의 과정을 따라가는 그 훈련을 해 보는게 훨씬 소중한 것 같다는 생각이 들어요. 독서를 제대로 하시는 분은 살아남을 가능성이 있고 그렇지 않은 분은 &gt;&gt; 안녕하세요. 박수현입니다.이 기술과 인간의 삶에 대한 깊이 있는 통차를 나누는 시간 반도체 임문학입니다. 오늘은요 최재천 교수님을 모시고 이야기 나눠 보려고 합니다. 교수님 안녕하세요.네 &gt;&gt; 안녕하십니까?
+
+- **[반도체 기술의 물리적 한계를 돌파하는 핵심 동력 [PKG개발] | N잡러2 EP.2](https://www.youtube.com/watch?v=Jlf2r5VoJRk)** — 2026-06-23 · ko · `unclassified`
+  드디어 두 번째 직무 체험이 시작되었습니다. 그거 한 다음에 &gt;&gt; 오케이. &gt;&gt; 안녕하세요. 이대엔잠러 박인욱 이나래입니다. 오늘 여기 와가지고 전 너무 기대되는데 어떻게 생각하세요? &gt;&gt; 아 저 너무 기대돼요. 저는 이런 2천도 처음 와보고 2천에 이렇게 큰 건물이 자리하고 있을 줄 처음 알았어요. &gt;&gt; 거 한번 보시겠어요? 이게 뭐죠? &gt;&gt; 이제 TSV까지는 들어봤는데 MUF &gt;&gt; 에멀이니까 뭐 미스터 MUF [웃음] &gt;&gt; 혹시 들어보신 적 있으실까요?
+
+- **[SK하이닉스🐑메몰이소녀 X 김민하 광고 촬영 비하인드 필름](https://www.youtube.com/watch?v=G-mYvFsOwdE)** — 2026-06-09 · ko · `unclassified`
+  [음악] 네. 요즘 어딜 가나 AI와 반도체 이야기가 빠지지가 않잖아요. 그때 중심에 있는 SK 하이닉스의 첫 모델이 되었다는 점이 무척 신기하기도 하고 자랑스럽기도 했습니다. 어, 그리고 모델됐다고 얘기 듣고 제 주변 분들도 많이 기대된다고 말씀 주셨어요. [음악] 어, 이제 제가 몰고 다니는 양 램들이 바로 AI 시대를 움직이는 메모리 램을 상징한다고 하는데요. 유쾌한 메모리 소녀의 여정 속에 AI 시대를 이끌어가는 SK 하이닉스의 강력한 기술력이 담는 것 같아요.
+
+- **[[SK hynix Brand Campaign] 🐑The Memory Shepherd🐑: Leading the AI Era](https://www.youtube.com/watch?v=TEmThN1yej0)** — 2026-06-09 · ko · `unclassified`
+  메모리. RAM이란 도대체 무엇인가요? [음악] 자동 조종 장치 작동 중. [음악] 이걸 어떻게 끝내야 하지? 여러분, 이제 밥 먹을 시간이에요. 오늘의 특집은 빅데이터입니다. [음악] 네, 일이 끝났어요. 트랙을 달리세요. 메모리 걸이 최신 RAM을 가지고 돌아와 메모리 헤디로 우리의 삶을 업그레이드합니다 . 이건 걸작이야. 닭고기 아니면 양고기? [음악] 이제 진짜 시작이야. [음악] AI는 탈모 없는 미래를 빠르게 앞당기고 있습니다 . [음악] 난 널 믿고 있어. [음악] 메모리. [음악] SK하이닉스는 언제나처럼 우리를 AI 시대로 이끌고 있습니다
+
+- **[[SK하이닉스 기업이미지 광고] AI 시대를 이끌어가는 SK하이닉스🐑메몰이소녀🐑](https://www.youtube.com/watch?v=oXJhlAEvZXc)** — 2026-06-09 · ko · `unclassified`
+  머리 &gt;&gt; 이게 뭔 힘들이래? [음악] &gt;&gt; 자율주인을 시작합니다. [음악] &gt;&gt; 아 이거 다 언제 분석하냐? 얘들아 밥 먹자. 오늘 메뉴는 빅데이터야. [음악] &gt;&gt; 아싸은 &gt;&gt; 비트 좀 줄래? &gt;&gt; 최첨된 램을 몰고 메모리 소녀 우리 삶을 없게 하면 메모리 메모리음 &gt;&gt; 명작이야. &gt;&gt; AI 셋까지 대어 [음악] 넓히며 반대 없이 높이 높이 적을 하네.
+
+- **[SK하이닉스, 기후에너지환경부와 함께 ‘AI for Green Impact’ 개최… 미래 AI 환경 과학자와 함께 지구의 미래 고민](https://www.youtube.com/watch?v=c7lRW9i4fqk)** — 2026-06-08 · ko · `unclassified`
+  세계 환경의 날 6월 5일. &gt;&gt; SK가 기후 에너지 환경부와 함께 만든 특별한 하루. &gt;&gt; 이곳은 AI 환경 과학자가 탄생하는 현장입니다. &gt;&gt; AI폴인 임팩. &gt;&gt; AI 기술을 활용해 환경 문제를 탐구하고 해결책을 모색하기 위해 초중고 학생과 학부모로 구성된 약 100명의 참가자들이 한 자리에 모였는데요. &gt;&gt; 지금 바로 AI4 그린 임팩트 현장 만나보시죠. 렛츠고. 이번 행사의 오프닝은 기유 위기의 현실과 AI 기술로 환경 문제를 해결하는 여러 분야의 모습을 담았는데요.
+
+- **[[미래인재 CLASS 제1강] HBM 핵심 기술인 TSV, MR-MUF!! 그다음 미래 기술은?!](https://www.youtube.com/watch?v=TM0HTpKgzA8)** — 2026-06-08 · ko · `unclassified`
+  아 근데 오늘 다 뭐 때문에 모였는지 우리 알고 있어? &gt;&gt; 알지? &gt;&gt; 오늘 [음악] 미레인지 클래스 첫 촬영이잖아. 긴장되지 않아? &gt;&gt; 너무 긴장되. &gt;&gt; 나는 오늘 동경하는 교수님 오신다고 하셔 가지고 심장에 너무 빨리 뛰고 있어. 지금 &gt;&gt; 난 여쭤보고 싶은 거 너무 많아 가지고 교수님이랑 저녁서까지 해야 될 거 같아. &gt;&gt; 근데 혹시 오늘 주제 뭔지 알아? &gt;&gt; 오늘 HBM, AI, 반도체 이런 내용인가?
+
+- **[[HY-FOCUS on COMPUTEX 2026] SK hynix at the Heart of AI](https://www.youtube.com/watch?v=z4XU8LOp8xk)** — 2026-06-06 · ko · `unclassified`
+  1,500개의 기업과 6,000개의 부스가 한자리에 모인 COMPUTEX 2026 올해는 SK그룹 최태원 회장이 COMPUTEX 현장을 처음으로 찾아 더욱 의미를 더했습니다 역대 최대 규모의 COMPUTEX 화두는 AI Together입니다 모두가 AI의 미래를 바라보는 지금 그 시선의 중심에 SK하이닉스가 있습니다 SK하이닉스 부스는 At the Core OF the AI Wave-Memory!를 주제로 AI Factory Zone, 제품 Portfolio Zone 그리고 Tarot Event Zone으로 구성되었습니다 먼저 AI Factory에서는 NVIDIA와 협업으로 완성된 다양한 양사의 제품들을 확인할 수 있습니다
+
+- **[기술 혁신을 뒷받침하는 반도체의 근본 of 근본 [기반기술] | N잡러2 EP.1](https://www.youtube.com/watch?v=bFvJv16w7wM)** — 2026-05-21 · ko · `unclassified`
+  감사합니다. &gt;&gt; 감사합니다. &gt;&gt; 감사합니다. 고생하습니다. 고생했습니다. &gt;&gt; 신트로 돌아왔습니다. 그 첫대사만 하고 할까요? 저경님 첫대사까지 &gt;&gt; 아 드디어 &gt;&gt; 네 &gt;&gt; 안녕하세요. &gt;&gt; 드디어 이날이 왔습니다. SK 하이닉스의 취업을 꿈꾸는 취진생들의 빛과 소금 엔잠러 시즌 2가 화려하게 컴맥겠습니다. 소리 질러.네 네. 지난 시즌이 7하로 끝나서 진짜 엄청 아쉽더라고요. 하이닉스의 직무가 얼마나 많은데 벌써 끝나냐? 내가 하고 싶은 건 아직 나오지도 않았다 하면서 원성이 아주 자아하더라고요. &gt;&gt; 그래서 저희가 그 막중한 바을 이어받았습니다
+
+- **[[Analyst Interview｜하나증권 김록호 위원] AI 인프라 확대와 메모리 수요 증가의 핵심 수혜자](https://www.youtube.com/watch?v=j-Dk036C1wc)** — 2026-05-14 · ko · `unclassified`
+  AI의 이제 확산과 진환은 [음악] 당연히 메모리의 총 수요량 자체가 등대될 수밖에 없는 상황이고요. 디램뿐만 아니라 랜드 [음악] 같은 경우가 가격이 가파르게 오르기 시작했기 때문에 항상 저희가 주목을 해야 된다. [음악] 1분기 실적은 견조한 메모리 가격을 기반으로 양호한 실적을 시원했다라고 보고 있습니다. 시장에서 분기초에 예상했었던 메모리 가격 대비 계속해서 이제 좋은 가격들이 형성되는 것들이 확인이 되고 있었고 어 그의 준화는 양호한 실적에 나왔다라고 저희는 판단하고 있습니다.
+
+- **[[Tech Note] 기억하고 성장하는 AI 시대, 메모리 반도체의 다음 과제](https://www.youtube.com/watch?v=hiRsKqIiDQ4)** — 2026-05-13 · ko · `unclassified`
+  만약에 회장님께서 연봉 1억을 주고 비서를 구용했는데이 비서가 IQ 180에 하보드 박사기를 가지고 있지만 매일 아침에 출근할 때마다 어제 나눈 대화를 모조일 잊어버린다면 어떨까요? 당신은 매일 아침마다 당신의 이름이 무엇인지, 회사는 무엇을 하는 곳인지 어제 지시한 프로젝트가 어디까지 진행됐는지 처음부터 다시 설명해 돼요.이 비소는 천재적인 두뇌로 당신의 설명을 완벽하게 이해하고 업무를 처리하지만 퇴근하는 순간 그 모든 기억은 포맷됩니다. 이것이 바로 지금 우리가 열어가는 인공지능의 민낯치예요.
+
+- **[[반도체 인문학 EP2] AI가 절대 못하는 것 | KAIST 교수 정재승](https://www.youtube.com/watch?v=uvGmbKRcwc4)** — 2026-05-04 · ko · `unclassified`
+  핸드폰을 들여다 보면서 전 세계에서 제일 예쁘고 제일 잘생기고 제일 부자고 누군가와 나를 비교하는 거예요. 미국에서는 지금 청소년 우울증이 폭증하고 있습니다. 2, 30% 늘어난 정도가 아니라 두세 배씩 늘어났습니다. 인간에게 기대되는 앞으로의 미래의 기능들은 [음악] &gt;&gt; 안녕하세요. 박수현입니다. [음악] 기술과 인간의 삶에 대한 깊이 있는 통찰를 나누는 시간이죠. 반도체 임문학. 오늘은 카이스트 정재승 교수님 모시고 이야기 나눠 보려고 합니다. 교수님 안녕하세요. &gt;&gt; 안녕하세요. [음악] &gt;&gt; 네. 교수님 자기 소개 간단하게 부탁드릴게요.
+
+- **[[뉴스룸] “AI 시대 함께 열어가자”… SK하이닉스, 협력사와 동반성장 전략 제시](https://www.youtube.com/watch?v=1lfezw9HI88)** — 2026-04-21 · ko · `unclassified`
+  SK 하이닉스가 지난 20일 2026년 동반성장 협의회 전기 총회를 열었습니다. [음악] 동반 성장 협의회는 SK 하이닉스가 협력사와 함께 경쟁력을 강화하고 [음악] 협력 관계를 더욱 공고의 하기 위해 2001년 결성한 협의체로 매년 사업 현황과 시장 전망을 공유하고 향후 협업 방향성과 주요 이슈 [음악] 대응 방안을 논의하고 있습니다. 이번 총회 다가올 AI 시대를 협력사와 [음악] 함께 준비하기 위한 방향을 공유하는 자리로 마련됐습니다. 이날 인사에는 황철주 협의회장을 비롯해 아홉개 회원사 대표들이 참석했으며 [음악] SK 하이닉스에서는 광로정 대표의사 사장과지 경영진이 함께 자리했습니다
+
+- **[SK하이닉스, ‘2026 행복나눔기금 전달식’ 개최… 함께 뛰며 되새긴 나눔의 가치](https://www.youtube.com/watch?v=8vQtsZH02jk)** — 2026-04-16 · ko · `unclassified`
+  여러분, 오늘 아주 따뜻한 온도가 흐르고 있습니다. &gt;&gt; 사람의 체온과 같은 36.5도의 따뜻한 나눔의 기운이 흐르는 SK 하이닉스 2000 캠퍼스 &gt;&gt; 206 SK 하이닉스 행복 나눔 기금 전달치기 준비 중인데요. &gt;&gt; 봄날씨만큼 아주 따뜻한 기운이 흐르지 않나요? 맞습니다. 너무 따뜻한데요. 구성원들의 따뜻한 마음이 모여 만들어진 나눔의 순간. [음악] 지금 바로 만나러 가시죠. 행복 나눔 기금은 구성원의 자발적인 기부금에 회사가 동일한 금액을 더하는 매칭 그랜드 방식으로 조성되는데요. [음악] 2011년부터 누적된 기타금은 무려 370억 원.
+
+- **[[반도체 인문학] AI 시대, 인간은 두 종류로 진화한다 | 뇌과학박사 장동선](https://www.youtube.com/watch?v=C1ZT0Q7Q0Yw)** — 2026-04-09 · ko · `unclassified`
+  앞으로의 인류는요. 서로 다른 인류로 나녀서 지나게 될 가능성도 있다라고 보여져요. AI에게 물어보지 않으면은 아무것도 할 수 없는 종류의 사람으로 서서히 변해갈 수도 있는 거죠. 새로운 형태의 기존의 인류가 없던 능력을 가지는 인류도 등장할 수 있어요.이라고 부를 정도로. 안녕하세요. 저는 진행을 맡은 아나운서 박수현입니다. 인류는 문자를 만들고 종이에 기록하는 등이 기억을 밖으로 확장해 왔습니다. 사실 이렇게 기억을 외부에 저장하는 일은 아주 오래 전부터 있어 왔는데요.
+
+- **[[2026 The Leaders] Global Talent 박한울 부사장](https://www.youtube.com/watch?v=-fPoVLt6vfc)** — 2026-04-06 · ko · `unclassified`
+  [음악] 예 하이닉스 글로벌 탤렌트 담당으로 이번에 새롭게 오게 된 박한울입니다. 20년간 인산만 해 온 사람입니다. [음악] 지금 맡게 된 업무는 사람들을 확보하고 글로벌리 일어나는 모든 일들 주제원 [음악] 관리, 법 관리 이런 것들을 담당하고 있습니다. SK닉스는 더 이상 이제 국내 기업이 아니라 글로벌 기업으로 명시상부 올라선 기업인 거 같고요. 거기에 맞게 또 인재들을 관리하고 또 글로벌리 어떻게 관리를 할지의 [음악] 모든 부분들이 달라져야 된다고 생각합니다.
+
+- **[[뉴스룸] SK하이닉스, 2년 연속 WMEC 선정…세계 무대에서 윤리경영 역량 입증](https://www.youtube.com/watch?v=-4X8_JQ0a0s)** — 2026-04-01 · ko · `unclassified`
+  SK 하이닉스가 글로벌 윤리 경영 평가 기관 액티스 피어로부터 2026년 세계에서 가장 윤리적인 [음악] 기업 중 하나로 선정됐습니다. 지난해 국내 반도체 기업 최초 선정에 이어 연속 [음악] 이름을 올린 SK 하이닉스는 평가 기준이 한층 강화된 가운데서도 지난해보다 [음악] 높은 점수를 받아 글로벌 최상위 수준의 윤리 경험 역량을 재입증했습니다. 우리 회사의 기술과 제품으로 세계 메모리 [음악] 시장을 선도하는 것과 동시에 윤리 경영에서도 글로벌 최고 수준의 평가를 받았다는 것에 더욱 의미가 크다고 [음악] 생각합니다.
+
+- **[[2026 The Leaders] Photo기술 김현석 부사장](https://www.youtube.com/watch?v=XS2yeA3_O0A)** — 2026-03-30 · ko · `unclassified`
+  [음악] 안녕하세요. 이번에 포토 기술 담당으로 부임하게 된 김현석입니다. 포토 기술 조직은 반도체 제조의 핵심인 회로 패턴을 [목을 가다듬음] 웨이퍼 위에 그려내는 노강 공정 전반을 담당합니다. 조직의 미션으로는 반도체 아이덴티티를 부여하는 실행자로서 패턴을 더 작게, 더 균일하게, 더 정확한 위치에 더 경제적으로 구현하는 것입니다. 먼저 2026년이라는 중요한 시점에 [음악] SK 하이닉스의 일원으로서 큰 책임을 맡게 되어 무한한 연관과 동시에 막중한 책임감을 느낍니다.
+
+- **[[뉴스룸] SK하이닉스, 제78기 정기주주총회 개최 “글로벌 초일류 기업으로 성장해 차별화된 가치 창출하고, 주주와 결실 나눌 것”](https://www.youtube.com/watch?v=TeBSyCF47wc)** — 2026-03-26 · ko · `unclassified`
+  [음악] SK 하이닉스가 지난 25일 이천 캠퍼스에서 제78기 전기 주주 총회를 열었습니다. [음악] 주주와 산해 외의사, 경영진 등이 참석한 가운데 의장으로 연단에 오른 광로정 [음악] 대표의사 사장은 먼저 감사 인사를 전했습니다. &gt;&gt; 그동안 SK 하닉스에 보내주신 아낌없는 경려와 성원의 전 구성원을 대표하여 [음악] 감사 인사를 드립니다. 곽사장은 지난해 매출액과 영업 이익이 2024년 [음악] 대비 각각 1.5배 두 배 수준으로 성장하며 최대 실적을 겸신했다고 전하면서 HBM 매출 증가와 고성능 고부가디 비중 확대, 랜드 포트폴리오 재편 등을 호실적의 배경으로 설명했습니다
+
+- **[오전엔 DRAM 불량 해결사, 퇴근 후엔 프리다이버?! SK하이닉스 버디들의 갓생 라이프 | 슼 다녀오겠습니다 EP.4](https://www.youtube.com/watch?v=cYGCpvTJ-gQ)** — 2026-03-25 · ko · `unclassified`
+  산과 바다 바다바 둘 셋 [음악] &gt;&gt; 다음 주 안정화되는 거 같이 확인해 보는 걸로 하자오 생모들의 포토 오버레이 3포도 엄청 개선이 되는 효과를 볼 수 있습니다. &gt;&gt; 파이팅! &gt;&gt; 스 다녀오실 분? &gt;&gt; [박수] &gt;&gt; 까꿍. 가자. &gt;&gt; 안녕하세요. 오늘 쑥 단열 SK 하이닉스의 연기 있는 주인공. 어느 부서에 누구이신가요? 저는 비램 PPT에서 업무하고 있는 김른 TL이라고 합니다. &gt;&gt; 같은 팀에서 이제 업무하고 [음악] 있는 정진화 TL입니다.
+
+- **[[뉴스룸] SK하이닉스, 2026년 대학생 앰버서더 발대식 개최…“미래 인재의 시각으로 반도체 기술 가치 알린다”](https://www.youtube.com/watch?v=mknuYs0Ifco)** — 2026-03-23 · ko · `unclassified`
+  [음악] SK 하이닉스가 지난 20일 대학생 엠버서더 발대식을 열었습니다. [음악] 수많은 지원자 가운데 선발된 20명의 엠버서더는 오늘 10월까지 [음악] 약 7개월간 자신만의 시선과 언어로 SK하이니스의 비전과 가치를 전파할 예정입니다. 지난해 [음악] 첫 출범한 대학생 엠버서는 올해도 반도체 기술과 회사 소식을 전달하는 소통 창구 역할을 할 것으로 기대됩니다. &gt;&gt; 세계적인 글로벌 1등 기업 SK 하이닉스에서 대학생 엠버서더를 맡게 되어서 굉장히 기쁘고 설레는 것 같습니다.
+
+- **[[2026 The Leaders] Device Tech Solution 손윤익 부사장](https://www.youtube.com/watch?v=tI9YPyh5Zjo)** — 2026-03-22 · ko · `unclassified`
+  [음악] 안녕하세요. 저는 미래 기술 연구원에서 디바이스 테크 솔루션을 담당하고 있는 손유닉입니다. 저희 조직은 디램랜드 전반에 걸친 핵심 페리 트랜지스터 기술 개발과 고성능, 고품질, 완성도 있는 제품 경쟁력을 위해서 다양한 설계에서 쓸 수 있는 PDK, 다양한 소자도 제공하고 디자인도 제공하고 설계를 할 수 있는 디자인 인풋 솔루션을 제공하는 역할을 하고 있습니다. 그리고 저희 조직에 좀 특별한 팀이 하나 있는데요. 겨울에 정전기 경험해 보신 적 있으시죠?
+
+- **[[하이포커스 ON GTC 2026] SK하이닉스가 말하는 AI 메모리 미래](https://www.youtube.com/watch?v=ZUTjUwer8hc)** — 2026-03-20 · ko · `unclassified`
+  [음악] 세계인의 기술 혁신을 주도하는 GTC 2026 기술의 미래를 설계하는 장에서 최첨단 AI 메모리를 선보이는 SK하이닉스의 모습을 생생하게 담았습니다. SK하이닉스 부스는 Spotlight on AI MOR를 콘셉트로 세 가지 존으로 구성되어 [음악] 있습니다. 비디아 협업 존에서는 양사가 협업준인 HBM, Soc 2, ESSD 등 실제 AI 인프라에서 중요한 제품들을 직접 확인할 수 있습니다. [음악] 포트폴리오 존에서는 주요 제품들을 조이스틱으로 [음악] 직접 선택해 관련 정보를 쉽게 살펴볼 수 있었습니다.
+
+- **[[2026 The Leaders] 미래기술연구원 VG TD 장경철 부사장](https://www.youtube.com/watch?v=c2RddGpjrnY)** — 2026-03-16 · ko · `unclassified`
+  [음악] 안녕하세요. 미래 기술 연구와 장경철입니다. 디램 연구는 현재 2D 디램에서 VG 3D 디램으로 넘어가는 변곡점에 있는데요. 어 VG테크는 기존과 완전 다른 그 셀의 구조를 이용해서 성능 개선을 이끌어낼 수 있습니다.이를 이를 통해 어 메모리 용량도 늘리고 저전력 고속 동지학이 모두 가능한 플랫폼으로 기대하고 있습니다. [음악] 제가 대학원 신입생이었던 2000년부터 지금까지 디바이스라는 한우물을 계속 파왔습니다. 20대에 제가 했던 결심은 디바이스 전문가를 넘어서서 종합 반도체인이 되는 것이었는데요.
+
+- **[[2026 상반기 채용] SK하이닉스가 찾는 사람 | 세상을 바꾸는 기술의 여정에 함께할 사람](https://www.youtube.com/watch?v=Z0n8zgFHIRA)** — 2026-03-16 · ko · `unclassified`
+  SK 하이닉스가 찾는 사람 잘 들어봐.이 [음악] 정도면 충분해. 그 말이 세상에서 제일 불편한 사람. 남들이 결승선이라 부르는 것을 [음악] 나는 또 다른 출발선으로 보는 사람. 끝까지 데이터와 숫자로 증명하고 혼자보다 함께할 때의 시너지를 믿는 사람. 기여히 [음악] 끝까지 찾아내는 사람. 누구의 지시도 아닌 스스로의 의지로 한계를 넘어서는 사람. 그래서 SK이닉스와 함께 세상을 바꾸는 기술을 함께 써내려갈 사람. 어때? 지금이 말을 듣고 가슴이 낀다면 당신이 바로 SK 하이닉스가 찾는 사람.
+
+- **["위기를 기회로 바꾼 원동력은 구성원들의 책임감 덕분이었습니다." DRAM 상품기획 담당의 하루 | 하이라이트 EP.8](https://www.youtube.com/watch?v=i7QIUJzadFQ)** — 2026-03-12 · ko · `unclassified`
+  최근 그 AI 중심의 시대가 되면서 뭐 메모리 센트릭이라는 단어가 유행하듯이 [음악] 디램이 모든 시스템에 중심이 될만큼 그 중요성이 굉장히 부각되고 있는게 현실입니다. SK 하이닉스에 [음악] 입사하고 나서 아시는 것처럼 굉장히 어려운 어 시계를 겪었습니다. 뭐 형광둔 한 살짝을 뺀다든지 또 무구 휴직도 많았었고요. 그럼에도 불구하고 그 당시 이제 구성원들이 책임감 하나로 일해 왔었던 [음악] 거 같고 발전에 근간이 되지 않았나 생각을 합니다. [음악] 전 SK 하이닉스 DLM 상품 계획을 맡고 있는 이상권 담당입니다
+
+- **[[2026 The Leaders] DRAM마케팅 박준덕 부사장](https://www.youtube.com/watch?v=QbYroHTjLWA)** — 2026-03-11 · ko · `unclassified`
+  [음악] 안녕하세요. 디램 마케팅 박준덕 담당입니다. 저희 디 마케팅은 다양한 시장 정보 마켓드 인텔리전스를 수집하여서 글로벌 시장과 고객들의 동향을 파악하고 그에 따른 최적의 판매 전략을 수립하는 역할을 수행하고 있습니다. 네. 제가 하이닉스에 입사한게 2005년입니다. 그니까 지금으로부터 한 20여년 전인데요. 좋은 분들을 만나서 많은 것들을 배울 수 있었고 회사와 함께 성장할 수 있었다고 생각합니다. 최근에 메모리 시장은 AI의 슈퍼사이클과 맞물려서 더 크게 성장하기 위한 도약을 눈앞에 두고 있습니다.
+
+- **[“고객과 시장을 읽는 사람들🌎 하이닉스 비즈니스 조직 이야기 | EP.5”](https://www.youtube.com/watch?v=nd56yDqZteM)** — 2026-02-25 · ko · `unclassified`
+  경영층분들 중에 한 분께서 직접 대명복을 한번 받아보고 싶다. &gt;&gt; 제 그때 지나가다가 봤어요. 까무잡한 애가 새아해져서 지나가더라고요. [음악] &gt;&gt; 안녕하세요. 저는 로봇공학 [음악] 박사 과정 중인 손건입니다. 로봇이 정규한 계산과 판단을 통해 움직이듯 글로벌 비즈니스 역시 [음악] 시장과 고객을 분석하고 정확한 전략을 세워 움직여야 앞으로 나갈 수 있습니다. 오늘은 SK 하이닉스에서 전 세계 고객과 시장을 분석하고 최적의 전략을 통해 회사의 [음악] 가치를 높여가는 글로벌 세일즈 비즈니스 분석 조직의 전문가들을 만나보려 합니다.
+
+- **[슈퍼 모멘텀 Ep.1 | SK하이닉스를 만든 슈퍼 모멘텀을 말하다](https://www.youtube.com/watch?v=iX17GjAaTTg)** — 2026-02-09 · ko · `unclassified`
+  안녕하세요. 장예인입니다. 대한민국을 넘어 글로벌 산업을 움직이는 수많은 기업들 중 여러분이 가장 관심 있게 지켜보고 있는 기업은 무엇인가요? 아마 많은 분들이 SK 하이닉스를 꼽을 거 같은데요. 본격적으로 도래한 AI 시대, HBM에 대한 수요가 폭발적으로 증가하면서 SK 하이닉스는 2025년 역대 최고 기록을 경신, 또 경신했습니다. 모든 성공 서사가 그렇듯 바깥에 우리는 그 빛나는 결과만 마주할뿐 그 과정에서의 힘듦이나 수고로움까지는 모두 알지 못하죠. 그래서 많은 분들이 궁금해할 SK 하이넥스의 히스토리와 비하인드 스토리가 한 권의 책으로 묶여 세상에 나왔습니다
+
+- **[슈퍼 모멘텀 Ep.2 | 언더독에서 AI시대의 중심까지. SK하이닉스를 만든 슈퍼 모멘텀](https://www.youtube.com/watch?v=TMmnc4RIe6k)** — 2026-02-09 · ko · `unclassified`
+  자, 그리고 이어지는 세 번째 키워드 스피릿입니다. SK 인수되기 이전 하이닉스는 회사의 존폐가 흔들리는 고난의 시기를 무려 10년이나 버텨낸 역사가 있습니다. 그러면서 하이닉스 DNA라는게 생겼다고 하죠. 하이닉스 DNA 구체적으로 이게 뭔가요? 최태현회장이 하이닉스를 인수할 때 하이닉스의 야성을 어 SK 그룹에 심고 싶었다라고 이렇게 회고하시더라고요. 실제 어 인수 후에 하이닉스에 이제 100명의 임원들과 어 1대일 면담 후에 그 야성을 재확인했다라고 표현을 하시기도 했는데요. 어가 봤더니 화장실의 실제 독하게라고 쓰였다는 거예요.
+
+- **["경청과 소통없인 목표를 달성할 수 없어요" Edge Computing마케팅 팀장의 하루 | 하이라이트 EP.7 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=nrBcIekkj94)** — 2026-02-03 · ko · `unclassified`
+  지금은 AI로 시장이 이동하는 중요한 시기이고요. 시장 상황이 [음악] 아주 급격하게 변하고 있는 상황이라 전사 협업 마인드가 점점 중요해지고 있습니다. 지금은 [음악] SK 하니스가 아주 중요한 변곡점에 있습니다. 저는 SK 하이니스 디 [음악] 마케팅 모바일 컨슈머 마케팅 팀을 이끌고 있는 이육제 팀장입니다. 저는 매일 5시 30분경 [음악] 일어나서 6시 12분 지하철을 사고요. 7시 30분경 사무실에 도착을 해서 15분에서 [음악] 20분 정도 목서를 하면서 하루를 시작합니다.
+
+- **[SK하이닉스 14년차, 일·가정·자기관리 이야기 | EP.4 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=X5XYn4NksL4)** — 2026-01-20 · ko · `unclassified`
+  바뀌고 나서 대박 사건 하나 있었지. 대원이가 [음악] &gt;&gt; 신입사원 대표로 &gt;&gt; 회장님한테 배지 받았잖아. 행복날개 배지. &gt;&gt; 회장님이랑 만날 일이 잘 없는데 또 그걸 그렇게 배지를 받은 건 진짜 큰 일이다. 어 배지 금인가? [웃음] [음악] 안녕하세요. 저는 로봇 공학 박사 과정 중인 손건입니다. 로봇이 정교한 하드웨어 설교와 알고리즘으로 움직이듯 반도체 역시 설계와 피라는 긴 과정을 통해 비로소 하나의 집으로 완성됩니다.
+
+- **[오전엔 반도체 셋업 💻 퇴근 후엔 필드 질주?! 🏈 엔지니어 반전 라이프 | 슼 다녀오겠습니다 | EP.3](https://www.youtube.com/watch?v=CXHe6MoLg8g)** — 2026-01-13 · ko · `unclassified`
+  지금 정상적으로 달려 있는 걸 확인해서 일단 무조건 100만 원 목표로 가겠습니다. 도전. 오 [음악] &gt;&gt; 강한 파워로 하기 때문에 &gt;&gt; 오케이. 저건 주에 요청을 했었는데 도 &gt;&gt; 이후에 이제이 장비를 유지보수하고 개조하는 업무도 진행을 같이 [음악] 하고 있습니다. &gt;&gt; 승 &gt;&gt; 슈팩스하는 정신으로 점진적 과보하는 삶 생활했으면 좋겠습니다. 쓱 다녀오실 분? [음악] &gt;&gt; 안녕하세요. SK 하이닉에서 용기 있는 주인공 어느 부서예요. 누구신가요?
+
+- **[협업 속에서 변화를 만들어가는 SK하이닉스 DRAM AE 기술개발 담당의 하루 | 하이라이트 EP.6 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=kL09x91czVI)** — 2026-01-06 · ko · `unclassified`
+  [음악] AI 시대. 메모리는 그 어느 때보다 복잡하고 역동적인 변화를 맞이하고 있습니다. 고객은 다양해졌고 제품은 끊임없이 새롭게 등장합니다. 우리는 그 변화를 따라가는 사람이 아니라 먼저 답을 제시할 수 있는 사람이 되어야 합니다. 이런 작은 생각이 사람을 모으고 함께 모인 사람들이 작은 변화를 만들고 그 작은 변화가 모여 SK 하이닉스의 미래를 더 단단하게 만든다고 믿습니다. &gt;&gt; 안녕하세요. SK 하이닉스 디램 개발 부문에서 A 기술 개발 담당을 맡고 있는 정해가입니다.
+
+- **[Agent 660, 출동!](https://www.youtube.com/watch?v=0i8EOW_IdpA)** — 2025-12-26 · en · `unclassified`
+  Who are you? Huh? Bonding. He's bonding. [Music] Fore! [Music] [Applause] [Music] [Applause] Heat! [Music] Heat. Heat.
+
+- **[[뉴스룸] SK하이닉스, AI 휴머노이드 캐릭터 '하빔이' 탄생...코드네임 '에이전트 660 하임스 본딩'으로 임무 본격화](https://www.youtube.com/watch?v=iYdoCnb6f6g)** — 2025-12-26 · ko · `unclassified`
+  SK 하이닉스가 HBM을 모티브로 한 캐릭터 합비를 선보였습니다. AI 서비스의 일상화로 반도체 기술의 존재감이 더욱 커진 가운데이를 쉽고 친근하게 전달하기 위해 기획된 캐릭터입니다. 하비미는 HBM 칩이 탑재된 AI 휴머노이드라는 설정을 갖고 있으며 SK 하이닉스가 세계 최초로 HBM을 개발한 2013년을 탄생 연도로 삼고 새로운 기술을 탐색하는 기업 정신을 반영해 호기신 많은 성격을 지녔습니다. 특히 눈에 띄는 점은 하비가 브랜드를 상징하는 캐릭터 역할을 넘어 SK 하이닉스의 비전과 가치를 전파하는 인무를 수행할 때는 SK 하이닉스 BI6 소속 유원인 에이전트 660 하임스 본딩이라는 또 다른 모습으로 전환된다는 점입니다
+
+- **[“24시간 멈추지 않는 하이닉스의 심장💥 제조기술 엔지니어 이야기 | EP.3” (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=gcOnzPK8DvY)** — 2025-12-18 · ko · `unclassified`
+  어쨌든 제주 기술이 올해 좀 심장 같은게 아닌가 약간 이런 생각을 좀 할 때 좀 &gt;&gt; 심장 &gt;&gt; 오 약간 오글 [웃음] &gt;&gt; 안녕하세요. 저는 대학에서 로봇 공학 박사 과정을 밟고 있는 손건이라고 합니다. 제가 연구하는 분야와 마찬가지로 반도체 산업 역시 기술의 극치를 실현하는 곳이죠. 어 여보세요. 어 명 어 다왔어요. 바로 앞 올라갈게. &gt;&gt; 오늘은 밀하고 복잡한 시스템으로 가득한 현장의 최전선에서 밤낮 없이 움직이는 SK하이닉스 제조 기술 엔지니어들을 만나보려 합니다.
+
+- **[[뉴스룸] HE·DE·마스터·명장 한 자리에… SK하이닉스 ‘2026 기술전문가 임명식’ 개최](https://www.youtube.com/watch?v=h1sFLS1HyFU)** — 2025-12-16 · ko · `unclassified`
+  SK [음악] 하이닉스가 지난 15일 2천 캠퍼스에서 2026 기술 전문가 임명식을 대했습니다. [음악] 이번 임명식은 반도체 핵심 기술 분야에서 전문성을 인정받은 구성원에게 [음악] 기술 전문가로서의 사명감을 높이고 회사의 기술 중심 성장 체계를 강화하기 위해 마련됐습니다. SK 하이닉스는 직책이나 나이 [음악] 관계없이 기술 역량을 기반으로 성장할 수 있도록 기술 전문가 제도를 회사의 고유 코리어 패스로 운영하고 [음악] 있습니다. 먼저 D는 축적된 전문성으로 기술 고등학인 난재 해결에 기여한 엔지니어를 의미합니다.
+
+- **[[DECODE AI 7편] 최재붕 교수가 알려주는 AI 시대, 대한민국의 생존 전략](https://www.youtube.com/watch?v=SUdr5LUYHxI)** — 2025-12-10 · ko · `unclassified`
+  [음악] 안녕하세요. 성균관대학교 최재봉 교수입니다. 오늘은 AI 시대를 맞아 변화하고 있는 인류 AI 사피엔스에 [음악] 대한 이야기와 AI 사피엔스 시대에 어떻게 대응하면 좋을지에 대해서 한번 말씀드려 보고자 합니다. 지금까지 인류 문명은 끊임없이 기술 발전을 이어오며 수차례의 산업 혁명을 통해 변화를 만들어 왔습니다. 그리고 30여년 전 마지막 산업 혁명급 변화는 [음악] 인터넷이었죠. 그리고 엄청난 돈이 모이면서 일종의 버블 경제를 만들었는데요. 이것이 [음악] 2000년대 전 세계를 강타했던 닷컴버블입니다.
+
+- **[제로베이스부터 시작하는 게 체질인 SK하이닉스 부사장의 하루 | 하이라이트 EP.5 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=ZJ_RancdSDk)** — 2025-12-02 · ko · `unclassified`
+  모르는 길을 가지만 어디로 [음악] 가야 할지는 압니다. 멀리 돌아갈 수도 있겠지만 목적지까지는 [음악] 무조건 갈 겁니다. 거기 도착하면 또 어떤 시작이 [음악] 있을까요? 저는 [음악] 보통 6시에서 7시 반 사이에 주로 출근을 하고 있습니다. [음악] 제가 신입사원 때부터 아침형 인간이라서 보통 한 5시에 일어나서 한 6시 정도에 집에서 나오거나 하는게 계속 습관이 돼서이 사회 생활을 쭉 하면서 그 습관이 [음악] 지금까지 이어지고 있는 거라고 생각하고 있어요.
+
+- **[[뉴스룸] SK하이닉스, 먹는 반도체 출시...반도체 콘셉트 스낵 'HBM 칩스(Chips)' 선보여](https://www.youtube.com/watch?v=PoMzMBkunE4)** — 2025-11-26 · ko · `unclassified`
+  SK 하이닉스가 26일 편의점 7일과 손잡고 반도체 콘셉트의 스냅 HBM 칩스를 출시했습니다. HBM 칩스는 허니바나맛 과자의 줄입말로 [음악] SK 하이닉스가 선도하고 있는 AI 메모리 HBM과 반도체 칩을 제품 미름에 제치 있게 담아냈습니다.이 이 제품은 [음악] 반도체 칩을 닮은 사각형 형태로 옥수수에 허니바나만 초콜릿이 스며 있어 씹을수록 향과 맛이 진하게 퍼지는 것이 특징입니다. 출시 인형 [음악] 이벤트도 눈기를 급니다. 과자 속 스티커 카드 뒷면에 1년 번호로 응모하면 추첨을 [음악] 통해 1등 당첨자에게 금 열분이 주어지고 이밖에도 푸짐한 경품이 마련되 있습니다
+
+- **[허니바나나맛 HBM CHIPS 출시 !](https://www.youtube.com/watch?v=YDbzeA7n0o8)** — 2025-11-25 · ko · `unclassified`
+  많이 들어오셨네요. &gt;&gt; 지난 2013년 SK 하이닉스는 세상을 놀라게 한 역사적인 메모리칩 HBM을 선보였습니다. 대단하지 않습니까? 그로부터 12년이 지난 오늘 저는 또 한번 세상을 놀라게 할 칩을 여러분께 소개합니다. 혀크까지 한 번에 관통하는 맛에 TSV를 구현하여 기존의 칩보다 수십배 넓은 고대역 폭의 풍미를 선사합니다. 자, 소개합니다. 허니 바나나만 HBM. 헤버 메이크업 바니 바나나맛. HBM스.
+
+- **[SK AI Summit 2025: SK hynix Presents Vision to Become a “Full-Stack AI Memory Creator”](https://www.youtube.com/watch?v=wjTTodkeAOw)** — 2025-11-20 · ko · `unclassified`
+  [음악] SK 하이닉스가 지난 3일부터 이틀간 [음악] 서울 코엑스에서 열린 SKAI 서밋 2025에 참가했습니다.이 이 행사는 글로벌 AI 전문가와 산업 관계자들이 [음악] 무여 AI 기술의 현재와 미래 그리고 산업 전반의 활용 방안을 논의하는 국내 최대 규모의 AI 행사로 [음악] 올해는 AI 나우 넥스트를 주제로 개최되어 SK 최태원 회장 SK [음악] 하이닉스 광로정 대표 이사장 SK텔레콤 정재헌 대표 이사장을 비롯해 다양한 글로벌 빅테크 리더들이 [음악] 대거 참여해 AI 생태의 협력 방향을 공유했습니다
+
+- **[[Analyst Interview | 한국투자증권 채민숙 위원] 과거와 다른 메모리 Cycle, 다음 도약을 위한 Catalyst는?](https://www.youtube.com/watch?v=w6b8_cSG_6o)** — 2025-11-20 · ko · `unclassified`
+  빠른 판단력하고 [음악] 실행력 깊은 파트너십 프리미엄 리더십을 또 한번 뛰어넘을 수 있을 것인지 3분기 실적 예상대로 굉장히 잘 나왔고요. 매분기 최대 실적을 경신을 해 왔기 때문에이 [음악] 부분을 또 한번 뛰어넘을 수 있을 것인지 이런 우려가 있었는데요. 그 이상으로 잘해줬던 3분기 실적이라고 평가를 하고 있습니다. HBM [음악] 기저가 워낙 높다 보니까 시장에서 물량이 더 늘어날 수 있을 것인지에 우려가 있었는데 그런 우려를 불식시킬만큼 [음악] HBM에서 호실적이 나와 준 부분 긍정적이라고 평가를 하고 있습니다
+
+- **[AI 시대에 청소년이 노는 법 (feat. 행복 AI 스터디랩)](https://www.youtube.com/watch?v=lpsi7LDJpy8)** — 2025-11-19 · ko · `unclassified`
+  너무 재밌는데. 오 &gt;&gt; 청소년대에 상상하는 모든 것을 실현할 수 있습니다. &gt;&gt; 오 진짜 감각 있어. &gt;&gt; 완성 크게. 오 [웃음] &gt;&gt; 딴딴 &gt;&gt; 안녕하세요. &gt;&gt; 저희는 SK 하이닉스 대학생 엠버서더 수인 &gt;&gt; 승현 &gt;&gt; 유림입니다. &gt;&gt; 저희가 오늘 찾아온 이곳 행복 AI 스터디 랩인데요.이 &gt;&gt; 안에서 이제 AI를 직접 보고 체험하고 즐길 수 있는 공간이 있다고 합니다. AI를 이끄는 선두 주자인 SK 하이닉스가 어떻게 공간을 조성해 놨는지 또 참신하고 재밌는 발상들을 저희가 직접 체험해 보려고 하는데요.
+
+- **[[DECODE AI] 황철성 교수가 알려주는 AI를 혁신할 ‘뉴로모픽 반도체’](https://www.youtube.com/watch?v=qKJx8U0LedE)** — 2025-11-18 · ko · `unclassified`
+  [음악] 예, 안녕하세요. 저는 서울대학교 지료공학부에서 학생들을 가르치는 황철성 교수입니다. 오늘은 AI의 발전 과정과 AI의 한계를 넘어설 미래 반도체 뉴로멀픽 프로세스에 관해서 이야기를 나눠 보겠습니다. 현재 우리가 사용하고 있는 AI 기술의 핵심은 인공신경망인데요. 인간의 사고 회로를 모방한 인공신경망 덕분에 지금의 AI를 구현할 수 있었습니다. 사실 인공 신경망이라는 개념은 1950년대 처음 등장을 했었는데 당시에는 그 여러 가지 미비한 기술력 때문에 유의미한 성과를 얻지는 못했었습니다. [음악] 기술이 발전하면서 다양한 성과가 나타나기 시작했습니다.
+
+- **[고객의 무대에서 완벽을 증명한다 [AE] | N잡러 EP.7 (feat. 댓글이벤트)](https://www.youtube.com/watch?v=Ks4kCxn7p-M)** — 2025-11-18 · ko · `unclassified`
+  [음악] 안녕하세요. 럭키비키 7대 엔잠러 SK 하이닉스 대학생 엠버서더 이림 &gt;&gt; 김경태입니다. 어 이유아 &gt;&gt; 응 &gt;&gt; 너 엔 처음 나오지 않아? 맞아. 처음이야. 사실 내가 엄청 조금 긴장을 하고 왔어. 나는 이게 비전공자란 말이지. 그래서 중간엔 솔직히 조금 무슨 얘기지하고 자꾸 &gt;&gt; 어려울 수 있어. 어. &gt;&gt; 그래서 우리가 이거 찍는 이유도 있지. [음악] 왜?이 SK 하니스의 관심을 가진 시즌이 얼마나 많은데 그분들이이 직무 하나을 어떻게 다해야겠어?
+
+- **[하이닉스 5년차의 청주 라이프😎 퇴근 후 진짜 토크 | 부거니 받거니 EP.2 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=yn1zL6m0vEM)** — 2025-11-18 · ko · `unclassified`
+  형 근데 좀 이상하다. 뭐 산업 스파이처럼 이렇게 너무 자세하게 물어보는데. &gt;&gt; 아니 아니 이렇게 만났을 때 물어봐야지 사실 이렇게 내부 사람들 얘기를들을 기회가 없잖아. 2천도 만난다 그러는 거보 &gt;&gt; 좀 이상한데 &gt;&gt; 약간 &gt;&gt; 우리끼리의 비밀로 하는 걸로서 [음악] &gt;&gt; 오늘 누구 만나러 간다고? &gt;&gt; 아 오늘 북원이 형이라고 내가 진짜 좋아하는 형 있거든. 같이 보면 좋을 것 같아. 여기 어딘데? 이건가 보다. &gt;&gt; 아, 여기다. [음악] 저번에 왔던 데거든.
+
+- **[[뉴스룸] 25-26 핸드볼 H리그 박진감 넘치는 개막전 현장 속으로! (with SK하이닉스 대학생 앰버서더)](https://www.youtube.com/watch?v=FXs9upqc1jo)** — 2025-11-17 · ko · `unclassified`
+  [음악] 들리시나요? 뜨거운 함성 소리가 들리시나요? [음악] &gt;&gt; 박진감 넘치는 경기로 팬들을 가슴 한 핸드볼 H리그가 세 시즌을 맞이했습니다. &gt;&gt; 와! &gt;&gt; 어느덧 H리그가 3년 차를 [음악] 맞이했는데요. 그만큼 더 많은 팬들로 가득찬 현장 보이시나요? &gt;&gt; 그래서 그런지 팬들을 위한 많은 이벤트가 [음악] 준비되어 있다고 합니다. &gt;&gt; 그럼 우리도 경기 보러 가야죠? 코 고고 [음악] &gt;&gt; 다이나믹하고 빠르고 막감이는 [음악] 재밌는 경기라 생각합니다. &gt;&gt; 재밌는 공연이나 이런 것들도 많아서 &gt;&gt; 처음봤는데 생각보다 [음악] 재밌고 신났어요.
+
+- **[[세미의 시대 2편] 당신이 사랑하는 존재가 로봇이라면?](https://www.youtube.com/watch?v=5X46eUcM1YU)** — 2025-11-14 · ko · `AX`
+  마치 영화속 장면처럼 점점 인간을 닮아가는 로봇 휴먼노이드. 움직임과 언어 그리고 감정까지 경계가 흐려질수록 우리는 스스로에게 묻게 됩니다. 만약 당신이 사랑하는 존재가 휴먼노이드라면 그 사랑을 받아들일 수 있을까요? 사랑에 빠질만큼 인간을 닮은 그들은 과연 언제쯤 우리 앞에 나타날까요? [음악] 우리는 이미 로봇과 밀접한 관계 속에 살고 있습니다. 국제로봇 연맹 IFR에 따르면 [음악] 2023년 전 세계 산업 로봇 가동 대수는 428만 대. 역사상 최다 기록입니다. 로봇 한대는 사람 3.3명의 업무를 대신합니다.
+
+- **[재밌는 거요? 어려운 문제요. 완벽에 끝없이 도전하는 SK하이닉스 부사장의 하루 | 하이라이트 EP.4 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=1iVW_HumDzY)** — 2025-11-13 · ko · `unclassified`
+  제 포커스는 언제나 한 곳을 향해 있었습니다. 한치에 오차도 없는 가장 완벽한 순간을 위해서 [음악] &gt;&gt; [음악] [음악] &gt;&gt; 회사 출근하기 전에 그 새벽은 저한테 온전히 주어진 시간이라고 생각합니다. 그래서 사무실 들어가기 전에 회사 수영장에서 수영을 합니다. &gt;&gt; 수영이 저하고 잘 맞는 거 같아요. 규칙적인고 페이스를 내가 조절할 수 있고 그리고 하고 나면 개운한 느낌 그래서 하루를 성하기 [음악] 시작하는 거 같아요. 체력 관리가 지금 저한테는 굉장히 중요한 거 같습니다.
+
+- **[SK하이닉스 대학생 앰버서더가 이천에 간 이유는??](https://www.youtube.com/watch?v=fvkHHSR-tO0)** — 2025-11-11 · ko · `unclassified`
+  [음악] 안녕하세요. 저희는 SK하이닉스 대학생 엠버서 정성준 그리고 &gt;&gt; 강민입니다. 요즘에 날씨도 많이 선선해지고 그러면서 나들이 가시는 분들이 굉장히 많으신 거 같은데요. 그래서 저희가 오늘 준비한게 있죠? &gt;&gt; 저희가 오늘 바로 준비한 것은 두구두구두구두구두구 &gt;&gt; 2천에서 함께하는 SK하이닉스 [음악] 투어입니다. &gt;&gt; 아니 근데 2000에서 하면 2,000 투어지 왜 SK 하이닉스 투어인가요? 음, 사실 2,000에 이제 SK하이닉스가 있다는 걸 모르시는 분은 아마 없으실 것 같은데요. [음악] 사실 그렇다고 해서 우리가 여기서 그냥 반도체만 만드느냐?
+
+- **[[SK AI Summit 2025] SK hynix, New Vision & New Technology in AI Era](https://www.youtube.com/watch?v=SMK821CEfOI)** — 2025-11-11 · ko · `unclassified`
+  위대한 탄생은 아무것도 없는 곳에서 시작됩니다. [음악] 미래는 우리의 손에서 우리가 만든 기술로 찾아왔습니다. [음악] 우리의 미래는 기억을 저장하는 시대를지나 AI 시대를 이끌고 세상을 움직이는 힘이 되었습니다. [음악] [음악] &gt;&gt; 이제 SKI 닉스는 또 하나의 문을 여다. [음악] 모두가 향하는 새로운 미래의 모델. [음악] 지금과 미래를 잇는 새로운 여정의 시작. SK하이닉스. [박수] &gt;&gt; 네. 안녕하십니까? SK하이니스 CEO 광노정입니다. 동영상 잘 보셨습니까? 메모리라는 씨앗으로 AI의 싹을 띄우고 그 안에서 새로운 시대를 준비하는 SK 하이닉스의 모습을 그려봤습니다
+
+- **[갈테야테야 '반도체 계약학과' 갈테야🏃‍♂️🎓 [고려대학교 반도체공학과] (feat.댓글이벤트)](https://www.youtube.com/watch?v=-L6LW1ZzWCY)** — 2025-11-10 · ko · `unclassified`
+  체험 연계형 조건을 가지고 학생들이 입학 되고요. 학비가 전액 지원이 되고 있습니다. &gt;&gt; 난 이게 제일 부러운 거 같은데. 가서 공부만 [음악] 열심히 하고 딱 돌아오면 되는 거 &gt;&gt; 얼마나 좋았어요. [웃음] &gt;&gt; 진짜 좋았어요. 저 &gt;&gt; 안녕하세요. SK 하이닉스 대학생 엠버서더 김동환입니다. 와 여기 정말 익숙한 배경이죠. 바로 아남. 호랑이들의 기운이 느껴지는 고려대학교 앞에 나와 있습니다. 오늘의 엠바고는 여기서 특별한 체험을 준비했는데요. 혼자 가는 건 아니고 제가 [음악] 친구를 기다리고 있거든요.
+
+- **[[뉴스룸] SK하이닉스, 'SK AI Summit 2025'서 풀 스택 AI 메모리 크리에이터(Full Stack AI Memory Creator) 비전 제시](https://www.youtube.com/watch?v=dTziRgVyvkA)** — 2025-11-05 · ko · `unclassified`
+  [음악] SK 하이닉스가 지난 3일부터 이틀간 [음악] 서울 코엑스에서 열린 SK AI 서밋 2025에 참가했습니다.이 이 행사는 글로벌 AI 전문가와 산업 관계자들이 [음악] 무여 AI 기술의 현재와 미래 그리고 산업 전반의 활용 방안을 논의하는 국내 최대 규모의 AI 행사로 [음악] 올해는 AI 나우 넥스트를 주제로 개최되어 SK 최태원 회장 SK [음악] 하이닉스 광로정 대표 이사장 SK텔레콤 정재헌 대표 이사장을 비롯해 다양한 글로벌 빅테크 리더들이 [음악] 대거 참여해 AI 생태의 협력 방향을 공유했습니다
+
+- **[[뉴스룸] SK하이닉스 김우현 부사장 ‘제8회 회계의 날 기념식’서 산업포장 수상](https://www.youtube.com/watch?v=nl7ouD-GTHg)** — 2025-11-02 · ko · `unclassified`
+  지난달 [음악] 31일 제8을 회계의 날 기념식에서 SK 하이닉스 재무단방당 김무현 부사장이 [음악] 산업부장을 수상했습니다.이 이 행사는 매년 금융위원회가 주최하며 회계 [음악] 투명성 제고와 건전한 회계 문화 확산에 기여한 유공자들을 호상하는 자리로 김현 부사장은 기업의 최고 [음악] 재무 책임자로서 국제 회계 기준을 충실히 이행하고 내부 회계 관리 체계를 강화한 국로를 인정받아 산업 포장을 수상했습니다. 또한 AI와 [음악] RPA 등 혁신 기술을 회계 관리 시스템에 도입해 신뢰성과 투명성을 높이고 [음악] 글로벌 기준에 부합하는 재무 혁신을 이끌었습니다
+
+- **[오전엔 업무 풀가동 💻 퇴근후엔 캠핑까지?!🏕️ 워킹맘 완벽 밸런스 라이프 | 슼 다녀오겠습니다 EP.2](https://www.youtube.com/watch?v=KMNmPjHlM48)** — 2025-10-31 · ko · `unclassified`
+  [음악] 아, 저요 집에서는 조금 더 다장합니다. [웃음] 얘들아, 엄마가 한우 쏜다. [음악] 가자. &gt;&gt; 167을 토어에서 좀 직접적으로 얘기해 주실 수 있으면은 그걸 반영해서 냄들랑 소통할 수 있는 거잖아요. 앤 &gt;&gt; 엄마 회사가 쏟는 거야? 네. 아, 이렇게 &gt;&gt; 저도 노력할 거고 항상 감사하고요. &gt;&gt; 어, &gt;&gt; 스녀오신 분 &gt;&gt; 다녀오신 분. [음악] &gt;&gt; [음악] &gt;&gt; 안녕하세요. 오늘 쓱 다녀올 SK 하이닉스의 주인공 어느 부사의 누구신가요?
+
+- **[SK하이닉스 앰버서더, 내돈내산 반도체 여행기✈️](https://www.youtube.com/watch?v=j3NpvbHiBLc)** — 2025-10-29 · ko · `unclassified`
+  안녕하세요. 저는 SK하이닉스 대학생 엠버서더 강수현입니다. 여러분들 여기가 어딘지 아시나요? 바로 대만인데요. 반도체 강국이라고도 잘 알려져 있습니다. 제가 이번 여행에 온 목적은 바로 대만 반도체 산업의 심장부라고 불리는 신축 과학 단지와 TSMC 박물관을 방문해 볼 예정입니다. 가슴이 진짜 설래요. 저는 진짜 여행보다 이런게 더 뭔가 재밌는 거 같습니다. 그래서 이번 영상을 통해서이 대만이 세계 반도체 시장에서 어떤 이상을 갖고 있고 어떤 역할을 하는지 그리고 SK 하이닉스와 TSMC가 어떻게 전략적으로 관계를 맺고 있는지에 대해서 무겁지 않고 딱딱하지 않고 쉽게 설명해 보는 영상을 가져보려고 합니다.
+
+- **['맛잘알' 앰버서더, SK하이닉스 비원 카페테리아 평가하러 왔다!🧐(feat. 쿠킹클래스🍪)](https://www.youtube.com/watch?v=xBX59KeUTRQ)** — 2025-10-28 · ko · `unclassified`
+  [음악] 안녕하세요. 저희는 SK하인스 대학생 엠버서더 수인 수준입니다. &gt;&gt; 네. 오늘은 저희 SK 하이닉스 이렇게 분당 캠퍼스 앞에 와 봤는데요. 저희가 오늘 되게 알려지지 않고 조심스럽지만 신비로운 그런 곳에 한번 간다고 하거든요. &gt;&gt; 그럼 저희 엠버서가 또 빠질 수 없죠. &gt;&gt; 비원 그런 이름이었던 거 같아요. 근데 그곳 가기 전에 4층으로 누군가 부르셨다고 합니다. 한번가 보실까요? 가보실까요? 갑시다. [음악] &gt;&gt; 안녕하세요. 웰컴이크 준비해 &gt;&gt; 드릴게요. 감사합니다.
+
+- **[[뉴스룸] SK하이닉스, '제24회 이천쌀문화축제'서 AI 반도체 체험존 운영](https://www.youtube.com/watch?v=4t13aq1OsAI)** — 2025-10-27 · ko · `unclassified`
+  [음악] SK 하이닉스가 2천 지역의 대표 가을 축제 [음악] 제24회 2천살 문화 축제에 참여했습니다. 2천살 문화 축제는 지역 특상물인 [음악] 2천살을 주제로 농경문화 체험과 전통 공연, 향토 음식 등 다양한 프로그램이 펼쳐지는 이천의 대표 가을 축제입니다. [음악] 이번 행사에서 SK 하이닉스는 산업의 살 반도체 콘셉트 아래 꾸며진 2,00암대 비밀 반도체 [음악] 체험존을 통해 산업의살이라 불리는 반도체가 가진 세계 최고 수준의 기술 여권 2,000살의 명성을 [음악] 접목해 첨단 기술과 전통이어진 체험 콘텐츠를 선보였습니다
+
+- **[‘최초공개’ 여동생을 위한 M16 EUV Fab Tour! / 세상에서 가장 따뜻한 반도체 강의, 세따반 EP.3](https://www.youtube.com/watch?v=VP-WOCoptyA)** — 2025-10-27 · ko · `unclassified`
+  어 네. &gt;&gt; 네. &gt;&gt; 안녕하세요. 안녕하십니까? 어 이번 25년도 상반기 신입 구성원을 입사하게 된 딜램 DUV 노토 기술 팀의 김동현 티이라고 합니다. [음악] 프로그램에 취지가 마음에 들었고 저도 한번 출연해서 회사 생활을 보여 드리고 싶어 가지고 지원하게 되었습니다. 오늘 강렬할 대상은 제 여동생입니다. [음악] 어릴 때에는 동생하고 막 놀이에서 뛰어놀고 자전거 타고 놀고 했었는데 커가면서 좀 대화도 자연스럽게 조금씩 줄여야 되는 거 같기도 하고 동생도 지금 이공계 대학교로 다니고 있고 반도체 엔지니어의 꿈을 갖고 있는데 앞으로 취업 준비를 하면서 반도체 엔지니어의 꿈에 한 발짝 더 다가갈 수 있는 발판이 [음악] 되었으면 좋겠습니다
+
+- **[42 and What's NEXT](https://www.youtube.com/watch?v=rpmUKAh1Z0w)** — 2025-10-24 · ko · `unclassified`
+  [음악] 이것은 우리이 작은 사각형에 담긴 우주. 먼지 한 돌 하락되지 않는 [음악] 그 공간에서 우리는 빛으로 선을 그었습니다. 그 선은 곧 길이 되고 그 길은 [음악] 우리의 역사가 되었습니다. 42회 묻고 [음악] 또 묻습니다. 더 작고 더 빠르고 더 많이 [음악] 그리고 더 적게 우리는 반도체를 [음악] 만듭니다. 실패를 기록하고 가능성을 저장하며 [음악] 어제의 실수를 내일의 표준으로 바꿉니다. [음악] 세상이 더 큰 질문을 던질수록 우리는 더 생하게 준비합니다.
+
+- **[[BORN TO BE] 1. Wafer Manufacturing](https://www.youtube.com/watch?v=ib0NVESgQEg)** — 2025-10-24 · ko · `unclassified`
+  안녕. 나는 반도체야. &gt;&gt; 반도체? 그냥 모래 같은데. &gt;&gt; 잘 봐. 순도 높은 모래 속으로 쭉 들어가면 실리콘을 찾아낼 수 있어.이 실리콘을 뜨거운 열로 녹이고 길게 쭉 뽑아 올리면 &gt;&gt; 우와 기둥이 됐어. &gt;&gt; 이게 바로 인곳 실리콘 기둥이야. 신기하지? &gt;&gt; 오 반짝반짝해. &gt;&gt; 이제 이걸 얇게. 아주 얇게 잘라내고 표면을 거울처럼 매끄럽게 다듬어. 흠집 팔아 없이 말이야. &gt;&gt; 어, 이거 TV에서 봤어. &gt;&gt; 맞아. 이렇게 만들어진게 바로 웨이퍼야. &gt;&gt; 아, 웨이퍼.
+
+- **[[BORN TO BE] 2. Oxidation](https://www.youtube.com/watch?v=5HHwZN-Y6U4)** — 2025-10-24 · ko · `unclassified`
+  [음악] 응. 지금 뭘 뿌리는 거야? &gt;&gt; 뿌리는게 아니라 입는 거야. &gt;&gt; 입는다고? 옷 같은 건가? &gt;&gt; 그냥 옷은 아니고 내 몸을 감싸 주는 아주 얇은 막이야. 이산화 규소로 이루어져 있는데 높은 온도에서 산소나 수증기랑 반응해서 만들어져 일종의 보호막이라고 할까? &gt;&gt; 보호막. &gt;&gt; 응. 오염이나 불필요한 전류 흐름으로부터 지켜주는 보험. 습식산화는 수증기로 빠르고 두껍게. 건식 산화는 산소 기체로 얇고 정밀하게. 맞다. 특별한 기체로 감싸는 라디칼 사라도 있어.
+
+- **[[BORN TO BE] 3. Photolithography](https://www.youtube.com/watch?v=U_FMnB0dZB4)** — 2025-10-24 · ko · `unclassified`
+  눈 부셔. 저 빛은 뭐야? &gt;&gt; 앞으로 내가 어떤 일을 할지 밑그림을 그려주는 빛이야. [음악] &gt;&gt; 밑 그림? 뭘 그리는 건데? &gt;&gt; 이게 바로 포토봉. 내 몸에 회로 패턴을 새기 위한 작업이야. &gt;&gt; 어떻게 그려? &gt;&gt; 먼저 [음악] 표면에 포토 레지스트라는 감광액을 아주 얇게 발라. 빛을 받으면 성질이 변하는 물질이지. [음악] 그다음엔 포토마스크가 올라와. 마치 스텐실처럼 빛이 통과할 [음악] 부분과 막을 부분을 나눠 주는 거야. &gt;&gt; 어, 그림자놀리 같아. &gt;&gt; 하하.
+
+- **[[BORN TO BE] 4. Etching](https://www.youtube.com/watch?v=R-xFQTxm47Q)** — 2025-10-24 · ko · `unclassified`
+  자, 이제 내 몸에 새긴 회로 패턴을 정확하게 깎아낼 차례야. &gt;&gt; 깎는다고? 뭘로? 설마 칼을 대는 거야? &gt;&gt; 칼은 아니야. 원하는 부분만 남기고 필요 없는 부분은 녹이거나 깎아서 없애는 거야. 이걸 애칭이라고 해. &gt;&gt; 마술 같아. &gt;&gt; 애천트라는 액체로 녹이면 습식. 웨이퍼를 담갔다가 건지는 방식이라 넓은 면적을 한 번에 빠르지? &gt;&gt; 우와 신기하다. &gt;&gt; 하지만 액체는 사방으로 퍼지잖아. 그래서 미세하고 정교한 작업을 할 때에는 &gt;&gt; 할 때는 &gt;&gt; 건식계층을 하지.
+
+- **[[BORN TO BE] 5. Deposition & Ion Implantation](https://www.youtube.com/watch?v=IWZ8bnI01Ps)** — 2025-10-24 · ko · `unclassified`
+  응. 이번엔 또 다른 걸 입고 있네. &gt;&gt; 맞아. 내 몸 위에 방막이라는 얇은 막을 입히는 중이야. &gt;&gt; 방막 그게 필요해? &gt;&gt; 음. 나는 반 도체니깐 전기가 잘 흐르거나 반대로 막아주는 특별한 능력이 필요해. 그래서 필요한 위치에 나노미터 두께로 얇게 코팅하는 거야. &gt;&gt; 그렇게 얇은 걸 어떻게 쏴? &gt;&gt; 방법이 몇 가지 있어. 먼저 CVD는 여러 기체를 반응시켜 눈송이처럼 쌓는 방식. PVD는 금속을 미세한 입자로 변화시켜 스프레이처럼 뿌려서 코팅하지.
+
+- **[[BORN TO BE] 6. Metallization](https://www.youtube.com/watch?v=DxWIV7t8ZJ4)** — 2025-10-24 · ko · `unclassified`
+  자, 이제 연결을 해 볼까? &gt;&gt; 연결. 무슨 연결? &gt;&gt; 전기 연결. 소자들이 제대로 작동할 수 있도록 신호와 전력이 이동하는 길을 만드는 거야. &gt;&gt; 오, 전기의 도로를 만드는 거구나. &gt;&gt; 비슷해. 예전엔 알루미늄을 썼는데 요즘은 구리를 많이 써. 전기가 훨씬 잘 통하거든. &gt;&gt; 그냥 깔면 되는 거야? 아니, 그냥 깔면 금속길이 엉켜서 전기가 엉뚱한 대로 흐를 수 있어. 길 사이사이 저렴박도 세워주고 길이 아닌 다른 곳으로 흘러가지 않도록 포장지까지 깔아주면 그럼 딱 도로처럼 길만 남지.
+
+- **[[BORN TO BE] 7. Testing](https://www.youtube.com/watch?v=L7gYFfeK0ZM)** — 2025-10-24 · ko · `unclassified`
+  [음악] 여기는 뭐 하는 곳이야? &gt;&gt; 집중해야 해. 이제 시험을 볼 거거든. &gt;&gt; 어, 방금 뭐가 지나갔어? &gt;&gt; 휴. 1단계 통과. 이렇게 열심히 만들었는데 잘 작동하는지 확인은 해야겠지? &gt;&gt; 그렇지. 아무리 잘 만들어도 제대로 안 되면 꽝이니깐. &gt;&gt; 맞아. 그래서 전기 신호도 보내보고 뜨거운 곳에서도 차가운 곳에서도 압력도 견뎌고 이렇게 다양한 테스트 공정을 거쳐야 해. &gt;&gt; 어휴. 반도체 되기 힘드네. 근데 테스트를 통과 못 하면 &gt;&gt; 그럴 땐 살짝 고쳐서 다시 테스트를 해보기도 해.
+
+- **[[BORN TO BE] 8. Packaging](https://www.youtube.com/watch?v=yF1pWTdv2s0)** — 2025-10-24 · en · `unclassified`
+  forch. [music] &gt;&gt; [music] &gt;&gt; Good.
+
+- **[[뉴스룸] SK하이닉스, 2025 반도체대전(SEDEX) 참가...AI 시대를 이끄는 메모리 반도체 미래 비전 선보여](https://www.youtube.com/watch?v=UuQhU0xarW0)** — 2025-10-24 · ko · `unclassified`
+  안녕하세요. 2025 반도체 대전 세대 천장이 오신 걸 환영합니다. &gt;&gt; 와 국내 최대 반도체 전문 전시회인 제덱스에 SK 하이닉스가 특별한 공간을 마련했다고 하는데요. 이름하여 메모리 The future legacy of AI. &gt;&gt; 그럼 오늘 과연 어떤 전시가 저희를 기다려 볼지 한번 만나보러 가실까요? &gt;&gt; 좋아요. 가봅시다. &gt;&gt; 야. 야 저 HBM. HB &gt;&gt; HB 와보니까 진짜 하나의 뭔가 박물관 같아. &gt;&gt; 여기가 국립 중앙 박물관의 사유해방을 모티브로 만들어졌다고 하는데 뭔가 명상을 해야 될 거 같은 느낌이 좀 드는데 &gt;&gt; 한번 해 볼까?
+
+- **[[뉴스룸] SK하이닉스, '제18회 반도체의 날 기념식' 정부 포상 6관왕 영예](https://www.youtube.com/watch?v=VLQhB7V_dgA)** — 2025-10-23 · ko · `unclassified`
+  [음악] SK 하이닉스가 지난 20일 제18회 반도체의 날 기념식에서 반도체 산업 발전에 기여한 [음악] 공로를 인정받아 총 여섯 개의 포상을 수상했습니다. 반도체의 날 기념식은 산업 발전에 공원한 산악연 동사자들의 노고를 기리고 국가 산업 경쟁력 [음악] 강화를 다짐하기 위해 매년 10월 넷째 주에 열리는 행사입니다. 이번 시상식에서 광노정 대표 이상은 세계 최초 [음악] 후 HBM3 8단과 11단을 양산하고 차세대 HBM 샘플 공급을 주도하며 글로벌 기술 [음악] 리더십을 확립한 공로로 반도체 산업 발전 유공 등탑 산업 분장을 수상했습니다
+
+- **[SK하이닉스 대학생 앰버서더, 푸르메소셜팜 일일 봉사단이 되다!](https://www.youtube.com/watch?v=xiTUy98x69g)** — 2025-10-21 · ko · `unclassified`
+  [음악] [박수] [음악] 안녕하세요. 저희는 SK 하이닉스 대학생 엠버서더 승현 &gt;&gt; 유린 &gt;&gt; 경태입니다. 오늘은 여주시 지한 푸름의 소셜밤에 초대장을 맡고 왔는데요. 1일 봉사단으로서 어떤 일을 하게 될지 정말 기대가 됩니다. &gt;&gt; 그럼 저희 빠르게 이동해 볼까요? &gt;&gt; 좋습니다. &gt;&gt; 갑시다. 안녕하세. &gt;&gt; 반갑습니다. 소 여러분 기다리고습니다. 반갑습니다. 오늘은 봉사자분들에게 드리는 웰컴 키트입니다. 뭐요? &gt;&gt; 저희 1회 봉사인데 &gt;&gt; 봉사하러 왔는데 &gt;&gt; 감사합니다. &gt;&gt; 엄청 무거워. 감사 &gt;&gt; 저희도 환영합니다.
+
+- **[회사생활이 훈련소라고요?😳 하이닉스 연구원들의 솔직한 토크 | 부거니 받거니 EP.1](https://www.youtube.com/watch?v=MHnrMnOWkNw)** — 2025-10-14 · ko · `unclassified`
+  그래서 다른과 예를 들면은 화학과 물리학과 화학공학 엄청 많거든. &gt;&gt; 너 좀 그만 좀 먹어. &gt;&gt; 동생 얘기하는데 아 밥을 못 먹고 와 왔어. [음악] 안녕하세요. 저는 손건입니다. [음악] 저는 지금 대학원에서 기회공학을 전공하면서 로봇을 공부하고 있습니다. 제가 학업 생활이 길어지다 보니까 후배들이 먼저 사회로 진출을 했는데요. 오늘은 대학교 때 자주 오던 홍대 근처에서 친하게 지내던 동생과 술을 한 잔 하려고 합니다. [음악] &gt;&gt; 야 시절 얼마나 영어 또 늦죠?
+
+- **[반도체 개발을 완성하는 마지막 주자 [PE] | N잡러 EP.6 (feat.댓글 이벤트)](https://www.youtube.com/watch?v=2ghzgrqs94c)** — 2025-10-02 · ko · `unclassified`
+  [음악] 안녕하세요. 6대 엔잠러 &gt;&gt; SK 하이닉스 대학생 엠버서더 김동환 조기홍입니다. &gt;&gt; 드디어 드디어 드디어 제가 엔잠러 촬영에 왔습니다. &gt;&gt; 왜 이렇게 늦게 오셨어요? 내 앞에 다 팀이나 있을지 몰랐지. 너무 인기가 많다 보니까 이게 너무 화제가 되잖아. 유튜브에 올라가면 조회수가 그냥 10만가 훌쩍 넘어 버린다고. 이렇게 직무 체험을 할 수 있는 콘텐츠가 어디겠어? 오늘 우리가 웨이팅 마지 맨잠러로서 어떤 직무을 체험해 볼까?
+
+- **[SK하이닉스의 재테크 - 용인반도체클러스터](https://www.youtube.com/watch?v=z_1aUSIyvzo)** — 2025-10-01 · ko · `unclassified`
+  반도체 수출에서 벌어들인 달러로 땅을 126만 평인에 산 SK 하이닉스. &gt;&gt; 대체 뭘 하려고 그래? &gt;&gt; AI 반도체 키우려고. [음악] &gt;&gt; SK 하이닉스에게 제테크한 대한민국 AI 생태계를 다시 짓는 것. [음악] AI 반도체 전부를 거는 일로 대한민국 AI 생태에 투자합니다.
+
+- **[미래를 준비하는, #SK하이닉스 팀장의 하루 | 하이라이트 EP.3 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=PgZ91GSpmY4)** — 2025-09-30 · ko · `unclassified`
+  18년 전부터 저는 미래를 그렸습니다. 그때 그린 미래에 와 있는 지금 또 다른 10년 뒤에 미래를 준비하고 있죠. [음악] 아빠는 뭐 하는 사람이? 야라고 물어보면 저는 연구원 혹은 과학자라고 이야기합니다. 저는 6시 통버스를 타고 회사로 출근을 합니다. 음악을 들으면서 최대한 머릿속을 비우려고 노력합니다. 그러다 보면 달콤한 잠을 청하게 되죠. 오늘 SK 확술대회 발표 있는 날이죠? &gt;&gt; 아, 네. 반갑습니다. 안녕하세요. 좋은 아침입니다. SK 하이닉스에서 가장 먼 미래를 준비하고 있는 미래 기술 연구원 글로벌 RTC 김명섭 팀장입니다
+
+- **[[뉴스룸] AI를 활용한 시니어 Memory Care로 기억을 잇다, 지역을 잇다](https://www.youtube.com/watch?v=UXQANoaoBno)** — 2025-09-28 · ko · `unclassified`
+  [음악] SK 하이닉스가 실버랜드 사업의 AI 기술을 접목한 시니어 AI 메모리 티어 프로젝트를 진행했습니다.이 프로젝트는 시니어들이 본인의 스마트폰으로 AI 대화와 그림일기 서비스를 활용해 삶을 기록하고 정서적 안정을 돕는 동시에 자서전을 출관해서 지역사회의 소중한 유산을 남기는 것을 목표로 하고 있습니다. 국권 노인 종합 지원 센터와 함께 진행된 이번 프로젝트는 지난 7월부터 8월까지 두 달간 2천지역 시니어 130명을 대상으로 운영되었습니다. 어르신들은 스마트폰으로 AI와 대화도 나누고 그림일기를 작성하며 자서전까지 집필했습니다.
+
+- **[면접관님들도 고생하시는 것 같은데요?｜웰컴 투 C월드｜EP.3 미래기술연구원 차선용 원장(CTO)편](https://www.youtube.com/watch?v=v15OoiiOgf0)** — 2025-09-25 · ko · `unclassified`
+  [음악] 우리 가야 할 길이 너무 먼 거 같아요. &gt;&gt; 음. 다 할 수 있겠어요. &gt;&gt; 그니까 이렇게 할 수밖에 없어요. &gt;&gt; 허우. 아무리 그래도 그렇지 이거 너무 심해요. 이렇게 할 순 없어요. [음악] &gt;&gt; 꼭 이렇게 했어야 되는데. 구체적으로 어떤과 연계해서 &gt;&gt; 자세히 설명해 주시겠습니까? &gt;&gt; 물론 그게 다 풀리는 건 아니죠. [음악] &gt;&gt; 안녕하세요. &gt;&gt; 소개네. 안녕하세요. R앤D 공정 전략 김호남체이라고 합니다. &gt;&gt; 혹시 면접 직접가 보신 적 있으세요?
+
+## Waymo (88건)
+
+- **[Creating a New Mural in the Heart of Wynwood](https://www.youtube.com/watch?v=V5UBBgvrDmQ)** — 2026-06-13 · ko · `unclassified`
+  안녕하세요, 제 이름은 야나 파스코입니다. 저는 오초 9이라는 이름으로도 활동하고 있으며, 플로리다주 마이애미를 기반으로 활동하는 음악 아티스트입니다. 예술은 마이애미의 정체성이 되었습니다. 제가 제 작품(음악)을 통해 마이애미에 대한 애정을 표현하는 방식은 색채라고 할 수 있겠습니다. 왜냐하면 작품을 만들 때 가장 먼저 연결하려고 하는 것이 색채이기 때문입니다. 나는 하늘의 색깔이 너무 좋아. 저는 해변을 정말 좋아해요. 저는 아르데코 건축물의 색감을 정말 좋아해요 . 이 벽화의 제목은 [음악] Una Vuelta Miami입니다.
+
+- **[Because they're everything](https://www.youtube.com/watch?v=MbZcOpGDGtg)** — 2026-06-11 · ko · `unclassified`
+  매년 백만 명이 넘는 사람들이 자동차 사고로 부상을 입습니다 . 우리는 인간이니까요. 경이롭고 복잡한 인간들. 그래서 우리는 눈도 깜빡이지 않고, 피곤해하거나 화내지도 않고, 술에 취하지도 않는 드라이버를 만들었습니다 . 멀리 내다보고, 빠르게 생각하며, 신속하게 반응한다. 그렇게 하는 데 10년 이상이 걸렸습니다. 우리는 그것이 제대로 작동하는 것 이상의 것을 얻어야 했기 때문입니다 . 우리에겐 제대로 해낼 음악이 있었어요. 이제 웨이모 운전자는 사람보다 더 안전합니다. 통계적으로 우리가 서비스를 제공하는 도시들은 10배 더 안전합니다 .
+
+- **[A second life for EV batteries, clean energy for communities](https://www.youtube.com/watch?v=8NsK98zfGOs)** — 2026-06-04 · ko · `unclassified`
+  순환 경제는 우리에게 있어 단순한 열망이 아닙니다. 그것이 현실이 되어가고 있습니다. 저는 웨이모의 지속가능성 및 환경 책임자인 아담 랜스입니다 . 저희의 목표는 세계에서 가장 신뢰받는 운송업체가 되는 것이며, 지속 가능한 기업을 구축하는 것은 그 목표를 달성하는 데 있어 매우 중요한 부분입니다. 따라서 전기차 배터리와 같은 재료를 재활용하고 제품 수명 주기를 최대한 연장하는 것이 매우 중요합니다 . 웨이모에서 배터리를 분리한다고 해서 웨이모의 수명이 끝나는 것은 아닙니다.
+
+- **[The Comeback Star Lisa Kudrow talks Waymo, Valerie Cherish & season 3](https://www.youtube.com/watch?v=DTfR6OBTmD4)** — 2026-04-20 · ko · `unclassified`
+  안녕하세요, 저는 웨이모의 앤드류입니다. 저는 웨이모에서 배우들을 웨이모 차량 안에서 인터뷰하는 프로그램을 진행하고 있습니다. 알아요. 아, 그래요. 좋은. 좋아요, 알겠습니다. 자, 리사 씨, 제가 먼저 여쭤보고 싶은 건, 차량에 탑승하셨을 때 어떤 경험을 하셨는지입니다. 맞아요, 제인, 그러니까 로라 실버맨이 연기한 캐릭터 말이에요. 제인은 "오, 안 돼, 여기는 로봇들이 세상을 지배하는 곳이야"라고 생각해서 발조차 들여놓지 않으려고 하죠. 음, 그리고 발레리는 뭐든지 자세히 보지 않아요. [웃음] 그녀는 그냥 신경 안 써요.
+
+- **[Waymo’s Driven with Andrew Freund: S3 Episode 5 with Frankie Muniz](https://www.youtube.com/watch?v=_P5W74xgMIc)** — 2026-04-10 · ko · `unclassified`
+  오래전에 촬영을 마친 작품을 다시 할 때, 원작에 나왔던 배우가 누구였는지 정확히 확인하기 위해 원작을 다시 봐야 하나요? 음, 그러니까 촬영 재개 전에 조금 보긴 했는데, 아니, 말콤은 확실히 제 안에 깊이 자리 잡고 있는 것 같아요 . 전 그렇게 확신하진 않았거든요. 마치 " 아, 이제 알겠다"라고 생각한 건 아니었어요. 하지만 촬영장에 도착해서 첫 장면을 찍는 순간, 저는 '아, 큰일 났네'라는 생각이 들었어요. 좋아요. 제가 처리할게요 . 이건 쉬워요. 좋아요.
+
+- **[Waymo’s Driven with Andrew Freund: S3 Episode 4 with Michael Urie](https://www.youtube.com/watch?v=AuZ4VPnsjFs)** — 2026-04-06 · ko · `unclassified`
+  우리는 아무도 없는 차 안에 있어요. 원하는 만큼 큰 소리로 말해도 됩니다. 결국 하루가 끝나면 당신은 또 하루 나이를 먹는 것뿐이고, 가난한 사람들의 삶이란 그게 전부입니다. 저 배 갑판에 있던 그 남자에게 경의를 표합니다. 이민자 이방인에게 경의를 표합니다. Driven 시즌 3에 오신 것을 환영합니다. 이 인터뷰 시리즈는 목적지가 아닌, 그곳에 이르는 여정(음악)에 관한 이야기입니다. 좋아요, 그럼 [음악] 술 마시는 것에 대해 여쭤보고 싶은 게 있는데요, 제가 그 프로그램을 좋아하는 이유 중 하나가 마치 [음악] 따뜻한 포옹처럼 느껴지기 때문이에요.
+
+- **[Waymo’s Driven with Andrew Freund: S3 Episode 3 with Charithra Chandran](https://www.youtube.com/watch?v=-6diewrRFMg)** — 2026-03-12 · ko · `unclassified`
+  내 해적 이름은 뭐가 될까? 웨이 모 해적단의 선장이라고 말하는 게 지루할까요 ? 제가 가져갈게요. 여기요. 나는 웨이모 해적단의 선장이 될 거야. Driven 시즌 3에 오신 것을 환영합니다. 이 인터뷰 시리즈는 목적지가 아닌 , 그곳에 이르는 여정에 초점을 맞춥니다. 모든 게 다 놀라워요. 맙소사. 기분이 어떠세요? 첫 반응은? 마치 롤러코스터를 탄 것 같은 기분이었어요. 솔직히 말할게요. 네, 괜찮습니다. 이번 시즌은 저에게 일종의 장난 같은 느낌이네요 . 시즌 2에서는 어떤 내용을 볼 수 있을까요?
+
+- **[Waymo’s Driven with Andrew Freund: S3 Episode 2 with Piper Curda & Bobby Moynihan](https://www.youtube.com/watch?v=ALePU2v24ec)** — 2026-03-06 · ko · `unclassified`
+  우리는 운전자가 없는 차 안에 있습니다. 옳은. 우리는 원하는 만큼 큰 소리를 낼 수 있어요. 1 2 3 Driven 시즌 3에 오신 것을 환영합니다. [음악] 목적지가 아닌, 그곳에 이르는 여정에 관한 인터뷰 시리즈입니다. 바비, 웨이모에 타본 적 있어요? 저는 웨이모 차량에서 태어났습니다. 그러니까 버튼을 눌러야 해요. 저는 그러지 않았어요 . 그럼 버튼을 누르라는 뜻인가요 ? 버튼. 네, 버튼을 누르세요. 음, 뭐 괜찮아요. 응. 괜찮은. 좋아요, 제가 꼭 여쭤봐야겠어요.
+
+- **[Google DeepMind’s Anca Dragan on Safety, Agents and Waymo’s Growth | AI in Motion](https://www.youtube.com/watch?v=GwSl1OH1i4w)** — 2026-03-04 · ko · `AX`
+  음악 산업의 미래를 예측하는 데 있어서는 고려해야 할 사항이 많습니다. 모든 관계자들이 미래에 어떤 위치에 있을지, 그리고 당신의 활동과 함께 그 상황이 어떻게 변화할지 등등 말이죠 . 저는 하나의 [음악] 상태를 검증하는 것은 이것이 세상에 좋은 결과인지 판단하는 것보다 쉽다고 생각합니다. 그건 확실히 맞는 말이에요. 인공지능의 미래는 어떻게 될까요? 저는 웨이모의 저명한 엔지니어인 빈센트 반 누케입니다. 이번 새 시리즈에서는 인공지능의 발전과 웨이모와 같은 자율주행 차량이 인공지능과 어떻게 접목되는지 심층적으로 살펴보겠습니다
+
+- **[Waymo’s Driven with Andrew Freund: S3 Episode 1 with Mason Gooding](https://www.youtube.com/watch?v=xix-XsHUklI)** — 2026-02-26 · ko · `unclassified`
+  공포 영화에 출연해 본 사람으로서, 뭔가 잘못될 때면 사람들은 "왜 조사하는 거지? 그냥 떠나면 되잖아? 난 그냥 나갈래."라고 말하곤 해요. 나는 두 번이나 조사를 하다가 칼에 찔렸지만, 두 번 다 살아남았다. 그건 사실이에요. 번개는 세 번째로 절대 치지 않는다. 그건 사실이에요. Driven 시즌 3에 오신 것을 환영합니다. [음악] 이 인터뷰 시리즈는 목적지가 아닌, 그곳에 이르는 여정에 관한 이야기입니다. [음악] 제가 사람들에게 당신이 차로 오신다고 말했을 때, 사람들이 " 오"라고 반응했던 게 생각나네요.
+
+- **[Waymo & NVIDIA on their futures in autonomy | AI in Motion](https://www.youtube.com/watch?v=osMnHe8691Q)** — 2026-02-17 · ko · `AX`
+  우리는 자동차의 자율 주행을 위해 개발한 것과 동일한 지능을 우리 일상생활 곳곳에서 움직이는 시스템, 즉 인간이 절대 해서는 안 될 위험하고 일상적인 모든 일을 처리하는 시스템에 적용합니다 . [음악] 그렇죠? 그건 정말 흥미로운 일이에요. 왜냐하면 그렇게 되면 로봇과 지능형 시스템이 인류와 진정한 협력자가 될 수 있으니까요. 인공지능의 미래는 어떻게 될까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다. 이번 새 시리즈에서는 인공지능의 발전과 위모( Whimo)와 같은 자율주행 차량이 인공지능과 어떻게 접목되는지 심층적으로 살펴보겠습니다
+
+- **[Where could autonomous driving show up next? Matt Damon and Ben Affleck talk Waymo.](https://www.youtube.com/watch?v=odYncWKz7Xg)** — 2026-02-17 · en · `unclassified`
+  I also want to ask you if there's an epic car chase in this. I also host a show for Whimo in a Whimo. I want to know. Really? &gt;&gt; Yes. &gt;&gt; Oh, that's so cool. &gt;&gt; If you could program a Whimo to do like a great car. I will say the great stunt drivers are amazing. When I did the town, I really learned how precise and good they were.
+
+- **[Shelby Heinecke Tells Why Salesforce’s Massive Scale Takes AI Into Unexpected Places | AI in Motion](https://www.youtube.com/watch?v=ZgC6sVQSiY0)** — 2026-01-27 · ko · `AX`
+  실제로 드림포스에서는 에이전트 포스로 제어되는 로봇이 많이 있었습니다. 이제는 슬랙과 같은 도구를 사용하여 이러한 로봇들을 관리할 수 있습니다. 건설 전문가들을 상상해 보세요. 그들의 업무 중 위험한 부분들을 말이죠. 그들은 로봇의 도움을 받습니다 . [음악] 비전은 훨씬 더 클 수도 있습니다. 우리는 로봇이 기업에서 어떤 역할을 할 수 있을지 고민하고 있습니다. 인공지능의 미래는 어떻게 될까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다. 이번 새 시리즈에서는 인공지능의 발전과 위모( Whimo)와 같은 자율주행 차량이 인공지능과 어떻게 접목되는지 심층적으로 살펴보겠습니다
+
+- **[UC Berkeley Professor Ken Goldberg shapes the future of robotics | AI In Motion](https://www.youtube.com/watch?v=VooCuFTEIaw)** — 2026-01-15 · ko · `AX`
+  만약 음악으로 외과의사가 봉합 위치를 이해하고 겹쳐서 봉합하는 데 도움을 줄 수 있다면, 그것은 실제로 매우 유용한 일이 될 것입니다. 실제로 로봇이 [음악] 봉합 작업을 수행하도록 하는 것을 실험하고 있습니다. 제 생각에는 그건 SAM을 사용하지 않는 게 좋은 사례인 것 같습니다. 우리는 곧바로 물리적 실험으로 넘어갑니다. 인공지능의 미래는 어떻게 될까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다. 이번 새 시리즈에서는 인공지능의 발전과 위모( Whimo)와 같은 자율주행 차량이 음악과 어떻게 접목되는지 심층적으로 탐구합니다 .
+
+- **[Neuroscientist Greg Corrado Builds AI to Think Like Humans | AI in Motion](https://www.youtube.com/watch?v=HE8Xh4iP8yw)** — 2025-12-11 · ko · `AX`
+  제가 의료 분야에서 기술이나 인공지능을 연구하는 이유는, 그것이 기술이 인류에게 긍정적인 변화를 가져올 수 있는 가장 큰 기회 중 하나라고 생각하기 때문입니다. 인공지능의 미래는 어떻게 될까요? 저는 Whimo의 저명한 엔지니어인 Von Vanuk입니다. 이번 새 시리즈에서는 인공지능의 발전과 위모( Whimo)와 같은 자율주행 차량이 인공지능과 어떻게 접목되는지 심층적으로 살펴보겠습니다 . 그러니 저희와 함께 이 여정에 참여하시고, 앞으로 펼쳐질 모든 맛있는 목적지를 함께 경험해 보세요. 오늘 저와 함께하시는 분은 신경과학자이자 인공지능 연구원인 그렉입니다.
+
+- **[Robotics Startup Founder Sergey Levine is Building Robots for Your Home (and Work) | AI in Motion](https://www.youtube.com/watch?v=0CfMCOzmJZI)** — 2025-11-25 · ko · `AX`
+  규모가 정말 중요해질 겁니다. 음악 분야에서는 실제적이고 실용적인 배포에 점점 더 가까워져야 합니다. 그래야 훈련 데이터와 테스트 데이터가 일치하게 되고, 이것이 바로 우리가 효과가 있다고 알고 있는 음악 머신러닝의 공식입니다. 인공지능의 미래는 어떻게 될까요? 저는 웨이모의 저명한 엔지니어인 빈센트 반후케입니다 . 이번 새 시리즈에서는 인공지능의 발전과 웨이모와 같은 자율주행 차량이 인공지능과 어떻게 상호작용하는지 심층적으로 탐구합니다 . 저희와 함께 여정을 떠나시고, 눈앞에 펼쳐진 맛있는 음식들을 만끽하세요. 오늘은 세르게이와 커피를 마시러 갑니다.
+
+- **[A moment with Waymo | Where every ride offers a sweet escape](https://www.youtube.com/watch?v=t7suH1Qr6Pc)** — 2025-11-24 · ko · `unclassified`
+  이 모든 사람들. 엄마 아빠는 조용하시다. 더 이상 아이는 없어. 잘 가, 빌.
+
+- **[Waymo | AI in Motion](https://www.youtube.com/watch?v=z9ScFBgIphI)** — 2025-11-15 · ko · `unclassified`
+  인공지능의 미래는 무엇이며, 어떻게 하면 더 안전하게 만들 수 있을까요? 그리고 이러한 모든 발전을 활용하여 우리가 다니는 도로를 포함한 세상 전체를 어떻게 더 나은 곳으로 만들 수 있을까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다 . 제가 인생에서 가장 좋아하는 두 가지는 맛있는 커피 한 잔을 마시는 것과 인공지능에 대해 이야기하는 것입니다. 그러니 둘 다 해보고 그 과정에서 많은 것을 배워봅시다. 이번 새 시리즈에서는 오랜 친구들과 새로운 친구들과 이야기를 나눠봅니다.
+
+- **[Google’s Carolina Parada Discusses Advancements in Robotics AI | AI in Motion](https://www.youtube.com/watch?v=11WEL7sR1GA)** — 2025-11-11 · ko · `AX`
+  인공지능의 미래는 무엇이며, 어떻게 하면 더 안전하게 만들 수 있을까요? 그리고 이러한 모든 발전을 활용하여 우리가 다니는 도로를 포함한 세상 전체를 어떻게 더 나은 곳으로 만들 수 있을까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다 . 제가 인생에서 가장 좋아하는 두 가지는 맛있는 커피 한 잔을 마시는 것과 인공지능에 대해 이야기하는 것입니다. 그러니 둘 다 해보고 그 과정에서 많은 것을 배워봅시다. 이번 새 시리즈에서는 오랜 친구들과 새로운 친구들과 이야기를 나눠봅니다.
+
+- **[Podcaster Monica Padman talks epilepsy awareness on a Waymo ride](https://www.youtube.com/watch?v=hmgDtVI7Za8)** — 2025-11-06 · ko · `unclassified`
+  [음악] 버튼을 누르고 싶으세요? 아, 네. [웃음] 정말 놀랍네요. 이거 정말 멋지다, 모니카. 오늘 이렇게 함께해 주셔서 정말 기쁩니다 . 감사합니다. 그리고 우리는 간질을 앓고 있는 두 사람으로서 [음악] 간질에 대해 이야기할 수 있습니다 . 좋아요 . 그런 일은 얼마나 자주 일어날까요? 음, 사람들이 정확히 말하자면 그런 이야기를 더 자주 한다면 그런 일이 더 자주 일어날지도 모르겠네요 . 26번 문제에 대해 이야기해 볼까요? 진단을 받았을 당시 간질이 그렇게 흔한 질병이라고 생각하셨나요?
+
+- **[A moment with Waymo | A night ride turns into a core memory](https://www.youtube.com/watch?v=gH0Fo0PzMJE)** — 2025-10-09 · ko · `unclassified`
+  내가 널 4년 동안 못 볼 거라는 걸 방금 깨달았어 . 아니, 그게 다야. 중간 정류장을 추가하고 이제 집까지 모셔다 드리겠습니다. 무엇? 저는 시내 반대편에 살아요. 완료. 사피라, 당신은 지구 반대편으로 이사 가는군요 . 20분만 더 기다려주세요 . 제발. 좋아요. 좋아요. [음악] 너무 배고파.
+
+- **[Waymo Summer Internships](https://www.youtube.com/watch?v=x4Zd0pPRUFI)** — 2025-09-29 · ko · `unclassified`
+  [음악] 저는 항상 Whimo에서 일하고 싶었어요 . 처음 위모에 대해 알게 되고, 핸들이 저절로 돌아가는 영상을 본 날부터 "세상에, 정말 멋지다!"라고 생각했어요. 저는 교통 의 다음 단계를 위한 이러한 혁명에 동참하고 싶습니다 . 저는 현재 컴퓨터 비전 분야에서 다양한 주제 영역을 연구하는 박사 과정 학생입니다. 이미지 작업을 좋아하고 텍스트 작업은 그다지 좋아하지 않습니다. 컴퓨터 비전 연구에 관심이 있다면 현재 Whimo보다 더 흥미로운 곳은 없을 거라고 생각합니다.
+
+- **[Waymo’s Driven with Andrew Freund: S2 Episode 8 with Jesse McCartney](https://www.youtube.com/watch?v=hadl4WFrwfU)** — 2025-09-26 · ko · `unclassified`
+  발성 연습 방법 중 하나를 가르쳐 주세요 . 무슨 일을 하세요? 어떻게 하면 되나요 ? 저는 "잠깐만요"라고 말하는 걸 자주 해요 . 자, 그럼 Driven 시즌 2에 오신 것을 환영합니다. 자, 시작해 볼까요? 어서 타세요 . 드라이브하러 가요. 이제 마법의 버튼을 누를 차례입니다. 아, 이게 그거죠? 저는 처음이라서요. 괜찮은. 자, 시작해 볼까요 . 시작. 자, 시작해 볼까요 . 와, 당신은 미래에 와 있네요. 너무 멋지다. 와, 지퍼도 잘 열리네요.
+
+- **[Waymo’s Driven with Andrew Freund: S2 Episode 7 with Jay Pharoah & Joel McHale](https://www.youtube.com/watch?v=wE9tH1WyM40)** — 2025-09-08 · ko · `unclassified`
+  덴젤 워싱턴과 함께 여기에 있다니 정말 믿기지 않아요. 좋아요. 응. 응. 어느 정도는요. 있잖아요, 당신은 타겟에서 덴젤을 샀잖아요. 그게 당신이 얻은 결과입니다. 좋아요. 그게 당신이 얻은 결과입니다. 덴젤, 할인 받았네요. Driven 시즌 2에 오신 것을 환영합니다. 자, 시작해 볼까요? 어서 타세요 . 드라이브하러 가요. [음악] 고스트 라이드 더 휩의 정의를 찾아보면, 그냥 위모 사진일 뿐이에요. 정말 말도 안 돼. 응. 이건 말도 안 돼. 이건 말도 안 돼.
+
+- **[Riding with Waymo | During your ride](https://www.youtube.com/watch?v=pUjuofYsyow)** — 2025-08-21 · ko · `unclassified`
+  [음악] 탑승 중에는 차량 내 화면을 통해 여정을 실시간으로 확인할 수 있습니다. 목적지까지 예상 도착 시간과 이동 경로 등 탑승 관련 정보를 보여줍니다. 실시간으로 도움을 줄 수 있는 담당자와 상담하고 싶으시다면, '고객 지원팀에 전화하기' 버튼을 이용해 라이더 지원팀에 문의하세요 . 그들은 아주 친절해요. 어떤 이유로든 여행을 일시 중단하거나 일찍 종료해야 하는 경우, ' 정차' 버튼을 누르면 Whimo 운전자가 다음으로 가장 안전한 정차 장소를 찾아줍니다 . 화면을 사용하여 사용자 경험을 개인화할 수도 있습니다
+
+- **[Riding with Waymo | Getting into your car](https://www.youtube.com/watch?v=iCPvILzI1Lo)** — 2025-08-21 · ko · `unclassified`
+  [음악] 차량이 도착했을 때 쉽게 찾을 수 있도록 앱 내에서 맞춤형 차량 ID를 만들 수 있습니다. 마음에 드는 두 글자에 원하는 색상을 선택하세요 . 이니셜이든, 별명이든, 무엇이든 상관없습니다. 걱정 마세요, 저희는 판단하지 않을 거예요. 차량은 가장 가깝고 안전하며 편리한 정차 장소를 찾아 정차하도록 설계되어 있으며, 정차 준비가 완료되면 알려줍니다 . 차를 만나려면 조금 걸어가야 할 수도 있습니다 . 따라서 걷는 동안 앱이 픽업 장소까지 가는 올바른 방향을 안내해 줄 것입니다
+
+- **[Riding with Waymo | Hailing your trip](https://www.youtube.com/watch?v=NPuqXnagtCw)** — 2025-08-21 · ko · `unclassified`
+  [음악] 이제 앱을 다운로드하셨으니, 바로 이용하실 수 있습니다. 위모 차량을 이용하시려면 목적지만 알려주시면 됩니다. 저희가 자동으로 가장 안전한 픽업 및 하차 장소를 선택해 드립니다 . Whimo 차량을 호출하면 차량이 얼마나 멀리 있는지 실시간으로 확인할 수 있으며, 목적지까지 예상 도착 시간도 확인할 수 있습니다. 이 정보는 교통 상황 등 여러 요소를 고려하여 수시로 업데이트될 수 있습니다 . 핀을 조정하여 픽업 및 하차 위치를 수정할 수 있습니다. 파란색과 초록색 선은 위모(Whimo) 운전자가 안전하게 정차할 수 있는 위치를 보여줍니다.
+
+- **[Waymo | Spotify - Your Ride, Your Music](https://www.youtube.com/watch?v=-CA1zmP0LGY)** — 2025-08-12 · ko · `unclassified`
+  나도 돈이 없었어. 이제 새 돈이 생겼어요. 우울함을 느껴서 팔찌나 시계, 현금, 아니면 내 머리 손질해주는 여자나 포주에게서 뭔가를 사 왔지. 원하세요?
+
+- **[BOFFUM by Saweetie featuring Waymo Teaser](https://www.youtube.com/watch?v=qGzN9JFvet8)** — 2025-08-01 · ko · `unclassified`
+  스테이크 드실래요, 아니면 새우 드실래요? 둘 다 운동선수예요. 둘 다 필요해요. 나보고 둘 다 가져오라고 하지 마세요. 이걸 원해요. 난 그걸 원해. 저 개자식들 둘 다 갖고 싶어 . 예쁜 요리네요.
+
+- **[Waymo's Driven with Andrew Freund: S2 Episode 5 with Allison Williams from M3GAN 2.0](https://www.youtube.com/watch?v=bSDL_gaYACs)** — 2025-06-23 · ko · `unclassified`
+  메건에게서 전화가 올 예정인데, 당신과 이야기하고 싶어해요. 잠깐만 기다려 주세요. 안녕하세요. 네, 저도 앤드류 의견에 동의합니다. 네, 스피커폰으로 바꿔드릴게요. 좋아요. 안녕하세요, 메건. 안녕하세요, 앤드류. 안녕하세요, 리무진입니다. 안녕하세요, 메건. 왜 앨리슨을 인터뷰하는 거죠? 이 영화의 진짜 주인공은 나야. 있잖아, 그거 알아? 그 정도면 충분해요. 이제 그만하세요. 안녕히 가세요. 안녕히 가세요. 안녕히 가세요. 안녕히 가세요. Driven 시즌 2에 오신 것을 환영합니다. 새해를 맞아 새로운 게스트가 출연합니다. 자, 어서 타세요. 드라이브하러 가요.
+
+- **[Waymo's Driven with Andrew Freund: S2 Episode 4 with June Squibb from Eleanor the Great](https://www.youtube.com/watch?v=JYydf-hbM3I)** — 2025-05-13 · ko · `unclassified`
+  세월이 흐르면서 남자에 대해 무엇을 배우셨나요 ? 나는 남자들을 좋아했다. 응. 응. 같은. 나는 괜찮아. Driven 시즌 2에 오신 것을 환영합니다. 새해를 맞아 새로운 게스트들이 등장합니다. 자, 어서 타세요. 드라이브하러 가요. June Squib님, Driven에 오신 것을 환영합니다. 감사합니다 . 자, 이제 여러분은 아주 신나는 일을 할 차례입니다. 이제 마법의 버튼을 누를 차례입니다. 라이딩을 시작하세요. 네, 6월이 출발합니다 . 자, 시작해 볼까요 . 6월. 6월, 우리가 미래에 있는 건가요?
+
+- **[Waymo's Driven with Andrew Freund: S2 Episode 3 with Wyatt Russell from The New Avengers and Broke](https://www.youtube.com/watch?v=bvV9cxJheNk)** — 2025-05-07 · ko · `unclassified`
+  가발을 못 써봐서 질투나는 거야? 그 영화에 나오는 가발들이 너무 멋지거든요. 음, 어디 보자. 누가 가발을 쓰고 있죠? 어, 세바스찬. 세바스찬은 가발을 쓰지 않았습니다. 잠깐, 저건 진짜 머리카락이 아니잖아. 저건 그의 진짜 머리카락이에요. 무엇? 내가 질투했냐고요? 응. 아니요. Driven 시즌 2에 오신 것을 환영합니다. 새해, 새로운 게스트들이 함께합니다. 자, 어서 타세요. 드라이브하러 가요. 첫 번째 위모에 오신 것을 환영합니다. 미친. 이게 바로 마법의 버튼인가요? 저게 바로 마법의 버튼이에요. 괜찮은.
+
+- **[Waymo's Driven with Andrew Freund: S2 Episode 2 with Connor Tomlinson from Love on the Spectrum](https://www.youtube.com/watch?v=XAt88iXgM7I)** — 2025-04-10 · en · `unclassified`
+  I think he has a girlfriend, but he's not telling me. I think it's just it's a secret, but I think he's got a girlfriend. Look at you. Trying to spoil the show, Andrew. Nothing. He's nothing. You can't get anything past this kid. Nothing. Welcome to Driven season 2. New year, new guests. So, come on, hop in. Let's go for a ride. [Music] Oh, you brought gifts.
+
+- **[Experience the New Normal: Safe For Everyone](https://www.youtube.com/watch?v=0VQbqQDrx9E)** — 2025-03-21 · ko · `unclassified`
+  저는 지금 최대한 빨리 걸어오고 있어요. 네, 안타깝네요. 제 실수입니다. 오, 제 차가 방금 한 남자를 구했어요. 정말 정신없었어. 응. 아니요, 절대 그렇지 않아요.
+
+- **[Experience the New Normal: The First Time](https://www.youtube.com/watch?v=YAVrfVORQws)** — 2025-02-13 · ko · `unclassified`
+  어, 여기 누가 있지? 저게 뭐야? 저게 뭐야? 내 안전벨트 여기 있어. 알았어, 알았어. 고마워. [음악] 됐어. 이제 됐어. 차가 스스로 운전하고 있어. 괜찮아. 스스로 운전하고 있어. 스스로 운전하고 있어. 어떻게 한 거야? 마법인가? 아니, 아니. 사방에 센서가 달려있어. 어떻게 된 거지? 멋지다, 그렇지? [음악] 맞아. 정말 믿기지 않아.
+
+- **[Waymo's Driven with Andrew Freund: S2 Episode 1 with O’Shea Jackson Jr](https://www.youtube.com/watch?v=XeP3DczBi4s)** — 2025-01-14 · ko · `unclassified`
+  아이스 큐브에 대해 한 가지 확실한 건, 그는 모두의 아빠 같다는 거죠. 제 아빠이기도 하고요. 백인 유대인 남성이죠. 네, 제 아빠입니다. ' 드리프트' 시즌 2에 오신 걸 환영합니다. 새해를 맞아 새로운 게스트들이 함께합니다. 자, 어서 타세요. 신나는 드라이브로 떠나볼까요? 준비됐나요? 음, 여기 사람이 있네요. 아니, 저 혼자입니다. 준비됐나요? 네, 네. 자, 이제 신나게 즐겨봅시다! 자, 이제 새 영화가 개봉하는데, 다이아몬드에 대해 뭔가 배운 게 있나요? 영화에 다이아몬드가 많이 나오잖아요.
+
+- **[Kesha x WAYMO - JOYRIDE Teaser](https://www.youtube.com/watch?v=Pae9KwuCyo0)** — 2024-11-21 · ko · `unclassified`
+  안녕하세요, 제가 가는 거 아시죠? 아스팔트 구간은 단 6분 거리입니다.
+
+- **[Waymo One is now open to all in Los Angeles](https://www.youtube.com/watch?v=SAg9jI9EnvM)** — 2024-11-12 · ko · `unclassified`
+  [음악] 감사합니다 [음악]
+
+- **[Behind the Innovation: AI & ML at Waymo](https://www.youtube.com/watch?v=dtMMW0kTXIE)** — 2024-10-31 · ko · `AX`
+  [음악] 생성형 AI 분야에서 현실 세계를 탐색하는 사업을 하는 회사는 극히 드뭅니다. Willo의 목표는 세계에서 가장 신뢰받는 운전자가 되는 것입니다. 이는 회사 와 팀으로서 도로 안전을 재정의할 수 있는 기회입니다. 자율 주행에는 실제로 두 가지 주요 과제가 있습니다. 첫째는 현실 세계의 복잡성과 엣지 케이스의 복잡성을 처리할 수 있는 시스템을 구축하는 것이고, 둘째는 이 시스템의 성능을 평가하고 검증하여 대규모로 배포하는 것입니다. 세계 모델을 구축하려면 보행자, 자전거 운전자, 차량, 신호등 등 인간의 행동을 모델링할 수 있어야 합니다.
+
+- **[Painting Murals in Austin with Steffi Lynn and Waymo](https://www.youtube.com/watch?v=nh8KrfXlG5k)** — 2024-10-22 · ko · `unclassified`
+  [음악] 안녕하세요, 저는 스테피 린입니다. 텍사스 오스틴 출신의 벽화 작가이자 일러스트레이터로 활동하고 있어요. 제가 예술가로서 가장 좋아하는 점은 문제 해결과 어려움을 극복하는 것이죠. 이 벽화를 그리게 된 영감은 제가 이곳에서 자라면서 자연과 도시 곳곳의 다양한 풍경을 너무나 사랑했기 때문이에요. 저는 이 벽화를 밝고 대담하고 눈길을 사로잡는 작품으로 만들고 싶었어요. 사람들이 지나갈 때 오스틴의 다채로운 색깔을 떠올리며 상쾌한 기분을 느낄 수 있도록 말이죠. 벽화에서 제가 가장 좋아하는 부분은 거울 주변의 주사위예요.
+
+- **[Waymo's Driven with ‪Andrew Freund: Episode 5 with Darren Criss](https://www.youtube.com/watch?v=UPBVIwYYBqo)** — 2024-09-06 · ko · `unclassified`
+  우리가 서로 안 지 벌써 이렇게 됐네. 세상에, 기억나? 우리 6살도 안 되어 보이는데. 넌 그때 미국의 트윙크였고, 글리가 대박 나면서 전 세계의 트윙크가 됐지. 정말 고마워. 드라이브에 온 걸 환영해. 목적지가 아니라 그곳에 가는 여정에 관한 새로운 종류의 토크쇼야. 모, 네가 날 사랑할 방법은 없어. 미래는 바로 지금이야. 우리는 지금 자율주행차 안에 있어. 아주 첨단 기술이 적용됐지. 넌 곧 기술을 주제로 한 브로드웨이 뮤지컬 프로젝트에 참여할 거야.
+
+- **[Waymo's Driven with Andrew Freund: Episode 4 with Zedd](https://www.youtube.com/watch?v=fXwN7xcgU7s)** — 2024-08-30 · ko · `unclassified`
+  제프 버클리를 이 앨범에 참여시키고 싶은데, 혹시 지금은 고인이 된 다른 아티스트들에게도 연락해 보고 싶으신가요? 제 꿈은 퀸과 함께 작업하는 거예요. 프레디 머큐리는 역대 최고의 가수라고 생각하는데, 언젠가 그의 목소리와 함께 작업할 수 있다면 정말 환상적일 거예요. 정말 간절히 바라는 일이죠. 새로운 유형의 토크쇼, '드라이브드'에 오신 것을 환영합니다. 목적지가 아닌 그곳에 이르는 여정에 관한 쇼죠. 자, 제드, '드라이브드'에 오신 것을 환영합니다. 이제 당신에게 최고의 미션을 드리겠습니다. 버튼을 누르세요! 기대되면서도 조금은 두렵네요.
+
+- **[Waymo's Driven with Andrew Freund: Episode 3 with the men of Emily in Paris](https://www.youtube.com/watch?v=yvsvCmuRU-c)** — 2024-08-19 · ko · `unclassified`
+  에밀리는 왜 항상 삼각관계에 얽혀 있는 걸까요? 왜 그냥 결정을 못 내리는 거죠? 친구 사이니까요. 아, 그렇군요. 두 분 다 프랑스인이시니까 그런 건가요? 전 최대한 복잡하게 만들려고 노력해요. 새로운 스타일의 토크쇼, '드라이브드'에 오신 걸 환영합니다. 목적지가 아니라 그곳에 가는 여정에 관한 쇼죠. 누가 버튼을 누르시겠어요? 저요. 잠깐만요, 먼저 안아드릴게요. 자, 이제 시작해 볼까요? 준비되셨나요? 파리에는 이런 게 없잖아요. 아, 그렇군요. 맞아요. 그런데 이거 제 쇼에 대한 아이디어가 떠오르네요.
+
+- **[Waymo's Driven with ‪Andrew Freund: Episode 2 with Sapphira Cristál](https://www.youtube.com/watch?v=6LpIVQKpOz8)** — 2024-08-13 · ko · `unclassified`
+  이 차 이름을 뭐라고 지을까요? 어, 이 웨이오 샤팟 TWA라고 지을까요? 왜 샤팟 TWA냐고요? 음, 그냥 이 이름이 너무 좋아요. 정말 멋진 이름 아닌가요? 샤팟 TWA라니! 이제부터 모든 웨이오를 샤팟 TWA라고 부를 거예요. 새로운 종류의 토크쇼, 드라이브에 오신 것을 환영합니다. 목적지가 아니라 그곳에 가는 여정에 관한 토크쇼죠. 저는 진행자 앤드류입니다. 드라이브에 함께 가볼까요? (음악) 이 차는 스스로 운전하지만 문은 열어주지 않네요. 사피라입니다. 드라이브에 오신 것을 환영합니다. 안녕하세요. 마법의 버튼을 눌러보세요.
+
+- **[Waymo's Driven with Andrew Freund: Episode 1 with Dinah Jane](https://www.youtube.com/watch?v=hwGqxLh0_kM)** — 2024-08-08 · ko · `unclassified`
+  이거 진짜 멋지다! 죄송해요, 앞에 아무도 없다는 걸 말씀드리려고 했는데. 우리는 '덜 여행하는 길 '로 가고 있어요. 네, 아, 무슨 말인지 알겠어요. 드라이브에 오신 걸 환영합니다. 목적지가 아니라 그곳에 가는 여정에 관한 새로운 종류의 토크쇼죠. 저는 진행자 앤드류 프레이입니다. 드라이브 갈래요? 어머, 제가 데리러 갈게요. 곧 만나요. 안녕하세요, 안녕하세요! 세상에, 너무 신나요! 디노 제인, 드라이브에 오신 걸 환영합니다. 감사합니다. 드라이브, 초대해 주셔서 감사합니다. 자, 시작해 볼까요? 좋아요, 드라이브 재개! 가자!
+
+- **[The Future is Now](https://www.youtube.com/watch?v=0kJPDg207oc)** — 2024-07-22 · ko · `unclassified`
+  [음악] 드디어 로봇들이 오고 있어. [음악] 안녕 에이버리. 음, 어쩌면 좋은 일일지도 몰라. 그녀가 뭐라고 했지? 뭐라고? 난 20분 전부터 완전히 준비됐었어. 이제 우린 [ 음악] 플레이어에 연결됐어. 로봇이 너보다 운전을 더 잘해, 자기야. 누가 운전을 잘해?
+
+- **[Waymo One: Now open to everyone in San Francisco](https://www.youtube.com/watch?v=pE9DF5_k3ZY)** — 2024-06-25 · en · `unclassified`
+  everybody everybody everybody everybody everybody everybody everybody everybody everybody everybody
+
+- **[Introducing our newest feature: Grandma mode](https://www.youtube.com/watch?v=8OOLZVw9ANs)** — 2024-04-01 · ko · `unclassified`
+  [음악] 할머니 모드 발동! 얘야, 안전벨트 꼭 매렴. 안전 제일! 배고파 보이네. 뭐 좀 먹어야겠다. 어머, 저 아름다운 정원 좀 봐. 정말 멋지구나. 초코 우유 마실래? 걱정하지 마, 얘야. 눈 좀 쉬게 해. 네가 아주 어렸을 때부터 내가 운전대를 잡았거든. 수백만 마일을 달렸지. 정말이야, 얘야. 모든 거 챙겼는지 다시 한번 확인하고, 즐거운 [음악] 하루 보내렴.
+
+- **[SXSW 2024 | Waymo’s Roadmap for a Multi-City AV Service](https://www.youtube.com/watch?v=Qot1uX2g9jk)** — 2024-03-25 · ko · `unclassified`
+  로리 시걸과 테케드라 마와카나를 무대 위로 모시겠습니다. 오늘 이렇게 여러분과 함께하게 되어 정말 기쁘고, 여러분이 하고 있는 모든 일에 대해 들을 수 있어서 행복합니다 . 간단한 시청자 설문조사. 여기 계신 분들 중에 웨이모를 타보신 분이 몇 분이나 되시나요 ? 오. 우와. 정말 멋지네요. 그리고 무엇이 어디에 있나요? 몇 개만 꼽아 보세요. 샌프란시스코죠. 좋아요. 좋아요. 좋아요, 이 사람들은 상황을 잘 아는 사람들이네요 . 몇 명이나 원할까요? 좋아요. 괜찮은.
+
+- **[Waymo's New Safety Research: Safety Impact of the Waymo Driver](https://www.youtube.com/watch?v=ZpZAJPKw22c)** — 2023-12-20 · en · `unclassified`
+  hi everyone it's a pleasure that you could join us today uh we're going to be talking about two papers that we've recently written and this is an academic presentation of those two papers weo is kind of usual or unusual I mean with that we write papers we've written over 20 papers and we do that so that we can be um transparent and we can speak to the …
+
+- **[Waymo begins offering limited overnight terminal service at Sky Harbor](https://www.youtube.com/watch?v=IgkxTbRRNZw)** — 2023-12-14 · en · `unclassified`
+  Hey, I'm Kerry, a User Experience Research Manager here at Waymo and I'm excited to share that Waymo One riders in Phoenix can now get picked up or dropped off at two of Sky Harbor's terminals. We've already served tens of thousands of airport trips since opening service to the airport Sky Train stops, but we've also heard your feedback for more convenience.
+
+- **[Waymo's 2024 Internship Applications Are Now Open!](https://www.youtube.com/watch?v=QPVlRHZFZog)** — 2023-11-07 · en · `unclassified`
+  [Music] What attracted me to weo was the chance to work in the self-driving industry obviously weo is the leader in the industry there's this ethical cause that you're trying to save lives but there's also a more tangible cost like you're trying to save time and you don't have to drive around cars anymore the specific project that I worked on at weo is basically improving the Fidelity of …
+
+- **[2023 AutoSens | How Safe is the Waymo Driver?](https://www.youtube.com/watch?v=9-Qu6HNZu8g)** — 2023-10-20 · en · `unclassified`
+  it's pleasure to be here to see all these uh 3D people um everybody's beautiful today um I'm G to try to answer the question here that we're at a censor conference and I'm sure you're asking yourselves does does it work do we do we make an effect and that's what this topic is now I'll be trying to answer how safe is the wh driver so whma one …
+
+- **[Waymo One is going on tour in Los Angeles](https://www.youtube.com/watch?v=Vu_IBUMwlc0)** — 2023-09-20 · ko · `unclassified`
+  웃음 [음악]
+
+- **[That's Why Waymo: Escape the Heat](https://www.youtube.com/watch?v=EDng3ci3tfc)** — 2023-09-16 · ko · `unclassified`
+  죄송해요, 에어컨이 작동하지 않아서 좀 덥네요.
+
+- **[The Waymo Driver: Communicating it's rerouting and will move soon](https://www.youtube.com/watch?v=BsM1ZZ_Ra0w)** — 2023-08-04 · ko · `unclassified`
+  [음악] 안녕하세요, 제가 앞으로 나아갈 수 없어서 우회하고 곧 출발할게요.
+
+- **[The Waymo Driver: Communicating it needs more space to other road users](https://www.youtube.com/watch?v=mHc4xALeO5c)** — 2023-08-04 · ko · `unclassified`
+  [음악] 안녕하세요, 이사 가려고 하는데 공간이 더 필요해서요. 잠시 뒤로 가주시겠어요?
+
+- **[Waymo’s Approach to Building a Safe Waymo Driver](https://www.youtube.com/watch?v=ETeQPZocuE8)** — 2023-07-27 · en · `AT`
+  How do you define safety? Do others on the road define it as you do? Like the weekend cyclist, or the dog walker heading to the park. We are Waymo, and we’ve been considering these questions, and many more, for over a decade. Our mission is to make it safe and easy for people and things to get to where they're going. And the Waymo Driver, our autonomous driving technology, is paving the way for a better future of mobility.
+
+- **[Let's Back Up: Navigating Construction](https://www.youtube.com/watch?v=rFhzgkDGXTc)** — 2023-06-01 · ko · `unclassified`
+  안녕하세요, 저는 Waymo의 인지 팀에서 소프트웨어 엔지니어로 일하는 마야입니다. 저는 건설 현장 관련 업무를 담당하고 있는데, Waymo에서는 '건설 현장'이라는 용어를 지도 나 다른 사전 정보가 더 이상 충분하지 않거나 유효하지 않은 모든 상황을 포괄하는 의미로 사용합니다. 샌프란시스코의 건설 현장에서 Waymo 운전자가 어떻게 주행하는지 몇 가지 예를 들어 설명해 드리겠습니다. 이 예시에서는 공사가 진행 중인 것으로 보이는 도로에서 좌회전을 하고 있습니다. 도로 표지판 과 공사 콘이 있고, 작업자가 손으로 정지 표지판을 들고 있는 것을 볼 수 있습니다
+
+- **[Riding with the Waymo Driver: Our first rides in Los Angeles](https://www.youtube.com/watch?v=uKfAJDEkstg)** — 2023-03-07 · ko · `unclassified`
+  [음악] 외국어 [음악] 출발이 정말 빠르고, 잡담도 필요 없고, "오늘 하루 어떠세요?" 같은 것도 없이 그냥 존중하는 느낌이 들어요. 밤에는 도로가 안 보이는데, 움푹 들어간 곳에서 잠시 멈춰주는 것도 정말 좋아요. 네, 맞아요. 정말 도움이 많이 돼요. 지난주에는 샌프란시스코에서 탔는데 이번 주에는 로스앤젤레스에서 탔어요. 완전히 다른 환경이지만 차의 핸들링과 성능은 아주 일관적이에요. 네, 다른 곳에 정차할 때도 부드럽게 잘 정차하고, 내리기 좋은 곳에 멈춰서 정말 좋아요. 정말 부드러워요.
+
+- **[Let’s Back Up: Interactions with Intersections](https://www.youtube.com/watch?v=kHOlRMhnewI)** — 2023-02-23 · ko · `unclassified`
+  웨이모 운전자가 교차로를 주행할 때 사람보다 유리한 점 중 하나는 항상 모든 방향을 살피고 있다는 것입니다. 사람은 두 눈과 고개를 돌리지만 한 번에 한 곳에만 초점을 맞출 수 있죠. 안녕하세요, 저는 웨이모 행동 예측 팀의 소프트웨어 엔지니어 달렌입니다. 저는 교차로 관련 업무를 담당하고 있습니다. 오늘은 샌프란시스코와 피닉스에서 웨이 모 운전자가 주행하는 몇 가지 교차로 상황과 이러한 상황이 왜 흥미로운지 보여드리겠습니다. [음악] 이 상황은 피닉스 시내에서 우리 차례입니다.
+
+- **[Waymo at CoRL 2022 | Behavior Models for Autonomous Driving](https://www.youtube.com/watch?v=RpiN3LyMLB8)** — 2023-02-01 · ko · `AX`
+  저는 바이마르에 있는 드래곤 연구소의 연구팀을 이끌고 있으며, 오늘 제가 발표할 연구에 참여한 몇몇 분들이 이 자리에 함께해 주셨습니다. 저희 연구팀의 목표는 머신러닝을 활용하여 최첨단 자율 시스템을 개발하는 것입니다. 오늘 워크숍에 참석하신 여러분과 함께 도로 주행에 필수적인 행동 모델 개선에 대한 저희 연구 결과를 몇 가지 소개해 드리겠습니다. 드래곤 테크놀로지는 자율 주행 기술 회사로, 두 가지 분야에 집중해 왔습니다. 하나는 모바일 서비스를 통한 사람 이동 서비스이고, 다른 하나는 대형 전자 차량을 이용한 도서 배송 서비스입니다
+
+- **[Mission: Rain, Terrain, Heat, Repeat.](https://www.youtube.com/watch?v=SGw8ZdC4JLY)** — 2023-01-19 · ko · `unclassified`
+  [음악] 외국 [음악] 차량 내부 복장 테스트 후, 차량 내부, 트렁크, 센서 커버 내부로 물이 어떻게 유입되었는지, 그리고 차량의 센서 시스템에 어떤 영향을 미치는지 확인하기 위해 차량을 검사합니다.
+
+- **[Highlights from our Geely event in Los Angeles](https://www.youtube.com/watch?v=OoKKMYZIwL0)** — 2022-11-21 · ko · `unclassified`
+  이 기술의 도입으로 저는 이동 중에 새로운 안식처를 만들 수 있는 가능성에 대해 생각하게 되었습니다. 이것이 바로 로스앤젤레스의 미래 통근 방식입니다. [음악] 로스 앤젤레스 사람들은 적극적 이고 다양하며 역동적이기 때문에, 이 기술을 그들에게 선보일 수 있게 되어 매우 기쁩니다. [음악] 세계 최고의 자율주행 기술 파트너인 웨이모와 협력하여 지능형 모빌리티를 한 단계 더 끌어올릴 수 있게 되어 매우 기대됩니다. 이 차량은 내외부 모두 새롭게 설계되었으며, 단순한 자동차가 아닌 라이프스타일 캡슐이라고 할 수 있습니다
+
+- **[Take a look at our all-electric Zeekr vehicle designed in partnership with Geely](https://www.youtube.com/watch?v=Ew32ydR2O3c)** — 2022-11-17 · en · `unclassified`
+  [Music] thank you [Music] thank you [Music]
+
+- **[Waymo at ECCV 2022 | Scaling 3D Detection to the Long Tail](https://www.youtube.com/watch?v=b84FbSZFJeQ)** — 2022-10-28 · en · `unclassified`
+  foreign thank you for having me I lead the research team at waymo in this talk I will give you an overview of our recent work on scaling 3D detection to the long tail overall we have eight papers accepted this eccv conference on different topics and I invite you to check them out waymore's alphabets autonomous driving technology company we're building the world's most experienced driver and focusing on …
+
+- **[Next Stop for Waymo One: Los Angeles](https://www.youtube.com/watch?v=S4mWsFb4FDo)** — 2022-10-19 · en · `unclassified`
+  our mission at Greenville is ambitious make roads safer and easier to navigate for all we're Paving A Better Way Forward in Mobility from the Valley of the Sun to the city by the bay we're designing our service with each cities and each Rider's needs at heart today we take one more step in this journey bringing the waymo driver to Los Angeles [Music]
+
+- **[San Francisco Community Love: Gabriela Alemán](https://www.youtube.com/watch?v=8g6-JliY3EU)** — 2022-10-14 · en · `unclassified`
+  i was born and raised here in the lower mission my parents immigrated here almost 30 years ago and what i really love about this city is just how accessible it is to people from all walks of life for a lot of our community members travel is something that's really limited and postcards and sending mail internationally and like overnight is a big thing that i grew up with …
+
+- **[San Francisco Community Love: J Manuel Carmona](https://www.youtube.com/watch?v=k5BeEFIcEnQ)** — 2022-10-14 · en · `unclassified`
+  my connection with San Francisco started 11 years ago when I first came to the city I think what I loved about San Francisco is like how weird are you San Francisco was just this place to be free the main idea behind the design we went with this project in huevo was having a bunch of people hugging each other I believe hog is at like Universal expression of …
+
+- **[San Francisco Community Love: Jessica HJ Lee](https://www.youtube.com/watch?v=0gEE6C5Ofnw)** — 2022-10-14 · en · `unclassified`
+  for this project I wanted to highlight the things that are unique to San Francisco like the landmarks and I really wanted to capture the brightness and free-spirited energy of the city by the use of vibrant colors and I also sprinkled in a little bit of fun elements into a very intricate imaginary map of the city [Music] as a woman and as a member of the aapa community …
+
+- **[San Francisco Community Love: Monica Garwood](https://www.youtube.com/watch?v=fTK8txzTJQ8)** — 2022-10-14 · en · `unclassified`
+  my favorite thing about the city is probably all the different parks and outdoor spaces as well as the diversity between each neighborhood my jumping off point for my design was the rainbow crosswalks and the Castro I really wanted to show five different people who you could find in San Francisco and they take on qualities of different neighborhoods themselves Muttville is a senior dog rescue in the Bay …
+
+- **[San Francisco Community Love: Nigel Sussman](https://www.youtube.com/watch?v=RnNIHKrkWz8)** — 2022-10-14 · en · `unclassified`
+  San Francisco is a beautiful and vibrant city the city is inspirational and I feel privileged to have been able to live here for a long time for this project thinking about moving around the city and Discovery and food landmarks food is is something that everybody has in common everyone needs to eat so it's a universal and accessible symbol of a place my charity is food wise it …
+
+- **[Waymo and C.H. Robinson: Moving goods safely](https://www.youtube.com/watch?v=t-ZpZuEmE7A)** — 2022-10-03 · ko · `unclassified`
+  그것은 아제이에게 그것은 [음악] 책임자 그것은 [음악]
+
+- **[Why I Ride with Waymo One: Eva](https://www.youtube.com/watch?v=_ChhsuT0hLQ)** — 2022-09-13 · ko · `unclassified`
+  제 이름은 에바이고, 트러스트 테스터 프로그램에 처음 신청한 이유는 서비스를 처음으로 체험해 볼 수 있다는 점과, 웨이모를 이용해 도시를 더 편리하게 돌아다닐 수 있다는 점 때문이었습니다. 저는 운전을 잘 하지 않아서 주로 심부름이나 친구들과 만날 때 웨이모를 이용하는데, 다른 교통수단보다 믿을 수 있기 때문입니다. 예상 픽업 및 하차 시간이 정확하고, 특히 차가 많이 다니는 교차로에서는 좀 어려울 수도 있지만, 제가 탔던 모든 웨이모는 항상 안전하고 편안했습니다.
+
+- **[Phoenix Mayor Kate Gallego takes a ride with the Waymo Driver](https://www.youtube.com/watch?v=lvfFm0sE_18)** — 2022-08-29 · ko · `unclassified`
+  저는 피닉스 시장 케이트 갈레고입니다. 지금 피닉스에서 웨이모를 이용한 첫 번째 승객 전용 운행을 시작하려고 합니다. [음악] 시작 버튼을 누르시죠? [ 음악] 웨이 모 운전자가 어떻게 운전하는지 지켜보고 있습니다. 회전 구간이나 운전하기 어려운 지점을 지날 때는 속도를 줄이고 주변을 살피는 모습이 정말 인상적입니다. 지금 주변에 보행자들이 많이 보이네요. 세 군데 모퉁이에 보행자가 있고, 차량도 10대나 있습니다. 사람이 처리하기엔 엄청난 양이지만 웨이 모 운전자에게는 문제없습니다. 다운타운을 지나는 이번 운행은 정말 즐거웠습니다.
+
+- **[Waymo Via: Meet the Waymonauts - Rashmi](https://www.youtube.com/watch?v=MEzDfNPCyao)** — 2022-08-11 · ko · `unclassified`
+  안녕하세요, 저는 레모(Remo)의 시스템 안전 엔지니어 라슈미입니다. 저 에게 안전이란 우리가 개발하는 모든 신기술이 인간에게 도움이 되고 해를 끼치지 않도록 하는 것을 의미합니다. 따라서 사전에 위험 분석을 수행하여 시스템 관점에서 발생할 수 있는 모든 잠재적 문제점을 파악하고, 이러한 다양한 위험 요소를 완화하기 위한 요구 사항을 마련하는 것이 중요합니다. 자율주행 기술에는 여러 측면이 있습니다. 소프트웨어 부분과 통합되는 플랫폼이 있는데, 이 플랫폼은 제동, 조향, 파워트레인, 전원 공급 장치 등 모든 사양을 제어합니다.
+
+- **[Sense, Solve, and Go: The Magic of the Waymo Driver](https://www.youtube.com/watch?v=hA_-MkU0Nfw)** — 2022-08-01 · ko · `unclassified`
+  [음악] 요즘 나오는 신기술 중에는 그저 보여주기식인 경우가 많아서 사실과 허구를 구분하지 못하는 것도 무리가 아닙니다. 예를 들어 이 차를 보세요. 자율 주행이 가능할까요? 간단히 말해서, 가능합니다. 방금 말씀하신 분은 WEO의 주행 행동 부문 수석 제품 책임자인 샤 슈리바스타바였습니다. 지금 보시는 것은 다양한 차량 플랫폼에 맞춰 개발된 WHMO 드라이버의 작동 모습입니다. 이는 현재 세계에서 가장 진보된 완전 자율 주행 기술입니다. 금방 알아차리실 수 있듯이, 이 차는 일반 차량이 아닙니다.
+
+- **[Why I Ride with Waymo: John](https://www.youtube.com/watch?v=kJx2zWdMoxg)** — 2022-07-11 · ko · `unclassified`
+  샌프란시스코에서 16년 정도 살았 는데, 웨이머스를 사용해 본 지 8개월에서 10개월 정도 됐어요. 시내를 돌아다니는 게 정말 편하고 좋아요. 차를 몰고 다니기 싫거나 주차 문제, 우버를 타기 싫을 때 심부름을 하러 다니는데 정말 편리하더라고요. 사실 공유 차량보다 훨씬 유용했어요. 카스트로에 있는 바에도 자주 가는데, 안전하게 집까지 데려다 줄 차가 있다는 게 정말 좋아요. 재규어를 타니까 항상 편안하고 좋죠. 불평할 게 하나도 없어요.
+
+- **[Waymo Via: Meet the Waymonauts - Andrew](https://www.youtube.com/watch?v=pzPLQltniOY)** — 2022-06-21 · ko · `unclassified`
+  안녕하세요, 제 이름은 앤드류이고 Waymo의 인지 팀에서 일하고 있습니다. 저희 수신 팀은 하드웨어 팀 과 행동 예측 및 계획 팀 사이에 위치해 있습니다. 저희는 트럭에 장착된 모든 하드웨어와 센서에서 들어오는 모든 정보를 수집하고, 이를 행동 예측 팀이 주변 차량의 움직임을 예측하고 계획 팀이 그에 대한 대응으로 저희 차량이 어떻게 움직여야 할지 결정하는 데 사용할 수 있는 형식으로 변환합니다. 저희는 Waymo 1 차량과 많은 기술을 공유 하지만, 더 큰 차량이기 때문에 여러 위치에 더 많은 센서가 장착되어 있습니다
+
+- **[Why I Ride with Waymo: Candace](https://www.youtube.com/watch?v=oxKQNSNJ3q8)** — 2022-06-09 · ko · `unclassified`
+  저는 선셋 이너 선셋에 살고 있어요. 음, 9월부터 여기 산 지 한 9개월 정도 된 것 같아요. 그리고 11월부터는 트러스트 테스터로 활동하고 있죠. 여기 온 지 얼마 안 됐는데, 샌프란시스코에서 웨이모를 어떻게 생각하세요? 웨이모 덕분에 도시 곳곳을 훨씬 효율적이고 넓게 이동할 수 있게 됐어요. 솔직히 말해서, 대중교통만 이용했을 때보다 훨씬 더 많은 곳을 방문할 수 있었던 것 같아요. 웨이모 덕분에 관광도 하고 싶었던 것들을 더 많이 할 수 있었죠.
+
+- **[Waymo co-CEO Tekedra Mawakana and Waymo One rider Sophia take a ride](https://www.youtube.com/watch?v=APXF4auQo7s)** — 2022-05-20 · ko · `unclassified`
+  안녕하세요, 테키트라입니다. 애리조나에 있는데, 저희 웨이모의 열렬한 고객 중 한 분인 소피아 씨와 함께 드라이브하게 되어 정말 기쁩니다. [음악] 웨이모 공동 CEO이신 소피아 씨를 소개합니다. 안녕하세요, 소피아 씨와 함께하게 되어 정말 영광입니다. 저희는 소피아 씨를 정말 좋아합니다. 열정적인 고객일 뿐만 아니라, 웨이모 기술과 웨이모 드라이버가 할 수 있는 일들에 대해 사람들에게 알리는 데에도 많은 노력을 기울이고 계시니까요. 저희 막내딸이 어렸을 때 웨이모를 이용했을 때는 휠체어를 탔었는데, 지금은 보조 바퀴를 사용하고 있어요.
+
+- **[Waymo Via: Meet the Waymonauts - Steph](https://www.youtube.com/watch?v=STMhLRsDSZ8)** — 2022-05-04 · ko · `unclassified`
+  제 이름은 스테파니이고, WI-O VIIA 트럭킹의 운영 프로그램 매니저입니다. WHMO에서의 제 여정은 WI-O 운전팀에서 시작되었기 때문에, 저희가 개발한 플랫폼을 통해 WI-O 운전자들이 어떻게 발전해 나가는지 직접 지켜볼 수 있었습니다. 이 플랫폼은 트럭 운송 업계의 고유한 요구 사항에 맞춰 시스템을 맞춤 설정할 수 있도록 해줍니다. 각 주마다 규정이 다르고, 연방 정부에서도 규정을 제정하고 있어 타이어 마모 상태부터 일일 적재량까지 준수해야 합니다. 저희는 운행 전 트럭을 철저히 준비합니다.
+
+- **[Self-Driven Women: Pit Stop to the Podium](https://www.youtube.com/watch?v=X-5uJ8B-LqE)** — 2022-04-06 · ko · `unclassified`
+  [음악] [박수] 여러분, 포디움 패널 피트 스톱에 오신 것을 환영합니다. 저는 웨이모의 제품 관리자 에릭 당입니다. 차량 행동 관련 업무를 담당하고 있습니다. 이 소프트웨어는 웨이 모의 자율주행 기술인 웨이모 드라이버가 운영되는 모든 지역에서 A 지점에서 B 지점까지 경로를 계획하고 실행할 수 있도록 지원합니다. 연구자들이 1920년대부터 자율 주행 기술(ADT)을 꿈꿔왔지만, 이 기술의 잠재력은 2000년대 초 미국 DARPA가 DARPA 그랜드 챌린지와 같은 프로젝트에 자금을 지원하면서 비로소 실현되었습니다.
+
+- **[Why I Ride with Waymo: Dalibor](https://www.youtube.com/watch?v=06bPvtFZ1JY)** — 2022-04-04 · ko · `unclassified`
+  재밌게 보내세요, 감사합니다, 안녕히 가세요. 자, 시작해 볼까요? 과속방지턱도 정말 부드럽게 넘네요. 솔직히 다른 사람들보다 훨씬 잘 넘어요. 화면이 정말 직관적이어서 앞으로 가는 방향을 바로 확인할 수 있어서 정말 좋아요. 지도에 보행자까지 표시해 주는 것도 마음에 들어요. 부드럽게 회전하네요. 어, 앞에 사거리가 있네요. 차가 어떻게 움직일지 궁금했는데, 완벽하게 잘 피해서 갔어요. 멋지네요. 곧 도착합니다. 안전벨트를 매시고 소지품도 잊지 마세요. 화면을 보지 않거나 주의를 기울이지 않아도 도착 예정 시간을 알려주는 것도 정말 좋네요.
+
+- **[Bringing the Waymo Driver to multiple geographies](https://www.youtube.com/watch?v=2XjFe0kACmE)** — 2022-03-30 · ko · `unclassified`
+  [음악] 고객과 저희가 사업을 운영하는 지역 사회의 안전은 최우선 과제입니다. 안전을 최우선으로 생각하며 현재 샌프란시스코에서 직원들과 함께 완전 자율 주행 운행을 진행하고 있으며, 더 많은 분들이 웨이모 드라이버를 경험하실 수 있도록 최선을 다하고 있습니다. 여러 지역에서 테스트 및 운행을 진행함으로써 웨이 모 드라이버는 더 빨리 학습하고 더 나은 성능을 발휘할 수 있습니다. 따라서 핵심은 훌륭한 기술뿐 아니라 도시마다 적용 가능한 견고한 운영 시스템을 구축하는 것입니다.
+
+- **[Waymo Via: Meet the Waymonauts – Xinfeng](https://www.youtube.com/watch?v=-iO5rb6Rgz8)** — 2022-03-28 · ko · `unclassified`
+  안녕하세요, 저는 진포이고 Away Mo Via Trucking의 제품 관리자입니다. 제품 팀은 자율 주행 차량에 필요한 기능과 주행 방식을 파악하기 위해 조직 내에서 노력합니다. 그런 다음 엔지니어링 팀과 협력하여 이러한 요구 사항을 충족합니다. 또한 다양한 고객과 협력하여 고객의 요구 사항을 파악합니다. 예를 들어, 안전 측정 기준, 중요한 지표, 새로운 기술이 기존 솔루션과 어떻게 통합될지 등을 파악합니다. 이러한 요구 사항을 정의하는 것이 매우 중요합니다.
+
+- **[Let’s Back Up: Cyclist Interactions](https://www.youtube.com/watch?v=mWvhw1KCmbo)** — 2022-03-24 · ko · `unclassified`
+  안녕하세요, 저는 웨이모의 제품 관리자 잭입니다. 샌프란시스코의 고밀도 도심 주행을 담당하고 있습니다. 오늘은 자전거 운전자와의 상호 작용 사례 몇 가지를 살펴보고, 그 차이점과 샌프란시스코 에서 적극적이고 안전한 주행을 구현하는 데 있어 이러한 차이점이 얼마나 중요한지 이야기해 보겠습니다. 잠시 뒤로 돌아가서 살펴보겠습니다. 오른쪽에 자전거 운전자가 있는데, 추월하려고 합니다. 웨이모 운전자는 우회전을 기다리는 맞은편 차량들을 피해 운전 차선으로 진입하여 교차로를 통과합니다. 웨이모 운전자는 이러한 상황을 수없이 경험했기 때문에 자전거 운전자가 웨이모의 정상적이고 부드러운 주행을 예상하고 있다는 것을 예측할 수 있습니다
+
+- **[Waymo celebrates 6 months of Trusted Testers in San Francisco](https://www.youtube.com/watch?v=1XpgApi-8Ms)** — 2022-03-21 · ko · `unclassified`
+  [음악] [박수] 제가 웨이모를 이용하는 주된 이유는 심부름 때문이에요. 대부분 직장에 가거나 집에서 쓸 만한 물건을 사러 가게에 가는 것처럼 간단한 심부름이죠. [음악] 처음에는 노선이 좀 복잡했어요. 제 의견 때문인지 다른 사람들의 의견 때문인지는 모르겠지만, 처음에는 게리 대로로 바로 갔더니 골목길을 많이 돌아서 시간이 오래 걸렸어요. 그래도 이렇게 발전하는 모습을 보니 기쁘네요. 부드럽고 조용하고 정말 편안해요. 차가 항상 조심스럽게 운전하는 것 같아서 마음이 놓여요.
 
 ## Weights & Biases (88건)
 
@@ -1368,247 +2166,247 @@
 - **[Nick’s Voice | Saving His Voice for the Future](https://www.youtube.com/watch?v=HYso2Ago1KU)** — 2026-03-18 · en · `unclassified`
   So, the group that you saw today &gt;&gt; [music] &gt;&gt; are the group of people that I regularly meet on a monthly basis and they are the people in the local area of motor neuron disease and so it is called the motor neuron disease [music] Southampton and Winchester support group and there are groups like that all over the country.
 
-## Meta (80건)
+## Intel (80건)
 
-- **[The future is for everyone.](https://www.youtube.com/watch?v=JlRgRmAqoAc)** — 2026-07-23 · en · `unclassified`
-  We need to brace ourselves for what's to &gt;&gt; Some people will have you believe AI will make us less connected, that it's going to leave us behind. We couldn't disagree more. Call [music] us optimists. Call us dreamers. Just as we've always done, we're betting on people. &gt;&gt; [music] &gt;&gt; We bet on people when we connected you to the ones you lost touch with.
+- **[Acer Swift 16 AI (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=98RfEqmdgJo)** — 2026-07-16 · ko · `AX`
+  아, 죄송합니다. 다른 회의 때문에 조금 늦었어요 . 음, 그래서 이렇게 가벼운 기기가 유용한 거죠. 저는 이 노트북으로 일상생활을 아주 만족스럽게 보내고 있지만, 여러분은 이 노트북에 대해 더 자세히 알고 싶어 하시겠죠 . 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 Acer Swift 16 AI에 대해 자세히 알아보겠습니다. 이 노트북은 인텔 코어 울트라 X7 시리즈 3 프로세서와 인텔 Arc 통합 그래픽을 탑재하여 강력한 성능을 자랑합니다. 관심 있으시면 나머지 사양은 화면에 표시해 드리겠습니다
 
-- **[Boz To The Future #27: The Future According to Shyam Sankar](https://www.youtube.com/watch?v=bOTy3Q5_trw)** — 2026-07-02 · en · `unclassified`
-  [music] &gt;&gt; Hello, this is Baz to the Future and I am Baz. Uh now, long-time listeners won't know anything has changed, but people who catch these clips on the internet will notice that I am uncharacteristically in a suit, tie, and a mustache. Uh and actually my guest, Shyam Sankar, has a lot to do with both of those factors, to be honest with you.
+- **[Asus ROG Zephyrus G14 (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=HqFvkV9wGxM)** — 2026-07-16 · ko · `unclassified`
+  와. 죄송합니다, 방금 제 눈앞에서 건물이 완전히 무너지는 걸 보고 정신이 팔렸어요. 솔직히 말씀드리면, 저는 이 노트북을 직접 사용해 보면서 정말 즐거운 시간을 보냈고, 여러분도 이 노트북에 대해 더 자세히 알고 싶어서 오셨겠죠. 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 ASUS ROG Zephyrus G14에 대해 자세히 알아보겠습니다. 게이밍 노트북에 대해 이야기할 때는 무엇보다 강력한 성능을 갖춘 제품인지 알아야 합니다. 그리고 이 노트북은 실망시키지 않습니다.
 
-- **[The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America](https://www.youtube.com/watch?v=gatpk6BhN5w)** — 2026-06-12 · en · `unclassified`
-  [music] &gt;&gt; I mean, United States Army veteran having served with the 82nd Airborne Division. &gt;&gt; [music] &gt;&gt; When I lost my eyesight in Desert Storm from a bunker explosion, I also lost my independence. The moment I put on my Ray-Ban Meta glasses, I got my independence back. &gt;&gt; [music] &gt;&gt; Hey Meta, read this letter. &gt;&gt; Don, I wanted to personally thank you. &gt;&gt; Hey Meta, where's [music] the blue shirt?
+- **[Asus Zenbook DUO (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=m87vHzmdmx4)** — 2026-07-16 · ko · `AX`
+  이 노트북 정말 멋지지 않나요? 화면이 두 개 있습니다 . 저는 이 제품을 직접 다뤄보면서 정말 즐거웠지만, 여러분은 이 제품에 대해 더 자세히 알고 싶어 하시겠죠. 그럼, 이야기해 봅시다 . 안녕하세요, 저는 Jess입니다. 오늘은 ASUS Zenbook Duo에 대해 자세히 알아보겠습니다. 우선, 이 듀얼 스크린에 대해 이야기해 봐야겠습니다. 노트북을 활용한 창의성, 멀티태스킹, 생산성 향상에 있어 완전히 혁신적인 제품입니다 . 저는 집 책상에 모니터 두 대를 사용하고 있어서 이런 구성에 아주 익숙합니다 .
 
-- **[Boz To The Future #26: The Future According to Ed Catmull](https://www.youtube.com/watch?v=4s1_DKMYQVo)** — 2026-05-28 · en · `unclassified`
-  Welcome to Bos to the Future. Uh the podcast where we dive deep into a smaller number of topics. I kind of created this podcast after I felt so many podcasts I listen to in the technology sector tended to go really broad and not as deep. Um and so we have the opportunity to do the opposite. And I'm here today with somebody who I would normally say needs no introduction.
+- **[Dell XPS 14 (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=ga5Wf4ZWtjo)** — 2026-07-16 · ko · `AX`
+  안녕하세요. 죄송하지만, 오늘 오후에 촬영할 프레젠테이션 자료를 모으는 중이라 지금 바로 연락을 주시려고 하셨네요 . 저는 이 노트북으로 작업하는 게 정말 즐거웠지만, 여러분은 이 노트북에 대해 더 자세히 알고 싶어 하시겠죠. 그럼, 이야기해 봅시다. 안녕하세요 , 저는 Jess입니다. 오늘은 Dell XPS 14 프리미엄에 대해 자세히 알아보겠습니다. 제 창의력을 발휘하려면 강력한 성능의 노트북이 필요한데, 이 노트북은 그 점에서 만족스럽습니다. 인텔 코어 울트라 X 7 시리즈 3 프로세서 와 내장 인텔 아크 그래픽 덕분입니다
 
-- **[Boz & Barstool Sports at Meta House](https://www.youtube.com/watch?v=b0aWXH8UdjE)** — 2026-02-26 · en · `unclassified`
-  Hey guys, it's me, PFT. I guess I'll do the intro. It's me, uh, PFT. I got my good friend Hank here and Bos. Thank you for having us. We appreciate it. Uh, we got Max over here in the audience, too. So, we we might bring Max on stage at some point, uh, in in case we have some questions that we need answered. He's kind of our our fact check guy.
+- **[HP Omnibook X (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=dxSuz7imHaQ)** — 2026-07-16 · ko · `AX`
+  안녕하세요, 지금 이 사진 작업을 마무리하고 있어요. 좋아요. 완벽한. 저는 이 노트북을 정말 잘 쓰고 있지만, 당신은 이 노트북에 대해 더 자세히 알고 싶어서 오셨겠죠 . 그럼, 이야기해 봅시다. 안녕하세요 , 저는 Jess입니다. 오늘은 HP OmniBook X에 대해 자세히 알아보겠습니다. 우선, 제 창작 활동을 위해서는 하루 종일 작업할 수 있도록 충분한 성능을 제공하는 노트북이 필요한데, 이 노트북이 바로 그런 역할을 해줍니다. 인텔 코어 울트라 7 시리즈 3 프로세서 덕분입니다.
 
-- **[Meta's Early Detection and Disruption Work](https://www.youtube.com/watch?v=MRCbOl-V5eQ)** — 2026-02-10 · en · `unclassified`
-  Parents at a high school near Houston are in shock this morning, but breathing a sigh of relief after local police announced last night that they had stopped a possible plot to massacre students. &gt;&gt; My name is Emily Vatcher and I've been on the law enforcement outreach team at Meta for about 15 years [music] and previously I was an FBI agent.
+- **[HyperX Omen 15 (Intel® Core™ Ultra 200HX Plus) - Tech Rundown | Intel](https://www.youtube.com/watch?v=SQzekM5yGuE)** — 2026-07-16 · ko · `unclassified`
+  아, 잠시만 기다려 주세요. 이제 마지막 돌멩이 하나만 얻으면 돼. 좋아요, 다 끝났어요. 저는 이 노트북으로 게임하는 걸 정말 좋아하는데, 여러분은 이 노트북에 대해 더 자세히 알고 싶어서 오셨군요 . 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 HyperX OMEN 15에 대해 자세히 알아보겠습니다. 게이밍 노트북을 이야기할 때는 강력한 성능이 필수적인데, 이 노트북은 그 기대에 부응합니다 . 인텔 코어 울트라 9 HX 플러스 프로세서와 NVIDIA RTX 4070 노트북 GPU 덕분입니다.
 
-- **[An Interview With Dr. Jacob A. George, Director of the Utah NeuroRobotics Lab](https://www.youtube.com/watch?v=GKO36t0FFP8)** — 2026-01-27 · en · `AX`
-  All right. We're here today with Dr. Jacob A. George, the Soulsbacher Chen Endowed Professor in the John and Marsha Price College of Engineering's Department of Electrical and Computer Engineering and the Spencer Fox Eckles School of Medicine's Department of Physical Medicine and Rehabilitation at the University of Utah, which is quite a mouthful, but um Jake, if you can just briefly introduce yourself and tell us a little bit about your tenure so far.
+- **[Lenovo Legion 5i (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=25K2vS8eXqg)** — 2026-07-16 · ko · `unclassified`
+  내가 도와줄게. 저는 이 노트북으로 게임을 하면서 정말 좋은 경험을 했고, 여러분은 이 노트북에 대해 더 자세히 알아보고 싶어서 오셨겠죠. 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 Lenovo Legion 5i에 대해 자세히 알아보겠습니다. 게이밍 노트북에 대해 이야기할 때는 무엇보다 강력한 성능이 필수적인데, 이 노트북은 그런 점에서 실망시키지 않습니다. 인텔 코어 울트라 7 시리즈 3 프로세서와 NVIDIA RTX 5060 노트북 GPU 덕분입니다. 관심 있으시면 나머지 사양은 화면에 표시해 드리겠습니다.
 
-- **[Boz To The Future # 25: The Future According to Dylan Field](https://www.youtube.com/watch?v=diMGvhBfy74)** — 2025-11-20 · en · `AX`
-  Welcome to Bos to the Future, a podcast I started so that we could get a little deeper uh on a few topics because so often I find in our industry these conversations kind of can be very surface deep and very broad. Uh and I am thrilled to be joined today with Dylan Field, the CEO and co-founder of Figma, a company he started when he was 19 years old.
+- **[Lenovo Yoga 7i (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=F7GVqX5_S60)** — 2026-07-16 · ko · `AX`
+  안녕. 오늘 할 일 목록을 마무리하고 있는 중입니다. 저는 어떤 일을 시작하기 전에 모든 것을 적어두는 것을 좋아합니다 . 하지만 당신은 이 노트북에 대해 알아보려고 여기에 온 거잖아요 . 그럼 이야기해 봅시다. 안녕하세요, 저는 Jess이고 오늘은 Lenovo Yoga 7i에 대해 자세히 알아보겠습니다. 우선 생산성을 높이려면 하루 종일 사용할 수 있는 기기가 필요합니다. 이 노트북은 바로 그런 역할을 합니다. 인텔 코어 울트라 5 시리즈 3 프로세서가 탑재되어 있습니다.
 
-- **[Boz To The Future # 24: The Future According to Francois Chardavoine](https://www.youtube.com/watch?v=WpFCYR3f46U)** — 2025-11-10 · en · `AX`
-  Welcome to BOS to the future. Uh a podcast that I created so that we would have time to go much much [music] deeper on a small number of topics as opposed to kind of being surface deep across a larger number as is so often the case in in our industry and kind of in general. I'm thrilled to be joined here today with Francois.
+- **[Samsung GalaxyBook 6 Pro (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=8J2kahP5NPY)** — 2026-07-16 · ko · `AX`
+  안녕하세요, 저는 Jess입니다. 오늘은 삼성 갤럭시 북 6 Pro에 대해 자세히 알아보겠습니다. 우선, 게임과 창작 활동을 원활하게 하려면 강력한 성능의 노트북이 필요한데 , 이 노트북은 그런 면에서 전혀 실망시키지 않습니다. 인텔 코어 울트라 X7 시리즈 3 프로세서와 통합 인텔 아크 그래픽 덕분입니다. 혹시 관심 있으시면 나머지 음악 사양을 화면에 띄워 드릴게요. 하지만 최신 비디오를 편집하든, 여행 사진을 편집하든, 내장된 인텔 Arc 그래픽 덕분에 더욱 고사양의 창작 작업은 물론 게임까지 원활하게 즐길 수 있는 성능을 보장합니다.
 
-- **[10 Years in the Making](https://www.youtube.com/watch?v=LIvpjFZwx4Q)** — 2025-10-02 · ko · `unclassified`
-  샤르마 박사님과 그분들이 하시는 모든 일을 따르세요 . 좋아요. 응. 맙소사, 효과가 있네. 정말 좋네요. [웃음] 뭔가 멋진 걸 보면 휴대폰을 꺼내지 않고도 공유하고 싶어지잖아요 . 안경 하나만 있으면 이 모든 걸 할 수 있을 거예요. 우리는 이제 다양한 구성 요소들을 하나씩 모아나가기 시작했습니다. 지난달에 [음악] Ray-Ban Stories를 출시했습니다. 사진과 동영상을 촬영하고, 음악을 듣고, 전화를 받을 수 있습니다. 인공지능의 발전은 차세대 컴퓨팅 플랫폼 구축의 발전과 교차합니다 . 차세대 레이밴 메타 스마트 안경.
+- **[Intel Total Storage Encryption (TSE) | Chips & Salsa | Intel](https://www.youtube.com/watch?v=owRK0Dm6Uh4)** — 2026-07-14 · ko · `unclassified`
+  [음악] 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트입니다. 오늘 저와 함께 해주신 분은 인텔의 최신 V Pro 플랫폼에서 사용할 수 있는 새로운 기술인 전체 스토리지 암호화(TSE)에 대해 이야기하기 위해 제임스 보이드 씨입니다. 제임스, 환영합니다. 감사합니다. 여기 오게 되어 기쁩니다. 음, 먼저 당신의 역할에 대해 간략하게 설명해 주시겠어요 ? 네, 저는 인텔의 수석 엔지니어입니다. 저는 플랫폼 소프트웨어 엔지니어링 팀의 일원입니다.
 
-- **[Meta Connect 2025 Keynote](https://www.youtube.com/watch?v=Q9eLemEd9FY)** — 2025-09-20 · en · `unclassified`
-  ♪ ♪ 00:00:00,400 --&gt; --:--:--:-- ♪ ♪ --:--:--:-- --&gt; --:--:--:-- ♪ ♪ &gt;&gt; MARK WE ARE READY FOR YOU. &gt;&gt; ALL RIGHT. ♪ ♪ &gt;&gt; HOW'S IT GOING MAN? [CHEERING] ♪ ♪ [CHEERING] &gt;&gt; HEY! WE WILL TALK ABOUT THESE IN A MINUTE. WELCOME TO CONNECT! ALL RIGHT! A EYEGLASSES AND VIRTUAL REALITY. OUR GOAL IS TO BUILD GREAT LOOKING GLASSES THAT DELIVER PERSONAL SUPERINTELLIGENCE, AND A FEELING OF PRESENCE USING REALISTIC HOLOGRAMS, AND THESE IDEAS COMBINED.
+- **[Intel Security Q2 2026: AI, Confidential Computing, and Digital Sovereignty Update | Intel](https://www.youtube.com/watch?v=QCWVgg7DTIw)** — 2026-07-09 · ko · `unclassified`
+  칩스 앤 살사에 오신 것을 환영합니다! 이곳에서는 인텔의 보안에 대해 이야기합니다. 저는 제리 브라이언트이고, 이번에도 스튜디오에 함께 해주신 분은 인텔 제품 보안 및 보증 부문 부사장 겸 총괄 매니저이신 아난드 파슈파티입니다. 아난드, 여기서 다시 만나서 반갑습니다. 초대해 주셔서 감사합니다, 제리. 오늘 저희는 몇 가지 주제를 다룰 예정인데, 그중에서도 인텔이 사이버 보안을 위해 AI 모델을 활용하는 방식에 대해 이야기하고자 합니다 . 인텔은 이 분야에서 독보적인 관점을 가지고 있습니다.
 
-- **[Meta's Privacy Conversations: Risk Management and AI With Susan Cooper and Bojana Belamy](https://www.youtube.com/watch?v=8FBYm3rcwVI)** — 2025-08-14 · en · `unclassified`
-  [Music] Hello and welcome to another installment of Privacy Conversations, our series where we speak with experts from various fields about the challenges at the intersection of technology and policy. Thank you all so much for joining us today. I'm really excited. We're going to talk about the ways in which advances in technology and AI are requiring companies to evaluate their governance programs and update their compliance protocols.
+- **[Make your pitch and prove your point and influence the masses (or at least your parents) | Intel](https://www.youtube.com/watch?v=2Ih_L-4NQRs)** — 2026-07-02 · ko · `unclassified`
+  Intel Core Ultra Series 3 [음악]은 제작자를 위해 만들어졌습니다. 거의 실시간으로 4K 비디오를 녹화하고, 자막을 추가하고, 게시하세요. 관중을 사로잡고, 가족을 설득해서 채식주의자가 되도록 만드세요. 네 여동생에게 누가 주인인지 보여줘.
 
-- **[Your personal AI. The new Meta AI app.](https://www.youtube.com/watch?v=jjwt-7Iov0k)** — 2025-06-24 · en · `unclassified`
-  (upbeat piano music) - Something's missing. Hey, Meta, I need more acidity. You got any ideas? - [Meta AI] You typically use lemon. - You know, it needs like a zhuzh of brightness. - [Meta AI] Last time you used honey. - Honey, duh. Good. That's not special. I need it to be special. - [Meta AI] Light, airy textures can add a special feel.
+- **[Larger than life Intel® Core™ Ultra Series 3 Processor | Intel](https://www.youtube.com/watch?v=W8dpb96t1JI)** — 2026-06-30 · ko · `unclassified`
+  여기서는 최신 Core Ultra 시리즈 3 프로세서를 재미있고 인터랙티브한 방식으로 선보입니다. 이 모델은 전체가 레고 블록으로 만들어졌으며, 정확히는 42,000개의 레고 블록이 사용되었습니다 . 높이는 8피트, 너비는 4피트입니다. [음악] 이 음악은 최신 세대 코어 울트라 시리즈 3 프로세서의 성능을 완벽하게 보여줍니다. 저희는 CPU, NPU, GPU를 보유하고 있습니다. [음악] 저희가 제작한 이 버전에는 GPU용으로 12개의 XE가 탑재되어 있습니다. 여기에는 12개의 XE [음악] 코어가 있는데, 그중 8개가 바로 여기에 있는 E 코어입니다.
 
-- **[Meta passkeys | An easier way to sign in](https://www.youtube.com/watch?v=L32d6g5W1Ds)** — 2025-06-18 · ko · `unclassified`
-  패스키란 무엇인가요? 암호 키는 계정에 로그인하고 보호하는 안전하고 편리한 대안입니다. 기존 비밀번호는 기억하기 어렵고, 쉽게 추측되거나 도난당할 수 있지만, 패스키는 기기 잠금 해제에 사용하는 PIN, 지문 또는 얼굴 인식과 동일한 방식으로 본인임을 확인합니다 . 온라인 계정, 채팅 기록, 결제 정보 등을 보호하는 데 도움이 됩니다. 암호 키는 추측하거나 쉽게 훔칠 수 없으므로 피싱 공격이나 암호 스프레이 공격과 같은 공격에 강합니다. 암호 키는 사용자 기기에 로컬로 저장되며 Meta에서 절대 접근하지 않으므로 안심하고 사용할 수 있습니다
+- **[Unlock more likes and stories and connections with the most AI experiences on a PC | Intel](https://www.youtube.com/watch?v=XIVkqBhisGA)** — 2026-06-26 · ko · `unclassified`
+  인텔 코어 울트라 시리즈 3는 AI가 사용자를 돕는 데 도움이 됩니다 . 심지어 말까지 걸 수 있어요. 부조종사, 저 물고기 좀 더 크게 만들어 줘. 프로필을 업데이트하고, 좋아요를 많이 받고, [음악]으로 마땅히 받아야 할 존경을 얻으세요.
 
-- **[Your personal AI. The new Meta AI app.](https://www.youtube.com/watch?v=2l_2k5KrXmo)** — 2025-06-06 · ko · `unclassified`
-  음, 프랭크의 메타 버스트 비율이 또 나왔네요. 아쉽네요. 지난번에 핀즈 앤 프렌즈에서 프랭크를 새로 고용하셨잖아요. 몇 시에 문을 닫나요? 오후 5시쯤인 것 같네요. 맙소사. 프랭크 한 마리 더 사러 가자. 안녕, 메타. 마이크에게 WhatsApp으로 연락해서 오후 1시 약속을 변경해야 한다고 전해줘. 가족 구성원 중 한 명이 비극적으로 잡아먹혔습니다. 지금 마이크에게 보내고 있습니다 . 진지하게? 다시? 알아요. 프랭크가 어떻게 생겼는지 기억이 안 나요. 프랭크는 주황색과 흰색의 부채꼬리 물고기였습니다. 봉지에 담아.
+- **[Semiconductors and the Future of Computing | Intel Foundry](https://www.youtube.com/watch?v=oAtdGyDouFU)** — 2026-06-12 · ko · `unclassified`
+  대부분의 사람들이 그것들에 대해 생각조차 하지 않는다는 점이 꽤 흥미롭습니다. 우리가 손에 들고 다니는 기기부터 스마트 홈, 우리가 운전하는 자동차, 의료, 음악 교육 , 엔터테인먼트에 이르기까지 반도체는 오늘날 세상을 움직이고 있습니다. 음악은 우리가 가진 잠재력을 이끌어내고, 음악을 통해 삶의 질을 향상시키는 것을 더 쉽게 만들어줍니다. [음악] 반도체는 사실상 모든 주요 산업의 기반입니다 . 반도체가 없으면 인공지능도, 자동차도, 심지어 음악, 현대 의료, 무기 시스템도 칩 없이는 존재할 수 없습니다.
 
-- **[Boz To The Future Podcast #23 - The Future According to James Cameron](https://www.youtube.com/watch?v=qOdjM14QW0s)** — 2025-04-09 · ko · `AX`
-  제 생각에는 평면 광학 배열과 그 배열을 뇌가 실제 데이터로 어떻게 해석하는지를 살펴보는 것이 좋을 것 같습니다. 그리고 이것은 공간 데이터입니다. 시간에 따른 공간 데이터 . 솔직히 말해서 , 거기에 답이 없을 것 같다는 생각이 자꾸 드네요 . 라이트 필드 방식일 수도 있고, 평면 광학 방식일 수도 있지만, 거기에는 어떤 답도 없습니다. 이 내용을 팟캐스트에 꼭 넣어야겠어요. 안녕하세요, Baz the Future에 오신 것을 환영합니다. 저는 바즈입니다.
+- **[4 Things to Know From Computex | Intel](https://www.youtube.com/watch?v=Cv3eTjYS-VQ)** — 2026-06-08 · ko · `unclassified`
+  데이터 센터용 인텔 18A부터 완전히 새로운 게임 칩, 그리고 고객 맞춤형 실리콘에 이르기까지 , 대만에서 열리는 컴퓨텍스 전시회에서 알아야 할 네 가지 주요 사항을 소개합니다. Xeon 6 [음악] Plus가 출시되었습니다. 이 회사의 첫 번째 데이터 센터 칩은 인텔 18A 제조 공정으로 제작되었습니다. 고효율 코어가 탑재된 이 CPU는 통신 및 기업 비즈니스를 위한 에이전트형 AI 기반 음악 데이터 센터를 구동하는 데 이상적입니다 .
 
-- **[Talk it out with Meta AI - Book Club](https://www.youtube.com/watch?v=bOj_LCHmINU)** — 2025-03-07 · ko · `unclassified`
-  독서 모임이 너무 기대돼요. 오늘 밤에 보자. 안녕. 마타, 우리 거실을 좀 더 해양풍으로 꾸미려면 어떻게 해야 할까? 배의 구조를 연상시키도록 가구를 각진 형태로 재배치해 보세요. 마타, 이 전채 요리들에 어울리는 기발한 고래 관련 말장난 이름 좀 생각해 줘. 혹등고래 후무스, 일각고래 나초. 귀여운. 고래는 삶의 광대함 과 존재의 무의미함을 상징합니다 . 모비딕에 대한 토론 주제를 좀 알려주시겠어요? 복수부터 시작해 볼까요?
+- **[Intel Computex Keynote 2026](https://www.youtube.com/watch?v=7HvrdXjdlU8)** — 2026-06-02 · en · `AX`
+  Silicon, the foundation of modern technology. Every transistor placed with purpose. [music] Every watt wrestled from physics. Where every instruction set earns its right to execute. This is how performance gets driven, how efficiency gets built, how intelligence acts, not just [music] answers. Our future is with ecosystems. Shaped by architecture. Capable of connecting technologies, tools, and partners. Powerful enough to execute. Efficient enough to scale. Familiar enough to build with speed.
 
-- **[Talk it out with Meta AI - Thermodynamics](https://www.youtube.com/watch?v=G4QO490GlG8)** — 2025-03-07 · ko · `unclassified`
-  내일 부모님이 너를 만나는 게 너무 기대돼 . 너무 기대돼요. 아, 참, 저희 아버지는 NASA에서 열역학 전문가로 일하세요. 안녕. 메타, 열역학자가 도대체 ​​뭐야? 열역학자는 에너지와 열 전달을 연구합니다. 메타, 열평형에 대해 설명해 줘. 열 발생을 관리합니다. 그래서 연료 효율을 최적화합니다. 정확히. 만나서 반갑습니다, 선생님. 액체 연료에서 하이브리드 추진제로의 전환에 대해 당신의 생각을 들어볼 생각에 벌써부터 기대됩니다. 무엇? 저는 보험 판매원입니다. 무엇? 농담이에요. 제가 자세히 알려드릴게요. 아빠, 친절하게 대해 주세요.
+- **[How Intel's EMIB technology is improving advanced chip packaging 📍| Intel](https://www.youtube.com/watch?v=K4Dkmb126-E)** — 2026-05-26 · en · `unclassified`
+  - AI requires massive power. Instead of making bigger and bigger and more complicated computer chips, Intel uses chipslets where different kinds of small, specialized chips all connect together on what's called a package or the platform it all sits on. Kind of like silicon mosaic art. Enter EMIB, or Embedded Multi-Die Interconnect Bridge. While others use expensive silicon interposers as the connection layer between chips, Intel Foundry embeds tiny, high speed silicon bridges only where they're needed.
 
-- **[i h8 ai](https://www.youtube.com/watch?v=4iIQHZ19El4)** — 2024-10-17 · en · `unclassified`
-  I hate AI from everything that I have been told AI is going to hurt my industry how could I possibly tell a story about why AI was good for us when all I could see from where I'm standing was bad so I wrote my [Music] dad little Anish who was that again little Anish grew up in San Jose California his parents didn't have a lot of money …
+- **[Remote management without boundaries | Galaxy Book6 Enterprise Edition | Samsung | Intel](https://www.youtube.com/watch?v=Di9KGHwB4hw)** — 2026-05-07 · ko · `unclassified`
+  시간이 어디로 갔지? 그럼, 비행하는 동안 계속 일할게요 . 안 돼요. 진지하게? 내 컴퓨터가 꺼졌어요. 이것 좀 봐주시겠어요 ? 괜찮아요. 제가 한번 살펴보겠습니다. 보이시나요? 이제 업무에 복귀하실 수 있습니다. 오, 당신은 꽤 잘하네요. 제 말은, 이 노트 PC는 꽤 괜찮다는 겁니다. 경계 없는 원격 관리.
 
-- **[Innovation in the EU](https://www.youtube.com/watch?v=j-qLIclSTzM)** — 2024-10-10 · en · `unclassified`
-  imagine me in France with a cresant and the coffee yeah oh I love it are you excited for these products to come to France to the EU I'm very exciting to taste it it's going to be amazing I will get one not available in the EU yeah I know I want now I want to use it hey Ma can this QR code please this product is going …
+- **[Work and Play and Create and Edit and Share and Repeat | Intel](https://www.youtube.com/watch?v=VSrQVuUJAjY)** — 2026-05-06 · ko · `unclassified`
+  [음악] 인텔 코어 울트라 시리즈 3를 소개합니다. 초슬림 노트북의 새로운 기준을 제시합니다 . 그리고? 게이밍급 그래픽과 PC에서 가장 뛰어난 AI 경험을 즐길 수 있습니다. 그리고? 갤러리 전체를 몇 분 만에 편집할 수 있습니다. 거의 실시간으로 4K 비디오를 녹화하고, 자막을 추가하고, 게시하세요. 그리고? 심지어 그것과 대화도 할 수 있습니다 . 부조종사, 물고기를 더 크게 만들어 줘. 그리고 이 제품은 며칠 동안 사용할 수 있도록 배터리 수명이 설계되었다는 점도 말씀드렸던가요? 그리고?
 
-- **[Ray-Ban Meta & Be My Eyes: Every Step of the Way](https://www.youtube.com/watch?v=YAGVg7b3bNc)** — 2024-10-10 · en · `unclassified`
-  I have a very strong sense of identity in my blindness. One of the misconceptions that people have about blind people is that we don't care about how we look or the way we present ourselves to the world. The Ray-Ban Meta Glasses allows me to still look fashionable and be able to do the tasks that I need done as a blind person. - Hey, Meta call a volunteer with Be My Eyes.
+- **[Intel Foveros Technology: Inside Advanced Packaging in New Mexico | Intel](https://www.youtube.com/watch?v=MWo8PO74PDg)** — 2026-05-04 · ko · `unclassified`
+  자, 안으로 들어가자. 인텔 뉴멕시코에서는 소형 특수 칩 타일들을 하나의 고성능 시스템으로 연결하고 있습니다. 포베로스(Foveros)라는 기술을 사용하면 이러한 칩렛을 인터포저에 연결할 수 있습니다. 그 인터포저를 피자 도우처럼 생각해 보세요 . 이것은 칩 부착 도구입니다. 이는 인텔의 포베로스(Foveros) 고급 패키징 공정의 첫 번째 단계입니다 . 음식에 비유하자면, 이 도구는 피자 도우를 가져오고, 원하는 피자 토핑을 기계 반대편에 넣으면 도우 위에 토핑을 붙여주는 역할을 합니다. 그다음에는 오븐에 넣어 그 시스템[음악]을 함께 구워내는 겁니다.
 
-- **[Holographic AR glasses!? First look at Meta's Orion](https://www.youtube.com/watch?v=WUaxBmdMMKo)** — 2024-09-28 · ko · `unclassified`
-  와, 이거 진짜 멋지다. 지난주에 정말 멋진 소식을 발표했습니다 . 이것은 오리온, 세계 역사상 가장 진보된 안경입니다 . 기본적으로 공상 과학이 현실과 만난 것과 같습니다 . 아직 판매하지 않으니 제가 직접 사용해 보겠습니다 . 하지만 먼저, 우리가 어떻게 여기까지 오게 되었는지, 그리고 그 이유는 무엇인지 살펴보겠습니다. 우리는 이것을 미래로 가는 타임머신이라고 생각합니다. 사람들은 미래의 모습을 예측하고, 자신의 창의력을 발휘하여 플랫폼에 더 많은 응용 프로그램, 사용 사례 및 콘텐츠를 추가하는 방법을 알 수 있습니다
+- **[Intel Foundry | Yours for the Making | Intel](https://www.youtube.com/watch?v=ufaprXJwnys)** — 2026-04-21 · ko · `unclassified`
+  [음악] 헤이. [음악] 헤이. 여기요 . [음악] 헤이. 여기요 . [음악] 헤이. [음악] 헤이. 여기요 .
 
-- **[Inspired Education](https://www.youtube.com/watch?v=t99r-XaZEyo)** — 2024-09-20 · ko · `unclassified`
-  [음악] 인스파이어드 교육 그룹은 6개 대륙에 걸쳐 120개 학교를 운영하고 있습니다. 헤드셋을 착용해 주세요. 저희는 전 세계 모든 학교에서 2,000대 이상의 메타크 클래스 기기를 사용하고 있습니다. 헤드셋을 착용하면 가상 현실 및 혼합 현실을 활용한 교육 구성 요소 중 하나를 선택할 수 있습니다. 저희는 이러한 모든 가능성을 활용하여 교육 과정을 향상시키고 학생들에게 특별한 경험을 제공하고 있습니다. 정말 놀랍죠? 모든 것을 맞춤형으로 제작할 수 있습니다. 지리, 이해되시나요?
+- **[AI Engineering with Control and Confidence—Powered by TurinTech + Intel | Intel](https://www.youtube.com/watch?v=I30DMglXwS0)** — 2026-03-25 · ko · `unclassified`
+  인공지능 공학은 중요한 음악적 변곡점에 도달하고 있습니다. 팀들은 단순히 더 빠른 결과물을 원하는 것이 아니라, AI가 작동하는 방식에 대한 더 많은 제어권을 원합니다 . 음악을 제작하고 핵심 소프트웨어를 유지 관리하는 사람들에게는 코드가 실행되는 위치, 데이터가 처리되는 방식, 그리고 결과물(음악)이 검증되는 방식을 제어하는 ​​것이 필수적입니다. 저희는 비즈니스에 필수적인 소프트웨어인 음악을 발전시키기 위한 최적화 플랫폼인 Artemis를 개발합니다. 이를 통해 팀은 가시성, 검증 및 제어를 통해 음악을 현대화하고 성능을 개선하며 품질을 향상시킬 수 있습니다
 
-- **[Modern Funk Glassblowing](https://www.youtube.com/watch?v=qDQ36qgjIlw)** — 2024-07-22 · ko · `unclassified`
-  인스타그램은 제가 처음 작업을 시작했을 때부터 제 개인 갤러리였어요. 순전히 제가 뭔가를 만들었다는 사실에 대한 흥분으로 시작했죠. 세상에, 이게 뭐야! 제 작업 스타일은 모던 펑크 미학이라고 설명할 수 있어요. 그냥 자유로운 스타일이죠. 제 영감은 도시 풍경, 밝은 색상, 다양한 패턴, 아이들 장난감에서 많이 와요. 제가 처음 시작했을 때는 사람들이 작업을 하는 방식에 대해 특정한 기준을 가지고 있었어요. 학위를 따야 하고, 갤러리에 소속되어야 한다고요. 하지만 누군가의 조언은 그저 그 사람의 [박수] [음악] 자서전일 뿐이었죠.
+- **[Advancing silicon security through Formal Verification | Chips & Salsa | Intel](https://www.youtube.com/watch?v=q8OsRu4H8lo)** — 2026-03-25 · ko · `unclassified`
+  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트입니다. 오늘 우리가 다룰 주제는 실리콘 스케일에서의 형식 검증입니다. 저와 함께 인텔의 선임 이사인 제이슨 펑 씨가 자리에 함께했습니다. 그는 공격 보안 연구와 학술 연구 협력 업무를 담당하고 있습니다. 제이슨, 다시 출연해 주셔서 감사합니다. 와주셔서 반갑습니다. 먼저 팀에서 하는 일에 대해 간략하게 소개해 주시고 , 이번 학술 연구 활동에 대해서도 좀 더 자세히 설명해 주시겠어요? 다시 만나서 반갑습니다
 
-- **[Juju Watkins & Chance the Rapper on AI Growing Women’s Basketball](https://www.youtube.com/watch?v=eXYr5dAUYJU)** — 2024-07-12 · ko · `unclassified`
-  WNBA 열성 팬덤에 대해 이야기할 이번 토론에 정말 기대가 큽니다. 이번 토론의 중심은 클로이가 맡아줄 테니, 이제 본격적으로 이야기를 시작해 볼까요? 제 친한 친구 중에 최근에 WNBA 팬이 된 친구가 있는데, 그 친구가 저에게 메타 AI를 처음 소개시켜 준 계기이기도 해요. 그 친구는 시카고 스카이와 피버의 경기를 보러 가기 전에 인스타그램의 메타 AI 계정에 들어가서 시카고 스카이에 대해 알아야 할 게 뭔지 찾아봤다고 하더라고요.
+- **[Advancing silicon security through Negative Space Testing | Chips & Salsa | Intel](https://www.youtube.com/watch?v=Al6v0IxOSFM)** — 2026-03-25 · ko · `unclassified`
+  칩스 앤 살사에 오신 것을 환영합니다! 이곳에서는 인텔의 보안에 대해 이야기합니다. 저는 제리 브라이언트이고, 오늘은 비벡 토리 씨를 모시고 네거티브 스페이스 테스트에 대해 이야기 나눠보게 되어 기쁩니다 . 네, 이는 저희가 2026년 인텔 플랫폼 보안 보고서에서 다룬 내용입니다. 어, 비벡은 인텔 제품 품질 보증 및 보안 그룹의 부사장이며, 우리 제품에 영향을 미치는 중요한 보안 문제 등을 담당하고 있습니다 . 그는 또한 인텔 플랫폼 업데이트 및 장기 지원 프로그램을 이끌고 있으며, 마지막으로 미래 제품의 보안을 개선하기 위해 노력하고 있습니다
 
-- **[Mama Bears](https://www.youtube.com/watch?v=n0F5oCn5nGU)** — 2024-06-22 · ko · `unclassified`
-  진정한 엄마는 LGBTQ+ 자녀를 있는 그대로 진심으로 지지하고 응원하며 축하합니다. 제가 페이스북 그룹 '리얼 마마 베어스'를 시작했을 때, 엄마들이 서로 소통하고 정보를 공유하며 서로 격려하고 지지를 주고받을 수 있는 공간을 만들고 싶었습니다. 저는 이 그룹의 설립자 리즈 다이어입니다. 그리고 세상을 바꿀 수 있을지도 모른다는 꿈도 있었습니다. 남편과 저는 텍사스주 댈러스-포트워스 지역에서 두 아들을 키웠습니다. 큰아들이 19살 때 게이라고 커밍아웃했을 때, 저희는 어떻게 생각해야 할지 몰랐습니다.
+- **[Citrix and Intel deliver the VDI Mobility that Keeps up with the Workday | Intel](https://www.youtube.com/watch?v=FtV2FeD8Zrg)** — 2026-03-25 · ko · `unclassified`
+  시트릭스와 인텔은 디지털 워크스페이스의 경계를 재정의하고 있습니다. [음악] 업계 최고 수준의 가상화 기술과 세계적 수준의 실리콘을 결합하여 효율성과 지속 가능성에 중점을 두면서도 고성능 경험을 제공합니다. [음악] 시트릭스 HDX 초고해상도 그래픽 기술을 통해 사용자는 고화질 가상 앱과 데스크톱을 경험할 수 있습니다. 거래소에서 밀리초 단위로 중요한 데이터를 분석하든, 환자의 침상에서 필수적인 치료를 지원하든, 네트워크 및 배터리 수명 소모를 최소화하면서 음악을 활용합니다. 우리는 함께 현대 기업들이 전통적인 한계를 뛰어넘도록 지원합니다.
 
-- **[Expand your world with Meta AI](https://www.youtube.com/watch?v=1zwZG4W1xYI)** — 2024-06-12 · ko · `unclassified`
-  [음악] 마라톤을 뛸 수 있도록 훈련 프로그램을 설계해 주세요. C 지점의 호수에서 망원경으로 무엇을 볼 수 있을까요? 이것을 요약해 주세요. 이것을 어떻게 심나요? 무엇을 얻게 될까요? 음, 도움이 필요해요. 이 접시는 뭐죠? 여러분, 퀴즈를 풀어 볼까요? 좋아요, 해 봅시다! 제가 이길 거예요! 커다란 참나무에 사다리로 연결된 현관이 있는 나무 위의 집을 상상해 보세요. 1954년의 리틀 이탈리아를 상상해 보세요. 엄마, 이것 좀 보고 뭘 만들어야 할지 말해 보세요.
+- **[ControlUp x Intel: On-Device Intelligence for Real-Time Detection and Response | Intel](https://www.youtube.com/watch?v=_6xO-GP1L6Y)** — 2026-03-25 · ko · `unclassified`
+  직원 경험은 이제 IT의 전략적 우선순위가 되었지만, 직원들은 여전히 업무를 방해하는 기기 문제, 시스템 속도 저하, 어색한 상호 작용 또는 예상대로 작동하지 않는 PC와 같은 문제에 직면하고 있습니다. 이러한 문제들은 IT 부서에서 상황을 파악하거나 맥락을 알기 전에 사용자들이 회의, 집중 작업, 중요한 업무 수행 중에 즉시 느끼게 됩니다 . IT 부서에 알릴 때쯤이면 이미 서비스 이용에 차질이 생긴 후입니다. [음악] 기존 방식은 생산성에 영향을 미친 후에야 문제가 드러나고, [음악] 사후 대응적인 문제 해결을 강요합니다 .
 
-- **[FoondaMate](https://www.youtube.com/watch?v=VD8GpYO6kZg)** — 2024-06-06 · ko · `unclassified`
-  [음악] 저는 남아프리카 공화국 뉴브런즈윅의 시골 마을에서 자랐습니다. 저희 집은 자원이 넉넉하지 않았습니다. 2003년 까지 전기조차 들어오지 않았죠. 학교에는 교과서가 몇 권밖에 없었습니다. 서너 명씩 짝을 지어 집에 가져가서 공부했는데, 만약 한 학생이 그 교과서를 잃어버리면 그 반은 더 이상 교과서를 쓸 수 없게 되는 상황이었습니다. 다음 학년 학생들도 마찬가지였죠. 돌이켜보면, 펀도 메이트(Fundomate)라는 아이디어가 그때 처음 떠올랐습니다. 펀도메이트는 WhatsApp이나 메신저를 통해 접속할 수 있는, Lama로 구축된 AI 학습 플랫폼입니다.
+- **[CrowdStrike and Intel deliver secure AI at the endpoint | Intel](https://www.youtube.com/watch?v=EEBtFEARD74)** — 2026-03-25 · ko · `AX`
+  인공지능은 이제 일상 업무에 깊숙이 자리 잡고 있습니다. 직원들은 엔드포인트와 클라우드를 아우르는 AI 시스템 및 에이전트와 점점 더 많이 상호 작용하며 , 민감한 기업 데이터에 접근하여 실시간 결과를 도출합니다. [음악] AI PC의 등장으로 CPU, GPU, NPU를 아우르는 고급 컴퓨팅 성능이 향상되어 AI 워크로드와 보안 기능을 데이터가 생성되고 사용되는 곳과 더 가까운 곳에서 실행할 수 있게 되었습니다. [음악] 이러한 변화는 엔드포인트에서 AI 혁신과 보호 모두에 있어 가능한 범위를 확장합니다 .
 
-- **[Bring Your Vision and Unlock New Possibilities](https://www.youtube.com/watch?v=7DJfjSRrHlI)** — 2024-05-16 · ko · `unclassified`
-  우리가 연결될 때 무언가 특별한 일이 일어납니다. 우리는 살아있음을 느끼고, 도전을 받고, 영감을 받습니다. 하지만 연결은 단순한 감정 그 이상입니다. 그것은 강력한 힘입니다. 우리 사이의 간극을 좁힐 때, 우리는 새로운 가능성을 열어갈 수 있습니다. 바로 그때 우리 삶에서 무언가를 이뤄낼 수 있습니다. 여러분도 그렇게 생각하시나요? 우리 함께 연결해 봅시다!
+- **[Executive overview of the 2026 Intel Platform Security Report | Chips & Salsa | Intel](https://www.youtube.com/watch?v=J5KlRWZm_fk)** — 2026-03-25 · ko · `AX`
+  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 오늘은 아난드 파슈파티 님을 모시고 2026년 인텔 플랫폼 보안 보고서에 대해 이야기 나눠보도록 하겠습니다. 아난드는 인텔 제품 품질 보증 및 보안 부문 총괄 관리자 겸 부사장이며, 제품 보안 및 기밀 컴퓨팅 로드맵을 담당하고 있습니다. 아난드 씨, 환영합니다. 방송에 다시 나와주셔서 반갑습니다. 제리, 다시 초대해 주셔서 감사합니다. 지난번에 제가 꽤 잘했나 보군요 . 그래서 다시 불러주신 거겠죠. 여기 오게 되어 기쁩니다.
 
-- **[Bring Your Vision and Unlock New Possibilities](https://www.youtube.com/watch?v=iBdeIJhx_88)** — 2024-05-16 · ko · `unclassified`
-  탐험가 여러분, 낙천주의자 여러분, 신념을 가진 여러분, 다른 사람들이 자신만의 세계를 구현하도록 돕는 모든 연결의 가치를 아는 여러분, 함께 연결해 봅시다.
+- **[Hardware Assisted Software Robustness | Chips & Salsa | Intel](https://www.youtube.com/watch?v=49u8xVoLhZM)** — 2026-03-25 · ko · `unclassified`
+  안녕하세요 여러분, 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다 . 저는 진행자 제리 브라이언트입니다. 오늘 주제는 소프트웨어 안정성, 그리고 그 안에서 하드웨어의 역할입니다. 특히 x86 생태계에 도입될 새로운 기술에 대해 이야기해 볼 생각입니다 . 오늘 저는 인텔의 훌륭한 동료 세 명과 함께하고 있습니다 . 먼저 여러분 모두 간단한 자기소개 와 소프트웨어 안정성과 관련된 각자의 역할에 대해 말씀해 주시겠어요 ? 저는 수석 엔지니어이자 CPU 설계자입니다.
 
-- **[Come Build Something Different  With Us](https://www.youtube.com/watch?v=aNULtfRUXlM)** — 2024-05-16 · ko · `unclassified`
-  [음악] 미래의 연결을 구축하고 사람들을 더욱 가깝게 만드는 것은 꽤 어려운 일이죠. 하지만 다행히도 우리는 퍼즐을 좋아하고, 끊임없이 반복하고, 디버깅하고, 영감을 찾아 나섭니다. 우리는 이미 가족, 친구, 그리고 전 세계 절반 이상을 연결했습니다. 나머지 절반을 연결하기 위해서는 뭔가 다른 것을 만들어야 합니다. 새로운 것을 만들어낼 새로운 요소가 필요하고, 그 새로운 요소는 바로 당신입니다.
+- **[How enterprise PC platforms are evolving for security, AI, and IT scale | Intel](https://www.youtube.com/watch?v=7SeXK1uVdYk)** — 2026-03-25 · ko · `unclassified`
+  파브, 다시 얘기하게 돼서 정말 반가워. 와, 바로 지난 1월에 소비자 용 인텔 코어 울트라 시리즈 3 프로세서를 발표했었는데 말이죠 . 인텔 18A 아키텍처 기반의 첫 번째 플랫폼으로 , 루나 레이크의 효율성 과 애로우 레이크의 성능을 결합했습니다. 그리고 오늘부터 인텔 vPro [음악]가 탑재된 당사의 시리즈 3 프로세서가 Windows 11 상용 PC에서 사용 가능하게 되었음을 발표합니다 . 시리즈 3에 대한 수요가 매우 높고, 고객들은 Intel vPro와 Windows 11에서의 기능을 선보이게 되어 매우 기뻐하고 있습니다
 
-- **[Come Build Something Different With Us](https://www.youtube.com/watch?v=xsdIDp937vc)** — 2024-05-16 · ko · `unclassified`
-  미래의 연결을 구축하고 사람들을 더욱 가깝게 만드는 것. 우리는 이미 전 세계 절반 이상을 연결했습니다. 나머지 절반을 연결하기 위해서는 뭔가 다른 것을 만들어야 합니다. 새로운 것을 만들어낼 새로운 요소가 필요하고, 그 새로운 요소는 바로 당신입니다.
+- **[Lakeside and Intel deliver On-Device Intelligence to Address Issues Before They Disrupt Work | Intel](https://www.youtube.com/watch?v=5IvxR85tZlQ)** — 2026-03-25 · ko · `unclassified`
+  모든 기업에서 디지털 직원 경험은 IT 부서의 전략적 우선순위입니다 . 하지만 직원들은 여전히 업무를 방해하는 기기 문제, 속도가 느려지는 음악 시스템, 어색한 상호 작용 또는 예상대로 작동하지 않는 기기 문제를 겪고 있습니다. 이러한 문제들은 회의 중, 음악 관련 작업 중, 그리고 중요한 업무 수행 중에 사용자들이 즉시 느끼게 되며, IT 부서에서 이를 인지하기 전에 발생하는 경우가 많습니다. IT 부서에 알림이 갈 때쯤이면 사용자 경험은 이미 중단된 상태입니다.
 
-- **[Different Builds Different](https://www.youtube.com/watch?v=_hEhTf3XCtM)** — 2024-05-07 · ko · `unclassified`
-  [음악] 미래의 연결을 구축하고 사람들을 더욱 가깝게 만드는 것, 꽤 어려운 일이죠. 하지만 다행히도 우리는 좋은 퍼즐을 좋아하고, 도전을 절대 피하지 않으며, 끊임없이 반복하고, 디버깅하고, 새로운 것을 만들기 위한 영감을 찾습니다. 우리가 사랑하는 것에 깊이 몰두하고, 서로에게 배우고, 우리 사이의 간극을 메우고, 더 자주 함께할 수 있도록 도와주는 것들 없이는 살아갈 수 없어요. 이것들은 큰 문제이기도 하지만, 훨씬 더 큰 잠재력을 가지고 있죠. 하지만 우리는 이미 이런 경험을 해봤어요.
+- **[Powering Enterprise 3D Workflows with Adobe and Intel | Intel](https://www.youtube.com/watch?v=JFVrnXOxqak)** — 2026-03-25 · ko · `unclassified`
+  안녕하세요, 저는 저스틴 패튼이고 어도비에서 음악 및 3D 크리에이티브 디렉터로 일하고 있습니다. 저는 디지털 디자인 과 3D 워크플로우를 활용하여 제품, 경험, 아이디어를 현실로 구현하는 디자이너 및 크리에이티브 팀과 긴밀하게 협력합니다. 저는 유수의 게임 스튜디오, VFX 회사, 그리고 세계적인 기술 혁신 기업들과 3D 시각화 작업을 해왔으며, 제 창의력을 뒷받침할 최고의 하드웨어를 항상 찾고 있습니다. 이러한 워크플로가 점점 더 현실적이고 상호작용적으로 변함에 따라 소프트웨어와 하드웨어는 동기화 상태를 유지해야 합니다.
 
-- **[NYC Brunch Squad](https://www.youtube.com/watch?v=8brxjVNY45I)** — 2024-04-16 · en · `unclassified`
-  God I love New York there's a lot of energy in the city there's a lot of people there's always something going on there's always something to do it's completely different from anywhere else I moved to New York in 2017 I had friends that were already living here and I felt really lucky to have that it made the adjustment a lot easier I actually ended up meeting a …
+- **[Secure AI with Intel Confidential Computing Technologies | Chips & Salsa | Intel](https://www.youtube.com/watch?v=eDzxYu0OAzg)** — 2026-03-25 · ko · `AX`
+  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트이고, 오늘은 사이먼 존슨 과 라구 옐루리가 함께합니다. 그리고 우리는 AI 워크로드를 엔드 투 엔드로 보호하기 위한 기밀 AI 및 인텔 솔루션에 대해 논의할 것입니다 . 만나서 반갑습니다. 여러분 모두 환영합니다. 시작하기 전에 각자 인텔에서 맡고 있는 역할과 그것이 기밀 AI와 어떻게 연결되는지 간략하게 소개해 주시겠어요? 좋아요, 그럼 제가 먼저 시작할게요. 음, 저는 인텔에서 기밀 컴퓨팅 기술 개발 조직을 총괄하는 책임자입니다
 
-- **[Fight Back](https://www.youtube.com/watch?v=tI1OUvqMcpU)** — 2024-03-11 · en · `unclassified`
-  When I was a teenager, I think I was 14 or 15, I decided to start doing martial arts. Martial arts or self-defense will affect the way you present yourself to the world. It helped me to feel more confident in my own body and in myself. I decided that I was not just going to be a martial arts practitioner, but I was going to help spread the word about the benefit of physical empowerment.
+- **[Intel 18A | Intel](https://www.youtube.com/watch?v=3rBe0h4c204)** — 2026-03-16 · ko · `unclassified`
+  차세대 컴퓨팅을 향한 끊임없는 노력의 일환으로, 인텔 파운드리는 18옹스트롬을 의미하는 인텔 18A 프로세스 노드를 선보입니다. 18A는 북미에서 완전히 설계 및 생산된 가장 진보된 노드입니다. [음악] 이 제품은 광범위한 IP, EDA 및 디자인 서비스 파트너 생태계의 지원을 받는 업계 최초의 기술 조합을 특징으로 합니다. 이 제품은 와트당 더 나은 성능과 향상된 면적 효율성을 제공하여 최고 수준의 성능을 요구하는 애플리케이션을 위한 새로운 컴퓨팅 아키텍처를 가능하게 합니다 . 이것이 바로 인텔 파운드리의 음악 제작 능력입니다
 
-- **[Native Foods](https://www.youtube.com/watch?v=0_8lkVsQ-Kk)** — 2024-03-01 · en · `unclassified`
-  - Food is the greatest connector in the world. We all eat. Most of us love to eat. Some crazy people like me love to cook, too. [Speaking native language] Hello, welcome. My name is Mindy, and I am the chef and owner of Karkalla Byron Bay. I’m also a proud Widjabul Wia-bul woman from the Bundjalung Nation. My desire is to connect people to our First Nations’ culture through food.
+- **[Intel Foundry Omni MIM | Intel](https://www.youtube.com/watch?v=36ZHK3dIIfM)** — 2026-03-16 · ko · `unclassified`
+  [음악] 파워 스택의 하단에 위치한 Omni-MIM 커패시터는 온다이(on-die)에서 탁월한 [음악] 디커플링을 제공하여 성능을 향상시키고, 전압 변동을 줄여 전력 공급을 더욱 안정화합니다. Omni-MIM [음악]은 인텔 파운드리의 3D 고급 패키징 기술에 통합될 수도 있으며, [음악] 멀티칩렛 아키텍처에서 안정적이고 신뢰할 수 있는 전력을 더욱 구현합니다. [음악] 이것이 바로 인텔 파운드리의 힘입니다.
 
-- **[Gorilla Gram](https://www.youtube.com/watch?v=X8lbpvZgYpw)** — 2023-12-28 · en · `unclassified`
-  - Mountain gorillas are curious animals. They bring the connection of the love between the family. Same like humans. There are 12 gorilla families that are on Instagram. Gorillagram brings the gorillas to your home. To your phone. You take a picture, you tag the family, and the individual. It's like a family photo album. Involving communities in a conservation is very critical. In 1970s, habitats were being exploited.
+- **[Intel Foundry PowerVia | Intel](https://www.youtube.com/watch?v=OtAWftbX2Jk)** — 2026-03-16 · ko · `unclassified`
+  인텔 파운드리의 PowerV [음악] [음악]는 업계 최초로 후면 전력 공급 기술을 도입했습니다. 기존 방식에서는 전력이 다이의 전면을 통해 전달되어 혼잡을 초래합니다 . [음악] 신호 라우팅을 최적화할 수 있게 됩니다 . [음악]과 트랜지스터 레이어의 연결은 혁신적인 나노 TSV 또는 실리콘 [음악] 비아를 통해 이루어지는데, 이는 현재 사용되는 TSV보다 500배 더 작습니다 . 이것이 바로 인텔 파운드리의 음악적 힘입니다 .
 
-- **[Selfless Fiji](https://www.youtube.com/watch?v=rZkeII645Xc)** — 2023-11-21 · en · `unclassified`
-  Fiji to me is my home country. I wouldn’t be anywhere, any part of the world, than here. In the Pacific, we have a sort of a communal way of doing things. We always want to help one another in any sort of way. - Hello everyone. Selfless Fiji here. We’re here at Fiji Cancer Society. We’re about to come in and really spice up the place with some really creative murals.
+- **[Intel Foundry RibbonFET | Intel](https://www.youtube.com/watch?v=t_YmVXB6veY)** — 2026-03-16 · ko · `unclassified`
+  [음악] 트랜지스터 기술의 혁명적인 도약인 리본 FET가 18A 공정에 적용되었습니다. 이 제품은 게이트 로 둘러싸인 리본 모양의 채널을 사용하여 모든 전압에서 더 나은 [음악] 제어 및 더 높은 구동 전류를 제공합니다 . 그 결과 트랜지스터 스위칭 속도가 빨라지고, 크기는 더 작아지면서 성능은 향상됩니다. [음악] 다양한 리본 FET 폭의 유연성을 통해 애플리케이션 전반에 걸쳐 전력 및 성능을 세밀하게 조정할 수 있습니다. 리본 FET와 파워비아의 놀라운 조합은 고성능 컴퓨팅, 인공지능, 모바일 및 네트워킹의 미래를 형성할 혁신의 길을 열어줍니다.
 
-- **[Cosmos Astronomy](https://www.youtube.com/watch?v=RvsavdWvm1M)** — 2023-11-15 · ko · `unclassified`
-  나는 밤에 길을 잃곤 했다. 저 위에 있는 별이 어떤 별인지 알고 싶었어요. 각각의 것들은 나는 살펴보고는 그 사실에 놀랐다. 우리는 더 이상 존재하지 않는 행성에 있었다. 지구뿐 아니라 그들은 이미 존재했다 훨씬 더 많은 행성이 있었고, 더 이상 하나의 행성만이 아니었다. 은하 하나였지만, 은하들은 아주 많았다. 더. 그러니까, 저는 점점 더 그렇게 느끼고 있었어요. 작은 저는 이 사실을 공유해야 한다고 생각했습니다. 내가 감탄했던 방식 다른 사람들과 함께하는 천문학.
+- **[AI That Moves the World keynote | Intel](https://www.youtube.com/watch?v=JzZQTYCuxkM)** — 2026-03-10 · ko · `AX`
+  한순간이 모든 것을 바꿀 수 있다. [음악] 마찰이 점화로 이어진다. 작은 불꽃이 불을 붙인다. 삶은 현재와 미래의 음악 사이의 경계에서 펼쳐지기 때문입니다 . 인공지능이 물리적 세계 (음악)와 만나 새로운 기회를 창출하는 변곡점에 도달했습니다. 인류는 도시가 우리와 함께 움직이고, 병원이 모든 상호작용에서 음악을 통해 학습하고 , 공장이 변화에 자동으로 적응하며, 치명적인 오류가 발생하기 전에 예방되는 시대에 접어들었습니다. [음악] 이러한 기회를 잡으려면 이미 존재하는 것과 연결되고 제약 없이 혁신할 수 있는 개방형 플랫폼이 필요합니다 .
 
-- **[NYC Creative Share Their World](https://www.youtube.com/watch?v=_RaQ3ZTUBXk)** — 2023-10-30 · ko · `unclassified`
-  [음악] 방금 이 새로운 메타 레이 밴드 선글라스를 손에 넣었어요. 정말 멋지고 무겁지도 않네요. 꽤 가벼워요. 아, 죄송해요. 무슨 일이죠? 저는 니그라 실베스터이고, 오늘은 제 고향인 뉴욕에 왔습니다. 안녕하세요 여러분, 저는 엠마 로그입니다. 지금 로어 이스트 사이드에 있는 제 가게 앞에서 인사드리고 있어요. 제 이름은 케일럽 심슨이고, 사람들의 눈을 뜨게 해주는 집을 보여드리는 일을 합니다. 안녕하세요 여러분, 저는 레오미입니다. 오늘은 제 [음악] 시각으로 제 작품을 보여드리겠습니다. 메타, 녹음 시작해!
+- **[Intel Celebrates Engineers Week 2026 with STEM Activities in Schools | Intel](https://www.youtube.com/watch?v=t1DMeI0ygBY)** — 2026-03-05 · ko · `unclassified`
+  오늘은 여러 가지 색깔의 칩들을 같은 색깔끼리 분류해 볼 거예요. [음악] [음악] 그 다음엔 무슨 일이 일어날 것 같나요? [음악] 색깔별로 분류하고 크기별로 분류하고 있네요. 그건 아주 직관적이네요. [음악] 만일의 사태에 대비해서 떨어지지 않도록 보호막을 쳐야 해요. 자 , 그럼 이제 만들어 볼까요? 우리가 설득했어요. 파란색과 보라색은 빼고 빨간색만 남겨두기로 했죠. 오, 아주 좋네요. 그래서 우리는 가장 작은 것부터 가장 큰 음악까지 순서대로 진행했습니다.
 
-- **[PianoVision Film](https://www.youtube.com/watch?v=2QoVxeZXp4k)** — 2023-10-20 · ko · `unclassified`
-  음악은 인간 본성 속에 깊이 연결되는 무언가가 있는 것 같아요. 저에게는 마치 다른 세상으로 데려다주는 듯한 느낌을 줍니다. 모든 사람은 음악이라는 언어를 배워야 자신을 표현할 수 있다고 생각해요. 하지만 저는 음악을 배우는 게 항상 어려웠어요. ADHD가 있는 저에게는 음악이 자연스럽게 머릿속에 들어오지 않았거든요. 음악을 연주하고 배우는 건 쉽지 않았는데, 기존의 교육 방식은 ADHD를 가진 사람들에게는 적합하지 않았기 때문이죠. 저는 Zach Reed이고, Piano Vision의 창립자이자 CEO입니다.
+- **[Smarter deepfake detection to help you discern what's fake and what's real | Intel](https://www.youtube.com/watch?v=JJ33isdDBik)** — 2026-03-02 · ko · `unclassified`
+  안녕하세요. 저는 파파 베어예요. 아빠, 안녕. 그리고 이 집에서 저는 제가 일종의 보호자 역할을 한다고 생각해요. 아시다시피 , 제 일은 사람들의 배를 채워주고, 전기를 공급하고, 와이파이를 원활하게 유지하는 거예요 . [음악] 음, 그런데 최근에, 음, 최근에 저는 온라인에서 우리를 안전하게 지키는 것에 대해 많이 생각해 봤어요. 자, 이제 내 딸 크리시를 데려가세요. 그녀는 온라인에 자주 접속해요. 그녀는 현재 IT 기기에 상당히 능숙하지만, 최근에는 그녀조차도 온라인 사기에 휘말릴 뻔했습니다. 자, 여러분!
 
-- **[Introducing the Ray-Ban Meta Smart Glasses Collection](https://www.youtube.com/watch?v=E1LW_MteTho)** — 2023-10-13 · ko · `unclassified`
-  [음악] 주변 소리를 차단하지 않고 음악을 감상하고, 나만의 시점에서 창작물을 라이브 스트리밍하고, 흐름을 끊지 않고 전화를 받고, 안경에서 바로 나만의 독특한 시각을 포착하세요. Rayan과 Meta가 선보이는 차세대 스마트 안경입니다.
+- **[Lake Travis ISD Chromebook Plus Pilot Extended Cut | Intel | Google | Lenovo | SHI](https://www.youtube.com/watch?v=DyhXF1AVFpI)** — 2026-02-20 · ko · `unclassified`
+  [음악] 레이크 트래비스 독립 교육구는 텍사스주 오스틴에서 서쪽으로 약 20마일 떨어진 곳에 위치해 있습니다. 이 지역에는 약 11,000명의 음악 전공 학생들이 있습니다. 저희 시범 프로그램은 교사들을 위한 크롬북 기기 교체의 필요성에서 시작되었습니다 . 다행히 레노버가 나서서 " 새로운 레노버 크롬북 플러스가 나왔는데, 한번 구경해 보세요."라고 말했습니다. 모두가 가장 먼저 눈에 띈 것은 키보드였다. 인체 공학적으로 매우 뛰어나고 부팅 시간도 매우 짧았습니다. 그래서 저희는 아주 빠르게 작업에 착수할 수 있었고, 저희는 그 음악을 정말 좋아합니다.
 
-- **[Traveling Seniors](https://www.youtube.com/watch?v=pSR2A_Rf6gQ)** — 2023-09-19 · ko · `unclassified`
-  건강하게 이 몸이 움직이는 동안은 얼마든지 멀리 가거나 내 발로 걸어 가라. 나는 그것이 있다고 생각하지만, 나이가 오르면 어딘가 아프다. 버린 것 같은 곳에서 스스로 걸을 수 없어 그렇다면 나이가 올라가면서 그 장소라고 말하는 것은 굉장히 좁혀 갈 거라고 생각합니다. 다 이 사실 내가 그 근무한 회의 시설은 단지 운동 프로그램을 제공 할뿐만 아니라 단단히 그것을 합한 뭔가 희망이라고 할까 꿈이라든가 비전이라고 할까 [음악] 체적으로 자유가 없는 분들의 추억의 장소와 가 고향이라는 곳을 영상을 잡으러 가라.
+- **[Lake Travis ISD Chromebook Plus Pilot | Intel | Google | Lenovo | SHI](https://www.youtube.com/watch?v=noOFm_PCER0)** — 2026-02-20 · ko · `unclassified`
+  저희 시범 프로그램은 교사들을 위한 크롬북 기기 교체의 필요성에서 시작되었습니다 . 다행히 레노아가 나서서 "저희에게 인텔 코어 5 프로세서가 탑재된 최신형 레노버 크롬북 플러스가 있어요. 디자인도 훌륭하고 부팅 속도도 아주 빨라서 정말 마음에 들어요 ."라고 말했습니다. 레노버는 ALP, SHI, 구글, 그리고 인텔과 파트너십을 맺었습니다. 레이크 트래비스 교육구는 제가 업계 전반에서 본 가장 포괄적인 음악 관련 시범 사업일 것입니다. 그래서 시범 프로그램에 참여할 기회는 도움을 받을 수 있는 기회였습니다.
 
-- **[Meta's Privacy Conversation with Erin Egan and Dr. Rumman Chowdhury on Responsible AI](https://www.youtube.com/watch?v=56bQVOv4uc4)** — 2023-09-18 · en · `AX`
-  foreign [Music] hello and welcome to another privacy conversation our Series where we speak with experts about challenges at the intersection of technology and policy thank you for joining us today we're going to spend time talking about what everyone is talking about in policy circles AI recently G7 countries agreed to work together to create an international code of conduct for AI and earlier this year the White House …
+- **[Google-Intel Joint TDX Security Review | Chips & Salsa | Intel](https://www.youtube.com/watch?v=_n6WDifszh8)** — 2026-02-10 · ko · `unclassified`
+  [음악] 칩스 앤 소스 인텔에 다시 오신 것을 환영합니다. 저는 제리입니다. 저는 프리야입니다. 오늘은 인텔이 발표한 2026년 2월 보안 권고 사항에 대한 업데이트를 공유하겠습니다. 네, 그렇습니다 . 이번 릴리스에는 여러 인텔 제품의 마이크로디스크 펌웨어 및 소프트웨어 업데이트와 관련된 18개의 보안 권고 사항이 포함되어 있습니다 . 제리, 중요한 건 바로 이거야. 이러한 문제의 97%는 인텔의 선제적 제품 보안 보증을 통해 발견되었습니다.
 
-- **[Make every connection matter](https://www.youtube.com/watch?v=FRvr2NuvfUY)** — 2023-09-15 · ko · `unclassified`
-  [음악] 우리가 연결될 때 무언가가 일어납니다. 우리는 살아있음을 느끼고, 도전을 받고, 영감을 받습니다. 삶은 더 크고 밝아지지만, 연결은 단순한 감정 그 이상입니다. 그것은 힘입니다. 우리 사이의 간극을 좁힐 때 가능성이 열립니다. 그때 비로소 우리는 삶에서 무언가를 이룰 수 있습니다. [음악] 당신 과 당신의 주변 사람들도 마찬가지입니다. 끊임없이 배우고, 멈추지 않는 사람들, 사람을 우선시하는 것이 진정한 관계를 만든다는 것을 아는 낙관주의자들, 모든 연결이 사람들의 세상을 현실로 만드는 데 얼마나 중요한지 아는 신념을 가진 사람들.
+- **[Easily level up your screen recordings anytime, anywhere with CANVID and Intel® Core™ Ultra | Intel​](https://www.youtube.com/watch?v=VToy5OX2a0c)** — 2026-02-02 · ko · `unclassified`
+  Canvas의 AI 기능을 사용하면 가상 공간에서 최고의 모습과 목소리를 연출하는 것이 훨씬 쉬워집니다. 트레이시를 만나보세요. 그녀는 학교 등하교와 고객 미팅으로 바쁜 하루를 앞두고 있음에도 불구하고, 고객을 위해 흥미진진한 매물 소개 영상을 제작하는 데 열정적입니다. [음악] 그녀는 Canvid 화면 녹화 및 합성 웹캠 기능을 사용하여 카메라 앞에 설 준비가 되어 있지 않더라도 자신의 작품에 생동감을 불어넣습니다. Canvid의 AI는 그녀가 이전에 녹화했던 영상 중 하나, 즉 몇 주 전에 그녀가 가장 보기 좋았던 모습이 담긴 영상(음악 포함)을 기반으로 새로운 웹캠 영상을 생성할 수 있습니다
 
-- **[The metaverse today](https://www.youtube.com/watch?v=D8GMeEZSfPQ)** — 2023-09-07 · ko · `unclassified`
-  외국 [음악] 안과 수술 과 이를 가능하게 한 수많은 가상 훈련 시간, 협력적인 실습 학습을 통해 매일 학문적 발전이 이루어지고 있습니다. 몰입형 환경을 통해 숙련된 직업을 얻을 수 있게 되었고, 필수적인 엔진 유지 보수가 완벽해졌으며, 부상으로부터의 회복을 위한 시뮬레이션 훈련과 기술을 연마하고 성능을 향상시키도록 설계된 훈련이 가능해졌습니다. [박수] 이것이 바로 오늘날 메타버스가 매일 활용되고 있는 방식입니다.
+- **[Core Ultra Series 3 Launch Event | Intel](https://www.youtube.com/watch?v=KlIlFt2Fj1c)** — 2026-01-06 · ko · `AX`
+  립 부안 최고경영자님을 환영해 주십시오 . 안녕하세요 여러분, CES에 오신 것을 환영합니다. 오늘 함께해 주셔서 감사합니다. 전 세계의 수많은 혁신가, 창작자, 고객 및 파트너들과 함께 이 자리에 있게 되어 영광입니다. 우리는 컴퓨팅의 개념이 재정의되는 시대를 살고 있습니다. AI는 클라우드에서 엣지에 이르기까지 모든 워크플로, 모든 산업 및 모든 장치를 재편하고 있습니다 . 인텔의 사명은 지능을 누구나 접근 가능하고 효율적이며 어디에서나 활용할 수 있도록 만드는 것입니다.
 
-- **[Detroit Hives](https://www.youtube.com/watch?v=fIu1J88Or_E)** — 2023-09-01 · ko · `unclassified`
-  100년이 넘는 세월 동안 자동차 산업의 중심지였던 디트로이트는 세계 자동차 산업 발전에 크게 기여해 왔습니다. 디트로이트는 여러 가지로 유명하지만, 특히 꿀벌의 도시로도 잘 알려져 있습니다. 디트로이트에는 사람과 꿀벌 모두에게 안정적인 환경을 제공하기 위해 노력하는 비영리 단체들이 많습니다. 저희는 빈터를 교육용 양봉장이나 꿀벌 친화적인 공간으로 탈바꿈시키고 있습니다. [음악] 트레이는 9만 개가 넘는 빈터를 소유하고 있었는데, 니콜과 저는 지역 사회에 기여하고 상황을 개선할 수 있는 방법을 생각해냈습니다.
+- **[Scaling AI in FMCG: Lessons from PepsiCo Labs | Intel](https://www.youtube.com/watch?v=4JMbBbOBF1I)** — 2025-12-03 · ko · `unclassified`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 안나 파버입니다. 안나 파르바로프는 펩시코의 최첨단 기술 솔루션 활용을 총괄하고 있습니다. 펩시코의 글로벌 기술 벤처 및 혁신 팀의 일원으로서, 그녀는 펩시코의 성장을 촉진하고 가치를 창출하는 솔루션을 발굴, 테스트 및 확장합니다. 안나는 펩시코에 합류하기 전 이스라엘 최대 지주회사의 고위 임원을 역임했습니다. 안나는 기업 전략, 투자 및 기획 부문 책임자로서 회사의 신흥 성장 동력을 이끌었습니다
 
-- **[Quest for Purpose](https://www.youtube.com/watch?v=NeWbZym4PD0)** — 2023-08-08 · ko · `unclassified`
-  외국어 [음악] 예전에 나쁜 친구들과 어울리고, 늦게 집에 오고, 미성년자 음주 같은 문제로 골머리를 앓았어요. 긍정적인 목표가 없으면 부정적인 것에 빠지기 쉽죠. 지금은 좋아 보이네요, 친구. 네, 제가 15살쯤 됐을 때 아버지 일을 도와 HVAC 수리를 시작했어요. 솔직히 별로 좋아하지는 않았어요. 돈을 줘도 다락방에는 올라가고 싶지 않았던 기억이 나네요. 하지만 저는 항상 게임을 좋아했거든요. 그러던 어느 날 아버지가 인터플레이 커리큘럼을 가져오셔서 "조쉬, 메도우 퀘스트 안에서 HVAC 교육을 받을 수 있어.
+- **[AI Industrialization: The Next Frontier for Global Enterprises | Intel](https://www.youtube.com/watch?v=fSadUMtpwcY)** — 2025-11-19 · ko · `AX`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 토미 버키입니다. 오늘 저희와 함께하시는 그는 PMI의 기술 혁신 팀에서 AI 팩토리를 이끌고 계십니다. 토미는 PMI의 전사적 genai 전략을 이끄는 핵심 인물 중 한 명으로, 팀들이 분산된 파일럿 프로젝트에서 확장 가능하고 영향력 있는 솔루션으로 전환하도록 지원합니다. 그는 PMI의 AI 제공 모델 실행을 주도하며, 이 모델은 아이디어 구상 및 실험부터 산업화에 이르기까지 AI 사용 사례의 전체 수명 주기를 관리합니다 .
 
-- **[It's Coi Leray's World | Make My Day (with David Guetta)](https://www.youtube.com/watch?v=6eW-_YIHlBA)** — 2023-07-17 · en · `unclassified`
-  Coi Leray Guetta Yeah we pop up on ‘em like a piñata And we goin’ off in this... like a siren Tupac baby ‘cause you know I’m a rider I’m hot like a sauna Man, I’m hot like lava Feelin’ like fab and the bucket is Prada Feelin’ like cash shoulda came with a comma I say hakuna matata These...
+- **[Semicon West Keynote | Intel](https://www.youtube.com/watch?v=wPJ-umSgON0)** — 2025-11-18 · ko · `unclassified`
+  열.열.
 
-- **[Free To Move](https://www.youtube.com/watch?v=fMFT6GKsxoA)** — 2023-07-11 · en · `unclassified`
-  - High five. The thing I enjoy most about teaching is the energy that is shared amongst the people. I love having that feedback, joking around, being a little bit silly. I'm a queer and non-binary fitness facilitator and the founder of a body inclusive movement community for LGBTQ+ folks known as Free To Move. Free To Move started with an accident. I was mountain biking in Sedona.
+- **[Intel Connectivity Performance Suite Experiences Video | Intel](https://www.youtube.com/watch?v=bLmgKBEIaZk)** — 2025-11-17 · ko · `unclassified`
+  인텔은 직원들이 생산성, 소통 및 협업을 극대화할 수 있도록 네트워크 연결을 최적화하는 간편하고 자동화된 방법을 제공합니다. 인텔 커넥티비티 퍼포먼스 스위트가 어떻게 지속적인 전문가 수준의 자동 연결 최적화를 통해 작업자 경험을 향상시키는지 자세히 살펴보겠습니다. 엠마를 소개합니다. 그녀는 제품 관리자인데, 이전에는 혼잡한 와이파이 연결에 음악 사용자가 너무 많아서 화상 회의에 문제가 생기곤 했습니다. 하지만 이제 인텔 커넥티비티 퍼포먼스 스위트 덕분에 그녀의 새 PC는 혼잡도가 낮은 연결에 자동으로 연결될 뿐만 아니라 음성 및 비디오 데이터의 우선순위를 높여 더 나은 협업을 지원합니다 .
 
-- **[OctoNation](https://www.youtube.com/watch?v=BC9Gm9K0XgE)** — 2023-07-03 · en · `unclassified`
-  - The first time I ever saw an octopus I was on this class field trip, and I remember looking up and just seeing this octopus staring right back down at me. I just remember it having a profound impact on me and thinking like, "Wow, "I can't wait to go learn about this animal." There were no books for kids. There were no resources.
+- **[Open Source, Talent, and Community: The Layers of Miami AI | Intel](https://www.youtube.com/watch?v=wZrOhvSNYwY)** — 2025-11-05 · ko · `AX`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥귀건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 보르한 세븐입니다. 보르한은 기술 분야 경영인이자 커뮤니티 조성자로, 마이애미에 본사를 둔 2만 명 규모의 컨퍼런스 이자 연중 혁신 플랫폼인 이머지 아메리카(Emerge Americas)에서 인공지능 전략을 총괄하고 있습니다 . 최고 인공지능 책임자로서 그는 기업 수준의 이니셔티브를 주도하고 , 책임감 있는 인공지능 정책을 수립하며, 신흥 인공지능을 개발자, 투자자 및 정책 입안자를 위한 글로벌 연결 고리로 확장하고 있습니다
 
-- **[Beaux and Paws](https://www.youtube.com/watch?v=4M-gNcxwhJs)** — 2023-06-05 · en · `unclassified`
-  oh hi I always had a passion for Animals especially dogs and cats when he came to me oh he's smart he's a big love bug [Music] hey Toby the dog can always be someone's number one best friend they're very respectful caring oh you love belly Rubes oh yeah adorable but I really love cats too when I was younger I learned that if dogs ain't animals with this …
+- **[From Cloud Dependency to Local Intelligence: The Future of Accessible AI | Intel](https://www.youtube.com/watch?v=PIriUFKk_ac)** — 2025-10-29 · ko · `AX`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥귀건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 브렌던 왕입니다. 브렌던은 온디바이스 AI를 빠르고 효율적이며 접근성 있게 만드는 응용 연구소인 Fluid Inference의 공동 창립자 겸 CEO입니다. LinkedIn, Amazon, Microsoft 및 Data Bricks의 연구원과 엔지니어로 구성된 팀은 AI 가속기를 사용하여 로컬 장치에서 실시간 워크로드를 위한 최신 기반 모델을 최적화하고 미세 조정하는 데 집중하고 있으며, 현재는 음성 AI( speechtotext, texttospech, VAD 및 화자 식별 포함)에 중점을 두고 있으며, 곧 비전 및 언어 모델로 확장할 예정입니다
 
-- **[Africa Motorcycle Diaries](https://www.youtube.com/watch?v=LdZlElyGGzs)** — 2023-05-22 · en · `unclassified`
-  [Music] foreign [Music] is an escape not just physically but also mentally I get to shut out all other aspects of life and focus on the road [Music] I am the founder at middle of African Motorcycle Diaries which is a network of bikers across Africa I started the group so that we could record our travels to get another picture of what our country is [Music] being a biker …
+- **[Intel Foundry and Intel 18A - Starting a new node in a new fab with Zivit Katz-Tsameret | Intel](https://www.youtube.com/watch?v=13JmG73VdC0)** — 2025-10-21 · ko · `unclassified`
+  새로운 공장을 시작하는 것은 완전히 새로운 일이며, 새로운 건설 공장을 짓는 것뿐만 아니라 새로운 기술을 도입하는 것 또한 매우 흥미로운 일입니다. 이번 프로젝트인 프로젝트 이글과 팹 52에서는 이 두 가지를 모두 경험할 수 있는 행운을 누렸습니다. 캠퍼스 뒤편의 넓은 공터에서 시작하여 공장을 건설하고, 빠르게 장비를 설치하고, 펀터 레이크 웨이퍼 생산을 시작할 준비를 했습니다. 음, 이런 점에서 환경은 분명히 매우 어려웠고, 우리는 그 상황에 잘 대처해야 했습니다.
 
-- **[Shared Dream Dresses](https://www.youtube.com/watch?v=Q8DiqTmXnyc)** — 2023-05-12 · en · `unclassified`
-  foreign [Music] I felt beautiful in it [Music] there's not many times in your life that you probably feel like wow I just look so amazing today or feel so amazing and that was definitely a time where I did I felt like that some people can't afford a dress in general let alone one that was a little bit Hefty of her price tag why I wanted to give …
+- **[The Age of With: Rethinking Enterprise Strategy Through Agentic AI | Intel](https://www.youtube.com/watch?v=NgeYg6tyncs)** — 2025-10-15 · ko · `AX`
+  [음악] [박수] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 Bares Sesh입니다. 바레쉬는 디오이트의 기술, 미디어, 엔터테인먼트 및 통신(TMT) 산업 분야 AI 사업부의 글로벌 리더입니다. 그는 사려 깊은 리더로 인정받고 있으며, 업계 포럼, 출판물 및 행사에서 작가이자 연사로 자주 활동하고 있습니다. 그의 통찰력 있는 기여는 인공지능의 발전과 그것이 비즈니스, 기술 및 문화에 미치는 변혁적인 영향에 대한 담론을 형성하는 데 중요한 역할을 했습니다
 
-- **[Frescapesca - Meta - Community Voices](https://www.youtube.com/watch?v=zECIKI7ZiC4)** — 2023-03-30 · ko · `unclassified`
-  [음악] 외국어 [음악] 매일 아침 눈을 뜨면 보이는 풍경 이 바다예요. 항상 바다에 푹 빠져 있죠. 몇 세대 전부터 우리 가족은 어부 집안이었어요. [음악] 아버지와 시간을 보낼 때마다 낚시에 대한 사랑을 느꼈어요. 항상 마음속에 ' 책상 뒤나 컴퓨터 앞에서 낚시하는 건 싫다'는 생각을 했죠. 어부로서 더 자유롭게 살고 싶었어요. 이게 바로 저의 자유예요. [음악] 낚시를 갈 때는 모든 사업 관련 정보를 공유하는 WhatsApp 그룹을 사용해요. [음악] 식당들과도 연결되어 있어서 어떤 생선을 잡았는지 정확히 알 수 있죠.
+- **[Redefining Edge Intelligence: Falcons.AI’s Vision for Fast, Secure, and Sustainable AI | Intel](https://www.youtube.com/watch?v=e3L-Wzn5k6w)** — 2025-10-08 · ko · `unclassified`
+  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 바비 스토더만입니다. 바비는 팔콘스 AI의 최고운영책임자(COO)입니다. 그녀는 금융과 데이터 과학 분야 모두에서 경력을 쌓은 다분야 전문가로, 10년 이상 엔터프라이즈급 기술 구현 경험을 보유하고 있습니다. 그녀는 기술 중심적인 사고방식을 바탕 으로 AI를 활용하여 사업 기회를 포착합니다. 바비, 인텔 AI에 오신 것을 환영합니다. 고마워, 헤더. 이곳에 오게 되어 기쁩니다.
 
-- **[How VR is Bringing Fitness to More People | “Are We There Yet?”](https://www.youtube.com/watch?v=3ND5rpsBwFc)** — 2023-03-22 · ko · `unclassified`
-  제 아들이 앞으로 접하게 될 것들을 생각하면 부러움을 금할 수 없어요. 사업가이자 자이언 클락, 정말 대단한 사람이에요. 제가 그를 좋아하는 이유는 그가 복싱도 가르친다는 점이에요. 페덱스 스타이기도 하고요. 세상에, 두 손으로 가장 빠른 남자잖아요! 메타 버스가 이런 접근성을 가능하게 해 준 거죠. 메타버스는 포용성과 긍정의 정신을 키워주고, 그 정신이 지금 메타버스에서 제공되는 수많은 피트니스 및 스포츠 경험에 녹아들어 있어요.
+- **[Agentic AI in Action: Transforming Health, Education, and Consumer Experiences | Intel](https://www.youtube.com/watch?v=5wlY9FcvRiE)** — 2025-10-01 · en · `AX`
+  Welcome to Intel on AI, the podcast that connects leaders with listeners. Today's guest is Stacy Shulman. Stacy Shulman is the vice president and GM of health, education and consumer industries at Intel. She leads the charge in growing the health, life sciences, education and consumer industries unit while exploring emerging technologies across various sectors. With over 25 years in the software and high tech industry.
 
-- **[Why We Build: Connectivity in New York City](https://www.youtube.com/watch?v=SF6Wi_MVZ88)** — 2023-03-21 · ko · `unclassified`
-  [음악] 연결성은 모든 것입니다. 연결성이 없으면 여러 면에서 더 이상 시민이라고 할 수도 없습니다. 그만큼 심각한 문제입니다. 마치 전기나 물과 같습니다. 예전에는 사치품이었죠. ' 인터넷이 있으니 이런저런 일을 할 수 있겠네' 하는 생각이었는데, 이제는 삶의 필수품이 되었습니다. 거의 다섯 번째 공공 서비스처럼 되어버렸죠. 요즘은 모든 게 온라인으로 이루어지잖아요. 인터넷 서비스 없이는 살아갈 수 없습니다. 연결성이 있어야 합니다. 지구상의 모든 것이 연결되어 있어야 합니다. 저는 뉴욕 브루클린에서 태어나고 자랐으니 어디에도 가지 않을 겁니다.
+- **[Meet today’s standard for business PCs | Intel](https://www.youtube.com/watch?v=-V7WBpro43A)** — 2025-10-01 · en · `unclassified`
+  Heat.
 
-- **[Keke Palmer Flies Like a Hero in Marvel's Iron Man VR I “Are We There Yet?”](https://www.youtube.com/watch?v=T_vWOlh6EEs)** — 2023-03-09 · ko · `unclassified`
-  아이언맨이 될 수 있다면 정말 멋지지 않을까요? 세상에, 꿈만 같네요! 라이언 페이튼과 함께합니다. 자, 발사! 어때요? 기분 좋네요! 나는 기분이에요! 조작감이 다른 게임이랑 정말 다르네요. 네, 정말 자연스럽게 느껴지도록 많은 노력을 기울였습니다. 맞아요, 맞아요! 아이언맨이 된 기분이에요? 예전 기억처럼 느껴져요! 네, 저희는 포스의 피드백과 몰입감을 극대화해서 마치 손바닥에서 리펄서를 쏘는 듯한 느낌을 주고 싶었습니다. 자, 방금 맨션에 들어왔는데 정말 마음에 드네요. 놀기 좋은 곳 같아요.
+- **[Meet today’s standard for business PCs | Intel® Core™ Ultra 200V series processors | Intel](https://www.youtube.com/watch?v=jgG3ZMRYcq4)** — 2025-10-01 · ko · `unclassified`
+  열.열. [음악] 열기. 열.
 
-- **[How to turn your living room into a spy-worthy escape room with MR | “Are We There Yet?”](https://www.youtube.com/watch?v=shmmrU1NGXk)** — 2023-03-06 · ko · `unclassified`
-  라이언, 이 시리즈를 진행하면서 많은 것을 배웠지만, 얼마나 배웠는지 확인하고 싶어요. 그래서 메타버스에 대해 몇 가지 질문을 해 주시면 제가 얼마나 메타버스에 대해 잘 알고 있는지 알아볼 거예요. 자, 키키, 메타버스에 접속하려면 VR 헤드셋이 필요한가요? 노트북이나 휴대폰으로도 접속할 수 있지만, 메타퀘스트가 가장 좋죠. 제가 메타 퀘스트 팬이긴 하지만, 당신 말에 동의해요. 메타버스는 영업시간에만 열려 있다는 게 사실인가요? 저는 아니라고 생각해요. 당신은 정말 잘 아시네요. 메타버스에서 게임을 하면 친구들과 어떻게 소통할 수 있을까요?
+- **[Inside the AI-Powered Workplace: How Intel Sees the Future of PCs and Workstations | Intel](https://www.youtube.com/watch?v=F-_ZQo52sTQ)** — 2025-09-24 · ko · `AX`
+  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥그리건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 제니퍼 라슨입니다. 젠은 현재 인텔의 클라이언트 컴퓨팅 그룹 내 상업 부문 조직의 총괄 관리자입니다. 그녀는 대기업, 정부기관, 중소기업, 교육기관을 대상으로 하는 세그먼트 전략 및 가치 창출과 이를 지원하는 상용 플랫폼 솔루션 개발을 담당하는 팀을 이끌고 있습니다 .
 
-- **[Keep Your Friends Close and Your Enemies Closer with VR Gaming | “Are We There Yet?”](https://www.youtube.com/watch?v=JDZO0qCjTLY)** — 2023-03-03 · ko · `unclassified`
-  라이언, 메타버스에서 즐길 수 있는 멋진 소셜 게임 몇 가지를 소개해 줄 수 있을까? 난 '포퓰레이션 원(Pollification One)'이라는 게임을 즐겨 하는데, 배틀로얄 게임으로 친구나 적 15명과 함께 넓은 오픈월드에서 플레이하는 거야. 서로 경쟁하는 것뿐만 아니라 함께 새로운 세계를 만들어 나가기도 하지. 정말 멋진 게임이고, 무엇보다 다른 사람들과 함께 있는 듯한 느낌이 드는 게 제일 좋아. 여동생이랑도 비슷한 게임을 여러 번 했어. 예를 들어 요리 게임 같은 건 전 세계를 돌아다니면서 같이 요리하기도 하고.
+- **[AI PCs and the Future of Cybersecurity: AI-Powered Protection from Deepfakes | Intel](https://www.youtube.com/watch?v=GzFE6k-S3vA)** — 2025-09-15 · ko · `unclassified`
+  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 레나 엘리아스입니다. 레나는 Jen의 최고 제품 책임자이며, Jen은 Norton, Avast, Liflock, Money Lion 등 다양한 브랜드를 보유하고 있습니다. 그녀는 Gen에서 사이버 안전 사업을 이끌며 전 세계 5억 명이 넘는 고객에게 보안 및 개인정보 보호 솔루션을 제공합니다. 레나님, 인텔 AI에 오신 것을 환영합니다 . 감사합니다. 그래서 몇 가지 질문이 있습니다.
 
-- **[KakiRepair - Meta - Community Voices](https://www.youtube.com/watch?v=Q2cigkB446k)** — 2023-03-02 · ko · `unclassified`
-  외국어 [음악] 저는 항상 호기심이 많았어요. 물건을 분해해서 안에 뭐가 있는지, 어떻게 고치거나 더 좋게 만들 수 있는지 보는 걸 좋아했죠. 뭔가를 고칠 때마다 성취감과 자부심을 느끼고, 그게 더 많은 일을 하도록 동기를 부여해 줘요. ​​제가 이 분야에 기여한 바는 무엇인가요? 5년 전에 타키 리페어를 시작하게 된 계기는 사람들이 고장 난 물건을 직접 고치지 않고 그냥 버려서 쓰레기 매립지로 보내는 걸 보고 깨달았기 때문이에요. 좋은 점은 사람들이 여전히 자신의 물건을 고칠 수 있다는 거죠.
+- **[From PoC to Production: How Lenovo Turns AI into Enterprise Impact | Intel](https://www.youtube.com/watch?v=JI9W8S_6QbY)** — 2025-09-10 · ko · `AX`
+  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 데이비드 엘리슨입니다. 데이비드 엘리슨은 레노버 ISG의 최고 데이터 과학자이자 AI 엔지니어링 책임자입니다 . 그는 레노버의 미국 및 유럽 AI 연구 개발 센터를 통해 최첨단 AI 기술을 활용하여 외부 고객에게 솔루션을 제공하는 팀을 이끌고 있으며, 동시에 전 세계 인프라 솔루션 그룹의 전반적인 AI 전략을 내부적으로 지원하고 있습니다.
 
-- **[Vote on encore songs with Keke Palmer at VR Concerts | “Are We There Yet?”](https://www.youtube.com/watch?v=ipysUkJr1EA)** — 2023-03-01 · ko · `unclassified`
-  브렌다, 우리 작은 게임 하나 해 볼까 해요. 제가 시나리오를 하나 제시할 테니, VR 콘서트 전문가인 당신이 제 아이디어가 메타버스에서 지금, 미래에, 아니면 절대 불가능할지 말해줄래요? 준비됐나요? 네, 그럼요. 보이시에서 라이브 공연을 하고 뉴욕에서 DJ 레슨을 받는 건 어때요? ( 농담이에요, 보이시 팬 여러분!) 메타버스에서 3천 명 규모의 밴드를 결성하는 건 어때요? 아마 미래에 가능할 것 같아요. 왜냐하면 먼저 친구 5천 명을 사귈 거니까요. 자, 그럼 피아노를 배워서 실제 피아노로 연주하는 건 어때요?
+- **[Robotics at the Edge: Where AI Meets Real-World Automation | Intel](https://www.youtube.com/watch?v=DCFfva8Mm-c)** — 2025-09-03 · ko · `AX`
+  [음악] [박수] [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 매튜 포미카입니다. 매튜 포미카는 16년 이상 인텔에서 근무한 경력이 있는 노련한 기술 경영인이자 사업 전략가로, 현재 인텔에서 엣지 제품 마케팅 및 AIPC 엣지 AI 소프트웨어 개발자 관계 담당 수석 이사로 재직하고 있습니다.
 
-- **[Black Girl's Healing House - Meta - Community Voices](https://www.youtube.com/watch?v=3Royd3575W8)** — 2023-02-28 · ko · `unclassified`
-  [음악] 전인적 웰빙이란 마음, 몸, 영혼을 돌보는 것입니다. [음악] 저는 예전에 불안과 우울증으로 많이 힘들어했는데, 쉽게 접근할 수 있는 방법을 찾고 싶었어요. 그래서 요가와 명상을 시작했죠. 동네 웰니스 센터에서 수업을 듣다 보니 제가 거기 있는 유일한 흑인 여성이라는 걸 깨달았어요. [음악] 모두들 저를 '저 여자는 여기서 뭐 하는 거지?' 하는 눈으로 쳐다봤어요. 심지어 어떤 사람은 제 머리가 거슬린다며 바꾸라고까지 했어요. 그런 경험들이 계기가 되어 흑인 여성을 위한 온라인 전인적 웰빙 커뮤니티인 '블랙 걸스 힐링 하우스'를 만들게 되었어요.
+- **[AI for Accessibility: How Sorenson Is Advancing Inclusive Communication | Intel](https://www.youtube.com/watch?v=vx1g4xu5qMk)** — 2025-08-20 · ko · `unclassified`
+  [음악] 리더들이 함께 듣고 소통하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 오늘의 게스트는 마리암 라마니입니다. 마리암은 소렌 커뮤니케이션즈의 AI 부문 수석 이사입니다 . 그녀는 10년 이상 AI 기반 솔루션 제품 개발 및 소프트웨어 엔지니어링 분야에서 경험을 쌓아왔으며, 특히 청각 장애인과 비장애인 간의 의사소통 격차를 해소하는 혁신적인 AI 기반 솔루션 개발을 전문으로 합니다. 그녀는 네브래스카 대학교에서 박사 학위를 받았습니다. 그녀는 연구 과학자로서 대학들 과 협력하여 기술 프로젝트를 이끌고 있습니다
 
-- **[Keke Palmer Creates Her Own Festival In VR | “Are We There Yet?”](https://www.youtube.com/watch?v=obVreaEZGWI)** — 2023-02-28 · ko · `unclassified`
-  저만의 페스티벌, 키키 페스트를 만들어볼까 생각 중이에요. 오늘 저와 함께할 사람은 브렌다 친이에요. 브렌다, 당신은 이미 멋진 가상 콘서트를 많이 제작했지만, 메타버스 에서 열리는 음악 페스티벌에 대한 당신의 아이디어를 듣고 싶어요. 코첼라 페스티벌 보셨어요? 거기서 AR 체험을 했는데, 휴대폰을 들면 공연과 함께 멋진 애니메이션이 나오는 거였잖아요. 정말 멋졌어요. 하지만 저는 메타버스 페스티벌이 미래에는 훨씬 더 멋질 거라고 생각해요. 아티스트들이 VR 안에 자신만의 세계를 만들고, 팬들이 실제로 방문할 수 있게 되는 거죠.
+- **[Intel Foundry's non X86 reference SoC on Intel 18-A | Intel](https://www.youtube.com/watch?v=qoMFPTDGX_4)** — 2025-08-14 · ko · `unclassified`
+  제 이름은 셰릴 잉거슨이고 인텔 파운드리의 검증팀에서 근무하고 있습니다 . 오늘은 인텔 파운드리의 nonx86 레퍼런스 SOC인 인텔 18A를 소개합니다. 이 인텔 18A 레퍼런스 SOC는 7개의 코어로 구성되어 있습니다. 저희는 고성능 코어 1개, 전력 효율 최적화 코어 2개, 에너지 효율 코어 4개와 함께 PCIe 및 IPS 메모리 컨트롤러를 갖추고 있습니다 . 지금 우리가 보고 있는 것은 적절한 워크로드를 적절한 코스에서 실행하는 생생한 시연입니다. 저희는 여기 공연장에서 4K 비디오 스트리밍을 제공하고 있습니다
 
-- **[Keke Palmer Flies Like a Hero on Marvel's Iron Man VR I “Are We There Yet?”](https://www.youtube.com/watch?v=fIf_2aaWDF4)** — 2023-02-24 · ko · `unclassified`
-  아이언맨이 될 수 있다면 정말 멋지지 않을까요? 세상에, 그건 꿈만 같네요! 라이언 페이튼, 페이튼! 좋아요, 시작! 어때요? 기분이 어떠세요? 정말 좋네요. 날아다니는 기분이에요. 조작감이 제가 해본 다른 게임들과는 정말 다르네요. 네, 정말 자연스럽게 느껴지도록 많은 노력을 기울였습니다. 알겠습니다. 맞아요. 아이언맨이 된 기분이에요! 신이 난 것 같아요! 네, 저희는 포스의 피드백을 통해 여러분이 손바닥에서 실제로 리펄서를 쏘는 듯한 몰입감을 느끼도록 하고 싶었습니다. 좋아요, 방금 맨션에 들어왔는데 정말 마음에 드네요.
+- **[Intel Foundry Advanced Thermal Interface | Intel](https://www.youtube.com/watch?v=TldlBmlACa4)** — 2025-08-14 · en · `unclassified`
+  Hi, I'm Rajie Mongia. Um, I'm a thermal architect, which means my job is to try to figure out ways to get heat out of our packages and get them away from the chip. So, my work starts at the silicon level itself. The first thing that we try to do is we work with our architects.
 
-- **[Possibilities with the metaverse](https://www.youtube.com/watch?v=zgzfrlt2Ipk)** — 2023-02-23 · ko · `unclassified`
-  [음악] 어떤 사람들은 메타버스가 단지 가상 세계에만 존재할 것이라고 말하지만, 언젠가 소방관들이 불타는 집에 들어갈 때 메타버스를 활용하면 생명이 위태로운 상황에서 시간을 절약할 수 있을 것이고, 환자의 최근 스캔 이미지를 시각화하는 것은 응급실에서 의사 결정을 신속하게 내리는 데 도움이 될 것이며, 털매머드가 아직 멸종했다고 해서 학생들이 현장 학습으로 매머드를 보러 갈 수 없다는 뜻은 아닙니다. 메타버스는 가상 세계일지 모르지만, 그 영향은 현실이 될 것입니다.
+- **[Intel Foundry System Acceleration Services | Intel](https://www.youtube.com/watch?v=MQL7rSz4EqA)** — 2025-08-14 · ko · `unclassified`
+  안녕하세요, 제 이름은 브렛 펌블입니다. 저는 인텔 파운드리 시스템 가속 서비스 부문 부사장 겸 총괄 매니저입니다. 인텔 파운드리 고객을 위해 인텔이 30년 이상 축적해 온 시스템 설계, 아키텍처, 검증 및 레퍼런스 디자인 역량을 활용하고 있습니다. 즉, 인텔 파운드리에서 SOC를 개발하는 과정에서 해당 분야의 전문 지식을 활용하여 고객이 생산 시스템에 SOC를 쉽게 통합하고 시장 출시 시간을 단축할 수 있도록 지원받을 수 있다는 의미입니다.
 
-- **[Keke Palmer Flies Like Marvel's Iron Man VR | “Are We There Yet?”](https://www.youtube.com/watch?v=rAN8GfoI1LM)** — 2023-02-21 · ko · `unclassified`
-  아이언맨이 될 수 있다면 정말 멋지지 않을까요? 세상에, 그건 꿈만 같네요! 어서 오세요, ' 우리가 거기 어디쯤 왔을까?' 시리즈에서 메타버스에 대해 알아보겠습니다. 오늘은 카무플라주 게임 스튜디오의 라이언 페이튼 씨와 함께합니다. 안녕하세요, 라이언 씨. 키키, 정말 멋지시네요. 실례지만, 샘 씨, 제가 유튜브에서 샘 씨에 대해 좀 알아봤는데, 그 닉네임 정말 마음에 들어요. 샘 씨는 의미 있는 게임을 만드신다고 들었어요. 그게 샘 씨 에게는 어떤 의미인가요? 저는 감동적인 스토리를 가진 비디오 게임을 하면서 게임을 시작했어요.
+- **[AI agents for the U.S. military | Intel](https://www.youtube.com/watch?v=jHBriPavdZI)** — 2025-08-12 · ko · `AX`
+  2017년에 저는 해외로 파견되었습니다. 가장 큰 어려움 중 하나는 우리가 왜 이런 방식으로 일을 하는가 하는 것이었습니다. 세 명의 다른 지도자에게 물어보면 세 가지 다른 답변을 얻게 됩니다. 네, 아니요, 아마도요. 우리는 전투 환경에서 효과적으로 작동하고 병사들에게 개인적인 도움을 줄 수 있는 더 나은 도구가 필요합니다 . 저희 에드거너는 네트워크 연결 없이 작동하는 AI 에이전트를 개발하고 있습니다 . 그래서 우리는 이러한 데이터 세트 안에 군사 교리를 포함시킬 것입니다.
 
-- **[Keke Palmer Sculpts in VR with Friends | "Are We There Yet?"](https://www.youtube.com/watch?v=u3R6DqJ_WWA)** — 2023-02-21 · ko · `unclassified`
-  메타버스에 왔으니 창의력을 발휘해 보는 것도 좋겠죠? 자, 시작해 볼까요? 네, 여기 메타버스로 로드트립을 떠나는 쇼가 있습니다. 가장 흥미로운 크리에이터, 교육자, 전문가들과 이야기를 나누며 메타버스의 현재 모습과 미래를 알아보는 시간이죠. 저는 키키 팔머이고, 오늘 게스트는 네덜란드 출신의 놀라운 VR 조각 듀오, 빅토리아 영입니다. 두 분은 메타버스에서 가장 기발하고 독특하며 개성 넘치는 작품들을 함께 만들고 계시죠. 빅토리아, 안녕하세요. 이번 로드트립에서 VR 조각 작품을 보여주신다고 들었어요. 네, 맞습니다. 그럼 다시 한번 출발해 볼까요?
+- **[Intel Security Advisories for August 2025 | Chips & Salsa | Intel](https://www.youtube.com/watch?v=9vdDW7xuyqc)** — 2025-08-12 · ko · `unclassified`
+  [박수] [음악] [박수] 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 오신 것을 환영합니다. 저는 제리입니다. 저는 프리야입니다. 오늘은 인텔이 방금 발표한 35건의 보안 권고 사항에 대해 논의해 보겠습니다. 예. 펌웨어, 하드웨어 및 소프트웨어 범주에서 발견된 66개의 취약점을 다루는 35건의 권고 사항입니다. 이러한 문제의 70%는 내부적으로 발견되었으며, 버그 현상금 프로그램을 통해 보고된 문제를 포함하면 98%는 인텔의 선제적인 제품 보안 보장 노력의 결과입니다. 와, 좋은 소식이네요.
 
-- **[Keke Palmer Beats an NFL Pro at His Own Game 🏈  | “Are We There Yet?”](https://www.youtube.com/watch?v=gN678KKeYJU)** — 2023-02-13 · ko · `unclassified`
-  좋아, 다시 한번 해보자. 키키 파머야. NFL 프로 출신이자 테크 기업가인 앤드류 호크 호킨스야. 자, NFL 프로 에라를 구경시켜 줄 준비 됐어? 그럼, 시작해 보자. 미니 게임 몇 가지를 할 거야. 이건 과녁 맞추기인데, 간단하지? 내가 얼마나 잘하는지 보자. 좋아, 시작해 보자. 던지기 어려울수록 점수가 높아져. 응, 잘했어. 칭찬해 줄게. 정말 잘 했어. 좋아. 자, 이건 빅 보스 모드야. 사람들이 날 빅 보스라고 부르지. 난 이게 메타버스에서만 할 수 있는 거라서 좋아.
+- **[Graph Technology Meets GenAI: A Neo4j Perspective | Intel](https://www.youtube.com/watch?v=7pdMtkezuVI)** — 2025-08-06 · ko · `AX`
+  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 나 바하입니다. 니하스는 현재 네오4j에서 제품 마케팅 부사장으로 재직 중입니다. 그녀의 역할은 역동적인 팀을 이끌어 고객 여정에 맞춰 통합 마케팅 계획을 설계하고 실행함으로써 비즈니스 성장과 시장 성공을 가능하게 하는 것입니다. 그녀는 수요 창출 및 영업 지원 분야의 전문성을 활용하여 변화하는 고객 요구에 맞춰 Neo4j의 최첨단 솔루션을 포지셔닝하는 데 도움을 줍니다 .
 
-- **[Valentine's Day Bouquets - Meta - Community Voices](https://www.youtube.com/watch?v=WaCJMN8x1eM)** — 2023-02-09 · ko · `unclassified`
-  [음악] 저는 어렸을 때부터 꽃을 정말 좋아했어요. 힘들거나 어려운 일이 있을 때 꽃 의 아름다움은 마치 나 자신보다 더 큰 무언가의 작은 빛을 보여주는 것 같았죠. 아들 유치원 선생님께서 과부라고 말씀해 주셨는데, 발렌타인 데이가 다가오자 마음이 너무 아팠어요. 그래서 그날 선생님께 꽃을 만들어 드리기로 결심했죠. 제 사업으로 작은 플랫폼을 만들 수 있다는 생각에 더 많은 사람들을 도울 수 있겠다는 생각이 들었어요. 발렌타인데이에 선물을 받지 못하는 사람들, 특히 과부들을 생각해 봐야겠다고 생각했죠.
+- **[AI That Works: How Google Cloud Delivers Impact | Intel](https://www.youtube.com/watch?v=6u9xF_V4ZtU)** — 2025-07-23 · ko · `AX`
+  [음악] [박수] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 리아즈 하바파이입니다. 리아스는 구글 클라우드의 제품 마케팅 담당 이사입니다. 그는 제품 마케팅 및 가격 책정을 전문으로 하는 역동적인 팀을 이끌며 고객에게 탁월한 가치를 제공하고 상당한 성장을 견인합니다. 그의 임무는 고객 중심적이고, 데이터 기반이며, 협업이 활발한 세계 최고 수준의 제품 마케팅 조직을 육성하는 것입니다. 리아즈님, 인텔 AI에 오신 것을 환영합니다.
 
-- **[Join Keke Palmer Front Row at VR Concerts 🎤 | “Are We There Yet?”](https://www.youtube.com/watch?v=Lt3VcUqKm10)** — 2023-02-03 · ko · `unclassified`
-  맨 앞줄에 저와 함께 앉아 계신 분, 바로 브렌다 친입니다. 브렌다 친은 저스틴 비버 같은 유명 아티스트들을 위한 VR 콘솔을 제작하는 분이에요. 아티스트와 함께 메타버스에서 콘서트를 디자인할 때 어떤 과정을 거치는지 궁금합니다. 저는 아티스트 앨범을 질릴 때까지 듣고, 심지어 직접 공연할 수도 있을 정도예요. 여기에서 브렌다 친의 작품을 몇 가지 살펴볼까요? 네, 저는 웨이브에서 일하면서 저스틴 비버를 위한 콘서트를 함께 만들었어요. 팬들이 가상 세계에 참여하고, 아티스트가 팬들과 소통할 수 있도록 했죠.
+- **[Conversational Voice AI for Americana’s KFC Drive-Thru | Intel](https://www.youtube.com/watch?v=kv7kAJFNr7E)** — 2025-07-11 · ko · `unclassified`
+  [음악] 두바이 최초의 AI 기반 자동 주문 접수 시스템에 오신 것을 환영합니다 . 아메리카나는 지역에서 가장 바쁜 레스토랑들을 운영하고 있으며, 고객들은 드라이브 스루 주문 시 빠르고 신선하며 정확한 서비스를 기대합니다. 우리는 더 빠르고 원활한 경험을 제공할 수 있는 AI 기술을 찾고 있었습니다. KFC에 들러주셔서 감사합니다. 오늘은 무엇을 도와드릴까요? 저는 티 징가를 주문하고 싶습니다. 훌륭한 선택입니다. 더 큰 콤보 세트로 업그레이드하시겠습니까? 네, 부탁드립니다. 엄청난. 음료는 어떤 걸로 드릴까요 ? 다이어트 콜라 주세요.
 
-- **[LGBTQ+ VR Museum - Meta - Community Voices](https://www.youtube.com/watch?v=w8bnCaFmoaM)** — 2023-02-02 · ko · `unclassified`
-  외국 음악가 인 저는 놀라운 이야기를 가지고 있습니다. 다양한 연령, 다양한 성별, 다양한 지역의 사람들이 있습니다. 제가 커밍아웃했을 때, 저는 주로 긴장했습니다. 27~28년 동안 벽장 속에 숨어 살았기 때문에 당시에는 정말 부정적인 반응이 많았고, 제게는 안전하지 않은 상황이었습니다. 저는 커밍아웃 경험을 되돌아보며, 저와 같은 경험을 하고 있는 다른 사람들에게 어떻게 도움을 줄 수 있을지, 그들의 여정을 조금이라도 더 쉽게 만들어 줄 수 있을지 고민했습니다.
+- **[AI’s Next Frontier: Human Collaboration, Data Strategy, and Scale | Intel](https://www.youtube.com/watch?v=hFTRv3Va5IE)** — 2025-07-09 · ko · `AX`
+  [음악] 안녕하세요, 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건 이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 롬톤 다부입니다. 로몬은 액센추어와 인텔의 파트너십을 담당하는 CTO입니다. 그는 지난 11년 동안 그곳에서 AI 분야의 글로벌 서비스 개발을 주도해 왔으며 스스로를 기술 낙관주의자라고 소개합니다. AI 분야의 인텔 롬. 안녕하세요. 초대해 주셔서 감사합니다. 이제 당신은 다양한 산업 분야의 고객들이 AI를 도입하는 여정을 지원해 왔습니다.
 
-- **[Keke Palmer and VR Concert Creator Explore Virtual Concerts | “Are We There Yet?”](https://www.youtube.com/watch?v=vx0j8amdZTY)** — 2023-02-01 · ko · `unclassified`
-  메타버스에는 이미 수많은 음악 페스티벌이 있지만, 앞으로는 훨씬 더 멋진 모습들을 볼 수 있을 거라고 생각해요. 오늘 저와 함께 메타버스에 대해 알아볼 시리즈를 준비했는데, 저스틴 비버 같은 유명 아티스트들과 작업한 감독 브렌다 친 씨가 동행해 주셨어요. 브렌다 씨, 혹시 항상 기술에 관심이 있으셨나요? 아니면 메타버스라는 분야는 우연히 접하게 된 건가요? 저는 VR 게임 제작으로 시작했고, 그 분야에 푹 빠져 있었어요. 하지만 음악과 미술에 대한 열정도 엄청나거든요.
+- **[Designing Empathetic AI: The Future of Human-Centered Technology | Intel](https://www.youtube.com/watch?v=atZ1lRqE8wY)** — 2025-06-25 · en · `AX`
+  [Music] Welcome to Intel on AI, the podcast that connects listeners with leaders. My name is Heather McGuigan and I am your host. Today's guest is Ted Shelton. Ted is a senior leader at Inflection AI, which is shaping the future of human computer interaction. Their breakthrough product PI is the first AI designed with emotional intelligence, an empathetic conversational assistant that redefes how people relate to machines.
 
-- **[Keke Palmer and an NFL Pro Tackle VR Sports & Fitness | “Are We There Yet?”](https://www.youtube.com/watch?v=WHDdkx9chsA)** — 2023-02-01 · ko · `unclassified`
-  LA에서 운동할 수도 있고, 저는 오하이오에 있을 수도 있어요. 키키, 같이 운동해요! [음악] 오늘 제 조수석에 앉은 사람은 앤드류 호킨스입니다. 안녕하세요, 앤드류! 키키, 잘 지내세요? 저는 잘 지내요. 이제 모두와 통화해도 될까요? 저는 당신이 저를 허그라고 불러주셨으면 좋겠어요. 좋아요. 우리 공통점이 많은 것 같아요. 여러 가지 일을 할 수 있고, 멀티태스킹도 잘하시네요. 운동선수, 사업가, 수상 경력에 빛나는 프로듀서 등등... 자, 스냅! NFL 선수에서 VR 크리에이터로 전향해서 메타퀘스트 2용 NFL 프로 에라를 개발하셨는데 정말 대단해요.
+- **[From Infrastructure to Impact: How Dell Is Scaling AI | Intel](https://www.youtube.com/watch?v=hpdKZRuzGXI)** — 2025-06-11 · en · `AX`
+  [Music] Welcome to Intel on AI, the podcast that connects listeners with leaders. My name is Heather Mcwigan and I am your host. Today's guest is Varun Chabra. Varun is the senior vice president of product marketing at Dell Technologies. He leads a team of more than 130 marketers and is most happy when leading that team to growth and success.
 
-- **[(Trailer) Keke Palmer answers all your metaverse questions | “Are We There Yet?”](https://www.youtube.com/watch?v=FdlhEOB7Tk4)** — 2023-01-31 · ko · `unclassified`
-  좋아하는 콘서트 맨 앞줄 좌석에 앉고 싶으세요? 정말 끝내줄 거예요! 아니면 좋아하는 슈퍼히어로처럼 하늘을 날고 싶으세요? 아니면 좋아하는 프로 운동선수처럼 훈련하고 싶으세요? 저는 키키 파머이고, 여러분을 메타버스를 가로지르는 가상 여행으로 안내하는 프로그램, '우리가 거기 있나요?'에서 이런 질문들을 던져볼 거예요. 준비됐나요? 시작해 볼까요? NFL 선수 출신 크리에이터 앤드류 호킨스를 만나보세요. 당신은 로스앤젤레스에, 저는 애틀랜타에 있을 수 있어요. 같이 운동도 할 수 있죠!
+- **[Direct Connect | We're In | Intel](https://www.youtube.com/watch?v=GFZn5-psd8Y)** — 2025-06-09 · en · `unclassified`
+  The truth is innovation doesn't just happen on its own. Every breakthrough, every bold idea, it begins with what if. It takes commitment. It takes collaboration. And it takes trust. At Intel Foundry, we know that progress is built together. listening, learning, working alongside you to turn ideas into reality. Because big ideas need the right foundation, a strong manufacturing partner, a resilient, secure supply chain, a robust ecosystem of partners, and technology that accelerates your ambition.
 
-- **[Beyond Evacuation - Meta - Community Voices](https://www.youtube.com/watch?v=4dF6NEnLOYM)** — 2023-01-11 · ko · `unclassified`
-  2월 말쯤 우크라이나 에서 사람들이 나라를 탈출하려고 발버둥 치는 영상들을 보기 시작했어요. 저희 그룹도 현명하게도 이미 결정을 내린 상태였죠. 상황을 보고 나서 그 사람들을 돕기로 했어요. 저는 커뮤니티 오거나이저인데, 바로 그때 '48시간 안에 국경에 가서 사람들을 구출해야겠다'고 생각했어요. 그렇게 해서 120명 정도의 학생들을 데리고 돌아왔는데, 모두 야심만만하고 학업을 거의 마칠 뻔한 학생들이었어요. 모든 걸 잃고 낯선 나라에 발이 묶인 건 정말 끔찍한 경험이었죠. 처음에는 서로 연락을 주고받으라고 했어요.
+- **[Building Scalable and Sustainable AI Infrastructure | Intel](https://www.youtube.com/watch?v=U0oZkI_nYYA)** — 2025-05-28 · en · `AX`
+  [Music] [Applause] [Music] Welcome to Intel on AI, the podcast that connects leaders with listeners. My name is Heather McGwigan and I am your host. Today's guest is Ray Pang. Ray Pang is the senior vice president technology and enablement at Super Micro, a global leader in high performance server technology, which continues to expand its footprint in the AI, cloud, storage, and 5G edge markets with its innovative server solutions.
 
-- **[The Giving Trees - Meta - Community Voices](https://www.youtube.com/watch?v=-FPjyQryrBY)** — 2022-12-15 · ko · `unclassified`
-  아기 나무를 베어오던 때 기억나세요? 이 나무는 어때요? 정말 멋지네요! 저는 어릴 적 크리스마스트리를 집에 가져오던 추억이 정말 많아요. 가족들이 함께 모이는 모습, 따뜻함과 유대감이 느껴지죠. 이 나무는 많은 사람들에게 정말 사치스러운 것 중 하나예요. 크리스마스트리가 없다는 건 상상도 할 수 없어요. 정말 잘하셨어요! 다른 사람들도 크리스마스 시즌의 따뜻함과 설렘을 느꼈으면 좋겠어요. 저도 이 일을 해보고 싶네요. 목표를 세웠어요. 적어도 한 그루, 많아야 다섯 그루, 열 그루 정도 배달할 거예요.
+- **[From Smart Devices to Supply Chain: Lenovo's Blueprint for Trust in Tech | InTechnology | Intel](https://www.youtube.com/watch?v=Ojz9U4ao3go)** — 2025-05-20 · en · `AX`
+  (gentle music) [Announcer] You are watching "InTechnology," a video cast where you can get smarter about cybersecurity, sustainability, and technology. (gentle music) - Hi, welcome back to the "InTechnology" podcast. I'm your host Rajan Panchanathan. Today, we have a guest sitting right at the intersection of AI, cybersecurity, and supply chains. He's the chief security and AI officer at Lenovo.
 
-- **[Meta | Yeh Kaunsa Fest Hai Bhai](https://www.youtube.com/watch?v=aql12RjT1S0)** — 2022-12-14 · ko · `unclassified`
-  갔다 [음악] [웃음] 공사가 10년 동안 완료되지 않았습니다. [감사] 여기에 빈자리가 있습니다. 벽이 울고 있어요, 배치할 곳이 필요해요 당신들은 애초에 존재해서는 안 되는 사람들이에요. 아니요, 이미 거절했어요. 허가가 부여될 것입니다 허락을 구하는 것뿐입니다. 균형 하고 싶은 대로 하세요 감사합니다 대학 [음악] 차 한잔 드리고 싶습니다, 선생님. 몇 명이나 있는지 말해 보세요. 부끄러움을 느껴야 할 때, 부끄러워하는 모습은 어디에 있는가? 5천 명에서 1만 명 정도가 온다면 알려주세요.
+- **[Direct Connect 2025 | Back-End Technology Update with Navid Shahriari | Intel](https://www.youtube.com/watch?v=CDhCM76vvTI)** — 2025-05-19 · en · `unclassified`
+  Please welcome executive vice president and GM Naveid Shari. [Music] Hello everyone. Good afternoon. It's my pleasure to host you for the next 30 minutes. Um I'm Navidari. I run the the integrated technology development and the factory network for our back end uh advanced packaging and and everything post wafer um fabrication. I'm new uh at the Intel foundry only six months in the job but I've had the honor of being at Intel and in the industry for the last 35 years.
 
-- **[Metaverse Culture Series: Tercera Cultura Sizzle](https://www.youtube.com/watch?v=6rqAVSprCgg)** — 2022-12-02 · ko · `unclassified`
-  메타버스에 표현된 우리 문화는 정말 중요하고, 앞으로 나아가야 할 방향의 시작이라고 생각해요. [음악] 저는 메타버스가 아티스트들을 위한 공간이 될 거라고 100% 믿어요. 아티스트로서 우리는 끊임없이 미래를 생각하고 과거, 현재, 미래를 이야기해야 할 책임을 지고 있으니까요. 모든 라틴계 아티스트가 자신만의 세계를 만들고 그 안으로 들어간다고 상상해 보세요. 정말 놀라운 일이겠죠. 물리적으로 아파트를 떠날 수 없는 사람들에게는 정말 좋은 공간이 될 거예요. 어디를 가든, 누구든, 어떻게 자랐든, 누구나 자신의 목소리를 낼 수 있다는 걸 느끼게 해 주는 거죠.
+- **[Direct Connect 2025 | Front-End Technology Update with Ben Sell & Myung-Hee Na | Intel](https://www.youtube.com/watch?v=hpFP2EzZ3WY)** — 2025-05-19 · en · `unclassified`
+  Please welcome Vice President and GM Ben [Applause] Cell. All right, welcome everyone. Um, good afternoon and really glad to be here. Um, I've been at Intel for 22 years working on leading edge technology and I'm really looking forward to share some of the details of our process technology innovations with you.
 
-- **[Metaverse Culture Series: Tercera Cultura: The Making of Nuevo Norte](https://www.youtube.com/watch?v=KK3x5LlJZ7M)** — 2022-12-02 · ko · `unclassified`
-  [음악] 메타버스 문화 시리즈를 통해 얻은 이번 경험은 저에게 정말 교육적이고 눈을 뜨게 해주는 경험이었습니다. 가상현실 공간에서 작업하는 건 이번이 처음인데, 항상 작은 규모로만 생각했지만 캔버스는 원하는 만큼 커질 수 있다는 걸 깨달았어요. 이 작은 공간들은 푸에르토리코인으로서의 제 경험을 담고 있습니다. 비록 명칭은 다를지라도, 다양한 히스패닉 문화권에서 공유하는 경험들이 많은 사람들에게 공감을 불러일으킬 거라고 생각해요. 그래서 제가 특히 강조하고 싶었던 것들은 70년대에 대한 애정, 사람들이 모여 이야기를 나누는 공간, 그리고 마이애미에서 자라면서 새벽 4시까지 과학 음악을 듣던 디스코텍입니다
+- **[Intel 18A Overview | Intel](https://www.youtube.com/watch?v=lpLAkVIkGSk)** — 2025-05-15 · en · `unclassified`
+  [Music] In the relentless pursuit of next generation computing, Intel Foundry introduces the Intel 18A process node. Standing for 18 angstros, 18A is the most advanced node fully designed and produced in North America. It features an industry first combination of technologies supported by a broad ecosystem of IP, EDA, and design services partners. It delivers better performance per watt and improved area efficiency, enabling new computing architectures for applications demanding the highest level of performance.
 
 ## Nissan (80건)
 
@@ -2093,490 +2891,6 @@
 
 - **[How Nokia is powering Bangkok’s new orange line metro](https://www.youtube.com/watch?v=VIF6vO70_E8)** — 2026-04-08 · ko · `unclassified`
   [음악] 오.
-
-## SK hynix (80건)
-
-- **[AI 시대가 요구하는 차세대 메모리의 기준 [System Architecture & Software Solution] | N잡러2 EP.3](https://www.youtube.com/watch?v=p1rXdpxgB5Y)** — 2026-07-24 · ko · `unclassified`
-  안녕하세요. 안녕하세요. &gt;&gt; 3대 엔잠러 대학생 엠버서 사승민 &gt;&gt; 신재원입니다. 승민님 오늘도 너무 잘생기신 거 아닌가요? &gt;&gt; 아 저는 여기 분당에 무슨 칼이나가온 줄 알았어요. &gt;&gt; 칼 있나? 아니고요. &gt;&gt; 재원님 근데 여기가 어디죠? 여기 SK 하이닉스 군당 캠퍼스잖아요. [음악] &gt;&gt; 분당 캠퍼스까지 오게 될지는 상상도 못 했는데 어 이렇게 오게 됐네요. &gt;&gt; 그러면 [음악] 2천 찍고 분당 캠퍼스까지 지금 접수하러 오신 거예요? &gt;&gt; 아 제가 오늘은 또 2천에이어서 분당까지 한번 확실하게 접수해 보겠습니다
-
-- **[[HY-Knowledge EP.2] How Will Quantum Computers Change Our Lives? | Physicist Kim Sang-wook](https://www.youtube.com/watch?v=sjxr8SM8Tjo)** — 2026-07-24 · en · `unclassified`
-  Atoms are the building blocks of everything in the world. Basically, quantum mechanics is the study of [music] the atomic world. At a fundamental level, the very zeros and ones that all computers are built on can exist simultaneously. And that's what makes it a fundamental revolution. For a regular computer, it would take over 100 years. It's so difficult, and that's exactly what makes it secure.
-
-- **[[하이널리지 EP.2] 양자 컴퓨터 시대, 우리의 삶은 어떻게 달라질까? | 물리학자 김상욱 교수](https://www.youtube.com/watch?v=hDBRM3Q3a-Y)** — 2026-07-24 · ko · `unclassified`
-  원자란 것은이 세상 모든 것을 이루고 있는 근본 단위인데요. 양자역학은 원자의 세계를 이해하려는 그런 학문이죠. 모든 컴퓨터에 기반이 되는 0과 1이라는 데이터 그 자체가 동시에 존재할 수 있는 그런 근본적인 혁명을 일으켜요. 보통의 컴퓨터로는 100년 이상 걸리는 일이라이 사실이 알려지자 이제 컴퓨터를 빨리 만들어야겠다는 생각을 모든 나라들이 하고 &gt;&gt; 이것도 누가 먼저 만드냐가 되게 중요하죠. &gt;&gt; 뭐 만들어도 만들었다고 얘기 안 하겠죠. 컴퓨터가 다루는 데이터의 양이 엄청나기 때문에 언제나 실수는 하게 마련이에요.
-
-- **[[HY-Knowledge EP.1] Will Quantum Computers Change the World? | Physicist Kim Sang-wook](https://www.youtube.com/watch?v=K3u07NaGiuk)** — 2026-07-16 · en · `unclassified`
-  It's called RSA encryption. It's the most secure encryption we have right now. It's what we use for online banking, and Bitcoin uses it, too. It's also used in military systems around the world. It would take a regular computer over 100 years to crack it. But a research paper came out saying a quantum computer could crack it incredibly [music] fast. Once the idea became widely known, every country realized they had to build one fast.
-
-- **[[하이널러지 EP1] 양자 컴퓨터는 세상을 바꿀 기술일까? | 물리학자 김상욱 교수](https://www.youtube.com/watch?v=D9a78FZZ-1Q)** — 2026-07-16 · ko · `unclassified`
-  RSA 암호라고 해요. 현재 가장 안전한 암호인데 그게 현재 우리가 사용하는 인터넷 뱅킹 비트코인도 거의 사용하고 있고요. 모든 군이 사용하고 있어요. 보통의 컴퓨터로는 100년 이상 걸리는 어 일이라 양자 컴퓨터를 사용하면은 굉장히 빠르게 풀 수도 있을 거라는 논문이 [음악] 나왔거든요.이 사실이 알려지자 이제 양자 컴퓨터를 빨리 만들어야겠다는 생각을 모든 나라들이 하고 &gt;&gt; 이것도 누가 먼저 만드느냐가 되게 중요하기 때문. &gt;&gt; 뭐 만들어도 만들었다고 얘기 안 하겠죠. 안녕하세요.
-
-- **[[미래인재 CLASS 제2강] 미래 반도체 ‘PIM’, 떠오르는 이유는 바로 ‘이것’](https://www.youtube.com/watch?v=_fFVIgYzGB8)** — 2026-07-15 · ko · `unclassified`
-  안녕하세요. 미레인 클래스에 오신 걸 환영합니다. 두 번째 특강의 진행을 맡은 SK 하이닉스 대학생 엠버스더 차승민 &gt;&gt; 현시현입니다. 여러분도 소개 한번 해 볼까요? 안녕하세요. 저는 인간 말랑이 홍서영입니다. &gt;&gt; 저는 인간 기오미 최상원입니다. 와우. 어 근데 저번에 미래인제 클래스 1편도 나오지 않았어? 어 맞아. 신청 교수님이랑 HBM에 대해서 얘기를 나눴어. &gt;&gt; 오, 경력직이네. 그니까 &gt;&gt; 그래서 MC 됐나 보다. &gt;&gt; 그니까 오늘을 이끌어놔줄 그니까 &gt;&gt; 굉장히 많이 부담을 갖고 [웃음] &gt;&gt; 파이팅 파이팅.
-
-- **[[뉴스룸] SK하이닉스 대학생 앰버서더, 이천캠퍼스 투어 진행… 반도체 현장과 기업 경영 철학을 배우다](https://www.youtube.com/watch?v=uj5W84VfvCY)** — 2026-07-14 · ko · `unclassified`
-  [음악] 지난 13일 대학생 엠버서들이 SK 하이닉스 2천 캠퍼스를 찾아 &gt;&gt; [음악] &gt;&gt; 뜻깊쁜 시간을 보냈습니다. 이번 캠퍼스 초원은 엠버서더들이 회사에 대한 시야를 넓히고 지금까지의 활동을 점검하며 향후 방향을 [음악] 함께 고민하기 위해 마련됐습니다. 먼저 엠버서더들은 SK 하이닉스의 풀스택 AI [음악] 메모리 크리에이터 도약 과정과 비전을 함께 살펴봤고 이어 M14 윈도우 투어를 통해 실제 반도체 생산 현장을 확인한 뒤 굿찌샵을 찾아 다양한 제품을 둘러보는 시간도 가졌습니다.
-
-- **[[뉴스룸] SK하이닉스, 美 나스닥 입성… 자본시장 심장부에서 '글로벌 컴퍼니' 위상 드높인다](https://www.youtube.com/watch?v=CsjPQECEFi4)** — 2026-07-11 · ko · `unclassified`
-  지난 [음악] 10일 SK 하이닉스가 나스닥 마켓 사이트에서 미국 예탁 증권 ADI 상장 기념 오프닝 베일 타종 인사를 열었습니다. 이날 행사에는 최태원 SK 그룹 [음악] 회장과 최재원 SK스퀘어 수석 부회장, 광노정 SK 하이닉스 CEO 등 그룹과 회사의 [음악] 지요 경영증이 참석해 미국 예탁 증권의 공식거래 개시를 함께 기념했습니다. AI 시대가 [음악] 분격화되며 AI 메모리 CEO가 빠르게 늘고 있는 가운데 SK 하이닉스는 최고 수준의 기술력과 [음악] 안정적인 공급 역량을 바탕으로 고대 역품 메모리 분야에서 큰 경제 운위를 확보하고 있습니다
-
-- **[Semiconductor Humanities EP.3 What Makes Humans Irreplaceable in the Age of AI | Prof. Choe Jae Chun](https://www.youtube.com/watch?v=fO2fypa8vak)** — 2026-07-03 · ko · `unclassified`
-  인공지능에게 간단히 물어볼 수 있다면, 왜 우리는 여전히 책을 읽어야 할까요? 훨씬 더 중요한 것은 읽으 면서 사고의 과정을 따라가는 훈련입니다 . 진정으로 책을 읽는 사람들은 인공지능 시대에서 살아남을 가능성이 더 높을 것이다. [음악]을 안 하는 분들 안녕하세요, 박수현입니다. 반도체 인문학에 오신 것을 환영합니다. 이곳에서는 기술과 인간의 삶이 만나는 지점에서 더 깊은 통찰력을 공유합니다. 오늘은 채재천 음악 교수님을 모셨습니다. 교수님, 환영합니다. 안녕하세요. 최근까지 이화여자대학교에서 강의를 하다가 마침내 음악계에서 성공적으로 은퇴하게 되었습니다
-
-- **[[반도체 인문학 EP3] AI를 이길 수 있는 인간의 조건 | 생명다양성재단 이사장 최재천](https://www.youtube.com/watch?v=WsdDXvDKG_w)** — 2026-07-03 · ko · `unclassified`
-  AI한테 물어보면 되는데 그럼에도 불구하고 굳이 꼭 책을 읽어야 하는 또 이유가 [음악] 있을지 책을 읽으면서 생각의 과정을 따라가는 그 훈련을 해 보는게 훨씬 소중한 것 같다는 생각이 들어요. 독서를 제대로 하시는 분은 살아남을 가능성이 있고 그렇지 않은 분은 &gt;&gt; 안녕하세요. 박수현입니다.이 기술과 인간의 삶에 대한 깊이 있는 통차를 나누는 시간 반도체 임문학입니다. 오늘은요 최재천 교수님을 모시고 이야기 나눠 보려고 합니다. 교수님 안녕하세요.네 &gt;&gt; 안녕하십니까?
-
-- **[반도체 기술의 물리적 한계를 돌파하는 핵심 동력 [PKG개발] | N잡러2 EP.2](https://www.youtube.com/watch?v=Jlf2r5VoJRk)** — 2026-06-23 · ko · `unclassified`
-  드디어 두 번째 직무 체험이 시작되었습니다. 그거 한 다음에 &gt;&gt; 오케이. &gt;&gt; 안녕하세요. 이대엔잠러 박인욱 이나래입니다. 오늘 여기 와가지고 전 너무 기대되는데 어떻게 생각하세요? &gt;&gt; 아 저 너무 기대돼요. 저는 이런 2천도 처음 와보고 2천에 이렇게 큰 건물이 자리하고 있을 줄 처음 알았어요. &gt;&gt; 거 한번 보시겠어요? 이게 뭐죠? &gt;&gt; 이제 TSV까지는 들어봤는데 MUF &gt;&gt; 에멀이니까 뭐 미스터 MUF [웃음] &gt;&gt; 혹시 들어보신 적 있으실까요?
-
-- **[SK하이닉스🐑메몰이소녀 X 김민하 광고 촬영 비하인드 필름](https://www.youtube.com/watch?v=G-mYvFsOwdE)** — 2026-06-09 · ko · `unclassified`
-  [음악] 네. 요즘 어딜 가나 AI와 반도체 이야기가 빠지지가 않잖아요. 그때 중심에 있는 SK 하이닉스의 첫 모델이 되었다는 점이 무척 신기하기도 하고 자랑스럽기도 했습니다. 어, 그리고 모델됐다고 얘기 듣고 제 주변 분들도 많이 기대된다고 말씀 주셨어요. [음악] 어, 이제 제가 몰고 다니는 양 램들이 바로 AI 시대를 움직이는 메모리 램을 상징한다고 하는데요. 유쾌한 메모리 소녀의 여정 속에 AI 시대를 이끌어가는 SK 하이닉스의 강력한 기술력이 담는 것 같아요.
-
-- **[[SK hynix Brand Campaign] 🐑The Memory Shepherd🐑: Leading the AI Era](https://www.youtube.com/watch?v=TEmThN1yej0)** — 2026-06-09 · ko · `unclassified`
-  메모리. RAM이란 도대체 무엇인가요? [음악] 자동 조종 장치 작동 중. [음악] 이걸 어떻게 끝내야 하지? 여러분, 이제 밥 먹을 시간이에요. 오늘의 특집은 빅데이터입니다. [음악] 네, 일이 끝났어요. 트랙을 달리세요. 메모리 걸이 최신 RAM을 가지고 돌아와 메모리 헤디로 우리의 삶을 업그레이드합니다 . 이건 걸작이야. 닭고기 아니면 양고기? [음악] 이제 진짜 시작이야. [음악] AI는 탈모 없는 미래를 빠르게 앞당기고 있습니다 . [음악] 난 널 믿고 있어. [음악] 메모리. [음악] SK하이닉스는 언제나처럼 우리를 AI 시대로 이끌고 있습니다
-
-- **[[SK하이닉스 기업이미지 광고] AI 시대를 이끌어가는 SK하이닉스🐑메몰이소녀🐑](https://www.youtube.com/watch?v=oXJhlAEvZXc)** — 2026-06-09 · ko · `unclassified`
-  머리 &gt;&gt; 이게 뭔 힘들이래? [음악] &gt;&gt; 자율주인을 시작합니다. [음악] &gt;&gt; 아 이거 다 언제 분석하냐? 얘들아 밥 먹자. 오늘 메뉴는 빅데이터야. [음악] &gt;&gt; 아싸은 &gt;&gt; 비트 좀 줄래? &gt;&gt; 최첨된 램을 몰고 메모리 소녀 우리 삶을 없게 하면 메모리 메모리음 &gt;&gt; 명작이야. &gt;&gt; AI 셋까지 대어 [음악] 넓히며 반대 없이 높이 높이 적을 하네.
-
-- **[SK하이닉스, 기후에너지환경부와 함께 ‘AI for Green Impact’ 개최… 미래 AI 환경 과학자와 함께 지구의 미래 고민](https://www.youtube.com/watch?v=c7lRW9i4fqk)** — 2026-06-08 · ko · `unclassified`
-  세계 환경의 날 6월 5일. &gt;&gt; SK가 기후 에너지 환경부와 함께 만든 특별한 하루. &gt;&gt; 이곳은 AI 환경 과학자가 탄생하는 현장입니다. &gt;&gt; AI폴인 임팩. &gt;&gt; AI 기술을 활용해 환경 문제를 탐구하고 해결책을 모색하기 위해 초중고 학생과 학부모로 구성된 약 100명의 참가자들이 한 자리에 모였는데요. &gt;&gt; 지금 바로 AI4 그린 임팩트 현장 만나보시죠. 렛츠고. 이번 행사의 오프닝은 기유 위기의 현실과 AI 기술로 환경 문제를 해결하는 여러 분야의 모습을 담았는데요.
-
-- **[[미래인재 CLASS 제1강] HBM 핵심 기술인 TSV, MR-MUF!! 그다음 미래 기술은?!](https://www.youtube.com/watch?v=TM0HTpKgzA8)** — 2026-06-08 · ko · `unclassified`
-  아 근데 오늘 다 뭐 때문에 모였는지 우리 알고 있어? &gt;&gt; 알지? &gt;&gt; 오늘 [음악] 미레인지 클래스 첫 촬영이잖아. 긴장되지 않아? &gt;&gt; 너무 긴장되. &gt;&gt; 나는 오늘 동경하는 교수님 오신다고 하셔 가지고 심장에 너무 빨리 뛰고 있어. 지금 &gt;&gt; 난 여쭤보고 싶은 거 너무 많아 가지고 교수님이랑 저녁서까지 해야 될 거 같아. &gt;&gt; 근데 혹시 오늘 주제 뭔지 알아? &gt;&gt; 오늘 HBM, AI, 반도체 이런 내용인가?
-
-- **[[HY-FOCUS on COMPUTEX 2026] SK hynix at the Heart of AI](https://www.youtube.com/watch?v=z4XU8LOp8xk)** — 2026-06-06 · ko · `unclassified`
-  1,500개의 기업과 6,000개의 부스가 한자리에 모인 COMPUTEX 2026 올해는 SK그룹 최태원 회장이 COMPUTEX 현장을 처음으로 찾아 더욱 의미를 더했습니다 역대 최대 규모의 COMPUTEX 화두는 AI Together입니다 모두가 AI의 미래를 바라보는 지금 그 시선의 중심에 SK하이닉스가 있습니다 SK하이닉스 부스는 At the Core OF the AI Wave-Memory!를 주제로 AI Factory Zone, 제품 Portfolio Zone 그리고 Tarot Event Zone으로 구성되었습니다 먼저 AI Factory에서는 NVIDIA와 협업으로 완성된 다양한 양사의 제품들을 확인할 수 있습니다
-
-- **[기술 혁신을 뒷받침하는 반도체의 근본 of 근본 [기반기술] | N잡러2 EP.1](https://www.youtube.com/watch?v=bFvJv16w7wM)** — 2026-05-21 · ko · `unclassified`
-  감사합니다. &gt;&gt; 감사합니다. &gt;&gt; 감사합니다. 고생하습니다. 고생했습니다. &gt;&gt; 신트로 돌아왔습니다. 그 첫대사만 하고 할까요? 저경님 첫대사까지 &gt;&gt; 아 드디어 &gt;&gt; 네 &gt;&gt; 안녕하세요. &gt;&gt; 드디어 이날이 왔습니다. SK 하이닉스의 취업을 꿈꾸는 취진생들의 빛과 소금 엔잠러 시즌 2가 화려하게 컴맥겠습니다. 소리 질러.네 네. 지난 시즌이 7하로 끝나서 진짜 엄청 아쉽더라고요. 하이닉스의 직무가 얼마나 많은데 벌써 끝나냐? 내가 하고 싶은 건 아직 나오지도 않았다 하면서 원성이 아주 자아하더라고요. &gt;&gt; 그래서 저희가 그 막중한 바을 이어받았습니다
-
-- **[[Analyst Interview｜하나증권 김록호 위원] AI 인프라 확대와 메모리 수요 증가의 핵심 수혜자](https://www.youtube.com/watch?v=j-Dk036C1wc)** — 2026-05-14 · ko · `unclassified`
-  AI의 이제 확산과 진환은 [음악] 당연히 메모리의 총 수요량 자체가 등대될 수밖에 없는 상황이고요. 디램뿐만 아니라 랜드 [음악] 같은 경우가 가격이 가파르게 오르기 시작했기 때문에 항상 저희가 주목을 해야 된다. [음악] 1분기 실적은 견조한 메모리 가격을 기반으로 양호한 실적을 시원했다라고 보고 있습니다. 시장에서 분기초에 예상했었던 메모리 가격 대비 계속해서 이제 좋은 가격들이 형성되는 것들이 확인이 되고 있었고 어 그의 준화는 양호한 실적에 나왔다라고 저희는 판단하고 있습니다.
-
-- **[[Tech Note] 기억하고 성장하는 AI 시대, 메모리 반도체의 다음 과제](https://www.youtube.com/watch?v=hiRsKqIiDQ4)** — 2026-05-13 · ko · `unclassified`
-  만약에 회장님께서 연봉 1억을 주고 비서를 구용했는데이 비서가 IQ 180에 하보드 박사기를 가지고 있지만 매일 아침에 출근할 때마다 어제 나눈 대화를 모조일 잊어버린다면 어떨까요? 당신은 매일 아침마다 당신의 이름이 무엇인지, 회사는 무엇을 하는 곳인지 어제 지시한 프로젝트가 어디까지 진행됐는지 처음부터 다시 설명해 돼요.이 비소는 천재적인 두뇌로 당신의 설명을 완벽하게 이해하고 업무를 처리하지만 퇴근하는 순간 그 모든 기억은 포맷됩니다. 이것이 바로 지금 우리가 열어가는 인공지능의 민낯치예요.
-
-- **[[반도체 인문학 EP2] AI가 절대 못하는 것 | KAIST 교수 정재승](https://www.youtube.com/watch?v=uvGmbKRcwc4)** — 2026-05-04 · ko · `unclassified`
-  핸드폰을 들여다 보면서 전 세계에서 제일 예쁘고 제일 잘생기고 제일 부자고 누군가와 나를 비교하는 거예요. 미국에서는 지금 청소년 우울증이 폭증하고 있습니다. 2, 30% 늘어난 정도가 아니라 두세 배씩 늘어났습니다. 인간에게 기대되는 앞으로의 미래의 기능들은 [음악] &gt;&gt; 안녕하세요. 박수현입니다. [음악] 기술과 인간의 삶에 대한 깊이 있는 통찰를 나누는 시간이죠. 반도체 임문학. 오늘은 카이스트 정재승 교수님 모시고 이야기 나눠 보려고 합니다. 교수님 안녕하세요. &gt;&gt; 안녕하세요. [음악] &gt;&gt; 네. 교수님 자기 소개 간단하게 부탁드릴게요.
-
-- **[[뉴스룸] “AI 시대 함께 열어가자”… SK하이닉스, 협력사와 동반성장 전략 제시](https://www.youtube.com/watch?v=1lfezw9HI88)** — 2026-04-21 · ko · `unclassified`
-  SK 하이닉스가 지난 20일 2026년 동반성장 협의회 전기 총회를 열었습니다. [음악] 동반 성장 협의회는 SK 하이닉스가 협력사와 함께 경쟁력을 강화하고 [음악] 협력 관계를 더욱 공고의 하기 위해 2001년 결성한 협의체로 매년 사업 현황과 시장 전망을 공유하고 향후 협업 방향성과 주요 이슈 [음악] 대응 방안을 논의하고 있습니다. 이번 총회 다가올 AI 시대를 협력사와 [음악] 함께 준비하기 위한 방향을 공유하는 자리로 마련됐습니다. 이날 인사에는 황철주 협의회장을 비롯해 아홉개 회원사 대표들이 참석했으며 [음악] SK 하이닉스에서는 광로정 대표의사 사장과지 경영진이 함께 자리했습니다
-
-- **[SK하이닉스, ‘2026 행복나눔기금 전달식’ 개최… 함께 뛰며 되새긴 나눔의 가치](https://www.youtube.com/watch?v=8vQtsZH02jk)** — 2026-04-16 · ko · `unclassified`
-  여러분, 오늘 아주 따뜻한 온도가 흐르고 있습니다. &gt;&gt; 사람의 체온과 같은 36.5도의 따뜻한 나눔의 기운이 흐르는 SK 하이닉스 2000 캠퍼스 &gt;&gt; 206 SK 하이닉스 행복 나눔 기금 전달치기 준비 중인데요. &gt;&gt; 봄날씨만큼 아주 따뜻한 기운이 흐르지 않나요? 맞습니다. 너무 따뜻한데요. 구성원들의 따뜻한 마음이 모여 만들어진 나눔의 순간. [음악] 지금 바로 만나러 가시죠. 행복 나눔 기금은 구성원의 자발적인 기부금에 회사가 동일한 금액을 더하는 매칭 그랜드 방식으로 조성되는데요. [음악] 2011년부터 누적된 기타금은 무려 370억 원.
-
-- **[[반도체 인문학] AI 시대, 인간은 두 종류로 진화한다 | 뇌과학박사 장동선](https://www.youtube.com/watch?v=C1ZT0Q7Q0Yw)** — 2026-04-09 · ko · `unclassified`
-  앞으로의 인류는요. 서로 다른 인류로 나녀서 지나게 될 가능성도 있다라고 보여져요. AI에게 물어보지 않으면은 아무것도 할 수 없는 종류의 사람으로 서서히 변해갈 수도 있는 거죠. 새로운 형태의 기존의 인류가 없던 능력을 가지는 인류도 등장할 수 있어요.이라고 부를 정도로. 안녕하세요. 저는 진행을 맡은 아나운서 박수현입니다. 인류는 문자를 만들고 종이에 기록하는 등이 기억을 밖으로 확장해 왔습니다. 사실 이렇게 기억을 외부에 저장하는 일은 아주 오래 전부터 있어 왔는데요.
-
-- **[[2026 The Leaders] Global Talent 박한울 부사장](https://www.youtube.com/watch?v=-fPoVLt6vfc)** — 2026-04-06 · ko · `unclassified`
-  [음악] 예 하이닉스 글로벌 탤렌트 담당으로 이번에 새롭게 오게 된 박한울입니다. 20년간 인산만 해 온 사람입니다. [음악] 지금 맡게 된 업무는 사람들을 확보하고 글로벌리 일어나는 모든 일들 주제원 [음악] 관리, 법 관리 이런 것들을 담당하고 있습니다. SK닉스는 더 이상 이제 국내 기업이 아니라 글로벌 기업으로 명시상부 올라선 기업인 거 같고요. 거기에 맞게 또 인재들을 관리하고 또 글로벌리 어떻게 관리를 할지의 [음악] 모든 부분들이 달라져야 된다고 생각합니다.
-
-- **[[뉴스룸] SK하이닉스, 2년 연속 WMEC 선정…세계 무대에서 윤리경영 역량 입증](https://www.youtube.com/watch?v=-4X8_JQ0a0s)** — 2026-04-01 · ko · `unclassified`
-  SK 하이닉스가 글로벌 윤리 경영 평가 기관 액티스 피어로부터 2026년 세계에서 가장 윤리적인 [음악] 기업 중 하나로 선정됐습니다. 지난해 국내 반도체 기업 최초 선정에 이어 연속 [음악] 이름을 올린 SK 하이닉스는 평가 기준이 한층 강화된 가운데서도 지난해보다 [음악] 높은 점수를 받아 글로벌 최상위 수준의 윤리 경험 역량을 재입증했습니다. 우리 회사의 기술과 제품으로 세계 메모리 [음악] 시장을 선도하는 것과 동시에 윤리 경영에서도 글로벌 최고 수준의 평가를 받았다는 것에 더욱 의미가 크다고 [음악] 생각합니다.
-
-- **[[2026 The Leaders] Photo기술 김현석 부사장](https://www.youtube.com/watch?v=XS2yeA3_O0A)** — 2026-03-30 · ko · `unclassified`
-  [음악] 안녕하세요. 이번에 포토 기술 담당으로 부임하게 된 김현석입니다. 포토 기술 조직은 반도체 제조의 핵심인 회로 패턴을 [목을 가다듬음] 웨이퍼 위에 그려내는 노강 공정 전반을 담당합니다. 조직의 미션으로는 반도체 아이덴티티를 부여하는 실행자로서 패턴을 더 작게, 더 균일하게, 더 정확한 위치에 더 경제적으로 구현하는 것입니다. 먼저 2026년이라는 중요한 시점에 [음악] SK 하이닉스의 일원으로서 큰 책임을 맡게 되어 무한한 연관과 동시에 막중한 책임감을 느낍니다.
-
-- **[[뉴스룸] SK하이닉스, 제78기 정기주주총회 개최 “글로벌 초일류 기업으로 성장해 차별화된 가치 창출하고, 주주와 결실 나눌 것”](https://www.youtube.com/watch?v=TeBSyCF47wc)** — 2026-03-26 · ko · `unclassified`
-  [음악] SK 하이닉스가 지난 25일 이천 캠퍼스에서 제78기 전기 주주 총회를 열었습니다. [음악] 주주와 산해 외의사, 경영진 등이 참석한 가운데 의장으로 연단에 오른 광로정 [음악] 대표의사 사장은 먼저 감사 인사를 전했습니다. &gt;&gt; 그동안 SK 하닉스에 보내주신 아낌없는 경려와 성원의 전 구성원을 대표하여 [음악] 감사 인사를 드립니다. 곽사장은 지난해 매출액과 영업 이익이 2024년 [음악] 대비 각각 1.5배 두 배 수준으로 성장하며 최대 실적을 겸신했다고 전하면서 HBM 매출 증가와 고성능 고부가디 비중 확대, 랜드 포트폴리오 재편 등을 호실적의 배경으로 설명했습니다
-
-- **[오전엔 DRAM 불량 해결사, 퇴근 후엔 프리다이버?! SK하이닉스 버디들의 갓생 라이프 | 슼 다녀오겠습니다 EP.4](https://www.youtube.com/watch?v=cYGCpvTJ-gQ)** — 2026-03-25 · ko · `unclassified`
-  산과 바다 바다바 둘 셋 [음악] &gt;&gt; 다음 주 안정화되는 거 같이 확인해 보는 걸로 하자오 생모들의 포토 오버레이 3포도 엄청 개선이 되는 효과를 볼 수 있습니다. &gt;&gt; 파이팅! &gt;&gt; 스 다녀오실 분? &gt;&gt; [박수] &gt;&gt; 까꿍. 가자. &gt;&gt; 안녕하세요. 오늘 쑥 단열 SK 하이닉스의 연기 있는 주인공. 어느 부서에 누구이신가요? 저는 비램 PPT에서 업무하고 있는 김른 TL이라고 합니다. &gt;&gt; 같은 팀에서 이제 업무하고 [음악] 있는 정진화 TL입니다.
-
-- **[[뉴스룸] SK하이닉스, 2026년 대학생 앰버서더 발대식 개최…“미래 인재의 시각으로 반도체 기술 가치 알린다”](https://www.youtube.com/watch?v=mknuYs0Ifco)** — 2026-03-23 · ko · `unclassified`
-  [음악] SK 하이닉스가 지난 20일 대학생 엠버서더 발대식을 열었습니다. [음악] 수많은 지원자 가운데 선발된 20명의 엠버서더는 오늘 10월까지 [음악] 약 7개월간 자신만의 시선과 언어로 SK하이니스의 비전과 가치를 전파할 예정입니다. 지난해 [음악] 첫 출범한 대학생 엠버서는 올해도 반도체 기술과 회사 소식을 전달하는 소통 창구 역할을 할 것으로 기대됩니다. &gt;&gt; 세계적인 글로벌 1등 기업 SK 하이닉스에서 대학생 엠버서더를 맡게 되어서 굉장히 기쁘고 설레는 것 같습니다.
-
-- **[[2026 The Leaders] Device Tech Solution 손윤익 부사장](https://www.youtube.com/watch?v=tI9YPyh5Zjo)** — 2026-03-22 · ko · `unclassified`
-  [음악] 안녕하세요. 저는 미래 기술 연구원에서 디바이스 테크 솔루션을 담당하고 있는 손유닉입니다. 저희 조직은 디램랜드 전반에 걸친 핵심 페리 트랜지스터 기술 개발과 고성능, 고품질, 완성도 있는 제품 경쟁력을 위해서 다양한 설계에서 쓸 수 있는 PDK, 다양한 소자도 제공하고 디자인도 제공하고 설계를 할 수 있는 디자인 인풋 솔루션을 제공하는 역할을 하고 있습니다. 그리고 저희 조직에 좀 특별한 팀이 하나 있는데요. 겨울에 정전기 경험해 보신 적 있으시죠?
-
-- **[[하이포커스 ON GTC 2026] SK하이닉스가 말하는 AI 메모리 미래](https://www.youtube.com/watch?v=ZUTjUwer8hc)** — 2026-03-20 · ko · `unclassified`
-  [음악] 세계인의 기술 혁신을 주도하는 GTC 2026 기술의 미래를 설계하는 장에서 최첨단 AI 메모리를 선보이는 SK하이닉스의 모습을 생생하게 담았습니다. SK하이닉스 부스는 Spotlight on AI MOR를 콘셉트로 세 가지 존으로 구성되어 [음악] 있습니다. 비디아 협업 존에서는 양사가 협업준인 HBM, Soc 2, ESSD 등 실제 AI 인프라에서 중요한 제품들을 직접 확인할 수 있습니다. [음악] 포트폴리오 존에서는 주요 제품들을 조이스틱으로 [음악] 직접 선택해 관련 정보를 쉽게 살펴볼 수 있었습니다.
-
-- **[[2026 The Leaders] 미래기술연구원 VG TD 장경철 부사장](https://www.youtube.com/watch?v=c2RddGpjrnY)** — 2026-03-16 · ko · `unclassified`
-  [음악] 안녕하세요. 미래 기술 연구와 장경철입니다. 디램 연구는 현재 2D 디램에서 VG 3D 디램으로 넘어가는 변곡점에 있는데요. 어 VG테크는 기존과 완전 다른 그 셀의 구조를 이용해서 성능 개선을 이끌어낼 수 있습니다.이를 이를 통해 어 메모리 용량도 늘리고 저전력 고속 동지학이 모두 가능한 플랫폼으로 기대하고 있습니다. [음악] 제가 대학원 신입생이었던 2000년부터 지금까지 디바이스라는 한우물을 계속 파왔습니다. 20대에 제가 했던 결심은 디바이스 전문가를 넘어서서 종합 반도체인이 되는 것이었는데요.
-
-- **[[2026 상반기 채용] SK하이닉스가 찾는 사람 | 세상을 바꾸는 기술의 여정에 함께할 사람](https://www.youtube.com/watch?v=Z0n8zgFHIRA)** — 2026-03-16 · ko · `unclassified`
-  SK 하이닉스가 찾는 사람 잘 들어봐.이 [음악] 정도면 충분해. 그 말이 세상에서 제일 불편한 사람. 남들이 결승선이라 부르는 것을 [음악] 나는 또 다른 출발선으로 보는 사람. 끝까지 데이터와 숫자로 증명하고 혼자보다 함께할 때의 시너지를 믿는 사람. 기여히 [음악] 끝까지 찾아내는 사람. 누구의 지시도 아닌 스스로의 의지로 한계를 넘어서는 사람. 그래서 SK이닉스와 함께 세상을 바꾸는 기술을 함께 써내려갈 사람. 어때? 지금이 말을 듣고 가슴이 낀다면 당신이 바로 SK 하이닉스가 찾는 사람.
-
-- **["위기를 기회로 바꾼 원동력은 구성원들의 책임감 덕분이었습니다." DRAM 상품기획 담당의 하루 | 하이라이트 EP.8](https://www.youtube.com/watch?v=i7QIUJzadFQ)** — 2026-03-12 · ko · `unclassified`
-  최근 그 AI 중심의 시대가 되면서 뭐 메모리 센트릭이라는 단어가 유행하듯이 [음악] 디램이 모든 시스템에 중심이 될만큼 그 중요성이 굉장히 부각되고 있는게 현실입니다. SK 하이닉스에 [음악] 입사하고 나서 아시는 것처럼 굉장히 어려운 어 시계를 겪었습니다. 뭐 형광둔 한 살짝을 뺀다든지 또 무구 휴직도 많았었고요. 그럼에도 불구하고 그 당시 이제 구성원들이 책임감 하나로 일해 왔었던 [음악] 거 같고 발전에 근간이 되지 않았나 생각을 합니다. [음악] 전 SK 하이닉스 DLM 상품 계획을 맡고 있는 이상권 담당입니다
-
-- **[[2026 The Leaders] DRAM마케팅 박준덕 부사장](https://www.youtube.com/watch?v=QbYroHTjLWA)** — 2026-03-11 · ko · `unclassified`
-  [음악] 안녕하세요. 디램 마케팅 박준덕 담당입니다. 저희 디 마케팅은 다양한 시장 정보 마켓드 인텔리전스를 수집하여서 글로벌 시장과 고객들의 동향을 파악하고 그에 따른 최적의 판매 전략을 수립하는 역할을 수행하고 있습니다. 네. 제가 하이닉스에 입사한게 2005년입니다. 그니까 지금으로부터 한 20여년 전인데요. 좋은 분들을 만나서 많은 것들을 배울 수 있었고 회사와 함께 성장할 수 있었다고 생각합니다. 최근에 메모리 시장은 AI의 슈퍼사이클과 맞물려서 더 크게 성장하기 위한 도약을 눈앞에 두고 있습니다.
-
-- **[“고객과 시장을 읽는 사람들🌎 하이닉스 비즈니스 조직 이야기 | EP.5”](https://www.youtube.com/watch?v=nd56yDqZteM)** — 2026-02-25 · ko · `unclassified`
-  경영층분들 중에 한 분께서 직접 대명복을 한번 받아보고 싶다. &gt;&gt; 제 그때 지나가다가 봤어요. 까무잡한 애가 새아해져서 지나가더라고요. [음악] &gt;&gt; 안녕하세요. 저는 로봇공학 [음악] 박사 과정 중인 손건입니다. 로봇이 정규한 계산과 판단을 통해 움직이듯 글로벌 비즈니스 역시 [음악] 시장과 고객을 분석하고 정확한 전략을 세워 움직여야 앞으로 나갈 수 있습니다. 오늘은 SK 하이닉스에서 전 세계 고객과 시장을 분석하고 최적의 전략을 통해 회사의 [음악] 가치를 높여가는 글로벌 세일즈 비즈니스 분석 조직의 전문가들을 만나보려 합니다.
-
-- **[슈퍼 모멘텀 Ep.1 | SK하이닉스를 만든 슈퍼 모멘텀을 말하다](https://www.youtube.com/watch?v=iX17GjAaTTg)** — 2026-02-09 · ko · `unclassified`
-  안녕하세요. 장예인입니다. 대한민국을 넘어 글로벌 산업을 움직이는 수많은 기업들 중 여러분이 가장 관심 있게 지켜보고 있는 기업은 무엇인가요? 아마 많은 분들이 SK 하이닉스를 꼽을 거 같은데요. 본격적으로 도래한 AI 시대, HBM에 대한 수요가 폭발적으로 증가하면서 SK 하이닉스는 2025년 역대 최고 기록을 경신, 또 경신했습니다. 모든 성공 서사가 그렇듯 바깥에 우리는 그 빛나는 결과만 마주할뿐 그 과정에서의 힘듦이나 수고로움까지는 모두 알지 못하죠. 그래서 많은 분들이 궁금해할 SK 하이넥스의 히스토리와 비하인드 스토리가 한 권의 책으로 묶여 세상에 나왔습니다
-
-- **[슈퍼 모멘텀 Ep.2 | 언더독에서 AI시대의 중심까지. SK하이닉스를 만든 슈퍼 모멘텀](https://www.youtube.com/watch?v=TMmnc4RIe6k)** — 2026-02-09 · ko · `unclassified`
-  자, 그리고 이어지는 세 번째 키워드 스피릿입니다. SK 인수되기 이전 하이닉스는 회사의 존폐가 흔들리는 고난의 시기를 무려 10년이나 버텨낸 역사가 있습니다. 그러면서 하이닉스 DNA라는게 생겼다고 하죠. 하이닉스 DNA 구체적으로 이게 뭔가요? 최태현회장이 하이닉스를 인수할 때 하이닉스의 야성을 어 SK 그룹에 심고 싶었다라고 이렇게 회고하시더라고요. 실제 어 인수 후에 하이닉스에 이제 100명의 임원들과 어 1대일 면담 후에 그 야성을 재확인했다라고 표현을 하시기도 했는데요. 어가 봤더니 화장실의 실제 독하게라고 쓰였다는 거예요.
-
-- **["경청과 소통없인 목표를 달성할 수 없어요" Edge Computing마케팅 팀장의 하루 | 하이라이트 EP.7 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=nrBcIekkj94)** — 2026-02-03 · ko · `unclassified`
-  지금은 AI로 시장이 이동하는 중요한 시기이고요. 시장 상황이 [음악] 아주 급격하게 변하고 있는 상황이라 전사 협업 마인드가 점점 중요해지고 있습니다. 지금은 [음악] SK 하니스가 아주 중요한 변곡점에 있습니다. 저는 SK 하이니스 디 [음악] 마케팅 모바일 컨슈머 마케팅 팀을 이끌고 있는 이육제 팀장입니다. 저는 매일 5시 30분경 [음악] 일어나서 6시 12분 지하철을 사고요. 7시 30분경 사무실에 도착을 해서 15분에서 [음악] 20분 정도 목서를 하면서 하루를 시작합니다.
-
-- **[SK하이닉스 14년차, 일·가정·자기관리 이야기 | EP.4 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=X5XYn4NksL4)** — 2026-01-20 · ko · `unclassified`
-  바뀌고 나서 대박 사건 하나 있었지. 대원이가 [음악] &gt;&gt; 신입사원 대표로 &gt;&gt; 회장님한테 배지 받았잖아. 행복날개 배지. &gt;&gt; 회장님이랑 만날 일이 잘 없는데 또 그걸 그렇게 배지를 받은 건 진짜 큰 일이다. 어 배지 금인가? [웃음] [음악] 안녕하세요. 저는 로봇 공학 박사 과정 중인 손건입니다. 로봇이 정교한 하드웨어 설교와 알고리즘으로 움직이듯 반도체 역시 설계와 피라는 긴 과정을 통해 비로소 하나의 집으로 완성됩니다.
-
-- **[오전엔 반도체 셋업 💻 퇴근 후엔 필드 질주?! 🏈 엔지니어 반전 라이프 | 슼 다녀오겠습니다 | EP.3](https://www.youtube.com/watch?v=CXHe6MoLg8g)** — 2026-01-13 · ko · `unclassified`
-  지금 정상적으로 달려 있는 걸 확인해서 일단 무조건 100만 원 목표로 가겠습니다. 도전. 오 [음악] &gt;&gt; 강한 파워로 하기 때문에 &gt;&gt; 오케이. 저건 주에 요청을 했었는데 도 &gt;&gt; 이후에 이제이 장비를 유지보수하고 개조하는 업무도 진행을 같이 [음악] 하고 있습니다. &gt;&gt; 승 &gt;&gt; 슈팩스하는 정신으로 점진적 과보하는 삶 생활했으면 좋겠습니다. 쓱 다녀오실 분? [음악] &gt;&gt; 안녕하세요. SK 하이닉에서 용기 있는 주인공 어느 부서예요. 누구신가요?
-
-- **[협업 속에서 변화를 만들어가는 SK하이닉스 DRAM AE 기술개발 담당의 하루 | 하이라이트 EP.6 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=kL09x91czVI)** — 2026-01-06 · ko · `unclassified`
-  [음악] AI 시대. 메모리는 그 어느 때보다 복잡하고 역동적인 변화를 맞이하고 있습니다. 고객은 다양해졌고 제품은 끊임없이 새롭게 등장합니다. 우리는 그 변화를 따라가는 사람이 아니라 먼저 답을 제시할 수 있는 사람이 되어야 합니다. 이런 작은 생각이 사람을 모으고 함께 모인 사람들이 작은 변화를 만들고 그 작은 변화가 모여 SK 하이닉스의 미래를 더 단단하게 만든다고 믿습니다. &gt;&gt; 안녕하세요. SK 하이닉스 디램 개발 부문에서 A 기술 개발 담당을 맡고 있는 정해가입니다.
-
-- **[Agent 660, 출동!](https://www.youtube.com/watch?v=0i8EOW_IdpA)** — 2025-12-26 · en · `unclassified`
-  Who are you? Huh? Bonding. He's bonding. [Music] Fore! [Music] [Applause] [Music] [Applause] Heat! [Music] Heat. Heat.
-
-- **[[뉴스룸] SK하이닉스, AI 휴머노이드 캐릭터 '하빔이' 탄생...코드네임 '에이전트 660 하임스 본딩'으로 임무 본격화](https://www.youtube.com/watch?v=iYdoCnb6f6g)** — 2025-12-26 · ko · `unclassified`
-  SK 하이닉스가 HBM을 모티브로 한 캐릭터 합비를 선보였습니다. AI 서비스의 일상화로 반도체 기술의 존재감이 더욱 커진 가운데이를 쉽고 친근하게 전달하기 위해 기획된 캐릭터입니다. 하비미는 HBM 칩이 탑재된 AI 휴머노이드라는 설정을 갖고 있으며 SK 하이닉스가 세계 최초로 HBM을 개발한 2013년을 탄생 연도로 삼고 새로운 기술을 탐색하는 기업 정신을 반영해 호기신 많은 성격을 지녔습니다. 특히 눈에 띄는 점은 하비가 브랜드를 상징하는 캐릭터 역할을 넘어 SK 하이닉스의 비전과 가치를 전파하는 인무를 수행할 때는 SK 하이닉스 BI6 소속 유원인 에이전트 660 하임스 본딩이라는 또 다른 모습으로 전환된다는 점입니다
-
-- **[“24시간 멈추지 않는 하이닉스의 심장💥 제조기술 엔지니어 이야기 | EP.3” (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=gcOnzPK8DvY)** — 2025-12-18 · ko · `unclassified`
-  어쨌든 제주 기술이 올해 좀 심장 같은게 아닌가 약간 이런 생각을 좀 할 때 좀 &gt;&gt; 심장 &gt;&gt; 오 약간 오글 [웃음] &gt;&gt; 안녕하세요. 저는 대학에서 로봇 공학 박사 과정을 밟고 있는 손건이라고 합니다. 제가 연구하는 분야와 마찬가지로 반도체 산업 역시 기술의 극치를 실현하는 곳이죠. 어 여보세요. 어 명 어 다왔어요. 바로 앞 올라갈게. &gt;&gt; 오늘은 밀하고 복잡한 시스템으로 가득한 현장의 최전선에서 밤낮 없이 움직이는 SK하이닉스 제조 기술 엔지니어들을 만나보려 합니다.
-
-- **[[뉴스룸] HE·DE·마스터·명장 한 자리에… SK하이닉스 ‘2026 기술전문가 임명식’ 개최](https://www.youtube.com/watch?v=h1sFLS1HyFU)** — 2025-12-16 · ko · `unclassified`
-  SK [음악] 하이닉스가 지난 15일 2천 캠퍼스에서 2026 기술 전문가 임명식을 대했습니다. [음악] 이번 임명식은 반도체 핵심 기술 분야에서 전문성을 인정받은 구성원에게 [음악] 기술 전문가로서의 사명감을 높이고 회사의 기술 중심 성장 체계를 강화하기 위해 마련됐습니다. SK 하이닉스는 직책이나 나이 [음악] 관계없이 기술 역량을 기반으로 성장할 수 있도록 기술 전문가 제도를 회사의 고유 코리어 패스로 운영하고 [음악] 있습니다. 먼저 D는 축적된 전문성으로 기술 고등학인 난재 해결에 기여한 엔지니어를 의미합니다.
-
-- **[[DECODE AI 7편] 최재붕 교수가 알려주는 AI 시대, 대한민국의 생존 전략](https://www.youtube.com/watch?v=SUdr5LUYHxI)** — 2025-12-10 · ko · `unclassified`
-  [음악] 안녕하세요. 성균관대학교 최재봉 교수입니다. 오늘은 AI 시대를 맞아 변화하고 있는 인류 AI 사피엔스에 [음악] 대한 이야기와 AI 사피엔스 시대에 어떻게 대응하면 좋을지에 대해서 한번 말씀드려 보고자 합니다. 지금까지 인류 문명은 끊임없이 기술 발전을 이어오며 수차례의 산업 혁명을 통해 변화를 만들어 왔습니다. 그리고 30여년 전 마지막 산업 혁명급 변화는 [음악] 인터넷이었죠. 그리고 엄청난 돈이 모이면서 일종의 버블 경제를 만들었는데요. 이것이 [음악] 2000년대 전 세계를 강타했던 닷컴버블입니다.
-
-- **[제로베이스부터 시작하는 게 체질인 SK하이닉스 부사장의 하루 | 하이라이트 EP.5 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=ZJ_RancdSDk)** — 2025-12-02 · ko · `unclassified`
-  모르는 길을 가지만 어디로 [음악] 가야 할지는 압니다. 멀리 돌아갈 수도 있겠지만 목적지까지는 [음악] 무조건 갈 겁니다. 거기 도착하면 또 어떤 시작이 [음악] 있을까요? 저는 [음악] 보통 6시에서 7시 반 사이에 주로 출근을 하고 있습니다. [음악] 제가 신입사원 때부터 아침형 인간이라서 보통 한 5시에 일어나서 한 6시 정도에 집에서 나오거나 하는게 계속 습관이 돼서이 사회 생활을 쭉 하면서 그 습관이 [음악] 지금까지 이어지고 있는 거라고 생각하고 있어요.
-
-- **[[뉴스룸] SK하이닉스, 먹는 반도체 출시...반도체 콘셉트 스낵 'HBM 칩스(Chips)' 선보여](https://www.youtube.com/watch?v=PoMzMBkunE4)** — 2025-11-26 · ko · `unclassified`
-  SK 하이닉스가 26일 편의점 7일과 손잡고 반도체 콘셉트의 스냅 HBM 칩스를 출시했습니다. HBM 칩스는 허니바나맛 과자의 줄입말로 [음악] SK 하이닉스가 선도하고 있는 AI 메모리 HBM과 반도체 칩을 제품 미름에 제치 있게 담아냈습니다.이 이 제품은 [음악] 반도체 칩을 닮은 사각형 형태로 옥수수에 허니바나만 초콜릿이 스며 있어 씹을수록 향과 맛이 진하게 퍼지는 것이 특징입니다. 출시 인형 [음악] 이벤트도 눈기를 급니다. 과자 속 스티커 카드 뒷면에 1년 번호로 응모하면 추첨을 [음악] 통해 1등 당첨자에게 금 열분이 주어지고 이밖에도 푸짐한 경품이 마련되 있습니다
-
-- **[허니바나나맛 HBM CHIPS 출시 !](https://www.youtube.com/watch?v=YDbzeA7n0o8)** — 2025-11-25 · ko · `unclassified`
-  많이 들어오셨네요. &gt;&gt; 지난 2013년 SK 하이닉스는 세상을 놀라게 한 역사적인 메모리칩 HBM을 선보였습니다. 대단하지 않습니까? 그로부터 12년이 지난 오늘 저는 또 한번 세상을 놀라게 할 칩을 여러분께 소개합니다. 혀크까지 한 번에 관통하는 맛에 TSV를 구현하여 기존의 칩보다 수십배 넓은 고대역 폭의 풍미를 선사합니다. 자, 소개합니다. 허니 바나나만 HBM. 헤버 메이크업 바니 바나나맛. HBM스.
-
-- **[SK AI Summit 2025: SK hynix Presents Vision to Become a “Full-Stack AI Memory Creator”](https://www.youtube.com/watch?v=wjTTodkeAOw)** — 2025-11-20 · ko · `unclassified`
-  [음악] SK 하이닉스가 지난 3일부터 이틀간 [음악] 서울 코엑스에서 열린 SKAI 서밋 2025에 참가했습니다.이 이 행사는 글로벌 AI 전문가와 산업 관계자들이 [음악] 무여 AI 기술의 현재와 미래 그리고 산업 전반의 활용 방안을 논의하는 국내 최대 규모의 AI 행사로 [음악] 올해는 AI 나우 넥스트를 주제로 개최되어 SK 최태원 회장 SK [음악] 하이닉스 광로정 대표 이사장 SK텔레콤 정재헌 대표 이사장을 비롯해 다양한 글로벌 빅테크 리더들이 [음악] 대거 참여해 AI 생태의 협력 방향을 공유했습니다
-
-- **[[Analyst Interview | 한국투자증권 채민숙 위원] 과거와 다른 메모리 Cycle, 다음 도약을 위한 Catalyst는?](https://www.youtube.com/watch?v=w6b8_cSG_6o)** — 2025-11-20 · ko · `unclassified`
-  빠른 판단력하고 [음악] 실행력 깊은 파트너십 프리미엄 리더십을 또 한번 뛰어넘을 수 있을 것인지 3분기 실적 예상대로 굉장히 잘 나왔고요. 매분기 최대 실적을 경신을 해 왔기 때문에이 [음악] 부분을 또 한번 뛰어넘을 수 있을 것인지 이런 우려가 있었는데요. 그 이상으로 잘해줬던 3분기 실적이라고 평가를 하고 있습니다. HBM [음악] 기저가 워낙 높다 보니까 시장에서 물량이 더 늘어날 수 있을 것인지에 우려가 있었는데 그런 우려를 불식시킬만큼 [음악] HBM에서 호실적이 나와 준 부분 긍정적이라고 평가를 하고 있습니다
-
-- **[AI 시대에 청소년이 노는 법 (feat. 행복 AI 스터디랩)](https://www.youtube.com/watch?v=lpsi7LDJpy8)** — 2025-11-19 · ko · `unclassified`
-  너무 재밌는데. 오 &gt;&gt; 청소년대에 상상하는 모든 것을 실현할 수 있습니다. &gt;&gt; 오 진짜 감각 있어. &gt;&gt; 완성 크게. 오 [웃음] &gt;&gt; 딴딴 &gt;&gt; 안녕하세요. &gt;&gt; 저희는 SK 하이닉스 대학생 엠버서더 수인 &gt;&gt; 승현 &gt;&gt; 유림입니다. &gt;&gt; 저희가 오늘 찾아온 이곳 행복 AI 스터디 랩인데요.이 &gt;&gt; 안에서 이제 AI를 직접 보고 체험하고 즐길 수 있는 공간이 있다고 합니다. AI를 이끄는 선두 주자인 SK 하이닉스가 어떻게 공간을 조성해 놨는지 또 참신하고 재밌는 발상들을 저희가 직접 체험해 보려고 하는데요.
-
-- **[[DECODE AI] 황철성 교수가 알려주는 AI를 혁신할 ‘뉴로모픽 반도체’](https://www.youtube.com/watch?v=qKJx8U0LedE)** — 2025-11-18 · ko · `unclassified`
-  [음악] 예, 안녕하세요. 저는 서울대학교 지료공학부에서 학생들을 가르치는 황철성 교수입니다. 오늘은 AI의 발전 과정과 AI의 한계를 넘어설 미래 반도체 뉴로멀픽 프로세스에 관해서 이야기를 나눠 보겠습니다. 현재 우리가 사용하고 있는 AI 기술의 핵심은 인공신경망인데요. 인간의 사고 회로를 모방한 인공신경망 덕분에 지금의 AI를 구현할 수 있었습니다. 사실 인공 신경망이라는 개념은 1950년대 처음 등장을 했었는데 당시에는 그 여러 가지 미비한 기술력 때문에 유의미한 성과를 얻지는 못했었습니다. [음악] 기술이 발전하면서 다양한 성과가 나타나기 시작했습니다.
-
-- **[고객의 무대에서 완벽을 증명한다 [AE] | N잡러 EP.7 (feat. 댓글이벤트)](https://www.youtube.com/watch?v=Ks4kCxn7p-M)** — 2025-11-18 · ko · `unclassified`
-  [음악] 안녕하세요. 럭키비키 7대 엔잠러 SK 하이닉스 대학생 엠버서더 이림 &gt;&gt; 김경태입니다. 어 이유아 &gt;&gt; 응 &gt;&gt; 너 엔 처음 나오지 않아? 맞아. 처음이야. 사실 내가 엄청 조금 긴장을 하고 왔어. 나는 이게 비전공자란 말이지. 그래서 중간엔 솔직히 조금 무슨 얘기지하고 자꾸 &gt;&gt; 어려울 수 있어. 어. &gt;&gt; 그래서 우리가 이거 찍는 이유도 있지. [음악] 왜?이 SK 하니스의 관심을 가진 시즌이 얼마나 많은데 그분들이이 직무 하나을 어떻게 다해야겠어?
-
-- **[하이닉스 5년차의 청주 라이프😎 퇴근 후 진짜 토크 | 부거니 받거니 EP.2 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=yn1zL6m0vEM)** — 2025-11-18 · ko · `unclassified`
-  형 근데 좀 이상하다. 뭐 산업 스파이처럼 이렇게 너무 자세하게 물어보는데. &gt;&gt; 아니 아니 이렇게 만났을 때 물어봐야지 사실 이렇게 내부 사람들 얘기를들을 기회가 없잖아. 2천도 만난다 그러는 거보 &gt;&gt; 좀 이상한데 &gt;&gt; 약간 &gt;&gt; 우리끼리의 비밀로 하는 걸로서 [음악] &gt;&gt; 오늘 누구 만나러 간다고? &gt;&gt; 아 오늘 북원이 형이라고 내가 진짜 좋아하는 형 있거든. 같이 보면 좋을 것 같아. 여기 어딘데? 이건가 보다. &gt;&gt; 아, 여기다. [음악] 저번에 왔던 데거든.
-
-- **[[뉴스룸] 25-26 핸드볼 H리그 박진감 넘치는 개막전 현장 속으로! (with SK하이닉스 대학생 앰버서더)](https://www.youtube.com/watch?v=FXs9upqc1jo)** — 2025-11-17 · ko · `unclassified`
-  [음악] 들리시나요? 뜨거운 함성 소리가 들리시나요? [음악] &gt;&gt; 박진감 넘치는 경기로 팬들을 가슴 한 핸드볼 H리그가 세 시즌을 맞이했습니다. &gt;&gt; 와! &gt;&gt; 어느덧 H리그가 3년 차를 [음악] 맞이했는데요. 그만큼 더 많은 팬들로 가득찬 현장 보이시나요? &gt;&gt; 그래서 그런지 팬들을 위한 많은 이벤트가 [음악] 준비되어 있다고 합니다. &gt;&gt; 그럼 우리도 경기 보러 가야죠? 코 고고 [음악] &gt;&gt; 다이나믹하고 빠르고 막감이는 [음악] 재밌는 경기라 생각합니다. &gt;&gt; 재밌는 공연이나 이런 것들도 많아서 &gt;&gt; 처음봤는데 생각보다 [음악] 재밌고 신났어요.
-
-- **[[세미의 시대 2편] 당신이 사랑하는 존재가 로봇이라면?](https://www.youtube.com/watch?v=5X46eUcM1YU)** — 2025-11-14 · ko · `AX`
-  마치 영화속 장면처럼 점점 인간을 닮아가는 로봇 휴먼노이드. 움직임과 언어 그리고 감정까지 경계가 흐려질수록 우리는 스스로에게 묻게 됩니다. 만약 당신이 사랑하는 존재가 휴먼노이드라면 그 사랑을 받아들일 수 있을까요? 사랑에 빠질만큼 인간을 닮은 그들은 과연 언제쯤 우리 앞에 나타날까요? [음악] 우리는 이미 로봇과 밀접한 관계 속에 살고 있습니다. 국제로봇 연맹 IFR에 따르면 [음악] 2023년 전 세계 산업 로봇 가동 대수는 428만 대. 역사상 최다 기록입니다. 로봇 한대는 사람 3.3명의 업무를 대신합니다.
-
-- **[재밌는 거요? 어려운 문제요. 완벽에 끝없이 도전하는 SK하이닉스 부사장의 하루 | 하이라이트 EP.4 (feat. 댓글 이벤트)](https://www.youtube.com/watch?v=1iVW_HumDzY)** — 2025-11-13 · ko · `unclassified`
-  제 포커스는 언제나 한 곳을 향해 있었습니다. 한치에 오차도 없는 가장 완벽한 순간을 위해서 [음악] &gt;&gt; [음악] [음악] &gt;&gt; 회사 출근하기 전에 그 새벽은 저한테 온전히 주어진 시간이라고 생각합니다. 그래서 사무실 들어가기 전에 회사 수영장에서 수영을 합니다. &gt;&gt; 수영이 저하고 잘 맞는 거 같아요. 규칙적인고 페이스를 내가 조절할 수 있고 그리고 하고 나면 개운한 느낌 그래서 하루를 성하기 [음악] 시작하는 거 같아요. 체력 관리가 지금 저한테는 굉장히 중요한 거 같습니다.
-
-- **[SK하이닉스 대학생 앰버서더가 이천에 간 이유는??](https://www.youtube.com/watch?v=fvkHHSR-tO0)** — 2025-11-11 · ko · `unclassified`
-  [음악] 안녕하세요. 저희는 SK하이닉스 대학생 엠버서 정성준 그리고 &gt;&gt; 강민입니다. 요즘에 날씨도 많이 선선해지고 그러면서 나들이 가시는 분들이 굉장히 많으신 거 같은데요. 그래서 저희가 오늘 준비한게 있죠? &gt;&gt; 저희가 오늘 바로 준비한 것은 두구두구두구두구두구 &gt;&gt; 2천에서 함께하는 SK하이닉스 [음악] 투어입니다. &gt;&gt; 아니 근데 2000에서 하면 2,000 투어지 왜 SK 하이닉스 투어인가요? 음, 사실 2,000에 이제 SK하이닉스가 있다는 걸 모르시는 분은 아마 없으실 것 같은데요. [음악] 사실 그렇다고 해서 우리가 여기서 그냥 반도체만 만드느냐?
-
-- **[[SK AI Summit 2025] SK hynix, New Vision & New Technology in AI Era](https://www.youtube.com/watch?v=SMK821CEfOI)** — 2025-11-11 · ko · `unclassified`
-  위대한 탄생은 아무것도 없는 곳에서 시작됩니다. [음악] 미래는 우리의 손에서 우리가 만든 기술로 찾아왔습니다. [음악] 우리의 미래는 기억을 저장하는 시대를지나 AI 시대를 이끌고 세상을 움직이는 힘이 되었습니다. [음악] [음악] &gt;&gt; 이제 SKI 닉스는 또 하나의 문을 여다. [음악] 모두가 향하는 새로운 미래의 모델. [음악] 지금과 미래를 잇는 새로운 여정의 시작. SK하이닉스. [박수] &gt;&gt; 네. 안녕하십니까? SK하이니스 CEO 광노정입니다. 동영상 잘 보셨습니까? 메모리라는 씨앗으로 AI의 싹을 띄우고 그 안에서 새로운 시대를 준비하는 SK 하이닉스의 모습을 그려봤습니다
-
-- **[갈테야테야 '반도체 계약학과' 갈테야🏃‍♂️🎓 [고려대학교 반도체공학과] (feat.댓글이벤트)](https://www.youtube.com/watch?v=-L6LW1ZzWCY)** — 2025-11-10 · ko · `unclassified`
-  체험 연계형 조건을 가지고 학생들이 입학 되고요. 학비가 전액 지원이 되고 있습니다. &gt;&gt; 난 이게 제일 부러운 거 같은데. 가서 공부만 [음악] 열심히 하고 딱 돌아오면 되는 거 &gt;&gt; 얼마나 좋았어요. [웃음] &gt;&gt; 진짜 좋았어요. 저 &gt;&gt; 안녕하세요. SK 하이닉스 대학생 엠버서더 김동환입니다. 와 여기 정말 익숙한 배경이죠. 바로 아남. 호랑이들의 기운이 느껴지는 고려대학교 앞에 나와 있습니다. 오늘의 엠바고는 여기서 특별한 체험을 준비했는데요. 혼자 가는 건 아니고 제가 [음악] 친구를 기다리고 있거든요.
-
-- **[[뉴스룸] SK하이닉스, 'SK AI Summit 2025'서 풀 스택 AI 메모리 크리에이터(Full Stack AI Memory Creator) 비전 제시](https://www.youtube.com/watch?v=dTziRgVyvkA)** — 2025-11-05 · ko · `unclassified`
-  [음악] SK 하이닉스가 지난 3일부터 이틀간 [음악] 서울 코엑스에서 열린 SK AI 서밋 2025에 참가했습니다.이 이 행사는 글로벌 AI 전문가와 산업 관계자들이 [음악] 무여 AI 기술의 현재와 미래 그리고 산업 전반의 활용 방안을 논의하는 국내 최대 규모의 AI 행사로 [음악] 올해는 AI 나우 넥스트를 주제로 개최되어 SK 최태원 회장 SK [음악] 하이닉스 광로정 대표 이사장 SK텔레콤 정재헌 대표 이사장을 비롯해 다양한 글로벌 빅테크 리더들이 [음악] 대거 참여해 AI 생태의 협력 방향을 공유했습니다
-
-- **[[뉴스룸] SK하이닉스 김우현 부사장 ‘제8회 회계의 날 기념식’서 산업포장 수상](https://www.youtube.com/watch?v=nl7ouD-GTHg)** — 2025-11-02 · ko · `unclassified`
-  지난달 [음악] 31일 제8을 회계의 날 기념식에서 SK 하이닉스 재무단방당 김무현 부사장이 [음악] 산업부장을 수상했습니다.이 이 행사는 매년 금융위원회가 주최하며 회계 [음악] 투명성 제고와 건전한 회계 문화 확산에 기여한 유공자들을 호상하는 자리로 김현 부사장은 기업의 최고 [음악] 재무 책임자로서 국제 회계 기준을 충실히 이행하고 내부 회계 관리 체계를 강화한 국로를 인정받아 산업 포장을 수상했습니다. 또한 AI와 [음악] RPA 등 혁신 기술을 회계 관리 시스템에 도입해 신뢰성과 투명성을 높이고 [음악] 글로벌 기준에 부합하는 재무 혁신을 이끌었습니다
-
-- **[오전엔 업무 풀가동 💻 퇴근후엔 캠핑까지?!🏕️ 워킹맘 완벽 밸런스 라이프 | 슼 다녀오겠습니다 EP.2](https://www.youtube.com/watch?v=KMNmPjHlM48)** — 2025-10-31 · ko · `unclassified`
-  [음악] 아, 저요 집에서는 조금 더 다장합니다. [웃음] 얘들아, 엄마가 한우 쏜다. [음악] 가자. &gt;&gt; 167을 토어에서 좀 직접적으로 얘기해 주실 수 있으면은 그걸 반영해서 냄들랑 소통할 수 있는 거잖아요. 앤 &gt;&gt; 엄마 회사가 쏟는 거야? 네. 아, 이렇게 &gt;&gt; 저도 노력할 거고 항상 감사하고요. &gt;&gt; 어, &gt;&gt; 스녀오신 분 &gt;&gt; 다녀오신 분. [음악] &gt;&gt; [음악] &gt;&gt; 안녕하세요. 오늘 쓱 다녀올 SK 하이닉스의 주인공 어느 부사의 누구신가요?
-
-- **[SK하이닉스 앰버서더, 내돈내산 반도체 여행기✈️](https://www.youtube.com/watch?v=j3NpvbHiBLc)** — 2025-10-29 · ko · `unclassified`
-  안녕하세요. 저는 SK하이닉스 대학생 엠버서더 강수현입니다. 여러분들 여기가 어딘지 아시나요? 바로 대만인데요. 반도체 강국이라고도 잘 알려져 있습니다. 제가 이번 여행에 온 목적은 바로 대만 반도체 산업의 심장부라고 불리는 신축 과학 단지와 TSMC 박물관을 방문해 볼 예정입니다. 가슴이 진짜 설래요. 저는 진짜 여행보다 이런게 더 뭔가 재밌는 거 같습니다. 그래서 이번 영상을 통해서이 대만이 세계 반도체 시장에서 어떤 이상을 갖고 있고 어떤 역할을 하는지 그리고 SK 하이닉스와 TSMC가 어떻게 전략적으로 관계를 맺고 있는지에 대해서 무겁지 않고 딱딱하지 않고 쉽게 설명해 보는 영상을 가져보려고 합니다.
-
-- **['맛잘알' 앰버서더, SK하이닉스 비원 카페테리아 평가하러 왔다!🧐(feat. 쿠킹클래스🍪)](https://www.youtube.com/watch?v=xBX59KeUTRQ)** — 2025-10-28 · ko · `unclassified`
-  [음악] 안녕하세요. 저희는 SK하인스 대학생 엠버서더 수인 수준입니다. &gt;&gt; 네. 오늘은 저희 SK 하이닉스 이렇게 분당 캠퍼스 앞에 와 봤는데요. 저희가 오늘 되게 알려지지 않고 조심스럽지만 신비로운 그런 곳에 한번 간다고 하거든요. &gt;&gt; 그럼 저희 엠버서가 또 빠질 수 없죠. &gt;&gt; 비원 그런 이름이었던 거 같아요. 근데 그곳 가기 전에 4층으로 누군가 부르셨다고 합니다. 한번가 보실까요? 가보실까요? 갑시다. [음악] &gt;&gt; 안녕하세요. 웰컴이크 준비해 &gt;&gt; 드릴게요. 감사합니다.
-
-- **[[뉴스룸] SK하이닉스, '제24회 이천쌀문화축제'서 AI 반도체 체험존 운영](https://www.youtube.com/watch?v=4t13aq1OsAI)** — 2025-10-27 · ko · `unclassified`
-  [음악] SK 하이닉스가 2천 지역의 대표 가을 축제 [음악] 제24회 2천살 문화 축제에 참여했습니다. 2천살 문화 축제는 지역 특상물인 [음악] 2천살을 주제로 농경문화 체험과 전통 공연, 향토 음식 등 다양한 프로그램이 펼쳐지는 이천의 대표 가을 축제입니다. [음악] 이번 행사에서 SK 하이닉스는 산업의 살 반도체 콘셉트 아래 꾸며진 2,00암대 비밀 반도체 [음악] 체험존을 통해 산업의살이라 불리는 반도체가 가진 세계 최고 수준의 기술 여권 2,000살의 명성을 [음악] 접목해 첨단 기술과 전통이어진 체험 콘텐츠를 선보였습니다
-
-- **[‘최초공개’ 여동생을 위한 M16 EUV Fab Tour! / 세상에서 가장 따뜻한 반도체 강의, 세따반 EP.3](https://www.youtube.com/watch?v=VP-WOCoptyA)** — 2025-10-27 · ko · `unclassified`
-  어 네. &gt;&gt; 네. &gt;&gt; 안녕하세요. 안녕하십니까? 어 이번 25년도 상반기 신입 구성원을 입사하게 된 딜램 DUV 노토 기술 팀의 김동현 티이라고 합니다. [음악] 프로그램에 취지가 마음에 들었고 저도 한번 출연해서 회사 생활을 보여 드리고 싶어 가지고 지원하게 되었습니다. 오늘 강렬할 대상은 제 여동생입니다. [음악] 어릴 때에는 동생하고 막 놀이에서 뛰어놀고 자전거 타고 놀고 했었는데 커가면서 좀 대화도 자연스럽게 조금씩 줄여야 되는 거 같기도 하고 동생도 지금 이공계 대학교로 다니고 있고 반도체 엔지니어의 꿈을 갖고 있는데 앞으로 취업 준비를 하면서 반도체 엔지니어의 꿈에 한 발짝 더 다가갈 수 있는 발판이 [음악] 되었으면 좋겠습니다
-
-- **[42 and What's NEXT](https://www.youtube.com/watch?v=rpmUKAh1Z0w)** — 2025-10-24 · ko · `unclassified`
-  [음악] 이것은 우리이 작은 사각형에 담긴 우주. 먼지 한 돌 하락되지 않는 [음악] 그 공간에서 우리는 빛으로 선을 그었습니다. 그 선은 곧 길이 되고 그 길은 [음악] 우리의 역사가 되었습니다. 42회 묻고 [음악] 또 묻습니다. 더 작고 더 빠르고 더 많이 [음악] 그리고 더 적게 우리는 반도체를 [음악] 만듭니다. 실패를 기록하고 가능성을 저장하며 [음악] 어제의 실수를 내일의 표준으로 바꿉니다. [음악] 세상이 더 큰 질문을 던질수록 우리는 더 생하게 준비합니다.
-
-- **[[BORN TO BE] 1. Wafer Manufacturing](https://www.youtube.com/watch?v=ib0NVESgQEg)** — 2025-10-24 · ko · `unclassified`
-  안녕. 나는 반도체야. &gt;&gt; 반도체? 그냥 모래 같은데. &gt;&gt; 잘 봐. 순도 높은 모래 속으로 쭉 들어가면 실리콘을 찾아낼 수 있어.이 실리콘을 뜨거운 열로 녹이고 길게 쭉 뽑아 올리면 &gt;&gt; 우와 기둥이 됐어. &gt;&gt; 이게 바로 인곳 실리콘 기둥이야. 신기하지? &gt;&gt; 오 반짝반짝해. &gt;&gt; 이제 이걸 얇게. 아주 얇게 잘라내고 표면을 거울처럼 매끄럽게 다듬어. 흠집 팔아 없이 말이야. &gt;&gt; 어, 이거 TV에서 봤어. &gt;&gt; 맞아. 이렇게 만들어진게 바로 웨이퍼야. &gt;&gt; 아, 웨이퍼.
-
-- **[[BORN TO BE] 2. Oxidation](https://www.youtube.com/watch?v=5HHwZN-Y6U4)** — 2025-10-24 · ko · `unclassified`
-  [음악] 응. 지금 뭘 뿌리는 거야? &gt;&gt; 뿌리는게 아니라 입는 거야. &gt;&gt; 입는다고? 옷 같은 건가? &gt;&gt; 그냥 옷은 아니고 내 몸을 감싸 주는 아주 얇은 막이야. 이산화 규소로 이루어져 있는데 높은 온도에서 산소나 수증기랑 반응해서 만들어져 일종의 보호막이라고 할까? &gt;&gt; 보호막. &gt;&gt; 응. 오염이나 불필요한 전류 흐름으로부터 지켜주는 보험. 습식산화는 수증기로 빠르고 두껍게. 건식 산화는 산소 기체로 얇고 정밀하게. 맞다. 특별한 기체로 감싸는 라디칼 사라도 있어.
-
-- **[[BORN TO BE] 3. Photolithography](https://www.youtube.com/watch?v=U_FMnB0dZB4)** — 2025-10-24 · ko · `unclassified`
-  눈 부셔. 저 빛은 뭐야? &gt;&gt; 앞으로 내가 어떤 일을 할지 밑그림을 그려주는 빛이야. [음악] &gt;&gt; 밑 그림? 뭘 그리는 건데? &gt;&gt; 이게 바로 포토봉. 내 몸에 회로 패턴을 새기 위한 작업이야. &gt;&gt; 어떻게 그려? &gt;&gt; 먼저 [음악] 표면에 포토 레지스트라는 감광액을 아주 얇게 발라. 빛을 받으면 성질이 변하는 물질이지. [음악] 그다음엔 포토마스크가 올라와. 마치 스텐실처럼 빛이 통과할 [음악] 부분과 막을 부분을 나눠 주는 거야. &gt;&gt; 어, 그림자놀리 같아. &gt;&gt; 하하.
-
-- **[[BORN TO BE] 4. Etching](https://www.youtube.com/watch?v=R-xFQTxm47Q)** — 2025-10-24 · ko · `unclassified`
-  자, 이제 내 몸에 새긴 회로 패턴을 정확하게 깎아낼 차례야. &gt;&gt; 깎는다고? 뭘로? 설마 칼을 대는 거야? &gt;&gt; 칼은 아니야. 원하는 부분만 남기고 필요 없는 부분은 녹이거나 깎아서 없애는 거야. 이걸 애칭이라고 해. &gt;&gt; 마술 같아. &gt;&gt; 애천트라는 액체로 녹이면 습식. 웨이퍼를 담갔다가 건지는 방식이라 넓은 면적을 한 번에 빠르지? &gt;&gt; 우와 신기하다. &gt;&gt; 하지만 액체는 사방으로 퍼지잖아. 그래서 미세하고 정교한 작업을 할 때에는 &gt;&gt; 할 때는 &gt;&gt; 건식계층을 하지.
-
-- **[[BORN TO BE] 5. Deposition & Ion Implantation](https://www.youtube.com/watch?v=IWZ8bnI01Ps)** — 2025-10-24 · ko · `unclassified`
-  응. 이번엔 또 다른 걸 입고 있네. &gt;&gt; 맞아. 내 몸 위에 방막이라는 얇은 막을 입히는 중이야. &gt;&gt; 방막 그게 필요해? &gt;&gt; 음. 나는 반 도체니깐 전기가 잘 흐르거나 반대로 막아주는 특별한 능력이 필요해. 그래서 필요한 위치에 나노미터 두께로 얇게 코팅하는 거야. &gt;&gt; 그렇게 얇은 걸 어떻게 쏴? &gt;&gt; 방법이 몇 가지 있어. 먼저 CVD는 여러 기체를 반응시켜 눈송이처럼 쌓는 방식. PVD는 금속을 미세한 입자로 변화시켜 스프레이처럼 뿌려서 코팅하지.
-
-- **[[BORN TO BE] 6. Metallization](https://www.youtube.com/watch?v=DxWIV7t8ZJ4)** — 2025-10-24 · ko · `unclassified`
-  자, 이제 연결을 해 볼까? &gt;&gt; 연결. 무슨 연결? &gt;&gt; 전기 연결. 소자들이 제대로 작동할 수 있도록 신호와 전력이 이동하는 길을 만드는 거야. &gt;&gt; 오, 전기의 도로를 만드는 거구나. &gt;&gt; 비슷해. 예전엔 알루미늄을 썼는데 요즘은 구리를 많이 써. 전기가 훨씬 잘 통하거든. &gt;&gt; 그냥 깔면 되는 거야? 아니, 그냥 깔면 금속길이 엉켜서 전기가 엉뚱한 대로 흐를 수 있어. 길 사이사이 저렴박도 세워주고 길이 아닌 다른 곳으로 흘러가지 않도록 포장지까지 깔아주면 그럼 딱 도로처럼 길만 남지.
-
-- **[[BORN TO BE] 7. Testing](https://www.youtube.com/watch?v=L7gYFfeK0ZM)** — 2025-10-24 · ko · `unclassified`
-  [음악] 여기는 뭐 하는 곳이야? &gt;&gt; 집중해야 해. 이제 시험을 볼 거거든. &gt;&gt; 어, 방금 뭐가 지나갔어? &gt;&gt; 휴. 1단계 통과. 이렇게 열심히 만들었는데 잘 작동하는지 확인은 해야겠지? &gt;&gt; 그렇지. 아무리 잘 만들어도 제대로 안 되면 꽝이니깐. &gt;&gt; 맞아. 그래서 전기 신호도 보내보고 뜨거운 곳에서도 차가운 곳에서도 압력도 견뎌고 이렇게 다양한 테스트 공정을 거쳐야 해. &gt;&gt; 어휴. 반도체 되기 힘드네. 근데 테스트를 통과 못 하면 &gt;&gt; 그럴 땐 살짝 고쳐서 다시 테스트를 해보기도 해.
-
-- **[[BORN TO BE] 8. Packaging](https://www.youtube.com/watch?v=yF1pWTdv2s0)** — 2025-10-24 · en · `unclassified`
-  forch. [music] &gt;&gt; [music] &gt;&gt; Good.
-
-- **[[뉴스룸] SK하이닉스, 2025 반도체대전(SEDEX) 참가...AI 시대를 이끄는 메모리 반도체 미래 비전 선보여](https://www.youtube.com/watch?v=UuQhU0xarW0)** — 2025-10-24 · ko · `unclassified`
-  안녕하세요. 2025 반도체 대전 세대 천장이 오신 걸 환영합니다. &gt;&gt; 와 국내 최대 반도체 전문 전시회인 제덱스에 SK 하이닉스가 특별한 공간을 마련했다고 하는데요. 이름하여 메모리 The future legacy of AI. &gt;&gt; 그럼 오늘 과연 어떤 전시가 저희를 기다려 볼지 한번 만나보러 가실까요? &gt;&gt; 좋아요. 가봅시다. &gt;&gt; 야. 야 저 HBM. HB &gt;&gt; HB 와보니까 진짜 하나의 뭔가 박물관 같아. &gt;&gt; 여기가 국립 중앙 박물관의 사유해방을 모티브로 만들어졌다고 하는데 뭔가 명상을 해야 될 거 같은 느낌이 좀 드는데 &gt;&gt; 한번 해 볼까?
-
-## Waymo (80건)
-
-- **[Creating a New Mural in the Heart of Wynwood](https://www.youtube.com/watch?v=V5UBBgvrDmQ)** — 2026-06-13 · ko · `unclassified`
-  안녕하세요, 제 이름은 야나 파스코입니다. 저는 오초 9이라는 이름으로도 활동하고 있으며, 플로리다주 마이애미를 기반으로 활동하는 음악 아티스트입니다. 예술은 마이애미의 정체성이 되었습니다. 제가 제 작품(음악)을 통해 마이애미에 대한 애정을 표현하는 방식은 색채라고 할 수 있겠습니다. 왜냐하면 작품을 만들 때 가장 먼저 연결하려고 하는 것이 색채이기 때문입니다. 나는 하늘의 색깔이 너무 좋아. 저는 해변을 정말 좋아해요. 저는 아르데코 건축물의 색감을 정말 좋아해요 . 이 벽화의 제목은 [음악] Una Vuelta Miami입니다.
-
-- **[Because they're everything](https://www.youtube.com/watch?v=MbZcOpGDGtg)** — 2026-06-11 · ko · `unclassified`
-  매년 백만 명이 넘는 사람들이 자동차 사고로 부상을 입습니다 . 우리는 인간이니까요. 경이롭고 복잡한 인간들. 그래서 우리는 눈도 깜빡이지 않고, 피곤해하거나 화내지도 않고, 술에 취하지도 않는 드라이버를 만들었습니다 . 멀리 내다보고, 빠르게 생각하며, 신속하게 반응한다. 그렇게 하는 데 10년 이상이 걸렸습니다. 우리는 그것이 제대로 작동하는 것 이상의 것을 얻어야 했기 때문입니다 . 우리에겐 제대로 해낼 음악이 있었어요. 이제 웨이모 운전자는 사람보다 더 안전합니다. 통계적으로 우리가 서비스를 제공하는 도시들은 10배 더 안전합니다 .
-
-- **[A second life for EV batteries, clean energy for communities](https://www.youtube.com/watch?v=8NsK98zfGOs)** — 2026-06-04 · ko · `unclassified`
-  순환 경제는 우리에게 있어 단순한 열망이 아닙니다. 그것이 현실이 되어가고 있습니다. 저는 웨이모의 지속가능성 및 환경 책임자인 아담 랜스입니다 . 저희의 목표는 세계에서 가장 신뢰받는 운송업체가 되는 것이며, 지속 가능한 기업을 구축하는 것은 그 목표를 달성하는 데 있어 매우 중요한 부분입니다. 따라서 전기차 배터리와 같은 재료를 재활용하고 제품 수명 주기를 최대한 연장하는 것이 매우 중요합니다 . 웨이모에서 배터리를 분리한다고 해서 웨이모의 수명이 끝나는 것은 아닙니다.
-
-- **[The Comeback Star Lisa Kudrow talks Waymo, Valerie Cherish & season 3](https://www.youtube.com/watch?v=DTfR6OBTmD4)** — 2026-04-20 · ko · `unclassified`
-  안녕하세요, 저는 웨이모의 앤드류입니다. 저는 웨이모에서 배우들을 웨이모 차량 안에서 인터뷰하는 프로그램을 진행하고 있습니다. 알아요. 아, 그래요. 좋은. 좋아요, 알겠습니다. 자, 리사 씨, 제가 먼저 여쭤보고 싶은 건, 차량에 탑승하셨을 때 어떤 경험을 하셨는지입니다. 맞아요, 제인, 그러니까 로라 실버맨이 연기한 캐릭터 말이에요. 제인은 "오, 안 돼, 여기는 로봇들이 세상을 지배하는 곳이야"라고 생각해서 발조차 들여놓지 않으려고 하죠. 음, 그리고 발레리는 뭐든지 자세히 보지 않아요. [웃음] 그녀는 그냥 신경 안 써요.
-
-- **[Waymo’s Driven with Andrew Freund: S3 Episode 5 with Frankie Muniz](https://www.youtube.com/watch?v=_P5W74xgMIc)** — 2026-04-10 · ko · `unclassified`
-  오래전에 촬영을 마친 작품을 다시 할 때, 원작에 나왔던 배우가 누구였는지 정확히 확인하기 위해 원작을 다시 봐야 하나요? 음, 그러니까 촬영 재개 전에 조금 보긴 했는데, 아니, 말콤은 확실히 제 안에 깊이 자리 잡고 있는 것 같아요 . 전 그렇게 확신하진 않았거든요. 마치 " 아, 이제 알겠다"라고 생각한 건 아니었어요. 하지만 촬영장에 도착해서 첫 장면을 찍는 순간, 저는 '아, 큰일 났네'라는 생각이 들었어요. 좋아요. 제가 처리할게요 . 이건 쉬워요. 좋아요.
-
-- **[Waymo’s Driven with Andrew Freund: S3 Episode 4 with Michael Urie](https://www.youtube.com/watch?v=AuZ4VPnsjFs)** — 2026-04-06 · ko · `unclassified`
-  우리는 아무도 없는 차 안에 있어요. 원하는 만큼 큰 소리로 말해도 됩니다. 결국 하루가 끝나면 당신은 또 하루 나이를 먹는 것뿐이고, 가난한 사람들의 삶이란 그게 전부입니다. 저 배 갑판에 있던 그 남자에게 경의를 표합니다. 이민자 이방인에게 경의를 표합니다. Driven 시즌 3에 오신 것을 환영합니다. 이 인터뷰 시리즈는 목적지가 아닌, 그곳에 이르는 여정(음악)에 관한 이야기입니다. 좋아요, 그럼 [음악] 술 마시는 것에 대해 여쭤보고 싶은 게 있는데요, 제가 그 프로그램을 좋아하는 이유 중 하나가 마치 [음악] 따뜻한 포옹처럼 느껴지기 때문이에요.
-
-- **[Waymo’s Driven with Andrew Freund: S3 Episode 3 with Charithra Chandran](https://www.youtube.com/watch?v=-6diewrRFMg)** — 2026-03-12 · ko · `unclassified`
-  내 해적 이름은 뭐가 될까? 웨이 모 해적단의 선장이라고 말하는 게 지루할까요 ? 제가 가져갈게요. 여기요. 나는 웨이모 해적단의 선장이 될 거야. Driven 시즌 3에 오신 것을 환영합니다. 이 인터뷰 시리즈는 목적지가 아닌 , 그곳에 이르는 여정에 초점을 맞춥니다. 모든 게 다 놀라워요. 맙소사. 기분이 어떠세요? 첫 반응은? 마치 롤러코스터를 탄 것 같은 기분이었어요. 솔직히 말할게요. 네, 괜찮습니다. 이번 시즌은 저에게 일종의 장난 같은 느낌이네요 . 시즌 2에서는 어떤 내용을 볼 수 있을까요?
-
-- **[Waymo’s Driven with Andrew Freund: S3 Episode 2 with Piper Curda & Bobby Moynihan](https://www.youtube.com/watch?v=ALePU2v24ec)** — 2026-03-06 · ko · `unclassified`
-  우리는 운전자가 없는 차 안에 있습니다. 옳은. 우리는 원하는 만큼 큰 소리를 낼 수 있어요. 1 2 3 Driven 시즌 3에 오신 것을 환영합니다. [음악] 목적지가 아닌, 그곳에 이르는 여정에 관한 인터뷰 시리즈입니다. 바비, 웨이모에 타본 적 있어요? 저는 웨이모 차량에서 태어났습니다. 그러니까 버튼을 눌러야 해요. 저는 그러지 않았어요 . 그럼 버튼을 누르라는 뜻인가요 ? 버튼. 네, 버튼을 누르세요. 음, 뭐 괜찮아요. 응. 괜찮은. 좋아요, 제가 꼭 여쭤봐야겠어요.
-
-- **[Google DeepMind’s Anca Dragan on Safety, Agents and Waymo’s Growth | AI in Motion](https://www.youtube.com/watch?v=GwSl1OH1i4w)** — 2026-03-04 · ko · `AX`
-  음악 산업의 미래를 예측하는 데 있어서는 고려해야 할 사항이 많습니다. 모든 관계자들이 미래에 어떤 위치에 있을지, 그리고 당신의 활동과 함께 그 상황이 어떻게 변화할지 등등 말이죠 . 저는 하나의 [음악] 상태를 검증하는 것은 이것이 세상에 좋은 결과인지 판단하는 것보다 쉽다고 생각합니다. 그건 확실히 맞는 말이에요. 인공지능의 미래는 어떻게 될까요? 저는 웨이모의 저명한 엔지니어인 빈센트 반 누케입니다. 이번 새 시리즈에서는 인공지능의 발전과 웨이모와 같은 자율주행 차량이 인공지능과 어떻게 접목되는지 심층적으로 살펴보겠습니다
-
-- **[Waymo’s Driven with Andrew Freund: S3 Episode 1 with Mason Gooding](https://www.youtube.com/watch?v=xix-XsHUklI)** — 2026-02-26 · ko · `unclassified`
-  공포 영화에 출연해 본 사람으로서, 뭔가 잘못될 때면 사람들은 "왜 조사하는 거지? 그냥 떠나면 되잖아? 난 그냥 나갈래."라고 말하곤 해요. 나는 두 번이나 조사를 하다가 칼에 찔렸지만, 두 번 다 살아남았다. 그건 사실이에요. 번개는 세 번째로 절대 치지 않는다. 그건 사실이에요. Driven 시즌 3에 오신 것을 환영합니다. [음악] 이 인터뷰 시리즈는 목적지가 아닌, 그곳에 이르는 여정에 관한 이야기입니다. [음악] 제가 사람들에게 당신이 차로 오신다고 말했을 때, 사람들이 " 오"라고 반응했던 게 생각나네요.
-
-- **[Waymo & NVIDIA on their futures in autonomy | AI in Motion](https://www.youtube.com/watch?v=osMnHe8691Q)** — 2026-02-17 · ko · `AX`
-  우리는 자동차의 자율 주행을 위해 개발한 것과 동일한 지능을 우리 일상생활 곳곳에서 움직이는 시스템, 즉 인간이 절대 해서는 안 될 위험하고 일상적인 모든 일을 처리하는 시스템에 적용합니다 . [음악] 그렇죠? 그건 정말 흥미로운 일이에요. 왜냐하면 그렇게 되면 로봇과 지능형 시스템이 인류와 진정한 협력자가 될 수 있으니까요. 인공지능의 미래는 어떻게 될까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다. 이번 새 시리즈에서는 인공지능의 발전과 위모( Whimo)와 같은 자율주행 차량이 인공지능과 어떻게 접목되는지 심층적으로 살펴보겠습니다
-
-- **[Where could autonomous driving show up next? Matt Damon and Ben Affleck talk Waymo.](https://www.youtube.com/watch?v=odYncWKz7Xg)** — 2026-02-17 · en · `unclassified`
-  I also want to ask you if there's an epic car chase in this. I also host a show for Whimo in a Whimo. I want to know. Really? &gt;&gt; Yes. &gt;&gt; Oh, that's so cool. &gt;&gt; If you could program a Whimo to do like a great car. I will say the great stunt drivers are amazing. When I did the town, I really learned how precise and good they were.
-
-- **[Shelby Heinecke Tells Why Salesforce’s Massive Scale Takes AI Into Unexpected Places | AI in Motion](https://www.youtube.com/watch?v=ZgC6sVQSiY0)** — 2026-01-27 · ko · `AX`
-  실제로 드림포스에서는 에이전트 포스로 제어되는 로봇이 많이 있었습니다. 이제는 슬랙과 같은 도구를 사용하여 이러한 로봇들을 관리할 수 있습니다. 건설 전문가들을 상상해 보세요. 그들의 업무 중 위험한 부분들을 말이죠. 그들은 로봇의 도움을 받습니다 . [음악] 비전은 훨씬 더 클 수도 있습니다. 우리는 로봇이 기업에서 어떤 역할을 할 수 있을지 고민하고 있습니다. 인공지능의 미래는 어떻게 될까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다. 이번 새 시리즈에서는 인공지능의 발전과 위모( Whimo)와 같은 자율주행 차량이 인공지능과 어떻게 접목되는지 심층적으로 살펴보겠습니다
-
-- **[UC Berkeley Professor Ken Goldberg shapes the future of robotics | AI In Motion](https://www.youtube.com/watch?v=VooCuFTEIaw)** — 2026-01-15 · ko · `AX`
-  만약 음악으로 외과의사가 봉합 위치를 이해하고 겹쳐서 봉합하는 데 도움을 줄 수 있다면, 그것은 실제로 매우 유용한 일이 될 것입니다. 실제로 로봇이 [음악] 봉합 작업을 수행하도록 하는 것을 실험하고 있습니다. 제 생각에는 그건 SAM을 사용하지 않는 게 좋은 사례인 것 같습니다. 우리는 곧바로 물리적 실험으로 넘어갑니다. 인공지능의 미래는 어떻게 될까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다. 이번 새 시리즈에서는 인공지능의 발전과 위모( Whimo)와 같은 자율주행 차량이 음악과 어떻게 접목되는지 심층적으로 탐구합니다 .
-
-- **[Neuroscientist Greg Corrado Builds AI to Think Like Humans | AI in Motion](https://www.youtube.com/watch?v=HE8Xh4iP8yw)** — 2025-12-11 · ko · `AX`
-  제가 의료 분야에서 기술이나 인공지능을 연구하는 이유는, 그것이 기술이 인류에게 긍정적인 변화를 가져올 수 있는 가장 큰 기회 중 하나라고 생각하기 때문입니다. 인공지능의 미래는 어떻게 될까요? 저는 Whimo의 저명한 엔지니어인 Von Vanuk입니다. 이번 새 시리즈에서는 인공지능의 발전과 위모( Whimo)와 같은 자율주행 차량이 인공지능과 어떻게 접목되는지 심층적으로 살펴보겠습니다 . 그러니 저희와 함께 이 여정에 참여하시고, 앞으로 펼쳐질 모든 맛있는 목적지를 함께 경험해 보세요. 오늘 저와 함께하시는 분은 신경과학자이자 인공지능 연구원인 그렉입니다.
-
-- **[Robotics Startup Founder Sergey Levine is Building Robots for Your Home (and Work) | AI in Motion](https://www.youtube.com/watch?v=0CfMCOzmJZI)** — 2025-11-25 · ko · `AX`
-  규모가 정말 중요해질 겁니다. 음악 분야에서는 실제적이고 실용적인 배포에 점점 더 가까워져야 합니다. 그래야 훈련 데이터와 테스트 데이터가 일치하게 되고, 이것이 바로 우리가 효과가 있다고 알고 있는 음악 머신러닝의 공식입니다. 인공지능의 미래는 어떻게 될까요? 저는 웨이모의 저명한 엔지니어인 빈센트 반후케입니다 . 이번 새 시리즈에서는 인공지능의 발전과 웨이모와 같은 자율주행 차량이 인공지능과 어떻게 상호작용하는지 심층적으로 탐구합니다 . 저희와 함께 여정을 떠나시고, 눈앞에 펼쳐진 맛있는 음식들을 만끽하세요. 오늘은 세르게이와 커피를 마시러 갑니다.
-
-- **[A moment with Waymo | Where every ride offers a sweet escape](https://www.youtube.com/watch?v=t7suH1Qr6Pc)** — 2025-11-24 · ko · `unclassified`
-  이 모든 사람들. 엄마 아빠는 조용하시다. 더 이상 아이는 없어. 잘 가, 빌.
-
-- **[Waymo | AI in Motion](https://www.youtube.com/watch?v=z9ScFBgIphI)** — 2025-11-15 · ko · `unclassified`
-  인공지능의 미래는 무엇이며, 어떻게 하면 더 안전하게 만들 수 있을까요? 그리고 이러한 모든 발전을 활용하여 우리가 다니는 도로를 포함한 세상 전체를 어떻게 더 나은 곳으로 만들 수 있을까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다 . 제가 인생에서 가장 좋아하는 두 가지는 맛있는 커피 한 잔을 마시는 것과 인공지능에 대해 이야기하는 것입니다. 그러니 둘 다 해보고 그 과정에서 많은 것을 배워봅시다. 이번 새 시리즈에서는 오랜 친구들과 새로운 친구들과 이야기를 나눠봅니다.
-
-- **[Google’s Carolina Parada Discusses Advancements in Robotics AI | AI in Motion](https://www.youtube.com/watch?v=11WEL7sR1GA)** — 2025-11-11 · ko · `AX`
-  인공지능의 미래는 무엇이며, 어떻게 하면 더 안전하게 만들 수 있을까요? 그리고 이러한 모든 발전을 활용하여 우리가 다니는 도로를 포함한 세상 전체를 어떻게 더 나은 곳으로 만들 수 있을까요? 저는 Whimo의 저명한 엔지니어인 Van Vanuk입니다 . 제가 인생에서 가장 좋아하는 두 가지는 맛있는 커피 한 잔을 마시는 것과 인공지능에 대해 이야기하는 것입니다. 그러니 둘 다 해보고 그 과정에서 많은 것을 배워봅시다. 이번 새 시리즈에서는 오랜 친구들과 새로운 친구들과 이야기를 나눠봅니다.
-
-- **[Podcaster Monica Padman talks epilepsy awareness on a Waymo ride](https://www.youtube.com/watch?v=hmgDtVI7Za8)** — 2025-11-06 · ko · `unclassified`
-  [음악] 버튼을 누르고 싶으세요? 아, 네. [웃음] 정말 놀랍네요. 이거 정말 멋지다, 모니카. 오늘 이렇게 함께해 주셔서 정말 기쁩니다 . 감사합니다. 그리고 우리는 간질을 앓고 있는 두 사람으로서 [음악] 간질에 대해 이야기할 수 있습니다 . 좋아요 . 그런 일은 얼마나 자주 일어날까요? 음, 사람들이 정확히 말하자면 그런 이야기를 더 자주 한다면 그런 일이 더 자주 일어날지도 모르겠네요 . 26번 문제에 대해 이야기해 볼까요? 진단을 받았을 당시 간질이 그렇게 흔한 질병이라고 생각하셨나요?
-
-- **[A moment with Waymo | A night ride turns into a core memory](https://www.youtube.com/watch?v=gH0Fo0PzMJE)** — 2025-10-09 · ko · `unclassified`
-  내가 널 4년 동안 못 볼 거라는 걸 방금 깨달았어 . 아니, 그게 다야. 중간 정류장을 추가하고 이제 집까지 모셔다 드리겠습니다. 무엇? 저는 시내 반대편에 살아요. 완료. 사피라, 당신은 지구 반대편으로 이사 가는군요 . 20분만 더 기다려주세요 . 제발. 좋아요. 좋아요. [음악] 너무 배고파.
-
-- **[Waymo Summer Internships](https://www.youtube.com/watch?v=x4Zd0pPRUFI)** — 2025-09-29 · ko · `unclassified`
-  [음악] 저는 항상 Whimo에서 일하고 싶었어요 . 처음 위모에 대해 알게 되고, 핸들이 저절로 돌아가는 영상을 본 날부터 "세상에, 정말 멋지다!"라고 생각했어요. 저는 교통 의 다음 단계를 위한 이러한 혁명에 동참하고 싶습니다 . 저는 현재 컴퓨터 비전 분야에서 다양한 주제 영역을 연구하는 박사 과정 학생입니다. 이미지 작업을 좋아하고 텍스트 작업은 그다지 좋아하지 않습니다. 컴퓨터 비전 연구에 관심이 있다면 현재 Whimo보다 더 흥미로운 곳은 없을 거라고 생각합니다.
-
-- **[Waymo’s Driven with Andrew Freund: S2 Episode 8 with Jesse McCartney](https://www.youtube.com/watch?v=hadl4WFrwfU)** — 2025-09-26 · ko · `unclassified`
-  발성 연습 방법 중 하나를 가르쳐 주세요 . 무슨 일을 하세요? 어떻게 하면 되나요 ? 저는 "잠깐만요"라고 말하는 걸 자주 해요 . 자, 그럼 Driven 시즌 2에 오신 것을 환영합니다. 자, 시작해 볼까요? 어서 타세요 . 드라이브하러 가요. 이제 마법의 버튼을 누를 차례입니다. 아, 이게 그거죠? 저는 처음이라서요. 괜찮은. 자, 시작해 볼까요 . 시작. 자, 시작해 볼까요 . 와, 당신은 미래에 와 있네요. 너무 멋지다. 와, 지퍼도 잘 열리네요.
-
-- **[Waymo’s Driven with Andrew Freund: S2 Episode 7 with Jay Pharoah & Joel McHale](https://www.youtube.com/watch?v=wE9tH1WyM40)** — 2025-09-08 · ko · `unclassified`
-  덴젤 워싱턴과 함께 여기에 있다니 정말 믿기지 않아요. 좋아요. 응. 응. 어느 정도는요. 있잖아요, 당신은 타겟에서 덴젤을 샀잖아요. 그게 당신이 얻은 결과입니다. 좋아요. 그게 당신이 얻은 결과입니다. 덴젤, 할인 받았네요. Driven 시즌 2에 오신 것을 환영합니다. 자, 시작해 볼까요? 어서 타세요 . 드라이브하러 가요. [음악] 고스트 라이드 더 휩의 정의를 찾아보면, 그냥 위모 사진일 뿐이에요. 정말 말도 안 돼. 응. 이건 말도 안 돼. 이건 말도 안 돼.
-
-- **[Riding with Waymo | During your ride](https://www.youtube.com/watch?v=pUjuofYsyow)** — 2025-08-21 · ko · `unclassified`
-  [음악] 탑승 중에는 차량 내 화면을 통해 여정을 실시간으로 확인할 수 있습니다. 목적지까지 예상 도착 시간과 이동 경로 등 탑승 관련 정보를 보여줍니다. 실시간으로 도움을 줄 수 있는 담당자와 상담하고 싶으시다면, '고객 지원팀에 전화하기' 버튼을 이용해 라이더 지원팀에 문의하세요 . 그들은 아주 친절해요. 어떤 이유로든 여행을 일시 중단하거나 일찍 종료해야 하는 경우, ' 정차' 버튼을 누르면 Whimo 운전자가 다음으로 가장 안전한 정차 장소를 찾아줍니다 . 화면을 사용하여 사용자 경험을 개인화할 수도 있습니다
-
-- **[Riding with Waymo | Getting into your car](https://www.youtube.com/watch?v=iCPvILzI1Lo)** — 2025-08-21 · ko · `unclassified`
-  [음악] 차량이 도착했을 때 쉽게 찾을 수 있도록 앱 내에서 맞춤형 차량 ID를 만들 수 있습니다. 마음에 드는 두 글자에 원하는 색상을 선택하세요 . 이니셜이든, 별명이든, 무엇이든 상관없습니다. 걱정 마세요, 저희는 판단하지 않을 거예요. 차량은 가장 가깝고 안전하며 편리한 정차 장소를 찾아 정차하도록 설계되어 있으며, 정차 준비가 완료되면 알려줍니다 . 차를 만나려면 조금 걸어가야 할 수도 있습니다 . 따라서 걷는 동안 앱이 픽업 장소까지 가는 올바른 방향을 안내해 줄 것입니다
-
-- **[Riding with Waymo | Hailing your trip](https://www.youtube.com/watch?v=NPuqXnagtCw)** — 2025-08-21 · ko · `unclassified`
-  [음악] 이제 앱을 다운로드하셨으니, 바로 이용하실 수 있습니다. 위모 차량을 이용하시려면 목적지만 알려주시면 됩니다. 저희가 자동으로 가장 안전한 픽업 및 하차 장소를 선택해 드립니다 . Whimo 차량을 호출하면 차량이 얼마나 멀리 있는지 실시간으로 확인할 수 있으며, 목적지까지 예상 도착 시간도 확인할 수 있습니다. 이 정보는 교통 상황 등 여러 요소를 고려하여 수시로 업데이트될 수 있습니다 . 핀을 조정하여 픽업 및 하차 위치를 수정할 수 있습니다. 파란색과 초록색 선은 위모(Whimo) 운전자가 안전하게 정차할 수 있는 위치를 보여줍니다.
-
-- **[Waymo | Spotify - Your Ride, Your Music](https://www.youtube.com/watch?v=-CA1zmP0LGY)** — 2025-08-12 · ko · `unclassified`
-  나도 돈이 없었어. 이제 새 돈이 생겼어요. 우울함을 느껴서 팔찌나 시계, 현금, 아니면 내 머리 손질해주는 여자나 포주에게서 뭔가를 사 왔지. 원하세요?
-
-- **[BOFFUM by Saweetie featuring Waymo Teaser](https://www.youtube.com/watch?v=qGzN9JFvet8)** — 2025-08-01 · ko · `unclassified`
-  스테이크 드실래요, 아니면 새우 드실래요? 둘 다 운동선수예요. 둘 다 필요해요. 나보고 둘 다 가져오라고 하지 마세요. 이걸 원해요. 난 그걸 원해. 저 개자식들 둘 다 갖고 싶어 . 예쁜 요리네요.
-
-- **[Waymo's Driven with Andrew Freund: S2 Episode 5 with Allison Williams from M3GAN 2.0](https://www.youtube.com/watch?v=bSDL_gaYACs)** — 2025-06-23 · ko · `unclassified`
-  메건에게서 전화가 올 예정인데, 당신과 이야기하고 싶어해요. 잠깐만 기다려 주세요. 안녕하세요. 네, 저도 앤드류 의견에 동의합니다. 네, 스피커폰으로 바꿔드릴게요. 좋아요. 안녕하세요, 메건. 안녕하세요, 앤드류. 안녕하세요, 리무진입니다. 안녕하세요, 메건. 왜 앨리슨을 인터뷰하는 거죠? 이 영화의 진짜 주인공은 나야. 있잖아, 그거 알아? 그 정도면 충분해요. 이제 그만하세요. 안녕히 가세요. 안녕히 가세요. 안녕히 가세요. 안녕히 가세요. Driven 시즌 2에 오신 것을 환영합니다. 새해를 맞아 새로운 게스트가 출연합니다. 자, 어서 타세요. 드라이브하러 가요.
-
-- **[Waymo's Driven with Andrew Freund: S2 Episode 4 with June Squibb from Eleanor the Great](https://www.youtube.com/watch?v=JYydf-hbM3I)** — 2025-05-13 · ko · `unclassified`
-  세월이 흐르면서 남자에 대해 무엇을 배우셨나요 ? 나는 남자들을 좋아했다. 응. 응. 같은. 나는 괜찮아. Driven 시즌 2에 오신 것을 환영합니다. 새해를 맞아 새로운 게스트들이 등장합니다. 자, 어서 타세요. 드라이브하러 가요. June Squib님, Driven에 오신 것을 환영합니다. 감사합니다 . 자, 이제 여러분은 아주 신나는 일을 할 차례입니다. 이제 마법의 버튼을 누를 차례입니다. 라이딩을 시작하세요. 네, 6월이 출발합니다 . 자, 시작해 볼까요 . 6월. 6월, 우리가 미래에 있는 건가요?
-
-- **[Waymo's Driven with Andrew Freund: S2 Episode 3 with Wyatt Russell from The New Avengers and Broke](https://www.youtube.com/watch?v=bvV9cxJheNk)** — 2025-05-07 · ko · `unclassified`
-  가발을 못 써봐서 질투나는 거야? 그 영화에 나오는 가발들이 너무 멋지거든요. 음, 어디 보자. 누가 가발을 쓰고 있죠? 어, 세바스찬. 세바스찬은 가발을 쓰지 않았습니다. 잠깐, 저건 진짜 머리카락이 아니잖아. 저건 그의 진짜 머리카락이에요. 무엇? 내가 질투했냐고요? 응. 아니요. Driven 시즌 2에 오신 것을 환영합니다. 새해, 새로운 게스트들이 함께합니다. 자, 어서 타세요. 드라이브하러 가요. 첫 번째 위모에 오신 것을 환영합니다. 미친. 이게 바로 마법의 버튼인가요? 저게 바로 마법의 버튼이에요. 괜찮은.
-
-- **[Waymo's Driven with Andrew Freund: S2 Episode 2 with Connor Tomlinson from Love on the Spectrum](https://www.youtube.com/watch?v=XAt88iXgM7I)** — 2025-04-10 · en · `unclassified`
-  I think he has a girlfriend, but he's not telling me. I think it's just it's a secret, but I think he's got a girlfriend. Look at you. Trying to spoil the show, Andrew. Nothing. He's nothing. You can't get anything past this kid. Nothing. Welcome to Driven season 2. New year, new guests. So, come on, hop in. Let's go for a ride. [Music] Oh, you brought gifts.
-
-- **[Experience the New Normal: Safe For Everyone](https://www.youtube.com/watch?v=0VQbqQDrx9E)** — 2025-03-21 · ko · `unclassified`
-  저는 지금 최대한 빨리 걸어오고 있어요. 네, 안타깝네요. 제 실수입니다. 오, 제 차가 방금 한 남자를 구했어요. 정말 정신없었어. 응. 아니요, 절대 그렇지 않아요.
-
-- **[Experience the New Normal: The First Time](https://www.youtube.com/watch?v=YAVrfVORQws)** — 2025-02-13 · ko · `unclassified`
-  어, 여기 누가 있지? 저게 뭐야? 저게 뭐야? 내 안전벨트 여기 있어. 알았어, 알았어. 고마워. [음악] 됐어. 이제 됐어. 차가 스스로 운전하고 있어. 괜찮아. 스스로 운전하고 있어. 스스로 운전하고 있어. 어떻게 한 거야? 마법인가? 아니, 아니. 사방에 센서가 달려있어. 어떻게 된 거지? 멋지다, 그렇지? [음악] 맞아. 정말 믿기지 않아.
-
-- **[Waymo's Driven with Andrew Freund: S2 Episode 1 with O’Shea Jackson Jr](https://www.youtube.com/watch?v=XeP3DczBi4s)** — 2025-01-14 · ko · `unclassified`
-  아이스 큐브에 대해 한 가지 확실한 건, 그는 모두의 아빠 같다는 거죠. 제 아빠이기도 하고요. 백인 유대인 남성이죠. 네, 제 아빠입니다. ' 드리프트' 시즌 2에 오신 걸 환영합니다. 새해를 맞아 새로운 게스트들이 함께합니다. 자, 어서 타세요. 신나는 드라이브로 떠나볼까요? 준비됐나요? 음, 여기 사람이 있네요. 아니, 저 혼자입니다. 준비됐나요? 네, 네. 자, 이제 신나게 즐겨봅시다! 자, 이제 새 영화가 개봉하는데, 다이아몬드에 대해 뭔가 배운 게 있나요? 영화에 다이아몬드가 많이 나오잖아요.
-
-- **[Kesha x WAYMO - JOYRIDE Teaser](https://www.youtube.com/watch?v=Pae9KwuCyo0)** — 2024-11-21 · ko · `unclassified`
-  안녕하세요, 제가 가는 거 아시죠? 아스팔트 구간은 단 6분 거리입니다.
-
-- **[Waymo One is now open to all in Los Angeles](https://www.youtube.com/watch?v=SAg9jI9EnvM)** — 2024-11-12 · ko · `unclassified`
-  [음악] 감사합니다 [음악]
-
-- **[Behind the Innovation: AI & ML at Waymo](https://www.youtube.com/watch?v=dtMMW0kTXIE)** — 2024-10-31 · ko · `AX`
-  [음악] 생성형 AI 분야에서 현실 세계를 탐색하는 사업을 하는 회사는 극히 드뭅니다. Willo의 목표는 세계에서 가장 신뢰받는 운전자가 되는 것입니다. 이는 회사 와 팀으로서 도로 안전을 재정의할 수 있는 기회입니다. 자율 주행에는 실제로 두 가지 주요 과제가 있습니다. 첫째는 현실 세계의 복잡성과 엣지 케이스의 복잡성을 처리할 수 있는 시스템을 구축하는 것이고, 둘째는 이 시스템의 성능을 평가하고 검증하여 대규모로 배포하는 것입니다. 세계 모델을 구축하려면 보행자, 자전거 운전자, 차량, 신호등 등 인간의 행동을 모델링할 수 있어야 합니다.
-
-- **[Painting Murals in Austin with Steffi Lynn and Waymo](https://www.youtube.com/watch?v=nh8KrfXlG5k)** — 2024-10-22 · ko · `unclassified`
-  [음악] 안녕하세요, 저는 스테피 린입니다. 텍사스 오스틴 출신의 벽화 작가이자 일러스트레이터로 활동하고 있어요. 제가 예술가로서 가장 좋아하는 점은 문제 해결과 어려움을 극복하는 것이죠. 이 벽화를 그리게 된 영감은 제가 이곳에서 자라면서 자연과 도시 곳곳의 다양한 풍경을 너무나 사랑했기 때문이에요. 저는 이 벽화를 밝고 대담하고 눈길을 사로잡는 작품으로 만들고 싶었어요. 사람들이 지나갈 때 오스틴의 다채로운 색깔을 떠올리며 상쾌한 기분을 느낄 수 있도록 말이죠. 벽화에서 제가 가장 좋아하는 부분은 거울 주변의 주사위예요.
-
-- **[Waymo's Driven with ‪Andrew Freund: Episode 5 with Darren Criss](https://www.youtube.com/watch?v=UPBVIwYYBqo)** — 2024-09-06 · ko · `unclassified`
-  우리가 서로 안 지 벌써 이렇게 됐네. 세상에, 기억나? 우리 6살도 안 되어 보이는데. 넌 그때 미국의 트윙크였고, 글리가 대박 나면서 전 세계의 트윙크가 됐지. 정말 고마워. 드라이브에 온 걸 환영해. 목적지가 아니라 그곳에 가는 여정에 관한 새로운 종류의 토크쇼야. 모, 네가 날 사랑할 방법은 없어. 미래는 바로 지금이야. 우리는 지금 자율주행차 안에 있어. 아주 첨단 기술이 적용됐지. 넌 곧 기술을 주제로 한 브로드웨이 뮤지컬 프로젝트에 참여할 거야.
-
-- **[Waymo's Driven with Andrew Freund: Episode 4 with Zedd](https://www.youtube.com/watch?v=fXwN7xcgU7s)** — 2024-08-30 · ko · `unclassified`
-  제프 버클리를 이 앨범에 참여시키고 싶은데, 혹시 지금은 고인이 된 다른 아티스트들에게도 연락해 보고 싶으신가요? 제 꿈은 퀸과 함께 작업하는 거예요. 프레디 머큐리는 역대 최고의 가수라고 생각하는데, 언젠가 그의 목소리와 함께 작업할 수 있다면 정말 환상적일 거예요. 정말 간절히 바라는 일이죠. 새로운 유형의 토크쇼, '드라이브드'에 오신 것을 환영합니다. 목적지가 아닌 그곳에 이르는 여정에 관한 쇼죠. 자, 제드, '드라이브드'에 오신 것을 환영합니다. 이제 당신에게 최고의 미션을 드리겠습니다. 버튼을 누르세요! 기대되면서도 조금은 두렵네요.
-
-- **[Waymo's Driven with Andrew Freund: Episode 3 with the men of Emily in Paris](https://www.youtube.com/watch?v=yvsvCmuRU-c)** — 2024-08-19 · ko · `unclassified`
-  에밀리는 왜 항상 삼각관계에 얽혀 있는 걸까요? 왜 그냥 결정을 못 내리는 거죠? 친구 사이니까요. 아, 그렇군요. 두 분 다 프랑스인이시니까 그런 건가요? 전 최대한 복잡하게 만들려고 노력해요. 새로운 스타일의 토크쇼, '드라이브드'에 오신 걸 환영합니다. 목적지가 아니라 그곳에 가는 여정에 관한 쇼죠. 누가 버튼을 누르시겠어요? 저요. 잠깐만요, 먼저 안아드릴게요. 자, 이제 시작해 볼까요? 준비되셨나요? 파리에는 이런 게 없잖아요. 아, 그렇군요. 맞아요. 그런데 이거 제 쇼에 대한 아이디어가 떠오르네요.
-
-- **[Waymo's Driven with ‪Andrew Freund: Episode 2 with Sapphira Cristál](https://www.youtube.com/watch?v=6LpIVQKpOz8)** — 2024-08-13 · ko · `unclassified`
-  이 차 이름을 뭐라고 지을까요? 어, 이 웨이오 샤팟 TWA라고 지을까요? 왜 샤팟 TWA냐고요? 음, 그냥 이 이름이 너무 좋아요. 정말 멋진 이름 아닌가요? 샤팟 TWA라니! 이제부터 모든 웨이오를 샤팟 TWA라고 부를 거예요. 새로운 종류의 토크쇼, 드라이브에 오신 것을 환영합니다. 목적지가 아니라 그곳에 가는 여정에 관한 토크쇼죠. 저는 진행자 앤드류입니다. 드라이브에 함께 가볼까요? (음악) 이 차는 스스로 운전하지만 문은 열어주지 않네요. 사피라입니다. 드라이브에 오신 것을 환영합니다. 안녕하세요. 마법의 버튼을 눌러보세요.
-
-- **[Waymo's Driven with Andrew Freund: Episode 1 with Dinah Jane](https://www.youtube.com/watch?v=hwGqxLh0_kM)** — 2024-08-08 · ko · `unclassified`
-  이거 진짜 멋지다! 죄송해요, 앞에 아무도 없다는 걸 말씀드리려고 했는데. 우리는 '덜 여행하는 길 '로 가고 있어요. 네, 아, 무슨 말인지 알겠어요. 드라이브에 오신 걸 환영합니다. 목적지가 아니라 그곳에 가는 여정에 관한 새로운 종류의 토크쇼죠. 저는 진행자 앤드류 프레이입니다. 드라이브 갈래요? 어머, 제가 데리러 갈게요. 곧 만나요. 안녕하세요, 안녕하세요! 세상에, 너무 신나요! 디노 제인, 드라이브에 오신 걸 환영합니다. 감사합니다. 드라이브, 초대해 주셔서 감사합니다. 자, 시작해 볼까요? 좋아요, 드라이브 재개! 가자!
-
-- **[The Future is Now](https://www.youtube.com/watch?v=0kJPDg207oc)** — 2024-07-22 · ko · `unclassified`
-  [음악] 드디어 로봇들이 오고 있어. [음악] 안녕 에이버리. 음, 어쩌면 좋은 일일지도 몰라. 그녀가 뭐라고 했지? 뭐라고? 난 20분 전부터 완전히 준비됐었어. 이제 우린 [ 음악] 플레이어에 연결됐어. 로봇이 너보다 운전을 더 잘해, 자기야. 누가 운전을 잘해?
-
-- **[Waymo One: Now open to everyone in San Francisco](https://www.youtube.com/watch?v=pE9DF5_k3ZY)** — 2024-06-25 · en · `unclassified`
-  everybody everybody everybody everybody everybody everybody everybody everybody everybody everybody
-
-- **[Introducing our newest feature: Grandma mode](https://www.youtube.com/watch?v=8OOLZVw9ANs)** — 2024-04-01 · ko · `unclassified`
-  [음악] 할머니 모드 발동! 얘야, 안전벨트 꼭 매렴. 안전 제일! 배고파 보이네. 뭐 좀 먹어야겠다. 어머, 저 아름다운 정원 좀 봐. 정말 멋지구나. 초코 우유 마실래? 걱정하지 마, 얘야. 눈 좀 쉬게 해. 네가 아주 어렸을 때부터 내가 운전대를 잡았거든. 수백만 마일을 달렸지. 정말이야, 얘야. 모든 거 챙겼는지 다시 한번 확인하고, 즐거운 [음악] 하루 보내렴.
-
-- **[SXSW 2024 | Waymo’s Roadmap for a Multi-City AV Service](https://www.youtube.com/watch?v=Qot1uX2g9jk)** — 2024-03-25 · ko · `unclassified`
-  로리 시걸과 테케드라 마와카나를 무대 위로 모시겠습니다. 오늘 이렇게 여러분과 함께하게 되어 정말 기쁘고, 여러분이 하고 있는 모든 일에 대해 들을 수 있어서 행복합니다 . 간단한 시청자 설문조사. 여기 계신 분들 중에 웨이모를 타보신 분이 몇 분이나 되시나요 ? 오. 우와. 정말 멋지네요. 그리고 무엇이 어디에 있나요? 몇 개만 꼽아 보세요. 샌프란시스코죠. 좋아요. 좋아요. 좋아요, 이 사람들은 상황을 잘 아는 사람들이네요 . 몇 명이나 원할까요? 좋아요. 괜찮은.
-
-- **[Waymo's New Safety Research: Safety Impact of the Waymo Driver](https://www.youtube.com/watch?v=ZpZAJPKw22c)** — 2023-12-20 · en · `unclassified`
-  hi everyone it's a pleasure that you could join us today uh we're going to be talking about two papers that we've recently written and this is an academic presentation of those two papers weo is kind of usual or unusual I mean with that we write papers we've written over 20 papers and we do that so that we can be um transparent and we can speak to the …
-
-- **[Waymo begins offering limited overnight terminal service at Sky Harbor](https://www.youtube.com/watch?v=IgkxTbRRNZw)** — 2023-12-14 · en · `unclassified`
-  Hey, I'm Kerry, a User Experience Research Manager here at Waymo and I'm excited to share that Waymo One riders in Phoenix can now get picked up or dropped off at two of Sky Harbor's terminals. We've already served tens of thousands of airport trips since opening service to the airport Sky Train stops, but we've also heard your feedback for more convenience.
-
-- **[Waymo's 2024 Internship Applications Are Now Open!](https://www.youtube.com/watch?v=QPVlRHZFZog)** — 2023-11-07 · en · `unclassified`
-  [Music] What attracted me to weo was the chance to work in the self-driving industry obviously weo is the leader in the industry there's this ethical cause that you're trying to save lives but there's also a more tangible cost like you're trying to save time and you don't have to drive around cars anymore the specific project that I worked on at weo is basically improving the Fidelity of …
-
-- **[2023 AutoSens | How Safe is the Waymo Driver?](https://www.youtube.com/watch?v=9-Qu6HNZu8g)** — 2023-10-20 · en · `unclassified`
-  it's pleasure to be here to see all these uh 3D people um everybody's beautiful today um I'm G to try to answer the question here that we're at a censor conference and I'm sure you're asking yourselves does does it work do we do we make an effect and that's what this topic is now I'll be trying to answer how safe is the wh driver so whma one …
-
-- **[Waymo One is going on tour in Los Angeles](https://www.youtube.com/watch?v=Vu_IBUMwlc0)** — 2023-09-20 · ko · `unclassified`
-  웃음 [음악]
-
-- **[That's Why Waymo: Escape the Heat](https://www.youtube.com/watch?v=EDng3ci3tfc)** — 2023-09-16 · ko · `unclassified`
-  죄송해요, 에어컨이 작동하지 않아서 좀 덥네요.
-
-- **[The Waymo Driver: Communicating it's rerouting and will move soon](https://www.youtube.com/watch?v=BsM1ZZ_Ra0w)** — 2023-08-04 · ko · `unclassified`
-  [음악] 안녕하세요, 제가 앞으로 나아갈 수 없어서 우회하고 곧 출발할게요.
-
-- **[The Waymo Driver: Communicating it needs more space to other road users](https://www.youtube.com/watch?v=mHc4xALeO5c)** — 2023-08-04 · ko · `unclassified`
-  [음악] 안녕하세요, 이사 가려고 하는데 공간이 더 필요해서요. 잠시 뒤로 가주시겠어요?
-
-- **[Waymo’s Approach to Building a Safe Waymo Driver](https://www.youtube.com/watch?v=ETeQPZocuE8)** — 2023-07-27 · en · `AT`
-  How do you define safety? Do others on the road define it as you do? Like the weekend cyclist, or the dog walker heading to the park. We are Waymo, and we’ve been considering these questions, and many more, for over a decade. Our mission is to make it safe and easy for people and things to get to where they're going. And the Waymo Driver, our autonomous driving technology, is paving the way for a better future of mobility.
-
-- **[Let's Back Up: Navigating Construction](https://www.youtube.com/watch?v=rFhzgkDGXTc)** — 2023-06-01 · ko · `unclassified`
-  안녕하세요, 저는 Waymo의 인지 팀에서 소프트웨어 엔지니어로 일하는 마야입니다. 저는 건설 현장 관련 업무를 담당하고 있는데, Waymo에서는 '건설 현장'이라는 용어를 지도 나 다른 사전 정보가 더 이상 충분하지 않거나 유효하지 않은 모든 상황을 포괄하는 의미로 사용합니다. 샌프란시스코의 건설 현장에서 Waymo 운전자가 어떻게 주행하는지 몇 가지 예를 들어 설명해 드리겠습니다. 이 예시에서는 공사가 진행 중인 것으로 보이는 도로에서 좌회전을 하고 있습니다. 도로 표지판 과 공사 콘이 있고, 작업자가 손으로 정지 표지판을 들고 있는 것을 볼 수 있습니다
-
-- **[Riding with the Waymo Driver: Our first rides in Los Angeles](https://www.youtube.com/watch?v=uKfAJDEkstg)** — 2023-03-07 · ko · `unclassified`
-  [음악] 외국어 [음악] 출발이 정말 빠르고, 잡담도 필요 없고, "오늘 하루 어떠세요?" 같은 것도 없이 그냥 존중하는 느낌이 들어요. 밤에는 도로가 안 보이는데, 움푹 들어간 곳에서 잠시 멈춰주는 것도 정말 좋아요. 네, 맞아요. 정말 도움이 많이 돼요. 지난주에는 샌프란시스코에서 탔는데 이번 주에는 로스앤젤레스에서 탔어요. 완전히 다른 환경이지만 차의 핸들링과 성능은 아주 일관적이에요. 네, 다른 곳에 정차할 때도 부드럽게 잘 정차하고, 내리기 좋은 곳에 멈춰서 정말 좋아요. 정말 부드러워요.
-
-- **[Let’s Back Up: Interactions with Intersections](https://www.youtube.com/watch?v=kHOlRMhnewI)** — 2023-02-23 · ko · `unclassified`
-  웨이모 운전자가 교차로를 주행할 때 사람보다 유리한 점 중 하나는 항상 모든 방향을 살피고 있다는 것입니다. 사람은 두 눈과 고개를 돌리지만 한 번에 한 곳에만 초점을 맞출 수 있죠. 안녕하세요, 저는 웨이모 행동 예측 팀의 소프트웨어 엔지니어 달렌입니다. 저는 교차로 관련 업무를 담당하고 있습니다. 오늘은 샌프란시스코와 피닉스에서 웨이 모 운전자가 주행하는 몇 가지 교차로 상황과 이러한 상황이 왜 흥미로운지 보여드리겠습니다. [음악] 이 상황은 피닉스 시내에서 우리 차례입니다.
-
-- **[Waymo at CoRL 2022 | Behavior Models for Autonomous Driving](https://www.youtube.com/watch?v=RpiN3LyMLB8)** — 2023-02-01 · ko · `AX`
-  저는 바이마르에 있는 드래곤 연구소의 연구팀을 이끌고 있으며, 오늘 제가 발표할 연구에 참여한 몇몇 분들이 이 자리에 함께해 주셨습니다. 저희 연구팀의 목표는 머신러닝을 활용하여 최첨단 자율 시스템을 개발하는 것입니다. 오늘 워크숍에 참석하신 여러분과 함께 도로 주행에 필수적인 행동 모델 개선에 대한 저희 연구 결과를 몇 가지 소개해 드리겠습니다. 드래곤 테크놀로지는 자율 주행 기술 회사로, 두 가지 분야에 집중해 왔습니다. 하나는 모바일 서비스를 통한 사람 이동 서비스이고, 다른 하나는 대형 전자 차량을 이용한 도서 배송 서비스입니다
-
-- **[Mission: Rain, Terrain, Heat, Repeat.](https://www.youtube.com/watch?v=SGw8ZdC4JLY)** — 2023-01-19 · ko · `unclassified`
-  [음악] 외국 [음악] 차량 내부 복장 테스트 후, 차량 내부, 트렁크, 센서 커버 내부로 물이 어떻게 유입되었는지, 그리고 차량의 센서 시스템에 어떤 영향을 미치는지 확인하기 위해 차량을 검사합니다.
-
-- **[Highlights from our Geely event in Los Angeles](https://www.youtube.com/watch?v=OoKKMYZIwL0)** — 2022-11-21 · ko · `unclassified`
-  이 기술의 도입으로 저는 이동 중에 새로운 안식처를 만들 수 있는 가능성에 대해 생각하게 되었습니다. 이것이 바로 로스앤젤레스의 미래 통근 방식입니다. [음악] 로스 앤젤레스 사람들은 적극적 이고 다양하며 역동적이기 때문에, 이 기술을 그들에게 선보일 수 있게 되어 매우 기쁩니다. [음악] 세계 최고의 자율주행 기술 파트너인 웨이모와 협력하여 지능형 모빌리티를 한 단계 더 끌어올릴 수 있게 되어 매우 기대됩니다. 이 차량은 내외부 모두 새롭게 설계되었으며, 단순한 자동차가 아닌 라이프스타일 캡슐이라고 할 수 있습니다
-
-- **[Take a look at our all-electric Zeekr vehicle designed in partnership with Geely](https://www.youtube.com/watch?v=Ew32ydR2O3c)** — 2022-11-17 · en · `unclassified`
-  [Music] thank you [Music] thank you [Music]
-
-- **[Waymo at ECCV 2022 | Scaling 3D Detection to the Long Tail](https://www.youtube.com/watch?v=b84FbSZFJeQ)** — 2022-10-28 · en · `unclassified`
-  foreign thank you for having me I lead the research team at waymo in this talk I will give you an overview of our recent work on scaling 3D detection to the long tail overall we have eight papers accepted this eccv conference on different topics and I invite you to check them out waymore's alphabets autonomous driving technology company we're building the world's most experienced driver and focusing on …
-
-- **[Next Stop for Waymo One: Los Angeles](https://www.youtube.com/watch?v=S4mWsFb4FDo)** — 2022-10-19 · en · `unclassified`
-  our mission at Greenville is ambitious make roads safer and easier to navigate for all we're Paving A Better Way Forward in Mobility from the Valley of the Sun to the city by the bay we're designing our service with each cities and each Rider's needs at heart today we take one more step in this journey bringing the waymo driver to Los Angeles [Music]
-
-- **[San Francisco Community Love: Gabriela Alemán](https://www.youtube.com/watch?v=8g6-JliY3EU)** — 2022-10-14 · en · `unclassified`
-  i was born and raised here in the lower mission my parents immigrated here almost 30 years ago and what i really love about this city is just how accessible it is to people from all walks of life for a lot of our community members travel is something that's really limited and postcards and sending mail internationally and like overnight is a big thing that i grew up with …
-
-- **[San Francisco Community Love: J Manuel Carmona](https://www.youtube.com/watch?v=k5BeEFIcEnQ)** — 2022-10-14 · en · `unclassified`
-  my connection with San Francisco started 11 years ago when I first came to the city I think what I loved about San Francisco is like how weird are you San Francisco was just this place to be free the main idea behind the design we went with this project in huevo was having a bunch of people hugging each other I believe hog is at like Universal expression of …
-
-- **[San Francisco Community Love: Jessica HJ Lee](https://www.youtube.com/watch?v=0gEE6C5Ofnw)** — 2022-10-14 · en · `unclassified`
-  for this project I wanted to highlight the things that are unique to San Francisco like the landmarks and I really wanted to capture the brightness and free-spirited energy of the city by the use of vibrant colors and I also sprinkled in a little bit of fun elements into a very intricate imaginary map of the city [Music] as a woman and as a member of the aapa community …
-
-- **[San Francisco Community Love: Monica Garwood](https://www.youtube.com/watch?v=fTK8txzTJQ8)** — 2022-10-14 · en · `unclassified`
-  my favorite thing about the city is probably all the different parks and outdoor spaces as well as the diversity between each neighborhood my jumping off point for my design was the rainbow crosswalks and the Castro I really wanted to show five different people who you could find in San Francisco and they take on qualities of different neighborhoods themselves Muttville is a senior dog rescue in the Bay …
-
-- **[San Francisco Community Love: Nigel Sussman](https://www.youtube.com/watch?v=RnNIHKrkWz8)** — 2022-10-14 · en · `unclassified`
-  San Francisco is a beautiful and vibrant city the city is inspirational and I feel privileged to have been able to live here for a long time for this project thinking about moving around the city and Discovery and food landmarks food is is something that everybody has in common everyone needs to eat so it's a universal and accessible symbol of a place my charity is food wise it …
-
-- **[Waymo and C.H. Robinson: Moving goods safely](https://www.youtube.com/watch?v=t-ZpZuEmE7A)** — 2022-10-03 · ko · `unclassified`
-  그것은 아제이에게 그것은 [음악] 책임자 그것은 [음악]
-
-- **[Why I Ride with Waymo One: Eva](https://www.youtube.com/watch?v=_ChhsuT0hLQ)** — 2022-09-13 · ko · `unclassified`
-  제 이름은 에바이고, 트러스트 테스터 프로그램에 처음 신청한 이유는 서비스를 처음으로 체험해 볼 수 있다는 점과, 웨이모를 이용해 도시를 더 편리하게 돌아다닐 수 있다는 점 때문이었습니다. 저는 운전을 잘 하지 않아서 주로 심부름이나 친구들과 만날 때 웨이모를 이용하는데, 다른 교통수단보다 믿을 수 있기 때문입니다. 예상 픽업 및 하차 시간이 정확하고, 특히 차가 많이 다니는 교차로에서는 좀 어려울 수도 있지만, 제가 탔던 모든 웨이모는 항상 안전하고 편안했습니다.
-
-- **[Phoenix Mayor Kate Gallego takes a ride with the Waymo Driver](https://www.youtube.com/watch?v=lvfFm0sE_18)** — 2022-08-29 · ko · `unclassified`
-  저는 피닉스 시장 케이트 갈레고입니다. 지금 피닉스에서 웨이모를 이용한 첫 번째 승객 전용 운행을 시작하려고 합니다. [음악] 시작 버튼을 누르시죠? [ 음악] 웨이 모 운전자가 어떻게 운전하는지 지켜보고 있습니다. 회전 구간이나 운전하기 어려운 지점을 지날 때는 속도를 줄이고 주변을 살피는 모습이 정말 인상적입니다. 지금 주변에 보행자들이 많이 보이네요. 세 군데 모퉁이에 보행자가 있고, 차량도 10대나 있습니다. 사람이 처리하기엔 엄청난 양이지만 웨이 모 운전자에게는 문제없습니다. 다운타운을 지나는 이번 운행은 정말 즐거웠습니다.
-
-- **[Waymo Via: Meet the Waymonauts - Rashmi](https://www.youtube.com/watch?v=MEzDfNPCyao)** — 2022-08-11 · ko · `unclassified`
-  안녕하세요, 저는 레모(Remo)의 시스템 안전 엔지니어 라슈미입니다. 저 에게 안전이란 우리가 개발하는 모든 신기술이 인간에게 도움이 되고 해를 끼치지 않도록 하는 것을 의미합니다. 따라서 사전에 위험 분석을 수행하여 시스템 관점에서 발생할 수 있는 모든 잠재적 문제점을 파악하고, 이러한 다양한 위험 요소를 완화하기 위한 요구 사항을 마련하는 것이 중요합니다. 자율주행 기술에는 여러 측면이 있습니다. 소프트웨어 부분과 통합되는 플랫폼이 있는데, 이 플랫폼은 제동, 조향, 파워트레인, 전원 공급 장치 등 모든 사양을 제어합니다.
-
-- **[Sense, Solve, and Go: The Magic of the Waymo Driver](https://www.youtube.com/watch?v=hA_-MkU0Nfw)** — 2022-08-01 · ko · `unclassified`
-  [음악] 요즘 나오는 신기술 중에는 그저 보여주기식인 경우가 많아서 사실과 허구를 구분하지 못하는 것도 무리가 아닙니다. 예를 들어 이 차를 보세요. 자율 주행이 가능할까요? 간단히 말해서, 가능합니다. 방금 말씀하신 분은 WEO의 주행 행동 부문 수석 제품 책임자인 샤 슈리바스타바였습니다. 지금 보시는 것은 다양한 차량 플랫폼에 맞춰 개발된 WHMO 드라이버의 작동 모습입니다. 이는 현재 세계에서 가장 진보된 완전 자율 주행 기술입니다. 금방 알아차리실 수 있듯이, 이 차는 일반 차량이 아닙니다.
-
-- **[Why I Ride with Waymo: John](https://www.youtube.com/watch?v=kJx2zWdMoxg)** — 2022-07-11 · ko · `unclassified`
-  샌프란시스코에서 16년 정도 살았 는데, 웨이머스를 사용해 본 지 8개월에서 10개월 정도 됐어요. 시내를 돌아다니는 게 정말 편하고 좋아요. 차를 몰고 다니기 싫거나 주차 문제, 우버를 타기 싫을 때 심부름을 하러 다니는데 정말 편리하더라고요. 사실 공유 차량보다 훨씬 유용했어요. 카스트로에 있는 바에도 자주 가는데, 안전하게 집까지 데려다 줄 차가 있다는 게 정말 좋아요. 재규어를 타니까 항상 편안하고 좋죠. 불평할 게 하나도 없어요.
-
-- **[Waymo Via: Meet the Waymonauts - Andrew](https://www.youtube.com/watch?v=pzPLQltniOY)** — 2022-06-21 · ko · `unclassified`
-  안녕하세요, 제 이름은 앤드류이고 Waymo의 인지 팀에서 일하고 있습니다. 저희 수신 팀은 하드웨어 팀 과 행동 예측 및 계획 팀 사이에 위치해 있습니다. 저희는 트럭에 장착된 모든 하드웨어와 센서에서 들어오는 모든 정보를 수집하고, 이를 행동 예측 팀이 주변 차량의 움직임을 예측하고 계획 팀이 그에 대한 대응으로 저희 차량이 어떻게 움직여야 할지 결정하는 데 사용할 수 있는 형식으로 변환합니다. 저희는 Waymo 1 차량과 많은 기술을 공유 하지만, 더 큰 차량이기 때문에 여러 위치에 더 많은 센서가 장착되어 있습니다
-
-- **[Why I Ride with Waymo: Candace](https://www.youtube.com/watch?v=oxKQNSNJ3q8)** — 2022-06-09 · ko · `unclassified`
-  저는 선셋 이너 선셋에 살고 있어요. 음, 9월부터 여기 산 지 한 9개월 정도 된 것 같아요. 그리고 11월부터는 트러스트 테스터로 활동하고 있죠. 여기 온 지 얼마 안 됐는데, 샌프란시스코에서 웨이모를 어떻게 생각하세요? 웨이모 덕분에 도시 곳곳을 훨씬 효율적이고 넓게 이동할 수 있게 됐어요. 솔직히 말해서, 대중교통만 이용했을 때보다 훨씬 더 많은 곳을 방문할 수 있었던 것 같아요. 웨이모 덕분에 관광도 하고 싶었던 것들을 더 많이 할 수 있었죠.
 
 ## AWS Developers (77건)
 
@@ -3477,223 +3791,223 @@
 - **[Blazing Fast Local LLM Web Apps With Gradio and Llama.cpp](https://www.youtube.com/watch?v=mCTHxoGcDTg)** — 2024-06-26 · ko · `AX`
   여러분, 저는 프레디이고 그 라디오의 엔지니어 중 한 명입니다. 오늘은 여러분의 노트북에서 로컬로 실행되는 대규모 언어 모델의 UI를 5분 안에 구축하는 방법을 보여드리겠습니다. 네, 정말로 5분도 안 걸렸어요. 자, 그럼 시작하겠습니다 . 자, 그럼 먼저 사용할 파이썬 패키지를 설치해 보겠습니다. LLM 실행에는 llama.cpp의 Python 바인딩을 사용하고, UI 구축에는 Gradio를 사용할 예정입니다. 저는 GPU가 없기 때문에 CPU 지원만 포함된 llama.cpp를 설치하고 있습니다. 하지만 GPU 지원 기능을 포함하여 설치하고 싶으시다면 llama.
 
-## Intel (72건)
+## Swisscom (72건)
 
-- **[Acer Swift 16 AI (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=98RfEqmdgJo)** — 2026-07-16 · ko · `AX`
-  아, 죄송합니다. 다른 회의 때문에 조금 늦었어요 . 음, 그래서 이렇게 가벼운 기기가 유용한 거죠. 저는 이 노트북으로 일상생활을 아주 만족스럽게 보내고 있지만, 여러분은 이 노트북에 대해 더 자세히 알고 싶어 하시겠죠 . 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 Acer Swift 16 AI에 대해 자세히 알아보겠습니다. 이 노트북은 인텔 코어 울트라 X7 시리즈 3 프로세서와 인텔 Arc 통합 그래픽을 탑재하여 강력한 성능을 자랑합니다. 관심 있으시면 나머지 사양은 화면에 표시해 드리겠습니다
+- **[My Security - Überblick und Erklärung | Swisscom Help](https://www.youtube.com/watch?v=8MCEzoaVgCY)** — 2026-07-27 · ko · `unclassified`
+  아웃태그가 더욱 상호 연결될수록 더욱 똑똑해집니다. 가죽과 손잡이 자체는 조용할 것입니다. 오랫동안 지속되어 왔지만, 계속 진화하고 있습니다. me security와 함께라면 그 어느 때보다 빠릅니다. jetztcom은 모듈형 보안을 제공합니다. 내 필요를 유연하게 충족할 수 있도록 개발되었습니다. 이 영상에서 어떤 부분을 조절하는지 설명해 드리겠습니다. 저의 안전은 바로 그 개인이 원하는 것입니다. Variant bierte [음악]과 완전히 할 수 있는 방법 간단히 개요를 말씀드리겠습니다. 부분 보호 상태 내 보안은 새로운 모듈형 보안 포트폴리오 개인 고객을 위한 스위슨 개인 고객.
 
-- **[Asus ROG Zephyrus G14 (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=HqFvkV9wGxM)** — 2026-07-16 · ko · `unclassified`
-  와. 죄송합니다, 방금 제 눈앞에서 건물이 완전히 무너지는 걸 보고 정신이 팔렸어요. 솔직히 말씀드리면, 저는 이 노트북을 직접 사용해 보면서 정말 즐거운 시간을 보냈고, 여러분도 이 노트북에 대해 더 자세히 알고 싶어서 오셨겠죠. 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 ASUS ROG Zephyrus G14에 대해 자세히 알아보겠습니다. 게이밍 노트북에 대해 이야기할 때는 무엇보다 강력한 성능을 갖춘 제품인지 알아야 합니다. 그리고 이 노트북은 실망시키지 않습니다.
+- **[Highlights: Das neue Samsung Galaxy Z Fold8](https://www.youtube.com/watch?v=NMpLoBqUAc0)** — 2026-07-22 · ko · `unclassified`
+  더욱 강력해진 성능, 새로운 포맷, 그리고 향상된 품질. [음악] 사용자 경험, 그것이 바로 삼성입니다 갤럭시 ZFold 8 [음악] Janik Schaffe 스위스콤과 H의 새로운 ZF 8 및 돋보기 [음악] ZFFold 8은 라벤더 색상으로 제공됩니다. 개인적으로 저는 흑연과 크림색을 가지고 있습니다. 저는 라벤더 [음악]을 선택했어요. 제가 바로 알아차린 건 그것이 얼마나 얇은지였습니다. 4.5mm만큼 벌어진다는 것입니다. 0.7mm로 접이식 [음악]을 접을 수 있습니다. 품질이 매우 뛰어나다는 느낌이 듭니다. 치명적 타격 그리고 지금 우리는 이미 점령당했습니다
 
-- **[Asus Zenbook DUO (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=m87vHzmdmx4)** — 2026-07-16 · ko · `AX`
-  이 노트북 정말 멋지지 않나요? 화면이 두 개 있습니다 . 저는 이 제품을 직접 다뤄보면서 정말 즐거웠지만, 여러분은 이 제품에 대해 더 자세히 알고 싶어 하시겠죠. 그럼, 이야기해 봅시다 . 안녕하세요, 저는 Jess입니다. 오늘은 ASUS Zenbook Duo에 대해 자세히 알아보겠습니다. 우선, 이 듀얼 스크린에 대해 이야기해 봐야겠습니다. 노트북을 활용한 창의성, 멀티태스킹, 생산성 향상에 있어 완전히 혁신적인 제품입니다 . 저는 집 책상에 모니터 두 대를 사용하고 있어서 이런 구성에 아주 익숙합니다 .
+- **[CT in giardino](https://www.youtube.com/watch?v=8-4l--Y5dm0)** — 2026-06-08 · ko · `unclassified`
+  만잠비가 프리킥을 찰 준비를 하고 있다. 그는 골대를 향해 곧바로 슛을 날리려고 할 것이다. 하지만 아니에요, 너무 멀어요. 그럼 당신이라면 어떻게 하시겠습니까? 저는 수비 뒤쪽에서 플레이할 겁니다. 최고의 환경에서 당신의 가능성을 발견하세요 스위스 네트워크. 밤빌리, 경이로운 구절입니다.
 
-- **[Dell XPS 14 (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=ga5Wf4ZWtjo)** — 2026-07-16 · ko · `AX`
-  안녕하세요. 죄송하지만, 오늘 오후에 촬영할 프레젠테이션 자료를 모으는 중이라 지금 바로 연락을 주시려고 하셨네요 . 저는 이 노트북으로 작업하는 게 정말 즐거웠지만, 여러분은 이 노트북에 대해 더 자세히 알고 싶어 하시겠죠. 그럼, 이야기해 봅시다. 안녕하세요 , 저는 Jess입니다. 오늘은 Dell XPS 14 프리미엄에 대해 자세히 알아보겠습니다. 제 창의력을 발휘하려면 강력한 성능의 노트북이 필요한데, 이 노트북은 그 점에서 만족스럽습니다. 인텔 코어 울트라 X 7 시리즈 3 프로세서 와 내장 인텔 아크 그래픽 덕분입니다
+- **[CT in giardino](https://www.youtube.com/watch?v=lzKKgbLBLA0)** — 2026-06-08 · ko · `unclassified`
+  그럼 당신이라면 어떻게 하시겠습니까? 저는 수비 뒤쪽에서 플레이할 겁니다. 최고의 환경에서 당신의 가능성을 발견하세요 스위스 네트워크.
 
-- **[HP Omnibook X (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=dxSuz7imHaQ)** — 2026-07-16 · ko · `AX`
-  안녕하세요, 지금 이 사진 작업을 마무리하고 있어요. 좋아요. 완벽한. 저는 이 노트북을 정말 잘 쓰고 있지만, 당신은 이 노트북에 대해 더 자세히 알고 싶어서 오셨겠죠 . 그럼, 이야기해 봅시다. 안녕하세요 , 저는 Jess입니다. 오늘은 HP OmniBook X에 대해 자세히 알아보겠습니다. 우선, 제 창작 활동을 위해서는 하루 종일 작업할 수 있도록 충분한 성능을 제공하는 노트북이 필요한데, 이 노트북이 바로 그런 역할을 해줍니다. 인텔 코어 울트라 7 시리즈 3 프로세서 덕분입니다.
+- **[CT in giardino](https://www.youtube.com/watch?v=pO4fLOqHct8)** — 2026-06-08 · ko · `unclassified`
+  응!
 
-- **[HyperX Omen 15 (Intel® Core™ Ultra 200HX Plus) - Tech Rundown | Intel](https://www.youtube.com/watch?v=SQzekM5yGuE)** — 2026-07-16 · ko · `unclassified`
-  아, 잠시만 기다려 주세요. 이제 마지막 돌멩이 하나만 얻으면 돼. 좋아요, 다 끝났어요. 저는 이 노트북으로 게임하는 걸 정말 좋아하는데, 여러분은 이 노트북에 대해 더 자세히 알고 싶어서 오셨군요 . 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 HyperX OMEN 15에 대해 자세히 알아보겠습니다. 게이밍 노트북을 이야기할 때는 강력한 성능이 필수적인데, 이 노트북은 그 기대에 부응합니다 . 인텔 코어 울트라 9 HX 플러스 프로세서와 NVIDIA RTX 4070 노트북 GPU 덕분입니다.
+- **[Coach en herbe](https://www.youtube.com/watch?v=Ycpk_NfVFe4)** — 2026-06-08 · ko · `unclassified`
+  [환호와 함성]
 
-- **[Lenovo Legion 5i (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=25K2vS8eXqg)** — 2026-07-16 · ko · `unclassified`
-  내가 도와줄게. 저는 이 노트북으로 게임을 하면서 정말 좋은 경험을 했고, 여러분은 이 노트북에 대해 더 자세히 알아보고 싶어서 오셨겠죠. 그럼, 이야기해 봅시다. 안녕하세요, 저는 Jess입니다. 오늘은 Lenovo Legion 5i에 대해 자세히 알아보겠습니다. 게이밍 노트북에 대해 이야기할 때는 무엇보다 강력한 성능이 필수적인데, 이 노트북은 그런 점에서 실망시키지 않습니다. 인텔 코어 울트라 7 시리즈 3 프로세서와 NVIDIA RTX 5060 노트북 GPU 덕분입니다. 관심 있으시면 나머지 사양은 화면에 표시해 드리겠습니다.
+- **[Coach en herbe](https://www.youtube.com/watch?v=onSvsqnTRJU)** — 2026-06-08 · ko · `unclassified`
+  어떻게 해야 할까요?
 
-- **[Lenovo Yoga 7i (Intel® Core™ Ultra Series 3) - Tech Rundown | Intel](https://www.youtube.com/watch?v=F7GVqX5_S60)** — 2026-07-16 · ko · `AX`
-  안녕. 오늘 할 일 목록을 마무리하고 있는 중입니다. 저는 어떤 일을 시작하기 전에 모든 것을 적어두는 것을 좋아합니다 . 하지만 당신은 이 노트북에 대해 알아보려고 여기에 온 거잖아요 . 그럼 이야기해 봅시다. 안녕하세요, 저는 Jess이고 오늘은 Lenovo Yoga 7i에 대해 자세히 알아보겠습니다. 우선 생산성을 높이려면 하루 종일 사용할 수 있는 기기가 필요합니다. 이 노트북은 바로 그런 역할을 합니다. 인텔 코어 울트라 5 시리즈 3 프로세서가 탑재되어 있습니다.
+- **[Coach en herbe](https://www.youtube.com/watch?v=wGKgPil4RTs)** — 2026-06-08 · ko · `unclassified`
+  이런! 마지막 프리킥 몬좀비에게 행운을 빌어요. 그는 직접 당겨볼 용기가 있으신가요? 아니요, 너무 멀어요. 어떻게 해야 할까요? 나는 저 멀리 담장 뒤에 숨어서 맹세하겠다. [음악] 여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크. 정말 예상치 못한 일이네요. 아.
 
-- **[Samsung GalaxyBook 6 Pro (Intel® Core™ Ultra Series 3 X processors) - Tech Rundown | Intel](https://www.youtube.com/watch?v=8J2kahP5NPY)** — 2026-07-16 · ko · `AX`
-  안녕하세요, 저는 Jess입니다. 오늘은 삼성 갤럭시 북 6 Pro에 대해 자세히 알아보겠습니다. 우선, 게임과 창작 활동을 원활하게 하려면 강력한 성능의 노트북이 필요한데 , 이 노트북은 그런 면에서 전혀 실망시키지 않습니다. 인텔 코어 울트라 X7 시리즈 3 프로세서와 통합 인텔 아크 그래픽 덕분입니다. 혹시 관심 있으시면 나머지 음악 사양을 화면에 띄워 드릴게요. 하지만 최신 비디오를 편집하든, 여행 사진을 편집하든, 내장된 인텔 Arc 그래픽 덕분에 더욱 고사양의 창작 작업은 물론 게임까지 원활하게 즐길 수 있는 성능을 보장합니다.
+- **[Gartencoach](https://www.youtube.com/watch?v=EJZ-UKxSbic)** — 2026-06-08 · ko · `unclassified`
+  어떻게 하시겠습니까? 중요한 부분들은 나중에 찾아보겠습니다. 당신이 할 수 있는 일을 알아보세요. 스위스 최고의 네트워크에서 이용 가능합니다.
 
-- **[Intel Total Storage Encryption (TSE) | Chips & Salsa | Intel](https://www.youtube.com/watch?v=owRK0Dm6Uh4)** — 2026-07-14 · ko · `unclassified`
-  [음악] 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트입니다. 오늘 저와 함께 해주신 분은 인텔의 최신 V Pro 플랫폼에서 사용할 수 있는 새로운 기술인 전체 스토리지 암호화(TSE)에 대해 이야기하기 위해 제임스 보이드 씨입니다. 제임스, 환영합니다. 감사합니다. 여기 오게 되어 기쁩니다. 음, 먼저 당신의 역할에 대해 간략하게 설명해 주시겠어요 ? 네, 저는 인텔의 수석 엔지니어입니다. 저는 플랫폼 소프트웨어 엔지니어링 팀의 일원입니다.
+- **[Gartencoach](https://www.youtube.com/watch?v=J3JOGO3J3w4)** — 2026-06-08 · ko · `unclassified`
+  잠비가 프리킥을 찰 준비가 됐나요? 한번 시도해 보세요 그것은 실제로 직접적인 것입니다. 아니요, 그건 하지만 두 가지. 어떻게 하시겠습니까? 모르겠습니다. 당신이 할 수 있는 일을 알아보세요. 최고의 네트워크에서 스위스. 훌륭한 P.
 
-- **[Intel Security Q2 2026: AI, Confidential Computing, and Digital Sovereignty Update | Intel](https://www.youtube.com/watch?v=QCWVgg7DTIw)** — 2026-07-09 · ko · `unclassified`
-  칩스 앤 살사에 오신 것을 환영합니다! 이곳에서는 인텔의 보안에 대해 이야기합니다. 저는 제리 브라이언트이고, 이번에도 스튜디오에 함께 해주신 분은 인텔 제품 보안 및 보증 부문 부사장 겸 총괄 매니저이신 아난드 파슈파티입니다. 아난드, 여기서 다시 만나서 반갑습니다. 초대해 주셔서 감사합니다, 제리. 오늘 저희는 몇 가지 주제를 다룰 예정인데, 그중에서도 인텔이 사이버 보안을 위해 AI 모델을 활용하는 방식에 대해 이야기하고자 합니다 . 인텔은 이 분야에서 독보적인 관점을 가지고 있습니다.
+- **[Gartencoach](https://www.youtube.com/watch?v=RZ3i9ocyu7k)** — 2026-06-08 · ko · `unclassified`
+  네, 정말 멋지네요.
 
-- **[Make your pitch and prove your point and influence the masses (or at least your parents) | Intel](https://www.youtube.com/watch?v=2Ih_L-4NQRs)** — 2026-07-02 · ko · `unclassified`
-  Intel Core Ultra Series 3 [음악]은 제작자를 위해 만들어졌습니다. 거의 실시간으로 4K 비디오를 녹화하고, 자막을 추가하고, 게시하세요. 관중을 사로잡고, 가족을 설득해서 채식주의자가 되도록 만드세요. 네 여동생에게 누가 주인인지 보여줘.
+- **[Mano sul cuore](https://www.youtube.com/watch?v=nRdmCrpin60)** — 2026-06-08 · ko · `unclassified`
+  최고의 환경에서 당신의 가능성을 발견하세요 스위스 네트워크. 아.
 
-- **[Larger than life Intel® Core™ Ultra Series 3 Processor | Intel](https://www.youtube.com/watch?v=W8dpb96t1JI)** — 2026-06-30 · ko · `unclassified`
-  여기서는 최신 Core Ultra 시리즈 3 프로세서를 재미있고 인터랙티브한 방식으로 선보입니다. 이 모델은 전체가 레고 블록으로 만들어졌으며, 정확히는 42,000개의 레고 블록이 사용되었습니다 . 높이는 8피트, 너비는 4피트입니다. [음악] 이 음악은 최신 세대 코어 울트라 시리즈 3 프로세서의 성능을 완벽하게 보여줍니다. 저희는 CPU, NPU, GPU를 보유하고 있습니다. [음악] 저희가 제작한 이 버전에는 GPU용으로 12개의 XE가 탑재되어 있습니다. 여기에는 12개의 XE [음악] 코어가 있는데, 그중 8개가 바로 여기에 있는 E 코어입니다.
+- **[Morgenrooot](https://www.youtube.com/watch?v=bMi_mZFVynE)** — 2026-06-08 · ko · `unclassified`
+  최고의 네트워크에서 무엇을 할 수 있는지 알아보세요 스위스.
 
-- **[Unlock more likes and stories and connections with the most AI experiences on a PC | Intel](https://www.youtube.com/watch?v=XIVkqBhisGA)** — 2026-06-26 · ko · `unclassified`
-  인텔 코어 울트라 시리즈 3는 AI가 사용자를 돕는 데 도움이 됩니다 . 심지어 말까지 걸 수 있어요. 부조종사, 저 물고기 좀 더 크게 만들어 줘. 프로필을 업데이트하고, 좋아요를 많이 받고, [음악]으로 마땅히 받아야 할 존경을 얻으세요.
+- **[Pausa dissetante](https://www.youtube.com/watch?v=etw9AbjmZFw)** — 2026-06-08 · ko · `unclassified`
+  하지만 이제는 때가 왔습니다 갈증을 해소하다. 최고의 환경에서 당신의 가능성을 발견하세요 스위스 네트워크. [웃음] 아.
 
-- **[Semiconductors and the Future of Computing | Intel Foundry](https://www.youtube.com/watch?v=oAtdGyDouFU)** — 2026-06-12 · ko · `unclassified`
-  대부분의 사람들이 그것들에 대해 생각조차 하지 않는다는 점이 꽤 흥미롭습니다. 우리가 손에 들고 다니는 기기부터 스마트 홈, 우리가 운전하는 자동차, 의료, 음악 교육 , 엔터테인먼트에 이르기까지 반도체는 오늘날 세상을 움직이고 있습니다. 음악은 우리가 가진 잠재력을 이끌어내고, 음악을 통해 삶의 질을 향상시키는 것을 더 쉽게 만들어줍니다. [음악] 반도체는 사실상 모든 주요 산업의 기반입니다 . 반도체가 없으면 인공지능도, 자동차도, 심지어 음악, 현대 의료, 무기 시스템도 칩 없이는 존재할 수 없습니다.
+- **[Pause boisson](https://www.youtube.com/watch?v=vRlwaF60lMQ)** — 2026-06-08 · ko · `unclassified`
+  경기장 온도가 정말 높네요! 우리의 선수들은 분명 휴식을 받을 자격이 있다. 음료. 여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크.
 
-- **[4 Things to Know From Computex | Intel](https://www.youtube.com/watch?v=Cv3eTjYS-VQ)** — 2026-06-08 · ko · `unclassified`
-  데이터 센터용 인텔 18A부터 완전히 새로운 게임 칩, 그리고 고객 맞춤형 실리콘에 이르기까지 , 대만에서 열리는 컴퓨텍스 전시회에서 알아야 할 네 가지 주요 사항을 소개합니다. Xeon 6 [음악] Plus가 출시되었습니다. 이 회사의 첫 번째 데이터 센터 칩은 인텔 18A 제조 공정으로 제작되었습니다. 고효율 코어가 탑재된 이 CPU는 통신 및 기업 비즈니스를 위한 에이전트형 AI 기반 음악 데이터 센터를 구동하는 데 이상적입니다 .
+- **[Sur nos monts](https://www.youtube.com/watch?v=Og4fCRARTqU)** — 2026-06-08 · ko · `unclassified`
+  여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크.
 
-- **[Intel Computex Keynote 2026](https://www.youtube.com/watch?v=7HvrdXjdlU8)** — 2026-06-02 · en · `AX`
-  Silicon, the foundation of modern technology. Every transistor placed with purpose. [music] Every watt wrestled from physics. Where every instruction set earns its right to execute. This is how performance gets driven, how efficiency gets built, how intelligence acts, not just [music] answers. Our future is with ecosystems. Shaped by architecture. Capable of connecting technologies, tools, and partners. Powerful enough to execute. Efficient enough to scale. Familiar enough to build with speed.
+- **[Trinkpause](https://www.youtube.com/watch?v=geb7KIBrz5g)** — 2026-06-08 · ko · `unclassified`
+  하지만 지금은 음료수 마시면서 잠시 쉬어갈 시간이에요. 최고의 네트워크에서 무엇을 할 수 있는지 알아보세요 스위스.
 
-- **[How Intel's EMIB technology is improving advanced chip packaging 📍| Intel](https://www.youtube.com/watch?v=K4Dkmb126-E)** — 2026-05-26 · en · `unclassified`
-  - AI requires massive power. Instead of making bigger and bigger and more complicated computer chips, Intel uses chipslets where different kinds of small, specialized chips all connect together on what's called a package or the platform it all sits on. Kind of like silicon mosaic art. Enter EMIB, or Embedded Multi-Die Interconnect Bridge. While others use expensive silicon interposers as the connection layer between chips, Intel Foundry embeds tiny, high speed silicon bridges only where they're needed.
+- **[Passwort Kompass](https://www.youtube.com/watch?v=ayzqP-6frgw)** — 2026-05-11 · ko · `unclassified`
+  그 회계사는 실제로 얼마나 유능한가? 비밀번호는 여전히 중요하지만, 훌륭한 대응책은 h 조각 위터로 이어집니다. 다행인 점은 보안 비용을 지불할 필요가 없다는 것입니다. 음악 전문가들은 대개 더 오랜 기간 동안 일해왔습니다. 간단하고, 터무니없고, 당신의 계정들 보안 강화; 아주 좋은 첫걸음입니다. 그렇다면 비밀번호 관리자인가요? 각 서비스마다 강력한 비밀번호를 설정해야 합니다. 생각해보면 아직 알아차리지 못했을 수도 있지만, 생각해 보면 그렇지 않다는 것을 알 수 있습니다. 일상생활에서는 그런 일이 정확히 그 자리에서 일어나는 경우는 거의 없습니다
 
-- **[Remote management without boundaries | Galaxy Book6 Enterprise Edition | Samsung | Intel](https://www.youtube.com/watch?v=Di9KGHwB4hw)** — 2026-05-07 · ko · `unclassified`
-  시간이 어디로 갔지? 그럼, 비행하는 동안 계속 일할게요 . 안 돼요. 진지하게? 내 컴퓨터가 꺼졌어요. 이것 좀 봐주시겠어요 ? 괜찮아요. 제가 한번 살펴보겠습니다. 보이시나요? 이제 업무에 복귀하실 수 있습니다. 오, 당신은 꽤 잘하네요. 제 말은, 이 노트 PC는 꽤 괜찮다는 겁니다. 경계 없는 원격 관리.
+- **[KI-Risiken im Alltag](https://www.youtube.com/watch?v=KgHYuM9MmOs)** — 2026-05-04 · ko · `AX`
+  K는 이제 기회인가, 아니면 위험인가? 케이 그녀는 이메일을 보내고 사진을 찍었다. 홍보성 과시 및 문제 발생 고객이 그 문제를 해결하지만, 흥얼거려 보세요 [음악] 바로 이런 도구들이 당신을 틀리게 만들 수 있습니다. 수집되지 않은 정보 또는 일을 성사시키는 사람들 냉철하게 생각하세요. 사실 AI는 그렇지 않습니다. 단순히 좋거나 나쁘거나 하는 것이 아니라, 그들은 많은 것들을 더 빠르고 쉽게 만들어 줍니다. 더 자주 신뢰할 만하다. 그러므로 그것은 정확히 헤르츨, 가장 위대한 슈투퍼파우가 있는 곳 놓다.
 
-- **[Work and Play and Create and Edit and Share and Repeat | Intel](https://www.youtube.com/watch?v=VSrQVuUJAjY)** — 2026-05-06 · ko · `unclassified`
-  [음악] 인텔 코어 울트라 시리즈 3를 소개합니다. 초슬림 노트북의 새로운 기준을 제시합니다 . 그리고? 게이밍급 그래픽과 PC에서 가장 뛰어난 AI 경험을 즐길 수 있습니다. 그리고? 갤러리 전체를 몇 분 만에 편집할 수 있습니다. 거의 실시간으로 4K 비디오를 녹화하고, 자막을 추가하고, 게시하세요. 그리고? 심지어 그것과 대화도 할 수 있습니다 . 부조종사, 물고기를 더 크게 만들어 줘. 그리고 이 제품은 며칠 동안 사용할 수 있도록 배터리 수명이 설계되었다는 점도 말씀드렸던가요? 그리고?
+- **[Phishing im KI Zeitalter](https://www.youtube.com/watch?v=K0EhQ8Iq3ek)** — 2026-04-27 · ko · `unclassified`
+  Füre Kai Tools에서 낚시 및 스테로이드까지. 낚시는 새로운 것이 아니지만, 카이는 그것을 특별하게 만든다. 더 빠른, 슈퍼, 그리고 그 이상 더욱 개인적인. 메시지는 다음과 같습니다. 스팸, 그런데 정확히 어떻게, 어디서 스팸을 하는 걸까요? Vertegeschrieben은 바로 그 단어입니다. 예전에는 사람들이 낚시를 자주 가는 것이 문제였습니다. 어색하게 표현된 문구를 즉시 알아차린다. 의심스러운 이메일 h 푸시 K 도구 빠른 f 음색을 흉내 내고 연기하다 신뢰할 수 있는 gra DM, 이메일 또는 SMS는 가짜와 진짜를 구별하기 어렵다 우리는 최고의 비법과 그 방법을 알고 있습니다
 
-- **[Intel Foveros Technology: Inside Advanced Packaging in New Mexico | Intel](https://www.youtube.com/watch?v=MWo8PO74PDg)** — 2026-05-04 · ko · `unclassified`
-  자, 안으로 들어가자. 인텔 뉴멕시코에서는 소형 특수 칩 타일들을 하나의 고성능 시스템으로 연결하고 있습니다. 포베로스(Foveros)라는 기술을 사용하면 이러한 칩렛을 인터포저에 연결할 수 있습니다. 그 인터포저를 피자 도우처럼 생각해 보세요 . 이것은 칩 부착 도구입니다. 이는 인텔의 포베로스(Foveros) 고급 패키징 공정의 첫 번째 단계입니다 . 음식에 비유하자면, 이 도구는 피자 도우를 가져오고, 원하는 피자 토핑을 기계 반대편에 넣으면 도우 위에 토핑을 붙여주는 역할을 합니다. 그다음에는 오븐에 넣어 그 시스템[음악]을 함께 구워내는 겁니다.
+- **[Das kleine Cybersecurity 1×1: So schützt du dich im Internet](https://www.youtube.com/watch?v=AZ153x3YrTg)** — 2026-04-20 · ko · `unclassified`
+  그물낚시는 얼마나 안전할까요? 케이크를 파는 의심스러운 가게들 [한숨] 스트레스가 가라앉는 건 좋은 일이죠, 당신. 더 나은 보안을 위해서는 IT 관련 학위가 필요합니다. 좋은 사이버 습관은 그들이 wowohelm을 만듭니다 그리고 명확한 규제 기관이 뒤따릅니다. 도로 교통에서는 그런 일이 일어나지 않아요. 무적이지만 훨씬 더 우수함 Cyburity einm1이 당신에게 전달되도록 보호되었습니다. 지금 바로 활용할 수 있는 6가지 기본 사항 첫째, 당신은 Grz vi를 확신합니다. 모두가 알아봤지만, 지금은 어떻게 청소해야 하는지 잊어버렸어요.
 
-- **[Intel Foundry | Yours for the Making | Intel](https://www.youtube.com/watch?v=ufaprXJwnys)** — 2026-04-21 · ko · `unclassified`
-  [음악] 헤이. [음악] 헤이. 여기요 . [음악] 헤이. 여기요 . [음악] 헤이. [음악] 헤이. 여기요 .
+- **[Kids & KI - Chancen und Risiken | Online-Elternabend](https://www.youtube.com/watch?v=zNFVjqSv5rU)** — 2026-03-31 · ko · `AX`
+  eem 노인 온라인 커뮤니티에 오신 것을 환영합니다. 제목이 Kids와 K S인 더 오래된 것들 기회와 위험은 인위적으로 만들어진 것이다. 지능 K. 두 글자 Ees와 Wald Kstand를 내부로 변경했습니다. 아이는 아이이고 선물입니다. 당신이 말합니다 음성 비서와 함께 또는 그녀는 qu입니다 알고리즘이 있는 모든 피드 그들을 위해 자료를 모아두었습니다. 그건 질문이네요. 제게 있어서, 노인분들은 당연히... 아직 괜찮은 건가요? 똥이란 무엇인가요? 그렇다면 상황이 정말로 심각해지는 지점은 어디일까요? 어린이와 청소년을 위한 것입니다.
 
-- **[AI Engineering with Control and Confidence—Powered by TurinTech + Intel | Intel](https://www.youtube.com/watch?v=I30DMglXwS0)** — 2026-03-25 · ko · `unclassified`
-  인공지능 공학은 중요한 음악적 변곡점에 도달하고 있습니다. 팀들은 단순히 더 빠른 결과물을 원하는 것이 아니라, AI가 작동하는 방식에 대한 더 많은 제어권을 원합니다 . 음악을 제작하고 핵심 소프트웨어를 유지 관리하는 사람들에게는 코드가 실행되는 위치, 데이터가 처리되는 방식, 그리고 결과물(음악)이 검증되는 방식을 제어하는 ​​것이 필수적입니다. 저희는 비즈니스에 필수적인 소프트웨어인 음악을 발전시키기 위한 최적화 플랫폼인 Artemis를 개발합니다. 이를 통해 팀은 가시성, 검증 및 제어를 통해 음악을 현대화하고 성능을 개선하며 품질을 향상시킬 수 있습니다
+- **[KI im Alltag von Kinder und Jugendlichen](https://www.youtube.com/watch?v=SoFnOITn7c8)** — 2026-03-11 · ko · `unclassified`
+  한 세대 전체가 그렇게 되면 무슨 일이 일어날까요? AI가 가르치나요? Ler James 포커스 연구 2025년까지 왕과 슈베드쇼 AI 도구의 청소년. 12세에서 13세 사이의 [음악] 약 53%이며 18세에서 19세 청년층에서는 그 비율이 80%를 넘습니다. [음악] 한 세대 전체가 가르치고 있습니다 연구 및 구조 음악의 도움으로 이미 일상생활이 풍요로워졌습니다. K 이전과 h folge는 sch older 및 비유적인 표현입니다. 이 연구는 AI [음악]을 명확하게 보여줍니다. 주로 학교 교육 목적으로 사용됩니다.
 
-- **[Advancing silicon security through Formal Verification | Chips & Salsa | Intel](https://www.youtube.com/watch?v=q8OsRu4H8lo)** — 2026-03-25 · ko · `unclassified`
-  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트입니다. 오늘 우리가 다룰 주제는 실리콘 스케일에서의 형식 검증입니다. 저와 함께 인텔의 선임 이사인 제이슨 펑 씨가 자리에 함께했습니다. 그는 공격 보안 연구와 학술 연구 협력 업무를 담당하고 있습니다. 제이슨, 다시 출연해 주셔서 감사합니다. 와주셔서 반갑습니다. 먼저 팀에서 하는 일에 대해 간략하게 소개해 주시고 , 이번 학술 연구 활동에 대해서도 좀 더 자세히 설명해 주시겠어요? 다시 만나서 반갑습니다
+- **[Highlights: Das neue Samsung Galaxy S26 Ultra ist da](https://www.youtube.com/watch?v=yj3nhsdfKcI)** — 2026-02-26 · ko · `unclassified`
+  이것은 삼성 갤럭시 S26 울트라입니다. 삼성은 해당 기기가 단지...라고 약속합니다. 더 빠른 카메라 또는 더 특별한 카메라 뒷면에 지지되는 것들이지만 가져오는 것들 저걸 보고 계신 건가요, 아니면 다음 걸 보고 계신 건가요? [음악] 롱 디어의 업데이트 저는 야니크이고 스위스콤에서 근무합니다. 그리고 H 로그 삼성 갤럭시 S26 울트라 A 삼성의 최신 플래그십 모델 그 해. 갤럭시 S26 울트라는 4점을 줬습니다. 다양한 색상, 검정색, 하늘색 및 개인적으로 가장 좋아하는 색은 코발트 바이올렛입니다.
 
-- **[Advancing silicon security through Negative Space Testing | Chips & Salsa | Intel](https://www.youtube.com/watch?v=Al6v0IxOSFM)** — 2026-03-25 · ko · `unclassified`
-  칩스 앤 살사에 오신 것을 환영합니다! 이곳에서는 인텔의 보안에 대해 이야기합니다. 저는 제리 브라이언트이고, 오늘은 비벡 토리 씨를 모시고 네거티브 스페이스 테스트에 대해 이야기 나눠보게 되어 기쁩니다 . 네, 이는 저희가 2026년 인텔 플랫폼 보안 보고서에서 다룬 내용입니다. 어, 비벡은 인텔 제품 품질 보증 및 보안 그룹의 부사장이며, 우리 제품에 영향을 미치는 중요한 보안 문제 등을 담당하고 있습니다 . 그는 또한 인텔 플랫폼 업데이트 및 장기 지원 프로그램을 이끌고 있으며, 마지막으로 미래 제품의 보안을 개선하기 위해 노력하고 있습니다
+- **[Deine Zukunft ruft an? Geh ran.](https://www.youtube.com/watch?v=wkg5XIKCVLI)** — 2025-12-01 · en · `unclassified`
+  YOUR FUTURE Hey, stand up! It's your future here. Look, you can forge your own path. Even if it has a few detours. You can embark on a new journey. And build something wonderful. So: When your future calls ... ... – pick up.
 
-- **[Citrix and Intel deliver the VDI Mobility that Keeps up with the Workday | Intel](https://www.youtube.com/watch?v=FtV2FeD8Zrg)** — 2026-03-25 · ko · `unclassified`
-  시트릭스와 인텔은 디지털 워크스페이스의 경계를 재정의하고 있습니다. [음악] 업계 최고 수준의 가상화 기술과 세계적 수준의 실리콘을 결합하여 효율성과 지속 가능성에 중점을 두면서도 고성능 경험을 제공합니다. [음악] 시트릭스 HDX 초고해상도 그래픽 기술을 통해 사용자는 고화질 가상 앱과 데스크톱을 경험할 수 있습니다. 거래소에서 밀리초 단위로 중요한 데이터를 분석하든, 환자의 침상에서 필수적인 치료를 지원하든, 네트워크 및 배터리 수명 소모를 최소화하면서 음악을 활용합니다. 우리는 함께 현대 기업들이 전통적인 한계를 뛰어넘도록 지원합니다.
+- **[Highlights Online Elternabend: Cybersecurity](https://www.youtube.com/watch?v=zvCnlRuzaWs)** — 2025-11-26 · ko · `unclassified`
+  가짜, 사기, 악랄한 속임수 인터넷과 아이가 그 안에 앉아 있는 것처럼 인터넷에서 더 보기: 온라인 부모 보호 하지만 전문가와 함께라면 더 자세히 알 수 있습니다. 기기에 대한 정보와 가장 흥미로운 점은 다음과 같습니다. 잠깐, 돈과 관련된 위험 요소들이 있잖아. abzlucken은 위험한 곳입니다. 개인 데이터 비용을 지불하다 사기, 부정 계획, 온라인 쇼핑몰 하나 또는 그 장소 어디에 어디에 데이터, 개인 데이터, 그 위험성 사이버모바일입니다 온라인은 다양한 가능성을 제공합니다.
 
-- **[ControlUp x Intel: On-Device Intelligence for Real-Time Detection and Response | Intel](https://www.youtube.com/watch?v=_6xO-GP1L6Y)** — 2026-03-25 · ko · `unclassified`
-  직원 경험은 이제 IT의 전략적 우선순위가 되었지만, 직원들은 여전히 업무를 방해하는 기기 문제, 시스템 속도 저하, 어색한 상호 작용 또는 예상대로 작동하지 않는 PC와 같은 문제에 직면하고 있습니다. 이러한 문제들은 IT 부서에서 상황을 파악하거나 맥락을 알기 전에 사용자들이 회의, 집중 작업, 중요한 업무 수행 중에 즉시 느끼게 됩니다 . IT 부서에 알릴 때쯤이면 이미 서비스 이용에 차질이 생긴 후입니다. [음악] 기존 방식은 생산성에 영향을 미친 후에야 문제가 드러나고, [음악] 사후 대응적인 문제 해결을 강요합니다 .
+- **[Fakes, Scams & fiese Tricks – Online-Elternabend zu Gefahren im Netz](https://www.youtube.com/watch?v=Sw6WVtwSCY8)** — 2025-11-04 · ko · `unclassified`
+  아이는 아는 것이 거의 없었지만, 달려가서 드리블하며 골을 넣었다. 그 앞의 네트워크는 전체의 85%를 앞서고 있습니다. 스위스 사람들은 확신한다 밝히다 더 나이가 많고 [음악]이라는 제목의 스위스 인구의 3분의 1은 그보다 나이가 많습니다. 그들이 현재 자신들의 [음악]에 몰두하고 있다고 느낀다. 온라인상에서 아이들을 제대로 보호하는 것은 불가능합니다. 스위스에서는 매 두 번째 K마다 이미 그렇습니다. 이미 위험한 온라인 상황 [음악] 위에 낚시하러 가는 건가요, 해킹하러 가는 건가요, 아니면 가짜 프로필을 만들러 가는 건가요?
 
-- **[CrowdStrike and Intel deliver secure AI at the endpoint | Intel](https://www.youtube.com/watch?v=EEBtFEARD74)** — 2026-03-25 · ko · `AX`
-  인공지능은 이제 일상 업무에 깊숙이 자리 잡고 있습니다. 직원들은 엔드포인트와 클라우드를 아우르는 AI 시스템 및 에이전트와 점점 더 많이 상호 작용하며 , 민감한 기업 데이터에 접근하여 실시간 결과를 도출합니다. [음악] AI PC의 등장으로 CPU, GPU, NPU를 아우르는 고급 컴퓨팅 성능이 향상되어 AI 워크로드와 보안 기능을 데이터가 생성되고 사용되는 곳과 더 가까운 곳에서 실행할 수 있게 되었습니다. [음악] 이러한 변화는 엔드포인트에서 AI 혁신과 보호 모두에 있어 가능한 범위를 확장합니다 .
+- **[Wenn Chats zu Albträumen werden – Cybergrooming und Sextortion](https://www.youtube.com/watch?v=3Jx0SVyver0)** — 2025-10-22 · ko · `unclassified`
+  십 대 직전의 아이와 거의 같습니다. 스위스 사람들, 온라인에서 성관계를 해본 적 있나요? 이전보다 28% 더 많은 괴롭힘을 당했습니다. 2014년 제임스 포커스 연구 (2022년 이전) 그녀의 치아 경첩에 관한 실제 이야기 사이버 사기의 명확한 메커니즘 및 성착취 사이버그로밍은 성인을 대상으로 기도합니다 채팅, 소셜 미디어 등을 통해 온라인으로 검색하세요. 게임은 특히 왕과의 접촉을 목표로 합니다. 칭찬이나 말로 십대들을 대하는 방법 이해, 미끼, 그리고 나중에 대한 신뢰 사적인 질문을 하거나 심지어 만나기도 합니다.
 
-- **[Executive overview of the 2026 Intel Platform Security Report | Chips & Salsa | Intel](https://www.youtube.com/watch?v=J5KlRWZm_fk)** — 2026-03-25 · ko · `AX`
-  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 오늘은 아난드 파슈파티 님을 모시고 2026년 인텔 플랫폼 보안 보고서에 대해 이야기 나눠보도록 하겠습니다. 아난드는 인텔 제품 품질 보증 및 보안 부문 총괄 관리자 겸 부사장이며, 제품 보안 및 기밀 컴퓨팅 로드맵을 담당하고 있습니다. 아난드 씨, 환영합니다. 방송에 다시 나와주셔서 반갑습니다. 제리, 다시 초대해 주셔서 감사합니다. 지난번에 제가 꽤 잘했나 보군요 . 그래서 다시 불러주신 거겠죠. 여기 오게 되어 기쁩니다.
+- **[DeepDive: Sicherheit im Netz - Passkeys und MFA](https://www.youtube.com/watch?v=ltqQp7MmLfo)** — 2025-09-10 · en · `unclassified`
+  Few pages are as iconic as this one. The login form is about 30 years old. Despite improved security on the web, the "password system" still remains vulnerable to cyberattacks. These days, we can do better. Namely with multi-factor authentication, for short: MFA, and Passkeys. Accounts with MFA or Passkeys are at least 120 times better protected against cyberattacks. On top of that: Phishing attacks in Switzerland are currently doubling every year.
 
-- **[Hardware Assisted Software Robustness | Chips & Salsa | Intel](https://www.youtube.com/watch?v=49u8xVoLhZM)** — 2026-03-25 · ko · `unclassified`
-  안녕하세요 여러분, 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다 . 저는 진행자 제리 브라이언트입니다. 오늘 주제는 소프트웨어 안정성, 그리고 그 안에서 하드웨어의 역할입니다. 특히 x86 생태계에 도입될 새로운 기술에 대해 이야기해 볼 생각입니다 . 오늘 저는 인텔의 훌륭한 동료 세 명과 함께하고 있습니다 . 먼저 여러분 모두 간단한 자기소개 와 소프트웨어 안정성과 관련된 각자의 역할에 대해 말씀해 주시겠어요 ? 저는 수석 엔지니어이자 CPU 설계자입니다.
+- **[Google Pixel 10 Pro: Dein smarter Begleiter](https://www.youtube.com/watch?v=J57lHjR8vu0)** — 2025-09-10 · ko · `unclassified`
+  이것은 일반적인 언박싱 영상입니다. [음악] 이것이 바로 구글로 할 수 있는 일의 핵심입니다. Pixel Z Pro는 불편함을 느낄 때 사용하기 쉽습니다. 이제는 일상생활에 새로운 것들을 더할 때입니다. 지지할 뿐만 아니라 영감을 주기도 합니다. 그건 얀, 너한테 딱 맞아! 그리고 구글 픽셀 [음악] 첫 번째 인쇄본 에델. 구글 픽셀 Z 프로는 고품질처럼 보이거나 생각해서 만든 것 같습니다. 훨씬 더 가치 있게 느껴진다. 설계 미학과 결합 일상생활에 적합합니다.
 
-- **[How enterprise PC platforms are evolving for security, AI, and IT scale | Intel](https://www.youtube.com/watch?v=7SeXK1uVdYk)** — 2026-03-25 · ko · `unclassified`
-  파브, 다시 얘기하게 돼서 정말 반가워. 와, 바로 지난 1월에 소비자 용 인텔 코어 울트라 시리즈 3 프로세서를 발표했었는데 말이죠 . 인텔 18A 아키텍처 기반의 첫 번째 플랫폼으로 , 루나 레이크의 효율성 과 애로우 레이크의 성능을 결합했습니다. 그리고 오늘부터 인텔 vPro [음악]가 탑재된 당사의 시리즈 3 프로세서가 Windows 11 상용 PC에서 사용 가능하게 되었음을 발표합니다 . 시리즈 3에 대한 수요가 매우 높고, 고객들은 Intel vPro와 Windows 11에서의 기능을 선보이게 되어 매우 기뻐하고 있습니다
+- **[Hass kennt keine Grenzen – auch online nicht](https://www.youtube.com/watch?v=GWeL-mP0-k4)** — 2025-08-28 · en · `unclassified`
+  Wow, it’s hard to believe what’s going on here! For example, this says: “Are you in it for the football or all you can f***?” under a post by Alisha Lehmann. Really, some people… It’s as if they don’t understand that they’re talking about a real person. Besides a lot of blatant sexism, the players also get racist comments. Many players’ Insta pages are now moderated, but on TikTok it feels like people can write whatever they want.
 
-- **[Lakeside and Intel deliver On-Device Intelligence to Address Issues Before They Disrupt Work | Intel](https://www.youtube.com/watch?v=5IvxR85tZlQ)** — 2026-03-25 · ko · `unclassified`
-  모든 기업에서 디지털 직원 경험은 IT 부서의 전략적 우선순위입니다 . 하지만 직원들은 여전히 업무를 방해하는 기기 문제, 속도가 느려지는 음악 시스템, 어색한 상호 작용 또는 예상대로 작동하지 않는 기기 문제를 겪고 있습니다. 이러한 문제들은 회의 중, 음악 관련 작업 중, 그리고 중요한 업무 수행 중에 사용자들이 즉시 느끼게 되며, IT 부서에서 이를 인지하기 전에 발생하는 경우가 많습니다. IT 부서에 알림이 갈 때쯤이면 사용자 경험은 이미 중단된 상태입니다.
+- **[Signature Moves](https://www.youtube.com/watch?v=gjdGE-HWAik)** — 2025-06-30 · ko · `unclassified`
+  르흐나치 나와 함께 가자. 미스터의 젊은 여성 사인 좀 부탁드려요. 예, 당연히. N 방향 오, 저와 함께 가시죠 [음악] 당신을 위한. 네, 통신원입니다. 안녕하세요 함께 할 수 있는 일을 알아보세요 놀다. 스위스 최고의 네트워크에서 이용 가능합니다. 음.
 
-- **[Powering Enterprise 3D Workflows with Adobe and Intel | Intel](https://www.youtube.com/watch?v=JFVrnXOxqak)** — 2026-03-25 · ko · `unclassified`
-  안녕하세요, 저는 저스틴 패튼이고 어도비에서 음악 및 3D 크리에이티브 디렉터로 일하고 있습니다. 저는 디지털 디자인 과 3D 워크플로우를 활용하여 제품, 경험, 아이디어를 현실로 구현하는 디자이너 및 크리에이티브 팀과 긴밀하게 협력합니다. 저는 유수의 게임 스튜디오, VFX 회사, 그리고 세계적인 기술 혁신 기업들과 3D 시각화 작업을 해왔으며, 제 창의력을 뒷받침할 최고의 하드웨어를 항상 찾고 있습니다. 이러한 워크플로가 점점 더 현실적이고 상호작용적으로 변함에 따라 소프트웨어와 하드웨어는 동기화 상태를 유지해야 합니다.
+- **[Unboxing e installazione del WLAN-Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=EyEeEeVNijU)** — 2025-06-25 · ko · `unclassified`
+  Volandbox 5 Pro는 기기입니다. 확장 기능을 추가할 수 있는 애드온 비행 신호 범위, 따라서 안정적이고 빠른 연결 집 전체. 볼란박스 5 프로 최신 Wi-Fi 7 표준을 지원합니다. 듀얼 밴드는 다음과 같은 기능을 원하는 사용자를 위해 설계되었습니다. 속도 면에서 최대치 신뢰할 수 있음. 이 제품은 모든 인터넷 박스와 호환됩니다. 2세대부터. 커튼봉은 최대 4개까지 설치할 수 있습니다. 동시에 상자도. 이 영상에서 이 제품의 특징을 보여드리겠습니다. 패키지에 포함되어 있으며 다음과 같습니다. 볼란트 박스를 설치하세요.
 
-- **[Secure AI with Intel Confidential Computing Technologies | Chips & Salsa | Intel](https://www.youtube.com/watch?v=eDzxYu0OAzg)** — 2026-03-25 · ko · `AX`
-  인텔의 보안에 대해 이야기하는 칩스 앤 살사에 다시 오신 것을 환영합니다. 저는 제리 브라이언트이고, 오늘은 사이먼 존슨 과 라구 옐루리가 함께합니다. 그리고 우리는 AI 워크로드를 엔드 투 엔드로 보호하기 위한 기밀 AI 및 인텔 솔루션에 대해 논의할 것입니다 . 만나서 반갑습니다. 여러분 모두 환영합니다. 시작하기 전에 각자 인텔에서 맡고 있는 역할과 그것이 기밀 AI와 어떻게 연결되는지 간략하게 소개해 주시겠어요? 좋아요, 그럼 제가 먼저 시작할게요. 음, 저는 인텔에서 기밀 컴퓨팅 기술 개발 조직을 총괄하는 책임자입니다
+- **[Unboxing e installazione del WLAN-Box 5 – Swisscom Help](https://www.youtube.com/watch?v=D7qTTmWFjuU)** — 2025-06-25 · ko · `unclassified`
+  Vouanbox 5는 기기입니다. 확장 기능을 추가할 수 있는 애드온 비행 신호 범위, 따라서 안정적이고 빠른 연결 집 전체. Vulanbox 5는 다음을 지원합니다. 최신 Wi-Fi 7 듀얼 밴드 표준, 최고를 원하는 사람들을 위해 설계되었습니다 속도와 신뢰성 측면에서. 이 제품은 모든 인터넷 박스와 호환됩니다. 2세대부터. 당신은 할 수 있습니다 볼란트 박스를 최대 4개까지 설치하세요. 동시에. 이 영상에서 당신은 패키지에 포함된 내용을 보여드리겠습니다. 플라이휠 박스 설치 방법. 패키지 안에는 다음이 들어 있습니다.
 
-- **[Intel 18A | Intel](https://www.youtube.com/watch?v=3rBe0h4c204)** — 2026-03-16 · ko · `unclassified`
-  차세대 컴퓨팅을 향한 끊임없는 노력의 일환으로, 인텔 파운드리는 18옹스트롬을 의미하는 인텔 18A 프로세스 노드를 선보입니다. 18A는 북미에서 완전히 설계 및 생산된 가장 진보된 노드입니다. [음악] 이 제품은 광범위한 IP, EDA 및 디자인 서비스 파트너 생태계의 지원을 받는 업계 최초의 기술 조합을 특징으로 합니다. 이 제품은 와트당 더 나은 성능과 향상된 면적 효율성을 제공하여 최고 수준의 성능을 요구하는 애플리케이션을 위한 새로운 컴퓨팅 아키텍처를 가능하게 합니다 . 이것이 바로 인텔 파운드리의 음악 제작 능력입니다
+- **[Unboxing et installation de la WLAN-Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=nZLdPvr8nuk)** — 2025-06-25 · ko · `unclassified`
+  Velan Box 5 Pro는 기기입니다. 추가로, 늘릴 수 있게 해줍니다. VLAN 신호의 범위를 설정하여 다음과 같이 사용할 수 있습니다. 인터넷을 최대한 즐길 수 있도록 안정적이며 모든 면에서 가장 빠릅니다. 집. VLAN Box 5 Pro는 다음을 사용합니다. 최신 WiFi 7 트라이밴드 표준 최고의 성능과 초고속 및 안정적인 벨란. 모든 것과 호환됩니다 인터넷 박스에서 제공하는 인터넷 박스 2. 최대 4개의 VBX를 설치할 수 있습니다. 이 영상에서 모든 것을 보여드리겠습니다.
 
-- **[Intel Foundry Omni MIM | Intel](https://www.youtube.com/watch?v=36ZHK3dIIfM)** — 2026-03-16 · ko · `unclassified`
-  [음악] 파워 스택의 하단에 위치한 Omni-MIM 커패시터는 온다이(on-die)에서 탁월한 [음악] 디커플링을 제공하여 성능을 향상시키고, 전압 변동을 줄여 전력 공급을 더욱 안정화합니다. Omni-MIM [음악]은 인텔 파운드리의 3D 고급 패키징 기술에 통합될 수도 있으며, [음악] 멀티칩렛 아키텍처에서 안정적이고 신뢰할 수 있는 전력을 더욱 구현합니다. [음악] 이것이 바로 인텔 파운드리의 힘입니다.
+- **[Unboxing et installation de la WLAN-Box 5 – Swisscom Help](https://www.youtube.com/watch?v=FUkvb6h-tlk)** — 2025-06-25 · ko · `unclassified`
+  벨란 박스 5는 기기입니다. 추가로, 늘릴 수 있게 해줍니다. Velan 신호의 범위는 다음과 같습니다. 빠른 인터넷 연결을 즐기세요 집 전체에 걸쳐 안정적입니다. 벨란 Box 5는 최신 WiFi 7 표준을 사용합니다. 요구 사항을 충족하기 위한 비본드 높고 초고속 벨란을 제공합니다 그리고 믿을 만하다. 호환됩니다 모든 인터넷 박스는 다음을 시작으로 합니다. 2세대 인터넷 박스. 그는 최대 4개까지 설치 가능합니다. 블랑크스. 이 영상에서 제가 보여드리겠습니다 배송에 포함된 모든 것 그리고 벨란 박스를 설치하는 방법입니다
 
-- **[Intel Foundry PowerVia | Intel](https://www.youtube.com/watch?v=OtAWftbX2Jk)** — 2026-03-16 · ko · `unclassified`
-  인텔 파운드리의 PowerV [음악] [음악]는 업계 최초로 후면 전력 공급 기술을 도입했습니다. 기존 방식에서는 전력이 다이의 전면을 통해 전달되어 혼잡을 초래합니다 . [음악] 신호 라우팅을 최적화할 수 있게 됩니다 . [음악]과 트랜지스터 레이어의 연결은 혁신적인 나노 TSV 또는 실리콘 [음악] 비아를 통해 이루어지는데, 이는 현재 사용되는 TSV보다 500배 더 작습니다 . 이것이 바로 인텔 파운드리의 음악적 힘입니다 .
+- **[Unboxing und Installation WLAN-Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=VTDU4wf3Jug)** — 2025-06-25 · ko · `unclassified`
+  WLAN Box 5 Pro는 다음과 같은 추가 등급을 제공합니다. Trichquan 신호 vi가 더 크므로 당신은 집 전체에서 가장 안정적이고 인터넷을 통해 얻을 수 있는 이점은 많습니다. WAN Box 5 Pro는 새로운 WiFi se를 사용합니다. 최고 수준의 운영 표준 초고속의 안정적인 성능을 보장합니다. 선택하다. 인터넷 박스와 호환됩니다 2세대부터. 최대 벽면 박스 4개를 설치하세요. 이 영상에서 저는 여러분께 무엇이 포함되어 있는지 보여드리겠습니다. 삶의 환경이 해빙되었고, 당신은 어떻게 할 수 있을까요? Nivelandbox를 설치합니다.
 
-- **[Intel Foundry RibbonFET | Intel](https://www.youtube.com/watch?v=t_YmVXB6veY)** — 2026-03-16 · ko · `unclassified`
-  [음악] 트랜지스터 기술의 혁명적인 도약인 리본 FET가 18A 공정에 적용되었습니다. 이 제품은 게이트 로 둘러싸인 리본 모양의 채널을 사용하여 모든 전압에서 더 나은 [음악] 제어 및 더 높은 구동 전류를 제공합니다 . 그 결과 트랜지스터 스위칭 속도가 빨라지고, 크기는 더 작아지면서 성능은 향상됩니다. [음악] 다양한 리본 FET 폭의 유연성을 통해 애플리케이션 전반에 걸쳐 전력 및 성능을 세밀하게 조정할 수 있습니다. 리본 FET와 파워비아의 놀라운 조합은 고성능 컴퓨팅, 인공지능, 모바일 및 네트워킹의 미래를 형성할 혁신의 길을 열어줍니다.
+- **[Unboxing und Installation WLAN-Box 5 – Swisscom Help](https://www.youtube.com/watch?v=6Euo1GmTlt0)** — 2025-06-25 · ko · `unclassified`
+  Wanbox 5는 다음과 같은 추가 등급입니다. 저기, 와니그날 앞에 있는 사람들처럼 부유한 사람들이 있어요. 크기가 커서 집에서 전부 사용할 수 있어요. 안정적이고 빠른 인터넷 혜택. Wanbox 5는 새로운 기능을 사용합니다. 최고 수준의 WiFi 실버 듀밴드 표준 속담은 초고속, 믿을 수 있다는 뜻입니다. 선택하다. 호환됩니다 2세대 이후의 인터넷 공유기. 너 와이파이 공유기는 최대 4대까지 설치할 수 있습니다. 이 영상에서 저는 여러분께 무엇이 포함되어 있는지 보여드리겠습니다. 포함된 내용과 사용 방법 Nivelanbox h를 설치하세요.
 
-- **[AI That Moves the World keynote | Intel](https://www.youtube.com/watch?v=JzZQTYCuxkM)** — 2026-03-10 · ko · `AX`
-  한순간이 모든 것을 바꿀 수 있다. [음악] 마찰이 점화로 이어진다. 작은 불꽃이 불을 붙인다. 삶은 현재와 미래의 음악 사이의 경계에서 펼쳐지기 때문입니다 . 인공지능이 물리적 세계 (음악)와 만나 새로운 기회를 창출하는 변곡점에 도달했습니다. 인류는 도시가 우리와 함께 움직이고, 병원이 모든 상호작용에서 음악을 통해 학습하고 , 공장이 변화에 자동으로 적응하며, 치명적인 오류가 발생하기 전에 예방되는 시대에 접어들었습니다. [음악] 이러한 기회를 잡으려면 이미 존재하는 것과 연결되고 제약 없이 혁신할 수 있는 개방형 플랫폼이 필요합니다 .
+- **[Discover your possibilities with AI](https://www.youtube.com/watch?v=TBtiSXnfTXk)** — 2025-06-22 · ko · `unclassified`
+  인공지능은 어디에나 있습니다. 문데는 언제나 A와 같을 것이다. 더 중요한 것. 나는 Z에 속해 있다 스님들, 저는 아직 그 정도로 훌륭해질 필요는 없어요. 함께 알아가고 발견하기 위해 나는 K와 함께라면 가능한 모든 것을 이뤘다. 실례지만, 여쭤봐도 될까요? 예. 인공지능이 필요하신가요? 아우아그? 저거 진짜 필요해. 저는 ~하고 싶습니다 제가 기꺼이 여러분께 이것으로 무엇을 할 수 있는지 보여드리겠습니다. 캔에서 나온 인공지능. 나는 아무것도 확신하지 못하겠어 한번 해보세요, 저희는 할 수 있습니다.
 
-- **[Intel Celebrates Engineers Week 2026 with STEM Activities in Schools | Intel](https://www.youtube.com/watch?v=t1DMeI0ygBY)** — 2026-03-05 · ko · `unclassified`
-  오늘은 여러 가지 색깔의 칩들을 같은 색깔끼리 분류해 볼 거예요. [음악] [음악] 그 다음엔 무슨 일이 일어날 것 같나요? [음악] 색깔별로 분류하고 크기별로 분류하고 있네요. 그건 아주 직관적이네요. [음악] 만일의 사태에 대비해서 떨어지지 않도록 보호막을 쳐야 해요. 자 , 그럼 이제 만들어 볼까요? 우리가 설득했어요. 파란색과 보라색은 빼고 빨간색만 남겨두기로 했죠. 오, 아주 좋네요. 그래서 우리는 가장 작은 것부터 가장 큰 음악까지 순서대로 진행했습니다.
+- **[DeepDive - Multimodal AI goes beyond Text and Images](https://www.youtube.com/watch?v=gKKCyOJ3aoQ)** — 2025-06-10 · en · `AX`
+  Once again, the new GPT-4o model is turning everything upside down. At the moment, two AI trends are exploding across social media. The so‑called starter packs, where personalities and their accessories are shown as action figures, and pictures in the style of the Japanese Studio Ghibli. Behind these trends lies GPT‑4o and a new technology that enables text creation and image editing with a simple prompt: multimodality.
 
-- **[Smarter deepfake detection to help you discern what's fake and what's real | Intel](https://www.youtube.com/watch?v=JJ33isdDBik)** — 2026-03-02 · ko · `unclassified`
-  안녕하세요. 저는 파파 베어예요. 아빠, 안녕. 그리고 이 집에서 저는 제가 일종의 보호자 역할을 한다고 생각해요. 아시다시피 , 제 일은 사람들의 배를 채워주고, 전기를 공급하고, 와이파이를 원활하게 유지하는 거예요 . [음악] 음, 그런데 최근에, 음, 최근에 저는 온라인에서 우리를 안전하게 지키는 것에 대해 많이 생각해 봤어요. 자, 이제 내 딸 크리시를 데려가세요. 그녀는 온라인에 자주 접속해요. 그녀는 현재 IT 기기에 상당히 능숙하지만, 최근에는 그녀조차도 온라인 사기에 휘말릴 뻔했습니다. 자, 여러분!
+- **[How AI Shapes Video Creations](https://www.youtube.com/watch?v=TWRnU0MpbZ8)** — 2025-05-20 · en · `unclassified`
+  What’s real and what isn’t? It’s getting more and more difficult to tell the difference. What AI is already capable of nowadays is really impressive. Today’s episode is about how AI videos are taking the internet by storm, how you can distinguish real content from fake content and how you can create AI videos yourself. I find it pretty impressive how far AI has come within the past year.
 
-- **[Lake Travis ISD Chromebook Plus Pilot Extended Cut | Intel | Google | Lenovo | SHI](https://www.youtube.com/watch?v=DyhXF1AVFpI)** — 2026-02-20 · ko · `unclassified`
-  [음악] 레이크 트래비스 독립 교육구는 텍사스주 오스틴에서 서쪽으로 약 20마일 떨어진 곳에 위치해 있습니다. 이 지역에는 약 11,000명의 음악 전공 학생들이 있습니다. 저희 시범 프로그램은 교사들을 위한 크롬북 기기 교체의 필요성에서 시작되었습니다 . 다행히 레노버가 나서서 " 새로운 레노버 크롬북 플러스가 나왔는데, 한번 구경해 보세요."라고 말했습니다. 모두가 가장 먼저 눈에 띈 것은 키보드였다. 인체 공학적으로 매우 뛰어나고 부팅 시간도 매우 짧았습니다. 그래서 저희는 아주 빠르게 작업에 착수할 수 있었고, 저희는 그 음악을 정말 좋아합니다.
+- **[Ein KI Märchen wird zum Buch](https://www.youtube.com/watch?v=gcrGUnSN5Dc)** — 2025-05-19 · ko · `unclassified`
+  그래서 H는 우르신으로 갈 거예요. [음악] 룰루. 아니요. 양말? 아니요. [음악] 공주님, 괴물들은 어디에 있을까요? [음악] 오랫동안 두려우세요? [음악] 괴물 공주 킹스 리프트는 괴물이 된다고 말합니다. 그녀의 일부 [음악] 나만의 괴물 공주를 꾸며보세요 최고의 네트워크에서 무엇을 할 수 있는지 알아보세요 스위스. 음.
 
-- **[Lake Travis ISD Chromebook Plus Pilot | Intel | Google | Lenovo | SHI](https://www.youtube.com/watch?v=noOFm_PCER0)** — 2026-02-20 · ko · `unclassified`
-  저희 시범 프로그램은 교사들을 위한 크롬북 기기 교체의 필요성에서 시작되었습니다 . 다행히 레노아가 나서서 "저희에게 인텔 코어 5 프로세서가 탑재된 최신형 레노버 크롬북 플러스가 있어요. 디자인도 훌륭하고 부팅 속도도 아주 빨라서 정말 마음에 들어요 ."라고 말했습니다. 레노버는 ALP, SHI, 구글, 그리고 인텔과 파트너십을 맺었습니다. 레이크 트래비스 교육구는 제가 업계 전반에서 본 가장 포괄적인 음악 관련 시범 사업일 것입니다. 그래서 시범 프로그램에 참여할 기회는 도움을 받을 수 있는 기회였습니다.
+- **[Swisscom: découvrez vos possibilités](https://www.youtube.com/watch?v=DINyQO82hlY)** — 2025-05-19 · ko · `unclassified`
+  그럼 오늘 밤은, 우르신, 읽어보셨나요? 아니요. 양말이요? 아니요. 공주가 되고 싶었던 괴물. 옛날 옛적 아주 먼 옛날에 오랜 시간 동안. 끔찍하고 거대하다. 그는 거기. 무서운. 무서워요. 무서워요. 나는 가지고 있다 두려움. [음악] 괴물 공주. "괴물이 된다는 건," 왕이 말하며 칼을 뜯어냈다. 그녀의 드레스 조각 [음악] 파란색. 당신만의 괴물 공주님. 여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크.
 
-- **[Google-Intel Joint TDX Security Review | Chips & Salsa | Intel](https://www.youtube.com/watch?v=_n6WDifszh8)** — 2026-02-10 · ko · `unclassified`
-  [음악] 칩스 앤 소스 인텔에 다시 오신 것을 환영합니다. 저는 제리입니다. 저는 프리야입니다. 오늘은 인텔이 발표한 2026년 2월 보안 권고 사항에 대한 업데이트를 공유하겠습니다. 네, 그렇습니다 . 이번 릴리스에는 여러 인텔 제품의 마이크로디스크 펌웨어 및 소프트웨어 업데이트와 관련된 18개의 보안 권고 사항이 포함되어 있습니다 . 제리, 중요한 건 바로 이거야. 이러한 문제의 97%는 인텔의 선제적 제품 보안 보증을 통해 발견되었습니다.
+- **[Swisscom – Scopri le tue possibilità](https://www.youtube.com/watch?v=Kf1oMCZOyiE)** — 2025-05-19 · ko · `unclassified`
+  우르신을 읽어보자. 엠 룰루, 핌파는 안 돼, 안 돼. 공주가 되고 싶었던 소녀 괴물. 옛날 옛날에 공주님이 살았습니다. 엄청난 '예'를 가진 괴물은 높은. 그것은 당신을 두렵게 합니다. 두려움, 두려움. [음악] 공주가 나타났다. 괴물이 되는 것이야말로 왕이 말했다. 그는 찢었다 조각 드레스. 여기 괴물 공주님이 있어요. 아빠, 최고의 방법으로 당신의 가능성을 발견하세요 스위스 네트워크. 아.
 
-- **[Easily level up your screen recordings anytime, anywhere with CANVID and Intel® Core™ Ultra | Intel​](https://www.youtube.com/watch?v=VToy5OX2a0c)** — 2026-02-02 · ko · `unclassified`
-  Canvas의 AI 기능을 사용하면 가상 공간에서 최고의 모습과 목소리를 연출하는 것이 훨씬 쉬워집니다. 트레이시를 만나보세요. 그녀는 학교 등하교와 고객 미팅으로 바쁜 하루를 앞두고 있음에도 불구하고, 고객을 위해 흥미진진한 매물 소개 영상을 제작하는 데 열정적입니다. [음악] 그녀는 Canvid 화면 녹화 및 합성 웹캠 기능을 사용하여 카메라 앞에 설 준비가 되어 있지 않더라도 자신의 작품에 생동감을 불어넣습니다. Canvid의 AI는 그녀가 이전에 녹화했던 영상 중 하나, 즉 몇 주 전에 그녀가 가장 보기 좋았던 모습이 담긴 영상(음악 포함)을 기반으로 새로운 웹캠 영상을 생성할 수 있습니다
+- **[3G Abschaltung - Swisscom Help](https://www.youtube.com/watch?v=QWh3MuEVF3w)** — 2025-03-18 · ko · `unclassified`
+  이 영상에서 저는 약물이 무엇인지 설명하겠습니다. Wom dit vorh wel gerad berührt sie였나요? 그리고 4G와 5G로의 전환 능숙하게 영상을 제작하면 다음과 같은 작업을 수행할 수 있습니다. 개별 챕터를 빨리 감기 F du no HF 특정 테마 이동통신망 장애는 기술적인 문제입니다. 신호 전송을 위한 인프라 모바일 통신은 다음과 같은 용도로 사용 가능합니다. Z 3G 4G 및 5G Z를 사용한 전송 표준 2021 2Z는 폐쇄되었으며 25로 이전될 예정입니다.
 
-- **[Core Ultra Series 3 Launch Event | Intel](https://www.youtube.com/watch?v=KlIlFt2Fj1c)** — 2026-01-06 · ko · `AX`
-  립 부안 최고경영자님을 환영해 주십시오 . 안녕하세요 여러분, CES에 오신 것을 환영합니다. 오늘 함께해 주셔서 감사합니다. 전 세계의 수많은 혁신가, 창작자, 고객 및 파트너들과 함께 이 자리에 있게 되어 영광입니다. 우리는 컴퓨팅의 개념이 재정의되는 시대를 살고 있습니다. AI는 클라우드에서 엣지에 이르기까지 모든 워크플로, 모든 산업 및 모든 장치를 재편하고 있습니다 . 인텔의 사명은 지능을 누구나 접근 가능하고 효율적이며 어디에서나 활용할 수 있도록 만드는 것입니다.
+- **[3G switch-off - Swisscom Help](https://www.youtube.com/watch?v=FWr1gql0IaY)** — 2025-03-18 · ko · `unclassified`
+  이 영상에서는 3G가 무엇인지, 스위스콤이 3G 네트워크를 어떻게 처리할 계획인지, 어떤 기기가 영향을 받는지, 그리고 4G 및 5G로 성공적으로 전환하는 방법을 설명합니다. 전체 영상을 시청하거나 특정 단계만 필요한 경우 해당 섹션으로 건너뛸 수 있습니다. 모바일 네트워크라는 용어는 모바일 통신 에서 신호 전송을 가능하게 하는 기술 인프라를 의미합니다. 2G, 3G, 4G, 5G와 같은 다양한 전송 표준이 있습니다. 스위스콤은 2021년에 2G 네트워크를 종료했으며, 2025년 말에는 스위스와 런던에서 3G 네트워크도 종료할 예정입니다.
 
-- **[Scaling AI in FMCG: Lessons from PepsiCo Labs | Intel](https://www.youtube.com/watch?v=4JMbBbOBF1I)** — 2025-12-03 · ko · `unclassified`
-  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 안나 파버입니다. 안나 파르바로프는 펩시코의 최첨단 기술 솔루션 활용을 총괄하고 있습니다. 펩시코의 글로벌 기술 벤처 및 혁신 팀의 일원으로서, 그녀는 펩시코의 성장을 촉진하고 가치를 창출하는 솔루션을 발굴, 테스트 및 확장합니다. 안나는 펩시코에 합류하기 전 이스라엘 최대 지주회사의 고위 임원을 역임했습니다. 안나는 기업 전략, 투자 및 기획 부문 책임자로서 회사의 신흥 성장 동력을 이끌었습니다
+- **[Disattivazione del 3G - Swisscom Help](https://www.youtube.com/watch?v=namrVKXVs0o)** — 2025-03-18 · ko · `unclassified`
+  이 영상에서는 3G가 무엇인지 설명하겠습니다. ISCOM에서 이 문제에 대해 어떤 조치를 취하실 계획입니까? 영향을 받는 기기와 해결 방법 4G로 성공적으로 전환했습니다. 5G를 사용하면 개별 설정으로 빠르게 전환할 수 있습니다. 도움이 필요하시면 비디오 챕터를 참조하세요. 단 한 단계만 제가 지정하는 휴대폰 네트워크는 다음과 같습니다. 기술 인프라 토니아에서의 신호 전송 모바일에는 다양한 표준이 있습니다. 2021년에 2G, 3G, 4G, 5G로 방송합니다. 스위스콤은 2G 네트워크를 비활성화했습니다. 2025년 말에는 또한 비활성화될 것입니다.
 
-- **[AI Industrialization: The Next Frontier for Global Enterprises | Intel](https://www.youtube.com/watch?v=fSadUMtpwcY)** — 2025-11-19 · ko · `AX`
-  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 토미 버키입니다. 오늘 저희와 함께하시는 그는 PMI의 기술 혁신 팀에서 AI 팩토리를 이끌고 계십니다. 토미는 PMI의 전사적 genai 전략을 이끄는 핵심 인물 중 한 명으로, 팀들이 분산된 파일럿 프로젝트에서 확장 가능하고 영향력 있는 솔루션으로 전환하도록 지원합니다. 그는 PMI의 AI 제공 모델 실행을 주도하며, 이 모델은 아이디어 구상 및 실험부터 산업화에 이르기까지 AI 사용 사례의 전체 수명 주기를 관리합니다 .
+- **[Désactivation de la 3G - Swisscom Help](https://www.youtube.com/watch?v=vEG24rPARlk)** — 2025-03-18 · ko · `unclassified`
+  이 영상에서는 제가 무엇을 설명하는지 보여드리겠습니다. 3G: 스위스컴이 3G를 어떻게 활용할 계획인가 어떤 기기들이 영향을 받나요? 4G로 성공적으로 전환하는 방법 5G에서는 동영상을 빨리 감을 수 있습니다. 각기 다른 챕터까지 살펴보세요. 한 단계만 도움이 필요합니다. 휴대폰 네트워크를 지정합니다. 기술 인프라입니다. 무선 신호 전송 기준은 다양합니다. 2G 및 3G와 같은 전송 방식 4G 및 5G: 스위스콤은 연결을 끊었습니다. 2021년에 2G 네트워크가 도입되면 사용이 중단될 예정입니다.
 
-- **[Semicon West Keynote | Intel](https://www.youtube.com/watch?v=wPJ-umSgON0)** — 2025-11-18 · ko · `unclassified`
-  열.열.
+- **[So richtest du Family Link ein](https://www.youtube.com/watch?v=CYSReO30Mpc)** — 2025-03-11 · en · `unclassified`
+  Your child has an Android smartphone. And you would like to actively influence screen time and the content they consume. Google offers its own solution for this, called Family Link. To do this, you have to do two things. First, you need to create a Google account for your child. And also own one yourself. Secondly, you can set screen time in the app, limit content, purchases and apps.
 
-- **[Intel Connectivity Performance Suite Experiences Video | Intel](https://www.youtube.com/watch?v=bLmgKBEIaZk)** — 2025-11-17 · ko · `unclassified`
-  인텔은 직원들이 생산성, 소통 및 협업을 극대화할 수 있도록 네트워크 연결을 최적화하는 간편하고 자동화된 방법을 제공합니다. 인텔 커넥티비티 퍼포먼스 스위트가 어떻게 지속적인 전문가 수준의 자동 연결 최적화를 통해 작업자 경험을 향상시키는지 자세히 살펴보겠습니다. 엠마를 소개합니다. 그녀는 제품 관리자인데, 이전에는 혼잡한 와이파이 연결에 음악 사용자가 너무 많아서 화상 회의에 문제가 생기곤 했습니다. 하지만 이제 인텔 커넥티비티 퍼포먼스 스위트 덕분에 그녀의 새 PC는 혼잡도가 낮은 연결에 자동으로 연결될 뿐만 아니라 음성 및 비디오 데이터의 우선순위를 높여 더 나은 협업을 지원합니다 .
+- **[Digitaler Kinderschutz mit blue Security](https://www.youtube.com/watch?v=4MOPo0gyJkM)** — 2025-02-25 · ko · `unclassified`
+  당신의 자녀는 디지털적으로 보호받고 있지만 당신은 그것이 바로 블루의 기능입니다. 보안 앱은 보안에 아주 적합합니다. h V 컨트롤 Rah 어린이 사용 de Video l wir 앱은 다음에서 작동합니다. 다양한 설치 보호 기능 아이야, 나는 아이의 GR에서 시작한다. 덧붙여 말하자면, 이 프로필이 바로 이 용도에 가장 적합합니다. 그래서 아이가 지금 당장 그것을 필요로 하는 것입니다. 내 보안 앱이나 구글 앱이 될까요?
 
-- **[Open Source, Talent, and Community: The Layers of Miami AI | Intel](https://www.youtube.com/watch?v=wZrOhvSNYwY)** — 2025-11-05 · ko · `AX`
-  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥귀건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 보르한 세븐입니다. 보르한은 기술 분야 경영인이자 커뮤니티 조성자로, 마이애미에 본사를 둔 2만 명 규모의 컨퍼런스 이자 연중 혁신 플랫폼인 이머지 아메리카(Emerge Americas)에서 인공지능 전략을 총괄하고 있습니다 . 최고 인공지능 책임자로서 그는 기업 수준의 이니셔티브를 주도하고 , 책임감 있는 인공지능 정책을 수립하며, 신흥 인공지능을 개발자, 투자자 및 정책 입안자를 위한 글로벌 연결 고리로 확장하고 있습니다
+- **[So begleitest du dein Kind im Netz](https://www.youtube.com/watch?v=PO6MVnQ4sn4)** — 2025-02-24 · en · `unclassified`
+  The internet is a cool thing, but with just a few clicks, kids and teens can also pretty easily come across content that isn't meant for them and scares them or doesn't understand it. In this video, we look together at what inappropriate content is available on the Internet, how you can best protect your child from it and what you can do if your child sees something they shouldn't see.
 
-- **[From Cloud Dependency to Local Intelligence: The Future of Accessible AI | Intel](https://www.youtube.com/watch?v=PIriUFKk_ac)** — 2025-10-29 · ko · `AX`
-  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥귀건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 브렌던 왕입니다. 브렌던은 온디바이스 AI를 빠르고 효율적이며 접근성 있게 만드는 응용 연구소인 Fluid Inference의 공동 창립자 겸 CEO입니다. LinkedIn, Amazon, Microsoft 및 Data Bricks의 연구원과 엔지니어로 구성된 팀은 AI 가속기를 사용하여 로컬 장치에서 실시간 워크로드를 위한 최신 기반 모델을 최적화하고 미세 조정하는 데 집중하고 있으며, 현재는 음성 AI( speechtotext, texttospech, VAD 및 화자 식별 포함)에 중점을 두고 있으며, 곧 비전 및 언어 모델로 확장할 예정입니다
+- **[So richtest du die Bildschirmzeit ein](https://www.youtube.com/watch?v=a9gQP1l4g9Y)** — 2025-02-24 · en · `unclassified`
+  You and your child both have an iPhone and you want to actively influence screen time and the content your child consumes In addition to clearly defined rules, you should also make sure that this works technically. To do this, you have to do two things. The first thing you need to do is create an Apple account for your child using your Apple account.
 
-- **[Intel Foundry and Intel 18A - Starting a new node in a new fab with Zivit Katz-Tsameret | Intel](https://www.youtube.com/watch?v=13JmG73VdC0)** — 2025-10-21 · ko · `unclassified`
-  새로운 공장을 시작하는 것은 완전히 새로운 일이며, 새로운 건설 공장을 짓는 것뿐만 아니라 새로운 기술을 도입하는 것 또한 매우 흥미로운 일입니다. 이번 프로젝트인 프로젝트 이글과 팹 52에서는 이 두 가지를 모두 경험할 수 있는 행운을 누렸습니다. 캠퍼스 뒤편의 넓은 공터에서 시작하여 공장을 건설하고, 빠르게 장비를 설치하고, 펀터 레이크 웨이퍼 생산을 시작할 준비를 했습니다. 음, 이런 점에서 환경은 분명히 매우 어려웠고, 우리는 그 상황에 잘 대처해야 했습니다.
+- **[Highlights: Das neue Samsung Galaxy S25 Ultra ist da](https://www.youtube.com/watch?v=-FiOsyZk3mg)** — 2025-02-13 · ko · `unclassified`
+  삼성 갤럭시 S2 울트라를 지금 구매하실 수 있습니다. 그리고 방금 반죽을 했는데 지금 보여드리고 있는 거예요 이제 하이라이트를 보여주세요 W m [음악] 작년 모델로 알려진 제품은 갤럭시 AI입니다. 삼성이 가진 가장 큰 장점은 예를 들어 출판된 검색하려면 동그라미를 치세요 물체 이미지 원형이며 그것들은 인터넷에 직접 나타납니다. 위치를 찾거나 전화로 문의하세요. 전화가 자동으로 말하는지 여부를 지원합니다. AI는 L V S25 모드를 번역하고 사용합니다. 새로운 기술에서 인공지능은 다시 한번 중심적인 역할을 합니다.
 
-- **[The Age of With: Rethinking Enterprise Strategy Through Agentic AI | Intel](https://www.youtube.com/watch?v=NgeYg6tyncs)** — 2025-10-15 · ko · `AX`
-  [음악] [박수] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 Bares Sesh입니다. 바레쉬는 디오이트의 기술, 미디어, 엔터테인먼트 및 통신(TMT) 산업 분야 AI 사업부의 글로벌 리더입니다. 그는 사려 깊은 리더로 인정받고 있으며, 업계 포럼, 출판물 및 행사에서 작가이자 연사로 자주 활동하고 있습니다. 그의 통찰력 있는 기여는 인공지능의 발전과 그것이 비즈니스, 기술 및 문화에 미치는 변혁적인 영향에 대한 담론을 형성하는 데 중요한 역할을 했습니다
+- **[Ungeeignete Inhalte: Gewaltdarstellungen im Netz](https://www.youtube.com/watch?v=tk0j27cbXhA)** — 2025-02-06 · ko · `unclassified`
+  전쟁과 마찬가지로, 내 피부 속의 전쟁은 나를 이렇게 만든다. 그 모습을 보면 너무 슬퍼요 어린이 또는 성인 얘들아, TE 에피소드로 가보자. 온라인에 집중하고 있으며, 저희도 참여하고 있습니다. 젊고 과장된 왕 그들은 더 독립적으로 움직입니다. 인터넷은 조만간... 예를 들어 다음과 같은 콘텐츠를 접하게 됩니다. 종족 전쟁 지역이나 배틀로얄 영상은 어떤 역할을 하나요? 함께 그리고 젊음 인터넷이 어딘가에 실제로 존재한다는 것 세계에서 진행되고 있는 연구 유니그 주전자 사람 땀 흘리는 행위는 마치 당신처럼 감정적인 부담감을 느끼게 합니다.
 
-- **[Redefining Edge Intelligence: Falcons.AI’s Vision for Fast, Secure, and Sustainable AI | Intel](https://www.youtube.com/watch?v=e3L-Wzn5k6w)** — 2025-10-08 · ko · `unclassified`
-  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 바비 스토더만입니다. 바비는 팔콘스 AI의 최고운영책임자(COO)입니다. 그녀는 금융과 데이터 과학 분야 모두에서 경력을 쌓은 다분야 전문가로, 10년 이상 엔터프라이즈급 기술 구현 경험을 보유하고 있습니다. 그녀는 기술 중심적인 사고방식을 바탕 으로 AI를 활용하여 사업 기회를 포착합니다. 바비, 인텔 AI에 오신 것을 환영합니다. 고마워, 헤더. 이곳에 오게 되어 기쁩니다.
+- **[Highlights Online Elternabende](https://www.youtube.com/watch?v=GpQC7Q2EmDQ)** — 2024-12-30 · ko · `unclassified`
+  하지만 모두 휴대폰에 대한 논의 아시죠? 스마트폰에 있는 번호로 sh에게 물어보세요. 휴대폰을 사용하기에 적절한 시기는 언제일까요? 아이의 발달을 최적화하는 방법에 대한 팁을 찾아보세요. 정확히 따라가세요 멍청하고 바로 그 이유 때문에 내가 그렇게 됐어 의료 역량 및 조직 kN Fr에서 언제 그런 일이 일어나나요? 그럼 아이는 네. 과학에는 보편적으로 타당한 것이 없다 휴대전화가 이미 있는 곳에서 아이에게 대답하세요. F반의 다른 부모님들은 15세 이전에 W입니다. 년 ih 아이에게 휴대전화를 사줘야 할까요, 말아야 할까요?
 
-- **[Agentic AI in Action: Transforming Health, Education, and Consumer Experiences | Intel](https://www.youtube.com/watch?v=5wlY9FcvRiE)** — 2025-10-01 · en · `AX`
-  Welcome to Intel on AI, the podcast that connects leaders with listeners. Today's guest is Stacy Shulman. Stacy Shulman is the vice president and GM of health, education and consumer industries at Intel. She leads the charge in growing the health, life sciences, education and consumer industries unit while exploring emerging technologies across various sectors. With over 25 years in the software and high tech industry.
+- **[Social Media: Fluch oder Segen für die mentale Gesundheit?](https://www.youtube.com/watch?v=XG554aEUs7w)** — 2024-11-27 · ko · `unclassified`
+  소셜 미디어는 정신 건강에 부정적인 영향을 미칩니다. 건강은 자기부담금으로 이어진다 젊은 남성들, 그리고 따라서 틱톡과 같은 플랫폼 또는 인스타그램, 정신 건강 벨루스는 그 점에 있어서 엄청나게 자신감이 넘칠 거예요. 아니 F 벨 헤이 메가 나이스 그건 좋아할 수 있어 커뮤니티에 대한 접근성이 매우 높고 제가 인스타그램에 있으니까, 뭐 그런 데서요. 손가락 그리고 그래서 커뮤니티라는 건, 솔직히 말해서 복잡한 문제예요. 그렇기 때문에 이곳이 바로 그 자리라는 것이 더욱 중요합니다.
 
-- **[Meet today’s standard for business PCs | Intel](https://www.youtube.com/watch?v=-V7WBpro43A)** — 2025-10-01 · en · `unclassified`
-  Heat.
+- **[Déballage et installation de l'Internet Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=HPXrd32FnrY)** — 2024-11-20 · ko · `unclassified`
+  Sisscom에서 InternetBX 5 Pro를 받으셨습니다. 저희 최고의 VLAN을 사용하면 가능합니다. 광섬유 연결과 호환 가능 이 새로운 인터넷 박스 5 프로는 다음과 같은 기능을 제공합니다. 최신 버전에는 다양한 새로운 기능이 있습니다. Wii VLAN 표준 7 (6GHz) 간섭을 최대 2배까지 최소화합니다. VLAN에서 최대 속도의 몇 배 최대 10GB 연결 최대 10 기기 사용 시 지연 시간이 훨씬 줄어듭니다. WiFi 7은 게임 등에 유용합니다...
 
-- **[Meet today’s standard for business PCs | Intel® Core™ Ultra 200V series processors | Intel](https://www.youtube.com/watch?v=jgG3ZMRYcq4)** — 2025-10-01 · ko · `unclassified`
-  열.열. [음악] 열기. 열.
+- **[Unboxing e installazione dell'Internet Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=kSSN3w-iBbY)** — 2024-11-20 · ko · `unclassified`
+  귀하는 인터넷 박스 5 프로를 다음으로부터 받으셨습니다. 스위스콤, 최고의 불란과 함께 연결과 호환됩니다 광섬유 네트워크 새로운 인터넷 박스 5 Pro 버전에는 최신 기능을 비롯한 다양한 새로운 기능이 포함되어 있습니다. Vulan 표준 WiFi 7 6GHz 간섭을 최소화합니다 최대 속도의 두 배로 최대 10개 연결을 위한 vulan GBS에서 최대 10배 낮은 지연 시간 제공 게임이나 기타 용도로 유용한 WiFi 7 기기 영상 통화 및 모드 선택적 에너지 절약 예를 들어, 전원을 끌 수 있게 해줍니다.
 
-- **[Inside the AI-Powered Workplace: How Intel Sees the Future of PCs and Workstations | Intel](https://www.youtube.com/watch?v=F-_ZQo52sTQ)** — 2025-09-24 · ko · `AX`
-  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥그리건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 제니퍼 라슨입니다. 젠은 현재 인텔의 클라이언트 컴퓨팅 그룹 내 상업 부문 조직의 총괄 관리자입니다. 그녀는 대기업, 정부기관, 중소기업, 교육기관을 대상으로 하는 세그먼트 전략 및 가치 창출과 이를 지원하는 상용 플랫폼 솔루션 개발을 담당하는 팀을 이끌고 있습니다 .
+- **[Unboxing und Installation Internet-Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=n_OrtQhIJF4)** — 2024-11-20 · ko · `unclassified`
+  you h swiscom internetbox 5 Pro with üem ~와 호환될 때 가장 좋습니다. 유리 물 뚜껑 새 인터넷 박스 5 Pro 버전은 새로운 WAN에서 제공하는 다양한 신기능을 제공합니다. 표준 WiFi 7(6GHz) V를 최소화하는 것은 최대 두 배까지 번거로울 수 있습니다. 최대 Wi-Fi 속도 최대 10기가비트/초의 속도로 연결하세요 WiFi 7°를 통해 최대 Z 저지연 지원 게임에 유용하거나 비디오아르 선택적 절전 모드 밤에 bispelsw 인터넷 박스 자동으로 꺼지고 AES는 K 단위로 표시됩니다.
 
-- **[AI PCs and the Future of Cybersecurity: AI-Powered Protection from Deepfakes | Intel](https://www.youtube.com/watch?v=GzFE6k-S3vA)** — 2025-09-15 · ko · `unclassified`
-  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 레나 엘리아스입니다. 레나는 Jen의 최고 제품 책임자이며, Jen은 Norton, Avast, Liflock, Money Lion 등 다양한 브랜드를 보유하고 있습니다. 그녀는 Gen에서 사이버 안전 사업을 이끌며 전 세계 5억 명이 넘는 고객에게 보안 및 개인정보 보호 솔루션을 제공합니다. 레나님, 인텔 AI에 오신 것을 환영합니다 . 감사합니다. 그래서 몇 가지 질문이 있습니다.
+- **[Sharenting und Pädophilie auf Instagram](https://www.youtube.com/watch?v=YFRS-y11xIQ)** — 2024-11-13 · ko · `unclassified`
+  안 돼 [음악] E와 함께 아니요 중요하지만 매우 좋지 않은 주제: 공유 그리고 인스타그램에서의 소아성애는 훨씬 더 오래된 역사를 가지고 있습니다. 사람들이 그렇게 생각하는 건 부당하다고 생각해요. 소아성애, 세균 V 또는 ~에서 다크네치, 하지만 그건 사실이 아니야, 그런 일은 일어나기도 해. 인스타그램에서 나는 세상 그 자체이며, 나는... 조사관과 함께 전문가님, 저는 나이 드신 분들이...라는 이야기를 들었습니다. 그리고 양육권을 가진 사람들 중 문제가 있는 사람들 kN 저는 소아성애자들도 좋아합니다.
 
-- **[From PoC to Production: How Lenovo Turns AI into Enterprise Impact | Intel](https://www.youtube.com/watch?v=JI9W8S_6QbY)** — 2025-09-10 · ko · `AX`
-  [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 데이비드 엘리슨입니다. 데이비드 엘리슨은 레노버 ISG의 최고 데이터 과학자이자 AI 엔지니어링 책임자입니다 . 그는 레노버의 미국 및 유럽 AI 연구 개발 센터를 통해 최첨단 AI 기술을 활용하여 외부 고객에게 솔루션을 제공하는 팀을 이끌고 있으며, 동시에 전 세계 인프라 솔루션 그룹의 전반적인 AI 전략을 내부적으로 지원하고 있습니다.
+- **[Swisscom Gaming - End of an Era](https://www.youtube.com/watch?v=RmpG6LcgH9I)** — 2024-10-12 · ko · `unclassified`
+  6년 전, 스위스콤은 하나의 목표를 세웠습니다. 최고의 게이머와 e스포츠를 찾아보세요 스위스의 인재들, 그것이 바로 우리가 가진 것입니다. 저는 그것이 이미 극단적인 상황이라는 것을 알게 되었습니다. 흥미진진한 시기였어요. 평범한 시기는 원하지 않았죠. 저희는 마케팅 캠페인을 진행하고 싶었습니다. 스위스 게임계는 정말 특별합니다. 이사를 하고 나서야 왜 이사를 해야 하는지에 대한 아이디어가 떠올랐습니다. 우리 스스로 e스포츠에 지나치게 빠져들지 맙시다. 모든 게이머가 자신의 실력을 증명할 수 있는 곳 그리고 가장 큰 무대에 서게 될 것입니다
 
-- **[Robotics at the Edge: Where AI Meets Real-World Automation | Intel](https://www.youtube.com/watch?v=DCFfva8Mm-c)** — 2025-09-03 · ko · `AX`
-  [음악] [박수] [음악] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 매튜 포미카입니다. 매튜 포미카는 16년 이상 인텔에서 근무한 경력이 있는 노련한 기술 경영인이자 사업 전략가로, 현재 인텔에서 엣지 제품 마케팅 및 AIPC 엣지 AI 소프트웨어 개발자 관계 담당 수석 이사로 재직하고 있습니다.
+- **[Swisscom Campus - (Fast) alles zu Medienkompetenz](https://www.youtube.com/watch?v=-OExYb2UDl0)** — 2024-09-19 · ko · `unclassified`
+  안녕하세요, 당신은 Marcel이고, 당신은 Wieken fchen입니다 그건 바로 제가 캠퍼스에서 궁금한 점이에요. 질문에 대한 답변: LFT가 어떻게 그 일을 하는지 알아보세요. 로밍 마르셀과 함께 랜드 베르스 인포수 캠퍼스 마르셀, 저는 인플루언서입니다.
 
-- **[AI for Accessibility: How Sorenson Is Advancing Inclusive Communication | Intel](https://www.youtube.com/watch?v=vx1g4xu5qMk)** — 2025-08-20 · ko · `unclassified`
-  [음악] 리더들이 함께 듣고 소통하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 오늘의 게스트는 마리암 라마니입니다. 마리암은 소렌 커뮤니케이션즈의 AI 부문 수석 이사입니다 . 그녀는 10년 이상 AI 기반 솔루션 제품 개발 및 소프트웨어 엔지니어링 분야에서 경험을 쌓아왔으며, 특히 청각 장애인과 비장애인 간의 의사소통 격차를 해소하는 혁신적인 AI 기반 솔루션 개발을 전문으로 합니다. 그녀는 네브래스카 대학교에서 박사 학위를 받았습니다. 그녀는 연구 과학자로서 대학들 과 협력하여 기술 프로젝트를 이끌고 있습니다
+- **[On-Device KI: Künstliche Intelligenz direkt auf deinem Gerät](https://www.youtube.com/watch?v=ejoSfdkDC_c)** — 2024-09-05 · en · `unclassified`
+  Most of you are familiar with AI tools like MidJourney or ChatGPT. But they all need an internet connection. Now there’s on-device AI. It is directly integrated on our devices and so doesn’t need an internet connection. Apple, Google, Samsung and Android are working flat out on new projects. The race for the best features is on. With on-device AI, the data is processed right on your phone.
 
-- **[Intel Foundry's non X86 reference SoC on Intel 18-A | Intel](https://www.youtube.com/watch?v=qoMFPTDGX_4)** — 2025-08-14 · ko · `unclassified`
-  제 이름은 셰릴 잉거슨이고 인텔 파운드리의 검증팀에서 근무하고 있습니다 . 오늘은 인텔 파운드리의 nonx86 레퍼런스 SOC인 인텔 18A를 소개합니다. 이 인텔 18A 레퍼런스 SOC는 7개의 코어로 구성되어 있습니다. 저희는 고성능 코어 1개, 전력 효율 최적화 코어 2개, 에너지 효율 코어 4개와 함께 PCIe 및 IPS 메모리 컨트롤러를 갖추고 있습니다 . 지금 우리가 보고 있는 것은 적절한 워크로드를 적절한 코스에서 실행하는 생생한 시연입니다. 저희는 여기 공연장에서 4K 비디오 스트리밍을 제공하고 있습니다
+- **[Wie funktionieren Bild-KIs?](https://www.youtube.com/watch?v=hyU21KaEalY)** — 2024-09-04 · ko · `AX`
+  그 해 이후로 2021년부터 K 기간트의 킬드제네이터 W 작년까지 개방된 것으로 추정됩니다. 총 150억 명의 어린이가 생겨났습니다. 큰 유용한 GT에도 불구하고 wde Viber는 비디오 g를 생성합니다. 간단히 설명드리겠습니다. 개요와 청소 방법을 알려드리겠습니다. 직접 우리는 B K 함수별로 활성화합니다. 소위 확산 모델로부터 한 아이를 상상해 본다. 제 아이는 그림을 많이 그려야 해요, 바체. g와 G는 동물을 부르는 이름입니다. 아이가 펜 사용법을 익힌 후에 반사된 이미지일까요? 이파소에게 물어보세요 원본과 똑같은 그림을 그리세요.
 
-- **[Intel Foundry Advanced Thermal Interface | Intel](https://www.youtube.com/watch?v=TldlBmlACa4)** — 2025-08-14 · en · `unclassified`
-  Hi, I'm Rajie Mongia. Um, I'm a thermal architect, which means my job is to try to figure out ways to get heat out of our packages and get them away from the chip. So, my work starts at the silicon level itself. The first thing that we try to do is we work with our architects.
+- **[Highlights: Das neue Google Pixel 9 Pro XL ist da](https://www.youtube.com/watch?v=NTgbZiv6dtg)** — 2024-08-21 · en · `unclassified`
+  This is the new Google Pixel 9 Pro XL. And I’m about to show you what this flagship device can do. The phone is powered by a Google Tensor G4 processor, which offers higher processing speeds and greater efficiency. The processor allows for AI features, better photos and videos and generally more support for your everyday life. According to Google, the battery lasts for up to 24 hours and up to 100 hours in Extreme Battery Saver mode.
 
-- **[Intel Foundry System Acceleration Services | Intel](https://www.youtube.com/watch?v=MQL7rSz4EqA)** — 2025-08-14 · ko · `unclassified`
-  안녕하세요, 제 이름은 브렛 펌블입니다. 저는 인텔 파운드리 시스템 가속 서비스 부문 부사장 겸 총괄 매니저입니다. 인텔 파운드리 고객을 위해 인텔이 30년 이상 축적해 온 시스템 설계, 아키텍처, 검증 및 레퍼런스 디자인 역량을 활용하고 있습니다. 즉, 인텔 파운드리에서 SOC를 개발하는 과정에서 해당 분야의 전문 지식을 활용하여 고객이 생산 시스템에 SOC를 쉽게 통합하고 시장 출시 시간을 단축할 수 있도록 지원받을 수 있다는 의미입니다.
+- **[Brauche ich einen VPN Service? - Swisscom Help](https://www.youtube.com/watch?v=HzC1uRE1V9M)** — 2024-07-12 · ko · `unclassified`
+  소셜 미디어를 정기적으로 사용한다면 아마 지금쯤 베르베비히를 지나고 계실 겁니다. VPN 서비스는 de에 유리한 것으로 여겨졌습니다. 인터넷에서 안전하게 이용하려면 클릭하세요 하지만 정말 그렇게 간단할까요? 이 영상은 wiepn이 어떻게 작동하는지 설명해 줍니다. VPN 팝업창이 뜨는 이유는 무엇인가요? 그리고 WV VPN은 타당합니다. 그녀는, 그게 뭐죠? VPN은 Virtual Private의 약자입니다. 네트워크 es VPN은 단지 시스템을 구현하는 것입니다. 개인용 휴대폰 및 컴퓨터와 같은 것들 그들이 사적으로 소통할 수 있도록 하기 위함입니다.
 
-- **[AI agents for the U.S. military | Intel](https://www.youtube.com/watch?v=jHBriPavdZI)** — 2025-08-12 · ko · `AX`
-  2017년에 저는 해외로 파견되었습니다. 가장 큰 어려움 중 하나는 우리가 왜 이런 방식으로 일을 하는가 하는 것이었습니다. 세 명의 다른 지도자에게 물어보면 세 가지 다른 답변을 얻게 됩니다. 네, 아니요, 아마도요. 우리는 전투 환경에서 효과적으로 작동하고 병사들에게 개인적인 도움을 줄 수 있는 더 나은 도구가 필요합니다 . 저희 에드거너는 네트워크 연결 없이 작동하는 AI 에이전트를 개발하고 있습니다 . 그래서 우리는 이러한 데이터 세트 안에 군사 교리를 포함시킬 것입니다.
+- **[Hate Speech & Cybermobbing: Gemeinsam für mehr Respekt im Netz](https://www.youtube.com/watch?v=gR0lJzTC1QI)** — 2024-06-17 · en · `unclassified`
+  Swisscom commercial, but none of the people in it who look Swiss. This is Switzerland. Time and again you come across hateful and offensive comments on the internet. It’s a huge problem. 29% of Swiss youth say they have been bullied online. For the victims, this can have severe consequences. Many struggle with depression and anxiety. The line between cyberbullying and hate speech is blurred.
 
-- **[Intel Security Advisories for August 2025 | Chips & Salsa | Intel](https://www.youtube.com/watch?v=9vdDW7xuyqc)** — 2025-08-12 · ko · `unclassified`
-  [박수] [음악] [박수] 인텔의 보안에 대해 이야기하는 칩스 앤 살사에 오신 것을 환영합니다. 저는 제리입니다. 저는 프리야입니다. 오늘은 인텔이 방금 발표한 35건의 보안 권고 사항에 대해 논의해 보겠습니다. 예. 펌웨어, 하드웨어 및 소프트웨어 범주에서 발견된 66개의 취약점을 다루는 35건의 권고 사항입니다. 이러한 문제의 70%는 내부적으로 발견되었으며, 버그 현상금 프로그램을 통해 보고된 문제를 포함하면 98%는 인텔의 선제적인 제품 보안 보장 노력의 결과입니다. 와, 좋은 소식이네요.
+- **[Bruno lüftet das Geheimnis der Trikotfarben](https://www.youtube.com/watch?v=nwJFhTjAIpI)** — 2024-06-13 · en · `unclassified`
+  The Swiss team now plays in blue &amp; white. I know why. Puma made the new jerseys. Swisscom colours. Can I help you? Blue, red, white. All jerseys in the Swisscom colours. I was in the same situation. I had to keep it a secret for 20 years that Swisscom is behind the slope colours at the Ski World Cup. OK. Now it’s happening again. Swisscom’s sponsoring the SFV, and poof!
 
-- **[Graph Technology Meets GenAI: A Neo4j Perspective | Intel](https://www.youtube.com/watch?v=7pdMtkezuVI)** — 2025-08-06 · ko · `AX`
-  리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 나 바하입니다. 니하스는 현재 네오4j에서 제품 마케팅 부사장으로 재직 중입니다. 그녀의 역할은 역동적인 팀을 이끌어 고객 여정에 맞춰 통합 마케팅 계획을 설계하고 실행함으로써 비즈니스 성장과 시장 성공을 가능하게 하는 것입니다. 그녀는 수요 창출 및 영업 지원 분야의 전문성을 활용하여 변화하는 고객 요구에 맞춰 Neo4j의 최첨단 솔루션을 포지셔닝하는 데 도움을 줍니다 .
+- **[Akanji, Elvedi und Sierro – wissen die 🇨🇭Fussballer mehr zu den neuen Trikotfarben?](https://www.youtube.com/watch?v=7Ur6AX6ohKQ)** — 2024-06-12 · en · `unclassified`
+  Hey, Bruno, give it up already. Blue, white, red – right when Swisscom becomes a partner. Funny theory. Jerseys in the Swisscom colours? Don’t worry, boys. I won’t tell anyone. Okay, I’ll tell you a secret: we’re going to win the title.
 
-- **[AI That Works: How Google Cloud Delivers Impact | Intel](https://www.youtube.com/watch?v=6u9xF_V4ZtU)** — 2025-07-23 · ko · `AX`
-  [음악] [박수] 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다. 제 이름은 헤더 맥위건이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 리아즈 하바파이입니다. 리아스는 구글 클라우드의 제품 마케팅 담당 이사입니다. 그는 제품 마케팅 및 가격 책정을 전문으로 하는 역동적인 팀을 이끌며 고객에게 탁월한 가치를 제공하고 상당한 성장을 견인합니다. 그의 임무는 고객 중심적이고, 데이터 기반이며, 협업이 활발한 세계 최고 수준의 제품 마케팅 조직을 육성하는 것입니다. 리아즈님, 인텔 AI에 오신 것을 환영합니다.
+- **[Die neuen Nati-Trikots in den offiziellen Swisscom Farben – alles nur Zufall?](https://www.youtube.com/watch?v=uoODCMLhOMo)** — 2024-06-11 · en · `unclassified`
+  Hey, have you seen the Swiss team’s new jerseys? All in the Swisscom colours. Somehow this seems familiar to me. I bet they have a hand in this. I know how Swisscom ticks with its marketing coups. Let’s go find out. I knew it. Ahem. Blue, white and red. Ah, Bruno, you’re one of a kind. Akanji knows me! Can I get an autograph? Yes. Are you ready? Always. Good.
 
-- **[Conversational Voice AI for Americana’s KFC Drive-Thru | Intel](https://www.youtube.com/watch?v=kv7kAJFNr7E)** — 2025-07-11 · ko · `unclassified`
-  [음악] 두바이 최초의 AI 기반 자동 주문 접수 시스템에 오신 것을 환영합니다 . 아메리카나는 지역에서 가장 바쁜 레스토랑들을 운영하고 있으며, 고객들은 드라이브 스루 주문 시 빠르고 신선하며 정확한 서비스를 기대합니다. 우리는 더 빠르고 원활한 경험을 제공할 수 있는 AI 기술을 찾고 있었습니다. KFC에 들러주셔서 감사합니다. 오늘은 무엇을 도와드릴까요? 저는 티 징가를 주문하고 싶습니다. 훌륭한 선택입니다. 더 큰 콤보 세트로 업그레이드하시겠습니까? 네, 부탁드립니다. 엄청난. 음료는 어떤 걸로 드릴까요 ? 다이어트 콜라 주세요.
+- **[Product Rating: Audio Devices](https://www.youtube.com/watch?v=z4q7-ZoAmJ0)** — 2024-05-28 · en · `unclassified`
+  Want to buy new headphones or a speaker but don’t know what to go for? This product rating was made for you. Hey yo, what’s up? I’m Joel. And today we’re talking audio tech. I’ll be testing the Sony 1000M5 headphones, the Marshall Motif headphones with Active Noise Cancelling and the UE Boom 3 speaker. Afterwards, I’ll be rating them using to the following categories: ‘Can’t live without’, ‘Recommend to friends’ and ‘Give to my parents’.
 
-- **[AI’s Next Frontier: Human Collaboration, Data Strategy, and Scale | Intel](https://www.youtube.com/watch?v=hFTRv3Va5IE)** — 2025-07-09 · ko · `AX`
-  [음악] 안녕하세요, 리더와 청취자를 연결하는 팟캐스트, 인텔 온 AI에 오신 것을 환영합니다 . 제 이름은 헤더 맥위건 이고, 여러분의 진행을 맡고 있습니다. 오늘의 게스트는 롬톤 다부입니다. 로몬은 액센추어와 인텔의 파트너십을 담당하는 CTO입니다. 그는 지난 11년 동안 그곳에서 AI 분야의 글로벌 서비스 개발을 주도해 왔으며 스스로를 기술 낙관주의자라고 소개합니다. AI 분야의 인텔 롬. 안녕하세요. 초대해 주셔서 감사합니다. 이제 당신은 다양한 산업 분야의 고객들이 AI를 도입하는 여정을 지원해 왔습니다.
+- **[Swisscom Sign Registrierung - Swisscom Help](https://www.youtube.com/watch?v=JPD1-oLpuM4)** — 2024-04-25 · ko · `unclassified`
+  문서 인쇄 그런 다음 보내세요 그리고 그것은 그다지 좋지 않다 지속 가능한 방법을 지금 보여드리겠습니다. 그 과정 스위스 SE를 이용하면 가장 효율적입니다. 그러니 회원가입 후 로그인하세요. 그를 위해 BR 앱 스마트폰 및 생체인식 통과 W 가능은 하지만, 시작하는 데 저보다 시간이 더 오래 걸릴 거예요. 스마트폰에서 스마트폰에서 Swisscom 앱을 열고 더 자세한 정보를 원하시면 swiscom se를 클릭하세요. 스위스콤은 언론에 사용됩니다. 지금 여기에 다시 등록하세요. 등록 여기서 발생한 발병으로 당신은 SS를 위해 포즈를 취합니다.
 
 ## Volvo Cars (72건)
 
@@ -5369,200 +5683,6 @@
 
 - **[Runway This Week | August 2](https://www.youtube.com/watch?v=BcZfUh8TOT4)** — 2025-08-02 · ko · `unclassified`
   안녕하세요, 니코입니다. 이번 주 런웨이에 오신 것을 환영합니다. 이번 주는 정말 흥미진진했어요. 저희는 Runway Aloof를 전 세계에 공개했습니다. Runway Aloof는 최첨단 모델로서 우리가 콘텐츠를 편집, 조작, 제작하는 방식을 완전히 바꿔놓을 것입니다 . 또한 오늘 ALF가 API에서 정식으로 서비스를 시작했다는 소식을 전하게 되어 기쁩니다. 이제 누구나 ALF를 자신의 앱, 제품, 플랫폼 및 웹사이트에 통합할 수 있습니다. ALF가 곧 모바일로 출시될 예정이라는 소식도 전해드립니다. 이번 주에는 조금 다른 방식으로 진행해 보겠습니다.
-
-## Swisscom (64건)
-
-- **[My Security - Überblick und Erklärung | Swisscom Help](https://www.youtube.com/watch?v=8MCEzoaVgCY)** — 2026-07-27 · ko · `unclassified`
-  아웃태그가 더욱 상호 연결될수록 더욱 똑똑해집니다. 가죽과 손잡이 자체는 조용할 것입니다. 오랫동안 지속되어 왔지만, 계속 진화하고 있습니다. me security와 함께라면 그 어느 때보다 빠릅니다. jetztcom은 모듈형 보안을 제공합니다. 내 필요를 유연하게 충족할 수 있도록 개발되었습니다. 이 영상에서 어떤 부분을 조절하는지 설명해 드리겠습니다. 저의 안전은 바로 그 개인이 원하는 것입니다. Variant bierte [음악]과 완전히 할 수 있는 방법 간단히 개요를 말씀드리겠습니다. 부분 보호 상태 내 보안은 새로운 모듈형 보안 포트폴리오 개인 고객을 위한 스위슨 개인 고객.
-
-- **[Highlights: Das neue Samsung Galaxy Z Fold8](https://www.youtube.com/watch?v=NMpLoBqUAc0)** — 2026-07-22 · ko · `unclassified`
-  더욱 강력해진 성능, 새로운 포맷, 그리고 향상된 품질. [음악] 사용자 경험, 그것이 바로 삼성입니다 갤럭시 ZFold 8 [음악] Janik Schaffe 스위스콤과 H의 새로운 ZF 8 및 돋보기 [음악] ZFFold 8은 라벤더 색상으로 제공됩니다. 개인적으로 저는 흑연과 크림색을 가지고 있습니다. 저는 라벤더 [음악]을 선택했어요. 제가 바로 알아차린 건 그것이 얼마나 얇은지였습니다. 4.5mm만큼 벌어진다는 것입니다. 0.7mm로 접이식 [음악]을 접을 수 있습니다. 품질이 매우 뛰어나다는 느낌이 듭니다. 치명적 타격 그리고 지금 우리는 이미 점령당했습니다
-
-- **[CT in giardino](https://www.youtube.com/watch?v=8-4l--Y5dm0)** — 2026-06-08 · ko · `unclassified`
-  만잠비가 프리킥을 찰 준비를 하고 있다. 그는 골대를 향해 곧바로 슛을 날리려고 할 것이다. 하지만 아니에요, 너무 멀어요. 그럼 당신이라면 어떻게 하시겠습니까? 저는 수비 뒤쪽에서 플레이할 겁니다. 최고의 환경에서 당신의 가능성을 발견하세요 스위스 네트워크. 밤빌리, 경이로운 구절입니다.
-
-- **[CT in giardino](https://www.youtube.com/watch?v=lzKKgbLBLA0)** — 2026-06-08 · ko · `unclassified`
-  그럼 당신이라면 어떻게 하시겠습니까? 저는 수비 뒤쪽에서 플레이할 겁니다. 최고의 환경에서 당신의 가능성을 발견하세요 스위스 네트워크.
-
-- **[CT in giardino](https://www.youtube.com/watch?v=pO4fLOqHct8)** — 2026-06-08 · ko · `unclassified`
-  응!
-
-- **[Coach en herbe](https://www.youtube.com/watch?v=Ycpk_NfVFe4)** — 2026-06-08 · ko · `unclassified`
-  [환호와 함성]
-
-- **[Coach en herbe](https://www.youtube.com/watch?v=onSvsqnTRJU)** — 2026-06-08 · ko · `unclassified`
-  어떻게 해야 할까요?
-
-- **[Coach en herbe](https://www.youtube.com/watch?v=wGKgPil4RTs)** — 2026-06-08 · ko · `unclassified`
-  이런! 마지막 프리킥 몬좀비에게 행운을 빌어요. 그는 직접 당겨볼 용기가 있으신가요? 아니요, 너무 멀어요. 어떻게 해야 할까요? 나는 저 멀리 담장 뒤에 숨어서 맹세하겠다. [음악] 여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크. 정말 예상치 못한 일이네요. 아.
-
-- **[Gartencoach](https://www.youtube.com/watch?v=EJZ-UKxSbic)** — 2026-06-08 · ko · `unclassified`
-  어떻게 하시겠습니까? 중요한 부분들은 나중에 찾아보겠습니다. 당신이 할 수 있는 일을 알아보세요. 스위스 최고의 네트워크에서 이용 가능합니다.
-
-- **[Gartencoach](https://www.youtube.com/watch?v=J3JOGO3J3w4)** — 2026-06-08 · ko · `unclassified`
-  잠비가 프리킥을 찰 준비가 됐나요? 한번 시도해 보세요 그것은 실제로 직접적인 것입니다. 아니요, 그건 하지만 두 가지. 어떻게 하시겠습니까? 모르겠습니다. 당신이 할 수 있는 일을 알아보세요. 최고의 네트워크에서 스위스. 훌륭한 P.
-
-- **[Gartencoach](https://www.youtube.com/watch?v=RZ3i9ocyu7k)** — 2026-06-08 · ko · `unclassified`
-  네, 정말 멋지네요.
-
-- **[Mano sul cuore](https://www.youtube.com/watch?v=nRdmCrpin60)** — 2026-06-08 · ko · `unclassified`
-  최고의 환경에서 당신의 가능성을 발견하세요 스위스 네트워크. 아.
-
-- **[Morgenrooot](https://www.youtube.com/watch?v=bMi_mZFVynE)** — 2026-06-08 · ko · `unclassified`
-  최고의 네트워크에서 무엇을 할 수 있는지 알아보세요 스위스.
-
-- **[Pausa dissetante](https://www.youtube.com/watch?v=etw9AbjmZFw)** — 2026-06-08 · ko · `unclassified`
-  하지만 이제는 때가 왔습니다 갈증을 해소하다. 최고의 환경에서 당신의 가능성을 발견하세요 스위스 네트워크. [웃음] 아.
-
-- **[Pause boisson](https://www.youtube.com/watch?v=vRlwaF60lMQ)** — 2026-06-08 · ko · `unclassified`
-  경기장 온도가 정말 높네요! 우리의 선수들은 분명 휴식을 받을 자격이 있다. 음료. 여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크.
-
-- **[Sur nos monts](https://www.youtube.com/watch?v=Og4fCRARTqU)** — 2026-06-08 · ko · `unclassified`
-  여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크.
-
-- **[Trinkpause](https://www.youtube.com/watch?v=geb7KIBrz5g)** — 2026-06-08 · ko · `unclassified`
-  하지만 지금은 음료수 마시면서 잠시 쉬어갈 시간이에요. 최고의 네트워크에서 무엇을 할 수 있는지 알아보세요 스위스.
-
-- **[Passwort Kompass](https://www.youtube.com/watch?v=ayzqP-6frgw)** — 2026-05-11 · ko · `unclassified`
-  그 회계사는 실제로 얼마나 유능한가? 비밀번호는 여전히 중요하지만, 훌륭한 대응책은 h 조각 위터로 이어집니다. 다행인 점은 보안 비용을 지불할 필요가 없다는 것입니다. 음악 전문가들은 대개 더 오랜 기간 동안 일해왔습니다. 간단하고, 터무니없고, 당신의 계정들 보안 강화; 아주 좋은 첫걸음입니다. 그렇다면 비밀번호 관리자인가요? 각 서비스마다 강력한 비밀번호를 설정해야 합니다. 생각해보면 아직 알아차리지 못했을 수도 있지만, 생각해 보면 그렇지 않다는 것을 알 수 있습니다. 일상생활에서는 그런 일이 정확히 그 자리에서 일어나는 경우는 거의 없습니다
-
-- **[KI-Risiken im Alltag](https://www.youtube.com/watch?v=KgHYuM9MmOs)** — 2026-05-04 · ko · `AX`
-  K는 이제 기회인가, 아니면 위험인가? 케이 그녀는 이메일을 보내고 사진을 찍었다. 홍보성 과시 및 문제 발생 고객이 그 문제를 해결하지만, 흥얼거려 보세요 [음악] 바로 이런 도구들이 당신을 틀리게 만들 수 있습니다. 수집되지 않은 정보 또는 일을 성사시키는 사람들 냉철하게 생각하세요. 사실 AI는 그렇지 않습니다. 단순히 좋거나 나쁘거나 하는 것이 아니라, 그들은 많은 것들을 더 빠르고 쉽게 만들어 줍니다. 더 자주 신뢰할 만하다. 그러므로 그것은 정확히 헤르츨, 가장 위대한 슈투퍼파우가 있는 곳 놓다.
-
-- **[Phishing im KI Zeitalter](https://www.youtube.com/watch?v=K0EhQ8Iq3ek)** — 2026-04-27 · ko · `unclassified`
-  Füre Kai Tools에서 낚시 및 스테로이드까지. 낚시는 새로운 것이 아니지만, 카이는 그것을 특별하게 만든다. 더 빠른, 슈퍼, 그리고 그 이상 더욱 개인적인. 메시지는 다음과 같습니다. 스팸, 그런데 정확히 어떻게, 어디서 스팸을 하는 걸까요? Vertegeschrieben은 바로 그 단어입니다. 예전에는 사람들이 낚시를 자주 가는 것이 문제였습니다. 어색하게 표현된 문구를 즉시 알아차린다. 의심스러운 이메일 h 푸시 K 도구 빠른 f 음색을 흉내 내고 연기하다 신뢰할 수 있는 gra DM, 이메일 또는 SMS는 가짜와 진짜를 구별하기 어렵다 우리는 최고의 비법과 그 방법을 알고 있습니다
-
-- **[Das kleine Cybersecurity 1×1: So schützt du dich im Internet](https://www.youtube.com/watch?v=AZ153x3YrTg)** — 2026-04-20 · ko · `unclassified`
-  그물낚시는 얼마나 안전할까요? 케이크를 파는 의심스러운 가게들 [한숨] 스트레스가 가라앉는 건 좋은 일이죠, 당신. 더 나은 보안을 위해서는 IT 관련 학위가 필요합니다. 좋은 사이버 습관은 그들이 wowohelm을 만듭니다 그리고 명확한 규제 기관이 뒤따릅니다. 도로 교통에서는 그런 일이 일어나지 않아요. 무적이지만 훨씬 더 우수함 Cyburity einm1이 당신에게 전달되도록 보호되었습니다. 지금 바로 활용할 수 있는 6가지 기본 사항 첫째, 당신은 Grz vi를 확신합니다. 모두가 알아봤지만, 지금은 어떻게 청소해야 하는지 잊어버렸어요.
-
-- **[Kids & KI - Chancen und Risiken | Online-Elternabend](https://www.youtube.com/watch?v=zNFVjqSv5rU)** — 2026-03-31 · ko · `AX`
-  eem 노인 온라인 커뮤니티에 오신 것을 환영합니다. 제목이 Kids와 K S인 더 오래된 것들 기회와 위험은 인위적으로 만들어진 것이다. 지능 K. 두 글자 Ees와 Wald Kstand를 내부로 변경했습니다. 아이는 아이이고 선물입니다. 당신이 말합니다 음성 비서와 함께 또는 그녀는 qu입니다 알고리즘이 있는 모든 피드 그들을 위해 자료를 모아두었습니다. 그건 질문이네요. 제게 있어서, 노인분들은 당연히... 아직 괜찮은 건가요? 똥이란 무엇인가요? 그렇다면 상황이 정말로 심각해지는 지점은 어디일까요? 어린이와 청소년을 위한 것입니다.
-
-- **[KI im Alltag von Kinder und Jugendlichen](https://www.youtube.com/watch?v=SoFnOITn7c8)** — 2026-03-11 · ko · `unclassified`
-  한 세대 전체가 그렇게 되면 무슨 일이 일어날까요? AI가 가르치나요? Ler James 포커스 연구 2025년까지 왕과 슈베드쇼 AI 도구의 청소년. 12세에서 13세 사이의 [음악] 약 53%이며 18세에서 19세 청년층에서는 그 비율이 80%를 넘습니다. [음악] 한 세대 전체가 가르치고 있습니다 연구 및 구조 음악의 도움으로 이미 일상생활이 풍요로워졌습니다. K 이전과 h folge는 sch older 및 비유적인 표현입니다. 이 연구는 AI [음악]을 명확하게 보여줍니다. 주로 학교 교육 목적으로 사용됩니다.
-
-- **[Highlights: Das neue Samsung Galaxy S26 Ultra ist da](https://www.youtube.com/watch?v=yj3nhsdfKcI)** — 2026-02-26 · ko · `unclassified`
-  이것은 삼성 갤럭시 S26 울트라입니다. 삼성은 해당 기기가 단지...라고 약속합니다. 더 빠른 카메라 또는 더 특별한 카메라 뒷면에 지지되는 것들이지만 가져오는 것들 저걸 보고 계신 건가요, 아니면 다음 걸 보고 계신 건가요? [음악] 롱 디어의 업데이트 저는 야니크이고 스위스콤에서 근무합니다. 그리고 H 로그 삼성 갤럭시 S26 울트라 A 삼성의 최신 플래그십 모델 그 해. 갤럭시 S26 울트라는 4점을 줬습니다. 다양한 색상, 검정색, 하늘색 및 개인적으로 가장 좋아하는 색은 코발트 바이올렛입니다.
-
-- **[Deine Zukunft ruft an? Geh ran.](https://www.youtube.com/watch?v=wkg5XIKCVLI)** — 2025-12-01 · en · `unclassified`
-  YOUR FUTURE Hey, stand up! It's your future here. Look, you can forge your own path. Even if it has a few detours. You can embark on a new journey. And build something wonderful. So: When your future calls ... ... – pick up.
-
-- **[Highlights Online Elternabend: Cybersecurity](https://www.youtube.com/watch?v=zvCnlRuzaWs)** — 2025-11-26 · ko · `unclassified`
-  가짜, 사기, 악랄한 속임수 인터넷과 아이가 그 안에 앉아 있는 것처럼 인터넷에서 더 보기: 온라인 부모 보호 하지만 전문가와 함께라면 더 자세히 알 수 있습니다. 기기에 대한 정보와 가장 흥미로운 점은 다음과 같습니다. 잠깐, 돈과 관련된 위험 요소들이 있잖아. abzlucken은 위험한 곳입니다. 개인 데이터 비용을 지불하다 사기, 부정 계획, 온라인 쇼핑몰 하나 또는 그 장소 어디에 어디에 데이터, 개인 데이터, 그 위험성 사이버모바일입니다 온라인은 다양한 가능성을 제공합니다.
-
-- **[Fakes, Scams & fiese Tricks – Online-Elternabend zu Gefahren im Netz](https://www.youtube.com/watch?v=Sw6WVtwSCY8)** — 2025-11-04 · ko · `unclassified`
-  아이는 아는 것이 거의 없었지만, 달려가서 드리블하며 골을 넣었다. 그 앞의 네트워크는 전체의 85%를 앞서고 있습니다. 스위스 사람들은 확신한다 밝히다 더 나이가 많고 [음악]이라는 제목의 스위스 인구의 3분의 1은 그보다 나이가 많습니다. 그들이 현재 자신들의 [음악]에 몰두하고 있다고 느낀다. 온라인상에서 아이들을 제대로 보호하는 것은 불가능합니다. 스위스에서는 매 두 번째 K마다 이미 그렇습니다. 이미 위험한 온라인 상황 [음악] 위에 낚시하러 가는 건가요, 해킹하러 가는 건가요, 아니면 가짜 프로필을 만들러 가는 건가요?
-
-- **[Wenn Chats zu Albträumen werden – Cybergrooming und Sextortion](https://www.youtube.com/watch?v=3Jx0SVyver0)** — 2025-10-22 · ko · `unclassified`
-  십 대 직전의 아이와 거의 같습니다. 스위스 사람들, 온라인에서 성관계를 해본 적 있나요? 이전보다 28% 더 많은 괴롭힘을 당했습니다. 2014년 제임스 포커스 연구 (2022년 이전) 그녀의 치아 경첩에 관한 실제 이야기 사이버 사기의 명확한 메커니즘 및 성착취 사이버그로밍은 성인을 대상으로 기도합니다 채팅, 소셜 미디어 등을 통해 온라인으로 검색하세요. 게임은 특히 왕과의 접촉을 목표로 합니다. 칭찬이나 말로 십대들을 대하는 방법 이해, 미끼, 그리고 나중에 대한 신뢰 사적인 질문을 하거나 심지어 만나기도 합니다.
-
-- **[DeepDive: Sicherheit im Netz - Passkeys und MFA](https://www.youtube.com/watch?v=ltqQp7MmLfo)** — 2025-09-10 · en · `unclassified`
-  Few pages are as iconic as this one. The login form is about 30 years old. Despite improved security on the web, the "password system" still remains vulnerable to cyberattacks. These days, we can do better. Namely with multi-factor authentication, for short: MFA, and Passkeys. Accounts with MFA or Passkeys are at least 120 times better protected against cyberattacks. On top of that: Phishing attacks in Switzerland are currently doubling every year.
-
-- **[Google Pixel 10 Pro: Dein smarter Begleiter](https://www.youtube.com/watch?v=J57lHjR8vu0)** — 2025-09-10 · ko · `unclassified`
-  이것은 일반적인 언박싱 영상입니다. [음악] 이것이 바로 구글로 할 수 있는 일의 핵심입니다. Pixel Z Pro는 불편함을 느낄 때 사용하기 쉽습니다. 이제는 일상생활에 새로운 것들을 더할 때입니다. 지지할 뿐만 아니라 영감을 주기도 합니다. 그건 얀, 너한테 딱 맞아! 그리고 구글 픽셀 [음악] 첫 번째 인쇄본 에델. 구글 픽셀 Z 프로는 고품질처럼 보이거나 생각해서 만든 것 같습니다. 훨씬 더 가치 있게 느껴진다. 설계 미학과 결합 일상생활에 적합합니다.
-
-- **[Hass kennt keine Grenzen – auch online nicht](https://www.youtube.com/watch?v=GWeL-mP0-k4)** — 2025-08-28 · en · `unclassified`
-  Wow, it’s hard to believe what’s going on here! For example, this says: “Are you in it for the football or all you can f***?” under a post by Alisha Lehmann. Really, some people… It’s as if they don’t understand that they’re talking about a real person. Besides a lot of blatant sexism, the players also get racist comments. Many players’ Insta pages are now moderated, but on TikTok it feels like people can write whatever they want.
-
-- **[Signature Moves](https://www.youtube.com/watch?v=gjdGE-HWAik)** — 2025-06-30 · ko · `unclassified`
-  르흐나치 나와 함께 가자. 미스터의 젊은 여성 사인 좀 부탁드려요. 예, 당연히. N 방향 오, 저와 함께 가시죠 [음악] 당신을 위한. 네, 통신원입니다. 안녕하세요 함께 할 수 있는 일을 알아보세요 놀다. 스위스 최고의 네트워크에서 이용 가능합니다. 음.
-
-- **[Unboxing e installazione del WLAN-Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=EyEeEeVNijU)** — 2025-06-25 · ko · `unclassified`
-  Volandbox 5 Pro는 기기입니다. 확장 기능을 추가할 수 있는 애드온 비행 신호 범위, 따라서 안정적이고 빠른 연결 집 전체. 볼란박스 5 프로 최신 Wi-Fi 7 표준을 지원합니다. 듀얼 밴드는 다음과 같은 기능을 원하는 사용자를 위해 설계되었습니다. 속도 면에서 최대치 신뢰할 수 있음. 이 제품은 모든 인터넷 박스와 호환됩니다. 2세대부터. 커튼봉은 최대 4개까지 설치할 수 있습니다. 동시에 상자도. 이 영상에서 이 제품의 특징을 보여드리겠습니다. 패키지에 포함되어 있으며 다음과 같습니다. 볼란트 박스를 설치하세요.
-
-- **[Unboxing e installazione del WLAN-Box 5 – Swisscom Help](https://www.youtube.com/watch?v=D7qTTmWFjuU)** — 2025-06-25 · ko · `unclassified`
-  Vouanbox 5는 기기입니다. 확장 기능을 추가할 수 있는 애드온 비행 신호 범위, 따라서 안정적이고 빠른 연결 집 전체. Vulanbox 5는 다음을 지원합니다. 최신 Wi-Fi 7 듀얼 밴드 표준, 최고를 원하는 사람들을 위해 설계되었습니다 속도와 신뢰성 측면에서. 이 제품은 모든 인터넷 박스와 호환됩니다. 2세대부터. 당신은 할 수 있습니다 볼란트 박스를 최대 4개까지 설치하세요. 동시에. 이 영상에서 당신은 패키지에 포함된 내용을 보여드리겠습니다. 플라이휠 박스 설치 방법. 패키지 안에는 다음이 들어 있습니다.
-
-- **[Unboxing et installation de la WLAN-Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=nZLdPvr8nuk)** — 2025-06-25 · ko · `unclassified`
-  Velan Box 5 Pro는 기기입니다. 추가로, 늘릴 수 있게 해줍니다. VLAN 신호의 범위를 설정하여 다음과 같이 사용할 수 있습니다. 인터넷을 최대한 즐길 수 있도록 안정적이며 모든 면에서 가장 빠릅니다. 집. VLAN Box 5 Pro는 다음을 사용합니다. 최신 WiFi 7 트라이밴드 표준 최고의 성능과 초고속 및 안정적인 벨란. 모든 것과 호환됩니다 인터넷 박스에서 제공하는 인터넷 박스 2. 최대 4개의 VBX를 설치할 수 있습니다. 이 영상에서 모든 것을 보여드리겠습니다.
-
-- **[Unboxing et installation de la WLAN-Box 5 – Swisscom Help](https://www.youtube.com/watch?v=FUkvb6h-tlk)** — 2025-06-25 · ko · `unclassified`
-  벨란 박스 5는 기기입니다. 추가로, 늘릴 수 있게 해줍니다. Velan 신호의 범위는 다음과 같습니다. 빠른 인터넷 연결을 즐기세요 집 전체에 걸쳐 안정적입니다. 벨란 Box 5는 최신 WiFi 7 표준을 사용합니다. 요구 사항을 충족하기 위한 비본드 높고 초고속 벨란을 제공합니다 그리고 믿을 만하다. 호환됩니다 모든 인터넷 박스는 다음을 시작으로 합니다. 2세대 인터넷 박스. 그는 최대 4개까지 설치 가능합니다. 블랑크스. 이 영상에서 제가 보여드리겠습니다 배송에 포함된 모든 것 그리고 벨란 박스를 설치하는 방법입니다
-
-- **[Unboxing und Installation WLAN-Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=VTDU4wf3Jug)** — 2025-06-25 · ko · `unclassified`
-  WLAN Box 5 Pro는 다음과 같은 추가 등급을 제공합니다. Trichquan 신호 vi가 더 크므로 당신은 집 전체에서 가장 안정적이고 인터넷을 통해 얻을 수 있는 이점은 많습니다. WAN Box 5 Pro는 새로운 WiFi se를 사용합니다. 최고 수준의 운영 표준 초고속의 안정적인 성능을 보장합니다. 선택하다. 인터넷 박스와 호환됩니다 2세대부터. 최대 벽면 박스 4개를 설치하세요. 이 영상에서 저는 여러분께 무엇이 포함되어 있는지 보여드리겠습니다. 삶의 환경이 해빙되었고, 당신은 어떻게 할 수 있을까요? Nivelandbox를 설치합니다.
-
-- **[Unboxing und Installation WLAN-Box 5 – Swisscom Help](https://www.youtube.com/watch?v=6Euo1GmTlt0)** — 2025-06-25 · ko · `unclassified`
-  Wanbox 5는 다음과 같은 추가 등급입니다. 저기, 와니그날 앞에 있는 사람들처럼 부유한 사람들이 있어요. 크기가 커서 집에서 전부 사용할 수 있어요. 안정적이고 빠른 인터넷 혜택. Wanbox 5는 새로운 기능을 사용합니다. 최고 수준의 WiFi 실버 듀밴드 표준 속담은 초고속, 믿을 수 있다는 뜻입니다. 선택하다. 호환됩니다 2세대 이후의 인터넷 공유기. 너 와이파이 공유기는 최대 4대까지 설치할 수 있습니다. 이 영상에서 저는 여러분께 무엇이 포함되어 있는지 보여드리겠습니다. 포함된 내용과 사용 방법 Nivelanbox h를 설치하세요.
-
-- **[Discover your possibilities with AI](https://www.youtube.com/watch?v=TBtiSXnfTXk)** — 2025-06-22 · ko · `unclassified`
-  인공지능은 어디에나 있습니다. 문데는 언제나 A와 같을 것이다. 더 중요한 것. 나는 Z에 속해 있다 스님들, 저는 아직 그 정도로 훌륭해질 필요는 없어요. 함께 알아가고 발견하기 위해 나는 K와 함께라면 가능한 모든 것을 이뤘다. 실례지만, 여쭤봐도 될까요? 예. 인공지능이 필요하신가요? 아우아그? 저거 진짜 필요해. 저는 ~하고 싶습니다 제가 기꺼이 여러분께 이것으로 무엇을 할 수 있는지 보여드리겠습니다. 캔에서 나온 인공지능. 나는 아무것도 확신하지 못하겠어 한번 해보세요, 저희는 할 수 있습니다.
-
-- **[DeepDive - Multimodal AI goes beyond Text and Images](https://www.youtube.com/watch?v=gKKCyOJ3aoQ)** — 2025-06-10 · en · `AX`
-  Once again, the new GPT-4o model is turning everything upside down. At the moment, two AI trends are exploding across social media. The so‑called starter packs, where personalities and their accessories are shown as action figures, and pictures in the style of the Japanese Studio Ghibli. Behind these trends lies GPT‑4o and a new technology that enables text creation and image editing with a simple prompt: multimodality.
-
-- **[How AI Shapes Video Creations](https://www.youtube.com/watch?v=TWRnU0MpbZ8)** — 2025-05-20 · en · `unclassified`
-  What’s real and what isn’t? It’s getting more and more difficult to tell the difference. What AI is already capable of nowadays is really impressive. Today’s episode is about how AI videos are taking the internet by storm, how you can distinguish real content from fake content and how you can create AI videos yourself. I find it pretty impressive how far AI has come within the past year.
-
-- **[Ein KI Märchen wird zum Buch](https://www.youtube.com/watch?v=gcrGUnSN5Dc)** — 2025-05-19 · ko · `unclassified`
-  그래서 H는 우르신으로 갈 거예요. [음악] 룰루. 아니요. 양말? 아니요. [음악] 공주님, 괴물들은 어디에 있을까요? [음악] 오랫동안 두려우세요? [음악] 괴물 공주 킹스 리프트는 괴물이 된다고 말합니다. 그녀의 일부 [음악] 나만의 괴물 공주를 꾸며보세요 최고의 네트워크에서 무엇을 할 수 있는지 알아보세요 스위스. 음.
-
-- **[Swisscom: découvrez vos possibilités](https://www.youtube.com/watch?v=DINyQO82hlY)** — 2025-05-19 · ko · `unclassified`
-  그럼 오늘 밤은, 우르신, 읽어보셨나요? 아니요. 양말이요? 아니요. 공주가 되고 싶었던 괴물. 옛날 옛적 아주 먼 옛날에 오랜 시간 동안. 끔찍하고 거대하다. 그는 거기. 무서운. 무서워요. 무서워요. 나는 가지고 있다 두려움. [음악] 괴물 공주. "괴물이 된다는 건," 왕이 말하며 칼을 뜯어냈다. 그녀의 드레스 조각 [음악] 파란색. 당신만의 괴물 공주님. 여러분의 가능성을 발견해 보세요 스위스 최고의 네트워크.
-
-- **[Swisscom – Scopri le tue possibilità](https://www.youtube.com/watch?v=Kf1oMCZOyiE)** — 2025-05-19 · ko · `unclassified`
-  우르신을 읽어보자. 엠 룰루, 핌파는 안 돼, 안 돼. 공주가 되고 싶었던 소녀 괴물. 옛날 옛날에 공주님이 살았습니다. 엄청난 '예'를 가진 괴물은 높은. 그것은 당신을 두렵게 합니다. 두려움, 두려움. [음악] 공주가 나타났다. 괴물이 되는 것이야말로 왕이 말했다. 그는 찢었다 조각 드레스. 여기 괴물 공주님이 있어요. 아빠, 최고의 방법으로 당신의 가능성을 발견하세요 스위스 네트워크. 아.
-
-- **[3G Abschaltung - Swisscom Help](https://www.youtube.com/watch?v=QWh3MuEVF3w)** — 2025-03-18 · ko · `unclassified`
-  이 영상에서 저는 약물이 무엇인지 설명하겠습니다. Wom dit vorh wel gerad berührt sie였나요? 그리고 4G와 5G로의 전환 능숙하게 영상을 제작하면 다음과 같은 작업을 수행할 수 있습니다. 개별 챕터를 빨리 감기 F du no HF 특정 테마 이동통신망 장애는 기술적인 문제입니다. 신호 전송을 위한 인프라 모바일 통신은 다음과 같은 용도로 사용 가능합니다. Z 3G 4G 및 5G Z를 사용한 전송 표준 2021 2Z는 폐쇄되었으며 25로 이전될 예정입니다.
-
-- **[3G switch-off - Swisscom Help](https://www.youtube.com/watch?v=FWr1gql0IaY)** — 2025-03-18 · ko · `unclassified`
-  이 영상에서는 3G가 무엇인지, 스위스콤이 3G 네트워크를 어떻게 처리할 계획인지, 어떤 기기가 영향을 받는지, 그리고 4G 및 5G로 성공적으로 전환하는 방법을 설명합니다. 전체 영상을 시청하거나 특정 단계만 필요한 경우 해당 섹션으로 건너뛸 수 있습니다. 모바일 네트워크라는 용어는 모바일 통신 에서 신호 전송을 가능하게 하는 기술 인프라를 의미합니다. 2G, 3G, 4G, 5G와 같은 다양한 전송 표준이 있습니다. 스위스콤은 2021년에 2G 네트워크를 종료했으며, 2025년 말에는 스위스와 런던에서 3G 네트워크도 종료할 예정입니다.
-
-- **[Disattivazione del 3G - Swisscom Help](https://www.youtube.com/watch?v=namrVKXVs0o)** — 2025-03-18 · ko · `unclassified`
-  이 영상에서는 3G가 무엇인지 설명하겠습니다. ISCOM에서 이 문제에 대해 어떤 조치를 취하실 계획입니까? 영향을 받는 기기와 해결 방법 4G로 성공적으로 전환했습니다. 5G를 사용하면 개별 설정으로 빠르게 전환할 수 있습니다. 도움이 필요하시면 비디오 챕터를 참조하세요. 단 한 단계만 제가 지정하는 휴대폰 네트워크는 다음과 같습니다. 기술 인프라 토니아에서의 신호 전송 모바일에는 다양한 표준이 있습니다. 2021년에 2G, 3G, 4G, 5G로 방송합니다. 스위스콤은 2G 네트워크를 비활성화했습니다. 2025년 말에는 또한 비활성화될 것입니다.
-
-- **[Désactivation de la 3G - Swisscom Help](https://www.youtube.com/watch?v=vEG24rPARlk)** — 2025-03-18 · ko · `unclassified`
-  이 영상에서는 제가 무엇을 설명하는지 보여드리겠습니다. 3G: 스위스컴이 3G를 어떻게 활용할 계획인가 어떤 기기들이 영향을 받나요? 4G로 성공적으로 전환하는 방법 5G에서는 동영상을 빨리 감을 수 있습니다. 각기 다른 챕터까지 살펴보세요. 한 단계만 도움이 필요합니다. 휴대폰 네트워크를 지정합니다. 기술 인프라입니다. 무선 신호 전송 기준은 다양합니다. 2G 및 3G와 같은 전송 방식 4G 및 5G: 스위스콤은 연결을 끊었습니다. 2021년에 2G 네트워크가 도입되면 사용이 중단될 예정입니다.
-
-- **[So richtest du Family Link ein](https://www.youtube.com/watch?v=CYSReO30Mpc)** — 2025-03-11 · en · `unclassified`
-  Your child has an Android smartphone. And you would like to actively influence screen time and the content they consume. Google offers its own solution for this, called Family Link. To do this, you have to do two things. First, you need to create a Google account for your child. And also own one yourself. Secondly, you can set screen time in the app, limit content, purchases and apps.
-
-- **[Digitaler Kinderschutz mit blue Security](https://www.youtube.com/watch?v=4MOPo0gyJkM)** — 2025-02-25 · ko · `unclassified`
-  당신의 자녀는 디지털적으로 보호받고 있지만 당신은 그것이 바로 블루의 기능입니다. 보안 앱은 보안에 아주 적합합니다. h V 컨트롤 Rah 어린이 사용 de Video l wir 앱은 다음에서 작동합니다. 다양한 설치 보호 기능 아이야, 나는 아이의 GR에서 시작한다. 덧붙여 말하자면, 이 프로필이 바로 이 용도에 가장 적합합니다. 그래서 아이가 지금 당장 그것을 필요로 하는 것입니다. 내 보안 앱이나 구글 앱이 될까요?
-
-- **[So begleitest du dein Kind im Netz](https://www.youtube.com/watch?v=PO6MVnQ4sn4)** — 2025-02-24 · en · `unclassified`
-  The internet is a cool thing, but with just a few clicks, kids and teens can also pretty easily come across content that isn't meant for them and scares them or doesn't understand it. In this video, we look together at what inappropriate content is available on the Internet, how you can best protect your child from it and what you can do if your child sees something they shouldn't see.
-
-- **[So richtest du die Bildschirmzeit ein](https://www.youtube.com/watch?v=a9gQP1l4g9Y)** — 2025-02-24 · en · `unclassified`
-  You and your child both have an iPhone and you want to actively influence screen time and the content your child consumes In addition to clearly defined rules, you should also make sure that this works technically. To do this, you have to do two things. The first thing you need to do is create an Apple account for your child using your Apple account.
-
-- **[Highlights: Das neue Samsung Galaxy S25 Ultra ist da](https://www.youtube.com/watch?v=-FiOsyZk3mg)** — 2025-02-13 · ko · `unclassified`
-  삼성 갤럭시 S2 울트라를 지금 구매하실 수 있습니다. 그리고 방금 반죽을 했는데 지금 보여드리고 있는 거예요 이제 하이라이트를 보여주세요 W m [음악] 작년 모델로 알려진 제품은 갤럭시 AI입니다. 삼성이 가진 가장 큰 장점은 예를 들어 출판된 검색하려면 동그라미를 치세요 물체 이미지 원형이며 그것들은 인터넷에 직접 나타납니다. 위치를 찾거나 전화로 문의하세요. 전화가 자동으로 말하는지 여부를 지원합니다. AI는 L V S25 모드를 번역하고 사용합니다. 새로운 기술에서 인공지능은 다시 한번 중심적인 역할을 합니다.
-
-- **[Ungeeignete Inhalte: Gewaltdarstellungen im Netz](https://www.youtube.com/watch?v=tk0j27cbXhA)** — 2025-02-06 · ko · `unclassified`
-  전쟁과 마찬가지로, 내 피부 속의 전쟁은 나를 이렇게 만든다. 그 모습을 보면 너무 슬퍼요 어린이 또는 성인 얘들아, TE 에피소드로 가보자. 온라인에 집중하고 있으며, 저희도 참여하고 있습니다. 젊고 과장된 왕 그들은 더 독립적으로 움직입니다. 인터넷은 조만간... 예를 들어 다음과 같은 콘텐츠를 접하게 됩니다. 종족 전쟁 지역이나 배틀로얄 영상은 어떤 역할을 하나요? 함께 그리고 젊음 인터넷이 어딘가에 실제로 존재한다는 것 세계에서 진행되고 있는 연구 유니그 주전자 사람 땀 흘리는 행위는 마치 당신처럼 감정적인 부담감을 느끼게 합니다.
-
-- **[Highlights Online Elternabende](https://www.youtube.com/watch?v=GpQC7Q2EmDQ)** — 2024-12-30 · ko · `unclassified`
-  하지만 모두 휴대폰에 대한 논의 아시죠? 스마트폰에 있는 번호로 sh에게 물어보세요. 휴대폰을 사용하기에 적절한 시기는 언제일까요? 아이의 발달을 최적화하는 방법에 대한 팁을 찾아보세요. 정확히 따라가세요 멍청하고 바로 그 이유 때문에 내가 그렇게 됐어 의료 역량 및 조직 kN Fr에서 언제 그런 일이 일어나나요? 그럼 아이는 네. 과학에는 보편적으로 타당한 것이 없다 휴대전화가 이미 있는 곳에서 아이에게 대답하세요. F반의 다른 부모님들은 15세 이전에 W입니다. 년 ih 아이에게 휴대전화를 사줘야 할까요, 말아야 할까요?
-
-- **[Social Media: Fluch oder Segen für die mentale Gesundheit?](https://www.youtube.com/watch?v=XG554aEUs7w)** — 2024-11-27 · ko · `unclassified`
-  소셜 미디어는 정신 건강에 부정적인 영향을 미칩니다. 건강은 자기부담금으로 이어진다 젊은 남성들, 그리고 따라서 틱톡과 같은 플랫폼 또는 인스타그램, 정신 건강 벨루스는 그 점에 있어서 엄청나게 자신감이 넘칠 거예요. 아니 F 벨 헤이 메가 나이스 그건 좋아할 수 있어 커뮤니티에 대한 접근성이 매우 높고 제가 인스타그램에 있으니까, 뭐 그런 데서요. 손가락 그리고 그래서 커뮤니티라는 건, 솔직히 말해서 복잡한 문제예요. 그렇기 때문에 이곳이 바로 그 자리라는 것이 더욱 중요합니다.
-
-- **[Déballage et installation de l'Internet Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=HPXrd32FnrY)** — 2024-11-20 · ko · `unclassified`
-  Sisscom에서 InternetBX 5 Pro를 받으셨습니다. 저희 최고의 VLAN을 사용하면 가능합니다. 광섬유 연결과 호환 가능 이 새로운 인터넷 박스 5 프로는 다음과 같은 기능을 제공합니다. 최신 버전에는 다양한 새로운 기능이 있습니다. Wii VLAN 표준 7 (6GHz) 간섭을 최대 2배까지 최소화합니다. VLAN에서 최대 속도의 몇 배 최대 10GB 연결 최대 10 기기 사용 시 지연 시간이 훨씬 줄어듭니다. WiFi 7은 게임 등에 유용합니다...
-
-- **[Unboxing e installazione dell'Internet Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=kSSN3w-iBbY)** — 2024-11-20 · ko · `unclassified`
-  귀하는 인터넷 박스 5 프로를 다음으로부터 받으셨습니다. 스위스콤, 최고의 불란과 함께 연결과 호환됩니다 광섬유 네트워크 새로운 인터넷 박스 5 Pro 버전에는 최신 기능을 비롯한 다양한 새로운 기능이 포함되어 있습니다. Vulan 표준 WiFi 7 6GHz 간섭을 최소화합니다 최대 속도의 두 배로 최대 10개 연결을 위한 vulan GBS에서 최대 10배 낮은 지연 시간 제공 게임이나 기타 용도로 유용한 WiFi 7 기기 영상 통화 및 모드 선택적 에너지 절약 예를 들어, 전원을 끌 수 있게 해줍니다.
-
-- **[Unboxing und Installation Internet-Box 5 Pro – Swisscom Help](https://www.youtube.com/watch?v=n_OrtQhIJF4)** — 2024-11-20 · ko · `unclassified`
-  you h swiscom internetbox 5 Pro with üem ~와 호환될 때 가장 좋습니다. 유리 물 뚜껑 새 인터넷 박스 5 Pro 버전은 새로운 WAN에서 제공하는 다양한 신기능을 제공합니다. 표준 WiFi 7(6GHz) V를 최소화하는 것은 최대 두 배까지 번거로울 수 있습니다. 최대 Wi-Fi 속도 최대 10기가비트/초의 속도로 연결하세요 WiFi 7°를 통해 최대 Z 저지연 지원 게임에 유용하거나 비디오아르 선택적 절전 모드 밤에 bispelsw 인터넷 박스 자동으로 꺼지고 AES는 K 단위로 표시됩니다.
-
-- **[Sharenting und Pädophilie auf Instagram](https://www.youtube.com/watch?v=YFRS-y11xIQ)** — 2024-11-13 · ko · `unclassified`
-  안 돼 [음악] E와 함께 아니요 중요하지만 매우 좋지 않은 주제: 공유 그리고 인스타그램에서의 소아성애는 훨씬 더 오래된 역사를 가지고 있습니다. 사람들이 그렇게 생각하는 건 부당하다고 생각해요. 소아성애, 세균 V 또는 ~에서 다크네치, 하지만 그건 사실이 아니야, 그런 일은 일어나기도 해. 인스타그램에서 나는 세상 그 자체이며, 나는... 조사관과 함께 전문가님, 저는 나이 드신 분들이...라는 이야기를 들었습니다. 그리고 양육권을 가진 사람들 중 문제가 있는 사람들 kN 저는 소아성애자들도 좋아합니다.
-
-- **[Swisscom Gaming - End of an Era](https://www.youtube.com/watch?v=RmpG6LcgH9I)** — 2024-10-12 · ko · `unclassified`
-  6년 전, 스위스콤은 하나의 목표를 세웠습니다. 최고의 게이머와 e스포츠를 찾아보세요 스위스의 인재들, 그것이 바로 우리가 가진 것입니다. 저는 그것이 이미 극단적인 상황이라는 것을 알게 되었습니다. 흥미진진한 시기였어요. 평범한 시기는 원하지 않았죠. 저희는 마케팅 캠페인을 진행하고 싶었습니다. 스위스 게임계는 정말 특별합니다. 이사를 하고 나서야 왜 이사를 해야 하는지에 대한 아이디어가 떠올랐습니다. 우리 스스로 e스포츠에 지나치게 빠져들지 맙시다. 모든 게이머가 자신의 실력을 증명할 수 있는 곳 그리고 가장 큰 무대에 서게 될 것입니다
-
-- **[Swisscom Campus - (Fast) alles zu Medienkompetenz](https://www.youtube.com/watch?v=-OExYb2UDl0)** — 2024-09-19 · ko · `unclassified`
-  안녕하세요, 당신은 Marcel이고, 당신은 Wieken fchen입니다 그건 바로 제가 캠퍼스에서 궁금한 점이에요. 질문에 대한 답변: LFT가 어떻게 그 일을 하는지 알아보세요. 로밍 마르셀과 함께 랜드 베르스 인포수 캠퍼스 마르셀, 저는 인플루언서입니다.
-
-- **[On-Device KI: Künstliche Intelligenz direkt auf deinem Gerät](https://www.youtube.com/watch?v=ejoSfdkDC_c)** — 2024-09-05 · en · `unclassified`
-  Most of you are familiar with AI tools like MidJourney or ChatGPT. But they all need an internet connection. Now there’s on-device AI. It is directly integrated on our devices and so doesn’t need an internet connection. Apple, Google, Samsung and Android are working flat out on new projects. The race for the best features is on. With on-device AI, the data is processed right on your phone.
-
-- **[Wie funktionieren Bild-KIs?](https://www.youtube.com/watch?v=hyU21KaEalY)** — 2024-09-04 · ko · `AX`
-  그 해 이후로 2021년부터 K 기간트의 킬드제네이터 W 작년까지 개방된 것으로 추정됩니다. 총 150억 명의 어린이가 생겨났습니다. 큰 유용한 GT에도 불구하고 wde Viber는 비디오 g를 생성합니다. 간단히 설명드리겠습니다. 개요와 청소 방법을 알려드리겠습니다. 직접 우리는 B K 함수별로 활성화합니다. 소위 확산 모델로부터 한 아이를 상상해 본다. 제 아이는 그림을 많이 그려야 해요, 바체. g와 G는 동물을 부르는 이름입니다. 아이가 펜 사용법을 익힌 후에 반사된 이미지일까요? 이파소에게 물어보세요 원본과 똑같은 그림을 그리세요.
 
 ## Zoox (64건)
 
@@ -12908,6 +13028,56 @@
 - **[Giving AI agents visibility into SQL Server with MCP | Data Exposed MVP Edition](https://www.youtube.com/watch?v=tLAfkruOOWo)** — 2026-06-30 · ko · `AX`
   안녕하세요, 저는 안나 호프만입니다. Data Exposed MVP 에디션에 다시 오신 것을 환영합니다. 오늘은 앤서니 씨가 함께해 주셨습니다. 앤서니, 방송에 출연해 주셔서 정말 감사합니다. MCP 서버와 SQL에 대한 흥미진진한 이야기를 시작하기 전에, 당신과 당신의 하시는 일에 대해 좀 더 자세히 알고 싶습니다 . 시원한. 안녕하세요 여러분, 저는 앤서니 노센티노입니다. 저는 Everport Everpure(이전 이름은 Pure Storage)에서 현장 솔루션 아키텍트로 근무하고 있습니다. 저는 고객들과 협력하여 SQL Server 솔루션이 저희 플랫폼에서 완벽하게 작동하도록 지원하는 업무를 맡고 있습니다
 
+## Vertiv (16건)
+
+- **[Transforming Defense Education | UPNM Malaysia Case Study](https://www.youtube.com/watch?v=JOBbZ2auQP0)** — 2026-07-27 · ko · `unclassified`
+  말레이시아 바타나 국립대학교(UPNM )는 UPM30 전략 계획을 통해 국방 안보 및 국가 회복력 분야의 미래 지도자를 양성하는 데 전념하는 말레이시아 최고의 국방 대학입니다 . 본 대학은 학문적 우수성, 리더십 개발, 국방 관련 연구 및 디지털 혁신을 통합함으로써 국방 음악 교육 분야의 선도적 기관으로서의 역할을 강화하는 것을 목표로 삼았습니다. 기존 데이터 센터는 증가하는 학술 시스템, 관리 플랫폼 및 보안 [음악] 관련 애플리케이션을 지원하기 위해 [음악]이 필요했습니다.
+
+- **[AI infrastructure, built as one system | Vertiv™ SmartIT for Enterprise](https://www.youtube.com/watch?v=fMruTHAXZpE)** — 2026-07-24 · ko · `unclassified`
+  기업의 인공지능(AI)에 대한 수요는 급속도로 증가하고 있습니다. 하지만 공간과 시간적 제약이 있습니다. 오늘날의 상업 환경이 변화에 적응하려면 전력, 냉각 및 제어를 체계적으로 결합해야 합니다 . Verdiff Smart IT는 컴퓨팅을 둘러싼 AI 지원 인프라를 하나의 통합 솔루션으로 제공하며, 검증을 거쳐 단일 랙부터 여러 랙에 이르기까지 즉시 배포할 수 있도록 준비되어 있습니다. 모듈식 단계로 AI 컴퓨팅 기능을 확장하세요 . 동일한 아키텍처, 동일한 검증 방식입니다. 아무것도 재설계되지 않았습니다.
+
+- **[The 800 VDC shift starts at the rack](https://www.youtube.com/watch?v=WR89JOwnf_Y)** — 2026-07-22 · ko · `unclassified`
+  어젯밤에 받은 질문들을 바탕으로 추측해 보면 , 모두가 기다려온 반전은 아마도 부하측에서 무슨 일이 벌어지는가 하는 것일 겁니다. 그리고 이 이야기는 랙의 DC 전원이 포드의 DC 전원으로 바뀌는 것에 관한 것입니다. 우리는 용량과 밀도에 대해 이야기했습니다 . 우리는 이제 물리적 한계에 다다르고 있습니다. 랙 레벨 에서 약 350~400킬로와트 정도의 출력을 달성하거나 도달하게 되면 , 커넥터 크기, 버스 바, 상호 연결, 그리고 구리선을 통해 전달해야 하는 물리적인 전력량 등을 고려할 때 공간이 부족해집니다.
+
+- **[AI infrastructure built to accelerate your next data center deployment](https://www.youtube.com/watch?v=0WQJDqkxuko)** — 2026-07-21 · ko · `unclassified`
+  AI가 IT 운영 전략의 중심이 되면서 , 관련 분야는 더욱 전문화되고 고도로 통합되고 있습니다. 물리적 인프라가 IT 랙에 더욱 가까워짐에 따라, 사전 설계된 솔루션은 데이터 센터 운영자가 배포 속도를 높이고 유통을 최적화하는 데 도움이 됩니다. Vertiv는 이미 고객들이 이러한 새로운 AI 애플리케이션을 위한 유연하고 목적에 맞는 인프라를 설계할 수 있도록 지원하고 있습니다 . 데이터센터 구축 속도를 높이고 확장성을 향상시키는 방법을 알아보세요. 지금 바로 Vertiv에 문의하세요.
+
+- **[AI procurement: turn speed into a competitive advantage](https://www.youtube.com/watch?v=gasJkYt_0us)** — 2026-07-21 · ko · `unclassified`
+  인공지능 경쟁에서 구매 행동은 단순히 비용에만 초점을 맞추는 것이 아닙니다. 경쟁 모드를 구축하는 것에 관한 것입니다. IT 공급업체들은 기존 솔루션의 한계를 넘어 차별화, 공급망 확보, 경쟁력 강화를 위해 수직적으로 통합된 아키텍처를 설계하고 있습니다. 글로벌 네트워크 와 포괄적인 포트폴리오를 갖춘 Vertiv는 이러한 전략을 실현하는 데 있어 독보적인 위치를 차지하고 있습니다 . [음악] 조달 전략을 경쟁 우위로 전환할 준비가 되셨습니까 ? 오늘 저희에게 연락하세요 .
+
+- **[High-density AI infrastructure engineered for 100 kW AI racks](https://www.youtube.com/watch?v=vPwNh97bv1Q)** — 2026-07-21 · ko · `unclassified`
+  AI 및 HPC에 대한 수요 증가로 랙 밀도가 100kW를 넘어서고 있습니다. 적절한 기술이 없으면 기존 데이터 센터는 수요를 따라잡을 수 없습니다. 기존의 기반 시설만으로는 더 이상 충분하지 않습니다. 급증하는 AI 수요를 지원하려면 랙, 고밀도 전력 분배 시스템 및 액체 냉각 시스템이 필요합니다. Vertiv는 더 작은 공간에서 더 높은 밀도를 제공하는 솔루션을 통해 고객이 효율적으로 확장할 수 있도록 지원합니다. 귀사의 데이터센터는 극한의 고밀도 환경에 대비할 준비가 되어 있습니까?
+
+- **[The physics driving the shift to 800 VDC](https://www.youtube.com/watch?v=NiHG5JPM04A)** — 2026-07-17 · ko · `unclassified`
+  오늘날의 GPU는 AC 전원을 입력받아 작동합니다. 랙 레벨에서 50볼트 DC로 변환된 후, GB200, GB300 등 사용하시는 GPU 모델에서 원하는 성능을 발휘합니다. 그리고 랙 밀도 관점에서 이 점을 강조했습니다. 오늘 우리는 개척지에서 140킬로와트의 출력을 내고 있습니다 . 우리는 200W와 240W로 빠르게 나아가고 있습니다. 머지않아 600W까지 도달할 것으로 예상하며, 1 메가와트가 넘는 랙에 대해서도 논의하고 있습니다. 싱글 와이드든 더블 와이드든, 랙의 프로필을 어떻게 선택하든 간에, 간단히 말해서 우리는 이제 물리적 한계에 근접하는 밀도를 목격하고 있습니다
+
+- **[Vertiv™ Infrastructure Solutions Masterclass 2026](https://www.youtube.com/watch?v=5M-y4JzZfow)** — 2026-07-17 · ko · `unclassified`
+  [음악] 이러한 행사는 컨설턴트와 파트너들에게 최신 기술을 교육하는 데 매우 중요합니다. 이는 고객을 위한 음악 솔루션을 구상하는 데 도움이 됩니다. 당사는 더욱 혁신적인 솔루션과 점점 더 높아지는 컴퓨팅 성능 및 밀도를 지원하는 새로운 제품을 출시함에 따라 AI 데이터 센터 구축 시장에서 엄청난 성장을 지속적으로 목격하고 있습니다 . 저는 버티브가 이 문제에 있어서 신뢰할 수 있는 조언자 역할을 한다고 생각합니다. 저희는 여러분이 GPU를 배포하기 위해 정확히 무엇을 해야 하는지 이해하실 수 있도록 돕고자 합니다.
+
+- **[Cooling at speed: Performance at pace | Vertiv™ TechTalk](https://www.youtube.com/watch?v=qCaxJMZATNU)** — 2026-06-30 · ko · `unclassified`
+  [음악] 안녕하세요, 저는 Vertiv의 제품 전문가인 Carlos Elizondo입니다. 데이터 센터의 신속한 구축에 대한 수요가 증가함에 따라, Vertiv는 업계에서 가장 시급한 과제 중 하나인 구현 일정 준수와 고품질 냉각 인프라 표준 유지를 해결하기 위한 혁신적인 접근 방식을 개발했습니다. Vertiv CoolFace 기술을 사용하면 일정 요구 사항을 충족 할 수 있습니다. 공장 통합은 Vertiv가 촉박한 일정을 맞추기 위한 접근 방식의 핵심입니다. 사전 설계되고 공장에서 통합된 시스템은 복잡한 냉동 배관 작업의 필요성을 최소화하고 여러 하청업체에 대한 의존도를 줄여 현장 설치 시간을 획기적으로 단축합니다.
+
+- **[Vertiv Australia 2026 Masterclass](https://www.youtube.com/watch?v=GXwqMpHM63I)** — 2026-06-26 · en · `unclassified`
+  Welcome [music] to Vertiv 2026 Masterclass. &gt;&gt; [music] &gt;&gt; Vertiv Masterclass over the past years has become a key industry event uh where we bring together our ecosystem of customers, channel partners, consultants, contractors under one roof. &gt;&gt; It brings [music] not only everybody together and gets consistent messaging, but it allows everybody to uh engage and it's gone from being a technology presentation now to more along the lines of how does the industry collaborate in the design, construction, and operation of data centers.
+
+- **[Experience the future of Vertiv™ high-density infrastructure | Vertiv Showroom Bologna](https://www.youtube.com/watch?v=4xsJSJVaD0c)** — 2026-06-22 · en · `unclassified`
+  Welcome to our We are creative Just space to our technology experience Dis and to see innovation technology Look forward Welcome new helpful confidence
+
+- **[Vertiv at Computex 2026: AI Together | Event highlights](https://www.youtube.com/watch?v=LcWuX98u3kU)** — 2026-06-19 · ko · `unclassified`
+  [음악] 비가 오지만 우박은 오지 않습니다.
+
+- **[Converged infrastructure, designed as one | Vertiv™ OneCore](https://www.youtube.com/watch?v=1ZxKQ4dKOek)** — 2026-06-17 · ko · `unclassified`
+  열. 열. 열.
+
+- **[UPS for harsh environments with IP42 protection | Vertiv™ PowerUPS 6000 Industrial](https://www.youtube.com/watch?v=rVZLWCQAvp8)** — 2026-06-09 · ko · `unclassified`
+  혹독한 산업 환경에서는 표준 UPS 시스템 이상의 성능이 요구됩니다 . 열악한 환경에서는 신뢰할 수 있고 탄력적인 전력 보호 시스템이 필요합니다. Vertiv Power UPS 6000 산업용 제품을 소개합니다 . 경공업 분야에 적합하도록 설계되었습니다. 이 장치는 제어 및 자동화 시스템에 [음악] 백업 전원을 제공합니다 . 석유 및 가스, 운송, 철강, 의료, 식품 및 음료 산업 전반에 걸쳐 핵심 운영을 지원합니다. 출력 변압기는 민감한 전력 전자 장치를 보호하기 위해 갈바닉 절연 기능을 추가합니다 .
+
+- **[Vertiv Partner Certification Program | EMEA Region](https://www.youtube.com/watch?v=cGWahwzYrt4)** — 2026-05-28 · ko · `unclassified`
+  Vertiv 파트너 인증 프로그램에 오신 것을 환영합니다. 이곳에서는 학습과 경험이 만납니다. 그리고 모든 세부 사항은 파트너에게 힘을 실어주도록 설계되었습니다. 파트너들은 바로 그 순간부터 혁신적인 여정에 나서게 됩니다 . 이는 기존의 교육 방식을 뛰어넘는 것입니다 . 이는 오늘날의 경쟁적인 환경에서 탁월한 성과를 내는 데 필요한 전문성과 자신감을 키우기 위한 전략적 투자입니다 . Vertiv 파트너 인증 프로그램은 필수적인 기술을 습득하고 자신감을 높이며 Vertiv 전문가 팀( 애플리케이션 엔지니어 및 제품 관리자)의 전담 지원을 받을 수 있도록 설계되었습니다
+
+- **[Optimizing data center cooling efficiency for AI | Vertiv Tech Talks](https://www.youtube.com/watch?v=bznRBRzpolg)** — 2026-05-22 · ko · `unclassified`
+  [음악] 안녕하세요, 제 이름은 매들린 호프만입니다. 저는 Vertiv에서 오퍼링 전문가로 일하고 있습니다. 오늘날 고밀도 컴퓨팅 및 AI 워크로드로 인해 열 부하가 급격히 증가하는 복잡한 데이터 센터 환경에서 냉각 시스템 효율을 최적화하려면 냉각수 온도, [음악] 구성 요소 성능 및 통합 시스템 제어 간의 상호 작용을 신중하게 균형 있게 조절하는 전체적인 접근 방식이 필요합니다. 총 소유 비용과 냉각 시스템을 고려할 때, [음악] 몇 가지 핵심 요소를 살펴보는 것이 필수적입니다.
+
 ## Google DeepMind (14건)
 
 - **[Reconstructing Pelé’s lost goal](https://www.youtube.com/watch?v=R-Yqes8AotY)** — 2026-07-14 · ko · `unclassified`
@@ -13021,32 +13191,6 @@
 
 - **[Stability Seconds: Using Stable Diffusion 3.5 and Stable Image Ultra in ComfyUI](https://www.youtube.com/watch?v=QUskpP5JLPg)** — 2025-05-23 · en · `unclassified`
   Let me show you how easy it is to get started using stability offerings inside of Comfy UI. First, you're going to go to comfy.org. From comfy.org, you're going to go down here and hit this download button. From the download button, you're going to select whichever your operating system is. M on Windows, and you're going to download it. From there, you're going to boot up Comfy UI.
-
-## Vertiv (8건)
-
-- **[AI infrastructure, built as one system | Vertiv™ SmartIT for Enterprise](https://www.youtube.com/watch?v=fMruTHAXZpE)** — 2026-07-24 · ko · `unclassified`
-  기업의 인공지능(AI)에 대한 수요는 급속도로 증가하고 있습니다. 하지만 공간과 시간적 제약이 있습니다. 오늘날의 상업 환경이 변화에 적응하려면 전력, 냉각 및 제어를 체계적으로 결합해야 합니다 . Verdiff Smart IT는 컴퓨팅을 둘러싼 AI 지원 인프라를 하나의 통합 솔루션으로 제공하며, 검증을 거쳐 단일 랙부터 여러 랙에 이르기까지 즉시 배포할 수 있도록 준비되어 있습니다. 모듈식 단계로 AI 컴퓨팅 기능을 확장하세요 . 동일한 아키텍처, 동일한 검증 방식입니다. 아무것도 재설계되지 않았습니다.
-
-- **[The 800 VDC shift starts at the rack](https://www.youtube.com/watch?v=WR89JOwnf_Y)** — 2026-07-22 · ko · `unclassified`
-  어젯밤에 받은 질문들을 바탕으로 추측해 보면 , 모두가 기다려온 반전은 아마도 부하측에서 무슨 일이 벌어지는가 하는 것일 겁니다. 그리고 이 이야기는 랙의 DC 전원이 포드의 DC 전원으로 바뀌는 것에 관한 것입니다. 우리는 용량과 밀도에 대해 이야기했습니다 . 우리는 이제 물리적 한계에 다다르고 있습니다. 랙 레벨 에서 약 350~400킬로와트 정도의 출력을 달성하거나 도달하게 되면 , 커넥터 크기, 버스 바, 상호 연결, 그리고 구리선을 통해 전달해야 하는 물리적인 전력량 등을 고려할 때 공간이 부족해집니다.
-
-- **[AI infrastructure built to accelerate your next data center deployment](https://www.youtube.com/watch?v=0WQJDqkxuko)** — 2026-07-21 · ko · `unclassified`
-  AI가 IT 운영 전략의 중심이 되면서 , 관련 분야는 더욱 전문화되고 고도로 통합되고 있습니다. 물리적 인프라가 IT 랙에 더욱 가까워짐에 따라, 사전 설계된 솔루션은 데이터 센터 운영자가 배포 속도를 높이고 유통을 최적화하는 데 도움이 됩니다. Vertiv는 이미 고객들이 이러한 새로운 AI 애플리케이션을 위한 유연하고 목적에 맞는 인프라를 설계할 수 있도록 지원하고 있습니다 . 데이터센터 구축 속도를 높이고 확장성을 향상시키는 방법을 알아보세요. 지금 바로 Vertiv에 문의하세요.
-
-- **[AI procurement: turn speed into a competitive advantage](https://www.youtube.com/watch?v=gasJkYt_0us)** — 2026-07-21 · ko · `unclassified`
-  인공지능 경쟁에서 구매 행동은 단순히 비용에만 초점을 맞추는 것이 아닙니다. 경쟁 모드를 구축하는 것에 관한 것입니다. IT 공급업체들은 기존 솔루션의 한계를 넘어 차별화, 공급망 확보, 경쟁력 강화를 위해 수직적으로 통합된 아키텍처를 설계하고 있습니다. 글로벌 네트워크 와 포괄적인 포트폴리오를 갖춘 Vertiv는 이러한 전략을 실현하는 데 있어 독보적인 위치를 차지하고 있습니다 . [음악] 조달 전략을 경쟁 우위로 전환할 준비가 되셨습니까 ? 오늘 저희에게 연락하세요 .
-
-- **[High-density AI infrastructure engineered for 100 kW AI racks](https://www.youtube.com/watch?v=vPwNh97bv1Q)** — 2026-07-21 · ko · `unclassified`
-  AI 및 HPC에 대한 수요 증가로 랙 밀도가 100kW를 넘어서고 있습니다. 적절한 기술이 없으면 기존 데이터 센터는 수요를 따라잡을 수 없습니다. 기존의 기반 시설만으로는 더 이상 충분하지 않습니다. 급증하는 AI 수요를 지원하려면 랙, 고밀도 전력 분배 시스템 및 액체 냉각 시스템이 필요합니다. Vertiv는 더 작은 공간에서 더 높은 밀도를 제공하는 솔루션을 통해 고객이 효율적으로 확장할 수 있도록 지원합니다. 귀사의 데이터센터는 극한의 고밀도 환경에 대비할 준비가 되어 있습니까?
-
-- **[The physics driving the shift to 800 VDC](https://www.youtube.com/watch?v=NiHG5JPM04A)** — 2026-07-17 · ko · `unclassified`
-  오늘날의 GPU는 AC 전원을 입력받아 작동합니다. 랙 레벨에서 50볼트 DC로 변환된 후, GB200, GB300 등 사용하시는 GPU 모델에서 원하는 성능을 발휘합니다. 그리고 랙 밀도 관점에서 이 점을 강조했습니다. 오늘 우리는 개척지에서 140킬로와트의 출력을 내고 있습니다 . 우리는 200W와 240W로 빠르게 나아가고 있습니다. 머지않아 600W까지 도달할 것으로 예상하며, 1 메가와트가 넘는 랙에 대해서도 논의하고 있습니다. 싱글 와이드든 더블 와이드든, 랙의 프로필을 어떻게 선택하든 간에, 간단히 말해서 우리는 이제 물리적 한계에 근접하는 밀도를 목격하고 있습니다
-
-- **[Vertiv™ Infrastructure Solutions Masterclass 2026](https://www.youtube.com/watch?v=5M-y4JzZfow)** — 2026-07-17 · ko · `unclassified`
-  [음악] 이러한 행사는 컨설턴트와 파트너들에게 최신 기술을 교육하는 데 매우 중요합니다. 이는 고객을 위한 음악 솔루션을 구상하는 데 도움이 됩니다. 당사는 더욱 혁신적인 솔루션과 점점 더 높아지는 컴퓨팅 성능 및 밀도를 지원하는 새로운 제품을 출시함에 따라 AI 데이터 센터 구축 시장에서 엄청난 성장을 지속적으로 목격하고 있습니다 . 저는 버티브가 이 문제에 있어서 신뢰할 수 있는 조언자 역할을 한다고 생각합니다. 저희는 여러분이 GPU를 배포하기 위해 정확히 무엇을 해야 하는지 이해하실 수 있도록 돕고자 합니다.
-
-- **[Cooling at speed: Performance at pace | Vertiv™ TechTalk](https://www.youtube.com/watch?v=qCaxJMZATNU)** — 2026-06-30 · ko · `unclassified`
-  [음악] 안녕하세요, 저는 Vertiv의 제품 전문가인 Carlos Elizondo입니다. 데이터 센터의 신속한 구축에 대한 수요가 증가함에 따라, Vertiv는 업계에서 가장 시급한 과제 중 하나인 구현 일정 준수와 고품질 냉각 인프라 표준 유지를 해결하기 위한 혁신적인 접근 방식을 개발했습니다. Vertiv CoolFace 기술을 사용하면 일정 요구 사항을 충족 할 수 있습니다. 공장 통합은 Vertiv가 촉박한 일정을 맞추기 위한 접근 방식의 핵심입니다. 사전 설계되고 공장에서 통합된 시스템은 복잡한 냉동 배관 작업의 필요성을 최소화하고 여러 하청업체에 대한 의존도를 줄여 현장 설치 시간을 획기적으로 단축합니다.
 
 ## Figure (7건)
 
@@ -13692,10 +13836,20 @@
 - **[현대차 ‘피지컬 AI’에 51조 투자 발표, 엔비디아-구글-웨이모까지… 현대차 기업 가치 재평가 받을까?](https://www.youtube.com/watch?v=2sOg1UKJsq0)** — 2026-07 · ko · `unclassified`
   지난 24일에 미국 샌프란시스코에서 AI 서밋 행사가 열렸습니다. 우리나라 최고의 기업 회장들 그리고 미국 빅테크 기업 CEO들이 모두 한 자리에 모였는데요.이 자리에서 현대차 그룹 정의선 회정이 우리는 이제 자동차 회사가 아니다라는 얘기를 꺼내면서 현대차 그룹의 피지컬 AI 비전과 전략을 제법 상세히 밝혔습니다. 그룹처에서 공식적으로 보도자료를 내보냈을 정도인데요. 대체 현대차가 왜 지금이 시점에 피지컬 AI를 그토록 강조해서 얘기하고 있는 건지 앞으로 현대차가 어떤 기업으로 거듭나려고 하고 기업 가치를 어떻게 재평가받으려고 하고 있는 건지 오늘도 핵심만 정리해서 말씀드리도록 하겠습니다
 
+## 시스템빌더 개발곰곰 (1건)
+
+- **[The Gold Standard for Claude AI Workplace Security | A Guide to Adopting AI at Work](https://www.youtube.com/watch?v=Cvt4GZayADQ)** — 2026-07 · ko · `AX`
+  여러분들 회사가 AI를 영원히 안 쓸 것 같죠? 그 문은 언젠가 열립니다. 그때 앞서 말씀드린이 세 가지 방법, 단계를 나눠 놓고 연습을 해 본 분들은이 문을 가장 먼저 찾아서 들어가실 거고요. 회사에서 에이스가 되어 계실 겁니다. 결국에는 이거예요. AI를 막은 대가는 생각보다 훨씬 비쌉니다. 지금 모든 회사들이 같은 질문을 하고 계십니다. AI를 써야 하는 건 아는데 어떻게 안전하게 도입하지? 근데 만약에 여러분들이 잘 준비를 해오셨다면 이렇게 말하실 수 있겠죠.
+
 ## 우리 주식은 안 물어요 (1건)
 
 - **[[LIVE] 이번 주 실적 발표 슈퍼위크 총정리, AI 투자는 계속될까?](https://www.youtube.com/watch?v=aRFXrao2RIE)** — 2026-07 · ko · `unclassified`
   เฮ 자, 필터링 없는 주식 방송. 우리 주식은 안 물어요. 라이브 안 물라 시작하도록 하겠습니다. &gt;&gt; 안녕하세요. &gt;&gt; 안녕하세요. 9시 반마다 &gt;&gt; 식사하시고 좀 배부를 때 아니면 늦게 들어가신 분은 지금쯤 들어가시고 계신 분도 있겠죠. &gt;&gt; 치맥할 때. 시전에 다 끝나죠. 회식도 &gt;&gt; 뭐가요? 회식이요? &gt;&gt; 요즘 회식을 안 한다 그러던데요. &gt;&gt; 회식이 10시 전에 끝나는 회식이 있어요. &gt;&gt; 어. 음. &gt;&gt; 이거 라떼로 가면 안 돼. 아, &gt;&gt; 그래요?
+
+## MTN 머니투데이방송 (1건)
+
+- **[[Yeouido Tube] Last year’s $6 billion acquisition of a global robot company... German and Swiss f...](https://www.youtube.com/watch?v=CbAd3uxWJRQ)** — 2026-07 · ko · `unclassified`
+  2020년 상업화까지 시간이 필요하다는 판단하에 보스턴 다이네믹스를 현대자동차 그룹에 판 손정희 소프트뱅크 그룹 회장이 부랴부랴 로봇 산업에 거프 대규모 배팅을 하고 [음악] 있습니다. 이번에 손회장의 눈에 들어온 곳은 스위스 건설 로봇 스타트업 그라비스 로보틱스입니다. 블룸버그는 26일 소프트뱅크가 그라비스 로보틱스 [음악] 인수를 검토하고 있다고 보도했습니다. 보도에 따르면 소프트뱅크는 기존 주주 지분을 매입하고 신규 자금을 투입하는 방식으로 단계적으로 지분을 확보하는 방안을 논의하고 있으며 거래가 성사될 경우 기업 가치는 5억 달러를 웃돌 수 있는 것으로 전해졌습니다
 
 ## Perplexity (1건)
 

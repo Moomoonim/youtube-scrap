@@ -1,0 +1,13 @@
+# Vertiv Australia 2026 Masterclass
+
+- 영상 링크: https://www.youtube.com/watch?v=GXwqMpHM63I
+- 채널: Vertiv
+- 업로드일: 2026-06-26
+- 자막 언어: en
+- 단어 수: 약 431개
+
+---
+
+## 스크립트
+
+Welcome [music] to Vertiv 2026 Masterclass. &gt;&gt; [music] &gt;&gt; Vertiv Masterclass over the past years has become a key industry event uh where we bring together our ecosystem of customers, channel partners, consultants, contractors under one roof. &gt;&gt; It brings [music] not only everybody together and gets consistent messaging, but it allows everybody to uh engage and it's gone from being a technology presentation now to more along the lines of how does the industry collaborate in the design, construction, and operation of data centers. &gt;&gt; Vertiv has got such a strong relationship with Nvidia and all the latest technology in terms of what what we're going to be seeing in this AI space within data centers and then being able to share that is such a vital [music] kind of experience for us as engineers. &gt;&gt; It's a very involved [music] audience. Most of the questions involve what am I going to have to change? What's the fastest, easiest method I can use to support a wide range [music] of IT applications. &gt;&gt; What stood out the most to me today was sort of not just the the talk about the large uh data centers of huge gigawatt campuses, but also how that's going to evolve into [music] smaller facilities, the the edge data centers, and the equipment that goes with that. &gt;&gt; Technology has advanced so much that we can do a lot of things now that we couldn't do in the past. &gt;&gt; You get to see it firsthand what is going to happen in the next future, whether that's going to be a 1 year down the track, 2 years down the track. &gt;&gt; To be more engaged with the customer's requirements from an infrastructure perspective, to start to work with Vertiv on what that solution actually looks like and build to those solutions for the chipsets that they're going to deploy. &gt;&gt; Australia is a behind the US market, so I think the master class actually [music] bought all the latest trend and which is coming to Australia. &gt;&gt; There's been such a &gt;&gt; [music] &gt;&gt; rapid change in technology just in the last year that it's [music] important to inform, you know, the customers as far as what's going on. And [music] they're going through a learning experience. The success is going to be by partnering with all the customers that we have there, consulting engineers, &gt;&gt; [music] &gt;&gt; to make sure that they're up-to-date on the latest technology to make sure they can build the most cost-effective and efficient and reliable data [music] center.
