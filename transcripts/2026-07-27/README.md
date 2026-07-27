@@ -18,3 +18,7 @@
 ## 16:48 수집 (1개)
 
 - [2026 'AI 로 구현하는 지역 AX' 시리즈 - 제3회 KLID-FNF 온라인세미나](2026_'AI_로_구현하는_지역_AX'_시리즈_-_제3회_KLID-FNF_온라인세미나__i6Br6_ImXaA.md) (ko) — [원본](https://www.youtube.com/watch?v=i6Br6_ImXaA)
+
+## 20:37 수집 (1개)
+
+- [“이제 세상이 바뀝니다” AI가 먹던 전기가 사라졌다; 과학자들 진짜 미쳤네;;](“이제_세상이_바뀝니다”_AI가_먹던_전기가_사라졌다;_과학자들_진짜_미쳤네;;__6yvEpoWQ6Fk.md) (ko) — [원본](https://www.youtube.com/watch?v=6yvEpoWQ6Fk)
