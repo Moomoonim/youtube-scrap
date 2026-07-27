@@ -1,0 +1,13 @@
+# Military experience shape how Microsoft employees think about teamwork
+
+- 영상 링크: https://www.youtube.com/watch?v=2VyyGdO5O80
+- 채널: Microsoft
+- 업로드일: 2026-05-20
+- 자막 언어: en
+- 단어 수: 약 455개
+
+---
+
+## 스크립트
+
+Obviously, nobody else here has been to Okinawa and tried the world famous taco rice and cheese. It cannot be recreated anywhere else on planet Earth. My name is David. I'm a software engineer for Azure Core and I am an Air Force veteran. Hi, I'm Kim. I am an Azure specialist an Army veteran, first lieutenant. I'm Michael. I’m a solutions engineer, I’m an Army, Navy and Air Force veteran. Well, my name is Gary. Prior Marine. Current Microsoft learning and development specialist. I think the biggest thing is when you have the structure in place, it gives you at least a bar to go towards. I'm going to I'm neutral, but I'm leaning left here to the agree. Knowing what the objective is I agree. But how to get there? I'd move to the other side because there's so many ways to be creative. I lean neutral on this one. Being in the military, we live that life where there is extreme structure. I found a happy medium where not being to that degree, let me, become more creative and explore processes that otherwise wouldn't have been, an option. I’ve struck totally agreed with it because the fact is you can grow with guardrails. I call it my North Star–– where I'm trying to get to. Everything else can be fluid in how you get there. Yes. We all wear, you know, different roles and find ways to make it all work. And it, it can be difficult. It isn't something that's, I think, exclusive to military service. But we definitely have a very solid sense of managing and juggling to completely separate worlds Being here at Microsoft is it's interesting because it's the first place where I felt like I can just be me. You're a full time professional at Microsoft. You don't have to switch that off when you go home. It's not like coming off the drill field. Yeah (Laughs) It’s nice to be able to have a company that says, “hey, work life balance actually means something to you.” I think that it really depends. Do I want to go back to being a security operations analyst? No, probably not. So that's where the title may come, a little bit. But I do agree with you guys in the sense of, yeah, you have to have the purpose. When I'm acknowledged for the hard work and dedication and blood, sweat, and tears that I put into everything I do and somebody acknowledges that–– if you call that praise, I'm here for it. This has been an amazing experience today. I've loved meeting all of you. It's been awesome. Yeah it has, it has been great. Major experience for sure.
