@@ -1,6 +1,6 @@
 # 월 × 분류(DX/AX/AT)별 수집 요약
 
-## 2026-07 (총 715건)
+## 2026-07 (총 718건)
 
 ### AX (237건)
 
@@ -809,7 +809,7 @@
 - **[Agentic AI Frameworks Explained: Workflows, Multi-Agent, & Production](https://www.youtube.com/watch?v=ZVPlLaehjLk)** · IBM Technology (channel)
   안녕. 제 생각엔 당신 주변 세상은 에이전트형 AI 시스템과 그 엄청난 잠재력으로 떠들썩할 것 같네요. 그래서 당신은 에이전트형 AI 시스템을 구축하기로 결정합니다. 최고의 프레임워크를 찾다 보니 어느새 GitHub 탭이 17개나 열려 있고, Medium 블로그도 5개나 북마크되어 있는데, 정작 어떻게 진행해야 할지는 전혀 모르겠다. 네, 우리 모두 그런 경험이 있죠. LangChain, LangGraph, Crew AI, AutoGen, Semantic Kernel 등 강력한 프레임워크가 정말 많습니다. 그렇다면, 당신은 어느 쪽을 선택하시겠습니까?
 
-### unclassified (448건)
+### unclassified (451건)
 
 - **[(Quick Overview) Korea's Real Engine of the AI Revolution: M.AX](https://www.youtube.com/watch?v=EDHZlKgvwm4)** · KOTRA TV (keyword)
   [music] 2025. [music] The world is different. Supply chains are fragmenting, [music] getting only deeper. The climate and energy risks are rising, getting only sharper. The race for AI leadership and sovereignty is accelerating, [music] getting only faster. What is Korea's choice, and where must we focus? Let me introduce Korea's gamechanging initiative, [music] Max. Max is manufacturing AI transformation. It's about [music] scaling advanced manufacturing with AI.
@@ -880,8 +880,17 @@
 - **["일본 독점 끝났다" 7000조 로봇 시장 판도 바꾼 LG의 60년 된 비밀병기?!](https://www.youtube.com/watch?v=heTDUcsmn7g)** · 더 리치 - 돈의 흐름을 읽어라 (keyword)
   지금 여러분덱 세탁기 안에서는 모터가 하나 돌아가고 있습니다. 아무도 신경 쓰지 않는 부품입니다. 고장나기 전까지는 그런게 있다는 것조차 입고서 사는 물건이죠. 그런데 그 모터를 만드는 기술이 지금 전 세계 로봇의 관절값을 정하고 있습니다. 그리고 그 기술을 자기 눈으로 확인하겠다며 지구에서 가장 비싼 의사를 이끄는 사람이 여의도까지 직접 날아왔습니다. 엔비디아의 젠슨 황입니다. 여기에 이상한 구석이 있습니다. 엔비디아에 필요한 건 반도체를 만들어 줄 회사이거나 자기 칩을 대량으로 사 줄 회사입니다.
 
+- **[AI Summit, $1 Trillion Semiconductor Partnership Announced... The Real Reason Good News Isn't Mov...](https://www.youtube.com/watch?v=WjpdjvDue3s)** · 815머니톡 (keyword)
+  주 금요일 어 미국 증시의 반도 체주는 뭐 급락이 나왔어요. 아무래도 한국에 영향을 받았던 거 같고요. 근데 이제 그다음에 이제 샌프란시스코에서 &gt;&gt; 어 AI 서밋이 열리고 글쎄요. 뭐 9,500억 달러 뭐 상당한 뭐 선언적 의미라고 뭐 이렇게 좀 그 편화하는 이야기도 좀 있긴 합니다만 어쨌건 어 상당한 액수의 어떤 그 발표가 있었단 말이죠. &gt;&gt; 삼성전자 [콧방귀] 하이닉스이 이게 과연 어떤 호재가 될 것이냐이 분석이 좀 다 갈립니다.
+
 - **[Korean Semiconductors & Big Tech Kick Off '$1.04 Trillion' Investment Through Massive AI Alliance...](https://www.youtube.com/watch?v=5xMUHPiDSJg)** · 머니올라_KBS (keyword)
   자, 이제 7월도 일주일이 채 안 남았습니다. 다음 주말이면은 이제 8월인데요. 증시 일정부터 살펴볼게요. &gt;&gt; 네. 7월 27일은 댈러스 여는 제조업 지수가 나오고 LG노텍이 실적을 발표하고요. 7월 28일은 미국의 7월 컨퍼런스 보드 소비자 신뢰 지수가 나오고 7월 29일은 FMC에서 금리를 결정하고 메타 마이크로소프트 SK 하이닉스가 실적을 발표합니다. 7월 30일은 미국의 2분기 GDP가 나오고 미국의 6월 PC 물가 지수 삼성전자 아마존이 실적을 발표하고요. 7월 31일은 BOJ에서 일본 중앙은행이 금리를 결정하고 미국 미식원대에서 소비자 심리 지수가 나올 예정입니다
+
+- **[[Handy Econ] Weak Yen | China AI Regulation | 07/27/2026 (Mon)](https://www.youtube.com/watch?v=6mzLvYus4wo)** · 손에잡히는경제 (keyword)
+  [음악] 이진우의 손에잡히는 경제. 안녕하십니까. 이진우입니다. 얼마 전까지만 해도 어 함께 동반 약세를 보이던 우리나라 원화와 일본의 N화의 흐름이 요즘은 엇갈리고 있습니다. 원화는 최근에 강세로 좀 돌아선 반면에 N화는 계속 가치가 떨어지면서 미끄러지고 있는데 이렇게 두통화의 [음악] 방향 희비가 엇갈린 배경 잠시 후에 잘 좀 들어 보겠습니다. 미국 빅테크 기업들이 중국의 인공지능 기술을 활용하는 문제를 두고 서로 충돌하고 있습니다. 이게 어떤 [음악] 이슈이고 어떤 입장 차이가 있는지 우리에게는 어떤 영향을 줄 건지 잠시 후에 자세하게 좀 들어 볼게요.
+
+- **[현대차 ‘피지컬 AI’에 51조 투자 발표, 엔비디아-구글-웨이모까지… 현대차 기업 가치 재평가 받을까?](https://www.youtube.com/watch?v=2sOg1UKJsq0)** · 차플레이 Chaplay (keyword)
+  지난 24일에 미국 샌프란시스코에서 AI 서밋 행사가 열렸습니다. 우리나라 최고의 기업 회장들 그리고 미국 빅테크 기업 CEO들이 모두 한 자리에 모였는데요.이 자리에서 현대차 그룹 정의선 회정이 우리는 이제 자동차 회사가 아니다라는 얘기를 꺼내면서 현대차 그룹의 피지컬 AI 비전과 전략을 제법 상세히 밝혔습니다. 그룹처에서 공식적으로 보도자료를 내보냈을 정도인데요. 대체 현대차가 왜 지금이 시점에 피지컬 AI를 그토록 강조해서 얘기하고 있는 건지 앞으로 현대차가 어떤 기업으로 거듭나려고 하고 기업 가치를 어떻게 재평가받으려고 하고 있는 건지 오늘도 핵심만 정리해서 말씀드리도록 하겠습니다
 
 - **[AMD AI PCs, Ready When You Are](https://www.youtube.com/watch?v=y6wd2Hp4k40)** · AMD (channel)
   When you're always moving, being prepared matters more than being fast. With an AMD AI PC, your insights, data, and talking points are right on device. So when the conversation starts, you're prepared with the best story.
@@ -4301,9 +4310,9 @@
 - **[[ifkakao2021] 아랑고야 피드를 부탁해! (RDB도 모르는 개발자의 아랑고DB 삽질기)](https://www.youtube.com/watch?v=l3e3QxNm_LA)** · kakao tech (channel)
   안녕하세요. 아랑고디비와 피드를 부탁해를 발표하게 된 블로그 개발 파트의 스튜이입니다.이 발표의 부제는 RDB도 잘 모르는 개발자의 아랑고디 TV 삽질기입니다. 이번 발표의 순서는 다음과 같습니다. 새로운 DV를 부탁해야 하는 상황에 대해 설명드리고 왜 아랑고 DV를 선택하게 되었는지 알려 드리겠습니다. 아랑고디 데이터 설계와 AQL 즉 R랑고 D디 커리 랭기지에 대해 살펴본 뒤 피드 모델 설계 과정을 설명드리겠습니다. 피드 아랑고디 클라이언트 코드에선 저희가 사용한 아랑고디 클라이언트 코드의 종류를 가볍게 살펴본 뒤 마침여로 발표를 마무리할 예정입니다
 
-## 2026-05 (총 376건)
+## 2026-05 (총 384건)
 
-### AX (99건)
+### AX (104건)
 
 - **[Meet the AMD Instinct™ MI350P PCIe® Card](https://www.youtube.com/watch?v=T23R-qHAFSw)** · AMD (channel)
   Inference is becoming foundational to enterprise computing, and teams want performance, efficiency, and operational simplicity built on an open architecture. This is precisely why we are excited to showcase the AMD Instinct MI350P, a PCI-based GPU offering built for the infrastructure you already own, and the AI performance you need to deploy. And scale-generative and agentic AI.
@@ -4406,6 +4415,21 @@
 
 - **[What's New in VS Code: Remote, Permissions & BYOK](https://www.youtube.com/watch?v=AQw7Pg9Jr48)** · GitHub (channel)
   안녕하세요. 저는 리드완입니다. 저도 VB라는 닉네임을 쓰고 있고, VS Code 팀에서 개발자로 일하고 있습니다. 네, 제 이름은 저스틴입니다. 저도 VS Code 팀의 소프트웨어 개발자인데요, 지난 몇 달 동안 VS Code에 여러 가지 새로운 기능이 추가되어서 오늘 여러분께 몇 가지 기능을 소개해 드리려고 합니다. 네, 몇 가지 말씀드릴 게 있어요. 우선, 에이전트 창부터 살펴보겠습니다. 여러분도 이미 들으셨을지 모르지만, 저희가 새로운 상담원 창을 개발 중입니다. 제 생각엔 몇 주 전에 출시된 것 같아요.
+
+- **[Gemini Spark | I/O 2026 Keynote](https://www.youtube.com/watch?v=amnhF6BwzZQ)** · Google (channel)
+  Spark가 어떻게 작동하는지 제 개인적인 경험을 통해 몇 가지 예를 들어 보여드리겠습니다. 자 , 여기까지 왔네요. 저희 매장에 새로운 제미니 지점이 오픈했습니다. 완전히 새롭게 디자인되었습니다. 그 이야기는 방송 후반부에 하도록 하겠습니다. 자, 이제 Spark에 대해 이야기해 보겠습니다. 그리고 바로 보시는 것은 제가 백그라운드에서 진행하고 있는 모든 다양한 작업들을 보여주는 대시보드입니다. 이를 통해 이러한 사항들을 확인할 수 있습니다. 그리고 바로 작업을 하나 붙여넣겠습니다 . 이건 아주 간단한 예시지만, 정말 유용합니다.
+
+- **[Generative Media | I/O 2026 Keynote](https://www.youtube.com/watch?v=FLynjUYg79I)** · Google (channel)
+  오늘 들으신 바와 같이, 저희 모델과 제품은 새로운 혁신을 이끌어내고 있습니다. 하지만 진정한 혁신은 기술 자체가 아니라 그 기술을 어떻게 활용하느냐에 달려 있습니다. 디자이너, 기업가, 예술가 등 누구에게나 저희 제품은 아이디어를 떠올리는 순간과 그것을 현실로 구현하는 순간 사이의 간극을 줄여줍니다. 기술은 최상의 경우 인간의 창의성을 펼칠 수 있는 캔버스가 됩니다. 오늘은 여러분의 아이디어를 현실로 구현하는 데 도움이 되는 세 가지 제품을 자세히 살펴보겠습니다 .
+
+- **[I/O '26 Recap: Everything You Need to Know](https://www.youtube.com/watch?v=tfx2CjqtCUI)** · Google (channel)
+  [박수] [음악] 안녕하세요, 쇼타임입니다. 그리고 전 세계에서 시청해주시는 모든 분들께 인사드립니다 . 올해 I/O에 다시 참여하게 되어 기쁩니다. 올해는 음악계에 정말 놀라운 한 해였던 것 같아요. 우리는 차별화된 풀 스택 접근 방식을 통해 AI 혁신을 추진하고 있습니다. 사람들이 AI를 도입하는 규모를 이해하기 위한 또 다른 훌륭한 지표는 토큰입니다. 데이터의 기본 단위는 처리된 모델이며, 많은 모델이 해결 중인 문제를 나타냅니다 . 우리는 과거에 모든 플랫폼에서 매달 9조 7천억 개의 토큰을 처리했는데 , 현재는 그 수치가 7배 증가하여 매달 3.
+
+- **[Search + Shopping | I/O 2026 Keynote](https://www.youtube.com/watch?v=kQQbTYPt7VE)** · Google (channel)
+  사람들은 매일 수십억 건의 질문을 검색창에 입력합니다. 때로는 온 세상이 같은 것을 찾고 있기도 합니다. 하지만 대부분의 경우, 여러분의 질문은 여러분만큼이나 독특합니다. 그래서 우리는 여러분이 정말로 마음속에 있는 것을 무엇이든 물어볼 수 있도록 만들고자 했습니다 . 이제, 이를 실현하기 위해 우리는 검색 엔진의 장점과 인공지능의 장점을 결합하는 여정을 시작했습니다. 그리고 우리는 AI 개요를 통해 이러한 변화를 시작했습니다 . 믿기 ​​어려우시겠지만, 바로 작년에 이 무대에서 저희가 AI 모드를 처음 선보였습니다.
+
+- **[Sundar Pichai Opening Remarks | I/O 2026 Keynote](https://www.youtube.com/watch?v=duHhImuaZGU)** · Google (channel)
+  [환호] [박수와 음악] [음악] 안녕하세요, 쇼라인입니다. 전 세계에서 시청하시는 모든 분들께 인사드립니다. 올해 IO에 다시 참여하게 되어 기쁩니다. 정말 놀라운 한 해였던 것 같아요. 끊임없는 물동량과 급속한 기술 발전 덕분에 그야말로 초고속 발전의 시대였습니다. 저도 확실히 느껴봤어요. 정말 정신없는 한 해였어요. 제가 최근에 무엇을 했는지 보여드릴게요. 그래, 올해가 내 해였으면 좋겠다. 사실, 제가 TPU를 연결하는 그림이 꽤 정확해요. 그러니 우주로 보내기까지는 아직 해야 할 일이 더 많습니다 .
 
 - **[Reimagining the mouse pointer with AI](https://www.youtube.com/watch?v=pZNzfQLgGsA)** · Google DeepMind (channel)
   가리키는 행위는 우리가 다른 사람들과 협업할 때 이루어지는 많은 상호작용의 핵심입니다. 반세기 넘게 마우스 포인터는 우리가 사용하는 모든 웹사이트, 디지털 문서, 워크플로에서 변함없이 함께해 온 요소입니다. 만약 마우스 포인터 뒤에 제미니 같은 AI 모델이 실제로 우리의 말을 듣고, 화면에 집중하며, 마치 다른 사람이 말하는 것처럼 우리가 하는 말을 해석하려고 노력한다면 어떨까요? 저는 에이드리언입니다. 저는 구글 딥마인드에서 연구원으로 일하고 있습니다 .
@@ -4619,7 +4643,7 @@
 - **[Shaping the Future of Manufacturing: DMG Mori, Siemens and TRUMPF on Autonomous Production](https://www.youtube.com/watch?v=8VFJqupP6rA)** · Siemens (channel)
   [음악] 앉으세요. 어디든 편하신 곳이면 됩니다. 어쩌면 세 분이 정확히 한자리에 모이고 제가 여기 앉아 있을 수도 있겠네요. 우리는 딱 중간에 있는 셈이죠. 완벽하네요. 네, 함께해주셔서 정말 기쁩니다. 시간을 내주셔서 감사합니다. 하노버 메세에서 바쁘신 걸로 알고 있습니다. 자, 그럼 누가 누군지 간단히 소개하는 시간을 갖겠습니다 . 우리는 알프레드 가이슬러를 영입했습니다 . 그는 G Mori의 CEO입니다. 저희는 스테파니 프랑크 박사님을 모셨습니다. 그녀는 지멘스에 재직 중이며, 공작기계 시스템 분야에서 매우 중요한 역할을 하고 있습니다
 
-### unclassified (272건)
+### unclassified (275건)
 
 - **[AMD Instinct™ MI350P PCIe® Cards for Enterprise AI](https://www.youtube.com/watch?v=62H_ErlTXQw)** · AMD (channel)
   Enterprise AI adoption is rapidly accelerating. To support enterprises AMD latest offering, the AMD Instinct MI350P PCIe card built on the leading AMD CDNA™ 4 architecture brings high memory capacity, high performance through low precision formats with standard enterprise connectivity, power and cooling. With simplified deployment using AMD Enterprise AI software built on ROCm™ software, these cards deliver an ecosystem friendly, enterprise-ready, scalable AI without data-center redesign.
@@ -4911,6 +4935,15 @@
 
 - **[AI x Society | I/O 2026 Keynote](https://www.youtube.com/watch?v=34q_KjF64E8)** · Google (channel)
   오늘 저희는 차세대 모델인 Gemini 3.5와 Omni, Anti-Gravity 2.0의 새로운 코딩 기능, 검색 에이전트 및 Gemini Spark 등 다양한 기능을 소개해 드렸습니다. 제미니가 수십억 명의 사람들이 매일 사용하는 수많은 구글 제품을 변화시키는 모습을 보니 정말 기쁩니다 . 이러한 모든 발전은 인공지능 발전 속도가 놀라울 정도로 빠르다는 것을 보여줍니다. 평생을 이 일에 바쳐온 우리조차도 믿기 어려울 정도입니다. 인공 일반 지능( AGI)은 이제 눈앞에 다가왔으며, 지금까지 발명된 기술 중 가장 심오하고 영향력 있는 기술이 될 것입니다
+
+- **[Gemini | I/O 2026 Keynote](https://www.youtube.com/watch?v=7Z5Vy9JBANs)** · Google (channel)
+  지난 여름 동안 제미니는 놀라운 상승세를 보였습니다. 제미니 앱에는 매달 9억 명 이상의 사용자가 방문하고 있습니다 . 그리고 그러한 성장의 큰 부분은 바로 우리의 빠른 배송 속도 덕분입니다. 1년 전만 해도 이러한 기능들은 전혀 존재하지 않았습니다. 이제 제미니는 모든 사람을 위한 최고의 창의적 도구가 되었습니다. 사람들은 상상도 못 했던 방식으로 이미지, 비디오, 음악을 만들 수 있습니다 . Gemini는 개인 맞춤형 지능을 탑재하여 Gmail, 사진 및 기타 앱을 안전하게 연결하고 맞춤형 도움을 받을 수 있도록 더욱 개인화된 서비스를 제공합니다.
+
+- **[Gemini Omni | I/O 2026 Keynote](https://www.youtube.com/watch?v=QhdEJFFaig0)** · Google (channel)
+  [음악과 박수] 안녕하세요 여러분, 이곳에 오게 되어 정말 기쁩니다 . 지난 한 해 동안 인공지능 기능은 비약적으로 발전했습니다. 이제 우리를 대신하여 계획을 세우고 행동할 수 있는 에이전트가 있으며 , 인공 일반 지능은 불과 몇 년 안에 현실화될 것입니다. 오늘은 인공 일반 지능( AGI) 구축을 향한 우리의 진척 상황을 공유하게 되어 매우 기쁩니다. 작년에 저는 제미니의 놀라운 다중 모드 기능을 확장하여 세계적인 모델로 만들겠다는 비전을 제시했습니다. 세상을 이해하고 시뮬레이션할 수 있는 인공지능.
+
+- **[Google Antigravity | I/O 2026 Keynote](https://www.youtube.com/watch?v=T_fnhr5lVBw)** · Google (channel)
+  건설업에 종사하기에 정말 놀라운 시대입니다. [환호] 글쓰기를 도와주는 AI 도구를 넘어 행동을 도와주는 에이전트로 나아가자. 이들 중개인들은 개발 진입 장벽을 크게 낮춰 누구나 건설업자가 될 수 있도록 만들었습니다. 바쁜 CEO들조차도 마찬가지입니다. 실제로 순다르는 지난주 구글 코드베이스의 버그를 수정하기 위해 구글 안티그래비티를 사용했습니다 . 저희는 11월에 Antigravity IDE를 출시하면서 핵심적인 에이전트 기반 IDE 경험을 완벽하게 구현하는 데 주력했고, 앞으로 나아갈 방향을 보여주는 예시로 표면용 최초의 실험적인 에이전트를 추가했습니다 .
 
 - **[How to edit & create videos with Gemini Omni](https://www.youtube.com/watch?v=guv2-EoGUXw)** · Google (channel)
   영상에 사용된 나노 바나나는 여기 있습니다. 이름은 제미니 옴니입니다. 쌍둥이자리의 추론 능력과 창조 능력이 만나는 지점입니다 . 저는 에이미이고 제미니 옴니 팀에서 일하고 있습니다. 이 자료를 활용하여 창의력을 발휘할 수 있는 몇 가지 방법을 소개합니다 . 먼저, 제가 자전거 타는 영상부터 보여드리겠습니다. [음악] 저는 Omni를 사용해서 제 스타일대로 편곡해봤어요. 나는 그것을 이렇게, 저렇게, 그리고 또 이렇게 변형시켰다 . 모델이 다양한 음악 자극을 주면서도 원래 영상의 일관성을 유지하는 모습이 정말 멋지네요 .
@@ -6587,9 +6620,9 @@
 - **[Seeing the world differently: Inside the Zoox robotaxi’s 360° vision](https://www.youtube.com/watch?v=5uNBa7bmRmY)** · Zoox (channel)
   The Zoox robot taxi doesn't have a front or a [music] back because it's not a car and it's driven by AI not humans [music] and that changes everything including how it sees the world. [music] Four sensor pods positioned on each corner give it a higher vantage point helping it see over traffic on busy city streets.
 
-## 2026-03 (총 279건)
+## 2026-03 (총 286건)
 
-### AX (77건)
+### AX (79건)
 
 - **[AI Browser Automation on AWS (Zero Setup)](https://www.youtube.com/watch?v=yF2jj4M_m4c)** · AWS Developers (channel)
   그러니까, 1년 조금 넘게 전에, 바로 이 유튜브 채널에서 제가 클로드에게 피자를 주문해달라고 부탁하는 영상을 올렸었죠. 당시 이게 실험적인 거였으니까 엄청 기대했었어요. 이러한 모델들, 즉 대규모 언어 모델이나 멀티모달 모델들이 실제로 당신이 가진 컴퓨터를 제어하고 당신을 위해 어떤 작업을 수행할 수 있다는 생각입니다. 그래서 피자를 주문했어요. 제가 그 영상을 만들었을 때와는 많은 것이 달라졌죠 . 이번 영상에서는 새로 나온 제품들에 대한 최신 정보를 알려드리고, 저도 다시 배가 고파졌으니 어떤 것들을 할 수 있는지 이야기해 보려고 합니다.
@@ -6717,6 +6750,12 @@
 - **[The Journey of Leadership](https://www.youtube.com/watch?v=vZ2FpyQUlHA)** · McKinsey & Company (channel)
   저는 브라이언 듀메인입니다. 포춘지 편집자를 역임했고, 현재는 경영 서적을 집필하고 있습니다. 오늘 저는 리더십과 인공지능, 그리고 점점 더 복잡하고 변동성이 커지는 세상에서 리더들이 직면하는 새로운 도전과 장애물에 대한 토론을 이끌게 되어 기뻤습니다. 이 문제를 심층적으로 논의하기 위해 오늘 저는 맥킨지 선임 파트너이자 최근 출간된 '리더십의 여정 : CEO는 어떻게 내면에서부터 리더십을 배우는가'의 저자인 라메쉬 스리니바산 씨를 모셨습니다.
 
+- **[Trust In the Age of Agents](https://www.youtube.com/watch?v=Ne4HnJEjCSI)** · McKinsey & Company (channel)
+  머지않은 미래에 수천 명의 AI 에이전트가 우리를 대신하여 결정을 내리는 순간을 상상해 보세요. 무슨 문제가 생길 수 있겠어요? 맥킨지 파트너인 리치 아이젠버그는 리더들이 인공지능의 이점을 안전하게 누리려면 이러한 에이전트의 위험 관리를 시급히 시작해야 한다고 말합니다 . 이것들은 설정해 놓고 잊어버리는 방식이 아닙니다 . 그들은 지속적으로 모니터링하고, 조정하고, 수정해야 하며, 때로는 해고해야 합니다. 하지만 이러한 에이전트의 소유주가 누구인지, 그리고 그들의 성과에 대한 책임이 누구에게 있는지 명확히 해야 합니다.
+
+- **[Winning the Race to Rewire in 2026: Capturing operational advantage](https://www.youtube.com/watch?v=QHLntsXsVCQ)** · McKinsey & Company (channel)
+  귀사의 [음악] 미래 성공을 위해서는 민첩하고 유연하며 회복력 있는 운영이 필수적입니다. 저는 진행자 대프니 로프턴버그입니다. 지금 듣고 계신 팟캐스트는 맥킨지 [음악] 운영 토크입니다. 이 팟캐스트에서는 전 세계 최고 경영진과 맥킨지 전문가들이 복잡한 정보 속에서 핵심을 짚어내고 새로운 운영 환경을 구축하는 방법을 알려드립니다. 한 해가 지나고 다음 해로 넘어가는 시기는 자연스럽게 한 해를 되돌아보는 시간을 갖게 합니다 . 우리가 배운 것을 되짚어보고 앞으로의 한 해를 위한 명확한 방향을 설정할 수 있는 기회입니다
+
 - **[Agentic AI 101 | NVIDIA GTC](https://www.youtube.com/watch?v=ETq3ZTqxFlo)** · NVIDIA Developer (channel)
   와, 오늘 아침에 와주셔서 정말 감사합니다. 정말 멋진 GTC였습니다. 시원한 에어컨이 나오는 쾌적한 방과 편안한 좌석을 즐기고 계시길 바랍니다. 음, 여기는 정말 좋은 곳이에요. 음, 먼저 말씀드리고 싶은 건, 우리가 지금 AI 에이전트와 이러한 놀라운 비서들에 대해 이야기하고 있다는 겁니다. 이들은 우리의 생산성을 높이고 업무를 더 빠르게 처리하여 더 많은 일을 할 수 있도록 도와줄 것입니다. 하지만 저는 먼저 인간적인 교감에 대해 이야기하고 싶었습니다.
 
@@ -6836,7 +6875,7 @@
 - **[Bynder Eliminates Content Chaos With Snowflake](https://www.youtube.com/watch?v=EAxOrdkEr8k)** · Snowflake (channel)
   특히 우리가 살고 있는 디지털 우선 세상에서는 콘텐츠가 끊임없이 증가하고 있기 때문에 모든 기업은 콘텐츠 중심적입니다 . 고객들은 이를 콘텐츠 혼란으로 여길 수 있습니다 . 바로 그 부분에서 저희가 도움을 드릴 수 있습니다. 콘텐츠 혼란을 확실하게 통제할 수 있도록 도와드리겠습니다. 바인더는 디지털 자산 관리 회사입니다. 저희는 고객이 마케팅 자료를 저장할 수 있는 포털을 제공합니다 . 또한, 원하는 경우 해당 파일을 인터넷의 다른 곳에 삽입할 수 있도록 호스팅 역할도 합니다.
 
-### unclassified (198건)
+### unclassified (203건)
 
 - **[Retail AI Runs on AMD EPYC™](https://www.youtube.com/watch?v=vvBHNVNcM0k)** · AMD (channel)
   Shopping has evolved into a fast paced digital experience, but slow checkouts and disconnected systems can frustrate customers and cost retailers sales. AMD Retail AI solutions, powered by AMD EPYC Server CPUs, bring intelligence directly to the point of sale. Fast, reliable checkout cameras for AI-powered shopping assistants help customers find exactly what they need, all running efficiently on cost-effective, enterprise-ready EPYC CPUs. No massive infrastructure overhaul required.
@@ -7075,11 +7114,23 @@
 - **[60 seconds with Marta Matecsa in Hungary](https://www.youtube.com/watch?v=UELdlnIIRRA)** · McKinsey & Company (channel)
   투명성과 정직은 언제나 최선의 접근 방식입니다. [음악] 저는 항상 딸 셋을 갖는 것을 꿈꿔왔는데 , 그 꿈을 이룰 수 있어서 정말 감사해요. 저는 그들에게 영감을 주거나 그들의 진로를 정해주려는 것이 아닙니다. [음악] 저는 그들이 스스로의 길을 찾을 수 있도록 필요한 모든 도구를 갖추기를 바랄 뿐입니다. 우리는 자주 함께 여행해요. 저와 남편은 가족 모두 함께 계획하고, 딸들 도 의견을 제시할 수 있어요. [음악] 우리는 어디서 식사할지, 어느 방향으로 갈지 선택합니다 .
 
+- **[60 seconds with Marta Slawinska in Poland](https://www.youtube.com/watch?v=Jqz300owJG0)** · McKinsey & Company (channel)
+  불편할 정도로 흥미로운 일에 항상 열심히 매진하세요. 그것이 바로 당신을 성장시키는 길입니다. [음악] 이 구절은 오래전에 제 노트에 적어둔 거예요 . 음악이야말로 진정한 나예요. 어떻게 하면 상대방이 더 나은 사람이 되도록 도울 수 있을까요 ? 저는 제 역할을 의도적으로 선택했습니다. 제가 인사 관련 업무에 종사하게 된 것은 우연이 아닙니다. [음악] 저는 사람들이 서로에게 도전하고 지지하며, 우리 모두의 다름을 축하함으로써 더 높은 목표를 세우고 더 큰 사람이 되도록 돕는 일에 매료되었습니다.
+
 - **[60 seconds with Matea Kocevska in Croatia](https://www.youtube.com/watch?v=ALtozzdMSrM)** · McKinsey & Company (channel)
   [음악] 따뜻한 마음을 가지면 언제나 승리할 거예요. 마케도니아처럼 음악적으로 작은 나라에서 자라다 보면, 세계적인 무대에서 중요한 역할을 할 기회가 없을 거라는 오해가 생기곤 합니다. 난 그걸 전혀 믿지 않았어. 저는 항상 저 자신과 다른 사람들이 불가능한 것은 없다는 것을 깨닫도록 노력해 왔습니다. 살면서 저는 너무 착하다거나 말이 너무 적다는 말을 자주 들었습니다. 한동안 [음악] 그게 내가 바꿔야 할 부분인지 궁금했어요 . 하지만 그때 나는 그것이 내 약점이 아니라는 것을 깨달았다 .
 
+- **[60 seconds with Vira Kakhnych in Ukraine](https://www.youtube.com/watch?v=Jv6Sb-T4460)** · McKinsey & Company (channel)
+  [음악] 안 하면 후회할 거야. 허락을 구하는 것보다 [음악] 미안하다고 말하는 편이 낫겠어요. [음악] 나는 여러 사람이 하나로 얽혀있는 존재야. 친구이자, 누나이자, 멘토이자, 제자이자, 음악 애호가이자, 파티를 좋아하는 사람이자, 때로는 책임감 있는 어른이기도 하다. 우크라이나에서 자라면서 저는 항상 사교적이었고, 음악적으로 모험심이 강했으며 , 약간 말썽꾸러기이기도 했습니다. 그리고 저는 여전히 그렇다고 생각합니다. 저는 음악으로 무엇이든 할 수 있다고 항상 믿어왔습니다 . 예를 들어, 1년 전에 저는 "새로운 취미가 필요해"라고 말했어요.
+
+- **[A grocery run that became a lifesaving moment in Philadelphia](https://www.youtube.com/watch?v=MO7XdfsUZW8)** · McKinsey & Company (channel)
+  [음악] 제 이름은 케빈 카터입니다. 저는 필라델피아 북부 출신 이고, 제가 하마터면 죽을 뻔했던 이야기를 하려고 합니다. [음악] 필라델피아 도심에서 태어나고 자라면서, 저는 사람들이 사는 곳에 따라 존재하는 불평등을 직접 목격했습니다. 저렴하고 건강한 음식을 접할 수 있는 기회에도 불평등이 있고, 의료 서비스에도 불평등이 있습니다. 우리가 건강에 투자하면 음악인들의 삶을 더 나아지게 할 뿐만 아니라, 그들이 속한 지역 사회와 그들이 일하는 경제에 더 나은 기여를 할 수 있도록 만들 수 있습니다.
+
 - **[Beyond ESG: How Organizations Can Address the World’s Biggest Challenges](https://www.youtube.com/watch?v=G93jAgrSLIE)** · McKinsey & Company (channel)
   맥킨지 글로벌 인스티튜트 온라인 행사에 오신 것을 환영합니다. 모두 환영합니다. 오늘 ' ESG를 넘어 체크리스트에서 역량으로'라는 제목으로 진행되는 이 온라인 행사를 주최하게 되어 영광입니다. 네 개의 작은 공으로 나뉘어져 있는, 완전히 풀리지 않은 실뭉치가 보이시죠? 그리고 우리는 이 주제에 대해 어쩌면 신선한 관점을 제시하고 싶습니다. 본 행사는 온라인으로 진행됩니다. 우리는 그것을 상호작용적인 것으로 만들고 싶습니다. 채팅창에 질문을 올려주세요. 그 메시지들은 우리에게 전달될 것이고, 우리는 필요에 따라 역동적으로 개입하거나, 적어도 마지막에는 개입할 것입니다
+
+- **[How are companies valued? | McKinsey Explainers](https://www.youtube.com/watch?v=5QVnotzTB8U)** · McKinsey & Company (channel)
+  가치 창출은 기업에게 매우 중요합니다. 왜냐하면 기업의 주주들은 그 회사에 자본을 투자했고, 그 투자에 대한 수익을 기대하기 때문입니다 . 그래서 가치 창출이 그토록 중요한 근본적인 이유가 바로 이것입니다. 많은 연구와 경험을 통해 우리는 가치 창출에 더 집중하는 기업이 주주들에게 더 많은 가치를 창출할 뿐만 아니라 더 혁신적인 경향이 있다는 것을 알고 있습니다. 직원들을 위한 일자리를 더 많이 창출하는 경향이 있습니다. 기업이 주주를 위한 가치 창출을 극대화한다는 것은 경제 전체에서 자원을 가장 효율적인 방식으로 배분하는 데 기여하는 것을 의미합니다.
 
 - **[Leadership Lessons From Private Equity CEOs](https://www.youtube.com/watch?v=9BIYNfai0GM)** · McKinsey & Company (channel)
   [음악] 세계적인 비상장 기업 CEO들은 단순히 매출을 늘리는 것만으로는 만족하지 않습니다 . 그들은 오히려 순이익 증대, 즉 기업 의 근본적인 수익성 증대에 매우 집중하고 있습니다 . 그리고 그 점에 대한 그들의 확고한 집중력은 독특합니다. 저분은 맥킨지 수석 파트너인 사샤 가이입니다. 사모펀드의 투자를 받은 기업들은 상장 기업이나 가족 소유 기업보다 일관되게 더 빠르고 큰 수익을 창출하며 , 종종 단 몇 년 만에 실적을 획기적으로 개선합니다. 그리고 실질적인 수익성에 대한 끊임없는 집중이 그들이 그렇게 하는 방법 중 하나입니다
@@ -7092,6 +7143,9 @@
 
 - **[MGI event: Industry leaders discuss how to advance adaptation](https://www.youtube.com/watch?v=MtevcjCnO1w)** · McKinsey & Company (channel)
   [음악] 맥킨지 글로벌 인스티튜트 가상 이벤트에 오신 것을 환영합니다. 모두 환영합니다. 저는 올리비아 화이트입니다. 저는 맥킨지 글로벌 인스티튜트의 선임 파트너이자 이사입니다. 오늘 세션에서는 MGI의 새로운 보고서인 " 냉각에서 해안 방어까지 적응력 향상"의 결과를 논의할 예정이라 매우 기대됩니다. 그리고 가장 중요한 것은, 이러한 결과를 어떻게 실질적인 행동으로 옮길지에 대해 이야기하기 시작할 것입니다 . 이는 맥킨지 글로벌 연구소에서 에너지 전환 및 기후 관련 주제에 대해 발표한 여러 보고서 중 가장 최근의 보고서이며, 이 시점에 발표된 것을 매우 기쁘게 생각합니다.
+
+- **[Sailing With AI: Defending the America’s Cup](https://www.youtube.com/watch?v=HRh6ls1v8XY)** · McKinsey & Company (channel)
+  아메리카스컵은 국제 스포츠에서 가장 오래된 트로피입니다. 음악계에서 승리하는 사람들은 언제나 불가능해 보이는 일에 도전하는 사람들이었다 . 타이틀을 방어하기 위해 에미레이츠 팀 뉴질랜드는 이전과는 다른 방식으로 훈련해야 했습니다. 선원들뿐만 아니라 [음악], 그리고 배 자체도 마찬가지였다. 인공지능과 함께 항해한다는 이야기를 들었을 때, 완전히 공상 과학 소설 같다고 생각했어요. 제 생각에 요트 세계 와 인공지능 및 비즈니스 세계는 완전히 별개의 영역이었습니다. 그들이 이렇게 한자리에 모이는 모습을 보는 것은 정말 놀라운 일이었다.
 
 - **[Episode 3 Mercedes-Benz World Tour | Exploring South America’s Mountain Passes & Coastal Roads](https://www.youtube.com/watch?v=_PMKJ-Qyi98)** · Mercedes-Benz (channel)
   Ladies and gentlemen, welcome to Rio de Janeiro, in Brazil. &gt;&gt; [music] [music] &gt;&gt; Welcome to an adventure of a lifetime as we embark on a journey across the entire world. We are fresh off the Europe leg of this absolutely amazing road trip in the S-Class, and now we're in Rio, one of the most beautiful cities in South America, and boy has it been stunning so far.
@@ -7432,9 +7486,9 @@
 - **[Zoox | How to: Gossip in a Zoox](https://www.youtube.com/watch?v=fGlu3C0N94s)** · Zoox (channel)
   주츠에서 뒷담화하는 방법. 첫 번째 단계는 Zutes를 요청하는 것입니다. 두 번째 단계는 Zutes에 탑승하는 것입니다. 세 번째 단계, 이제 음식을 담기 시작하세요. 이봐, 엿듣지 마. Zutes에서만 가능한 얼굴을 마주보고 대화하는 즐거움을 만끽하세요.
 
-## 2026-02 (총 121건)
+## 2026-02 (총 122건)
 
-### AX (37건)
+### AX (38건)
 
 - **[Build a Sports AI Agent with Vector Search on AWS](https://www.youtube.com/watch?v=920RxyYaPHM)** · AWS Developers (channel)
   인공지능 에이전트의 성능은 제공하는 데이터의 질에 따라 좌우됩니다. [음악] 이 영상에서는 스포츠 데이터 세트를 사용하여 임베딩을 생성하고, 벡터화한 다음, 에이전트에 추가하는 방법을 보여드리겠습니다. 그다음에는 몇 가지 예측과 분석을 실행하고 그 결과가 얼마나 좋은지 살펴보겠습니다. 이 영상을 끝까지 보시면 데이터 세트를 의미 검색 기능을 갖춘 대화형 AI 에이전트로 변환하는 방법을 더 잘 이해하게 될 것입니다 . 저희는 NFL 데이터를 일부 사용할 예정 이지만, 음악은 원하시는 대로 사용하셔도 됩니다 .
@@ -7480,6 +7534,9 @@
 
 - **[The Boardroom Mandate: Scaling AI for Business Impact | Davos 2026](https://www.youtube.com/watch?v=0ixUiXr2DVY)** · Infosys (channel)
   여러분, 안녕하세요. 안녕하세요, 이번 토론에서는 이사회에서 요구하는 AI 확장을 통한 비즈니스 성과 향상에 대해 이야기해 보겠습니다. 저는 탐슨 부입니다. 이코노미스트 그룹 산하 이코노미스트 임팩트의 편집 이사이며, 이전에는 이코노미스트에서 20 년간 기자로 활동하며 글로벌 비즈니스 에디터와 비즈니스 및 기술 에디터를 역임했습니다. 오늘 패널로 참여하실 분들을 소개합니다. 케시 바스와니 씨는 Empoment의 글로벌 소비자 기술 책임자이시고, 케이트 젠슨 씨는 Anthropic의 미주 지역 글로벌 책임자이시며 , 카스텐 에드가루스 씨는 Danska Bank의 CEO이십니다.
+
+- **[Agents, Robots, and Us: What Executives Need To Know About AI and Work](https://www.youtube.com/watch?v=_z5ghnsWSsI)** · McKinsey & Company (channel)
+  안녕하세요, 맥켄지 라이브에 오신 것을 환영합니다. 저는 맥켄지의 편집 책임자이자 오늘 행사 '요원, 로봇, 그리고 우리'의 진행자인 루시아 라일리입니다. 경영진이 인공지능과 업무에 대해 알아야 할 사항 . 인공지능은 현재 가장 중요한 화두 중 하나 이며, 솔직히 말해서 매우 극단적인 반응을 불러일으키는 주제이기도 합니다. 정말 놀랍네요. 세상이 멸망할 위기에 처해 있어요. 일자리가 창출될 것입니다. 이는 일자리를 없앨 것입니다. 언론이나 다른 매체에서 접하는 많은 정보들은 파이낸셜 타임스의 최근 보도처럼 AI의 호황과 불황이라는 이분법적 구도 사이를 오가는 경향이 있다 .
 
 - **[How 80% of Orange Employees Adopted Generative AI: the real story](https://www.youtube.com/watch?v=6AkFHuIn6to)** · Orange (channel)
   [음악] 안녕하세요, 저는 오렌지(Orange)의 최고 인공지능 책임자 스티브 재럿입니다 . 제 역할은 회사에서 데이터 AI 전략을 이끄는 것입니다. 대규모 AI와 데이터 기반 AI에 대한 우리의 목표는 모든 직무, 모든 네트워크, 모든 고객 경험에서 가치를 창출하고 가속화하며, 책임감 있는 AI를 통해 새로운 수익원을 구축하는 것입니다. 오늘은 오렌지에서 인공지능을 매우 빠르게 대규모로 도입하면서 얻은 경험과 그것이 우리 회사와 고객에게 어떤 의미를 갖는지에 대해 여러분과 공유하고자 합니다 .
@@ -9246,9 +9303,9 @@
 - **[Steering the Future | Episode 6: Ian](https://www.youtube.com/watch?v=a6s39ZGMNQc)** · Zoox (channel)
   안녕하세요, 제 이름은 이안 파커입니다. 저는 Zuks에서 작가 인터페이스 엔지니어로 일하고 있습니다. 그리고 여기가 제 차고입니다. 들어오세요. 한때 차를 네 대나 소유했었는데, 이제 세 대로 줄여야 했어요. 이 차는 제가 매일 타는 차입니다. 이건 리비안 R1T예요. 이 차는 제가 장거리 여행을 갈 때 타는 차입니다. 이 차는 일본에서 수입된 1997년식 힐럭스 서프입니다. 그리고 마지막으로 , 제가 가장 좋아하는 차, 2016년형 포르쉐 박스터 스파이더를 소개합니다. 저는 개인적으로 이 차들에 대해 상당한 작업을 해왔습니다
 
-## 2025-09 (총 68건)
+## 2025-09 (총 76건)
 
-### AX (18건)
+### AX (22건)
 
 - **[Automating Your Dev Workflow with Jira & GitHub Integration feat. Amazon Q CLI](https://www.youtube.com/watch?v=8F0JE3G_vEo)** · AWS Developers (channel)
   이번 영상에서는 제 친구 트로이가 LLM 기반 코딩 도우미 덕분에 개발자의 삶과 소프트웨어 개발 수명 주기가 어떻게 변화하는지 보여줄 예정입니다. 그는 지금 바로 Jira, Confluence, 위키, 코드 커밋 등과 같은 여러 가지 작업에 어떻게 도움이 되는지 보여줄 겁니다 . 제 옆에는 트로이가 있는데, 그가 생성형 AI를 포함한 소프트웨어 개발자의 하루 일과에 대해 이야기해 줄 겁니다. 트로이, 안녕하세요. 환영합니다, 환영합니다, 환영합니다, 환영합니다. 당신은 누구이고 무슨 일을 하는지 말해 주세요. 그리고 탭은 공백입니다
@@ -9286,6 +9343,18 @@
 - **[Chad & Chris | Tariff Savings and Compliance through Palantir AIP](https://www.youtube.com/watch?v=xBTPNLd8Jv8)** · Palantir (channel)
   [Music] Hi, I'm Chad. I'm an architect at&nbsp; Palanteer. Today we've got Christopher who&nbsp;&nbsp; leads some of our manufacturing work. Thanks&nbsp; for joining me. Thank you, Chad. So, I know we&nbsp;&nbsp; were going to talk about a lot of different stuff&nbsp; today. One of them being bombs or bill materials.&nbsp;&nbsp; Pretty central to manufacturing and kind of&nbsp; the trade compliance and how do I make sure I'm&nbsp;&nbsp; following all the rules and regulations with trade&nbsp; across the globe, especially as things are rapidly&nbsp;&nbsp; changing right now.
 
+- **[Palantir CEO Alex Karp Opening Remarks | AIPCon 8](https://www.youtube.com/watch?v=AsTpgn1Bd2o)** · Palantir (channel)
+  Please welcome co-founder and chief executive&nbsp; officer at Palunteer, Dr. Alex Karp. [Music] Uh even this working is it working? Even&nbsp; I find that motivational. It's uh it's pretty&nbsp;&nbsp; good. I should just sit down. It's like wow. I&nbsp; don't have anything else to say.
+
+- **[Solving Societal Issues with Agentic Decision Making | Fujitsu at AIPCon 8](https://www.youtube.com/watch?v=A47Nuav7X-4)** · Palantir (channel)
+  Please welcome corporate executive&nbsp; officer, corporate vice president,&nbsp;&nbsp; COO in charge of solution services and head of&nbsp; global solutions at Fujitsu, Yoshinami Takahashi. [Music] Uh hi everyone. Uh my name is Takashi&nbsp; from Fujitsu. Um basically I want to talk about&nbsp;&nbsp; what we do with Palantia um in Japan. not only in&nbsp; Japan but also like um across the globe we work&nbsp;&nbsp; with trying to uh provide transformation to all&nbsp; the industry countries.
+
+- **[Unleashing Digital Potential with Next-Generation Telecom | Lumen at AIPCon 8](https://www.youtube.com/watch?v=3c4ekdck0kg)** · Palantir (channel)
+  [Music] Please welcome Chief Technology and&nbsp; Product Officer at Lumen, Dave Ward. [Music] Hey&nbsp;&nbsp; everyone, I am the last speaker before launch&nbsp; and my name is Dave Ward and as you just heard&nbsp;&nbsp; I'm the chief technology and product officer&nbsp; at Lumen.
+
+- **[Weeks to Hours: Accelerating Drug Discovery with AIP | Novartis at AIPCon 8](https://www.youtube.com/watch?v=dQ8KeyVmfUM)** · Palantir (channel)
+  Please welcome head of data 42 at&nbsp; Noartis, Burgett Sherbold. [Music] Good morning. Now we're switching gears. My name&nbsp; is Burg Shouba, head of data 42 at Novartis.&nbsp;&nbsp; Novartis is a leading global medicines company&nbsp; and we focus on science and innovation. I'm really&nbsp;&nbsp; excited to be here today to share with you how&nbsp; we re-imag the way we discover novel lifesaving&nbsp;&nbsp; medicines with the power of data and AIP.
+
 - **[Secure your RAG pipelines with fine grained authorization using SpiceDB](https://www.youtube.com/watch?v=S6xJ0Kkd7ss)** · Pinecone (channel)
   안녕하세요, 반갑습니다. 네, 오늘 웨비나에 많은 분들이 참여하고 계신 것 같습니다 . 음, 헨이 언급했듯이 우리는 RAG 파이프라인을 안전하게 보호하는 방법과 역할 및 권한에 대해 배우고, 그것이 얼마나 어려운 일인지 알아보기 위해 여기에 왔습니다. 채팅창에 녹화 여부에 대한 질문이 있는 것 같네요. 저희는 녹음하고 있습니다. 이어서 녹음 파일을 보내드리겠습니다. 약 일주일 후 저희 유튜브 채널에도 해당 영상을 올릴 예정입니다 . 음, 다음 슬라이드로 넘어가시려면, 네 , 그리고 오늘 질문이 있으시면 채팅창보다는 줌의 질의응답(Q&amp;A) 부분에 질문을 남겨주세요.
 
@@ -9309,7 +9378,7 @@
 - **[Protecting America’s Security with AIP for Nuclear Construction | The Nuclear Company at AIPCon 8](https://www.youtube.com/watch?v=hTjGU14bxP0)** · Palantir (channel)
   Please welcome co-founder and CEO at&nbsp; the nuclear company, Jonathan Webb. [Music] Just let this sink in for a moment. That&nbsp; pink line is the US. That blue line is China. We still have the largest nuclear operating fleet&nbsp; in the world. But if you see that trajectory,&nbsp;&nbsp; that's about to change. And it's unacceptable. We're all here talking about AI. There's&nbsp; no AI without power.
 
-### unclassified (49건)
+### unclassified (53건)
 
 - **[From Developer to Game Creator: Getting Started in Game Development | The AWS Developers Podcast](https://www.youtube.com/watch?v=9RTglcxR9QA)** · AWS Developers (channel)
   게임 개발을 고려해 봐야 할까요? 게임 개발 방법은 무엇인가요? 이번 AWS 개발자 팟캐스트 에피소드에서 바로 그 질문에 대한 답을 찾아보겠습니다. 안녕하세요, 좋은 아침입니다, 좋은 오후입니다. 티파니와 함께하는 AWS 개발자 팟캐스트의 새로운 영상 에피소드에 참여해 주셔서 감사합니다. 안녕하세요 여러분. 오늘 저희의 특별 손님은 마투스입니다. 개발자 담당자인 마투스입니다. 개발자 한 명 가격으로 개발자 세 명을 대변해 드립니다 . 너무 좋아요. 쇼에 오신 것을 환영합니다. 그러니까 개발자 옹호자가 되기 전에 게임 개발자로 일하셨던 거군요.
@@ -9395,14 +9464,26 @@
 - **[First look: Next-gen ProPILOT driver assist tech with AI | Nissan](https://www.youtube.com/watch?v=QXV3Xt1DL3M)** · Nissan (channel)
   Nissan is redefining the future of driving with its next-generation ProPILOT technology, powered by advanced AI. In Tokyo, all-electric Ariya prototypes showed new levels of safety and confidence on complex city streets with cameras, radar and high performance LiDAR. The system perceives the road in real time. At its core, Wayve’s AI driver software works with Nissan's Ground Truth Perception. Together, they deliver a human like driving experience.
 
+- **[Driving Operational Value | bp at AIPCon 8](https://www.youtube.com/watch?v=1Wrhaur3ws0)** · Palantir (channel)
+  [Music] Please welcome from BP executive vice&nbsp; president technology Acha Amebleu and senior vice&nbsp;&nbsp; president digital delivery Sanjay Pande. [Music]&nbsp; So um hello everyone. This is Thunderhorse. This&nbsp;&nbsp; is one of our platforms that we operate in the&nbsp; we're here from BP. This is one of our platforms,&nbsp;&nbsp; our biggest platform that we operate in the&nbsp; Gulf of America. Um really hi everyone. It's&nbsp;&nbsp; really great to be with you today.
+
 - **[From 9/11 to AI: Mike Gallagher on How American Workers Will Win the 21st Century](https://www.youtube.com/watch?v=gakCerVqzSY)** · Palantir (channel)
   [Music] Welcome to the Working Intelligence Podcast,&nbsp; part of Working Intelligence, the AI Optimism&nbsp;&nbsp; Project. I'm Jordan Hirsch, and I'm honored to&nbsp; be joined by my friend and fellow Palunteerian,&nbsp;&nbsp; Mike Gallagher. Mike spent seven years in Congress&nbsp; representing the 8th district of Wisconsin, served&nbsp;&nbsp; in the Marine Corps as an intelligence officer&nbsp; with two deployments in Iraq and holds a PhD&nbsp;&nbsp; from Georgetown.
 
 - **[Palantir’s Nicholas Zamiska Discusses The Technological Republic](https://www.youtube.com/watch?v=L72uW5HAWB4)** · Palantir (channel)
   Well, the the the core argument of the book is&nbsp; that Silicon Valley should come to the defense of&nbsp;&nbsp; the nation that made its rise possible. You know,&nbsp; I came of age during a generation where there was&nbsp;&nbsp; so much talent, so much funding really flowing&nbsp; to Silicon Valley. But to build the trivial and&nbsp;&nbsp; ephemeral, you know, the iPhones that are in all&nbsp; of our pockets, it's a wondrous invention.
 
+- **[Reinventing IndyCar Race Performance | Andretti at AIPCon 8](https://www.youtube.com/watch?v=mBDQK7OJ1Ls)** · Palantir (channel)
+  Good morning everyone and welcome to AIPCON 8. My&nbsp; name is Jack Dobson, AIP lead here at Palanteer&nbsp;&nbsp; and it's my absolute pleasure to welcome you to&nbsp; the show. For those of you that are returning,&nbsp;&nbsp; welcome back. Those of you that are new to&nbsp; the show, thank you so much for joining us.&nbsp;&nbsp; We have a great morning's content lined up&nbsp; for you. A whole set of customer keynotes,&nbsp;&nbsp; including also our CEO, Dr.
+
 - **[Supporting Flood Recovery in Texas | Texas Department of Public Safety at AIPCon 8](https://www.youtube.com/watch?v=sk2peD8SB3s)** · Palantir (channel)
   Please welcome Captain at the Texas&nbsp; Department of Public Safety, John Miller. All right, good morning everybody. My name is John&nbsp; Miller. I'm a captain with the Texas Department of&nbsp;&nbsp; Public Safety, Texas Ranger Division Special&nbsp; Operations Group. We are an organization that&nbsp;&nbsp; responds to critical man-made and natural&nbsp; disasters across the entire state of Texas,&nbsp;&nbsp; focusing on everything from border security&nbsp; operations to hostage rescue events at the&nbsp;&nbsp; tactical level and augmented by our border uh&nbsp; border security operations center and joint&nbsp;&nbsp; operation intelligence centers spread across the&nbsp; uh Texas border at the operational and strategic&nbsp;&nbsp; level.
+
+- **[Transforming Network Planning for Aviation | American Airlines at AIPCon 8](https://www.youtube.com/watch?v=DLx3ix6c0Oo)** · Palantir (channel)
+  Please welcome from American Airlines&nbsp; vice president of operations strategic&nbsp;&nbsp; planning and performance an Moroni&nbsp; and director operations schedule&nbsp;&nbsp; and block planning Amit Shindai. Good morning. Um so I hope your journey here was smooth and&nbsp; I hope if you flew that it was on American&nbsp;&nbsp; Airlines. So thank you for your business. Um my&nbsp; name is Ann Moroni.
+
+- **[Unifying the Care Journey for Every Patient | HSS at AIPCon 8](https://www.youtube.com/watch?v=mKp3TTggihU)** · Palantir (channel)
+  Please welcome from Hospital for Special Surgery&nbsp;&nbsp; Chief Digital and Technology&nbsp; Officer Ashish Barad. [Music] Hello everybody. Uh so I am Dr. Ashish Barad. I'm&nbsp; a practicing physician for roughly 20 years now.&nbsp;&nbsp; Um, and um, you know, wi with that being said,&nbsp; the the work we're doing with Palunteer um,&nbsp;&nbsp; is is really exceptional. I can't wait to&nbsp; to dive in uh, from that perspective.
 
 - **[Runway This Week | September 13](https://www.youtube.com/watch?v=f8s65xJdQkY)** · Runway (channel)
   안녕하세요, 저는 니코이고 런웨이에 오신 것을 환영합니다. 이번 주에 채팅 모드에 많은 개선 사항을 적용했습니다. 이제 사용자 지정 지침을 정의하여 채팅을 필요에 맞게 더욱 세밀하게 조정할 수 있습니다. 지침을 활용하면 특정 미적 스타일에 더욱 집중하거나, 채팅에서 따라야 할 워크플로를 정의하거나, 완전히 새로운 규칙을 설정하여 Runway를 워크플로에 더욱 효과적이고 효율적으로 사용할 수 있습니다. 곰은 왜 신발을 신지 않을까요? 왜냐하면 그들은 여전히 ​​맨발일 테니까요. 이제 채팅 모드 내에서 여러 개의 비디오를 하나로 합칠 수도 있습니다
