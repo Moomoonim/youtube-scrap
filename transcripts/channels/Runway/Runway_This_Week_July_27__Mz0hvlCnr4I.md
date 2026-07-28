@@ -1,0 +1,13 @@
+# Runway This Week | July 27
+
+- 영상 링크: https://www.youtube.com/watch?v=Mz0hvlCnr4I
+- 채널: Runway
+- 업로드일: 2025-07-28
+- 자막 언어: en
+- 단어 수: 약 470개
+
+---
+
+## 스크립트
+
+Welcome to Runway this week. My name is Nico and today we have so much exciting stuff to talk about. Let's dive in. First up, we are incredibly excited to have announced Runway ALF. Runway ALF is a brand new foundational model. It gives users completely new ways to edit, transform, and generate video content. ALF brings a lot of novel features that haven't been possible like this until this point. We can generate brand new angles of existing footage. We can use style transfer to create brand new scenes referencing an initial output. There are also a lot of VFX pipelines that are empowered by ALF. For example, we can change environments, times of days, and the seasons by simply taking our footage and applying a prompt to it. It's exciting to release such a new and novel model, and we look forward to seeing how creatives implement it into their workflows. We also have another small announcement, and that is that chat mode has finally landed on mobile. That also brings us to this week's tip. Chat mode on mobile can make direct use of your camera. For example, we can take a picture of this little toy car. We upload it to the chat and then proceed to take a picture of this environment of simply a picture on our cupboard. We add a prompt where we ask the model to place the car into that environment. And voila, we suddenly have this beautiful Mustang standing in the snowy forest. We can then continue to make a picture of this little lighthouse and add it to this scene as a next step. This is a super powerful workflow because it iteratively allows you to start building your scenes. Next up is our community shoutout. This week we want to highlight Neural Viz. Neural Viz has put together a 8inut piece using runway act 2 as the driver for all of the character performances. We're excited to see that creators are getting the confidence of increasing the duration of their projects. Neuraliz fantastic job. Keep them coming. We love to see it. As every week, we also want to highlight the daily Discord challenge. You can find it under the link below. And the challenge for today is vacation. So, as always, you have time to submit your generation that fits to the word vacation until tomorrow morning, 10:00 a.m. Eastern. Good luck. That's it for this week. It's truly an exciting time to be a creative. Runway ALF will fundamentally change how we interact with this technology on this new creative frontier. We're extremely excited to be rolling out ALF to all of our users throughout the next days, and we're excited to see what you will be able to do with it. Until next week, ciao.
