@@ -39,8 +39,7 @@ def list_channel_videos(handle):
         "no_warnings": True,
         "extract_flat": "in_playlist",  # 목록만 빠르게
         "skip_download": True,
-        "playlistend": 3000,            # 목록 조회 상한 [2026-07-28] 1200→3000:
-                                        # 다작 채널도 2020년 영상까지 목록에 포함되도록 상향
+        "playlistend": 1200,            # 목록 조회 시간 상한 (백필 진행되면 상향)
         "socket_timeout": config.SOCKET_TIMEOUT_SEC,
         "sleep_interval_requests": config.SLEEP_BETWEEN_REQUESTS_SEC,
         **cookie_opts(),
