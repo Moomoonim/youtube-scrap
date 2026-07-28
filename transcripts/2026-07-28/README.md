@@ -21,3 +21,10 @@
 - [채권시장이 먼저 알아챈 ‘진짜 위험’… AI 투자판의 돈줄이 마르고 있다?!](채권시장이_먼저_알아챈_‘진짜_위험’…_AI_투자판의_돈줄이_마르고_있다!__jXcPQi3f-P4.md) (ko) — [원본](https://www.youtube.com/watch?v=jXcPQi3f-P4)
 - [싸고 강해진 중국 AI, 비결은 ‘오픈웨이트’ - 이재성 교수 (중앙대 AI학과) [성공예감 이대호입니다]｜KBS 260728 방송](싸고_강해진_중국_AI,_비결은_‘오픈웨이트’_-_이재성_교수_(중앙대_AI학과)_[성공예감_이대호입니다]｜__vFhzvFf8EGE.md) (ko) — [원본](https://www.youtube.com/watch?v=vFhzvFf8EGE)
 - [D2dglobal-Public and Private Sector AI Transformation (AX) Initiatives Shaping South Korea's Future](D2dglobal-Public_and_Private_Sector_AI_Transformation_(AX)_I__g9FRwM9v8M8.md) (ko) — [원본](https://www.youtube.com/watch?v=g9FRwM9v8M8)
+
+## 23:34 수집 (4개)
+
+- [다급해진 젠슨황의 수상한 행보, AI 내부 분열의 징조일까](다급해진_젠슨황의_수상한_행보,_AI_내부_분열의_징조일까__BIDb3usP_wM.md) (ko) — [원본](https://www.youtube.com/watch?v=BIDb3usP_wM)
+- [90년 수학 난제를 무너뜨린 AI, 그런데 2차원은 남았다?](90년_수학_난제를_무너뜨린_AI,_그런데_2차원은_남았다__QiKSPPo98lU.md) (ko) — [원본](https://www.youtube.com/watch?v=QiKSPPo98lU)
+- [엔비디아와 AI 생태계 이렇게 무너지나 (한상희) | 인포맥스라이브 2026년 7월28일 방송](엔비디아와_AI_생태계_이렇게_무너지나_(한상희)_인포맥스라이브_2026년_7월28일_방송__BC-6CGpM_Mg.md) (ko) — [원본](https://www.youtube.com/watch?v=BC-6CGpM_Mg)
+- [AI Agents: getting to 90%, the AI adoption playbook for Enterprise](AI_Agents_getting_to_90%,_the_AI_adoption_playbook_for_Enter__01NYw3PzqiI.md) (ko) — [원본](https://www.youtube.com/watch?v=01NYw3PzqiI)
