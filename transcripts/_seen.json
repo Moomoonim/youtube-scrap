@@ -46137,5 +46137,1003 @@
     "lang": "ko",
     "upload_date": "20260413",
     "fetched_at": "2026-07-30"
+  },
+  "O5PJmXPZ0eU": {
+    "title": "AI Stock Fear: Spreading from Korea to the Rest of the World?",
+    "url": "https://www.youtube.com/watch?v=O5PJmXPZ0eU",
+    "fetched_at": "2026-07-30",
+    "lang": "ko"
+  },
+  "bblW3UbbzN8": {
+    "title": "Inside Siemens Electronics Factory Erlangen | AI, Robotics & the Industrial Metaverse in Action",
+    "channel": "Siemens",
+    "lang": "en",
+    "upload_date": "20260128",
+    "fetched_at": "2026-07-30"
+  },
+  "tolLHQWJzKY": {
+    "title": "Siemens, Capgemini, EDP and Kraken on how AI will transform the energy sector",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20260123",
+    "fetched_at": "2026-07-30"
+  },
+  "w3FQ-d8nikY": {
+    "title": "How 3D Printing Solved a Floodplain Challenge: Paradeco Coffee and Haddy",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20260123",
+    "fetched_at": "2026-07-30"
+  },
+  "Ibk9YNzYPYw": {
+    "title": "Industrial Metaverse and AI: Data Integration and Digital Transformation | Siemens and AWS",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20260120",
+    "fetched_at": "2026-07-30"
+  },
+  "ZLl184cSyYM": {
+    "title": "Building AI Factories: How Siemens and AWS Are Solving Data Center Engineering Challenges",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20260118",
+    "fetched_at": "2026-07-30"
+  },
+  "duvbXvfEqck": {
+    "title": "Software Development for Industrial Digital Transformation | Siemens Mendix Explained",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20260116",
+    "fetched_at": "2026-07-30"
+  },
+  "q6cFIjviJMk": {
+    "title": "AI, Micro-Credentials, and Skills Development at Siemens - Building the Workforce of the Future",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20260115",
+    "fetched_at": "2026-07-30"
+  },
+  "4boWnMQXZMw": {
+    "title": "Industrial AI in Practice: From Product Design to Factory Floor with Siemens and NVIDIA",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20260114",
+    "fetched_at": "2026-07-30"
+  },
+  "714112eHk4A": {
+    "title": "Stories from the AI Search Frontier | Superlinked | Daniel Svonava",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20251028",
+    "fetched_at": "2026-07-30"
+  },
+  "QnRjMolv8Qk": {
+    "title": "Qdrant Essentials | Course Overview",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20251022",
+    "fetched_at": "2026-07-30"
+  },
+  "PLTlJyrSkng": {
+    "title": "Qdrant Essentials | Qdrant Cloud Overview",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20251022",
+    "fetched_at": "2026-07-30"
+  },
+  "_83L9ZIoOjM": {
+    "title": "Qdrant Essentials | Building Simple Vector Search in Qdrant",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20251022",
+    "fetched_at": "2026-07-30"
+  },
+  "Q6ZalzJ8dv8": {
+    "title": "Qdrant Essentials | Creating Vectors and Embeddings for Vector Search in Qdrant",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20251022",
+    "fetched_at": "2026-07-30"
+  },
+  "VNyA2nXqczk": {
+    "title": "Qdrant Essentials | Chunking Data for Better Vector Search Results",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20251022",
+    "fetched_at": "2026-07-30"
+  },
+  "S7FsgzYwzJs": {
+    "title": "Qdrant Essentials | Build a Movie Recommendation Engine",
+    "channel": "Qdrant",
+    "lang": "en",
+    "upload_date": "20251022",
+    "fetched_at": "2026-07-30"
+  },
+  "-q-pLgGDYr4": {
+    "title": "Qdrant Essentials | Fast Vector Search with Qdrant HNSW Indexing",
+    "channel": "Qdrant",
+    "lang": "en",
+    "upload_date": "20251022",
+    "fetched_at": "2026-07-30"
+  },
+  "sYLU40u9L-k": {
+    "title": "Inside NVIDIA Cosmos | SIGGRAPH 2026 Keynote",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20260729",
+    "fetched_at": "2026-07-30"
+  },
+  "Ahi9Ta-gv9I": {
+    "title": "GPU Sharing for Compute and Graphics: Universal MIG with NVIDIA vGPU on RTX PRO 6000 Blackwell",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20250806",
+    "fetched_at": "2026-07-30"
+  },
+  "hMGikmMFLAU": {
+    "title": "Train a Reasoning-Capable LLM in One Weekend",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20250730",
+    "fetched_at": "2026-07-30"
+  },
+  "u5bZYxz963s": {
+    "title": "A Fully Open Large Audio-Language Model Trained on Sound, Speech, and Music | NVIDIA Research",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20250728",
+    "fetched_at": "2026-07-30"
+  },
+  "wzS-11pHwCM": {
+    "title": "Simulate Real-World Data Centers in the Cloud with NVIDIA Air",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20250724",
+    "fetched_at": "2026-07-30"
+  },
+  "p3RbbtVVgvk": {
+    "title": "Canary-Qwen-2.5B Sets New Speech AI Benchmark | Hugging Face ASR Leaderboard",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20250724",
+    "fetched_at": "2026-07-30"
+  },
+  "rjLUm_7CDkM": {
+    "title": "Set Up a Data Flywheel to Self-Optimize AI Models and Agents",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20250723",
+    "fetched_at": "2026-07-30"
+  },
+  "Fo9kNJE5nC8": {
+    "title": "Evaluate LLMs with NeMo Evaluator and Docker Compose | Step-by-Step Setup Guide",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20250722",
+    "fetched_at": "2026-07-30"
+  },
+  "CNlp-xaQAw0": {
+    "title": "Snowflake World Tour is Coming To Sydney",
+    "channel": "Snowflake",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "c2IYphlL1ZI": {
+    "title": "Instant Enterprise Insights With Snowflake Intelligence",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260115",
+    "fetched_at": "2026-07-30"
+  },
+  "gnyBIl8_m2E": {
+    "title": "Snowflake Ventures On Accelerating Startups In The AI Data Cloud",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260115",
+    "fetched_at": "2026-07-30"
+  },
+  "YFTTMP6meVQ": {
+    "title": "End Data Disparity: Using Geospatial Data To Improve Cities",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260114",
+    "fetched_at": "2026-07-30"
+  },
+  "HjigyTy75gM": {
+    "title": "Kaysha Love Drives Faster Decisions With Snowflake",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260114",
+    "fetched_at": "2026-07-30"
+  },
+  "zucMJbB1_Fo": {
+    "title": "Snow Report: What's Happening At Snowflake in January",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260113",
+    "fetched_at": "2026-07-30"
+  },
+  "5tf3zfjZoZk": {
+    "title": "Carsten Vissering Pushes Limits With Data",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20260107",
+    "fetched_at": "2026-07-30"
+  },
+  "gwADzqQfBDM": {
+    "title": "Snowflake Predictions 2026",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251223",
+    "fetched_at": "2026-07-30"
+  },
+  "-hel9assF7g": {
+    "title": "Do Identity Intelligence Better with Snowflake and Verato",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251222",
+    "fetched_at": "2026-07-30"
+  },
+  "wq63HMgaNdw": {
+    "title": "A Smarter Way to Fly Green | An Infosys Sustainability Case Study",
+    "channel": "Infosys",
+    "lang": "ko",
+    "upload_date": "20251016",
+    "fetched_at": "2026-07-30"
+  },
+  "1PHB1Cl1ckI": {
+    "title": "On Track for Transparency | An Infosys Sustainability Case Study",
+    "channel": "Infosys",
+    "lang": "ko",
+    "upload_date": "20251014",
+    "fetched_at": "2026-07-30"
+  },
+  "efrWdCKxucQ": {
+    "title": "From Purpose to Progress | EzeCheck",
+    "channel": "Infosys",
+    "lang": "ko",
+    "upload_date": "20251014",
+    "fetched_at": "2026-07-30"
+  },
+  "tAOUG0_75-Q": {
+    "title": "Climate Action on the Menu | An Infosys Sustainability Case Study",
+    "channel": "Infosys",
+    "lang": "ko",
+    "upload_date": "20251008",
+    "fetched_at": "2026-07-30"
+  },
+  "xd2SLwjsStQ": {
+    "title": "From Purpose to Progress | TJay",
+    "channel": "Infosys",
+    "lang": "ko",
+    "upload_date": "20251008",
+    "fetched_at": "2026-07-30"
+  },
+  "7QzORTrE6fE": {
+    "title": "AI your Enterprise with Infosys – Thomas Leen and R “Ray” Wang",
+    "channel": "Infosys",
+    "lang": "ko",
+    "upload_date": "20250909",
+    "fetched_at": "2026-07-30"
+  },
+  "4k3L800g6ow": {
+    "title": "From Dream to Reality: A Young Champion's Journey to meeting Rafa Nadal with Infosys",
+    "channel": "Infosys",
+    "lang": "ko",
+    "upload_date": "20250906",
+    "fetched_at": "2026-07-30"
+  },
+  "TLmJLH7Ol3I": {
+    "title": "From Purpose to Progress | Annie",
+    "channel": "Infosys",
+    "lang": "ko",
+    "upload_date": "20250828",
+    "fetched_at": "2026-07-30"
+  },
+  "bFZLiHMtdQI": {
+    "title": "Life at Volvo Cars - Meet Jyosheel",
+    "channel": "Volvo Cars",
+    "lang": "en",
+    "upload_date": "20220530",
+    "fetched_at": "2026-07-30"
+  },
+  "yTWMwxD5Y3I": {
+    "title": "V60 Cross Country: Ready",
+    "channel": "Volvo Cars",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "SjCIz1fxSsI": {
+    "title": "Life at Volvo Cars - Meet Erik",
+    "channel": "Volvo Cars",
+    "lang": "en",
+    "upload_date": "20220523",
+    "fetched_at": "2026-07-30"
+  },
+  "eybUDf-Az-I": {
+    "title": "Life at Volvo Cars - Meet Lela",
+    "channel": "Volvo Cars",
+    "lang": "en",
+    "upload_date": "20220516",
+    "fetched_at": "2026-07-30"
+  },
+  "JK7WxOHsqeE": {
+    "title": "Life at Volvo Cars - Meet Zijian",
+    "channel": "Volvo Cars",
+    "lang": "en",
+    "upload_date": "20220509",
+    "fetched_at": "2026-07-30"
+  },
+  "59LEgIa4l4Y": {
+    "title": "Life at Volvo Cars - Meet Oscar",
+    "channel": "Volvo Cars",
+    "lang": "en",
+    "upload_date": "20220503",
+    "fetched_at": "2026-07-30"
+  },
+  "uDu22_lEYAg": {
+    "title": "Life at Volvo Cars - Meet Siddhant",
+    "channel": "Volvo Cars",
+    "lang": "en",
+    "upload_date": "20220425",
+    "fetched_at": "2026-07-30"
+  },
+  "TmncLjyBs4Q": {
+    "title": "XC90 Recharge: Right Here, Right Now",
+    "channel": "Volvo Cars",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "piJu92gOeH8": {
+    "title": "Life at Volvo Cars – Meet our people",
+    "channel": "Volvo Cars",
+    "lang": "en",
+    "upload_date": "20220418",
+    "fetched_at": "2026-07-30"
+  },
+  "duINWrCBBt0": {
+    "title": "Family Bond by Volvo Cars: It’s Time",
+    "channel": "Volvo Cars",
+    "lang": "en",
+    "upload_date": "20220405",
+    "fetched_at": "2026-07-30"
+  },
+  "F4HJIW2kJlQ": {
+    "title": "Intel Foundry Direct Connect 2025 | Cadence Design Systems",
+    "channel": "Intel",
+    "lang": "ko",
+    "upload_date": "20250512",
+    "fetched_at": "2026-07-30"
+  },
+  "0pkdl81hYzE": {
+    "title": "Intel Foundry Direct Connect 2025 | eMemory",
+    "channel": "Intel",
+    "lang": "ko",
+    "upload_date": "20250512",
+    "fetched_at": "2026-07-30"
+  },
+  "HrVhqpgVm_M": {
+    "title": "Intel Foundry Direct Connect 2025 | Synopsys",
+    "channel": "Intel",
+    "lang": "ko",
+    "upload_date": "20250512",
+    "fetched_at": "2026-07-30"
+  },
+  "_TxsmZyPrpI": {
+    "title": "Intel Foundry Direct Connect 2025 | QuickLogic",
+    "channel": "Intel",
+    "lang": "ko",
+    "upload_date": "20250512",
+    "fetched_at": "2026-07-30"
+  },
+  "QT8rRhVPyQU": {
+    "title": "Intel Foundry Direct Connect 2025 Highlights | Intel",
+    "channel": "Intel",
+    "lang": "ko",
+    "upload_date": "20250502",
+    "fetched_at": "2026-07-30"
+  },
+  "yKTDS5RxAmQ": {
+    "title": "Reimagining Productivity with AI-Ready Devices | Intel",
+    "channel": "Intel",
+    "lang": "ko",
+    "upload_date": "20250501",
+    "fetched_at": "2026-07-30"
+  },
+  "0ED7n2g8lO0": {
+    "title": "Direct Connect 2025 Keynote | Intel",
+    "channel": "Intel",
+    "lang": "ko",
+    "upload_date": "20250429",
+    "fetched_at": "2026-07-30"
+  },
+  "NthMP_e2lGY": {
+    "title": "AI’s Healthcare Revolution: From Diagnostics to Personalized Treatment | Intel",
+    "channel": "Intel",
+    "lang": "ko",
+    "upload_date": "20250416",
+    "fetched_at": "2026-07-30"
+  },
+  "4Tt4LhJ6tD8": {
+    "title": "Live code review: Pinecone semantic search",
+    "channel": "Pinecone",
+    "lang": "en",
+    "upload_date": "20230822",
+    "fetched_at": "2026-07-30"
+  },
+  "1Z8T36sZ9WI": {
+    "title": "How to use Jupyter Notebooks to do Machine Learning and AI Tasks",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20230819",
+    "fetched_at": "2026-07-30"
+  },
+  "FrlG83du31Q": {
+    "title": "Live code review: Pinecone Vercel starter template and Retrieval Augmented Generation (RAG). Part #2",
+    "channel": "Pinecone",
+    "lang": "en",
+    "upload_date": "20230816",
+    "fetched_at": "2026-07-30"
+  },
+  "ZmuJmvH6e3A": {
+    "title": "Build Overpowered Generative AI Applications with OP Stack",
+    "channel": "Pinecone",
+    "lang": "en",
+    "upload_date": "20230811",
+    "fetched_at": "2026-07-30"
+  },
+  "HX7xr4DYX0Q": {
+    "title": "LLMs: Consider Hallucinatory Unless Proven Otherwise",
+    "channel": "Pinecone",
+    "lang": "en",
+    "upload_date": "20230811",
+    "fetched_at": "2026-07-30"
+  },
+  "p3zyCc4PLg0": {
+    "title": "The One-Week POC: Winning projects from the Pinecone Hackathon",
+    "channel": "Pinecone",
+    "lang": "en",
+    "upload_date": "20230811",
+    "fetched_at": "2026-07-30"
+  },
+  "K5R_jpvflMU": {
+    "title": "The Keys to Success with Generative AI and Vector Databases",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20230811",
+    "fetched_at": "2026-07-30"
+  },
+  "ch5K8t3eLRw": {
+    "title": "Preparing Data for LLMs and Gen-AI Workflows",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20230811",
+    "fetched_at": "2026-07-30"
+  },
+  "IvKX1temlK0": {
+    "title": "How Capgemini Improves Customer Experience and Hiring Outcomes with SAP AI",
+    "channel": "SAP",
+    "lang": "ko",
+    "upload_date": "20260610",
+    "fetched_at": "2026-07-30"
+  },
+  "qYnej3Xx5Yc": {
+    "title": "How Mead Johnson Nutrition Built a Trusted Foundation for AI with SAP Business Data Cloud",
+    "channel": "SAP",
+    "lang": "ko",
+    "upload_date": "20260609",
+    "fetched_at": "2026-07-30"
+  },
+  "SwmmO5PQlCI": {
+    "title": "How IBM Moves AI from Prompt to Production with Joule Studio",
+    "channel": "SAP",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-30"
+  },
+  "fpawzHVjywQ": {
+    "title": "How Accenture Drives Enterprise Modernization with SAP Business AI",
+    "channel": "SAP",
+    "lang": "ko",
+    "upload_date": "20260608",
+    "fetched_at": "2026-07-30"
+  },
+  "tGoBf-qZ0oA": {
+    "title": "SAP Store: Expand Your SAP Landscape Faster",
+    "channel": "SAP",
+    "lang": "ko",
+    "upload_date": "20260604",
+    "fetched_at": "2026-07-30"
+  },
+  "H09ci9EI7Aw": {
+    "title": "SAP Store Private Offers: Simplify Software Purchasing",
+    "channel": "SAP",
+    "lang": "ko",
+    "upload_date": "20260604",
+    "fetched_at": "2026-07-30"
+  },
+  "g9pGJu_atNc": {
+    "title": "SAP Store: The Digital Marketplace for SAP and Partner Solutions",
+    "channel": "SAP",
+    "lang": "ko",
+    "upload_date": "20260604",
+    "fetched_at": "2026-07-30"
+  },
+  "OigrIYWMymI": {
+    "title": "What's New in SAP Analytics Cloud | Deep Dive with Product Experts | Q2 2026",
+    "channel": "SAP",
+    "lang": "ko",
+    "upload_date": "20260603",
+    "fetched_at": "2026-07-30"
+  },
+  "tQl4YRL-IBY": {
+    "title": "IP WHY E08 | Protecting Secrets & Data",
+    "channel": "Scale AI",
+    "lang": "ko",
+    "upload_date": "20220315",
+    "fetched_at": "2026-07-30"
+  },
+  "z2VdujdGHIg": {
+    "title": "IP WHY E07 | Well-planned Patents",
+    "channel": "Scale AI",
+    "lang": "ko",
+    "upload_date": "20220315",
+    "fetched_at": "2026-07-30"
+  },
+  "Uz9UtoZyjPU": {
+    "title": "Scale AI | Des brevets bien planifiés | Pourquoi PI E7",
+    "channel": "Scale AI",
+    "lang": "en",
+    "upload_date": "20220315",
+    "fetched_at": "2026-07-30"
+  },
+  "lnJr-GGB__8": {
+    "title": "Scale AI | Protéger les secrets et les données | Pourquoi PI E8",
+    "channel": "Scale AI",
+    "lang": "en",
+    "upload_date": "20220315",
+    "fetched_at": "2026-07-30"
+  },
+  "YFXEmw8Kp40": {
+    "title": "Scale AI | 10 façons dont les brevets peuvent aider les PMEs et startups | Pourquoi PI E6",
+    "channel": "Scale AI",
+    "lang": "ko",
+    "upload_date": "20220308",
+    "fetched_at": "2026-07-30"
+  },
+  "Mgymdm6h3pg": {
+    "title": "IP WHY E06 | Top 10 patent benefits for SMEs and startups",
+    "channel": "Scale AI",
+    "lang": "ko",
+    "upload_date": "20220308",
+    "fetched_at": "2026-07-30"
+  },
+  "Zjb6sq7LeUU": {
+    "title": "Scale AI | Les brevets : démêler les faits de la fiction | Pourquoi PI E5",
+    "channel": "Scale AI",
+    "lang": "ko",
+    "upload_date": "20220308",
+    "fetched_at": "2026-07-30"
+  },
+  "AF200ek5kwM": {
+    "title": "IP WHY E05 | Patents: Separating fact from fiction",
+    "channel": "Scale AI",
+    "lang": "ko",
+    "upload_date": "20220308",
+    "fetched_at": "2026-07-30"
+  },
+  "W6A181F9-Us": {
+    "title": "Arm Viewpoints: What are chiplets and why are they the future of innovation?",
+    "channel": "Arm",
+    "lang": "ko",
+    "upload_date": "20260115",
+    "fetched_at": "2026-07-30"
+  },
+  "YF7dcSd_3L0": {
+    "title": "Panos Panay: On Humility and Empathy in Leadership",
+    "channel": "Arm",
+    "lang": "ko",
+    "upload_date": "20260115",
+    "fetched_at": "2026-07-30"
+  },
+  "abkyaeHNnLo": {
+    "title": "Drew Henry on AI-defined vehicles and autonomy at CES 2026",
+    "channel": "Arm",
+    "lang": "ko",
+    "upload_date": "20260112",
+    "fetched_at": "2026-07-30"
+  },
+  "u87OKKHX_6s": {
+    "title": "Chris Bergey on the impact of smart wearables at CES 2026",
+    "channel": "Arm",
+    "lang": "ko",
+    "upload_date": "20260109",
+    "fetched_at": "2026-07-30"
+  },
+  "JTWfI1yawAI": {
+    "title": "Drew Henry on humanoid robots and the future of physical AI",
+    "channel": "Arm",
+    "lang": "ko",
+    "upload_date": "20260108",
+    "fetched_at": "2026-07-30"
+  },
+  "EYwSklRih54": {
+    "title": "Chris Bergey explains how gaming is evolving on Arm at CES 2026",
+    "channel": "Arm",
+    "lang": "ko",
+    "upload_date": "20260108",
+    "fetched_at": "2026-07-30"
+  },
+  "uFAvE1mNgvY": {
+    "title": "Chris Bergey explains why edge AI is becoming the default for devices at CES 2026",
+    "channel": "Arm",
+    "lang": "ko",
+    "upload_date": "20260107",
+    "fetched_at": "2026-07-30"
+  },
+  "OHQJsiS4onk": {
+    "title": "Drew Henry explains why physical AI is being built on Arm at CES 2026",
+    "channel": "Arm",
+    "lang": "ko",
+    "upload_date": "20260107",
+    "fetched_at": "2026-07-30"
+  },
+  "KvjH2Kypxqs": {
+    "title": "Your Village Makes Special Moment Possible",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260729",
+    "fetched_at": "2026-07-30"
+  },
+  "YZAO_BExt9c": {
+    "title": "Helpful Advice from a Friend",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260729",
+    "fetched_at": "2026-07-30"
+  },
+  "cOMsqfI2X2A": {
+    "title": "Thank you for Joining Mom's Village!",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260729",
+    "fetched_at": "2026-07-30"
+  },
+  "3VIN3A_Hq18": {
+    "title": "Share the Care Connector has begun!",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260729",
+    "fetched_at": "2026-07-30"
+  },
+  "SSv1p2b1Pgc": {
+    "title": "Philips Avent Share the Care Connector",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260729",
+    "fetched_at": "2026-07-30"
+  },
+  "P1lRQxfioEQ": {
+    "title": "Philips OneBlade Squad",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260729",
+    "fetched_at": "2026-07-30"
+  },
+  "BHt2y2z_fow": {
+    "title": "Philips Sonicare - Feel the Care",
+    "channel": "Philips",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "uEnT0bkRGH4": {
+    "title": "Philips Sonicare - Feel the Care",
+    "channel": "Philips",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "uKA4BOdXxuk": {
+    "title": "Philips Sonicare - Feel the Care",
+    "channel": "Philips",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "kJ5alE_VCCY": {
+    "title": "Ob Fray und Vico das OneBlade Sword zur gamescom bekommen? Find out @ Halle 8 Stand A065.",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260728",
+    "fetched_at": "2026-07-30"
+  },
+  "Ps7-HrVPbNI": {
+    "title": "Ob Fray und Vico das OneBlade Sword zur gamescom bekommen? Find out @ Halle 8 Stand A065.",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260728",
+    "fetched_at": "2026-07-30"
+  },
+  "koAtdkoNpJ0": {
+    "title": "Reimagining AI education and supporting the next generation of learners",
+    "channel": "Microsoft",
+    "lang": "en",
+    "upload_date": "20260205",
+    "fetched_at": "2026-07-30"
+  },
+  "Kqai-VfVLOQ": {
+    "title": "Black and African American voices shape today. Their impact builds tomorrow.",
+    "channel": "Microsoft",
+    "lang": "en",
+    "upload_date": "20260204",
+    "fetched_at": "2026-07-30"
+  },
+  "vdwaVHcJKEQ": {
+    "title": "Supporting endangered languages",
+    "channel": "Microsoft",
+    "lang": "en",
+    "upload_date": "20260130",
+    "fetched_at": "2026-07-30"
+  },
+  "-tbRz33WANo": {
+    "title": "Why are weather forecasts so hard to get right? | Microsoft Azure and NVIDIA | Catalyst E4",
+    "channel": "Microsoft",
+    "lang": "en",
+    "upload_date": "20260128",
+    "fetched_at": "2026-07-30"
+  },
+  "foMra37pgqA": {
+    "title": "How do we make AI truly inclusive? | On Second Thought",
+    "channel": "Microsoft",
+    "lang": "en",
+    "upload_date": "20260126",
+    "fetched_at": "2026-07-30"
+  },
+  "BC7mNRtqGso": {
+    "title": "How to adapt to change at work without losing your edge | Insights from economist Tyler Cowen",
+    "channel": "Microsoft",
+    "lang": "en",
+    "upload_date": "20260122",
+    "fetched_at": "2026-07-30"
+  },
+  "n3koRyalVB0": {
+    "title": "Empowering Kenyan pharmacies with Zendawa and Microsoft",
+    "channel": "Microsoft",
+    "lang": "en",
+    "upload_date": "20260121",
+    "fetched_at": "2026-07-30"
+  },
+  "a8Znbe-3Wv0": {
+    "title": "Transforming driverless technology with Wayve and Microsoft",
+    "channel": "Microsoft",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "WKrGCu398ss": {
+    "title": "What happens when AI enters healthcare? | On Second Thought",
+    "channel": "Microsoft",
+    "lang": "en",
+    "upload_date": "20260115",
+    "fetched_at": "2026-07-30"
+  },
+  "Uyp3_knyKO4": {
+    "title": "How-To: Using Your BMW Digital Key Plus.",
+    "channel": "BMW",
+    "lang": "ko",
+    "upload_date": "20251113",
+    "fetched_at": "2026-07-30"
+  },
+  "RbmY2ua7gGc": {
+    "title": "An Icon – The BMW E30 3 Series | Neue Klasse Origins.",
+    "channel": "BMW",
+    "lang": "ko",
+    "upload_date": "20251108",
+    "fetched_at": "2026-07-30"
+  },
+  "yIEGPxV5TSI": {
+    "title": "A Legend – The BMW M1 | Neue Klasse Origins.",
+    "channel": "BMW",
+    "lang": "ko",
+    "upload_date": "20251101",
+    "fetched_at": "2026-07-30"
+  },
+  "fAYlCAyLtA0": {
+    "title": "A Vanguard – The BMW 1800 | Neue Klasse Origins.",
+    "channel": "BMW",
+    "lang": "ko",
+    "upload_date": "20251101",
+    "fetched_at": "2026-07-30"
+  },
+  "b_K682Yi150": {
+    "title": "How-To: Setting up Your BMW Digital Key Plus.",
+    "channel": "BMW",
+    "lang": "ko",
+    "upload_date": "20251030",
+    "fetched_at": "2026-07-30"
+  },
+  "wRtUbi0DLuw": {
+    "title": "How-To: Sharing Your BMW Digital Key Plus.",
+    "channel": "BMW",
+    "lang": "ko",
+    "upload_date": "20251023",
+    "fetched_at": "2026-07-30"
+  },
+  "VIVY7zbnAgM": {
+    "title": "How-To: Climate Control in the BMW Panoramic iDrive.",
+    "channel": "BMW",
+    "lang": "ko",
+    "upload_date": "20251009",
+    "fetched_at": "2026-07-30"
+  },
+  "Vm46IKPvlhM": {
+    "title": "How-To: Smartphone Remote Control for BMW Passengers.",
+    "channel": "BMW",
+    "lang": "ko",
+    "upload_date": "20251002",
+    "fetched_at": "2026-07-30"
+  },
+  "Y2IkNQldBuU": {
+    "title": "Nokia is advancing connectivity with NetGuard Security",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260319",
+    "fetched_at": "2026-07-30"
+  },
+  "OgMtzwZl_vI": {
+    "title": "New product innovation and demo showcase highlights | Day One at OFC",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260318",
+    "fetched_at": "2026-07-30"
+  },
+  "6kliQ7ljM0I": {
+    "title": "Next-Gen AI Infrastructure in Australia | ResetData & Nokia Partnership",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260316",
+    "fetched_at": "2026-07-30"
+  },
+  "WOtbnqL-eio": {
+    "title": "Meet Namya, Software Quality Assurance Engineer | Nokia USA",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260316",
+    "fetched_at": "2026-07-30"
+  },
+  "GGiq-Zkm5rk": {
+    "title": "Advancing Toward AI-Native Networks with Cathy Hackl and Pallavi Mahajan",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260313",
+    "fetched_at": "2026-07-30"
+  },
+  "3jVyct1iMPY": {
+    "title": "AI-Native Infrastructure at Scale | Nokia and Nscale",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260313",
+    "fetched_at": "2026-07-30"
+  },
+  "9NeO3nOQdhM": {
+    "title": "Nokia’s 2025 Sustainability Statement with Subho Mukherjee",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260313",
+    "fetched_at": "2026-07-30"
+  },
+  "lOJ51CokCgo": {
+    "title": "How Network Infrastructure Enables the AI Supercycle with Cathy Hackl and David Heard",
+    "channel": "Nokia",
+    "lang": "ko",
+    "upload_date": "20260312",
+    "fetched_at": "2026-07-30"
+  },
+  "W7T-aNLxP00": {
+    "title": "Session in Zermatt 🤩🏔️ Stadt × Land – James Varghese × Simone Felber",
+    "channel": "Swisscom",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "61dEgxjkyrA": {
+    "title": "O-oh! 😅 Jodel trifft Synthies 🎶 Stadt × Land – James Varghese × Simone Felber",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20231009",
+    "fetched_at": "2026-07-30"
+  },
+  "U7U6VKCfYjQ": {
+    "title": "Wer wird die Counter Strike Saison gewinnen?",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20230922",
+    "fetched_at": "2026-07-30"
+  },
+  "Yur8sT1xfoo": {
+    "title": "Wer wird die Brawl Stars Saison gewinnen?",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20230922",
+    "fetched_at": "2026-07-30"
+  },
+  "zWI8mNK1NLc": {
+    "title": "Show @ Energy Air 2023 – Human × Tech – Connect 2 Create × Next Hype",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20230912",
+    "fetched_at": "2026-07-30"
+  },
+  "2_b3vKopHTA": {
+    "title": "Dancers treffen 3D-Artists – Human × Tech – Connect 2 Create × Next Hype (full story)",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20230912",
+    "fetched_at": "2026-07-30"
+  },
+  "O-wmZMkeovs": {
+    "title": "Pt.2: Die erste Begegnung – Human × Tech – Connect 2 Create × Next Hype",
+    "channel": "Swisscom",
+    "lang": "en",
+    "upload_date": "20230829",
+    "fetched_at": "2026-07-30"
+  },
+  "GLEKTpVbfX0": {
+    "title": "Pt.1: Die Portraits – Human × Tech – Connect 2 Create × Next Hype",
+    "channel": "Swisscom",
+    "lang": "en",
+    "upload_date": "20230828",
+    "fetched_at": "2026-07-30"
+  },
+  "WR_h2XIMvl8": {
+    "title": "Wettbewerb im Schweizer E-Sport",
+    "channel": "Swisscom",
+    "lang": "ko",
+    "upload_date": "20230825",
+    "fetched_at": "2026-07-30"
+  },
+  "DJlcdH6iuAk": {
+    "title": "Celebrating every color",
+    "channel": "Waymo",
+    "status": "no_subs",
+    "fetched_at": "2026-07-30"
+  },
+  "AdrV9wqXyH0": {
+    "title": "Experiencing the joy of the Waymo Driver",
+    "channel": "Waymo",
+    "lang": "ko",
+    "upload_date": "20210616",
+    "fetched_at": "2026-07-30"
+  },
+  "YYQu4nEP1KI": {
+    "title": "Why I Ride with Waymo: Ben and the Henderson Family",
+    "channel": "Waymo",
+    "lang": "ko",
+    "upload_date": "20210601",
+    "fetched_at": "2026-07-30"
+  },
+  "H3dDlbPjYV4": {
+    "title": "Driving Conversations: Hyphen",
+    "channel": "Waymo",
+    "lang": "ko",
+    "upload_date": "20210526",
+    "fetched_at": "2026-07-30"
+  },
+  "SqA60HyatZA": {
+    "title": "Why I Ride with Waymo: Xavier",
+    "channel": "Waymo",
+    "lang": "ko",
+    "upload_date": "20210113",
+    "fetched_at": "2026-07-30"
+  },
+  "TPve7x0GOT8": {
+    "title": "#FTLive: Waymo CEO John Krafcik Keynote Interview",
+    "channel": "Waymo",
+    "lang": "ko",
+    "upload_date": "20210102",
+    "fetched_at": "2026-07-30"
+  },
+  "btm0A8DBFng": {
+    "title": "Thanks, #WaymoOne riders!",
+    "channel": "Waymo",
+    "lang": "ko",
+    "upload_date": "20201231",
+    "fetched_at": "2026-07-30"
   }
 }
