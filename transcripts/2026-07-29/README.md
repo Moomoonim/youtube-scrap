@@ -11,3 +11,7 @@
 ## 12:36 수집 (1개)
 
 - [AI 랠리 분수령…반도체 이후 투자전략 [송재경의 인사이트]](AI_랠리_분수령…반도체_이후_투자전략_[송재경의_인사이트]__SEDgdSTUPic.md) (ko) — [원본](https://www.youtube.com/watch?v=SEDgdSTUPic)
+
+## 15:43 수집 (1개)
+
+- [AI 도입의 격차, 상위 5% 기업의 AI 활용 전략 - 마이크로소프트 백인송 이사 [AI TECH 2026] 오프닝 세션](AI_도입의_격차,_상위_5%_기업의_AI_활용_전략_-_마이크로소프트_백인송_이사_[AI_TECH_2026__p9Tj9ctxMr8.md) (ko) — [원본](https://www.youtube.com/watch?v=p9Tj9ctxMr8)
