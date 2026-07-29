@@ -1,0 +1,13 @@
+# Answer ALS speeds progress toward treatments and cures through Microsoft Azure
+
+- 영상 링크: https://www.youtube.com/watch?v=cKV4KSIhhbI
+- 채널: Microsoft
+- 업로드일: 2026-03-26
+- 자막 언어: en
+- 단어 수: 약 417개
+
+---
+
+## 스크립트
+
+Take one, mark. What was it about Steve that made me feel like he could change the world? It's everything about Steve. Everything he says is profound. His ability to never give in. ALS doesn't wait. It takes your independence, your voice, so research can't wait either. Every delay costs someone something they won't get back. The average lifespan for someone with ALS is two to five years. There's a real human urgency to this. We need to cure this disease quickly. In late 2013, we hosted a Team Gleason Summit. Steve stopped the entire conference and had said that things need to change. The status quo is not acceptable. The status quo is death. Most people, when diagnosed with ALS ask, why me? I say, I was diagnosed with ALS so millions of people in our future will not be diagnosed. Answer ALS came directly from that summit we hosted. Over 1,100 participants contributing every kind of data imaginable, genetic, molecular, clinical, into one open pool. Neuromine is now the largest open ALS data resource in the world. The original solution didn't have the governance or the security or the search capability. Now, working with Microsoft Azure, we have access to security tools, to search tools, to Azure AI Studio and that will make that researcher’s experience much quicker, faster, and easier. I'm really excited by some of the recent results where we're able to discriminate cells that come from patients with ALS. Using the data from Neuromine, we are really trying to develop novel ways to understand what the underlying factors are that give rise to ALS. If we can identify what those underlying genetic factors are, that gives me great hope that we can then target those forms of pathology using therapeutic approaches. With Neuromine, research is being accelerated 60% when they're accessing open, freely accessible data because they don't have to recruit patients, they don't have to raise funds. We have gone a lot further, a lot faster than we ever could have without the research platform that we have. I definitely feel we're closer to a cure. I want researchers to keep doing what you are doing. You are our best hope. Be bold and collaborate. Time is everything to an ALS patient. There are real people behind your research and we are hopeful in your work. For us, time isn't measured in budgets or plans. It's measured in what's still possible today. Treat every day like it matters because it does.

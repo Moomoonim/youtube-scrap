@@ -1,0 +1,13 @@
+# The sound of survival
+
+- 영상 링크: https://www.youtube.com/watch?v=Fmc5YLKyNLY
+- 채널: Microsoft
+- 업로드일: 2026-07-28
+- 자막 언어: en
+- 단어 수: 약 448개
+
+---
+
+## 스크립트
+
+We're here in the Salish Sea, which is critical habitat for Southern Resident killer whales. They are a critically endangered population. There are only about 75 of them left. They have a very unique and identifiable culture. Both in terms of their vocal repertoire and their behaviors. Marine mammals rely an awful lot on sound underwater for basic life functions, everything from navigating and finding their prey. They've been listed as endangered since 2005, and one of the big barriers to their recovery is acoustic pollution, or underwater noise. When a cargo ship is moving through the Salish Sea, it creates a huge amount of underwater noise, including in the frequencies that the orcas are using for echolocation and communication. They need to put more energy into their calls and also their ability to navigate and hunt becomes less efficient. One of the ways that we make a cargo ship quieter is by having them slow down. So when they slow down, when they know orcas are present, they're reducing their underwater noise by up to 50%. How do we create some sort of an autonomous system that gives us the data that we need to be sure that we know when the whales are there in the timelines that we need it to the shipping industry. The Communications Acoustics Buoy; it’ll have our underwater microphones, which will be listening in. And then both our processors on the bottom and Microsoft's processors on the top will be running on the Edge in real-time. So they'll be analyzing all the data that's coming in and listening for whales. Dude, that's perfect. That sounds great. As the sound wave passes that hydrophone, they'll send those data back through the cell modem back to our cloud. And on the cloud we'll each do our own processing. That’s where the Microsoft team will be saying, “This fits into the pattern of this is killer whale like, this is humpback like, and this is ship like.” From there, we'll start then passing those notifications off automatically to the Whale Report Alert System. When we're better able to detect whales, we can give mariners more accurate information about when it's time to slow down for whales. The problem that we're trying to solve here in the San Juans is a problem we have across the world. It’s impossible for a conservationist to listen to every one of these hours worth of data and try to classify. These AI models can do that for them at scale. This population is hanging in the balance and I'm not willing to give up. With a bit more effort and a bit more care, we can get there.
