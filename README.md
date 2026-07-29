@@ -79,3 +79,30 @@ transcripts/
     ├── 영상제목__abc123.md  # 영상별 스크립트
     └── ...
 ```
+
+## 로컬에서 저속 수집 (IP 차단 완화)
+
+클라우드(GitHub Actions)는 데이터센터 IP라 유튜브 봇 차단이 잦습니다.
+집(가정용) IP에서 아래 스크립트를 **느린 간격**으로 돌리면 차단이 훨씬 덜합니다.
+
+```bash
+pip install -r requirements.txt          # 최초 1회 (yt-dlp 설치)
+
+# 채널 백필을 20초 간격으로 최대 200개
+python fetch_local.py --pace 20 --limit 200
+
+# 특정 채널만, 채널당 30개
+python fetch_local.py --channel "삼성" --per-channel 30 --pace 20
+
+# 키워드 검색분
+python fetch_local.py --source keyword --pace 20 --limit 40
+
+# 쿠키 파일 지정(자동 자막 차단 우회)
+python fetch_local.py --cookies ./cookies.txt --pace 20
+```
+
+- 이미 받은 영상은 `_seen.json` 으로 **자동 건너뜀** → 언제 멈췄다 다시 켜도 이어서 받습니다.
+- **Ctrl+C** 로 중단해도 그때까지 받은 것은 저장됩니다.
+- 차단이 감지되면 안전하게 멈춥니다. **30분쯤 뒤 같은 명령**을 다시 실행하면 이어서 받습니다.
+- 참고 처리량: 20초 간격 = 시간당 약 180개, 하루 이론상 ~4,000개(실제 ~2,500~3,500개). 단 백필은 유한하니 몇 시간씩 나눠 돌리는 것을 권장.
+- 수집 후 분석 갱신: `python classify.py && python summarize.py`
