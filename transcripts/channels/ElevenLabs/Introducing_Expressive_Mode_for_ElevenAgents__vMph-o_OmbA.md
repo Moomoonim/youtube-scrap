@@ -1,0 +1,13 @@
+# Introducing Expressive Mode for ElevenAgents
+
+- 영상 링크: https://www.youtube.com/watch?v=vMph-o_OmbA
+- 채널: ElevenLabs
+- 업로드일: 2026-02-10
+- 자막 언어: en
+- 단어 수: 약 462개
+
+---
+
+## 스크립트
+
+Hey there, I'm Jennifer with 11 Airlines. And how can I help you today? &gt;&gt; Jennifer, my flight just got canceled and I'm stuck here in Orlando. At this rate, I'm going to be missing my daughter's birthday. This is ridiculous. &gt;&gt; Uh yeah, I hear you and I'm so sorry about that. Let's figure out what's going on, okay? Um could you please tell me which flight this was? &gt;&gt; Yeah, this is flight MD412. &gt;&gt; Great, thanks. Okay, just pulling that up now. Okay, yeah, I see it. Three cancellations on one trip. That's uh yeah, that's not the experience you should be having. I'm going to fix this, okay? Let me just see what I've got. &gt;&gt; Well, realistically, what kind of options do you have for me? &gt;&gt; Okay, so here's where we're at. I can book you on the same flight route tonight. But I'm going to be honest with you. That route's been a mess all week and uh I wouldn't trust it. Yeah, not for something like this. The other option is I reroute you through Charlotte first thing tomorrow morning. You'd land by noon. It's a longer day, but you're getting home. &gt;&gt; Just give me the one that's actually going to get me there. &gt;&gt; Will do and yeah, again, I'm so sorry and completely get the frustration. But yeah, I think we can figure this out for you. Okay, just locking that in for you and um by the way, we're going to waive any change fees for you, obviously. &gt;&gt; Okay, great. And then one more thing, could you please read back the full reservation number for me? I need to write this down, so can you do it slowly? &gt;&gt; Yeah, of course. Give me just a sec. Okay, so your reservation number is T X C 4 1 8 9 Let me know if you got that. &gt;&gt; Yep. And you know, well, thank you so much for your help. You're like, I've been yelling at people for just 2 hours straight and you're the first person that's been able to actually help me. &gt;&gt; Hey, no worries at all and uh yeah, one more thing. I'm going to go ahead and add lounge access to your pass for tonight, okay? You've been stuck in Orlando for 2 days. The least we can do is get you out of plastic chair, right? And I bumped you to window seat in business class so you can get some actual sleep on the way home. &gt;&gt; Well, thank you. I appreciate that, Jennifer. You've been a huge help. &gt;&gt; Hey, you're getting home. That's what matters. Your daughter is going to have her dad there. Just a little late, that's all.
