@@ -1,0 +1,13 @@
+# Question Time: What are ServiceNow AI Agents? | Shar Patel
+
+- 영상 링크: https://www.youtube.com/watch?v=dqj4pRbBVYA
+- 채널: ServiceNow
+- 업로드일: 2025-10-16
+- 자막 언어: en
+- 단어 수: 약 442개
+
+---
+
+## 스크립트
+
+It's that time again. Question time. When we ask interesting people interesting questions. Welcome Char Patel. Hi Char. We've got five questions for you and we're putting 20 seconds on the clock for each question. Are you ready? &gt;&gt; Let's do it. Question number one. Why is everyone talking about AI agents? Yeah, we're really at this inflection point, right? Where AI technology is evolving faster than any technology we've seen before. So customers are really expecting to see their productivity gains go from incremental to exponential. So AI strategy has to be part of and intrinsic to your business strategy and that's why it's top of mind for everyone. All right then question two. What makes Service Now AI agents so special? First of all, we have 20 plus years as a workflow automation leader. So that means that all of the investments that a customer has already made into their workflows and automation on Service Now are just going to power their AI agents from day one. Second of all, our AI is built in and not bolted on through M&amp;A or through expensive integrations. Third, oh, is that 20 seconds? Yep. Got to keep going. AI agents require the right data to make the right decisions and no one connects enterprise data quite like Service Now. We'll let that slide. Question three, what's the Service Now AI control tower? We've clearly entered this AI revolution and most businesses are already thinking about how to put together a center of excellence made up of AI experts. And to help with that, Service Now is going to be your AI control tower to manage, monitor, and govern all of your AI investments, whether they're native to Service Now or a third party. Wow. Okay. Question four. Is Service Now using AI agents? Of course, we are. We have over 200 use cases live in production today with new ones being added every week. We've saved over $300 million in annualized revenue using AI agents. 76% of IT requests and 72% of customer support requests are fully handled by AI agents at Service Now. Great. Okay, question five. Where can I learn more about Service Now AI agents? Join us at any one of our events to really understand how AI agents work for you. Join us at a session, a keynote, a hands-on booth, and understand how AI agents work for every corner of your business. You still got time. Or you can simply visit our website at serenow.com/ai agents. Perfect. Guys, drop the balloons. What was that, guys? It's supposed to be 300 balloons. Why would I say three balloons?

@@ -1,0 +1,13 @@
+# Question Time: What are ServiceNow AI Agents? | Dorit Zilbershot
+
+- 영상 링크: https://www.youtube.com/watch?v=gn6nkHwyrF0
+- 채널: ServiceNow
+- 업로드일: 2025-10-16
+- 자막 언어: en
+- 단어 수: 약 434개
+
+---
+
+## 스크립트
+
+It's that time again, question time when we ask interesting people interesting questions. [Music] Welcome, Dorit Zilshot. &gt;&gt; Hello, &gt;&gt; Dorit. We've got five questions for you and we're putting 20 seconds on the clock for each question. Are you ready? &gt;&gt; Sure. Let's go. &gt;&gt; Question number one. What are AI agents? So AI agents are AI systems that are able to think on their own. They have the ability to reason. They have the ability to plan. They can take very complex problems, break it down to smaller pieces, and be able to execute those pieces on behalf of us, the people. They're able to help us be much more productive at everything that we do. &gt;&gt; Well done. Question two, how do you get started with AI agents? It's actually very easy. We have thousands of out ofthe-box AI agents ready to start working on every corner of the enterprise bringing automation to our customers in a very easy manner. All those AI agents sit on top of the Service Now platform so they have access to everything that our platform has to offer. So our customers can really make those AI agents productive right on day one. Wonderful. Question three. What's an example of an AI agent in action? &gt;&gt; Service Now AI agents actually don't work in isolation. So we don't look at a single AI agent. We look at teams of AI agents. So imagine if you have an AI agent that can read documentation, an AI agent that can review past incidents and then an AI agent that can solve license issues. These come together and they can solve all the problems. &gt;&gt; Okay. All right. Question four. With AI agents, how has our product strategy evolved? AI agents is really just a natural evolution for us here in Service Now. We started in scripted workflows, moved to predictive workflows, conversational workflows, and now we're at agentic workflows. We have a great opportunity here in Service Now, bringing data, workflows, and AI together to help our customers drive higher productivity. Right on time. Okay, question five. What's the future for AI agents? Look, we're just in the early days of the agentic revolution. We are going to add more and more AI agents covering different industries and different use cases across the enterprise. We can't wait to see our customers starting to use these AI agents and drive exponential productivity gains with all these AI agents. All right, well done. Hey guys, guys, give her the cake, guys. Oh, Dan, I am so so sorry. Thank you.
