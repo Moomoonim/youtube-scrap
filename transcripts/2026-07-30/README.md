@@ -11,3 +11,7 @@
 ## 12:26 수집 (1개)
 
 - [Why is Morning Brew’s founder selling “AI Transformation”?](Why_is_Morning_Brew’s_founder_selling_“AI_Transformation”__2CmZ_6ji5Jk.md) (ko) — [원본](https://www.youtube.com/watch?v=2CmZ_6ji5Jk)
+
+## 23:29 수집 (1개)
+
+- [작은 공장도 바로 적용 가능! 현장에서 검증된 AI 도입, 디지털 전환 공식🤖 (feat.스마트제조혁신3.0 전략)](작은_공장도_바로_적용_가능!_현장에서_검증된_AI_도입,_디지털_전환_공식🤖_(feat.스마트제조혁신3.0__mUAndx0F8I0.md) (ko) — [원본](https://www.youtube.com/watch?v=mUAndx0F8I0)
