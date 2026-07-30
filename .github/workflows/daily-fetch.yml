@@ -63,8 +63,11 @@ jobs:
           # 5) 공식 채널 영상 수집 실행 (2020년~, 회차별 점진 백필)
           python3 fetch_channels.py
 
-          # 6) DX/AX/AT 자동 분류 및 월별 집계 갱신
+          # 6) DX/AX/AT 자동 분류 및 월별 집계 갱신 (구버전, 호환 유지)
           python3 classify.py
+
+          # 6-1) 다차원 담론 코딩 v2 (관련성·톤·주체·구성개념 신호)
+          python3 classify_v2.py
 
           # 7) 메타데이터 기준 요약 정리 (채널별·월×라벨별)
           python3 summarize.py
