@@ -7,3 +7,7 @@
 ## 06:12 수집 (1개)
 
 - [AI Stock Fear: Spreading from Korea to the Rest of the World?](AI_Stock_Fear_Spreading_from_Korea_to_the_Rest_of_the_World__O5PJmXPZ0eU.md) (ko) — [원본](https://www.youtube.com/watch?v=O5PJmXPZ0eU)
+
+## 12:26 수집 (1개)
+
+- [Why is Morning Brew’s founder selling “AI Transformation”?](Why_is_Morning_Brew’s_founder_selling_“AI_Transformation”__2CmZ_6ji5Jk.md) (ko) — [원본](https://www.youtube.com/watch?v=2CmZ_6ji5Jk)
