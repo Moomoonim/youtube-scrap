@@ -19,3 +19,7 @@
 
 - [윤지호 평론가 증시 진단 AI 반도체 투자 전망과 레버리지 ETF 위험성 (매불쇼 ft. 윤지호, 최욱)](윤지호_평론가_증시_진단_AI_반도체_투자_전망과_레버리지_ETF_위험성_(매불쇼_ft._윤지호,_최욱)__NRVuuCEG8AI.md) (ko) — [원본](https://www.youtube.com/watch?v=NRVuuCEG8AI)
 - [📌울산시, 세계적 산업 인공지능 전환(AX) 선도도시 도약](📌울산시,_세계적_산업_인공지능_전환(AX)_선도도시_도약__boOtkV6qEZk.md) (ko) — [원본](https://www.youtube.com/watch?v=boOtkV6qEZk)
+
+## 23:33 수집 (1개)
+
+- [[박신영의 개장전요것만-7월31일] 오픈AI 천재연구원의 몰락 | 테슬라, 끊임없는 스페이스X 합병설]([박신영의_개장전요것만-7월31일]_오픈AI_천재연구원의_몰락_테슬라,_끊임없는_스페이스X_합병설__G48Cn4Sjp6k.md) (ko) — [원본](https://www.youtube.com/watch?v=G48Cn4Sjp6k)

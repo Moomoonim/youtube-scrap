@@ -1,0 +1,13 @@
+# Scaling the AI Factory: Full-Stack Infrastructure | NVIDIA GTC 2026
+
+- 영상 링크: https://www.youtube.com/watch?v=yUyjtJ61P9s
+- 채널: Vertiv
+- 업로드일: 2026-03-13
+- 자막 언어: en
+- 단어 수: 약 402개
+
+---
+
+## 스크립트
+
+I'm really looking forward to attending GTC where we'll be talking about how Vertiv is helping to enable and define the AI factory of the future. AI factories are now into a new era where we require unprecedented densification and the ability to scale to gigawatt capacity. In this session, we'll really deep dive and walk through how AI facilities are becoming more repeatable, standard, modular building blocks. Thinking prefabricated shells and prefabricated rows and aisles. This is really the shift from bespoke and onsite construction to truly industrialized infrastructure at a factory level. We're driving new design architectures and we're driving new scale and densification all simultaneously. The move to higher voltage DC architectures to reduce conversion losses and support extreme power densities is going to be upon us. The rise of adaptive, resilient liquid cooling loops that act as the facility's circulatory system, as well as the rapid push towards onsite energy autonomy. All of these things come together to require standard building blocks and system designs while the technology is changing, growing, scaling, and evolving. In AI factories, coolant flow is the lifeblood of the facility. A disruption in flow doesn't cause a minor temperature spike, it causes an immediate GPU derating or shutdown. Performance depends on two managed variables, flow, having enough volume at the right rate, and balance. Every rack, every row, every device position receives precisely what it needs when it needs it. The technologies enabling the shift from DC power to advanced liquids to distributed energy are already emerging. The organizations that succeed will be those that industrialize, standardize, modularize, and replicate to take AI factories to the next level. I think it's easy to consider a digital twin just a visual, but really a digital twin isn't a visual, it's governed engineering and operational truth. We deliver parametric, configuration controlled building blocks. Think power train and thermal chain represented as digital assets that can be configured, validated, and visualized. What that means is fewer unknowns, fewer redesign loops, and a faster [music] path from concept to build to commission. I think if I could leave with one thing, the most [music] important element is we are moving from an era of fast builds to an era of repeatable engineering AI factories designed and built as systems. Getting this right is the key to scaling AI safely and at the speed the market now demands.
