@@ -1,0 +1,13 @@
+# OpenAI Academy: Small Business Jam 2025
+
+- 영상 링크: https://www.youtube.com/watch?v=gjYqxEd0VPU
+- 채널: OpenAI
+- 업로드일: 2026-07-08
+- 자막 언어: en
+- 단어 수: 약 453개
+
+---
+
+## 스크립트
+
+[music] &gt;&gt; This is the Open AI Small Business Jam. SF [music] is one of five sites where we are helping serve small businesses between Houston, Detroit, Miami, New York City, &gt;&gt; [music] &gt;&gt; and here. &gt;&gt; I'm Dana Cherry, owner and COO of Monsam Portable Sinks. &gt;&gt; Mike Manidis, Atlas Skateboard Store in San Mateo, California. &gt;&gt; Megha Shah, enterprise sales at Trademore Technologies. &gt;&gt; Matt Rosenberg, co-founder and operations lead for Bangkok Brush. &gt;&gt; Sarah Blair Pollock, Build Up Fitness. &gt;&gt; Singon, general manager at Naadam Mongolian Cuisine. &gt;&gt; I personally am so excited that you all are here. We have one goal, each of you leave with a new tool [music] to boost you or your company's productivity and output with AI. &gt;&gt; I'm here to learn more about Open AI and ChatGPT and figuring out how I can better use the tool to improve how we operate. &gt;&gt; I have some specific use cases for learning from ChatGPT [music] because I have been using it very casually, but I know that there is a lot more I can do with it. &gt;&gt; I know that AI is a big [music] and powerful new tool that I am not using at all, and I think that if I don't explore [music] it, I may miss a giant opportunity. &gt;&gt; One of the great things was when I realized that [music] I can ask it like literally anything and not worry what it thinks of me. I don't have to preface it with like, "I know this is a stupid question." It's so non-judgmental and that made me feel [music] hopeful. &gt;&gt; We'll talk about some of the features on top of it that you can use to actually start using these [music] prompts in real life and build them into workflows. &gt;&gt; Every time we get a new delivery in, we have to manually create a product [music] for every single item, the categories, the product variants, sizes, colors. It looks like AI is going to be able to look at catalogs I upload to it or just the web [music] and already whole product description so we can just copy and paste them. &gt;&gt; I ended up actually doing a whole website and I just made it live right [music] now. &gt;&gt; I built a custom GPTs and with that it's going to save so many hours in the day. I can do this in less than 30 minutes. &gt;&gt; I've just come up with a smarter way to launch our business and a safer way [music] to launch our business. &gt;&gt; Opens up so much possibilities. &gt;&gt; It's like an expert for every single task. &gt;&gt; It's amazing.
