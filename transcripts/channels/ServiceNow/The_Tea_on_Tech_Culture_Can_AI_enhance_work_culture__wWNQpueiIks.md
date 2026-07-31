@@ -1,0 +1,13 @@
+# The Tea on Tech Culture: Can AI enhance work culture?
+
+- 영상 링크: https://www.youtube.com/watch?v=wWNQpueiIks
+- 채널: ServiceNow
+- 업로드일: 2025-09-17
+- 자막 언어: en
+- 단어 수: 약 471개
+
+---
+
+## 스크립트
+
+[Music] What the &gt;&gt; Hey. &gt;&gt; Hi. &gt;&gt; How's it going? &gt;&gt; Long time no see. &gt;&gt; Of course. I'm just on my little mental health walk, &gt;&gt; you know, but I did have a couple more questions about culture in the workplace, specifically with AI. So, I'm wondering if I can ask you a couple more questions. &gt;&gt; Anything for you, Russ. &gt;&gt; Okay. [Music] So, with all of these shifts in AI and new practices being made, how do you see it affecting workplace culture? &gt;&gt; I don't think people know yet what to trust. Um, everybody goes to work, takes a job because they're trying to create a better life for themselves, for their families, and like AI is out there and people are like, is it a cost savings thing? Is it going to lead to a bunch of layoffs? Like, I just don't think they know yet what to make of it. So, do you think that there's ways that AI could improve the culture? &gt;&gt; Yes. &gt;&gt; How so? &gt;&gt; I think people are miserable doing things that they have been frustrated doing for their entire career. &gt;&gt; If you can actually find a way to teach the machines to do that crappy work, &gt;&gt; then maybe there's a shot people can actually preserve some of their own mental energy to do things that get them more fired up. And if people are more fired up and the mood is more positive and organizations can can thrive would be my &gt;&gt; Just to clarify, it wouldn't be taking the jobs. &gt;&gt; No. Right. Okay. I think that's a common misconception a lot of people have. &gt;&gt; I mean, let's be clear. Like, I think there will be some jobs that at some point machines will just figure out how to do. But the key and I think the the the businesses that will do the best will be the ones that say, "Look, if we figure out that machines can do job X, that doesn't mean that your employment goes away. It means we create new opportunities to give you other things to do that will make us more successful as an organization." Do you think there's anything that AI could do even for someone like me who is more self-employed or my day-to-day is pretty flexible? &gt;&gt; I mean, you have to have moments where you sit back going, "Gee, if I wasn't wasting time doing this, I could do that." &gt;&gt; Sure. &gt;&gt; AI is only as good as what you put into it. So, &gt;&gt; if you're frustrated with something, there's got to be a way to teach the the machines to do it better. This is me. &gt;&gt; Good to see you. I'll see you around, maybe. No. &gt;&gt; Yeah. [Music]

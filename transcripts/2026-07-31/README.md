@@ -14,3 +14,8 @@
 - [야, 너두 AX 할 수 있어!｜중소기업 스스로 해내는 AI 전환](야,_너두_AX_할_수_있어!｜중소기업_스스로_해내는_AI_전환__SAhGZKUgdr0.md) (ko) — [원본](https://www.youtube.com/watch?v=SAhGZKUgdr0)
 - [[Yeouido Tube] "Stock market rallies immediately" after '20-something genius' is taken out / Mone...]([Yeouido_Tube]_Stock_market_rallies_immediately_after_'20-so__ilvm5l7VwP0.md) (ko) — [원본](https://www.youtube.com/watch?v=ilvm5l7VwP0)
 - [Integrating Generative AI Into Business Strategy: Dr. George Westerman](Integrating_Generative_AI_Into_Business_Strategy_Dr._George___9RvWcXVaAng.md) (ko) — [원본](https://www.youtube.com/watch?v=9RvWcXVaAng)
+
+## 19:50 수집 (2개)
+
+- [윤지호 평론가 증시 진단 AI 반도체 투자 전망과 레버리지 ETF 위험성 (매불쇼 ft. 윤지호, 최욱)](윤지호_평론가_증시_진단_AI_반도체_투자_전망과_레버리지_ETF_위험성_(매불쇼_ft._윤지호,_최욱)__NRVuuCEG8AI.md) (ko) — [원본](https://www.youtube.com/watch?v=NRVuuCEG8AI)
+- [📌울산시, 세계적 산업 인공지능 전환(AX) 선도도시 도약](📌울산시,_세계적_산업_인공지능_전환(AX)_선도도시_도약__boOtkV6qEZk.md) (ko) — [원본](https://www.youtube.com/watch?v=boOtkV6qEZk)
