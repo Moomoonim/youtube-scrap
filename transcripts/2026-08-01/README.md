@@ -11,3 +11,7 @@
 ## 15:40 수집 (1개)
 
 - [빌 게이츠 "AI 도입 안 한 기업들은 곧 사라진다"](빌_게이츠_AI_도입_안_한_기업들은_곧_사라진다__cimRP-W2Ixk.md) (ko) — [원본](https://www.youtube.com/watch?v=cimRP-W2Ixk)
+
+## 22:52 수집 (1개)
+
+- [구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장](구글_로봇_경쟁자는_테슬라가_아닙니다..._Gemini_Robotics_2에서_밝혀진,_로봇판_안드로이드_등__VrloORxOLoA.md) (ko) — [원본](https://www.youtube.com/watch?v=VrloORxOLoA)

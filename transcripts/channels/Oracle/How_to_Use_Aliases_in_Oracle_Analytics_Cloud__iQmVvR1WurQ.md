@@ -1,0 +1,13 @@
+# How to Use Aliases in Oracle Analytics Cloud
+
+- 영상 링크: https://www.youtube.com/watch?v=iQmVvR1WurQ
+- 채널: Oracle
+- 업로드일: 2026-05-27
+- 자막 언어: en
+- 단어 수: 약 428개
+
+---
+
+## 스크립트
+
+In this tutorial, we'll learn how to use aliases in Oracle Analytics Cloud to resolve missing data connections in workbooks. Sometimes, a workbook's data set becomes unavailable due to deletion or revoked access. When that happens, the workbook can't retrieve data and nothing is displayed. Using an alias allows me to reconnect that workbook to a new data set without rebuilding. In this scenario, I have a retail analytics workbook that depends on a data set called retail information. I noticed the workbook displays an error and the visualizations no longer appear, which means I've lost access to the data set. To resolve the missing data connection, I'll copy the ID of the data set from the error message. Each data set in Oracle Analytics Cloud has a unique object ID. Workbooks use the object ID, not the data set name, to locate and retrieve data. Next, I'll create a new data set with the same structure as the original. In this case, I'll recreate the retail information data set so it matches with the workbook expects. Even though the data set name is the same, when I open the workbook again, it still shows an error. This is because it's referencing the original object ID, not the new data set. To resolve this, I'll assign an alias to the new data set using the original data set's ID. An alias is an alternate identifier that allows the system to reference this data set using a different ID. I'll open the actions menu for the data set, select inspect, and then navigate to the aliases tab. From there, I'll paste the original data set ID and add it as an alias. Now, when I open the workbook, the data loads successfully. The alias allows Oracle Analytics Cloud to map the original data set reference to this new data set, resolving the missing data connection. Aliases can be applied to different types of data sources, not just data sets. For example, database connections and subject areas can also use aliases, and each of these data sources has its own unique object ID. I can open a data source and select inspect. In the general tab, I can view the object ID, and I can use the aliases tab to manage alias settings. Now that I've mapped a new data set to the original object ID using an alias, I can resolve missing data connections and restore workbook functionality without rebuilding it. Find more videos in this series and additional resources on using Oracle Analytics Cloud in the links below.

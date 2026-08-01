@@ -57720,5 +57720,800 @@
     "lang": "ko",
     "upload_date": "20260226",
     "fetched_at": "2026-08-01"
+  },
+  "VrloORxOLoA": {
+    "title": "구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장",
+    "url": "https://www.youtube.com/watch?v=VrloORxOLoA",
+    "fetched_at": "2026-08-01",
+    "lang": "ko"
+  },
+  "N1CI8Ld0-PA": {
+    "title": "Mastering model customization: fine-tuning Azure OpenAI service models with Weights & Biases",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20250324",
+    "fetched_at": "2026-08-01"
+  },
+  "RDzB4n-9j3I": {
+    "title": "How iteration and experimentation unlock AI innovation",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20250227",
+    "fetched_at": "2026-08-01"
+  },
+  "Z2cy4CGfsbc": {
+    "title": "The rise of AI agents with João Moura of CrewAI",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20250225",
+    "fetched_at": "2026-08-01"
+  },
+  "IkbRVOn70Qs": {
+    "title": "How to optimize AI performance with W&B Weave",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20250220",
+    "fetched_at": "2026-08-01"
+  },
+  "P9d7YBYhbtI": {
+    "title": "Fine-tuning Models with W&B Weave for better performance",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20250218",
+    "fetched_at": "2026-08-01"
+  },
+  "Nw3QBqV0I-o": {
+    "title": "Using W&B Custom Roles with SCIM API",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20250212",
+    "fetched_at": "2026-08-01"
+  },
+  "SSA8vNrFpXI": {
+    "title": "R1, OpenAI’s o3, and the ARC-AGI Benchmark: Insights from Mike Knoop on the Gradient Dissent Podcast",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20250204",
+    "fetched_at": "2026-08-01"
+  },
+  "2Bpf7lOfYiA": {
+    "title": "Deepseek, Stargate and AI’s $600 billion question with Sequoia Capital’s David Cahn",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20250128",
+    "fetched_at": "2026-08-01"
+  },
+  "8BO2GwlZpJQ": {
+    "title": "Snowflake Data Clean Rooms: Cross-Cloud Auto-Fulfillment",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251120",
+    "fetched_at": "2026-08-01"
+  },
+  "odzkzaYtW9M": {
+    "title": "Tampa Bay Rays Achieve Data Velocity With Snowflake And Coalesce",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251119",
+    "fetched_at": "2026-08-01"
+  },
+  "ugbLl7M-Nhg": {
+    "title": "Fanatics Unifies 100M+ Fan Data Points With FanGraph And Snowflake Intelligence",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251118",
+    "fetched_at": "2026-08-01"
+  },
+  "F01IEeM3I-Y": {
+    "title": "Empowering Agility: DraftKings’ Strategy for Compliance and Data Optimization",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251118",
+    "fetched_at": "2026-08-01"
+  },
+  "Idxu9VkOxrU": {
+    "title": "What's New For The Snowflake Platform",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251114",
+    "fetched_at": "2026-08-01"
+  },
+  "gvtN0pRHxBI": {
+    "title": "Playside Studios And Snowflake: Powering Player-First Gaming With Data",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251114",
+    "fetched_at": "2026-08-01"
+  },
+  "OWWkK-hPzLE": {
+    "title": "The Three Pillars That Set Snowflake Intelligence Apart",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251114",
+    "fetched_at": "2026-08-01"
+  },
+  "V3iOP6HrMP0": {
+    "title": "Snowflake World Tour 2025 In Stockholm",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251114",
+    "fetched_at": "2026-08-01"
+  },
+  "5iuPDOaX3Xw": {
+    "title": "Pinecone Office Hours: February Release",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20220222",
+    "fetched_at": "2026-08-01"
+  },
+  "iWzjI0ubQEU": {
+    "title": "Pinecone #5 - Querying Data",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20220103",
+    "fetched_at": "2026-08-01"
+  },
+  "tn_Y19oB5bs": {
+    "title": "Pinecone #6 - Metadata Filters",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20220103",
+    "fetched_at": "2026-08-01"
+  },
+  "cqzWyNWU8oo": {
+    "title": "Pinecone #4 - Managing Data",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20220103",
+    "fetched_at": "2026-08-01"
+  },
+  "HjeW6ed2dmI": {
+    "title": "Pinecone #3 - Inserting Data",
+    "channel": "Pinecone",
+    "lang": "en",
+    "upload_date": "20220103",
+    "fetched_at": "2026-08-01"
+  },
+  "DCQrrnFbLt8": {
+    "title": "Pinecone #2 - Managing Indexes",
+    "channel": "Pinecone",
+    "lang": "en",
+    "upload_date": "20220103",
+    "fetched_at": "2026-08-01"
+  },
+  "C2x2iWjBzBU": {
+    "title": "Preventing Déjà Vu: Vector Similarity Search for Security Alerts, with Expel and Pinecone",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20211220",
+    "fetched_at": "2026-08-01"
+  },
+  "7RF03_WQJpQ": {
+    "title": "Search Like You Mean It: Semantic Search with NLP and a Vector Database",
+    "channel": "Pinecone",
+    "lang": "ko",
+    "upload_date": "20211117",
+    "fetched_at": "2026-08-01"
+  },
+  "BedAaB1RKgE": {
+    "title": "MCP vs ADK: How Modern AI Agents Connect and Work Together",
+    "channel": "IBM Technology",
+    "lang": "ko",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-01"
+  },
+  "SbrEk_tXZaE": {
+    "title": "Why AI Agents Break Zero Trust at the Last Mile",
+    "channel": "IBM Technology",
+    "lang": "ko",
+    "upload_date": "20260517",
+    "fetched_at": "2026-08-01"
+  },
+  "YCWwh70FZtQ": {
+    "title": "AI skills security, Open AI Deployment Company & zero days",
+    "channel": "IBM Technology",
+    "lang": "ko",
+    "upload_date": "20260515",
+    "fetched_at": "2026-08-01"
+  },
+  "D37Ijn2o5U0": {
+    "title": "Why Agentic AI Fails: Infinite Loops, Planning Errors, and More",
+    "channel": "IBM Technology",
+    "lang": "ko",
+    "upload_date": "20260514",
+    "fetched_at": "2026-08-01"
+  },
+  "oRZK7fcBQIg": {
+    "title": "LLMjacking: How hackers steal your AI API keys and stick you with the bill",
+    "channel": "IBM Technology",
+    "lang": "ko",
+    "upload_date": "20260513",
+    "fetched_at": "2026-08-01"
+  },
+  "IVGjBxqygmI": {
+    "title": "Why AI Agents Need an Operating System",
+    "channel": "IBM Technology",
+    "lang": "ko",
+    "upload_date": "20260512",
+    "fetched_at": "2026-08-01"
+  },
+  "phOhGqpXss4": {
+    "title": "Predictive vs Generative AI: How They Work and When to Use Each",
+    "channel": "IBM Technology",
+    "lang": "ko",
+    "upload_date": "20260511",
+    "fetched_at": "2026-08-01"
+  },
+  "V_qJIrvWyRQ": {
+    "title": "Agentic Consent Explained: How AI Agents Act Safely and Responsibly",
+    "channel": "IBM Technology",
+    "lang": "ko",
+    "upload_date": "20260510",
+    "fetched_at": "2026-08-01"
+  },
+  "lH9Hg7D-xIE": {
+    "title": "Made for Faces: Philips i9000 Prestige Ultra (Comfort)",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260730",
+    "fetched_at": "2026-08-01"
+  },
+  "ZSMJUmnkX9g": {
+    "title": "BÌNH SỮA MÔ PHỎNG TỰ NHIÊN PHILIPS AVENT – NHƯ GẦN (TI)M MẸ, ĐỒNG TI MÊ TÍT",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260327",
+    "fetched_at": "2026-08-01"
+  },
+  "MTGVDx_NSys": {
+    "title": "Philips Sonicare – Doux et efficace en profondeur",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260326",
+    "fetched_at": "2026-08-01"
+  },
+  "gCLQDAOhJjQ": {
+    "title": "Philips Sonicare – Doux et efficace en profondeur",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260325",
+    "fetched_at": "2026-08-01"
+  },
+  "MRWXBrizyp4": {
+    "title": "BÌNH SỮA PPSU PHILIPS AVENT MÔ PHỎNG TỰ NHIÊN – NHƯ GẦN (TI)M MẸ, ĐỒNG TI MÊ TÍT",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260320",
+    "fetched_at": "2026-08-01"
+  },
+  "cb0mkFI1i8o": {
+    "title": "BÌNH SỮA PPSU PHILIPS AVENT MÔ PHỎNG TỰ NHIÊN – NHƯ GẦN (TI)M MẸ, ĐỒNG TI MÊ TÍT",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260313",
+    "fetched_at": "2026-08-01"
+  },
+  "gTyeChwNpJI": {
+    "title": "BHD837/03 :  Powerful high-speed motor",
+    "channel": "Philips",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "3300xH-OJRY": {
+    "title": "BHD837/03 : 200 million ions released",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260311",
+    "fetched_at": "2026-08-01"
+  },
+  "dPGi9LdUQ1M": {
+    "title": "BHD837/03 : ThermoShield-Advanced-Sensor+ Dual-Air-Stream",
+    "channel": "Philips",
+    "lang": "ko",
+    "upload_date": "20260311",
+    "fetched_at": "2026-08-01"
+  },
+  "Nn-NiOoXwic": {
+    "title": "Jerry: Turning ambition into achievement through ServiceNow University",
+    "channel": "ServiceNow",
+    "lang": "en",
+    "upload_date": "20250724",
+    "fetched_at": "2026-08-01"
+  },
+  "4cwzWrGDCOc": {
+    "title": "Levi + Susan: Shared purpose through ServiceNow University",
+    "channel": "ServiceNow",
+    "lang": "en",
+    "upload_date": "20250724",
+    "fetched_at": "2026-08-01"
+  },
+  "jD0lvG5JksA": {
+    "title": "Where the world puts AI to work | ServiceNow World Forum 2025",
+    "channel": "ServiceNow",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "9aYqZ0eE730": {
+    "title": "ServiceNow three-peat: India’s Best Companies To Work For",
+    "channel": "ServiceNow",
+    "lang": "ko",
+    "upload_date": "20250625",
+    "fetched_at": "2026-08-01"
+  },
+  "Gw3S1D67KqE": {
+    "title": "Leading the Way in Accessible Innovation: Voice Input for the AI Platform",
+    "channel": "ServiceNow",
+    "lang": "ko",
+    "upload_date": "20250624",
+    "fetched_at": "2026-08-01"
+  },
+  "TPvi9pG2b-4": {
+    "title": "The Norinchukin Bank accelerates DX with App Engine",
+    "channel": "ServiceNow",
+    "lang": "ko",
+    "upload_date": "20250619",
+    "fetched_at": "2026-08-01"
+  },
+  "ntugWH5ec2g": {
+    "title": "Meet Chan, a motivating leader who helps others rise",
+    "channel": "ServiceNow",
+    "lang": "ko",
+    "upload_date": "20250619",
+    "fetched_at": "2026-08-01"
+  },
+  "pBlY3nAtm2Y": {
+    "title": "Where we find pride: In family, in life, in work",
+    "channel": "ServiceNow",
+    "lang": "ko",
+    "upload_date": "20250617",
+    "fetched_at": "2026-08-01"
+  },
+  "EzXdOfThIkg": {
+    "title": "Put AI to work in IT",
+    "channel": "ServiceNow",
+    "lang": "ko",
+    "upload_date": "20250613",
+    "fetched_at": "2026-08-01"
+  },
+  "kyQtbyR536I": {
+    "title": "Multi-GPU Communication Libraries for Scaling HPC and AI Workloads | NVIDIA GTC 2025",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20250422",
+    "fetched_at": "2026-08-01"
+  },
+  "gM1dLdpDR50": {
+    "title": "What Is Trustworthy AI?",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20250421",
+    "fetched_at": "2026-08-01"
+  },
+  "e7sMtSYECb0": {
+    "title": "Tuning AI Workloads on the VAST Data Platform with NVIDIA Nsight Systems [Storage Profiling]",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20250421",
+    "fetched_at": "2026-08-01"
+  },
+  "zsbqyMsuLQQ": {
+    "title": "Tuning AI Workloads on the DDN Data Intelligence Platform with NVIDIA Nsight Systems",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20250421",
+    "fetched_at": "2026-08-01"
+  },
+  "nPIfu68Qwj4": {
+    "title": "Simplify Multi-GPU Programming with Task-Based Runtimes | NVIDIA GTC 2025",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20250418",
+    "fetched_at": "2026-08-01"
+  },
+  "AjUUorlK-KU": {
+    "title": "Getting Started with Distributed Multi-GPU Libraries for Scalable AI and HPC | NVIDIA GTC 2025",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20250417",
+    "fetched_at": "2026-08-01"
+  },
+  "_XW6Yu6VBQE": {
+    "title": "1,001 Ways to Accelerate Python with CUDA Kernels | NVIDIA GTC 2025",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20250416",
+    "fetched_at": "2026-08-01"
+  },
+  "Kx9Z-NCF8J4": {
+    "title": "Accelerate AI and HPC with Math Libraries on NVIDIA Blackwell GPUs  | NVIDIA GTC 2025",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20250415",
+    "fetched_at": "2026-08-01"
+  },
+  "iQmVvR1WurQ": {
+    "title": "How to Use Aliases in Oracle Analytics Cloud",
+    "channel": "Oracle",
+    "lang": "en",
+    "upload_date": "20260527",
+    "fetched_at": "2026-08-01"
+  },
+  "Z89tOZb9FZo": {
+    "title": "Batch Process Manufacturing Workspace Agentic App in Oracle SCM: Demo",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260527",
+    "fetched_at": "2026-08-01"
+  },
+  "fm1IYWdq8EQ": {
+    "title": "Analyze Order Fulfillment in Oracle Fusion SCM Analytics",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260527",
+    "fetched_at": "2026-08-01"
+  },
+  "Dom2rWvfQEM": {
+    "title": "How to Use AI Assistant in Oracle Analytics Mobile App for iOS",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260527",
+    "fetched_at": "2026-08-01"
+  },
+  "PW_pFswaMhw": {
+    "title": "How to Train a Machine Learning Model Using Data Flows in Oracle Analytics Cloud",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260527",
+    "fetched_at": "2026-08-01"
+  },
+  "mkSNLsPUslU": {
+    "title": "Oracle AI World Tour New York City 2026",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260526",
+    "fetched_at": "2026-08-01"
+  },
+  "jqJVi5O0pBk": {
+    "title": "Persistent Systems: Uniting Global Operations with Oracle Fusion Cloud Applications",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260526",
+    "fetched_at": "2026-08-01"
+  },
+  "uN-quM7ODEU": {
+    "title": "How to Reload Data from External Connections in Oracle Analytics Cloud",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260526",
+    "fetched_at": "2026-08-01"
+  },
+  "XHNayesOcKE": {
+    "title": "Wayve LINGO-1 Rain",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "zy706z9U5M8": {
+    "title": "Wayve LINGO-1 Speed Limit",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "9yjZhgNPLcg": {
+    "title": "Alex Kendall Live Demo of LINGO-1",
+    "channel": "Wayve",
+    "lang": "ko",
+    "upload_date": "20230919",
+    "fetched_at": "2026-08-01"
+  },
+  "EgkfZjZmPZQ": {
+    "title": "Wayve LINGO-1 Cyclist",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "hRUQjQhot98": {
+    "title": "Wayve LINGO-1 Construction",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "6X51pxPJpa4": {
+    "title": "Wayve LINGO-1 Intersection",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "NF-jQDG7nww": {
+    "title": "Wayve LINGO-1 Lane Changing",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "hW3C7HPaku0": {
+    "title": "Wayve LINGO-1 Pedestrian Crossing",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "Iaj-xiWRVbI": {
+    "title": "Wayve LINGO-1 Intersection",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "ZYXTxST6lwI": {
+    "title": "Wayve LINGO 1 Commentary Turn Right",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "14uIVtHxRnY": {
+    "title": "Wayve LINGO 1 Commentary Overtaking",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "QXcRloAoJeU": {
+    "title": "Wayve LINGO 1 Commentary Narrow Road",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "HmdwHtYZx0E": {
+    "title": "Wayve LINGO 1 Commentary Bus",
+    "channel": "Wayve",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "YTWqlrRmzNQ": {
+    "title": "Ride the Wayve: rush-hour",
+    "channel": "Wayve",
+    "lang": "ko",
+    "upload_date": "20230824",
+    "fetched_at": "2026-08-01"
+  },
+  "PazXZy7IToc": {
+    "title": "Ride the Wayve: Bustling Roads and Buses",
+    "channel": "Wayve",
+    "lang": "ko",
+    "upload_date": "20230713",
+    "fetched_at": "2026-08-01"
+  },
+  "AwhjnMyktUs": {
+    "title": "Mommies with Guides - Facebook App - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20210722",
+    "fetched_at": "2026-08-01"
+  },
+  "DKgyZmzwY1M": {
+    "title": "Once Upon a Time Everywhere | :30",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20210720",
+    "fetched_at": "2026-08-01"
+  },
+  "NwCaezzHkSA": {
+    "title": "The ChillMobile - Facebook Marketplace - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20210715",
+    "fetched_at": "2026-08-01"
+  },
+  "3U4T6r24jns": {
+    "title": "The Bearded Painter - Facebook App - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20210709",
+    "fetched_at": "2026-08-01"
+  },
+  "THy0_jHxgA4": {
+    "title": "Roller Derby - Facebook App - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20210702",
+    "fetched_at": "2026-08-01"
+  },
+  "qBthHZgg25w": {
+    "title": "Hillhurst United Church - Facebook App - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20210619",
+    "fetched_at": "2026-08-01"
+  },
+  "Ip1aRgsDMug": {
+    "title": "Chub Rollz - Instagram - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20210611",
+    "fetched_at": "2026-08-01"
+  },
+  "tn54g3U8JWw": {
+    "title": "Tragedy Assistance Program for Survivors - Messenger Kids - Community Voices",
+    "channel": "Meta",
+    "lang": "ko",
+    "upload_date": "20210530",
+    "fetched_at": "2026-08-01"
+  },
+  "pcjvoaGvhaY": {
+    "title": "AMD EPYC Processors, your servers \"ZEN\" MODE",
+    "channel": "AMD",
+    "lang": "en",
+    "upload_date": "20251218",
+    "fetched_at": "2026-08-01"
+  },
+  "c3SdR-Az9mA": {
+    "title": "AMD EPYC™ Embedded 2005 Series Processors",
+    "channel": "AMD",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "msrDgFDcj3M": {
+    "title": "AMD EDF Custom Hardware Development Using Dynamic PL Reload",
+    "channel": "AMD",
+    "lang": "en",
+    "upload_date": "20251217",
+    "fetched_at": "2026-08-01"
+  },
+  "W17qaOk1dno": {
+    "title": "Paradigm Shift: Why the AI Era Demands Security Leaders Rethink Their Holistic Threat Strategy",
+    "channel": "AMD",
+    "lang": "en",
+    "upload_date": "20251212",
+    "fetched_at": "2026-08-01"
+  },
+  "NisBIqZ6--4": {
+    "title": "\"ZEN\" MODE BY AMD | Your Business Upgrade",
+    "channel": "AMD",
+    "lang": "en",
+    "upload_date": "20251206",
+    "fetched_at": "2026-08-01"
+  },
+  "JBbP1-F-BUA": {
+    "title": "How to Install & Configure AMD Management Plug-In (AMPS 7.0) for Microsoft SCCM",
+    "channel": "AMD",
+    "lang": "en",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-01"
+  },
+  "1tZ7-3poBNI": {
+    "title": "Innovating with AMD: PC Gaming Anywhere with ROG Xbox Ally Series",
+    "channel": "AMD",
+    "lang": "en",
+    "upload_date": "20251126",
+    "fetched_at": "2026-08-01"
+  },
+  "oM5zD7qPa9M": {
+    "title": "Introducing the AMD Spartan™ UltraScale+™ FPGA SCU35 Evaluation Kit",
+    "channel": "AMD",
+    "lang": "en",
+    "upload_date": "20251124",
+    "fetched_at": "2026-08-01"
+  },
+  "FRHZylWeoYQ": {
+    "title": "The AMD Spartan™ UltraScale+™ FPGA SCU35 Evaluation Kit: High Flexibility, Made Accessible for All",
+    "channel": "AMD",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "wUFhGPnSXTc": {
+    "title": "The Download: AMD Pensando™ Pollara 400 AI NIC",
+    "channel": "AMD",
+    "lang": "en",
+    "upload_date": "20251124",
+    "fetched_at": "2026-08-01"
+  },
+  "cG-Wjfaqhic": {
+    "title": "[ASL] Your First Steps into Immersive Web Development",
+    "channel": "Meta Developers",
+    "lang": "ko",
+    "upload_date": "20250918",
+    "fetched_at": "2026-08-01"
+  },
+  "yAYv5H1HHx8": {
+    "title": "[ASL] Getting Started with Spatial SDK",
+    "channel": "Meta Developers",
+    "lang": "ko",
+    "upload_date": "20250918",
+    "fetched_at": "2026-08-01"
+  },
+  "QU2ilpK9Xwo": {
+    "title": "[ASL] Meta Horizon Start: Simulated Minds’ Path From Burnout to Breakout",
+    "channel": "Meta Developers",
+    "lang": "ko",
+    "upload_date": "20250918",
+    "fetched_at": "2026-08-01"
+  },
+  "Umy7bX-ibEU": {
+    "title": "[ASL] VR 103: Preparing Your App for the Meta Horizon Store",
+    "channel": "Meta Developers",
+    "lang": "ko",
+    "upload_date": "20250918",
+    "fetched_at": "2026-08-01"
+  },
+  "_u49WPhmpwQ": {
+    "title": "[ASL] VR 102: Beyond the Basics",
+    "channel": "Meta Developers",
+    "lang": "ko",
+    "upload_date": "20250918",
+    "fetched_at": "2026-08-01"
+  },
+  "bYWE_i18B9U": {
+    "title": "[ASL] VR 101: Getting Started with VR",
+    "channel": "Meta Developers",
+    "lang": "ko",
+    "upload_date": "20250918",
+    "fetched_at": "2026-08-01"
+  },
+  "BlGSY4_VceY": {
+    "title": "[ASL] Scale Your Success with Meta Horizon Creator Program",
+    "channel": "Meta Developers",
+    "lang": "ko",
+    "upload_date": "20250918",
+    "fetched_at": "2026-08-01"
+  },
+  "4JZ1GpPz8_g": {
+    "title": "[ASL] Worlds in Your Pocket: Mobile Creation Unleashed",
+    "channel": "Meta Developers",
+    "lang": "ko",
+    "upload_date": "20250918",
+    "fetched_at": "2026-08-01"
+  },
+  "wu3CouoJbVs": {
+    "title": "All-new Nissan Z: Half a century of inspiration",
+    "channel": "Nissan",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "J0W174Y2wFs": {
+    "title": "Make your own paper craft Nissan cars for the holidays",
+    "channel": "Nissan",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "K0Psn5tivoA": {
+    "title": "Nissan Futures: a bird’s eye view",
+    "channel": "Nissan",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "vhY-pvMbbSY": {
+    "title": "Introducing Nissan Ariya Single Seater Concept",
+    "channel": "Nissan",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "TgZW6jMHVsE": {
+    "title": "Nissan Ambition 2030 Announcement Highlights",
+    "channel": "Nissan",
+    "lang": "ko",
+    "upload_date": "20211203",
+    "fetched_at": "2026-08-01"
+  },
+  "5C_WYWmPjXo": {
+    "title": "Nissan and JAXA set their sights on the Moon with e-4ORCE precision control",
+    "channel": "Nissan",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "_FNVwBPQi8M": {
+    "title": "Nissan e-4ORCE technology explained",
+    "channel": "Nissan",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "hlpxNbpHQYY": {
+    "title": "What do you want the future to be?",
+    "channel": "Nissan",
+    "status": "no_subs",
+    "fetched_at": "2026-08-01"
+  },
+  "q2EIiKkZK6g": {
+    "title": "Reused Nissan LEAF batteries serve as backup power at train crossings",
+    "channel": "Nissan",
+    "lang": "ko",
+    "upload_date": "20211110",
+    "fetched_at": "2026-08-01"
   }
 }
