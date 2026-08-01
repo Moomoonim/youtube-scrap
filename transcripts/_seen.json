@@ -55639,5 +55639,67 @@
     "lang": "ko",
     "upload_date": "20260731",
     "fetched_at": "2026-08-01"
+  },
+  "gf0cPrinP9w": {
+    "title": "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족",
+    "url": "https://www.youtube.com/watch?v=gf0cPrinP9w",
+    "fetched_at": "2026-08-01",
+    "lang": "ko"
+  },
+  "T6PQIPMlj3E": {
+    "title": "Skills vs MCP: How AI tools have evolved",
+    "channel": "Google Cloud Tech",
+    "lang": "ko",
+    "upload_date": "20260730",
+    "fetched_at": "2026-08-01"
+  },
+  "ABC7ifp8-Uo": {
+    "title": "Reviewing code from AI coding agents",
+    "channel": "Google Cloud Tech",
+    "lang": "ko",
+    "upload_date": "20260729",
+    "fetched_at": "2026-08-01"
+  },
+  "gV5NEo8-LFI": {
+    "title": "Boost AI context with hybrid search in Spanner",
+    "channel": "Google Cloud Tech",
+    "lang": "ko",
+    "upload_date": "20260625",
+    "fetched_at": "2026-08-01"
+  },
+  "vw1AzTNUiE4": {
+    "title": "What's new in AlloyDB: Scale PostgreSQL for agentic AI and hybrid clouds",
+    "channel": "Google Cloud Tech",
+    "lang": "ko",
+    "upload_date": "20260625",
+    "fetched_at": "2026-08-01"
+  },
+  "kIormMwOl64": {
+    "title": "Unifying vibe coding and production with Agent Studio on Gemini Enterprise Agent Platform",
+    "channel": "Google Cloud Tech",
+    "lang": "ko",
+    "upload_date": "20260625",
+    "fetched_at": "2026-08-01"
+  },
+  "ZaR4aInpm6A": {
+    "title": "Boost AI context with hybrid search in Spanner",
+    "channel": "Google Cloud Tech",
+    "lang": "ko",
+    "upload_date": "20260625",
+    "fetched_at": "2026-08-01"
+  },
+  "MNr7scIro9Y": {
+    "title": "What's new in Google Cloud databases for the agentic era",
+    "channel": "Google Cloud Tech",
+    "lang": "ko",
+    "upload_date": "20260625",
+    "fetched_at": "2026-08-01"
+  },
+  "AKGV5wPQdd8": {
+    "title": "Agent development and AgentOps with BigQuery, ADK, and MCP",
+    "channel": "Google Cloud Tech",
+    "lang": "ko",
+    "upload_date": "20260625",
+    "fetched_at": "2026-08-01"
   }
 }
