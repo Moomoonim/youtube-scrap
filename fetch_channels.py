@@ -188,6 +188,7 @@ def main():
         ch_dir = os.path.join(config.OUTPUT_DIR, "channels", slugify(name, 40))
         saved_ch = 0
         attempts_ch = 0
+        caption_fail_ch = 0  # 이 채널에서 '건강한 응답인데 자막 실패'가 연속된 횟수
 
         for entry in entries:
             if saved_ch >= config.MAX_PER_CHANNEL_PER_RUN:
@@ -237,9 +238,22 @@ def main():
                         "title": title, "channel": name,
                         "status": "no_subs", "fetched_at": today,
                     }
-                else:
-                    suspect_failures += 1
+                elif extraction_healthy:
+                    # [2026-08-02 수정] 추출이 건강한데 자막만 실패한 경우는
+                    # 세션 문제가 아니라 그 채널 콘텐츠 특성(자막 광고만 되고
+                    # 실제 없음 — 예: DeepMind Genie 티저 연작)일 가능성이 큼.
+                    # 전역 중단 카운터 대신 채널 단위로만 세고, 연속되면
+                    # 이 채널만 건너뛴다. (기존엔 티저 12개가 회차 전체를 죽여
+                    # 뒤 채널들이 영원히 0건이 되는 버그)
+                    caption_fail_ch += 1
                     log(f"  자막 취득 실패(재시도 예정): {title}")
+                    if caption_fail_ch >= 5:
+                        log(f"  {name}: 자막 실패 연속 {caption_fail_ch}회 — 이 채널만 건너뛰고 다음 채널로")
+                        break
+                else:
+                    # 화질 정보까지 비어 있으면 진짜 세션 문제(PO토큰/차단) 의심
+                    suspect_failures += 1
+                    log(f"  자막 취득 실패(세션 의심): {title}")
                     if suspect_failures >= SUSPECT_LIMIT:
                         log("🔴 자막 취득이 연쇄 실패 중 — PO토큰/쿠키/차단 문제 의심. "
                             "이번 회차 채널 수집을 중단합니다.")
@@ -248,6 +262,7 @@ def main():
                 continue
 
             suspect_failures = 0  # 성공하면 연쇄 실패 카운터 초기화
+            caption_fail_ch = 0
 
             os.makedirs(ch_dir, exist_ok=True)
             write_channel_file(ch_dir, vid, title, name, upload_date, lang, text)

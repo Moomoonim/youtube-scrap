@@ -84,7 +84,7 @@ CHANNELS = {
     "Google DeepMind": "@googledeepmind",
     "xAI": "@xAI",
     "Cohere": "@CohereAI",                     # 수정(1차 @Cohere 404)
-    # [핸들 검증 필요 — 404로 수집 제외] "Mistral AI": "@MistralAI",                # 소규모/추정
+    "Mistral AI": "@mistralaiofficial",       # [검증 복구 2026-08-02]
     # 2. 하이퍼스케일러 · 클라우드
     "Microsoft": "@Microsoft",
     "Microsoft Developer": "@MicrosoftDeveloper",
@@ -92,7 +92,7 @@ CHANNELS = {
     "Google": "@Google",
     "Google Developers": "@GoogleDevelopers",
     "Google Cloud Tech": "@googlecloudtech",
-    # [핸들 검증 필요 — 404로 수집 제외] "AWS": "@AmazonWebServices",
+    "AWS Events": "@AWSEventsChannel",        # [검증 복구 2026-08-02] re:Invent 등 행사 채널
     "AWS Developers": "@awsdevelopers",
     "Meta": "@Meta",
     "Meta Developers": "@MetaDevelopers",
@@ -109,12 +109,12 @@ CHANNELS = {
     "Intel": "@intel",
     "Arm": "@Arm",                             # 추정
     # [핸들 검증 필요 — 404로 수집 제외] "TSMC": "@tsmc",                           # 추정
-    # [핸들 검증 필요 — 404로 수집 제외] "Samsung Semiconductor": "@SamsungSemiconductor",  # 추정
+    "Samsung Semiconductor": "@SamsungSemiconductorGlobal",  # [검증 복구 2026-08-02]
     "SK hynix": "@SKhynix",                    # 추정
-    # [핸들 검증 필요 — 404로 수집 제외] "Cerebras": "@CerebrasSystems",            # 추정
+    "Cerebras": "@Cerebras",                  # [검증 복구 2026-08-02]
     # [핸들 검증 필요 — 404로 수집 제외] "Tenstorrent": "@Tenstorrent",
     # [핸들 검증 필요 — 404로 수집 제외] "Groq": "@GroqInc",                        # 추정
-    # [핸들 검증 필요 — 404로 수집 제외] "SambaNova": "@SambaNovaAI",               # 추정
+    "SambaNova": "@SambaNovaSystems",         # [검증 복구 2026-08-02]
     # 4. 인프라 · MLOps
     "Databricks": "@Databricks",
     "Snowflake": "@SnowflakeInc",              # 추정
@@ -152,7 +152,7 @@ CHANNELS = {
     # 11. 중국 (DeepSeek: 공식 채널 없음 → 제외)
     "Alibaba Cloud": "@AlibabaCloud",
     "Huawei": "@Huawei",
-    "Tencent": "@Tencent",                     # 추정
+    # [오수집 위험 — @Tencent는 동명 타채널('Ten S&OP')로 확인 2026-08-02] "Tencent": "@Tencent",
     # [핸들 검증 필요 — 404로 수집 제외] "Baidu": "@Baidu",                         # 추정
     # 12. 한국
     # [핸들 검증 필요 — 404로 수집 제외] "NAVER": "@naver",                         # 추정
@@ -162,7 +162,7 @@ CHANNELS = {
     # [핸들 검증 필요 — 404로 수집 제외] "카카오": "@kakao",                         # 추정
     "kakao tech": "@kakaotech",                # 추정
     "SK텔레콤": "@SKtelecom",                   # 추정
-    # [핸들 검증 필요 — 404로 수집 제외] "KT": "@KT",                               # 추정
+    "KT": "@kt_corp",                         # [검증 복구 2026-08-02]
     "Upstage": "@upstageai",                   # 추정
 
     # ══════════════════════════════════════════════════
@@ -177,34 +177,34 @@ CHANNELS = {
     "Nike": "@nike",                           # 추정
     "Unilever": "@unilever",                   # 추정
     "Reckitt": "@Reckitt",                     # 추정
-    "Adobe": "@Adobe",                         # 추정
+    "Adobe": "@AdobeCreativeCloud",           # [검증 2026-08-02] @Adobe는 videos탭 없음 → Creative Cloud 채널
     "Netflix": "@Netflix",                     # 추정
     "Chegg": "@chegg",                         # 추정
 
     # 14. 금융 · 컨설팅 · 전문 서비스
     "McKinsey & Company": "@McKinsey",         # 추정
-    "Boston Consulting Group": "@bcg",         # 확인(수집분에 등장)
-    "Deloitte": "@Deloitte",                   # 추정
+    "Boston Consulting Group": "@TheBostonConsultingGroup",  # [검증 2026-08-02] @bcg 무효 → 공식 채널
+    # [videos탭 없음 — 핸들 재확인 필요 2026-08-02] "Deloitte": "@Deloitte",
     "Accenture": "@Accenture",                 # 추정
     "Genpact": "@Genpact",                     # 추정
-    "Intuit": "@Intuit",                       # 추정
+    "Intuit": "@IntuitInc",                   # [검증 2026-08-02]
     "LinkedIn": "@LinkedIn",                   # 추정
     "IQVIA": "@IQVIA",                         # 추정
 
     # 15. 산업 · 자동차 · 로보틱스
-    "Caterpillar": "@Caterpillar",             # 추정
+    # [videos탭 없음 — 핸들 재확인 필요 2026-08-02] "Caterpillar": "@Caterpillar",
     "Mercedes-Benz": "@MercedesBenz",          # 추정
     "BMW": "@BMW",                             # 추정
-    "General Motors": "@GM",                   # 추정
+    "General Motors": "@generalmotors",       # [검증 2026-08-02]
     "Volvo Cars": "@VolvoCars",                # 추정
     "Nissan": "@Nissan",                       # 추정
     "Siemens": "@Siemens",                     # 추정
     "Rockwell Automation": "@ROKAutomation",   # 추정
-    "BYD": "@BYD",                             # 추정
+    "BYD": "@BYDCompany",                     # [검증 2026-08-02]
 
     # 16. 헬스케어 · 제약 · 바이오
-    "Eli Lilly": "@lilly",                     # 추정
-    "Novo Nordisk": "@novonordisk",            # 추정
+    "Eli Lilly": "@EliLillyandCompany",       # [검증 2026-08-02]
+    # [videos탭 없음 — 핸들 재확인 필요 2026-08-02] "Novo Nordisk": "@novonordisk",
     "Johnson & Johnson": "@johnsonandjohnson", # 추정
     "Philips": "@philips",                     # 추정
     "GE HealthCare": "@gehealthcare",          # 추정
@@ -218,11 +218,11 @@ CHANNELS = {
     "Schneider Electric": "@SchneiderElectric",# 추정
     "Vertiv": "@Vertiv",                       # 추정
     "Cadence": "@cadence",                     # 추정
-    "Together AI": "@togetherai",              # 추정
-    "Intercom": "@intercom",                   # 추정
+    # [videos탭 없음 — 핸들 재확인 필요 2026-08-02] "Together AI": "@togetherai",
+    # [videos탭 없음 — 핸들 재확인 필요 2026-08-02] "Intercom": "@intercom",
     "Zapier": "@zapier",                       # 추정
-    "Slack": "@Slack",                         # 추정
-    "Cursor": "@cursor",                       # 추정(콘텐츠 적음)
+    "Slack": "@SlackHQ",                      # [검증 2026-08-02]
+    "Cursor": "@cursor_ai",                   # [검증 2026-08-02]
 
     # 18. 텔레콤
     "T-Mobile": "@TMobile",                    # 추정
@@ -237,7 +237,7 @@ CHANNELS = {
     "NTT DATA": "@NTTDATA",                    # 추정
 
     # 19. 미디어 · 소셜 · 자율주행 · 기타
-    "Snap": "@Snap",                           # 추정
+    "Snap": "@SnapInc",                       # [검증 2026-08-02]
     "DuckDuckGo": "@DuckDuckGo",               # 추정
     "iRobot": "@iRobot",                       # 추정
     "Cruise": "@Cruise",                       # 추정
