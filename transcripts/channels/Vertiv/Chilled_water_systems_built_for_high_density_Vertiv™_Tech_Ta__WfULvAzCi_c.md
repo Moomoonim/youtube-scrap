@@ -1,0 +1,13 @@
+# Chilled water systems built for high density | Vertiv™ Tech Talks
+
+- 영상 링크: https://www.youtube.com/watch?v=WfULvAzCi_c
+- 채널: Vertiv
+- 업로드일: 2026-01-21
+- 자막 언어: en
+- 단어 수: 약 346개
+
+---
+
+## 스크립트
+
+[music] Hello, I'm George Hanner. Chilled water technology is revolutionizing data center cooling across the globe. In today's rapidly evolving digital landscape, data centers face unprecedented challenges. From AI workloads to efficiency targets, the demands are challenging. Our technology isn't just about cooling. It's about delivering precise answers to today's challenges while preparing for tomorrow's demands. Whether you're dealing with space constraints in an urban environment or planning a hypers scale facility in the desert, our solutions adapt to [music] your needs. Vertip provides the most comprehensive thermal solutions for the entire thermal chain [music] from chip to heat reuse and a vertically integrated approach starting with design and engineering where Vertive has deep technical expertise to custom engineer chill water systems tailored to specific data center needs with a hypers scale collocation or enterprise [music] including system components with free cooling chillers, cooling distribution units, in row and perimeter cooling units, thermal walls, all engineered to work seamlessly together using integrated controls and optimization where systems come with integrated intelligence for dynamic thermal management, predictive maintenance and energy [music] optimization. And not forgetting life cycle services, including full life cycle planning, installation, [music] commissioning, and ongoing maintenance, allowing system reliability and performance. What sets us apart? First, higher density computing driven by technologies such as the latest GPU architectures creating the foundation of the future of AI. This in turn leads to elevated thermal loads and faster response [music] times requiring rapid adjustments in cooling systems. This shift necessitates a re-evaluation of the traditional cooling approaches and the adoption of more dynamic and efficient solutions. [music] Second, our systems are designed for maximum efficiency. We've engineered them to deliver industry-leading pee values while handling the most demanding highdensity and AI workloads. Third, every data center is unique and we get that. That's why our solutions are fully customizable. Fourth, but perhaps most importantly, we understand that reducing carbon footprint isn't just a popular slogan, it's a business imperative. Fifth, Vertive's commitment to delivering cooling solutions that work for you today while preparing for tomorrow's challenges.

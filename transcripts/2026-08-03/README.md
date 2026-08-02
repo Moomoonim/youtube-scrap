@@ -62,3 +62,15 @@
 - [Introducing Agentex: Open-Source Infrastructure for Enterprise AI Agents](Introducing_Agentex_Open-Source_Infrastructure_for_Enterpris__rEhkP6oztMw.md) (ko) — [원본](https://www.youtube.com/watch?v=rEhkP6oztMw)
 - [AI Agents, Clearly Explained](AI_Agents,_Clearly_Explained__FwOTs4UxQS4.md) (ko) — [원본](https://www.youtube.com/watch?v=FwOTs4UxQS4)
 - [Gemini Enterprise Agent Platform is here. (RIP Vertex AI)](Gemini_Enterprise_Agent_Platform_is_here._(RIP_Vertex_AI)__5MxBkBgdCJc.md) (ko) — [원본](https://www.youtube.com/watch?v=5MxBkBgdCJc)
+
+## 06:09 수집 (9개)
+
+- [기업에서 AI 도입 시 실수하는 것들이 있습니다](기업에서_AI_도입_시_실수하는_것들이_있습니다__jT4UGuq8md0.md) (ko) — [원본](https://www.youtube.com/watch?v=jT4UGuq8md0)
+- [5조 원을 쓰고도 AI 도입에 실패한 진짜 이유 (95%가 놓친 것) [1편]](5조_원을_쓰고도_AI_도입에_실패한_진짜_이유_(95%가_놓친_것)_[1편]__wFMVz2U02ek.md) (ko) — [원본](https://www.youtube.com/watch?v=wFMVz2U02ek)
+- [[이슈] GPT 돌리는 사장님 딴 생각 AI에 짤린다…저연차는 쑥대밭/2025년 11월 19일(수)/KBS]([이슈]_GPT_돌리는_사장님_딴_생각_AI에_짤린다…저연차는_쑥대밭2025년_11월_19일(수)KBS__EdOTnO0i0pI.md) (ko) — [원본](https://www.youtube.com/watch?v=EdOTnO0i0pI)
+- [How to Calculate the ROI of an AI Project (Before You Start)](How_to_Calculate_the_ROI_of_an_AI_Project_(Before_You_Start)__-CT0u2u7TWQ.md) (ko) — [원본](https://www.youtube.com/watch?v=-CT0u2u7TWQ)
+- [How Enterprises Use AI in Project Management | Real World Case Studies & Examples](How_Enterprises_Use_AI_in_Project_Management_Real_World_Case__KhteXbyW3sI.md) (ko) — [원본](https://www.youtube.com/watch?v=KhteXbyW3sI)
+- [How China Is Using Artificial Intelligence in Classrooms | WSJ](How_China_Is_Using_Artificial_Intelligence_in_Classrooms_WSJ__JMLsHI8aV0g.md) (ko) — [원본](https://www.youtube.com/watch?v=JMLsHI8aV0g)
+- [How AI is Ruining Education For Everyone](How_AI_is_Ruining_Education_For_Everyone__GwEjuhpo26o.md) (ko) — [원본](https://www.youtube.com/watch?v=GwEjuhpo26o)
+- [Why AI Projects Fail: Lessons from the US Army & Kotter | Kotter Webinar](Why_AI_Projects_Fail_Lessons_from_the_US_Army_&_Kotter_Kotte__jfpIvZy89UM.md) (ko) — [원본](https://www.youtube.com/watch?v=jfpIvZy89UM)
+- [Deploying AI at Enterprise Scale - ElevenLabs Summit](Deploying_AI_at_Enterprise_Scale_-_ElevenLabs_Summit__HdelDovObRU.md) (ko) — [원본](https://www.youtube.com/watch?v=HdelDovObRU)
