@@ -13,3 +13,7 @@
 
 - [Should You Use Chinese AI? The Real Reason DeepSeek and Kimi Are Free — 12-Minute Breakdown of th...](Should_You_Use_Chinese_AI_The_Real_Reason_DeepSeek_and_Kimi___o-VZm5_RKR0.md) (ko) — [원본](https://www.youtube.com/watch?v=o-VZm5_RKR0)
 - ["Borrowing, copying," and now Nvidia chips too?.. The 'devious tactics' blindsiding the 'stronges...](Borrowing,_copying,_and_now_Nvidia_chips_too.._The_'devious___hFjV7u0Hfq0.md) (ko) — [원본](https://www.youtube.com/watch?v=hFjV7u0Hfq0)
+
+## 19:07 수집 (1개)
+
+- [AI 반도체 산업, 장기적인 방향성과 단기적인 움직임  | 서재형의 투자교실](AI_반도체_산업,_장기적인_방향성과_단기적인_움직임_서재형의_투자교실__BmMcUcLMA6w.md) (ko) — [원본](https://www.youtube.com/watch?v=BmMcUcLMA6w)
