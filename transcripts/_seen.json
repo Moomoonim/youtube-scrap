@@ -62116,5 +62116,73 @@
     "lang": "en",
     "upload_date": "20260731",
     "fetched_at": "2026-08-02"
+  },
+  "Yf_1w00qIKc": {
+    "title": "A conversation on Claude Code",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20250604",
+    "fetched_at": "2026-08-02"
+  },
+  "oqUclC3gqKs": {
+    "title": "A day with Claude",
+    "channel": "Anthropic",
+    "lang": "en",
+    "upload_date": "20250522",
+    "fetched_at": "2026-08-02"
+  },
+  "L_WFEgry87M": {
+    "title": "Claude Code + GitHub Actions",
+    "channel": "Anthropic",
+    "status": "no_subs",
+    "fetched_at": "2026-08-02"
+  },
+  "02nFRuEo0bc": {
+    "title": "The Societal Impacts of AI",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20250428",
+    "fetched_at": "2026-08-02"
+  },
+  "CXhYDOvgpuU": {
+    "title": "Lessons on AI agents from Claude Plays Pokemon",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20250424",
+    "fetched_at": "2026-08-02"
+  },
+  "pyXouxa0WnY": {
+    "title": "Could AI models be conscious?",
+    "channel": "Anthropic",
+    "lang": "en",
+    "upload_date": "20250424",
+    "fetched_at": "2026-08-02"
+  },
+  "MIzq6LCMTtA": {
+    "title": "Introducing Claude for Education",
+    "channel": "Anthropic",
+    "status": "no_subs",
+    "fetched_at": "2026-08-02"
+  },
+  "Bj9BD2D3DzA": {
+    "title": "Tracing the thoughts of a large language model",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20250327",
+    "fetched_at": "2026-08-02"
+  },
+  "WSkmFZsUpf0": {
+    "title": "How Intercom is redefining customer support with Claude",
+    "channel": "Anthropic",
+    "lang": "ko",
+    "upload_date": "20250327",
+    "fetched_at": "2026-08-02"
+  },
+  "6Unxqr50Kqg": {
+    "title": "Controlling powerful AI",
+    "channel": "Anthropic",
+    "lang": "en",
+    "upload_date": "20250317",
+    "fetched_at": "2026-08-02"
   }
 }
