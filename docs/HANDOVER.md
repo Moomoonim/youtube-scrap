@@ -5,6 +5,23 @@
 
 ---
 
+## ⚡ 현행화 (2026-08-02) — 아래 본문(07-20 기준)과 달라진 것
+
+이 문서 본문은 07-20 시점이다. 그 이후의 실제 상태:
+
+1. **이사 완료**: `Moomoonim/youtube-scrap`이 현재 저장소, 기본 브랜치 `main`. Actions 정상 가동.
+2. **쿠키 문제 해결됨**: secret 이름 불일치(`YOUTUBE`)를 `|| secrets.YOUTUBE` 폴백으로 해결. 07-20의 "수집 중단" 상태 아님 — **07-21부터 현재까지 하루 6회(cron `17 */4 * * *`) 연속 수집 중**.
+3. **규모**: 약 **8,000건**(2026-08-02), 채널 90개 수집됨(설정 118개), 키워드 171건+.
+4. **분류 v2 도입**(07-29): 사전 기반 DX/AX/AT의 타당성 결함 진단 후 `classify_v2.py`(relevance/stance/subject/구성개념 8신호) 추가. `analysis/classified_v2.csv`가 연구용 주 데이터. 코드북: `docs/CODEBOOK_v2.md`.
+5. **주요 산출물**: `docs/CONTENT_REVIEW.md`(담론 분석 v6.2) · `SOLUTIONS_MAP.md`(회사×솔루션×역할) · `AGENT_IMPLEMENTATION.md`(키노트 기술 상세) · `CAPABILITY_STATS.md`(기능 통계) · `INTERVIEW_GUIDE.md`(인터뷰 논문 설계) · `COLLECTION_INVENTORY.md`(전량 목록).
+6. **오수집 교정**: TCS(스위스 자동차클럽)·Zoox(게임 유튜버) 핸들 수정·격리 완료.
+7. **로컬 저속 수집기**: `fetch_local.py`(가정용 IP·`--pace` 간격) 추가.
+8. **미해결(2026-08-02 착수)**: 0건 채널 29개 + 주석 처리 핸들 15개 → `verify_handles.py` + `verify-handles.yml`(수동 워크플로)로 검증 진행. 키워드 7→13개로 보강(수요측·비평).
+
+---
+
+---
+
 ## 1. 프로젝트 개요
 
 **목표**: 유튜브에서 AX(AI Transformation) 관련 담론을 대규모 수집하여

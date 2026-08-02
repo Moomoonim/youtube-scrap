@@ -13,10 +13,19 @@ KEYWORDS = [
     "AI 전환 사례",
     "기업 AI 도입",
     "AX 인공지능 전환",
+    # 한국어 — 수요측·비평·노동 관점 보강 [2026-08-02]
+    "AI 도입 실패",
+    "AI 에이전트 도입 사례",
+    "생성형 AI 업무 활용",
+    "AI 구조조정",
     # 영어
     "AI Transformation",
     "Enterprise AI adoption",
     "AX AI transformation business",
+    # 영어 — 수요측·비평 보강 [2026-08-02]
+    "enterprise AI ROI case study",
+    "AI adoption failure lessons",
+    "AI agent deployment enterprise",
 ]
 
 # 자막을 받아올 언어 (우선순위 순서). ko=한국어, en=영어

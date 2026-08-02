@@ -1,0 +1,28 @@
+name: Verify Channel Handles
+
+# 0건 수집 채널·주석 처리된 후보 핸들의 유효성을 러너에서 일괄 검증 (수동 실행)
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: 검증 실행
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          YT_COOKIES: ${{ secrets.YOUTUBE_COOKIES || secrets.YOUTUBE }}
+        run: |
+          set -e
+          git clone --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" repo
+          cd repo
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s' "$YT_COOKIES" > cookies.txt
+          fi
+          python3 -m pip install --quiet --upgrade pip yt-dlp
+          python3 verify_handles.py
