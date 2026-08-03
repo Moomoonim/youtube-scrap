@@ -1,0 +1,13 @@
+# Baby Delivery on Train - WhatsApp - Community Voices
+
+- 영상 링크: https://www.youtube.com/watch?v=sfg5mNU5qL8
+- 채널: Meta
+- 업로드일: 2020-09-09
+- 자막 언어: en
+- 단어 수: 약 457개
+
+---
+
+## 스크립트
+
+(city sounds) - Generally, you are proud if you say "I'm a doctor." It's a noble profession and saving a life is the biggest satisfaction of your life. (crowd murmuring) But sometimes it's really quite difficult to say I'm a doctor, because in an emergency situation, anything can happen. I was traveling from Akola to Nagpur and the train was finally stopped. Then, I heard some search from the next compartment. They were searching for doctor. They were calling for doctor. First of all, I thought I'm not a doctor now. (laughs) I'm just a medical student. On that day, there is no doctor in that whole train. That means in 20,000 peoples, there were no doctors. I thought I can do something for that, and I went to that compartment. When I reached there, I saw one 22 to 23 year-old lady and she was in labor pains. I have never done any single deliveries until that time. Then, I called one doctor. I asked him, "What should I do?" - So I was like "Hey, let's make a group on WhatsApp." If somebody pings or something, we can respond it immediately. - So, he created the WhatsApp Group and named it "Emergency", and added more than 200 doctors at the same time. I was so much stressed at the time that my legs started shaking. After three to four minutes, many of doctors replied. Then, once I look for the head. Unfortunately, it was not head. It was shoulder, which was coming out of the birth canal. At that time, I was frightened. Everyone was motivating me to make incision over that portion and expel out the baby. I was like, I have never conducted any normal delivery, what am I doing? I'm conducting a complicated delivery back in a train. And that to making incisions. Everyone was saying, "you have to do it now." "It's the time." "Search for the blade, and go for it." I took a blade, and started making an incision. So, it was a little bit difficult condition, but we expelled out baby within 25 seconds. - Next reply from him was like, "The baby started breathing!" So, everyone's like (laughs loudly, claps). - There was hardly any chances of the survival of the baby and survival of the mother. Because of me, an inexperienced doctor, but WhatsApp made it possible. - If one of the members of the group is on the train, and if one of the situation like this arises, then he will definitely use that group for that purpose. Definitely. - That baby has survived now. That kept his name on my name. My name is Vipin and his name is also Vipin. (cheerful orchestral music)

@@ -80,3 +80,9 @@
 - ["사람 대신 자동화로 바꿀 것"...무려 60만 명 '칼바람' 예고 [지금이뉴스]  / YTN](사람_대신_자동화로_바꿀_것...무려_60만_명_'칼바람'_예고_[지금이뉴스]_YTN__pbnGY8GY934.md) (ko) — [원본](https://www.youtube.com/watch?v=pbnGY8GY934)
 - [What "production-grade" actually means for AI Agents?](What_production-grade_actually_means_for_AI_Agents__1bMoHCh1StY.md) (ko) — [원본](https://www.youtube.com/watch?v=1bMoHCh1StY)
 - [Build, Test, and Deploy Production-Ready Enterprise AI Agents in Minutes | with @InformaticaCorp](Build,_Test,_and_Deploy_Production-Ready_Enterprise_AI_Agent__P0kux8A8NbM.md) (ko) — [원본](https://www.youtube.com/watch?v=P0kux8A8NbM)
+
+## 16:44 수집 (3개)
+
+- [AI 헤지펀드의 마지막 24시간 - Situational Awareness 사태](AI_헤지펀드의_마지막_24시간_-_Situational_Awareness_사태__kmxy8bUAyJA.md) (ko) — [원본](https://www.youtube.com/watch?v=kmxy8bUAyJA)
+- ["이 3가지는 필수" AI 20년 연구한 뇌과학자가 챗GPT 쓰는 법 (카이스트 김대식 교수)](이_3가지는_필수_AI_20년_연구한_뇌과학자가_챗GPT_쓰는_법_(카이스트_김대식_교수)__vDZ0ryuiYfg.md) (ko) — [원본](https://www.youtube.com/watch?v=vDZ0ryuiYfg)
+- [Analythics Architecture:  Promising AI Use Cases for the Enterprise in 2026](Analythics_Architecture_Promising_AI_Use_Cases_for_the_Enter__JhbsIutTwXM.md) (ko) — [원본](https://www.youtube.com/watch?v=JhbsIutTwXM)
