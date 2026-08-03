@@ -74,3 +74,9 @@
 - [How AI is Ruining Education For Everyone](How_AI_is_Ruining_Education_For_Everyone__GwEjuhpo26o.md) (ko) — [원본](https://www.youtube.com/watch?v=GwEjuhpo26o)
 - [Why AI Projects Fail: Lessons from the US Army & Kotter | Kotter Webinar](Why_AI_Projects_Fail_Lessons_from_the_US_Army_&_Kotter_Kotte__jfpIvZy89UM.md) (ko) — [원본](https://www.youtube.com/watch?v=jfpIvZy89UM)
 - [Deploying AI at Enterprise Scale - ElevenLabs Summit](Deploying_AI_at_Enterprise_Scale_-_ElevenLabs_Summit__HdelDovObRU.md) (ko) — [원본](https://www.youtube.com/watch?v=HdelDovObRU)
+
+## 12:52 수집 (3개)
+
+- ["사람 대신 자동화로 바꿀 것"...무려 60만 명 '칼바람' 예고 [지금이뉴스]  / YTN](사람_대신_자동화로_바꿀_것...무려_60만_명_'칼바람'_예고_[지금이뉴스]_YTN__pbnGY8GY934.md) (ko) — [원본](https://www.youtube.com/watch?v=pbnGY8GY934)
+- [What "production-grade" actually means for AI Agents?](What_production-grade_actually_means_for_AI_Agents__1bMoHCh1StY.md) (ko) — [원본](https://www.youtube.com/watch?v=1bMoHCh1StY)
+- [Build, Test, and Deploy Production-Ready Enterprise AI Agents in Minutes | with @InformaticaCorp](Build,_Test,_and_Deploy_Production-Ready_Enterprise_AI_Agent__P0kux8A8NbM.md) (ko) — [원본](https://www.youtube.com/watch?v=P0kux8A8NbM)
