@@ -86,3 +86,10 @@
 - [AI 헤지펀드의 마지막 24시간 - Situational Awareness 사태](AI_헤지펀드의_마지막_24시간_-_Situational_Awareness_사태__kmxy8bUAyJA.md) (ko) — [원본](https://www.youtube.com/watch?v=kmxy8bUAyJA)
 - ["이 3가지는 필수" AI 20년 연구한 뇌과학자가 챗GPT 쓰는 법 (카이스트 김대식 교수)](이_3가지는_필수_AI_20년_연구한_뇌과학자가_챗GPT_쓰는_법_(카이스트_김대식_교수)__vDZ0ryuiYfg.md) (ko) — [원본](https://www.youtube.com/watch?v=vDZ0ryuiYfg)
 - [Analythics Architecture:  Promising AI Use Cases for the Enterprise in 2026](Analythics_Architecture_Promising_AI_Use_Cases_for_the_Enter__JhbsIutTwXM.md) (ko) — [원본](https://www.youtube.com/watch?v=JhbsIutTwXM)
+
+## 20:42 수집 (4개)
+
+- [혁신적인 AI+터치+보조모니터 펀딩템? 40만원주고 또 돈버렸습니다 ㅋㅋㅋ](혁신적인_AI+터치+보조모니터_펀딩템_40만원주고_또_돈버렸습니다_ㅋㅋㅋ__OPo1qds-mFQ.md) (ko) — [원본](https://www.youtube.com/watch?v=OPo1qds-mFQ)
+- [[Agentic AI 3편] AI 3종 비교: RPA, ChatGPT, Agentic AI 뭐가 다른가? 기업들이 Agentic AI에 난리난 이유]([Agentic_AI_3편]_AI_3종_비교_RPA,_ChatGPT,_Agentic_AI_뭐가_다른가_기업들__YdWFAIS5kFo.md) (ko) — [원본](https://www.youtube.com/watch?v=YdWFAIS5kFo)
+- [How AI Could Save (Not Destroy) Education | Sal Khan | TED](How_AI_Could_Save_(Not_Destroy)_Education_Sal_Khan_TED__hJP5GqnTrNo.md) (ko) — [원본](https://www.youtube.com/watch?v=hJP5GqnTrNo)
+- [Deploying AI Agents In The Enterprise](Deploying_AI_Agents_In_The_Enterprise__cKGyiwsm66I.md) (ko) — [원본](https://www.youtube.com/watch?v=cKGyiwsm66I)
