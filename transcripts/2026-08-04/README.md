@@ -10,3 +10,9 @@
 
 - ["Did the AI bubble burst?" The reality at data centers is the complete opposite.](Did_the_AI_bubble_burst_The_reality_at_data_centers_is_the_c__2q65JwFL_H4.md) (ko) — [원본](https://www.youtube.com/watch?v=2q65JwFL_H4)
 - [Solving the Implementation Gap: AI Adoption Problems and the Six Sigma Fix](Solving_the_Implementation_Gap_AI_Adoption_Problems_and_the___V2vnUl2vq_E.md) (ko) — [원본](https://www.youtube.com/watch?v=V2vnUl2vq_E)
+
+## 06:20 수집 (3개)
+
+- [팔란티어의 자리가 위협받고 있습니다 - 김덕진 IT커뮤니케이션 연구소 소장](팔란티어의_자리가_위협받고_있습니다_-_김덕진_IT커뮤니케이션_연구소_소장__-YPPJvoMKTE.md) (ko) — [원본](https://www.youtube.com/watch?v=-YPPJvoMKTE)
+- [Why You Shouldn't Get the Order Wrong When Starting with AI (Answers from 4 AI Professionals)](Why_You_Shouldn't_Get_the_Order_Wrong_When_Starting_with_AI___zhkYPIEJqVc.md) (ko) — [원본](https://www.youtube.com/watch?v=zhkYPIEJqVc)
+- [The AI adoption playbook: Lessons from Microsoft's internal strategy](The_AI_adoption_playbook_Lessons_from_Microsoft's_internal_s__c51ToE4pPpY.md) (ko) — [원본](https://www.youtube.com/watch?v=c51ToE4pPpY)
