@@ -1,0 +1,13 @@
+# Jet2 Solves Customer Calls With Snowflake Cortex
+
+- 영상 링크: https://www.youtube.com/watch?v=K9_vngfThfI
+- 채널: Snowflake
+- 업로드일: 2025-11-06
+- 자막 언어: en
+- 단어 수: 약 430개
+
+---
+
+## 스크립트
+
+marker. At Jet 2, we have some uh worldclass uh technology platforms and data platforms, including Snowflake. And without training, that's like giving someone a race car, but not teaching them how to drive it. My name is Dave Herd. I'm the head of data engineering and analytics for Jet 2 and Jet 2 Holidays. Uh so Jet 2 are the largest tour operator in the UK and the third largest airline in the UK. We uh operate a fleet of over 130 aircraft. Um, and we take customers on package holidays [music] to over 650 uh, beach and city destinations across Europe and the Mediterranean. Snowflake's at the heart of our data analytics [music] estate. So, getting teams up to speed with how to use it and how to get the right return on investment from that platform is critical. So, Snowflake training has helped us think a little bit differently around uh technical learning and development training in that [music] it's helped us recognize that partnering with companies like Snowflake allows us to deliver the best training provision for our colleagues. So Snowflake can deliver instructor-led training courses that have been designed very specifically around the platform and we can then focus on adding our business specific knowledge around that training and also focus on building our analytical communities [music] which are what really drives the the value behind our data. So we get a lot of uh customers uh phoning into our contact center and we wanted to understand a bit more about what the driving factors are for those [music] calls so that we could look at improving our self-service offerings on our websites. So we use Snowflake Cortex to analyze call transcripts um from our incoming calls and effectively map those to a set of predefined [music] uh call intents. So following the uh contact center call intent program, we are seeing uh an impact in terms of our understanding of calls going into the contact center and it has allowed us to prioritize activity in [music] order to improve our website self-service capability and ultimately reduce the number of calls uh [music] that we have coming into the contact center. So what what we want to do with Snowflake Cortex in the future is increasingly [music] look at a way in which we can provide our business users with natural language um capabilities in terms of asking questions of our data. So uh we're hoping to [music] shortly start uh implementing some proof of concepts around that across various data domains at Jet 2.
