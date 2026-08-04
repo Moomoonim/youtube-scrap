@@ -13,6 +13,9 @@
 > **검색 도구**: `paper_case_search.py` (규칙 기반, 재현 가능) →
 > `analysis/PAPER_CASES_SUN2024.md`(축별 후보 전량), `analysis/paper_cases_sun2024.csv`(문장 단위).
 > 이 문서는 그 후보 중 **원문을 직접 확인해 발언 주체·맥락을 검증한 것만** 선별했다.
+>
+> **사례별 상세본**: `docs/PAPER_CASE_DOSSIER_SUN2024.md` — 각 사례의 발화 맥락·이해관계·
+> 사례 내용·확장 인용·인용 시 주의사항을 항목별로 풀어 적었다(52개 항목, 영상 39편).
 
 ---
 
