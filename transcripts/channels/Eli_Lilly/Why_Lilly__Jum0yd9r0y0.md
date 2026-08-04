@@ -1,0 +1,13 @@
+# Why Lilly?
+
+- 영상 링크: https://www.youtube.com/watch?v=Jum0yd9r0y0
+- 채널: Eli Lilly
+- 업로드일: 2025-08-06
+- 자막 언어: en
+- 단어 수: 약 438개
+
+---
+
+## 스크립트
+
+[Music] Welcome to Lily, where every day we turn groundbreaking discoveries into life-changing medicines that impact millions worldwide. We're not just a pharmaceutical manufacturing company. We're a team of innovators, scientists, and dreamers. We invite you to be part of this incredible journey. It begins with a spark of curiosity, a relentless pursuit to improve and save lives. Our dedicated researchers collaborate on cuttingedge projects pushing the boundaries of science to develop medicines that truly matter. But it's not just molecules in a lab. It's about the people we impact. The child who can now play in the park. The grandmother who can enjoy more time with her family. And the friend who is living a better life. So we asked our team, why Lily? My favorite thing about Lily is really about that value of respect for people. &gt;&gt; They really do care about the holistic point of you. &gt;&gt; The benefits here are better than they are at va the vast majority of companies. &gt;&gt; I can be a mom and an associate vice president. &gt;&gt; Everybody here is just so knowledgeable and so nice. &gt;&gt; Lily has pushed me to learn, adapt, and grow. &gt;&gt; I get to come to work and I get to work on really cool technologies. Being able to meet with cross functionally with HR, marketing, all these different people that have different backgrounds, different opinions, different ideas. &gt;&gt; Meet those people that are similar to you, but also a lot of people that are very diverse and very different to you. Flexibility that we have in our ability to do our work. &gt;&gt; You feel good about the work you do. You feel good about the career you can carve. You feel good about the people that you're with. They will challenge you. They will make you better. But it's a really fantastic place to be. When you join Lily, you're not just an employee, you're a pioneer. You'll have the opportunity to shape the future of healthcare, to contribute to the next life-saving breakthrough. Our mission is clear to make life better for people around the world. And you can be a driving force behind that mission. So, if you're looking for a career that's more than just a job, if you're passionate about making a difference, we invite you to join us at Lily. Before you decide, we want to know what's your why. Share your story with us because here, every why adds to our collective purpose. Apply today and take the first step towards a rewarding career with purpose, innovation, and a true sense of belonging.
