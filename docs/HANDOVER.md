@@ -14,7 +14,7 @@
 3. **규모**: 약 **8,000건**(2026-08-02), 채널 90개 수집됨(설정 118개), 키워드 171건+.
 4. **분류 v2 도입**(07-29): 사전 기반 DX/AX/AT의 타당성 결함 진단 후 `classify_v2.py`(relevance/stance/subject/구성개념 8신호) 추가. `analysis/classified_v2.csv`가 연구용 주 데이터. 코드북: `docs/CODEBOOK_v2.md`.
 5. **주요 산출물**: `docs/CONTENT_REVIEW.md`(담론 분석 v6.2) · `SOLUTIONS_MAP.md`(회사×솔루션×역할) · `AGENT_IMPLEMENTATION.md`(키노트 기술 상세) · `CAPABILITY_STATS.md`(기능 통계) · `INTERVIEW_GUIDE.md`(인터뷰 논문 설계) · `COLLECTION_INVENTORY.md`(전량 목록).
-   추가(2026-08-04): `docs/PAPER_CASE_MAP_SUN2024.md` — Sun et al.(2024, IEEE TEM) 인사이트 축(A~I) × 코퍼스 사례 매핑. 검색기는 `paper_case_search.py`, 후보 전량은 `analysis/PAPER_CASES_SUN2024.md` / `analysis/paper_cases_sun2024.csv`. 사례별 상세본은 `docs/PAPER_CASE_DOSSIER_SUN2024.md`.
+   추가(2026-08-04): `docs/PAPER_CASE_MAP_SUN2024.md` — Sun et al.(2024, IEEE TEM) 인사이트 축(A~I) × 코퍼스 사례 매핑. 검색기는 `paper_case_search.py`, 후보 전량은 `analysis/PAPER_CASES_SUN2024.md` / `analysis/paper_cases_sun2024.csv`. 사례별 상세본은 `docs/PAPER_CASE_DOSSIER_SUN2024.md`. 서술형 본문 원고는 `docs/PAPER_CASE_NARRATIVE_SUN2024.md`.
 6. **오수집 교정**: TCS(스위스 자동차클럽)·Zoox(게임 유튜버) 핸들 수정·격리 완료.
 7. **로컬 저속 수집기**: `fetch_local.py`(가정용 IP·`--pace` 간격) 추가.
 8. **미해결(2026-08-02 착수)**: 0건 채널 29개 + 주석 처리 핸들 15개 → `verify_handles.py` + `verify-handles.yml`(수동 워크플로)로 검증 진행. 키워드 7→13개로 보강(수요측·비평).
