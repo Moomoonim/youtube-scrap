@@ -30,3 +30,10 @@
 - [시장 분기점은 언제? AI 사이클과 유동성 분석[증시타임]](시장_분기점은_언제_AI_사이클과_유동성_분석[증시타임]__9qohWX7a7JA.md) (ko) — [원본](https://www.youtube.com/watch?v=9qohWX7a7JA)
 - [India Hit Hard by AI, Betting Everything on Medical School (Understanding Reporter Jang Soon-won)](India_Hit_Hard_by_AI,_Betting_Everything_on_Medical_School_(__7qcyIGwDc1Y.md) (ko) — [원본](https://www.youtube.com/watch?v=7qcyIGwDc1Y)
 - [AI Adoption - Are we solving the right problem?](AI_Adoption_-_Are_we_solving_the_right_problem__E1lSjweOXKY.md) (ko) — [원본](https://www.youtube.com/watch?v=E1lSjweOXKY)
+
+## 19:49 수집 (4개)
+
+- ["Denied: Why China Is Cracking Down on 'AI Lovers' | Crab"](Denied_Why_China_Is_Cracking_Down_on_'AI_Lovers'_Crab__3jHtOPmgqkA.md) (ko) — [원본](https://www.youtube.com/watch?v=3jHtOPmgqkA)
+- [AI 도입 85%가 실패하는 이유 — GenUI 팀 도입 가이드](AI_도입_85%가_실패하는_이유_—_GenUI_팀_도입_가이드__1ROTMhSNUNs.md) (ko) — [원본](https://www.youtube.com/watch?v=1ROTMhSNUNs)
+- [건축·인테리어 AI 도입 전 꼭 보세요｜실무에서 실패하는 5가지 이유 (by 뽁숑이)](건축·인테리어_AI_도입_전_꼭_보세요｜실무에서_실패하는_5가지_이유_(by_뽁숑이)__9WtslHFMC-k.md) (ko) — [원본](https://www.youtube.com/watch?v=9WtslHFMC-k)
+- [RAG Explained For Beginners](RAG_Explained_For_Beginners___HQ2H_0Ayy0.md) (ko) — [원본](https://www.youtube.com/watch?v=_HQ2H_0Ayy0)
