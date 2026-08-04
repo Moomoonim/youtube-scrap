@@ -1,0 +1,13 @@
+# Microsoft and Atom Computing's quantum breakthrough
+
+- 영상 링크: https://www.youtube.com/watch?v=hl0HWJ77otE
+- 채널: Microsoft
+- 업로드일: 2025-08-07
+- 자막 언어: en
+- 단어 수: 약 420개
+
+---
+
+## 스크립트
+
+[ Music ] We are very excited to get these systems into the hands of customers. Together with Microsoft, we really want to make this a reality and enable these customers to build their ecosystems, create a quantum ready workforce, and really bring quantum into the hands of people. We want quantum computing to be a reality and to make a difference in the world. And the whole goal here is to achieve quantum advantage. We want to get to the number of logical qubits and good enough logical qubits together. That co-design processes led us to be able to actually achieve some of these results very quickly and set new records. Now that we are in the reliable era, detect, correct and compute really resonates. We are able to then bring about a new class of algorithms, a new class of error correcting codes, both for encoding and decoding in our qubit virtualization system. And then we tailor these for the atom hardware. It doesn't do you any good to correct errors if you can't actually compute. Right. So the whole point here is that we're correcting as we go during the computation to actually get to some application of interest. We've seen the hardware come to meet the error correction. We did a whole redesign of the architecture within our systems. What they supplied to us is an array of neutral atoms that we can use. We group those neutral atoms together, and we can make logical qubits out of those which are more reliable than the physical parts that we started with. So not only were we able to create really interesting, entangled logical states, we’re actually able to run algorithms on logical qubits. Another unique thing about their technology is that you can move qubits around and have qubits interact from even from far distances. That's not something that's available in all quantum computing architectures. We're able to then enable logical qubits to come to life, making the best possible reliable quantum machine we can. There's something fundamentally different about being in the same room with the hardware. It just just give you the warm fuzzies about going on and, really makes it that much more real. On the atom computing side, you have world class experts moving the atoms. And on the Microsoft side, we have world class expertise across quantum error correction, across quantum algorithms. These two teams are able then to produce the most reliable quantum machine in the world. [ Music ]
