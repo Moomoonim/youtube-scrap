@@ -39,7 +39,9 @@
   **자동화 · 증강 · 데이터 풍부성** 3축 × 4항목(수준·범위·영향·전략)으로 코딩해
   큐브 8개 상태별 **사례 후보**를 뽑는다
 - 결과: `analysis/aitf_scored.csv`(영상별), `analysis/aitf_company.csv`(기업별),
-  `docs/AITF_CASES.md`(사람이 읽는 정리본)
+  `docs/AITF_CASES.md`(자동 생성 목록)
+- `docs/AITF_CASE_DOSSIER.md` — 위 목록에서 21건을 골라 **원문 대조 후 수기로 정리한 사례집**
+  (발화 주체·수치·인용문·프레임워크 해석·인용 주의사항)
 
 ## 자동 실행 (하루 5회)
 
