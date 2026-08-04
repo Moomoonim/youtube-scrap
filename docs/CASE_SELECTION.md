@@ -5,6 +5,9 @@
 > 자료를 실제로 갖고 있는지** 계량한 결과.
 > 산출 근거: `analysis/catalog.csv`(채널·레이어·본국), `analysis/classified_v2.csv`(relevance·stance·8신호),
 > `analysis/cases.csv`(사례 발췌·수치 유무).
+>
+> 📎 **각 사례가 실제로 무엇을 보여주는지의 정독본은 `CASE_PROFILES.md`** — 후보별 핵심 증거·발췌·출처,
+> 균열과 자기반증 지점, 논문에서의 역할과 한계를 사례당 한 절씩 정리했다.
 
 ---
 
