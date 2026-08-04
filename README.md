@@ -34,6 +34,14 @@
 - 결과: `analysis/summaries.csv` (기계 판독용), `analysis/SUMMARY_BY_CHANNEL.md`,
   `analysis/SUMMARY_BY_MONTH.md` (사람이 읽는 정리본)
 
+**⑤ Verhoef 3단계 사례 태깅** (`classify_verhoef.py`, 수동 실행)
+- Verhoef et al.(2021)의 **digitization(전산화) → digitalization(디지털화) →
+  digital transformation(디지털 전환)** 3단계로 코퍼스 전량을 태깅하고,
+  단계별 근거 문장(사례 주장)을 회사별로 모읍니다. Table 1의 네 전략 요소
+  (디지털 자원·조직구조·성장전략·지표)도 보조 축으로 함께 코딩합니다.
+- 결과: `analysis/verhoef_stages.csv` (기계 판독용), `docs/VERHOEF_CASES.md`
+  (단계별·회사별 사례집)
+
 ## 자동 실행 (하루 5회)
 
 `.github/workflows/daily-fetch.yml` 이 **매일 한국시간 06시 / 10시 / 14시 /
