@@ -42,6 +42,14 @@
 - 결과: `analysis/verhoef_stages.csv` (기계 판독용), `docs/VERHOEF_CASES.md`
   (단계별·회사별 사례집)
 
+**⑥ 사례 상세 카드** (`build_verhoef_dossier.py`, 수동 실행)
+- ⑤에서 배정된 사례를 하나씩 펼칩니다 — **판정 근거가 된 실제 어휘와 횟수**, "무엇을 했다"는
+  주장 문장(최대 5개), 성과 수치, 언급된 다른 기업, Table 1 좌표, 원본 링크.
+  한 단어가 점수의 70% 이상을 차지하면 **⚠️ 단일 마커 지배** 경고가 붙습니다.
+- 결과: `docs/VERHOEF_DOSSIER_S3.md` · `S2` · `S1` · `S4c` (총 1,142장)
+- 이와 별도로 `docs/VERHOEF_S3_PROFILES.md` 는 S3 상위 사례를 **원문으로 직접 검증한**
+  서술형 프로파일입니다(사람이 작성, 오탐 분석 포함).
+
 ## 자동 실행 (하루 5회)
 
 `.github/workflows/daily-fetch.yml` 이 **매일 한국시간 06시 / 10시 / 14시 /

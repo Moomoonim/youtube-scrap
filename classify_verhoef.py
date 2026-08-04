@@ -68,7 +68,10 @@ S1_DIGITIZATION = rx(
     r"전산화", r"디지털화\s*(작업|사업)?", r"전자\s*문서(화)?", r"문서\s*(전자화|디지털화|디지타이)",
     r"종이\s*(문서|서류|장부|기반)", r"페이퍼\s*리스", r"paperless",
     r"수기\s*(작성|입력|기록|관리)", r"손으로\s*(적|입력)", r"엑셀(로)?\s*(정리|관리|입력)",
-    r"스캔(해서|하여|한)?\s*(저장|보관|디지털)?", r"\bOCR\b", r"광학\s*문자",
+    # '스캔' 단독은 의료 영상(초음파·CT) 담론에서 대량 오탐된다 — 문서 맥락일 때만 센다.
+    r"(문서|서류|자료|장부|도면|영수증)(를|을)?\s*스캔",
+    r"스캔(해서|하여|한)\s*(저장|보관|디지털|업로드|보관)",
+    r"\bOCR\b", r"광학\s*문자",
     r"digiti[sz](e|ed|ing|ation)", r"scan(ned|ning)?\s+(document|paper|record)",
     r"paper[-\s]?based", r"data\s+entry", r"수작업\s*(입력|처리)",
     r"아날로그\s*(정보|자료|데이터|방식)", r"analog(ue)?\s+(data|information|process)",
@@ -107,7 +110,11 @@ S3_TRANSFORMATION = rx(
     r"신규\s*(사업|수익원|매출원)", r"new\s+(business|revenue)\s+(model|stream|source)",
     r"전사(적)?\s*(전환|혁신|재편|차원)", r"company[-\s]?wide|enterprise[-\s]?wide\s+transformation",
     r"플랫폼\s*(비즈니스|사업|기업|모델|전략|경제|전환)", r"platform\s+(business|company|model|strategy|economy|play)",
-    r"양면\s*시장|two[-\s]?sided\s+market|마켓\s*플레이스|marketplace",
+    # 'marketplace' 단독은 AWS/Azure 마켓플레이스 조달 이야기에서 남발되므로
+    # (BM 전환이 아니다) 사업 맥락이 붙을 때만 센다.
+    r"양면\s*시장|two[-\s]?sided\s+market",
+    r"마켓\s*플레이스\s*(비즈니스|사업|모델|전략|경제)",
+    r"marketplace\s+(business|model|strategy|economy|play)",
     r"네트워크\s*효과|network\s+effect", r"생태계\s*(구축|조성|전략|참여자)|business\s+ecosystem",
     r"구독\s*(모델|경제|전환)|subscription\s+(model|business)",
     r"서비스화|servitization|as[-\s]?a[-\s]?service\s+(model|business)|\bXaaS\b",
@@ -325,6 +332,11 @@ HEADER = """# Verhoef 3단계 프레임으로 본 코퍼스 사례집
 > https://doi.org/10.1016/j.jbusres.2019.09.022
 >
 > 생성: `python classify_verhoef.py` · 원자료: `analysis/verhoef_stages.csv`
+>
+> 사례 **상세 카드**: [`VERHOEF_DOSSIER_S3.md`](VERHOEF_DOSSIER_S3.md) ·
+> [`S2`](VERHOEF_DOSSIER_S2.md) · [`S1`](VERHOEF_DOSSIER_S1.md) · [`S4c`](VERHOEF_DOSSIER_S4c.md)
+> (`build_verhoef_dossier.py`) — 사례별 판정 근거·주장·수치·언급 기업까지 펼친 카드.
+> 상위 S3 사례를 원문으로 검증한 서술은 [`VERHOEF_S3_PROFILES.md`](VERHOEF_S3_PROFILES.md).
 
 ## 이 문서는 무엇인가
 
