@@ -4,3 +4,9 @@
 
 - [Citadel’s Surprise Report After Swallowing $3 Billion in AI Stocks: "Early Summer Overheating Has...](Citadel’s_Surprise_Report_After_Swallowing_$3_Billion_in_AI___CVftUZHat14.md) (ko) — [원본](https://www.youtube.com/watch?v=CVftUZHat14)
 - [The Only Trait for Success in the AI Era—How to Build It | Carnegie Mellon University Po-Shen Loh](The_Only_Trait_for_Success_in_the_AI_Era—How_to_Build_It_Car__xWYb7tImErI.md) (ko) — [원본](https://www.youtube.com/watch?v=xWYb7tImErI)
+
+## 06:34 수집 (3개)
+
+- [Big Tech Increasing AI Investment Despite High Interest Rates… Demand Remains Strong Despite Semi...](Big_Tech_Increasing_AI_Investment_Despite_High_Interest_Rate__ftsAECXnuDE.md) (ko) — [원본](https://www.youtube.com/watch?v=ftsAECXnuDE)
+- [How to Actually Adopt AI: The Framework I Use With Fortune 500 Companies](How_to_Actually_Adopt_AI_The_Framework_I_Use_With_Fortune_50__YPp9Q-6PDiw.md) (ko) — [원본](https://www.youtube.com/watch?v=YPp9Q-6PDiw)
+- [Foundry Agent Service + Microsoft Agent Framework Explained](Foundry_Agent_Service_+_Microsoft_Agent_Framework_Explained__iR7_57lJOz8.md) (ko) — [원본](https://www.youtube.com/watch?v=iR7_57lJOz8)

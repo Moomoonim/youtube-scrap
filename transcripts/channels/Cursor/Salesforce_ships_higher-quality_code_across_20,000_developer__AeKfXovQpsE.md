@@ -1,0 +1,13 @@
+# Salesforce ships higher-quality code across 20,000 developers with Cursor
+
+- 영상 링크: https://www.youtube.com/watch?v=AeKfXovQpsE
+- 채널: Cursor
+- 업로드일: 2026-01-23
+- 자막 언어: en
+- 단어 수: 약 452개
+
+---
+
+## 스크립트
+
+[music] I am Shan Apajoru. I am SVP of engineering at Salesforce. So our team's responsibility is to provide best tooling for our developers. We felt that you know we want to give lot of options and choices to our developers so they can be more productive [music] and not just limit to our internal tools. And that's when we introduced cursor. [music] At Salesforce, we have this mindset of anything we do, we want to actually have proper metrics to show how we are actually making progress. And we have followed the same with the AI tools, right? Are we efficiently increasing the cycle time? Are we [music] increasing the throughput time? At the same time, are we having a good quality bar? These are the key three metrics that we look at. We have definitely seen more than doubledigit numbers increase in in all of these. One area we have seen a huge improvement is actually in the quality of products. If people just check in lot of code and do not review it, it might have adverse impacts when they release the code. This is something that we have been working on and making it efficient on how effectively can we leverage AI in helping teams to do code reviews and be able to have confidence in the code that they are writing and releasing. We have introduced code review tools to help with unit testing, functional testing, integration testing all the way to production level testing. There is no magic bullet here. You have to approach this in a patient and systematic way and have processes in place. One area that developers normally do not like is writing a lot of test cases. And we have seen junior and senior developers adopt tools like cursor to be able to generate test cases and and you know increase unit testing and functional testing aspects of code. Any change requires a good thought process, proper metrics and proper rollout and adoption planning. As more and more code is written by developers using AI tools and help of AI tools, we definitely need to balance out on how do we ensure that the code that is written is getting reviewed and what is the quality level of the code. Culturally, we are seeing a change on how are teams thinking about leveraging AI to do things more efficiently at the same time do things in a more safe and and secure manner. Our goal is to provide you know the best of the breed of tools to our developers and cursor has been one of them. People love it and and use it and various aspects of their software development. [music]

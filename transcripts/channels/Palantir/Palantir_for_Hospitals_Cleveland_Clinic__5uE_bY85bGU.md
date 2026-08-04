@@ -1,0 +1,13 @@
+# Palantir for Hospitals: Cleveland Clinic
+
+- 영상 링크: https://www.youtube.com/watch?v=5uE_bY85bGU
+- 채널: Palantir
+- 업로드일: 2023-10-31
+- 자막 언어: en
+- 단어 수: 약 477개
+
+---
+
+## 스크립트
+
+My father is a physician, and I would round with him when I was a little girl, and I was able to see at that young age that trust is a huge part of being a physician. My job is to both earn and maintain that trust. Hospital 360 was presented to my team as an ability for us to be able to be proactive and forecast inputs and output numbers to best facilitate moving patients to meet their clinical needs. The way that our hospital system and other hospital systems, frankly, have been doing it for years and years is that it's been manual. You never know really what's coming in or going out of the emergency department. There were manual grids and, um, a lot of of counting. It was a lot of phone calling and or messaging. And Palantir now helps us to actually visualize that. What this virtual command center does is brings it to the next level and provides us with information based on machine learning. What it has enabled us to do is that we're able to see more patients through AI based predictions into patient volume. What's great about the forecasted patient flow is that we can know weeks in advance how many nurses we might need, uh, to be able to care for the capacity that were predicted to have at that point in time. By connecting these two pieces of information. We've managed to reduce time spent calculating bed capacity by 75%. The virtual command center has really allowed us to note on every single shift of every single day that core number of nurses that we have. The projections that Palantir offers, we can look at our core number of nurses that are scheduled on every shift for a six week period. This system allows me to see all of our units as a whole. So then I can easily look through all of that and make that collective decision. It will give us real time data as to the status of each hospital, each unit where each individual patient stands on their patient journey. This is going to change how we practice medicine. There's a whole new area of generative AI, which is also intriguing, and finding a way to weave that in is fascinating as we learn how to use them more broadly and more deeply, I think there will be more use cases that we yet to discover. Those have the potential to touch every caregiver in their daily lives. When a patient gets admitted to the hospital, they are likely at one of the most vulnerable times in their lives. As a doctor, when we're able to improve efficiency. We're able to spend more time at the bedside with each of our individual patients, which is the reason why I went into medicine.
