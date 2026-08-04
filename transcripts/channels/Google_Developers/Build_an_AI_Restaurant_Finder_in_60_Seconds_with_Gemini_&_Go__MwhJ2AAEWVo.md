@@ -1,0 +1,13 @@
+# Build an AI Restaurant Finder in 60 Seconds with Gemini & Google Maps Grounding in AI Studio
+
+- 영상 링크: https://www.youtube.com/watch?v=MwhJ2AAEWVo
+- 채널: Google Developers
+- 업로드일: 2025-10-24
+- 자막 언어: en
+- 단어 수: 약 464개
+
+---
+
+## 스크립트
+
+Everyone, we just launched an overhauled live coding experience inside of AI Studio, which makes it super easy for anybody to make AI powered apps using Gemini. And so, what you'll notice immediately when you come in here now is that you have all of these AI chips that allow you to add essentially AI superpowers to your apps. So, if you want to make a nano banana powered app, you can do that. You can build conversational voice apps with the live API animate images with VO, and you don't need to know how to tie any of these sorts of API requests together. Um and if you're also stuck for an idea, you can hit the classic I'm feeling lucky button and it'll come up with something pretty creative and interesting and show you how to tie different parts of this experience together. Um but I have an app idea in mind, so I'm actually going to go and make something entirely new, which is uh I want to know what to eat tonight uh from the local restaurants around me using Google Maps grounding, a new tool we actually launched uh last week and I want to make an app with it. Uh and so, I can say um I want an app that allows me to enter my favorite cuisine and then it finds local restaurants around me for me to find. Amazing. So, what this should do is now make an app powered by Gemini and uh Maps grounding and then find local restaurants for me in my area. And again, I don't need to know how to learn about Maps grounding in terms of how the API requests work or anything like that. AI Studio just figures it out all for me. Uh so, yeah, let's see what it comes up with. Okay, sweet. So, my app is ready and you can see that it's asking for my location. That's a good start. Uh and then I can kind of type in what I want. So, in this case, I want Pakistani food. And let's see what kind of restaurants it finds for me. That's awesome. So, added nice animations. Uh you can see that it actually found local restaurants and the descriptions around them. Um and then I think I'll be able to click this and it'll take me to Google Maps and show me the restaurant on the map as well. That's awesome. I can then see the reviews and ratings for me. And so, I'm really excited to see what kind of awesome apps you guys create using the Gemini SDK. Uh, you can make all sorts of amazing dynamic apps. Uh, so yeah, just get started. Go to ai.google/build uh, and go from there.

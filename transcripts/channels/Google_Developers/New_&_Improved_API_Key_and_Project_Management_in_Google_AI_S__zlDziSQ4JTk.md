@@ -1,0 +1,13 @@
+# New & Improved API Key and Project Management in Google AI Studio
+
+- 영상 링크: https://www.youtube.com/watch?v=zlDziSQ4JTk
+- 채널: Google Developers
+- 업로드일: 2025-10-24
+- 자막 언어: en
+- 단어 수: 약 484개
+
+---
+
+## 스크립트
+
+Hey everyone, how's it going? Excited to show the new revamped API key page and also a new project page available in AI Studio. So, this is for API developers who are sort of trying to manage all the stuff around their accounts that's using the underlying API. Uh so, we have this new we have this new project page. You can see all the projects that are connected to your to your sort of AI Studio account from an API perspective. Can actually import other products other projects rather. This is one of the points of feedback that we got, which is sometimes folks have like tons of of Google Cloud projects behind the scenes. They were by default seeing all those or not seeing those inside of AI Studio and folks want to be able to control sort of what projects they see, what projects they don't. Um you can actually also go and create net new projects. Uh so, I'll do testing 1 2 3 and I'll go and make that project net new project inside of AI Studio. So, now I have another new project which I can set up billing for, etc. etc. Can also see the usage. So, we announced a new usage dashboard earlier. You can see the billing for this, etc. Um on the API key front, uh this is also really helpful because it allows you to do a bunch of things like we added this new renaming key feature, which folks have been asking for for a long time. Can also create more keys now inside of AI Studio um and also see sort of a bunch of usage and billing data separately broken down by project as well. So, a bunch of new features in this sort of redesigned experience in addition to what we also did from a usage and billing standpoint uh a couple of weeks ago. So, this should be fully rolled out now to everyone. Um and there's also a couple of quick calls. If you, for example, don't see your project uh anymore that maybe you saw before, we we did it based on activity. So, um you might be now like seeing a project hidden that you hadn't used in a while. Um so, you can always re-import that project. Uh so, if you click import projects, it'll search through all your available projects um on the right-hand side and then you can choose the ones that potentially need to to re-imported if you want to continue to see those. So, hopefully this makes it easier if if you're sort of using AI Studio and have many cloud projects or have many projects in general and you want to separate billing, usage, etc. Um so, enjoy the updates. Send us feedback if things are confusing or the like uh and we'll see you in the next update.

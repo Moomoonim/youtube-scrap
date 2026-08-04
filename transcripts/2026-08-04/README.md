@@ -37,3 +37,10 @@
 - [AI 도입 85%가 실패하는 이유 — GenUI 팀 도입 가이드](AI_도입_85%가_실패하는_이유_—_GenUI_팀_도입_가이드__1ROTMhSNUNs.md) (ko) — [원본](https://www.youtube.com/watch?v=1ROTMhSNUNs)
 - [건축·인테리어 AI 도입 전 꼭 보세요｜실무에서 실패하는 5가지 이유 (by 뽁숑이)](건축·인테리어_AI_도입_전_꼭_보세요｜실무에서_실패하는_5가지_이유_(by_뽁숑이)__9WtslHFMC-k.md) (ko) — [원본](https://www.youtube.com/watch?v=9WtslHFMC-k)
 - [RAG Explained For Beginners](RAG_Explained_For_Beginners___HQ2H_0Ayy0.md) (ko) — [원본](https://www.youtube.com/watch?v=_HQ2H_0Ayy0)
+
+## 23:38 수집 (4개)
+
+- [AI 도입 후 전략 실행 실패 이유 | 현장에서 사람이 빠진 이유](AI_도입_후_전략_실행_실패_이유_현장에서_사람이_빠진_이유__2HRyHDLujVE.md) (ko) — [원본](https://www.youtube.com/watch?v=2HRyHDLujVE)
+- [(Kor, Chi)일 잘하는 사람의 시크릿(성공) 레시피 (AI) 비즈니스를 이븐하게 조리하는 방법 | 조용민 언바운드랩데브 대표 | 챗GPT 회사 생성형AI | 세바시 1931회]((Kor,_Chi)일_잘하는_사람의_시크릿(성공)_레시피_(AI)_비즈니스를_이븐하게_조리하는_방법_조용민___kyZSVjwOfy0.md) (ko) — [원본](https://www.youtube.com/watch?v=kyZSVjwOfy0)
+- [2026 AI Restructuring Map: The Shock of Big Tech Layoffs and Generative AI Automation](2026_AI_Restructuring_Map_The_Shock_of_Big_Tech_Layoffs_and___0ukEVZSRbGg.md) (ko) — [원본](https://www.youtube.com/watch?v=0ukEVZSRbGg)
+- [Upper Management Meeting.](Upper_Management_Meeting.__DmU9uovmT2A.md) (ko) — [원본](https://www.youtube.com/watch?v=DmU9uovmT2A)
