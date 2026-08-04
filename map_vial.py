@@ -174,7 +174,8 @@ B_STR_ROLES = rx(
 # B6. 장벽 (organizational barriers) — 관성·저항
 # ──────────────────────────────────────────────────────────────
 B_BARRIER = rx(
-    r"관성", r"inertia", r"저항", r"resistance|resist(ing)?\s+change",
+    # '일관성/습관성'의 부분 문자열로 걸리지 않도록 앞 글자를 배제한다(자동 번역 자막에 '일관성'이 빈출).
+    r"(?<![일습])관성", r"inertia", r"저항", r"resistance|resist(ing)?\s+change",
     r"기존\s*(방식|관행)(을|에)\s*(고수|집착)", r"legacy\s+(system|mindset|process)",
     r"레거시", r"기술\s*부채", r"technical\s+debt",
     r"변화(를|에)\s*(거부|꺼|두려)", r"현업(의)?\s*(반발|불신|거부)",

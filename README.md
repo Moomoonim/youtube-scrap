@@ -34,13 +34,18 @@
 - 결과: `analysis/summaries.csv` (기계 판독용), `analysis/SUMMARY_BY_CHANNEL.md`,
   `analysis/SUMMARY_BY_MONTH.md` (사람이 읽는 정리본)
 
-**⑤ 이론 프레임 매핑** (`map_vial.py`, 수동 실행)
+**⑤ 이론 프레임 매핑** (`map_vial.py` → `vial_dossiers.py`, 수동 실행)
 - Vial(2019, *JSIS*)의 디지털 전환 과정 모형 **8개 구성요소(B1~B8)** + AX 연계 3축
   (정의 확장·윤리·동적역량)으로 스크립트 전량을 태깅하고, 구성요소를 여러 개 충족하는
   영상을 **사례(case)**로 뽑아 티어 A/B/C로 정리합니다.
+- 이어서 `vial_dossiers.py` 가 사례를 **건별 상세 정리**로 펼칩니다 — 메타·개요·사슬 판독·
+  구성요소별 근거 문장·수치 주장·등장 요소(기능/기술/인물/언급 기업).
 - 결과: `analysis/vial_cases.csv` (태깅 전량), `analysis/vial_evidence.csv` (근거 문장),
-  `docs/VIAL_CASES.md` (사람이 읽는 사례 목록)
-- 실행: `python map_vial.py` (전량 스캔이라 약 6분 소요 — 일일 자동 실행에는 넣지 않음)
+  `analysis/vial_dossiers.csv` (사례 상세), `docs/VIAL_CASES.md` (티어별 목록),
+  `docs/VIAL_CASES_A_B.md` (A·B 전건 상세), `docs/VIAL_CASES_C.md` (C 전건 요약),
+  `docs/VIAL_TIER_A_NOTES.md` (사람이 직접 쓴 판독 노트)
+- 실행: `python map_vial.py && python vial_dossiers.py`
+  (전량 스캔이라 약 7분 소요 — 일일 자동 실행에는 넣지 않음)
 
 ## 자동 실행 (하루 5회)
 
