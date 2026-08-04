@@ -34,6 +34,13 @@
 - 결과: `analysis/summaries.csv` (기계 판독용), `analysis/SUMMARY_BY_CHANNEL.md`,
   `analysis/SUMMARY_BY_MONTH.md` (사람이 읽는 정리본)
 
+**⑤ AITF 3축 매핑** (`map_aitf.py`, 수동 실행)
+- 수집 코퍼스를 AI Transformation Framework(Holmström & Magnusson, 2026)의
+  **자동화 · 증강 · 데이터 풍부성** 3축 × 4항목(수준·범위·영향·전략)으로 코딩해
+  큐브 8개 상태별 **사례 후보**를 뽑는다
+- 결과: `analysis/aitf_scored.csv`(영상별), `analysis/aitf_company.csv`(기업별),
+  `docs/AITF_CASES.md`(사람이 읽는 정리본)
+
 ## 자동 실행 (하루 5회)
 
 `.github/workflows/daily-fetch.yml` 이 **매일 한국시간 06시 / 10시 / 14시 /
