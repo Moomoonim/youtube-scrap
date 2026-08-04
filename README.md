@@ -34,6 +34,15 @@
 - 결과: `analysis/summaries.csv` (기계 판독용), `analysis/SUMMARY_BY_CHANNEL.md`,
   `analysis/SUMMARY_BY_MONTH.md` (사람이 읽는 정리본)
 
+**⑤ AI readiness framework 케이스 스캔** (`readiness_scan.py`)
+- Holmström(2022, *Business Horizons* 65(3), 329–339)의 **AI readiness framework**
+  8셀(기술·활동·경계·목표 × 현재·미래)을 코딩 규칙으로 옮겨, 코퍼스에서
+  **스코어카드를 채울 근거가 실제로 있는 기업 사례**를 찾습니다.
+- 발화 위치(`case_role`)로 도입 조직 자기발화 / 제3자 보도 사례 / 벤더 고객사례 /
+  벤더 제품 발화를 갈라, 프레임워크의 평가 단위(= AI를 도입하는 조직)에 맞는 것만 남깁니다.
+- 결과: `analysis/ai_readiness_cases.csv`(영상별 8셀 근거·발췌),
+  `analysis/ai_readiness_firms.csv`(기업별 합산), `docs/AI_READINESS_CASES.md`(사람용)
+
 ## 자동 실행 (하루 5회)
 
 `.github/workflows/daily-fetch.yml` 이 **매일 한국시간 06시 / 10시 / 14시 /
