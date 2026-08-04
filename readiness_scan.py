@@ -125,11 +125,12 @@ DIMENSIONS = {
 FUTURE = rx(
     r"앞으로|향후|장차|이제부터",
     r"계획(이|입니다|하고|중)|예정(이|입니다)|추진(할|하겠|예정)|준비\s*(중|하고)",
-    r"로드맵|중장기|내년|다음\s*(해|단계|분기)|올해\s*말|\d{4}년\s*까지|by\s+20\d\d",
+    # '로드맵'은 목표 차원의 신호일 뿐 시제 신호가 아니다("로드맵을 개발해 진행했다"=과거)
+    r"중장기|내년|다음\s*(해|단계|분기)|올해\s*말|\d{4}년\s*까지|by\s+20\d\d",
     r"할\s*(것|계획|예정|생각)|하겠(다|습니다)|되어야|해야\s*(한다|합니다|된다)|나가야",
     r"목표(는|로)\s*(하|삼)|지향(한|하)|만들어\s*(갈|나갈)|바꿔\s*(갈|나갈)",
     r"\bwill\b|\bplan(s|ning)?\s+to\b|\bgoing\s+to\b|\bintend|\baim(s|ing)?\s+to\b",
-    r"\bnext\s+(year|phase|step)|\bfuture\b|\broadmap\b|\bwe\s+want\s+to\b|\bshould\b",
+    r"\bnext\s+(year|phase|step)|\bfuture\b|\bwe\s+want\s+to\b|\bshould\b",
 )
 CURRENT = rx(
     r"현재|지금|이미|올해|작년|지난해|최근(에|에는)?",
@@ -418,6 +419,80 @@ VENDOR_CANON = {
     "Infosys", "TCS", "Capgemini", "Genpact", "Gartner", "Scale AI", "LG CNS", "삼성SDS",
 }
 
+
+# ─────────────────────────────────────────────────────────────────
+# 3-b. 초점 기업 메타 (산업 · 본사국) — 사례 카드에 붙일 최소 정보.
+#      사전에 없는 기업은 "—" 로 남긴다(추정하지 않는다).
+# ─────────────────────────────────────────────────────────────────
+FIRM_META = {
+    "SK하이닉스": ("반도체", "KR"), "SK텔레콤": ("통신", "KR"), "SK그룹": ("복합기업", "KR"),
+    "SK(지주·그룹)": ("복합기업", "KR"), "삼성전자": ("전자·반도체", "KR"),
+    "삼성SDS": ("IT서비스·SI", "KR"), "LG전자": ("전자", "KR"), "LG CNS": ("IT서비스·SI", "KR"),
+    "LG AI연구원": ("AI 연구", "KR"), "현대자동차": ("자동차", "KR"), "기아": ("자동차", "KR"),
+    "포스코": ("철강", "KR"), "네이버": ("인터넷·클라우드", "KR"), "카카오": ("인터넷", "KR"),
+    "쿠팡": ("이커머스", "KR"), "무신사": ("이커머스·패션", "KR"), "토스": ("핀테크", "KR"),
+    "KT": ("통신", "KR"), "신한은행": ("은행", "KR"), "KB국민은행": ("은행", "KR"),
+    "우리은행": ("은행", "KR"), "하나은행": ("은행", "KR"), "롯데": ("유통·복합", "KR"),
+    "CJ": ("식품·물류", "KR"), "한화": ("복합기업", "KR"), "두산": ("기계·복합", "KR"),
+    "아모레퍼시픽": ("화장품", "KR"), "대한항공": ("항공", "KR"), "업스테이지": ("AI 스타트업", "KR"),
+    "Unilever": ("소비재", "UK/NL"), "L'Oréal": ("화장품", "FR"), "Nestlé": ("식품", "CH"),
+    "IKEA": ("가구·리테일", "SE"), "Walmart": ("리테일", "US"), "Carrefour": ("리테일", "FR"),
+    "Target": ("리테일", "US"), "Home Depot": ("리테일", "US"), "Starbucks": ("외식", "US"),
+    "Nike": ("스포츠용품", "US"), "Reckitt": ("소비재", "UK"), "JPMorgan": ("은행", "US"),
+    "Goldman Sachs": ("투자은행", "US"), "Morgan Stanley": ("투자은행", "US"),
+    "BNY": ("수탁은행", "US"), "BBVA": ("은행", "ES"), "Swedbank": ("은행", "SE"),
+    "Klarna": ("핀테크", "SE"), "Moody's": ("신용평가", "US"), "DBS": ("은행", "SG"),
+    "HSBC": ("은행", "UK"), "Standard Chartered": ("은행", "UK"), "Allianz": ("보험", "DE"),
+    "AXA": ("보험", "FR"), "Moderna": ("제약·바이오", "US"), "Eli Lilly": ("제약", "US"),
+    "Novo Nordisk": ("제약", "DK"), "Pfizer": ("제약", "US"), "Roche": ("제약", "CH"),
+    "Novartis": ("제약", "CH"), "Johnson & Johnson": ("헬스케어", "US"),
+    "Mayo Clinic": ("의료기관", "US"), "Philips": ("의료기기", "NL"),
+    "GE HealthCare": ("의료기기", "US"), "IQVIA": ("헬스데이터", "US"),
+    "Toyota": ("자동차", "JP"), "BMW": ("자동차", "DE"), "Mercedes-Benz": ("자동차", "DE"),
+    "Volvo": ("자동차", "SE"), "Nissan": ("자동차", "JP"), "General Motors": ("자동차", "US"),
+    "Ford": ("자동차", "US"), "BYD": ("자동차", "CN"), "Hero MotoCorp": ("이륜차", "IN"),
+    "Siemens": ("산업재·자동화", "DE"), "Schneider Electric": ("전력·자동화", "FR"),
+    "Rockwell Automation": ("산업자동화", "US"), "Sandvik": ("기계", "SE"),
+    "Caterpillar": ("건설기계", "US"), "Boeing": ("항공우주", "US"), "Foxconn": ("EMS", "TW"),
+    "Orange": ("통신", "FR"), "Telefónica": ("통신", "ES"), "Vodafone": ("통신", "UK"),
+    "Swisscom": ("통신", "CH"), "Telenor": ("통신", "NO"), "AT&T": ("통신", "US"),
+    "Verizon": ("통신", "US"), "T-Mobile": ("통신", "US"), "Nokia": ("통신장비", "FI"),
+    "Ericsson": ("통신장비", "SE"), "SoftBank": ("통신·투자", "JP"), "NTT DATA": ("IT서비스", "JP"),
+    "Uber": ("모빌리티", "US"), "Shopify": ("이커머스 플랫폼", "CA"),
+    "Instacart": ("이커머스", "US"), "MediaMarkt": ("리테일", "DE"), "Netflix": ("미디어", "US"),
+    "Chegg": ("에듀테크", "US"), "Indeed": ("HR 플랫폼", "US"), "PayPal": ("결제", "US"),
+    "Intuit": ("금융SW", "US"), "LinkedIn": ("HR 플랫폼", "US"),
+    # 공급측(케이스에 화자로 등장)
+    "NVIDIA": ("반도체", "US"), "OpenAI": ("AI 모델", "US"), "Anthropic": ("AI 모델", "US"),
+    "Google": ("빅테크", "US"), "Google DeepMind": ("AI 연구", "UK"), "Microsoft": ("빅테크", "US"),
+    "Meta": ("빅테크", "US"), "Apple": ("빅테크", "US"), "Amazon": ("빅테크", "US"),
+    "AWS": ("클라우드", "US"), "IBM": ("IT", "US"), "Oracle": ("엔터프라이즈SW", "US"),
+    "Salesforce": ("엔터프라이즈SW", "US"), "SAP": ("엔터프라이즈SW", "DE"),
+    "ServiceNow": ("엔터프라이즈SW", "US"), "Palantir": ("데이터플랫폼", "US"),
+    "Databricks": ("데이터플랫폼", "US"), "Snowflake": ("데이터플랫폼", "US"),
+    "Adobe": ("소프트웨어", "US"), "Intel": ("반도체", "US"), "AMD": ("반도체", "US"),
+    "Arm": ("반도체 IP", "UK"), "TSMC": ("파운드리", "TW"), "Qualcomm": ("반도체", "US"),
+    "Broadcom": ("반도체", "US"), "Huawei": ("통신장비", "CN"), "Alibaba": ("빅테크", "CN"),
+    "Tencent": ("빅테크", "CN"), "Baidu": ("빅테크", "CN"), "DeepSeek": ("AI 모델", "CN"),
+    "Mistral AI": ("AI 모델", "FR"), "Cohere": ("AI 모델", "CA"),
+    "Hugging Face": ("AI 플랫폼", "US"), "GitHub": ("개발도구", "US"), "Cursor": ("개발도구", "US"),
+    "Replit": ("개발도구", "US"), "Zapier": ("업무자동화 SaaS", "US"), "Slack": ("협업SW", "US"),
+    "Pinecone": ("벡터DB", "US"), "Weaviate": ("벡터DB", "NL"), "Qdrant": ("벡터DB", "DE"),
+    "ElevenLabs": ("음성AI", "US"), "Tesla": ("자동차", "US"), "Waymo": ("자율주행", "US"),
+    "Figure": ("로보틱스", "US"), "Boston Dynamics": ("로보틱스", "US"),
+    "Anduril": ("방산", "US"), "McKinsey": ("컨설팅", "US"), "BCG": ("컨설팅", "US"),
+    "Accenture": ("컨설팅·SI", "IE"), "Deloitte": ("컨설팅", "UK"), "PwC": ("컨설팅", "UK"),
+    "KPMG": ("컨설팅", "NL"), "EY": ("컨설팅", "UK"), "Infosys": ("IT서비스·SI", "IN"),
+    "TCS": ("IT서비스·SI", "IN"), "Capgemini": ("IT서비스", "FR"), "Genpact": ("BPO", "US"),
+    "Gartner": ("리서치", "US"), "Scale AI": ("AI 데이터", "US"),
+    "Weights & Biases": ("MLOps", "US"),
+}
+
+
+def firm_meta(name):
+    sector, country = FIRM_META.get(name, ("—", "—"))
+    return sector, country
+
 MIN_MENTION_FOR_FOCAL = 4      # 본문만으로 초점 기업을 인정할 최소 언급 수
 MIN_MENTION_FOR_STORY = 5      # 벤더 채널에서 '고객 사례'로 볼 최소 고객사 언급 수
 MAX_QUOTE = 260
@@ -451,11 +526,15 @@ def tense_of(sent):
     return "unspec"
 
 
-def scan_text(text):
+def scan_text(text, focus_pat=None, window=2):
     """본문을 8셀(4차원×2시제)로 코딩하고 셀별 근거 문장을 모은다.
 
     AI 연결성 게이트: 근거로 인정하는 문장은 그 문장 또는 바로 앞/뒤 문장에
     AI 어휘가 있는 것만이다(자동자막은 문장 경계가 흔들려 ±1문장까지 허용).
+
+    focus_pat 을 주면 **그 기업이 언급된 문장 ±window 안에서만** 근거를 센다.
+    벤더 키노트에서 고객사를 초점으로 잡을 때 필수다 — 안 그러면 SAP 키노트의
+    자기 제품 서사가 'JPMorgan 사례'의 근거로 잡힌다(실측).
     """
     cells = {f"{d}_{t}": 0 for d in DIMENSIONS for t in ("cur", "fut", "unspec")}
     quotes = {f"{d}_{t}": [] for d in DIMENSIONS for t in ("cur", "fut")}
@@ -464,6 +543,15 @@ def scan_text(text):
     sents = split_sentences(text)
     ai_flags = [bool(AI_LINK.search(s)) for s in sents]
     ai_linked = sum(ai_flags)
+
+    if focus_pat is not None:
+        near = [False] * len(sents)
+        for i, s in enumerate(sents):
+            if focus_pat.search(s):
+                for j in range(max(0, i - window), min(len(sents), i + window + 1)):
+                    near[j] = True
+    else:
+        near = [True] * len(sents)
 
     # 담화 시제 전파: 한국어 구어는 시제를 한 번 밝히고 이어 말하므로 문장마다
     # 마커가 없다. 마커 없는 문장은 앞 2문장 → 뒤 1문장의 시제를 물려받는다.
@@ -481,7 +569,7 @@ def scan_text(text):
             eff[i] = own[i + 1]
 
     for i, sent in enumerate(sents):
-        if NOISE.search(sent):
+        if NOISE.search(sent) or not near[i]:
             continue
         if not (ai_flags[i] or (i and ai_flags[i - 1])
                 or (i + 1 < len(sents) and ai_flags[i + 1])):
@@ -502,11 +590,21 @@ def scan_text(text):
                 pri = (2 if has_value else 0) + (1 if has_metric else 0)
                 quotes[f"{d}_{t}"].append((pri, len(matched), s))
 
-    best = {}
+    # 셀별 발췌: CSV에는 1순위 하나, 상세 문서(dossier)에는 최대 3개까지 쓴다.
+    best, top3 = {}, {}
     for key, lst in quotes.items():
         lst.sort(key=lambda x: (-x[0], x[1]))
-        best[key] = lst[0][2] if lst else ""
-    return cells, best, value_sents, metric_sents, ai_linked
+        seen, picked = set(), []
+        for _pri, _spec, s in lst:
+            if s in seen:
+                continue
+            seen.add(s)
+            picked.append(s)
+            if len(picked) == 3:
+                break
+        best[key] = picked[0] if picked else ""
+        top3[key] = picked
+    return cells, best, top3, value_sents, metric_sents, ai_linked
 
 
 def prov_score(n):
@@ -606,9 +704,10 @@ def classify_case(text, title, channel, source):
 
 
 def tier_of(filled, dims_covered):
-    if dims_covered < 4:
-        return ""
-    return "A" if filled == 8 else "B" if filled >= 6 else "C" if filled >= 4 else ""
+    """A=8셀 · B=6~7 · C=4~5 · D=기준 미달(4차원 미커버 또는 4셀 미만)."""
+    if dims_covered < 4 or filled < 4:
+        return "D"
+    return "A" if filled == 8 else "B" if filled >= 6 else "C"
 
 
 ROLE_WEIGHT = {"adopter_self": 25, "third_party_case": 20, "vendor_customer_story": 15,
@@ -619,7 +718,7 @@ def collect():
     files = sorted(glob.glob(os.path.join(config.OUTPUT_DIR, "**", "*.md"), recursive=True))
     files = [f for f in files if os.path.basename(f) != "README.md"]
 
-    rows, skipped = [], collections.Counter()
+    rows, extras, skipped = [], {}, collections.Counter()
     for path in files:
         meta, text = parse_transcript(path)
         _h, _d, words = score_text(text)
@@ -628,7 +727,7 @@ def collect():
             skipped[rel] += 1
             continue
 
-        cells, quotes, value_sents, metric_sents, ai_linked = scan_text(text)
+        cells, quotes, top3, value_sents, metric_sents, ai_linked = scan_text(text)
         if ai_linked < MIN_AI_LINKED_SENTS:
             skipped["ai_thin"] += 1        # AI가 곁가지인 발화(IR 실적발표 등)
             continue
@@ -638,7 +737,7 @@ def collect():
             if cells[f"{d}_cur"] + cells[f"{d}_fut"] + cells[f"{d}_unspec"] > 0
         )
         tier = tier_of(filled, dims_covered)
-        if not tier:
+        if tier == "D":
             skipped["framework_incomplete"] += 1
             continue
 
@@ -647,7 +746,25 @@ def collect():
         focal, speaker, role, demand, supply, mentioned = classify_case(
             text, meta["title"], channel, source)
 
+        # 초점 조직이 화자가 아니면(벤더 고객사례·제3자 보도) 그 기업이 언급된
+        # 구간에서만 다시 센다 — 화자 자신의 서사를 남의 사례로 계상하지 않기 위해.
+        # 단 제목이 곧 그 기업 사례인 영상("SK하이닉스는 이렇게 했다")은 전문이 근거다.
+        scope = "full"
+        titled = focal in FIRMS and bool(FIRMS[focal].search(meta["title"]))
+        if (role in ("vendor_customer_story", "third_party_case")
+                and focal in FIRMS and not titled):
+            f_cells, f_quotes, f_top3, f_value, f_metric, _ai = scan_text(
+                text, focus_pat=FIRMS[focal])
+            f_filled = sum(1 for d in DIMENSIONS for t in ("cur", "fut")
+                           if f_cells[f"{d}_{t}"] > 0)
+            f_dims = sum(1 for d in DIMENSIONS
+                         if sum(f_cells[f"{d}_{t}"] for t in ("cur", "fut", "unspec")) > 0)
+            cells, quotes, top3 = f_cells, f_quotes, f_top3
+            value_sents, metric_sents = f_value, f_metric
+            filled, tier, scope = f_filled, tier_of(f_filled, f_dims), "focal_window"
+
         row = {
+            "evidence_scope": scope,
             "tier": tier,
             "case_role": role,
             "focal_firm": focal or "(초점 조직 불명)",
@@ -677,7 +794,8 @@ def collect():
                 row[f"q_{d}_{t}"] = quotes[f"{d}_{t}"]
             row[f"n_{d}_unspec"] = cells[f"{d}_unspec"]
         # 케이스 적합도: 역할(수요측 우선) > 셀 충족 > 가치언어 > 수치
-        row["usable"] = ""      # 아래에서 채운다
+        row["usable"] = ""             # 아래에서 채운다
+        row["usable_reason"] = ""
         row["fit"] = (
             ROLE_WEIGHT[role]
             + filled * 6
@@ -686,21 +804,31 @@ def collect():
             + min(demand // 3, 8)
         )
         rows.append(row)
+        extras[row["file"]] = top3          # 상세 문서용 셀별 발췌(최대 3개)
 
     for r in rows:
-        r["usable"] = "Y" if is_usable(r) else "N"
+        r["usable_reason"] = usable_reason(r)
+        r["usable"] = "Y" if not r["usable_reason"] else "N"
     rows.sort(key=lambda r: (-r["fit"], r["focal_firm"]))
-    return rows, skipped, len(files)
+    return rows, extras, skipped, len(files)
 
 
 USABLE_ROLES = ("adopter_self", "third_party_case", "vendor_customer_story")
 
 
-def is_usable(row):
-    """프레임워크 스코어카드를 실제로 채울 수 있는 케이스인가."""
-    return (row["case_role"] in USABLE_ROLES
-            and row["focal_firm"] != "(초점 조직 불명)"
-            and row["value_sents"] + row["metric_sents"] >= MIN_VALUE_EVIDENCE)
+def usable_reason(row):
+    """케이스로 쓸 수 없다면 그 이유를 남긴다(빈 문자열 = 사용 가능)."""
+    if row["case_role"] not in USABLE_ROLES:
+        return "역할 부적합(공급측 제품 발화 또는 초점 조직 없는 일반론)"
+    if row["focal_firm"] == "(초점 조직 불명)":
+        return "초점 조직 불명"
+    if row["tier"] == "D":
+        return ("초점 기업 구간의 근거가 얇음(4차원 미커버)"
+                if row["evidence_scope"] == "focal_window" else "4차원 미커버")
+    if row["value_sents"] + row["metric_sents"] < MIN_VALUE_EVIDENCE:
+        return (f"가치·수치 문장 {row['value_sents'] + row['metric_sents']}개 "
+                f"(< {MIN_VALUE_EVIDENCE}) — value-adding 척도를 매길 수 없음")
+    return ""
 
 
 def pool_by_firm(rows):
@@ -802,6 +930,9 @@ def write_md(rows, firms, skipped, total_files):
       f"**{len(usable):,}건**(A {tiers['A']} · B {tiers['B']} · C {tiers['C']}), "
       f"초점 기업 **{len(firms):,}곳**.")
     A("")
+    A("케이스별 상세 카드(셀별 발췌·빈 셀·산업·국가)는 짝 문서 "
+      "**`docs/AI_READINESS_CASE_DETAILS.md`** 에 있다.")
+    A("")
     A("## 1. 판정 규칙 — 무엇을 '적합한 케이스'로 봤나")
     A("")
     A("| 요건 | 규칙 |")
@@ -816,6 +947,8 @@ def write_md(rows, firms, skipped, total_files):
     A(f"| 가치 언어 | 원 설문의 공통 프레이즈가 'value-adding' 이므로 가치·수치 문장 "
       f"{MIN_VALUE_EVIDENCE}개 이상을 요구 |")
     A("| 시제 전파 | 한국어 구어는 시제를 한 번만 밝히므로, 마커 없는 문장은 앞 2·뒤 1문장의 시제를 물려받는다 |")
+    A("| 근거 범위 | 초점 조직이 화자가 아니고 제목에도 없으면, 그 기업이 언급된 문장 ±2 구간만 근거로 센다 "
+      "(벤더 키노트의 자기 제품 서사가 고객사 사례로 계상되는 것을 막는다) |")
     A("")
     A("| case_role | 뜻 | 프레임워크 적합성 | 건수 |")
     A("|---|---|---|---|")
@@ -855,6 +988,16 @@ def write_md(rows, firms, skipped, total_files):
     A("")
 
     # ── 기업 단위 통합 스코어카드 ──
+    win = [r for r in rows if r["evidence_scope"] == "focal_window"]
+    win_ok = [r for r in win if r["usable"] == "Y"]
+    A("### 2-b. 벤더가 말하는 '고객 사례'는 고객사를 잴 만큼 말하지 않는다")
+    A("")
+    A(f"초점 조직이 화자가 아니고 제목에도 없는 케이스 {len(win)}건에 대해 "
+      f"그 기업이 언급된 구간(±2문장)만 다시 세어 보면, 4차원을 유지한 것은 "
+      f"**{len(win_ok)}건**뿐이다. 즉 SAP·Google Cloud 키노트의 'JPMorgan/L'Oréal 사례'는 "
+      "실제로는 벤더 자기 제품 서사이고, 고객 조직의 준비도를 재기에는 진술이 없다. "
+      "벤더 채널을 케이스 소스로 쓰려면 고객사 단독 세션(customer keynote)을 따로 찾아야 한다.")
+    A("")
     A("## 3. 기업 단위 통합 스코어카드 (여러 영상 합산 · 상위 45)")
     A("")
     A("사례 연구 단위는 기업이다. 아래는 **수요측 근거(1·2급 역할)만** 합산한 것으로, "
@@ -951,15 +1094,17 @@ def write_md(rows, firms, skipped, total_files):
       "워크숍이다. 여기 점수는 공개 발화의 근거 밀도이며 조직의 실제 준비도가 아니다. "
       "논문으로 쓰려면 이 목록을 **케이스 선별·인터뷰 대상 선정**에 쓰고 점수는 "
       "워크숍/설문으로 다시 받아야 한다.")
-    A("2. **규칙 기반**이라 반어·부정·가정법을 놓친다(\"목표가 없었다\"도 목표 차원에 잡힌다). "
-      "시제 배정은 문장 내 마커에 의존하므로 자동자막의 문장 경계 오류에 취약하다.")
-    A("3. **경계(boundaries) 차원 과대집계 위험** — 파트너십·조직개편 어휘는 벤더 발화에 흔하다. "
+    A("2. **규칙 기반**이라 반어·부정·가정법을 놓친다(\"목표가 없었다\"도 목표 차원에 잡힌다).")
+    A("3. **시제 전파의 대가**: 마커 없는 문장에 앞뒤 시제를 물려주므로, 화제가 문장 사이에서 "
+      "바뀌면 현재 진술이 미래 셀에 들어갈 수 있다. 상세 문서의 발췌를 보고 셀 배정을 "
+      "손으로 교정하는 것을 전제로 쓸 것 — 현재/미래 구분은 이 파이프라인에서 가장 약한 고리다.")
+    A("4. **경계(boundaries) 차원 과대집계 위험** — 파트너십·조직개편 어휘는 벤더 발화에 흔하다. "
       "1급 케이스라도 경계 발췌는 눈으로 확인할 것.")
-    A("4. **초점 조직 귀속은 언급 빈도 기반 추정**이다. 한 영상이 여러 기업을 다루면 "
+    A("5. **초점 조직 귀속은 언급 빈도 기반 추정**이다. 한 영상이 여러 기업을 다루면 "
       "최다 언급 기업이 초점이 된다 — `mentions` 열로 반드시 교차 확인.")
-    A("5. **공개 담론 표본 편향**: 성공 서사가 과표집되고 실패·중단은 과소표집된다. "
+    A("6. **공개 담론 표본 편향**: 성공 서사가 과표집되고 실패·중단은 과소표집된다. "
       "논문의 보험사처럼 '목표 0점'인 조직은 유튜브에 나오지 않는다.")
-    A("6. 수기 코딩 검증(표본 100~200건, Cohen's κ) 전에는 방법론적 방어가 불가하다.")
+    A("7. 수기 코딩 검증(표본 100~200건, Cohen's κ) 전에는 방법론적 방어가 불가하다.")
     A("")
     A("## 11. 재현")
     A("")
@@ -976,13 +1121,164 @@ def write_md(rows, firms, skipped, total_files):
         fp.write("\n".join(L) + "\n")
 
 
+def empty_cells(row):
+    """비어 있는 셀 목록 — 인터뷰·2차 자료로 무엇을 메워야 하는지 그대로 알려준다."""
+    out = []
+    for d in DIMENSIONS:
+        for t, ko in (("cur", "현재"), ("fut", "미래")):
+            if row[f"n_{d}_{t}"] == 0:
+                out.append(f"{DIM_KO[d]}·{ko}")
+    return out
+
+
+def case_card(A, row, quotes, index=None, level="###"):
+    """케이스 1건의 상세 카드를 마크다운으로 쓴다."""
+    sector, country = firm_meta(row["focal_firm"])
+    head = f"{index}. " if index else ""
+    A(f"{level} {head}{row['focal_firm']} — {clip(row['title'], 88)}")
+    A("")
+    A(f"| 항목 | 내용 |")
+    A(f"|---|---|")
+    A(f"| 초점 조직 | **{row['focal_firm']}** · {sector} · {country} |")
+    A(f"| 케이스 유형 | `{row['case_role']}` — {ROLE_KO[row['case_role']]} |")
+    A(f"| 화자 | {row['speaker']} (채널: {row['channel']}) |")
+    A(f"| 시점 | {row['date']} |")
+    A(f"| 티어 | {row['tier']} ({row['cells_filled']}/8셀 충족) |")
+    A(f"| 근거 밀도 | 가치언어 {row['value_sents']}문장 · 수치 {row['metric_sents']}문장 "
+      f"· AI 연결 {row['ai_linked_sents']}문장 |")
+    A(f"| 발화 성향 | 수요측 신호 {row['demand_hits']} vs 공급측 신호 {row['supply_hits']} "
+      f"· 톤 `{row['stance']}` |")
+    A(f"| 언급 기업 | {row['mentions'] or '—'} |")
+    A("| 근거 범위 | "
+      + ("전문 (화자가 곧 초점 조직이거나, 제목이 그 기업 사례임)"
+         if row["evidence_scope"] == "full"
+         else "초점 기업이 언급된 문장 ±2 구간만 (화자 자기 서사 배제)") + " |")
+    A(f"| 원본 | [영상]({row['url']}) · `{row['file']}` |")
+    A("")
+    A("**스코어카드 (잠정 대리지표 0~4 · 괄호는 근거 문장 수)**")
+    A("")
+    A("| 차원 | 현재 | 미래 |")
+    A("|---|---|---|")
+    for d in DIMENSIONS:
+        c, f = row[f"prov_{d}_cur"], row[f"prov_{d}_fut"]
+        A(f"| {DIM_LABEL[d]}({DIM_KO[d]}) | {bar(c)} {c} ({row[f'n_{d}_cur']}) "
+          f"| {bar(f)} {f} ({row[f'n_{d}_fut']}) |")
+    A("")
+    any_quote = False
+    for d in DIMENSIONS:
+        for t, ko in (("cur", "현재"), ("fut", "미래")):
+            qs = (quotes or {}).get(f"{d}_{t}") or ([row[f"q_{d}_{t}"]] if row[f"q_{d}_{t}"] else [])
+            if not qs:
+                continue
+            any_quote = True
+            A(f"- **{DIM_KO[d]} · {ko}**")
+            for q in qs:
+                A(f"  - “{q}”")
+    if not any_quote:
+        A("- (발췌 없음)")
+    A("")
+    gaps = empty_cells(row)
+    if gaps:
+        A(f"**빈 셀**: {' · '.join(gaps)} → 이 셀은 근거가 없다. "
+          "인터뷰·IR·보도자료로 메우거나, 같은 기업의 다른 영상과 합산해야 한다.")
+    else:
+        A("**빈 셀**: 없음 — 단일 영상으로 8셀이 모두 채워진 드문 케이스다.")
+    A("")
+
+
+def write_dossier(rows, firms, extras):
+    """기업별로 묶은 케이스 상세 정리본."""
+    usable = [r for r in rows if r["usable"] == "Y"]
+    border = [r for r in rows if r["case_role"] in USABLE_ROLES and r["usable"] != "Y"]
+    by_firm = collections.defaultdict(list)
+    for r in usable:
+        by_firm[r["focal_firm"]].append(r)
+    order = {f["focal_firm"]: i for i, f in enumerate(firms)}
+    firm_names = sorted(by_firm, key=lambda n: order.get(n, 999))
+
+    L = []
+    A = L.append
+    A("# AI readiness framework — 케이스별 상세 정리")
+    A("")
+    A("> 짝 문서: `docs/AI_READINESS_CASES.md`(선별 규칙·통계·전체 목록). "
+      "이 문서는 **사용 가능 케이스 전건의 상세 카드**다.")
+    A(">")
+    A("> Holmström, J. (2022). *Business Horizons, 65*(3), 329–339. "
+      "4차원(기술·활동·경계·목표) × 2시점(현재·미래) 8셀.")
+    A("")
+    A(f"케이스 {len(usable)}건 · 초점 기업 {len(firm_names)}곳 · 경계선 후보 {len(border)}건. "
+      "점수는 **근거 밀도 대리지표**이며 조직의 자기보고 점수가 아니다(한계는 짝 문서 참조).")
+    A("")
+
+    # ── 목차 ──
+    A("## 목차")
+    A("")
+    A("| # | 기업 | 산업 | 본사 | 케이스 수 | 최고 티어 | 유형 |")
+    A("|---|---|---|---|---|---|---|")
+    for i, name in enumerate(firm_names, 1):
+        cases = by_firm[name]
+        sector, country = firm_meta(name)
+        best = min(c["tier"] for c in cases)
+        roles = collections.Counter(c["case_role"] for c in cases)
+        A(f"| {i} | [{name}](#{i}-{re.sub(r'[^0-9a-zA-Z가-힣]+', '-', name.lower())}) "
+          f"| {sector} | {country} | {len(cases)} | {best} | "
+          + " · ".join(ROLE_KO[k] for k in roles) + " |")
+    A("")
+
+    # ── 기업별 상세 ──
+    for i, name in enumerate(firm_names, 1):
+        cases = sorted(by_firm[name], key=lambda r: -r["fit"])
+        sector, country = firm_meta(name)
+        A(f"## {i}. {name}")
+        A("")
+        A(f"{sector} · {country} · 케이스 {len(cases)}건")
+        A("")
+        if len(cases) > 1:
+            # 합산 스코어카드 — 사례 단위는 기업이므로 영상을 합쳐 본다
+            pooled = {f"n_{d}_{t}": sum(c[f"n_{d}_{t}"] for c in cases)
+                      for d in DIMENSIONS for t in ("cur", "fut")}
+            filled = sum(1 for d in DIMENSIONS for t in ("cur", "fut")
+                         if pooled[f"n_{d}_{t}"] > 0)
+            A(f"**합산 근거({len(cases)}건 합계, 근거 문장 수)** — {filled}/8셀: "
+              + " · ".join(f"{DIM_KO[d]} {pooled[f'n_{d}_cur']}/{pooled[f'n_{d}_fut']}"
+                           for d in DIMENSIONS))
+            A("")
+        for j, r in enumerate(cases, 1):
+            case_card(A, r, extras.get(r["file"]),
+                      index=f"{i}-{j}" if len(cases) > 1 else None, level="###")
+
+    # ── 경계선 후보 ──
+    A("## 부록. 경계선 후보 (역할은 케이스, 게이트 미달)")
+    A("")
+    A(f"초점 조직이 불명이거나 가치·수치 문장이 {MIN_VALUE_EVIDENCE}개 미만이라 "
+      "본문에서 제외한 {n}건이다. 초점 조직을 손으로 지정하면 살아나는 것들이 섞여 있다."
+      .replace("{n}", str(len(border))))
+    A("")
+    for r in border:
+        sector, country = firm_meta(r["focal_firm"])
+        A(f"### {r['focal_firm']} — {clip(r['title'], 80)}")
+        A("")
+        A(f"- {sector} · {country} · `{r['case_role']}` · 티어 {r['tier']}"
+          f"({r['cells_filled']}/8) · 가치 {r['value_sents']}·수치 {r['metric_sents']} "
+          f"· {r['date']} · 채널 {r['channel']} · [영상]({r['url']})")
+        A(f"- 스코어카드: {scorecard(r)}")
+        A(f"- 제외 이유: {r['usable_reason']}")
+        A(f"- 파일: `{r['file']}`")
+        A("")
+
+    os.makedirs("docs", exist_ok=True)
+    with open(os.path.join("docs", "AI_READINESS_CASE_DETAILS.md"), "w", encoding="utf-8") as fp:
+        fp.write("\n".join(L) + "\n")
+
+
 def main():
     os.makedirs("analysis", exist_ok=True)
-    rows, skipped, total = collect()
+    rows, extras, skipped, total = collect()
     firms = pool_by_firm(rows)
     write_csv(os.path.join("analysis", "ai_readiness_cases.csv"), rows)
     write_csv(os.path.join("analysis", "ai_readiness_firms.csv"), firms)
     write_md(rows, firms, skipped, total)
+    write_dossier(rows, firms, extras)
 
     usable = [r for r in rows if r["usable"] == "Y"]
     roles = collections.Counter(r["case_role"] for r in rows)
@@ -998,7 +1294,8 @@ def main():
         cur = sum(1 for r in usable if r[f"n_{d}_cur"] > 0)
         fut = sum(1 for r in usable if r[f"n_{d}_fut"] > 0)
         print(f"    {DIM_LABEL[d]:<13} {100*cur/n:>3.0f}% / {100*fut/n:>3.0f}%")
-    print("  → docs/AI_READINESS_CASES.md · analysis/ai_readiness_cases.csv · ai_readiness_firms.csv")
+    print("  → docs/AI_READINESS_CASES.md (선별·통계) · docs/AI_READINESS_CASE_DETAILS.md (상세)")
+    print("  → analysis/ai_readiness_cases.csv · analysis/ai_readiness_firms.csv")
 
 
 if __name__ == "__main__":
