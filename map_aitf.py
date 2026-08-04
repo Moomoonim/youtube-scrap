@@ -290,7 +290,8 @@ def main():
         w.writeheader()
         w.writerows(comp)
 
-    write_report(os.path.join(docs_dir, "AITF_CASES.md"), rows, comp, rel_cut, comp_cut)
+    panel = build_year_panel(rows, out_dir)
+    write_report(os.path.join(docs_dir, "AITF_CASES.md"), rows, comp, rel_cut, comp_cut, panel)
 
     # ── 콘솔 요약 ──
     print(f"[aitf] ax_core {len(rows)}건 코딩 → analysis/aitf_scored.csv")
@@ -305,12 +306,72 @@ def main():
     for c in comp[:12]:
         print(f"    {c['channel'][:26]:<26} n={c['n_docs']:<3} "
               f"자동화 {c['aut_top5']:>5} · 증강 {c['aug_top5']:>5} · 데이터 {c['dat_top5']:>5} → {c['cell_relative']}")
+    ch_years = collections.Counter(p["channel"] for p in panel)
+    multi = [c for c, n in ch_years.items() if n >= MIN_YEARS]
+    print(f"[aitf] 기업×연도 패널 {len(panel)}셀 / 다년 관측 채널 {len(multi)}개 → analysis/aitf_company_year.csv")
     print("[aitf] 사례 정리본 → docs/AITF_CASES.md")
-    return rows, comp, rel_cut, comp_cut
+    return rows, comp, rel_cut, comp_cut, panel
+
+
+# ── 기업 × 연도 패널 (전환 궤적 측정) ────────────────────────────────
+MIN_DOCS_PER_YEAR = 3     # 연-기업 셀의 최소 문서 수
+MIN_YEARS = 3             # 궤적으로 볼 최소 연수
+
+
+def build_year_panel(rows, out_dir):
+    """기업(채널) × 연도로 3축 점수를 집계해 '전환 궤적'을 측정치로 만든다.
+
+    사례집(docs/AITF_CASE_FLOWS.md)의 t0→t1 좌표는 원래 발화 서술에서 재구성한 추론이었다.
+    같은 채널의 다년치 영상을 연도별로 집계하면 그 이동을 (담론 수준에서) 직접 관찰할 수 있다.
+    연-기업 셀은 표본이 작으므로 상위 3건 평균(그 해에 가장 강하게 말한 수준)을 쓴다.
+    """
+    keys = [k for k, _l, _p in DIMENSIONS]
+    cells = collections.defaultdict(list)
+    for r in rows:
+        if r["source"] != "channel":
+            continue
+        year = r["month"][:4]
+        if not year.isdigit():
+            continue
+        cells[(r["channel"], year)].append(r)
+
+    panel = []
+    for (ch, year), rs in cells.items():
+        if len(rs) < MIN_DOCS_PER_YEAR:
+            continue
+        rec = {"channel": ch, "year": year, "n_docs": len(rs)}
+        for k in keys:
+            top = sorted((r[f"{k}_total"] for r in rs), reverse=True)[:3]
+            rec[f"{k}_top3"] = round(sum(top) / len(top), 2)
+        rec["aitf_sum"] = round(sum(rec[f"{k}_top3"] for k in keys), 2)
+        panel.append(rec)
+    panel.sort(key=lambda p: (p["channel"], p["year"]))
+
+    fields = ["channel", "year", "n_docs"] + [f"{k}_top3" for k in keys] + ["aitf_sum", "delta_sum", "shift"]
+    by_ch = collections.defaultdict(list)
+    for p in panel:
+        by_ch[p["channel"]].append(p)
+    for ch, ps in by_ch.items():
+        for i, p in enumerate(ps):
+            prev = ps[i - 1] if i else None
+            p["delta_sum"] = round(p["aitf_sum"] - prev["aitf_sum"], 2) if prev else ""
+            # 전년 대비 가장 크게 오른 축 = 그 해 담론이 이동한 방향
+            if prev:
+                d = {k: p[f"{k}_top3"] - prev[f"{k}_top3"] for k in keys}
+                top = max(d, key=d.get)
+                p["shift"] = f"{dict(zip(keys, ['자동화', '증강', '데이터']))[top]} {d[top]:+.1f}" if d[top] else "정체"
+            else:
+                p["shift"] = "기준연도"
+
+    with open(os.path.join(out_dir, "aitf_company_year.csv"), "w", encoding="utf-8-sig", newline="") as fp:
+        w = csv.DictWriter(fp, fieldnames=fields)
+        w.writeheader()
+        w.writerows(panel)
+    return panel
 
 
 # ── 사람이 읽는 정리본 ───────────────────────────────────────────────
-def write_report(path, rows, comp, rel_cut, comp_cut):
+def write_report(path, rows, comp, rel_cut, comp_cut, panel=None):
     keys = [k for k, _l, _p in DIMENSIONS]
     labels = {k: l for k, l, _p in DIMENSIONS}
     by_cell = collections.defaultdict(list)
@@ -428,7 +489,30 @@ def write_report(path, rows, comp, rel_cut, comp_cut):
             if picked >= 5:
                 break
 
-    A("\n## 6. 한계\n")
+    if panel:
+        A("\n## 6. 기업 × 연도 궤적 (전환 이동의 측정)\n")
+        A(f"연-기업 셀은 문서 {MIN_DOCS_PER_YEAR}건 이상, 축 점수는 그 해 상위 3건 평균(그 해 가장 강하게 말한 수준). "
+          f"{MIN_YEARS}개 연도 이상 관측된 채널만 싣는다. 전체는 `analysis/aitf_company_year.csv`.\n")
+        A("**셀 변화**는 자동화·증강·데이터 순 좌표이며, 판정은 코퍼스 상대 절단점을 그대로 쓴다.\n")
+        by_ch = collections.defaultdict(list)
+        for p in panel:
+            by_ch[p["channel"]].append(p)
+        multi = {c: ps for c, ps in by_ch.items() if len(ps) >= MIN_YEARS}
+        ranked = sorted(multi.items(), key=lambda kv: -(kv[1][-1]["aitf_sum"] - kv[1][0]["aitf_sum"]))
+        A("| 기업(채널) | 관측 연도 | 3축 합 추이 | 총 변화 | 최근 셀 |\n|---|---|---|---|---|")
+        for ch, ps in ranked[:25]:
+            traj = " → ".join(f"{p['year']}:{p['aitf_sum']:.1f}" for p in ps)
+            last = ps[-1]
+            cell = cell_of([last[f"{k}_top3"] for k in keys], [rel_cut[k] for k in keys])
+            A(f"| {ch[:24]} | {len(ps)} | {traj} | {last['aitf_sum'] - ps[0]['aitf_sum']:+.1f} | {cell} |")
+        A("\n축별 이동이 큰 채널(최근 연도 기준 전년 대비):\n")
+        A("| 기업(채널) | 연도 | 자동화 | 증강 | 데이터 | 이동 축 |\n|---|---|---|---|---|---|")
+        movers = sorted((p for ps in multi.values() for p in ps if isinstance(p["delta_sum"], float)),
+                        key=lambda p: -p["delta_sum"])[:15]
+        for p in movers:
+            A(f"| {p['channel'][:22]} | {p['year']} | {p['aut_top3']} | {p['aug_top3']} | {p['dat_top3']} | {p['shift']} |")
+
+    A("\n## 7. 한계\n")
     A("1. **담론 ≠ 성숙도.** 자사 채널 발화는 마케팅 목적이 섞인다. 논문 설문의 자기보고와도 다른 "
       "층위이므로, 두 자료를 같은 척도로 취급하면 안 된다.\n"
       "2. **규칙 기반 코딩**이라 반어·부정·자막 오역에 취약하다(코드북 v2 §한계와 동일).\n"
