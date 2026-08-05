@@ -85101,5 +85101,1301 @@
     "lang": "ko",
     "upload_date": "20260505",
     "fetched_at": "2026-08-06"
+  },
+  "-ykl5_JMFfo": {
+    "title": "AI 투자 떠받치는 젠슨황의 위험한 도박 - 하수정 경제 전문 기자",
+    "url": "https://www.youtube.com/watch?v=-ykl5_JMFfo",
+    "fetched_at": "2026-08-06",
+    "lang": "ko"
+  },
+  "IyFCgxz4JxU": {
+    "title": "[🎬 People & Insight Ep. 4] The Great AI Transformation (AX): A Major Shift in Organizations and T...",
+    "url": "https://www.youtube.com/watch?v=IyFCgxz4JxU",
+    "fetched_at": "2026-08-06",
+    "lang": "ko"
+  },
+  "-32wLbC973w": {
+    "title": "How a GitHub lawyer uses Copilot CLI to verify AI outputs",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20260805",
+    "fetched_at": "2026-08-06"
+  },
+  "DBaFFYyUSl8": {
+    "title": "Model Context Protocol: how MCP went from blog post to the Linux Foundation",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20251209",
+    "fetched_at": "2026-08-06"
+  },
+  "jV570EFcC9o": {
+    "title": "The human side of Octoverse 2025: Insights on open source",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20251208",
+    "fetched_at": "2026-08-06"
+  },
+  "B7t0XvHk2rI": {
+    "title": "The Download: Zork goes open source, Blender 5.0, unlocking AirPods & more",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20251205",
+    "fetched_at": "2026-08-06"
+  },
+  "dlgYCpQI_lU": {
+    "title": "How to improve code health with GitHub Code Quality",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20251204",
+    "fetched_at": "2026-08-06"
+  },
+  "boviC841YWs": {
+    "title": "The latest in managing and auditing GitHub Copilot agents",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20251203",
+    "fetched_at": "2026-08-06"
+  },
+  "8hyvYP5PCks": {
+    "title": "How to close pull requests faster with Copilot code review | GitHub Checkout",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "dI4H5ZyYOx0": {
+    "title": "Assign Linear issues to Copilot coding agent",
+    "channel": "GitHub",
+    "lang": "ko",
+    "upload_date": "20251201",
+    "fetched_at": "2026-08-06"
+  },
+  "AMCmhRoKnSk": {
+    "title": "How to align your LLM judge for better evaluations",
+    "channel": "Weights & Biases",
+    "lang": "en",
+    "upload_date": "20240718",
+    "fetched_at": "2026-08-06"
+  },
+  "oBVzAuYijqw": {
+    "title": "Evaluation Comparisons in W&B Weave",
+    "channel": "Weights & Biases",
+    "lang": "en",
+    "upload_date": "20240715",
+    "fetched_at": "2026-08-06"
+  },
+  "FFkwUIchvRI": {
+    "title": "Building training + eval pipelines for LLM fine-tuning with W&B Automations",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20240712",
+    "fetched_at": "2026-08-06"
+  },
+  "r1NVOCFtlFQ": {
+    "title": "Transforming Radiology with AI: Rad AI's journey with Weights & Biases",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20240711",
+    "fetched_at": "2026-08-06"
+  },
+  "-Yca3rXxvH4": {
+    "title": "Harnessing AI for legal practice with CoCounsel’s Jake Heller",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20240711",
+    "fetched_at": "2026-08-06"
+  },
+  "-XE0zf97-h8": {
+    "title": "Machine learning in drug discovery at Bayer Pharmaceuticals: from models to molecules",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20240710",
+    "fetched_at": "2026-08-06"
+  },
+  "LSGN8d0A-lc": {
+    "title": "How Liminal Insights leverages Weights & Biases for cutting-edge Automotive ML",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20240709",
+    "fetched_at": "2026-08-06"
+  },
+  "NJNYkSEwkLM": {
+    "title": "Vision language action models for autonomous driving at Wayve",
+    "channel": "Weights & Biases",
+    "lang": "ko",
+    "upload_date": "20240703",
+    "fetched_at": "2026-08-06"
+  },
+  "Is9NhAvVhTs": {
+    "title": "The NASCAR Data Garage: Shaping The Future Of Fan Engagement",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251021",
+    "fetched_at": "2026-08-06"
+  },
+  "R3tqVtP9oS8": {
+    "title": "How Microsoft And Snowflake Are Making Open, Interoperable Data Stacks A Reality For The AI Era",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251013",
+    "fetched_at": "2026-08-06"
+  },
+  "aic1D2pQnoI": {
+    "title": "Globe Telecom Uses Snowflake And AI To Dramatically Increase Customer Engagement",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251012",
+    "fetched_at": "2026-08-06"
+  },
+  "AO6Qrt4ssTU": {
+    "title": "Globe Telecom Uses Snowflake And AI To Dramatically Increase Customer Engagement",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251010",
+    "fetched_at": "2026-08-06"
+  },
+  "mGs5NIk0l0M": {
+    "title": "Snow Report: What's Happening At Snowflake In October",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251009",
+    "fetched_at": "2026-08-06"
+  },
+  "7mm1HvokUgc": {
+    "title": "A Class Apart: University Of Auckland Accelerates Insights With Snowflake Cortex Analyst",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251008",
+    "fetched_at": "2026-08-06"
+  },
+  "s7x2rgDHnN4": {
+    "title": "Modernizing Tradition: How Data Shapes The Future of Bottling At Coca-Cola",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251007",
+    "fetched_at": "2026-08-06"
+  },
+  "j_5CjCGaUAk": {
+    "title": "Snowflake: The Platform For The AI Era",
+    "channel": "Snowflake",
+    "lang": "ko",
+    "upload_date": "20251006",
+    "fetched_at": "2026-08-06"
+  },
+  "9UJ618Duh-Q": {
+    "title": "Building Stronger Communities: The Impact of TCS-Sponsored Marathons",
+    "channel": "TCS",
+    "lang": "ko",
+    "upload_date": "20250606",
+    "fetched_at": "2026-08-06"
+  },
+  "wCfWHzxqDfU": {
+    "title": "TCS Analyst Meet 2025_Hosted by Communications, Media and Information Services Business Group",
+    "channel": "TCS",
+    "lang": "ko",
+    "upload_date": "20250605",
+    "fetched_at": "2026-08-06"
+  },
+  "BxMoHDY2GTM": {
+    "title": "TCS & Jaguar TCS Racing - Building the Future of Racing Virtually",
+    "channel": "TCS",
+    "lang": "ko",
+    "upload_date": "20250530",
+    "fetched_at": "2026-08-06"
+  },
+  "oNBfx0RSYAg": {
+    "title": "Accelerating India: TCS’ Vision for an AI-Driven India",
+    "channel": "TCS",
+    "lang": "ko",
+    "upload_date": "20250529",
+    "fetched_at": "2026-08-06"
+  },
+  "Be_Pn5HJVlA": {
+    "title": "TCS partners with TDC Erhverv to modernize IP multimedia for Danish enterprises",
+    "channel": "TCS",
+    "lang": "ko",
+    "upload_date": "20250522",
+    "fetched_at": "2026-08-06"
+  },
+  "ZG4NjRjeAzA": {
+    "title": "TCS Workforce Insights hub",
+    "channel": "TCS",
+    "lang": "ko",
+    "upload_date": "20250521",
+    "fetched_at": "2026-08-06"
+  },
+  "taJVtsrTNSk": {
+    "title": "TCS Cyber Defense Suite: Strengthening India's Cybersecurity Framework with AI",
+    "channel": "TCS",
+    "lang": "ko",
+    "upload_date": "20250521",
+    "fetched_at": "2026-08-06"
+  },
+  "DqQv7WaYRlk": {
+    "title": "TCS – With you for the long run",
+    "channel": "TCS",
+    "lang": "ko",
+    "upload_date": "20250521",
+    "fetched_at": "2026-08-06"
+  },
+  "ckj2MA2L5tU": {
+    "title": "Qwen3.8‑Max is boosting productivity in real‑world workflows",
+    "channel": "Alibaba Cloud",
+    "lang": "ko",
+    "upload_date": "20260805",
+    "fetched_at": "2026-08-06"
+  },
+  "wXn4C2TqmWg": {
+    "title": "What Happens When AI Codes for 10 Days Straight? Inside Qwen3.8-Max's Autonomous Run",
+    "channel": "Alibaba Cloud",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "WlYRX8CvBMA": {
+    "title": "From Script to Video in Minutes — Broadcast Quality, No Studio Needed | Wan for Content",
+    "channel": "Alibaba Cloud",
+    "lang": "ko",
+    "upload_date": "20260119",
+    "fetched_at": "2026-08-06"
+  },
+  "vOLch7zQqgk": {
+    "title": "Create Game Trailers & Cutscenes with AI — in 119+ Languages | Wan for Gaming",
+    "channel": "Alibaba Cloud",
+    "lang": "ko",
+    "upload_date": "20260119",
+    "fetched_at": "2026-08-06"
+  },
+  "1I2NI4ixu30": {
+    "title": "Meet Your AI Co-Star: Hyper-Real Digital Humans in Wan 2.6",
+    "channel": "Alibaba Cloud",
+    "lang": "ko",
+    "upload_date": "20260116",
+    "fetched_at": "2026-08-06"
+  },
+  "Y1G2dcfrPIk": {
+    "title": "From Silence to Sound: How AI Gave Wei Haoran His First Clear Hearing at 30",
+    "channel": "Alibaba Cloud",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "tTH6dpiMO-U": {
+    "title": "Alibaba Cloud Partner Connect 2026: Growing Together in the AI Rainforest | Bali",
+    "channel": "Alibaba Cloud",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "FuML7Rbaybw": {
+    "title": "Japan | Where Tradition Accelerates into the Future 🇯🇵🚀",
+    "channel": "Alibaba Cloud",
+    "lang": "ko",
+    "upload_date": "20260109",
+    "fetched_at": "2026-08-06"
+  },
+  "jAjtha0T0zA": {
+    "title": "Meet the new Qwen3-TTS lineup: VoiceDesign & VoiceClone!",
+    "channel": "Alibaba Cloud",
+    "lang": "ko",
+    "upload_date": "20260106",
+    "fetched_at": "2026-08-06"
+  },
+  "Tp_yY49cvBs": {
+    "title": "Your Epic Vibe | Milano Cortina 2026",
+    "channel": "Alibaba Cloud",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "phOjJ1R4oak": {
+    "title": "How is Qwen-Image-2512 redefining AI imagery? 🚀",
+    "channel": "Alibaba Cloud",
+    "lang": "ko",
+    "upload_date": "20260105",
+    "fetched_at": "2026-08-06"
+  },
+  "T1GJ6TymQwM": {
+    "title": "Hong Kong Insurance Cloud Case Study | HKBN x Alibaba Cloud Partnership",
+    "channel": "Alibaba Cloud",
+    "lang": "ko",
+    "upload_date": "20260104",
+    "fetched_at": "2026-08-06"
+  },
+  "YpIaLwnbUvg": {
+    "title": "Cerebras   Shane Bergsma",
+    "channel": "Cerebras",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "r6SSfBLvJa4": {
+    "title": "Cerebras   Natalia Vassilieva",
+    "channel": "Cerebras",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "0wHSX50p47A": {
+    "title": "Cerebras   Joel Hestness",
+    "channel": "Cerebras",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "JvcPtxH0JX0": {
+    "title": "Cerebras   Gavia Gray",
+    "channel": "Cerebras",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "4UHhFpvhQnA": {
+    "title": "Cerebras   Abhi Sharma",
+    "channel": "Cerebras",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "HVXDPOwA-tg": {
+    "title": "Cerebras   Daria Soboleva",
+    "channel": "Cerebras",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "9WVl0ZbYdcU": {
+    "title": "Building 20x faster code search | Cerebras x Cognition",
+    "channel": "Cerebras",
+    "lang": "ko",
+    "upload_date": "20251121",
+    "fetched_at": "2026-08-06"
+  },
+  "bC4jOxk3vOI": {
+    "title": "AlphaSummit 2025: Beyond ChatGPT: How to Unlock 20x Faster AI",
+    "channel": "Cerebras",
+    "lang": "ko",
+    "upload_date": "20251103",
+    "fetched_at": "2026-08-06"
+  },
+  "VmU8cfmm7OQ": {
+    "title": "NVIDIA at Palantir Sovereignty Bootcamp",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "ljLinDa2ISc": {
+    "title": "Palantir & Ondas | Building the Future of Mission Autonomy | Episode 2",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "sGvJr1Tfvq0": {
+    "title": "Darrell Waldon, IRS | Software for Government 2023",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "jMOlBCHQcoI": {
+    "title": "How AI Can Support a Clean Energy Transition | Alex Karp at ADIPEC",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "NK7HzTdjmpE": {
+    "title": "Focus Brands | Building Consensus for Technology Adoption in Complex Organizations",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "47PCH8Xec-I": {
+    "title": "What it Takes to Win | Palantir CEO Alex Karp at Nashville Health Care Council",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "2SnZC8CnGQ0": {
+    "title": "Mark Brunner, Primer AI | Software for Government 2023",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "WaylYkpP-Jw": {
+    "title": "Senator John Hickenlooper | Software for Government Summit 2023",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "4Gr8n7Jl08k": {
+    "title": "DJ Angelini, Palantir | Software for Government 2023",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "_nvTXrIkbws": {
+    "title": "Craig Savidge, Lockheed Martin | Software for Government 2023",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "Z7wduNTriRU": {
+    "title": "Komatsu | Harnessing AI to Optimize Mining Equipment Service & Customer Machine Uptime",
+    "channel": "Palantir",
+    "lang": "en",
+    "upload_date": "20231002",
+    "fetched_at": "2026-08-06"
+  },
+  "sJYf7rymWpw": {
+    "title": "James McConnell, NNSA | Software for Government 2023",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "_wVkzwNFBdk": {
+    "title": "Palantir and Jacobs Present: Digital OneWater Powered by AI",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "1F7apO2hFXk": {
+    "title": "General Gustave F. Perna | Software for Government Summit 2023",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "1c5WfY_KVtM": {
+    "title": "HCA Healthcare | Transforming Healthcare Staffing with Strategic Scheduling",
+    "channel": "Palantir",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "cGQm31duzaM": {
+    "title": "Sharing Your Individual Ideas in Dream Machine - Web",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "VS2uPBwTE5U": {
+    "title": "Navigating Your Boards & Ideas in Dream Machine - Web",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "U4KSKpqgAvc": {
+    "title": "Using the Brainstorm Feature in Dream Machine - iOS",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "QUAuXpemVeM": {
+    "title": "Using the \"Reply\" Feature in Dream Machine - Web",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "PLU6O42gXd8": {
+    "title": "Using Brainstorm in Dream Machine - iOS",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "PIcWa635tRk": {
+    "title": "Using Keyframes & Extending with Keyframes in Dream Machine - iOS",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "OPmrV29STqs": {
+    "title": "Setting Your Aspect Ratio for Text-to-Video in Dream Machine - Web",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "NKLpRAB-BoE": {
+    "title": "Quickstart: Using Image to Video in Dream Machine - iOS",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "N4OFp9tevpg": {
+    "title": "Using Character Reference in Dream Machine - iOS",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "M7URyzChNdA": {
+    "title": "Using Concept Pills in Dream Machine - Web",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "KobWq2CDdNE": {
+    "title": "Introducing the all-new Dream Machine",
+    "channel": "Luma AI",
+    "lang": "ko",
+    "upload_date": "20241125",
+    "fetched_at": "2026-08-06"
+  },
+  "4GZZiWYM2R0": {
+    "title": "How to Use Concept Pills in Dream Machine (iOS)",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "3IzxC_E0jjc": {
+    "title": "Using Camera Motion in Dream Machine - Web",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "1gi9cpqbpxk": {
+    "title": "Deleting Your Boards in Dream Machine - Web",
+    "channel": "Luma AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "C47l4j3777Q": {
+    "title": "말이 돼? KT에서 Galaxy S26 사면 [???]이 하나 더! (15s)",
+    "channel": "KT",
+    "lang": "ko",
+    "upload_date": "20260226",
+    "fetched_at": "2026-08-06"
+  },
+  "HQ-8tMZXxfc": {
+    "title": "[하이오더 공식 캐릭터] 하이오더로 주문하러 또오세요!",
+    "channel": "KT",
+    "lang": "ko",
+    "upload_date": "20260213",
+    "fetched_at": "2026-08-06"
+  },
+  "nlE60UPQUjA": {
+    "title": "당신의 상상을 더 크고 빛나게 [ 모두의 캔버스 공모전 ]",
+    "channel": "KT",
+    "lang": "ko",
+    "upload_date": "20260213",
+    "fetched_at": "2026-08-06"
+  },
+  "TQfQdiWrRNc": {
+    "title": "지니TV 키즈랜드 ‘함께 그린 책3: 내 친구’ 지금 바로 응모하세요!",
+    "channel": "KT",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "EUG_sQbPaj4": {
+    "title": "내 친구 요고몬 [다이렉트 요고]",
+    "channel": "KT",
+    "lang": "ko",
+    "upload_date": "20260106",
+    "fetched_at": "2026-08-06"
+  },
+  "6Ox9PgFMYQU": {
+    "title": "마법요정 요고요고 [다이렉트 요고]",
+    "channel": "KT",
+    "lang": "ko",
+    "upload_date": "20260106",
+    "fetched_at": "2026-08-06"
+  },
+  "UjE_Xwc6HyM": {
+    "title": "[지니 TV 디즈니+ 모든G] G-eye 세계관 대통합!",
+    "channel": "KT",
+    "lang": "ko",
+    "upload_date": "20251229",
+    "fetched_at": "2026-08-06"
+  },
+  "xTuxBFAnBkY": {
+    "title": "140년의 시간 여행 [출장왔수다 ep.10] KT 온마루",
+    "channel": "KT",
+    "lang": "ko",
+    "upload_date": "20251226",
+    "fetched_at": "2026-08-06"
+  },
+  "VXVcrh8g27o": {
+    "title": "이거 하나면 다 되G! [지니 TV 디즈니+ 모든G] (30s)",
+    "channel": "KT",
+    "lang": "ko",
+    "upload_date": "20251219",
+    "fetched_at": "2026-08-06"
+  },
+  "L2vlI1vZ4h4": {
+    "title": "Introducing the Upgraded ElevenLabs Mobile App",
+    "channel": "ElevenLabs",
+    "lang": "ko",
+    "upload_date": "20251114",
+    "fetched_at": "2026-08-06"
+  },
+  "k29nmjIx4Gg": {
+    "title": "Introducing ElevenLabs Iconic Marketplace",
+    "channel": "ElevenLabs",
+    "lang": "en",
+    "upload_date": "20251111",
+    "fetched_at": "2026-08-06"
+  },
+  "_AZ7ptRuzs8": {
+    "title": "Introducing Scribe v2 Realtime",
+    "channel": "ElevenLabs",
+    "lang": "en",
+    "upload_date": "20251111",
+    "fetched_at": "2026-08-06"
+  },
+  "HSJLQFzgNYo": {
+    "title": "Create Realistic Text to Speech in 111 Seconds with AI",
+    "channel": "ElevenLabs",
+    "lang": "en",
+    "upload_date": "20251110",
+    "fetched_at": "2026-08-06"
+  },
+  "6EtpBRcvrl4": {
+    "title": "Create Songs with AI in 111 Seconds",
+    "channel": "ElevenLabs",
+    "lang": "ko",
+    "upload_date": "20251105",
+    "fetched_at": "2026-08-06"
+  },
+  "4USujpBLfHE": {
+    "title": "Create Animated Title Screens with ChatGPT, Kling 2.5 & ElevenLabs (AI Workflow)",
+    "channel": "ElevenLabs",
+    "lang": "ko",
+    "upload_date": "20251031",
+    "fetched_at": "2026-08-06"
+  },
+  "MeUaINLnww0": {
+    "title": "Remove Background Noise from Video in 1 Click (studio-quality results)",
+    "channel": "ElevenLabs",
+    "lang": "ko",
+    "upload_date": "20251028",
+    "fetched_at": "2026-08-06"
+  },
+  "bw6wLOget6U": {
+    "title": "How I Create Perfect Music for YouTube Videos in Minutes",
+    "channel": "ElevenLabs",
+    "lang": "ko",
+    "upload_date": "20251026",
+    "fetched_at": "2026-08-06"
+  },
+  "3OUAUnor2M8": {
+    "title": "HVAC Machine EcoStruxure Solution for OEMs | Schneider Electric",
+    "channel": "Schneider Electric",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "1SHybykGLeQ": {
+    "title": "Go Beyond with GoPact MCCB | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260805",
+    "fetched_at": "2026-08-06"
+  },
+  "zytVaf5656c": {
+    "title": "APC Smart-UPS Ultra 1 & 1.5 kVA | Schneider Electric",
+    "channel": "Schneider Electric",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "UoMsPJC3lIU": {
+    "title": "施耐德電氣全方位家居電力產品系列 | 大小日常 一樣有我在場 | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260805",
+    "fetched_at": "2026-08-06"
+  },
+  "nWyQ2dAPZQ0": {
+    "title": "Schneider Electric at Energy Transition Conference 2026 | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260805",
+    "fetched_at": "2026-08-06"
+  },
+  "NJzyGpDhN88": {
+    "title": "The Living Laboratory: How Schneider Electric Built Buildings of the Future",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260508",
+    "fetched_at": "2026-08-06"
+  },
+  "E96F7J9BDUQ": {
+    "title": "Why AI Data Centers Are Moving to 800V DC | Schneider Electric Live from Data Center World 2026",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260507",
+    "fetched_at": "2026-08-06"
+  },
+  "Le407-vEKUE": {
+    "title": "EcoStruxure Geo SCADA Expert 25 - Using Geo SCADA Mobile | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260507",
+    "fetched_at": "2026-08-06"
+  },
+  "QutzQXTq29Q": {
+    "title": "The Future of Energy Management: AI, Electrification & Digital Grids | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260507",
+    "fetched_at": "2026-08-06"
+  },
+  "SDJrE-Pc4rM": {
+    "title": "Inside the Biomass Plant of the Future: Magnon & EcoStruxure | Schneider Electric",
+    "channel": "Schneider Electric",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "MGS1XrkIIgY": {
+    "title": "190 Years of Innovation and Excellence | Schneider Electric",
+    "channel": "Schneider Electric",
+    "lang": "ko",
+    "upload_date": "20260507",
+    "fetched_at": "2026-08-06"
+  },
+  "9g89vXuCsKE": {
+    "title": "These Habits Lead to Exceptional Performance | Ryan Hawk",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20260805",
+    "fetched_at": "2026-08-06"
+  },
+  "z3Wh017ihPE": {
+    "title": "What's your next brilliant move?",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20250708",
+    "fetched_at": "2026-08-06"
+  },
+  "6-PHk81-0_4": {
+    "title": "The robotics revolution: Scaling beyond the pilot phase",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20250707",
+    "fetched_at": "2026-08-06"
+  },
+  "2HBT6dasRwk": {
+    "title": "How might global trade patterns rearrange?",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20250707",
+    "fetched_at": "2026-08-06"
+  },
+  "nBOlMI9IH3g": {
+    "title": "BONUS EPISODE: Rewriting the robotics playbook: From promise to performance",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20250707",
+    "fetched_at": "2026-08-06"
+  },
+  "QitIrLWyUEI": {
+    "title": "Tariffs and trade: Preparing for the unpredictable",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20250703",
+    "fetched_at": "2026-08-06"
+  },
+  "ggeqHoPyboA": {
+    "title": "A seat at the table",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20250701",
+    "fetched_at": "2026-08-06"
+  },
+  "0JdAKq7O5vA": {
+    "title": "Reshaping Industries and Institutions",
+    "channel": "McKinsey & Company",
+    "lang": "ko",
+    "upload_date": "20250701",
+    "fetched_at": "2026-08-06"
+  },
+  "W5GLZGWzxRk": {
+    "title": "Animating with Autodesk Maya and NVIDIA ACE",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20241001",
+    "fetched_at": "2026-08-06"
+  },
+  "5kdqROvatDI": {
+    "title": "Setting Up Your Character with Autodesk Maya and NVIDIA ACE",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20241001",
+    "fetched_at": "2026-08-06"
+  },
+  "XFZ149RPLY0": {
+    "title": "Getting Started with Autodesk Maya and NVIDIA ACE: Get and Setup API Key",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20241001",
+    "fetched_at": "2026-08-06"
+  },
+  "FsY81c3dDbI": {
+    "title": "How to Download and Install Autodesk Maya for NVIDIA ACE",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20241001",
+    "fetched_at": "2026-08-06"
+  },
+  "C3oDLMDgXc0": {
+    "title": "Explore the Capabilities of Autodesk Maya and NVIDIA ACE",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20241001",
+    "fetched_at": "2026-08-06"
+  },
+  "WUBl6SMRy0g": {
+    "title": "Generative AI Inference Powered by NVIDIA NIM: Performance and TCO Advantage",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240930",
+    "fetched_at": "2026-08-06"
+  },
+  "JlYVBAQC0tQ": {
+    "title": "Discover How Robots Use Generative AI to Reason and Act with ReMEmbR",
+    "channel": "NVIDIA Developer",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "Gys_AUOYZ4c": {
+    "title": "JETSON AI LAB | Research Group Meeting (9/17/2024)",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240919",
+    "fetched_at": "2026-08-06"
+  },
+  "KmEX-1mS8Ps": {
+    "title": "Developing Local AI Copilots with LangChain, NVIDIA NIM, and FAISS | LLM App Development",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240917",
+    "fetched_at": "2026-08-06"
+  },
+  "E0akNjfUEuI": {
+    "title": "Mistral AI Now Summit 2026 Official Teaser",
+    "channel": "Mistral AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "0jMfcCL02xQ": {
+    "title": "In Conversation with Bryan Catanzaro of NVIDIA",
+    "channel": "Mistral AI",
+    "lang": "en",
+    "upload_date": "20260514",
+    "fetched_at": "2026-08-06"
+  },
+  "Ilc-8TkHakQ": {
+    "title": "In Conversation with Ang Chee Wee of HTX",
+    "channel": "Mistral AI",
+    "lang": "ko",
+    "upload_date": "20260430",
+    "fetched_at": "2026-08-06"
+  },
+  "SvPX8HB-JUA": {
+    "title": "Work mode in Le Chat",
+    "channel": "Mistral AI",
+    "lang": "ko",
+    "upload_date": "20260429",
+    "fetched_at": "2026-08-06"
+  },
+  "Z67QSkYbFio": {
+    "title": "Teleport your coding session to the cloud",
+    "channel": "Mistral AI",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "5uKixo_tD7I": {
+    "title": "Remote coding agents in Mistral Vibe",
+    "channel": "Mistral AI",
+    "lang": "ko",
+    "upload_date": "20260429",
+    "fetched_at": "2026-08-06"
+  },
+  "KaMbzM9dsTc": {
+    "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
+    "channel": "Mistral AI",
+    "lang": "ko",
+    "upload_date": "20260429",
+    "fetched_at": "2026-08-06"
+  },
+  "7TnJJ0D__kk": {
+    "title": "Build your first Mistral Workflow",
+    "channel": "Mistral AI",
+    "lang": "ko",
+    "upload_date": "20260428",
+    "fetched_at": "2026-08-06"
+  },
+  "YQB6bsob6zE": {
+    "title": "Workflows: Build. Run. Observe.",
+    "channel": "Mistral AI",
+    "lang": "ko",
+    "upload_date": "20260428",
+    "fetched_at": "2026-08-06"
+  },
+  "9tXQBnpvVsU": {
+    "title": "Introducing Workflows",
+    "channel": "Mistral AI",
+    "lang": "ko",
+    "upload_date": "20260428",
+    "fetched_at": "2026-08-06"
+  },
+  "6lu6JmaHWvg": {
+    "title": "Meeting Audiences: From Time-Shifted TV to AI-Powered Highlights Generation | AWS Events",
+    "channel": "AWS Events",
+    "lang": "en",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-06"
+  },
+  "bhPL_HVx5Fo": {
+    "title": "Personalized Broadband Experience: From Modernization to Monetization | AWS Events",
+    "channel": "AWS Events",
+    "lang": "en",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-06"
+  },
+  "O3SIJEcocLc": {
+    "title": "Autonomous Customer Experience: AI-Orchestrated Care, Network, and Billing | AWS Events",
+    "channel": "AWS Events",
+    "lang": "ko",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-06"
+  },
+  "ca7T5p7WUOs": {
+    "title": "Monetize Your RAN: Nokia Agentic AI on AWS in Action | AWS Events",
+    "channel": "AWS Events",
+    "lang": "ko",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-06"
+  },
+  "qSMbDS0Jdn0": {
+    "title": "Agentic AI-Powered Network Operations | AWS Events",
+    "channel": "AWS Events",
+    "lang": "ko",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-06"
+  },
+  "3hhdvi13tBY": {
+    "title": "Agentic AI-Powered Network Build on AWS | AWS Events",
+    "channel": "AWS Events",
+    "lang": "ko",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-06"
+  },
+  "yH8mpRew56o": {
+    "title": "Cross-Domain Service Orchestration with Agentic AI | AWS Events",
+    "channel": "AWS Events",
+    "lang": "en",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-06"
+  },
+  "qIDkthml2n4": {
+    "title": "On-Premises Telecom Cloud: AT&T's Hybrid Cloud Modernization with AWS | AWS Events",
+    "channel": "AWS Events",
+    "lang": "ko",
+    "upload_date": "20260518",
+    "fetched_at": "2026-08-06"
+  },
+  "6IlkWI2eQdM": {
+    "title": "Data + AI World Tour Paris 2025 | 2 décembre | Réservez votre place !",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20251023",
+    "fetched_at": "2026-08-06"
+  },
+  "sWVjfh8PkyY": {
+    "title": "Secure, AI-Ready Data at Westinghouse | Data + AI Executive Series: Fast 5",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20251020",
+    "fetched_at": "2026-08-06"
+  },
+  "fRXgYCSm_BY": {
+    "title": "Accelerating AI-Powered Security at Barracuda | Data + AI Executive Series: Fast 5",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20251017",
+    "fetched_at": "2026-08-06"
+  },
+  "VokM_njNJpY": {
+    "title": "Data + AI World Tour Paris 2025 | Inscrivez-vous !",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20251017",
+    "fetched_at": "2026-08-06"
+  },
+  "IfaUrI-1HJU": {
+    "title": "Responsible AI with Nationwide | Data + AI Executive Series",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20251015",
+    "fetched_at": "2026-08-06"
+  },
+  "enmS6RE4B5s": {
+    "title": "Data + AI World Tour Singapore 2025 - Keynote 2",
+    "channel": "Databricks",
+    "status": "no_subs",
+    "fetched_at": "2026-08-06"
+  },
+  "6GEdVfEYqKs": {
+    "title": "Data + AI World Tour Singapore 2025 - Keynote 1",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20251015",
+    "fetched_at": "2026-08-06"
+  },
+  "8c4TA_74BCI": {
+    "title": "Data + AI World Tour Singapore 2025 - Highlights",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20251015",
+    "fetched_at": "2026-08-06"
+  },
+  "ph5oKrWCoFg": {
+    "title": "Driving Transformation at Navy Federal Credit Union | Data + AI Executive Series",
+    "channel": "Databricks",
+    "lang": "ko",
+    "upload_date": "20251013",
+    "fetched_at": "2026-08-06"
+  },
+  "RYRZgeP03_E": {
+    "title": "Fusion Agentic Applications Redefine Enterprise Work",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260505",
+    "fetched_at": "2026-08-06"
+  },
+  "bP_OKXSY7lI": {
+    "title": "How to Use Hidden Columns in Oracle Analytics Cloud",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260505",
+    "fetched_at": "2026-08-06"
+  },
+  "FYg5mGs7-IE": {
+    "title": "How to Use AI Agents as Consumers in Oracle Analytics Cloud",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260505",
+    "fetched_at": "2026-08-06"
+  },
+  "b5j30LjqhyU": {
+    "title": "What is Oracle Fusion Data Intelligence?",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260504",
+    "fetched_at": "2026-08-06"
+  },
+  "wd4dudaVdkk": {
+    "title": "Oracle Fusion Cloud Access Certifications with Embedded AI: Demo",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260504",
+    "fetched_at": "2026-08-06"
+  },
+  "FARF4c3k7no": {
+    "title": "Oracle Fusion Cloud Sales Command Center: Demo",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260430",
+    "fetched_at": "2026-08-06"
+  },
+  "mD6LyJmW6bg": {
+    "title": "Oracle Customer Edge Summit 2026: Highlights from Austin",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260430",
+    "fetched_at": "2026-08-06"
+  },
+  "bPgq6n9YEqQ": {
+    "title": "Agentic Application Builder in Oracle AI Agent Studio: Demo",
+    "channel": "Oracle",
+    "lang": "ko",
+    "upload_date": "20260429",
+    "fetched_at": "2026-08-06"
+  },
+  "ipbqpS3prdM": {
+    "title": "Siemens Xcelerator Beyond 1% – How can digitalization help Australia lead in the net zero race?",
+    "channel": "Siemens",
+    "lang": "en",
+    "upload_date": "20250616",
+    "fetched_at": "2026-08-06"
+  },
+  "itxwuSp8FcU": {
+    "title": "Connecting communities: Warrnambool rail upgrade",
+    "channel": "Siemens",
+    "lang": "en",
+    "upload_date": "20250602",
+    "fetched_at": "2026-08-06"
+  },
+  "B1ckz97JCc0": {
+    "title": "Hello, I’m PortfolioXpert – Your Smart Trade Show Assistant!",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20250424",
+    "fetched_at": "2026-08-06"
+  },
+  "v3oMY4sf_Pc": {
+    "title": "Optimize your value chain with end-to-end plant lifecycle solutions and Trips",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20250410",
+    "fetched_at": "2026-08-06"
+  },
+  "dkb_P-o96sc": {
+    "title": "From procurement to production to delivery – End2End traceability in smart manufacturing",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20250410",
+    "fetched_at": "2026-08-06"
+  },
+  "b-k0hTRwLwc": {
+    "title": "A shortcut to success: Partnering with AWS to take sustainable building operation to the cloud",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20250407",
+    "fetched_at": "2026-08-06"
+  },
+  "Z4J8o4C8rhA": {
+    "title": "Spinnova is transforming the textile industry as a sustainable Digital Enterprise",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20250326",
+    "fetched_at": "2026-08-06"
+  },
+  "LSsRoxF8Afc": {
+    "title": "What is Siemens Xcelerator?",
+    "channel": "Siemens",
+    "lang": "ko",
+    "upload_date": "20250326",
+    "fetched_at": "2026-08-06"
+  },
+  "HXx39L1IHL4": {
+    "title": "Azure Files: Simple, Secure, Cloud and AI Ready File Storage",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20260805",
+    "fetched_at": "2026-08-06"
+  },
+  "E75MV-vBIIM": {
+    "title": "Building the Modern Quantum Architecture: Lecture 3 — Quantum Resource Estimation",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20251209",
+    "fetched_at": "2026-08-06"
+  },
+  "PzqNUf8OyUc": {
+    "title": "Azure Backup Threat Detection",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20251206",
+    "fetched_at": "2026-08-06"
+  },
+  "9daRzwzTgeE": {
+    "title": "Agentic AI in the Modern Lab: Transforming R&D productivity with Copilot for Researcher",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20251204",
+    "fetched_at": "2026-08-06"
+  },
+  "_HrL3TubGbI": {
+    "title": "Introducing the model router in Foundry Models",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "Wo78JhnFUh4": {
+    "title": "ServiceNow deploys and scales AI solutions faster with Microsoft Marketplace",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20251202",
+    "fetched_at": "2026-08-06"
+  },
+  "6RHsxWn_Dws": {
+    "title": "SK Telecom deepens customer connections with agentic workflows in Microsoft Foundry",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20251201",
+    "fetched_at": "2026-08-06"
+  },
+  "SKMXsdCWpzY": {
+    "title": "Building the Modern Quantum Architecture: Lecture 2 — Utility Scale Quantum Architecture",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20251129",
+    "fetched_at": "2026-08-06"
+  },
+  "RsRAUO-fNaA": {
+    "title": "Gen AI and Vector Search - Iveta Lohovska | Vector Space Talks #020",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20240401",
+    "fetched_at": "2026-08-06"
+  },
+  "3l6F6A_It0Q": {
+    "title": "Teaching Vector Databases at Scale - Alfredo Deza | Vector Space Talks #019",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20240325",
+    "fetched_at": "2026-08-06"
+  },
+  "0sg7pJo0siU": {
+    "title": "Exploring Qdrant concepts - Collections",
+    "channel": "Qdrant",
+    "lang": "en",
+    "upload_date": "20240320",
+    "fetched_at": "2026-08-06"
+  },
+  "K40DIG9ZzAU": {
+    "title": "How to meow on the long tail with Cheshire Cat AI? - Piero and Nicola | Vector Space Talks #018",
+    "channel": "Qdrant",
+    "lang": "en",
+    "upload_date": "20240318",
+    "fetched_at": "2026-08-06"
+  },
+  "O60-KuZZeQA": {
+    "title": "Chatbot with RAG, using LangChain, OpenAI, and Groq",
+    "channel": "Qdrant",
+    "lang": "en",
+    "upload_date": "20240311",
+    "fetched_at": "2026-08-06"
+  },
+  "v85HqNqLQcI": {
+    "title": "Best RAG to unleash the power of AI - Guillaume Marquis of VirtualBrain | Vector Space Talks #017",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20240311",
+    "fetched_at": "2026-08-06"
+  },
+  "56mFleo06LI": {
+    "title": "Talk with YouTube without paying a cent - Francesco Saverio Zuppichini | Vector Space Talks #016",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20240304",
+    "fetched_at": "2026-08-06"
+  },
+  "0ORi9QJlud0": {
+    "title": "Production-scale RAG for Real-Time News Distillation - Robert Caulk | Vector Space Talks #015",
+    "channel": "Qdrant",
+    "lang": "ko",
+    "upload_date": "20240223",
+    "fetched_at": "2026-08-06"
+  },
+  "0valwp7DITE": {
+    "title": "\"Organizations that define the next decade won't be the smartest. They'll be the most adaptable.\"",
+    "channel": "Boston Consulting Group",
+    "lang": "ko",
+    "upload_date": "20260805",
+    "fetched_at": "2026-08-06"
+  },
+  "jVUGvVOxD3Q": {
+    "title": "How Businesses Are Capturing the Most Value from AI",
+    "channel": "Boston Consulting Group",
+    "lang": "ko",
+    "upload_date": "20260703",
+    "fetched_at": "2026-08-06"
+  },
+  "WK5X05M6Ih8": {
+    "title": "Biosolutions Are Pioneering New Foods Around the Globe",
+    "channel": "Boston Consulting Group",
+    "lang": "ko",
+    "upload_date": "20260703",
+    "fetched_at": "2026-08-06"
+  },
+  "3VySR_S-mY4": {
+    "title": "AI Is Much More Than a Productivity Tool",
+    "channel": "Boston Consulting Group",
+    "lang": "ko",
+    "upload_date": "20260703",
+    "fetched_at": "2026-08-06"
   }
 }

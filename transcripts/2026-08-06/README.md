@@ -7,3 +7,8 @@
 - [Enterprise AI, Adoption Failure, and the Reality of ROI with Samantha Leach](Enterprise_AI,_Adoption_Failure,_and_the_Reality_of_ROI_with__4Kd5L9JtEiA.md) (ko) — [원본](https://www.youtube.com/watch?v=4Kd5L9JtEiA)
 - [Stop AI Agent Sprawl: Why Your Enterprise AI Strategy is Failing](Stop_AI_Agent_Sprawl_Why_Your_Enterprise_AI_Strategy_is_Fail__Abv4HT2mB0A.md) (ko) — [원본](https://www.youtube.com/watch?v=Abv4HT2mB0A)
 - [The AI rollout is here - and it's messy | FT Working It](The_AI_rollout_is_here_-_and_it's_messy_FT_Working_It__GY_Ywqd3mzA.md) (ko) — [원본](https://www.youtube.com/watch?v=GY_Ywqd3mzA)
+
+## 06:31 수집 (2개)
+
+- [AI 투자 떠받치는 젠슨황의 위험한 도박 - 하수정 경제 전문 기자](AI_투자_떠받치는_젠슨황의_위험한_도박_-_하수정_경제_전문_기자__-ykl5_JMFfo.md) (ko) — [원본](https://www.youtube.com/watch?v=-ykl5_JMFfo)
+- [[🎬 People & Insight Ep. 4] The Great AI Transformation (AX): A Major Shift in Organizations and T...]([🎬_People_&_Insight_Ep._4]_The_Great_AI_Transformation_(AX)___IyFCgxz4JxU.md) (ko) — [원본](https://www.youtube.com/watch?v=IyFCgxz4JxU)
