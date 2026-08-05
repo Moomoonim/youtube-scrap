@@ -15,3 +15,10 @@
 
 - ["삼성전자·SK하이닉스의 미래가 바뀝니다" AI 에이전트가 반도체 기업의 생존을 결정한다 | 경읽남과 토론합시다 | 김정호 교수님](삼성전자·SK하이닉스의_미래가_바뀝니다_AI_에이전트가_반도체_기업의_생존을_결정한다_경읽남과_토론합시다_김__DAx4P1Wp53U.md) (ko) — [원본](https://www.youtube.com/watch?v=DAx4P1Wp53U)
 - [미국의 AI 국부펀드가 현실화될까?](미국의_AI_국부펀드가_현실화될까__Niyqf1oWpGw.md) (ko) — [원본](https://www.youtube.com/watch?v=Niyqf1oWpGw)
+
+## 19:45 수집 (4개)
+
+- [감히 말씀드리겠습니다. 오늘 AI의 미래가 더욱 더 선명해졌습니다](감히_말씀드리겠습니다._오늘_AI의_미래가_더욱_더_선명해졌습니다__RdDkRKOrIMY.md) (ko) — [원본](https://www.youtube.com/watch?v=RdDkRKOrIMY)
+- [Even Musk Says… "Memory is the AI Bottleneck": Why He’s Confident in Recouping Investments Within...](Even_Musk_Says…_Memory_is_the_AI_Bottleneck_Why_He’s_Confide__0shKqXaoO-A.md) (ko) — [원본](https://www.youtube.com/watch?v=0shKqXaoO-A)
+- [Building the Enterprise AI Portfolio of ROI Driven Use Cases](Building_the_Enterprise_AI_Portfolio_of_ROI_Driven_Use_Cases__Ze98lJHwR3k.md) (ko) — [원본](https://www.youtube.com/watch?v=Ze98lJHwR3k)
+- [Building AI Agents that actually work (Full Course)](Building_AI_Agents_that_actually_work_(Full_Course)__eA9Zf2-qYYM.md) (ko) — [원본](https://www.youtube.com/watch?v=eA9Zf2-qYYM)
