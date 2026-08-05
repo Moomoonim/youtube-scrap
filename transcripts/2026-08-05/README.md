@@ -22,3 +22,9 @@
 - [Even Musk Says… "Memory is the AI Bottleneck": Why He’s Confident in Recouping Investments Within...](Even_Musk_Says…_Memory_is_the_AI_Bottleneck_Why_He’s_Confide__0shKqXaoO-A.md) (ko) — [원본](https://www.youtube.com/watch?v=0shKqXaoO-A)
 - [Building the Enterprise AI Portfolio of ROI Driven Use Cases](Building_the_Enterprise_AI_Portfolio_of_ROI_Driven_Use_Cases__Ze98lJHwR3k.md) (ko) — [원본](https://www.youtube.com/watch?v=Ze98lJHwR3k)
 - [Building AI Agents that actually work (Full Course)](Building_AI_Agents_that_actually_work_(Full_Course)__eA9Zf2-qYYM.md) (ko) — [원본](https://www.youtube.com/watch?v=eA9Zf2-qYYM)
+
+## 23:31 수집 (3개)
+
+- [AI 경쟁 뒤처진 애플... 도대체 애플은 뭘 믿고 있는 걸까? / 오그랲 / 비디오머그](AI_경쟁_뒤처진_애플..._도대체_애플은_뭘_믿고_있는_걸까_오그랲_비디오머그__CNeqezDl5js.md) (ko) — [원본](https://www.youtube.com/watch?v=CNeqezDl5js)
+- [Korea Chamber of Commerce and Industry, Impact of AI Adoption on Corporate Performance and Produc...](Korea_Chamber_of_Commerce_and_Industry,_Impact_of_AI_Adoptio__GJcXVW1Mhuw.md) (ko) — [원본](https://www.youtube.com/watch?v=GJcXVW1Mhuw)
+- [[온플릭스] 'AI 도입, 실패를 막는 업무 자동화 전략' 웨비나 다시보기]([온플릭스]_'AI_도입,_실패를_막는_업무_자동화_전략'_웨비나_다시보기__NKDNvl9T7fs.md) (ko) — [원본](https://www.youtube.com/watch?v=NKDNvl9T7fs)
