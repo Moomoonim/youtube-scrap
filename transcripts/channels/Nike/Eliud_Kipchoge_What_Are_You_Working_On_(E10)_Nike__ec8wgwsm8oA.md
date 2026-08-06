@@ -1,0 +1,13 @@
+# Eliud Kipchoge | What Are You Working On? (E10) | Nike
+
+- 영상 링크: https://www.youtube.com/watch?v=ec8wgwsm8oA
+- 채널: Nike
+- 업로드일: 2022-05-09
+- 자막 언어: en
+- 단어 수: 약 466개
+
+---
+
+## 스크립트
+
+I think two things when I run through here. I think of a negative forest whereby in the future it has been cut. Pollution will be there. You have nowhere to train, you cannot get clean air. On the other hand a future actually whereby the whole forest has been conserved well all the paths have been taken care of people enjoying runs and enjoying the serene environment. My vision is to make this world a running world. Kipsambu, should I begin with you? Perform the salute. Salute! Congrats. First of all, congratulations. Congratulations. Thanks. Congratulations. I think I identify myself through self-discipline. Courageous, taking risks and I love change. If you love change, actually then you can reason with the world. What drives me is this planet. I want actually to make Kenya green as quickly as possible. My foundation is called Eliud Kipchoge Foundation. We do conservation, we do education, and health. I have adopted about 130 acres within Kaptagat. We are planning to plant about 50,000 trees, when the rains come in the next two months. I've learned that the only option is to take care of the world because this is our only home. I grew up in a small family of four children and one single mother. Culturally people who have one parent have been regarded as not equal. I wanted to work hard and show the love of a father to my kids. Make sure my kids are comfortable and happy and actually value-oriented kids. I trust it is the only way to take them ahead and help them survive when I will not be there. This is my farm. This is where they’re eating. In our tradition actually I was raised in a family whereby we had cows. This is where we’re milking. We'd normally plant some crops for food. I have learned to really be patient, to see how actually a small calf can actually slowly by slowly grow until becoming a bigger cow. In future I will have to come and really spend a lot of time here. I think all my family will be involved to share the work. We target the same goal. Running wakes me everyday, wakes my conscious. Rejuvenates my life. When I will not be here I trust the world will be a running world and the world will be peaceful, positive and be healthy. The vision is to spread the word to all human family running can change your life running can actually make you think properly. To understand yourself, to understand the whole body. Because, if you listen to yourself then you're always on the right direction. We are no longer in control of what has passed but can control where we are now and where we are headed to.

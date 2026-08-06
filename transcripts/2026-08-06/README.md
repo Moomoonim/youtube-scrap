@@ -17,3 +17,7 @@
 
 - [Real World AI Adoption: What Works and What Fails](Real_World_AI_Adoption_What_Works_and_What_Fails__GmfcIHZAY-c.md) (ko) — [원본](https://www.youtube.com/watch?v=GmfcIHZAY-c)
 - [Workday AI Masterclass: Understanding AI Agents and Their Potential in the Enterprise](Workday_AI_Masterclass_Understanding_AI_Agents_and_Their_Pot__IjLHG97Sgg8.md) (ko) — [원본](https://www.youtube.com/watch?v=IjLHG97Sgg8)
+
+## 15:44 수집 (1개)
+
+- [The TRUTH About Selling AI Automations to Businesses](The_TRUTH_About_Selling_AI_Automations_to_Businesses__XUYvDbAv1IA.md) (ko) — [원본](https://www.youtube.com/watch?v=XUYvDbAv1IA)
