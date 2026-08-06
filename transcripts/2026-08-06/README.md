@@ -21,3 +21,7 @@
 ## 15:44 수집 (1개)
 
 - [The TRUTH About Selling AI Automations to Businesses](The_TRUTH_About_Selling_AI_Automations_to_Businesses__XUYvDbAv1IA.md) (ko) — [원본](https://www.youtube.com/watch?v=XUYvDbAv1IA)
+
+## 19:48 수집 (1개)
+
+- [이제 AI는 스스로 생각하고 학습한다.. 난리난 AI 에이전트 직접 확인해보니 | 시사기획 창 KBS 20260317 방송](이제_AI는_스스로_생각하고_학습한다.._난리난_AI_에이전트_직접_확인해보니_시사기획_창_KBS_20260__oQ4_7ZX9oWs.md) (ko) — [원본](https://www.youtube.com/watch?v=oQ4_7ZX9oWs)
