@@ -25,3 +25,8 @@
 ## 19:48 수집 (1개)
 
 - [이제 AI는 스스로 생각하고 학습한다.. 난리난 AI 에이전트 직접 확인해보니 | 시사기획 창 KBS 20260317 방송](이제_AI는_스스로_생각하고_학습한다.._난리난_AI_에이전트_직접_확인해보니_시사기획_창_KBS_20260__oQ4_7ZX9oWs.md) (ko) — [원본](https://www.youtube.com/watch?v=oQ4_7ZX9oWs)
+
+## 23:38 수집 (2개)
+
+- [How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna](How_Block_is_becoming_the_most_AI-native_enterprise_in_the_w__JMeXWVw0r3E.md) (ko) — [원본](https://www.youtube.com/watch?v=JMeXWVw0r3E)
+- [What is Google's Agentic AI Strategy? (Explained by Google Cloud's CTO)](What_is_Google's_Agentic_AI_Strategy_(Explained_by_Google_Cl__3tng5VWbWXU.md) (ko) — [원본](https://www.youtube.com/watch?v=3tng5VWbWXU)
