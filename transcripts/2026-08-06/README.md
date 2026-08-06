@@ -12,3 +12,8 @@
 
 - [AI 투자 떠받치는 젠슨황의 위험한 도박 - 하수정 경제 전문 기자](AI_투자_떠받치는_젠슨황의_위험한_도박_-_하수정_경제_전문_기자__-ykl5_JMFfo.md) (ko) — [원본](https://www.youtube.com/watch?v=-ykl5_JMFfo)
 - [[🎬 People & Insight Ep. 4] The Great AI Transformation (AX): A Major Shift in Organizations and T...]([🎬_People_&_Insight_Ep._4]_The_Great_AI_Transformation_(AX)___IyFCgxz4JxU.md) (ko) — [원본](https://www.youtube.com/watch?v=IyFCgxz4JxU)
+
+## 12:34 수집 (2개)
+
+- [Real World AI Adoption: What Works and What Fails](Real_World_AI_Adoption_What_Works_and_What_Fails__GmfcIHZAY-c.md) (ko) — [원본](https://www.youtube.com/watch?v=GmfcIHZAY-c)
+- [Workday AI Masterclass: Understanding AI Agents and Their Potential in the Enterprise](Workday_AI_Masterclass_Understanding_AI_Agents_and_Their_Pot__IjLHG97Sgg8.md) (ko) — [원본](https://www.youtube.com/watch?v=IjLHG97Sgg8)
