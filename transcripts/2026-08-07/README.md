@@ -19,3 +19,11 @@
 - [A comprehensive summary of my experience using over 500 AI programs over the past year! (Comparat...](A_comprehensive_summary_of_my_experience_using_over_500_AI_p__GYpaGdgW-40.md) (ko) — [원본](https://www.youtube.com/watch?v=GYpaGdgW-40)
 - [Don't learn AI Agents without Learning these Fundamentals](Don't_learn_AI_Agents_without_Learning_these_Fundamentals__ZaPbP9DwBOE.md) (ko) — [원본](https://www.youtube.com/watch?v=ZaPbP9DwBOE)
 - [RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models](RAG_vs_Fine-Tuning_vs_Prompt_Engineering_Optimizing_AI_Model__zYGDpG-pTho.md) (en) — [원본](https://www.youtube.com/watch?v=zYGDpG-pTho)
+
+## 18:14 수집 (5개)
+
+- [AX의 본질, 한 문장으로 정리해드립니다](AX의_본질,_한_문장으로_정리해드립니다__JA3Pal00CuI.md) (ko) — [원본](https://www.youtube.com/watch?v=JA3Pal00CuI)
+- [[팀네이버 컨퍼런스 DAN25] Multi-AI Agent 개발: 레퍼런스 아키텍처와 구현 전략]([팀네이버_컨퍼런스_DAN25]_Multi-AI_Agent_개발_레퍼런스_아키텍처와_구현_전략__r6wo53WIpa4.md) (ko) — [원본](https://www.youtube.com/watch?v=r6wo53WIpa4)
+- [Life-changing ChatGPT tips no one told you. (Not the usual stuff)](Life-changing_ChatGPT_tips_no_one_told_you._(Not_the_usual_s__v6pDubPbpqQ.md) (ko) — [원본](https://www.youtube.com/watch?v=v6pDubPbpqQ)
+- [The Future of Enterprise AI Enablement](The_Future_of_Enterprise_AI_Enablement__vFAkfd4HDEU.md) (ko) — [원본](https://www.youtube.com/watch?v=vFAkfd4HDEU)
+- [Why 95% of AI Projects Fail — and What the 5% Do Differently](Why_95%_of_AI_Projects_Fail_—_and_What_the_5%_Do_Differently__Vak5ilaNxmM.md) (ko) — [원본](https://www.youtube.com/watch?v=Vak5ilaNxmM)

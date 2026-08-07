@@ -1,0 +1,13 @@
+# Inspiring Women in Technology – Meet Aglaja
+
+- 영상 링크: https://www.youtube.com/watch?v=hT6KfUORJEE
+- 채널: Siemens
+- 업로드일: 2024-03-07
+- 자막 언어: en
+- 단어 수: 약 457개
+
+---
+
+## 스크립트
+
+I’m Aglaja. I'm a project director for the London Deep Tube project. I'm overseeing the engineering, the manufacture, commissioning and testing of 94 brand new Piccadilly Line trains. These trains are going to be built in Vienna and in the brand new facility in Goole. This is a one and a half billion pound project and Transport For London is a very strategic partner and key customer for us at Siemens. This project will improve the travel experience of millions of Londoners, tourists and commuters, and that makes me very proud and gives me a sense of belonging. I have been working for Siemens for ten years and I started as a graduate after finishing my graduate programme my CEO back then suggested me for a project management role. When I received my project director certification eight years later, I contacted my CEO from back then and thanked them for putting me into this career path and supporting me and believing in me. There are endless opportunities at Siemens, you can literally move anywhere and everywhere and if you are capable and you are going the extra mile, you will be noticed and I'm proof of that. I moved from graduate to director role within ten years. I really would like to give back to young professionals this support to drive more inclusion, to increase the visibility of women in the company, and therefore I have several mentees in the business to support their career development and path. My biggest inspiration growing up has always been my grandmother. She lived through the war and through quite hard times. She lost her husband quite early and was a full time working mum of three, but she never lost her positivity in life and she never became bitter, and that is something that inspired me for my entire life. For me, it's very important to include wellbeing alongside work. I'm really passionate about horse riding as well as running and any kinds of sports and obviously spending time with my family. I have been a STEM ambassador for the last ten years and it's something very close to my heart to inspire young people to come into the STEM profession. But now it's even more important for me because I can be a STEM ambassador at my daughter's school and show the younger girls that STEM careers are some of the fastest growing and highest paid careers in the world. For me, you inspire inclusion by creating networking and mentoring opportunities because if you are not known, you can't be seen. It's very important to me to be a role model for my daughters and to show them that the STEM field is a very interesting place to be.
