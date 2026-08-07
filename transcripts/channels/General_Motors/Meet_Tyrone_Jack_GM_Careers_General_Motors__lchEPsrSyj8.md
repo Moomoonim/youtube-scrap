@@ -1,0 +1,13 @@
+# Meet Tyrone Jack | GM Careers | General Motors
+
+- 영상 링크: https://www.youtube.com/watch?v=lchEPsrSyj8
+- 채널: General Motors
+- 업로드일: 2024-06-04
+- 자막 언어: en
+- 단어 수: 약 494개
+
+---
+
+## 스크립트
+
+GM and the recruitment team came and they did this whole presentation about automotive design. I like cars, but I never, ever thought about what it takes to, like, design a car. That was the day that I looked at everything different. My brain just like hit a switch. We used to go to church three or four times a week, so I was there all the time. I tell people I grew up in the church. I remember I used to borrow my mom's pin and go out somewhere and flip over the program and just draw on the back of the program. Well, I used to sell them for a dollar and I used to buy candy with it. Sometimes I'd even, like, carve things into the pews... probably wasn't good. I did get in trouble for that. I think it's still there, matter of fact. I was just the first... you know, strong memories I had of just doing art and enjoying it. That was around the time the movie Toy Story was coming out. You start seeing these little guys running around and it looked like realistic and there was like... dimension to it and it was like... to me, I was like, Whoa! I wanted to be a part of it, you know, like, maybe this is my thing. I was fortunate enough to have like, supportive parents. My dad was the first person that told me that I could, you know, transfer these things over to a computer and there are people making money off of it. There was no product design and no automotive design, not at my school. It was just kind of like a general art major. I didn't know anything about auto design until the recruiters came. I remember them showing me a car and them telling me this is not a real car... and it looks like a real car. They tell me, “No, it's clay”, and there's foam under the clay. You know, I just couldn't understand it. Like, so you say you're telling me somebody made this like they sculpted this, you know, that's crazy. And it was all shiny and everything looked just like a car. I was like, Nah, I don't believe it. (laughs) That’s what wrapped me in. And at the time, I was designing stuff like, you know, robots and animals, and they were like, “You're good. can you make a car”? And I'm like, man, I can make anything... you know I was just like, you know, I couldn't wait to jump in. I was hired in 2006 as a Digital Sculptor. I take designs, I turn them into three-dimensional models and they get milled on clay. Everyone always wants a job they can have fun and still get paid for it, and some days I still think to myself, like, I can't believe they paid me for this. That's just what anyone's ever asked for.
