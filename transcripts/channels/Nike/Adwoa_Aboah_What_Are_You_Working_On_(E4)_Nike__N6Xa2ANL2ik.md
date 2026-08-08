@@ -1,0 +1,13 @@
+# Adwoa Aboah | What Are You Working On? (E4) | Nike
+
+- 영상 링크: https://www.youtube.com/watch?v=N6Xa2ANL2ik
+- 채널: Nike
+- 업로드일: 2022-03-17
+- 자막 언어: en
+- 단어 수: 약 466개
+
+---
+
+## 스크립트
+
+Since I got sober, I've been going on not only my personal journey, but also my career so, you know, all of that intertwined was actually kind of exhausting. It gets to the end of the day and I've given so much that I just want to be by myself. And that really doesn't leave time for family or friends and that's the thing that gives me the most energy. Are we filming? I spent all my years walking up this street. My godfather, who sadly isn't with us any more, he lived there. So I was always there. A boyfriend of mine used to live over there. Like, everywhere here is a memory of my life. (sings) Back to reality. Back to life, back to reality … (driver) What kind of f***ing driving is that?! (music plays) Gurls Talk was founded by me kind of being open about what I've been through and the journey that I was still on. Make sure Keira's still there to back that up with academic information … I feel very much connected to these girls. It's insane how they say something and it reminds me that I might have still some things that I haven't dealt with. I never feel rejected or have self-doubt. (phone footage) Today I'd like to welcome a very special hu-man to the (laughs) hu-man? … hu-man (laughs) I've always wanted to put my attention into acting. If I do it properly, hopefully it does connect me to people. Because that's what I do in Gurls Talk. We're all about like, storytelling. That's fine. I knew … So hopefully I'm able to do that in acting and I'm able to tell stories that people can really relate to. ... was this light that was just on all the time too. I'm such a weirdo and I like to keep everything. This stone, I just think it's a nice memory of a very happy time in my life. Can you show it to the other camera? (laughs) Everyone's like, "She collects rocks?" (laughs) Sometimes the object is like, almost signifies a particular person. It's like a respect for the journey, I suppose, and the important roles people have played in that. Sport is my moment to connect with me and that means I have an hour where I never look at my phone. I'm learning that being better for me … makes me better for them … if you get what I mean. It's just a moment to myself. It's an hour where I sweat and I focus on that one thing. I might have many like, faults and I'm not obviously perfect by any means. I just know what I need, family, friends and community is just key. Hey. Heya, how are you guys? (laughs)

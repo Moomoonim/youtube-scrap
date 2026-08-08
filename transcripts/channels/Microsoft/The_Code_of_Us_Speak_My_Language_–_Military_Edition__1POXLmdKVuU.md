@@ -1,0 +1,13 @@
+# The Code of Us: Speak My Language – Military Edition
+
+- 영상 링크: https://www.youtube.com/watch?v=1POXLmdKVuU
+- 채널: Microsoft
+- 업로드일: 2025-05-09
+- 자막 언어: en
+- 단어 수: 약 477개
+
+---
+
+## 스크립트
+
+Oh, is this like a, like a sack lunch? It's exactly a sack lunch. Yeah. So your food is terrible, too? Yeah. Yes. Well, it looks like they threw a couple cards in front of us and let's go ahead and take a look what they say on here. All right. “That thing is as useless as a football bat.” So I'm guessing that means something that has no use. It's just basically pointless. You are 100% spot on. And you have you have like a story behind it. Too many. I love that one. “No chitty, no pity.” I'm drawing a complete blank on this. Can you give me something? “No, chitty,.no pity.” It's medical related. I'll give you that. Oh, is it like, if you are sick, like, have a medical excuse, you get like a, like a sick call chit. Yeah. So if you don't have a chit from medical, nobody feels bad for what you have going on. Bang on. Yeah. Killing it. Yes! That's one for one. No pressure. All right. Your card to me says “Aim high, fly, fight, and win. As a United States Marine, we did not say “Aim high. fly, fight, and win.” It would be one of those things that your instructor would say to you to motivate you. It's pretty much the Air Force motto at that point, right? Sweet. Yeah. Something you got to ingrain in you You have to fly, fight, and win. Those are the like core objectives. “One more for Chesty” Is Chesty a person? Yes. Okay. Push up related? Could be. Okay. So, like, one more rep? Yeah. Its definitely that. It could be a hundred pushups, but it's like pushing past fatigue when you're already at your breaking point is like “One more for Chesty” I love that! Like that one more mile. now I use it because I do distance running. So now the “One more for Chesty” is my one more mile to keep pushing. That's incredible. I'm also training for a marathon that is going to. I'm going to remember that One more! I’m gonna remember that. I think my favorite today, Chris, would be that thing is as useless as a football bat. I think I need to keep that in mind as I go about my days in Microsoft at home. I'm going to use it with my children. I know. For me, I really like how there's a lot in common. Like, I had no idea what these things meant as I was reading them, but then when you tell me, like, I'm like, oh, like we have names for the same things. In any other context, outside of the military, like you don't need a name or a phrase for that, but we do. Yeah, yeah. 3...2...1... Yut! Nice. You stitched me up.

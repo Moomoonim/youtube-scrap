@@ -1,0 +1,13 @@
+# The Code of Us: Speak My Language – Asian and Pacific Islander Edition
+
+- 영상 링크: https://www.youtube.com/watch?v=KnD3ByFIDfs
+- 채널: Microsoft
+- 업로드일: 2025-05-02
+- 자막 언어: en
+- 단어 수: 약 434개
+
+---
+
+## 스크립트
+
+Okay, the potato one for sure. For sure. Just because potatoes are so iconic. so it looks like we have cards here so I’ll read the first one and try to guess “Like a monkey that found a coconut.” In my language, I think we have a very famous idiom Kōtiki kobbari cippa dorikinaṭlu Can you guess the meaning? I'm assuming monkeys like coconut. So in that case, it's a blessing. No, it's, not exactly It is kind of, obsessed with a new thing. Obsessed with a new thing? Yeah. Okay. This says don't drop the potato. You bet it does. my father's side, they're Cajun French and in Cajun French, you would say “Lache pas la patate!” and it directly means don't drop the potato. First of all, love this phrase. I’m gonna guess it means don't drop the ball Maybe you're running that 5K and I'll be “Lache pas la patate!” Oh like finish strong. Don't give up. Okay. I like that. I'm going to start using this. “If you develop jeong affection, it becomes your hometown.” It means in Korean jeongdeulmyeon gohyang-ida When you have jeong which means affection it becomes your hometown. hometown is like very close to everybody's heart, right? And if you love something it is as good as your hometown. Yes, that's exactly what it is. And, you know, when you think about Korean culture it’s all about K-pop, K-beauty. What people don't know is the K community that we have. So we have this jeong, which is the affection that brings people together. And that meant a lot to me, especially when I immigrated to U.S. when I was 11 with zero English and having the community there, they become my chosen family, that idiom speaks directly to my heart and strikes a deep chord. You're going to have to forgive me for my pronunciation, “yeppeuda” That was actually really close. it's pronounced “yeppeuda” the tonality of it is really important. usually you hear someone saying it “yeppeuda” So you're amazing. Pretty close. How big you've grown. These are all really close Do you want me to tell you? Yes, please. Yeah. It means cute. Ohhh It means cute in Korean. And so, even though I couldn't understand anything else that they were saying in Korean, I knew that they were calling me cute so through that one word, that was kind of how I felt closeness with my Korean relatives. You know, they still love you yeppeuda Yeah. It’s nice to remember idioms because they're a part of your culture and they're so unique Yeppeuda!
