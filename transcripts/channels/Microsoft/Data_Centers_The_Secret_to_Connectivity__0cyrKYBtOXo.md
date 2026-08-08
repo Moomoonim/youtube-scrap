@@ -1,0 +1,13 @@
+# Data Centers: The Secret to Connectivity
+
+- 영상 링크: https://www.youtube.com/watch?v=0cyrKYBtOXo
+- 채널: Microsoft
+- 업로드일: 2025-03-26
+- 자막 언어: en
+- 단어 수: 약 266개
+
+---
+
+## 스크립트
+
+5b419c8f-cde4-43df-8791-138a3159adb0-0 Streaming your favorite TV show, a first responder receiving a call, 5b419c8f-cde4-43df-8791-138a3159adb0-1 storing files in the cloud. b951d117-1488-4fc0-8328-3272273ea60b-0 These seemingly disparate tasks are connected by one thing, datacenters. 91d0202f-a5db-4601-8933-e279c344432f-0 Datacenters are the backbone of modern life, powering our everyday lives. 851a0a4a-beef-4f11-9572-283c5e46a7da-0 Datacenters run all day, every day to support the life saving work 851a0a4a-beef-4f11-9572-283c5e46a7da-1 of doctors, online education, mobile banking, 851a0a4a-beef-4f11-9572-283c5e46a7da-2 helping you accomplish more with AI, and yes, 851a0a4a-beef-4f11-9572-283c5e46a7da-3 almost everything else you may do on your smartphone. a7cce85e-5758-4a64-94a7-60feb1fd22cc-0 Our datacenters power the Microsoft Cloud where you can securely store your photos a7cce85e-5758-4a64-94a7-60feb1fd22cc-1 and documents, play Xbox games, video call with your family, a7cce85e-5758-4a64-94a7-60feb1fd22cc-2 and use apps from anywhere on any device. 73dfafd2-6d75-4c2b-94cf-b09cb31f0348-0 Within each datacenter, there are thousands of powerful computers, 73dfafd2-6d75-4c2b-94cf-b09cb31f0348-1 called servers, that allow your information to be ready 73dfafd2-6d75-4c2b-94cf-b09cb31f0348-2 whenever you need it, even if something unexpected happens, 73dfafd2-6d75-4c2b-94cf-b09cb31f0348-3 like a power outage. 4e0d5ff0-85b9-4b4b-9538-7f5fca1c5a59-0 Microsoft operates hundreds of datacenters around the world, 4e0d5ff0-85b9-4b4b-9538-7f5fca1c5a59-1 and because we know datacenters use energy and water, 4e0d5ff0-85b9-4b4b-9538-7f5fca1c5a59-2 sustainability is one of our top priorities here at Microsoft. 4e0d5ff0-85b9-4b4b-9538-7f5fca1c5a59-3 We are working hard to reduce our environmental impact, 4e0d5ff0-85b9-4b4b-9538-7f5fca1c5a59-4 and as part of our Datacenter Community Pledge, 4e0d5ff0-85b9-4b4b-9538-7f5fca1c5a59-5 we are committed to working closely with local communities to support a 4e0d5ff0-85b9-4b4b-9538-7f5fca1c5a59-6 sustainable future, create jobs and training programs, 4e0d5ff0-85b9-4b4b-9538-7f5fca1c5a59-7 and be a responsible neighbor. 1b47747c-de7f-423d-bea5-4138f67bd7a6-0 We all rely on datacenters to do the things we do every day. 7065fba1-0b6e-45a8-96b4-607bb8cba59f-0 So next time you're streaming your favorite show or managing your online 7065fba1-0b6e-45a8-96b4-607bb8cba59f-1 healthcare information, remember the datacenters behind the 7065fba1-0b6e-45a8-96b4-607bb8cba59f-2 scenes make it all possible.
