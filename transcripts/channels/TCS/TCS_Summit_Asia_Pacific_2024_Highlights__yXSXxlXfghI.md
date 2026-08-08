@@ -1,0 +1,13 @@
+# TCS Summit Asia Pacific 2024 Highlights
+
+- 영상 링크: https://www.youtube.com/watch?v=yXSXxlXfghI
+- 채널: TCS
+- 업로드일: 2024-11-27
+- 자막 언어: en
+- 단어 수: 약 469개
+
+---
+
+## 스크립트
+
+[Music] hello and welcome to the TCS Summit a Pacific 2024 now over the next 2 days we're going to be exploring what it takes to become a perpetually adaptable [Music] Enterprise so here we are at the TCS Summit 2024 the sun is shining and we're at tazoo Summit is always a special occasion and can't wait to hear all the good panels and speeches that are lined up for the next few days we live in times of great possibilities which means the opportunity for us to thrive and flourish as a society is there if we walk through the door look I love the summit to be honest I think I've been here for 3 years now um and I think I get something out of it every time I come down you know I think the Topic's really relevant particularly in a changing environment how does the organization change because of this technology the role of people the role of your work for us look I love a day like today cuz you get to meet lots of different people you see different panels I love a great debate on a panel so I love seeing different perspectives and and how people are taking on the different challenges across different Industries the AI panel just now that we had was incredibly insightful and gave some different perspectives I once a really difficult topic for me it was very interesting to see the different levels of adoption of AI in the different Industries we're all pretty clear today about the why and the what the bit that's challenging us still is the how do I go about about it this session is called pioneering the perpetually adaptable Enterprise there's lots of different balls that we're juggling from an industry perspective that one should Master the art of knowing when not to use gen not when to use gen what does the Energy System look like in 2030 when you no longer have coal in this system working with partners that can provide that difference is what we look for I had a lovely run by the harbor this morning with the indigenous Marathon Foundation we've been building the the running ecosystem around Sydney marathon and this this time it's become the TCS Sydney marathon it's become one of the world majors and we're very happy about that the one of the only Kathy Freeman is here I'm so excited to be talking with um Kathy Freeman and Kurt Fernley I mean they're two Idols of mine so really humbling to be a part of it to be honest once again thank you all of you're taking time and joining Summit 2024 look forward to staying with you and meeting you next year also thank you [Music]
