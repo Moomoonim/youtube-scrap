@@ -11,3 +11,8 @@
 - [The TRUTH About AI ROI: Insights from 2,500 Enterprise Use Cases](The_TRUTH_About_AI_ROI_Insights_from_2,500_Enterprise_Use_Ca__foUD4hh5nWU.md) (ko) — [원본](https://www.youtube.com/watch?v=foUD4hh5nWU)
 - [AI Fails at 96% of Jobs (New Study)](AI_Fails_at_96%_of_Jobs_(New_Study)__z3kaLM8Oj4o.md) (ko) — [원본](https://www.youtube.com/watch?v=z3kaLM8Oj4o)
 - [Agent for Enterprise Use Cases - Simplified and Detailed Explanation](Agent_for_Enterprise_Use_Cases_-_Simplified_and_Detailed_Exp__Cg2A3L58pY0.md) (ko) — [원본](https://www.youtube.com/watch?v=Cg2A3L58pY0)
+
+## 18:01 수집 (2개)
+
+- [Inflated Fake AI Demand! Is "This" the Start of a Bubble Burst?](Inflated_Fake_AI_Demand!_Is_This_the_Start_of_a_Bubble_Burst__M6M0Acb7sk8.md) (ko) — [원본](https://www.youtube.com/watch?v=M6M0Acb7sk8)
+- [No One to Hire Even with 400 Million Won Annual Salary: Big Tech Sweeps Up Carpenters (Understand...](No_One_to_Hire_Even_with_400_Million_Won_Annual_Salary_Big_T__V5H63JtO0_g.md) (ko) — [원본](https://www.youtube.com/watch?v=V5H63JtO0_g)
