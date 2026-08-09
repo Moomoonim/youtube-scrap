@@ -1,0 +1,13 @@
+# Aya Vision Challenge, Ep. 1
+
+- 영상 링크: https://www.youtube.com/watch?v=iQEd0KkXnPg
+- 채널: Cohere
+- 업로드일: 2025-03-04
+- 자막 언어: en
+- 단어 수: 약 499개
+
+---
+
+## 스크립트
+
+[Music] oh what wait this is so cool wait so these are earrings this is oo beautiful W interesting some nice earrings I'll be able to immediately try them on but the that's okay ooh so it's um some Gordon nice nice some tuna Maple syub they heard you were hungry oh wow okay well this is nice Daniel thank you so this says Amo pasteurized butter and the question I have is where is this butter brand from you're a master chef design a dish with all of these ingredients this is very interesting so I mean you can you can um cook the corn okay like in a pan glaze it with some Maple Sy now we're talking okay and then you can have some feta cheese and some uh cherry tomatoes yes um that actually won't right maybe some some green leaves and the tuna okay I will do that yeah okay there's hope here what are these describe an outfit that these would look good with it says wear an outfit that it would look good with describe it does not say that it does not say that okay it says describe an outfit okay I have a terrible sense of fion especially when it comes to earpieces you know I don't are you admitting defeat to Eye of vision before the challenge is on I I mean these look fancy right they're they're shiny so maybe a more highend fit let's see what aat Vision says so here we go okay so it is a well-known Indian Dairy brand it was founded in 1946 by a group of Dairy Farmers in gliter at India yeah so thank you Daniel amazing I appreciate yes thank you let me take a picture what can you cook with these ingredients so oh it's it's good uh maple glazed corn this is what you said I said that um I don't know how the tuna is going to be involved in these I can think about these later I Happ to know what these are and his answer is very close I mean is war in like traditional like cultural Gatherings it's you versus I have Vision so I mean but but but you know sorry buddy Daniel will be the referee moment of truth moment of truth I mean the earrings in the image are a pair of gold colored ornate dangling earrings with a H with a junka style junas yeah Juna style what is this Daniel um junas are these really pretty um earrings that are worn in uh with highend fits but in um traditional attire uh with really bright colors tradan I also said traditional SL in cultural year no I didn't say no I said I said it and said right we all got great gifts so nice gift from shal there thanks shaval I don't think I'll wear it but I appreciate it cool thanks for all our gifts nice [Music]
