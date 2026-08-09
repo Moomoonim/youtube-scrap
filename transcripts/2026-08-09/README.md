@@ -16,3 +16,7 @@
 
 - [Inflated Fake AI Demand! Is "This" the Start of a Bubble Burst?](Inflated_Fake_AI_Demand!_Is_This_the_Start_of_a_Bubble_Burst__M6M0Acb7sk8.md) (ko) — [원본](https://www.youtube.com/watch?v=M6M0Acb7sk8)
 - [No One to Hire Even with 400 Million Won Annual Salary: Big Tech Sweeps Up Carpenters (Understand...](No_One_to_Hire_Even_with_400_Million_Won_Annual_Salary_Big_T__V5H63JtO0_g.md) (ko) — [원본](https://www.youtube.com/watch?v=V5H63JtO0_g)
+
+## 22:14 수집 (1개)
+
+- [상위 1% 고수들만 안다는 챗GPT의 숨은 기능 '3가지'ㅣ지식인초대석 EP.34 (김덕진 교수 1부)](상위_1%_고수들만_안다는_챗GPT의_숨은_기능_'3가지'ㅣ지식인초대석_EP.34_(김덕진_교수_1부)__YPa1B7AJ_zI.md) (ko) — [원본](https://www.youtube.com/watch?v=YPa1B7AJ_zI)
