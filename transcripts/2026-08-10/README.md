@@ -1,0 +1,11 @@
+# 2026-08-10 AX 스크립트 수집 결과
+
+## 01:52 수집 (7개)
+
+- [AI버블 붕괴가 IT버블보다 더 무서운 이유, 그것은 현실이기 때문이다](AI버블_붕괴가_IT버블보다_더_무서운_이유,_그것은_현실이기_때문이다__2lQdPkxT2C8.md) (ko) — [원본](https://www.youtube.com/watch?v=2lQdPkxT2C8)
+- [[AI반도체상황] "뻔한 걸 '할인할 때' 사야 합니다"…지금 삼성·하이닉스 어떻게 봐야 하나, AI 데이터센터에 숨겨진 비밀 / 교양이를 부탁해 ✦통합본✦]([AI반도체상황]_뻔한_걸_'할인할_때'_사야_합니다…지금_삼성·하이닉스_어떻게_봐야_하나,_AI_데이터센터__RPF4G5jH8bc.md) (ko) — [원본](https://www.youtube.com/watch?v=RPF4G5jH8bc)
+- [AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석](AI_데이터센터,_짓는대로_돈_된다…_SpaceX가_서둘러_10GW_데이터센터_건설_하는_이유!_Micros__wGxYJRtncEk.md) (ko) — [원본](https://www.youtube.com/watch?v=wGxYJRtncEk)
+- [1장. 90% AI가 실패하는 이유](1장._90%_AI가_실패하는_이유__PmdMWD_3hz4.md) (ko) — [원본](https://www.youtube.com/watch?v=PmdMWD_3hz4)
+- [I'll teach you everything about Vibe Coding in just 15 minutes | Concepts, Tools, and Usage - [Co...](I'll_teach_you_everything_about_Vibe_Coding_in_just_15_minut__TImjZnT87ys.md) (ko) — [원본](https://www.youtube.com/watch?v=TImjZnT87ys)
+- [The AI Adoption Crisis: Why $37 Billion in Enterprise Spending Isn't Moving the Needle](The_AI_Adoption_Crisis_Why_$37_Billion_in_Enterprise_Spendin__Tc8aL-bc92Q.md) (ko) — [원본](https://www.youtube.com/watch?v=Tc8aL-bc92Q)
+- [Episode 2 -  AI Opportunity Assessment: From Use Cases to ROI](Episode_2_-_AI_Opportunity_Assessment_From_Use_Cases_to_ROI__zWQ5r3VPth8.md) (ko) — [원본](https://www.youtube.com/watch?v=zWQ5r3VPth8)

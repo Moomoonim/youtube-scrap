@@ -1,0 +1,13 @@
+# AMD Ryzen AI – Empowering Creators with HP and Blackmagic
+
+- 영상 링크: https://www.youtube.com/watch?v=8wsQb47YlJU
+- 채널: AMD
+- 업로드일: 2024-12-06
+- 자막 언어: en
+- 단어 수: 약 443개
+
+---
+
+## 스크립트
+
+My name is Goldie Soetianta. I'm a cinematographer, producer and colorist from Sydney, Australia. I started out in visual art, music and costuming. But I fell in love with cinematography and now I make a living out of it. I love really over the top maximalist aesthetics. You know, really feminine, beautiful, soft images. I like really striking, dark, moody, contrasty, sci-fi, period horror. There's so many things I like, I just, I hate boring. Deerstalker Pictures is a YouTube channel and production company that I set up with my partner. We started doing our own original series called 1 For All. What I really wanna be doing is creating. That's where the magic happens. I'm always looking for more ways to find that. Blackmagic Design has always had my back on set. I love the integration of the cameras and the software. I've got my Ursa Mini Pro G2 camera for production and DaVinci Resolve Studio for all things post. It's just seamless. With AMD Ryzen's AI capabilities powering it, it's a literal game changer. Its built-in neural processing engine helps manage my AI workloads so that I can focus on what matters most. Ryzen AI isn't just incredibly powerful for its graphics capabilities, but with the world's most powerful neural processing engine for next-gen AI PCs, it can handle AI workloads now and in the future. The result is my HP Omnibook Ultra gives me the nimble portability I need and with an all-day battery life. Take the magic mask in DaVinci Resolve Studio. In the past, rotoscoping, it was painstakingly slow, but now I set up a few nodes and boom. This sort of AI is going to help creators create better. I would have to do multiple windows to clean up faces for close-ups, but with Face Refinement Tool, it's all in one node that's automatically face tracked and is just so time-saving. Back in the day, I'd have to be in a dedicated suite to do this, but right now I'm ordering cake and plan to work here all day, unplugged. Social media content these days is all about vertical video. So with the Smart Reframe Tool, we can reframe our episodes for socials automatically. As a filmmaker today, knowing that I have all the tools that I need in my backpack, in my laptop, that frees me up to go on location recces, go travel, and still be able to deliver quality product in a more efficient timeframe. This ecosystem has changed the way I create in ways I couldn't have imagined. AMD Ryzen AI, HP, and Blackmagic Design together, absolute game changer for creatives like me.

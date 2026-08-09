@@ -1,0 +1,13 @@
+# How Bosch Rexroth's BPM Community Empowers People and Integrates Tools with SAP Toolchain
+
+- 영상 링크: https://www.youtube.com/watch?v=ks-F5pNpON4
+- 채널: SAP
+- 업로드일: 2026-03-24
+- 자막 언어: en
+- 단어 수: 약 389개
+
+---
+
+## 스크립트
+
+We do not engage in process management for its own sake. We do it to master complexity. To draw the right conclusions and ultimately to make better decisions. To give you a rough idea, we have a sales and service network throughout 80 countries, as well as 49 manufacturing locations and customizing sites in 22 countries with around 32,600 associates. We generated sales revenue of about €6.5 billion in 2020. For the implementation of SAP S/4HANA is not only technically necessary, but also strategically required to utilize new functionalities such as artificial intelligence and to ensure a future proof setup of our company. We are developing a global template that challenges the status quo with a main purpose of process harmonization on one side and implementation as close as possible to the SAP standard on the other side. As one of the major drivers is process harmonization, we decided to use scenario to support and enable us on this endeavor. The processes that we have designed in scenario service blueprints for discussions with our developers and process experts, which helps to avoid misunderstandings between business and IT. Having the processes clearly mapped and easy follow for everyone reduces errors and saves time when defining business net requirements by mainly sticking to SAP standard system wise, we are also aiming for best practices that can be shared with other countries. SAP Signavio is a game changer for us during our S/4HANA transformation. It gives us a clear picture of our business processes and IT setup, which really speeds up how we design and get approvals for our processes. The return on investment comes not only from potentially saved hours, but also from increased flexibility, accelerated responsiveness and enhanced scalability of our business. Furthermore, we don't handle Signavio as an isolated solution, but use it as an integrated part of our overall toolchain. Starting with Linux, supporting Enterprise Architecture Management via Signavio for Business Process Management, which then integrates with the solution manager for our test management. Breaking down these silos in our thinking and seeing how everything is interconnected was interesting to see and incredibly powerful. This turn process management from a theoretical exercise into something living that everyone understands. By doing this, we support our overall Bosch Rexroth purpose. We move industries to make our planet a better place.

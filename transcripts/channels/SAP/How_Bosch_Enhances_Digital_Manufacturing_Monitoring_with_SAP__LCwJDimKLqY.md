@@ -1,0 +1,13 @@
+# How Bosch Enhances Digital Manufacturing Monitoring with SAP Cloud ALM
+
+- 영상 링크: https://www.youtube.com/watch?v=LCwJDimKLqY
+- 채널: SAP
+- 업로드일: 2026-03-16
+- 자막 언어: en
+- 단어 수: 약 446개
+
+---
+
+## 스크립트
+
+My name is Laszlo Soares. I work for, Bosch since 2020 2nd September. Our first SAP digital manufacturing project went live in November, also 2022. My role is integration manager. Hence also we came along Claudia Lim and beside that we have rolled out SAP DMs since 2022 on 25 locations, 25 different lines, and we run around 300,000 processes every day. So with Claudia Lim, we are addressing our monitoring challenges for SAP PDM. From the beginning of SAP, then we always had issues with the monitoring. In that time, DLM was also not offering alerting. So at some point in 2023, SAP came to us and has recommended Claudia Lamb as an interpretive solution. As SAP, Zdm at the beginning was not covering these functions. Hence SAP recommended Claudia Lim and we started using it already. 2023 was our first initial use of it, but then gradually DLM was more and more included in Claudia Lamb, and we also started to use those functions. Claudia LM has helped us improved our monitoring and alerting. This has improved very much in our group. The service and support. We are giving the service to our customers and we also give the support. Hence, since Claudia Lamb is available in our tenant since 2023, we can see with the integration and exception monitoring, we reduced our working load to with 2,030% and when eventually also job and automation was available, we could reduce down to 50%. And we are eagerly expecting real user monitoring and health. And when this will be available, then we can say our workload is 90% reduced. So this is a direct impact, not only on our working time, it's also gives us a faster service, faster support. And then this support eventually also leads that our production lines can go live much faster. We are expecting from Claudia Lamb the remaining features for them to be integrated. We are waiting eagerly for the real user monitoring. Real user monitoring will help us again reduce a little bit our workload. We have requested also some extra features for the other types of monitoring which are offered by Claudia Lamb when those will be available. That too we can say we are very happy and glad to use Claudia Lamb. We would recommend Claudia Lamb to be used intensely with DDM. This is also our use case. We use it almost every day. Actually, we use it every day and it has a direct impact on our service and support. We can see clearly that it has improved our response times and our ticket response time generally. Also, in the interaction with the SAP.
