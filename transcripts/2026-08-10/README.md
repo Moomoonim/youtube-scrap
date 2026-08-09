@@ -9,3 +9,8 @@
 - [I'll teach you everything about Vibe Coding in just 15 minutes | Concepts, Tools, and Usage - [Co...](I'll_teach_you_everything_about_Vibe_Coding_in_just_15_minut__TImjZnT87ys.md) (ko) — [원본](https://www.youtube.com/watch?v=TImjZnT87ys)
 - [The AI Adoption Crisis: Why $37 Billion in Enterprise Spending Isn't Moving the Needle](The_AI_Adoption_Crisis_Why_$37_Billion_in_Enterprise_Spendin__Tc8aL-bc92Q.md) (ko) — [원본](https://www.youtube.com/watch?v=Tc8aL-bc92Q)
 - [Episode 2 -  AI Opportunity Assessment: From Use Cases to ROI](Episode_2_-_AI_Opportunity_Assessment_From_Use_Cases_to_ROI__zWQ5r3VPth8.md) (ko) — [원본](https://www.youtube.com/watch?v=zWQ5r3VPth8)
+
+## 05:50 수집 (2개)
+
+- [Automate your entire Agent Development Lifecycle using Gemini Enterprise](Automate_your_entire_Agent_Development_Lifecycle_using_Gemin__81qWbN8Xj_s.md) (ko) — [원본](https://www.youtube.com/watch?v=81qWbN8Xj_s)
+- [How I Sold These 4 AI Agents for $23,000 (as a beginner)](How_I_Sold_These_4_AI_Agents_for_$23,000_(as_a_beginner)__HNKlFTd1maM.md) (ko) — [원본](https://www.youtube.com/watch?v=HNKlFTd1maM)

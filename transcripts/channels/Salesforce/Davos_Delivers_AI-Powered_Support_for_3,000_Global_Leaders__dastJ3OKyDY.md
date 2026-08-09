@@ -1,0 +1,13 @@
+# Davos Delivers AI-Powered Support for 3,000 Global Leaders
+
+- 영상 링크: https://www.youtube.com/watch?v=dastJ3OKyDY
+- 채널: Salesforce
+- 업로드일: 2025-08-21
+- 자막 언어: en
+- 단어 수: 약 439개
+
+---
+
+## 스크립트
+
+Davos is a magical place. It is where we bring together a lot of the different leaders from around the world, people on the front lines of change-making. Everyone comes together to learn from each other and to also exchange different points of view. The town isn’t designed for the entirely ginormous influx of people that show up, and there’s only a certain amount of our staff that are there to support. And the queues at these information desks, it’s terrifying. When you’re on the run and all you’ve got is your mobile phone, you can’t open 67 different PDFs and search for the information that you need. It’s high stress and it’s also high stakes. And the clear decision from the beginning was always to use Salesforce at the Forum. Over the last couple of years, we rebuilt what we call our events companion, which is our app. One of the key problems that we were looking to solve was being able to surface and have the right information for our constituents on hand during that very busy Davos week. The mission for this app was for it to be a lot more capable than the previous experience. At no point in the process were we are alone in this. We had the support of a dedicated Salesforce team guiding us in the right direction. Because of the confidence and familiarity that we already have with the Salesforce CRM, the opportunity to build an AI-powered app just made complete sense. And so we’ve implemented Agentforce as a quick way to gather information, find information, and really act on the most important parts of these experiences, which is finding the right content and finding the right people. So Agentforce is a staff member that doesn’t sleep, and can answer questions and perform actions on your behalf. So it’s digital way of scaling your team. Data Cloud was key for our implementation of Agentforce because it allowed us to gather data from several sources and then leverage that data from the agent. We like the fact that there is a foundational trust layer that is embedded across all the different applications of Salesforce. We used Agentforce to be able to help people on demand 24/7. No matter where they are, they had that information at their fingertips without needing to wait or hunt. It did quite well. It resolved 75% of user inquiries. And over 70% of those in under 10 seconds. This is priceless for us in an environment where every minute counts and the right meeting at the right time could change the lives of millions of people.
