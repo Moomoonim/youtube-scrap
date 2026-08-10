@@ -1,0 +1,13 @@
+# Play with Coldplay
+
+- 영상 링크: https://www.youtube.com/watch?v=tBIVpUCZeVA
+- 채널: Microsoft
+- 업로드일: 2025-01-22
+- 자막 언어: en
+- 단어 수: 약 448개
+
+---
+
+## 스크립트
+
+BEN MOR: A Film For The Future is a very ambitious idea that team Coldplay came up with. [ MUSIC ] SAM SEAGER: It's a semi-curated approach. There's about a hundred or more amazing content creators, directors, animators who've worked on it and it's a response to the album through the lens of many, many different collaborators. [ MUSIC ] BEN MOR: They've only heard their 15 second clip, so they have no idea what the full song sounds like. They have no idea who's before them, who's after them creatively. We're the only ones that are kind of bird's eye view of everything. [ MUSIC ] SAM SEAGER: Give them some broad themes, but really for them to run with it and come up with a visual they felt represented the music. [ Music ] That whole approach stems from the band's idea of showcasing people's individuality. [ Music ] BEN MOR: Coldplay, if you're a fan of Coldplay, you know, they've always been really champions of animation and this was a chance to do it on power of 100. [ Music ] SAM SEAGER: For Coldplay, there's always a desire to make the fan experience as part of it. [ Music ] Not only have fans submitted content, which will be part of the remix experience, but fans are able to kind of in real time engage with the piece of content that they created with that remix. They're prompting using lyrics from the album, and they're choosing colors on the spectrum, which draws from the album artwork. ROBBY INGEBRETSON: This album has sort of a rainbow theme to it, and so we grabbed onto that idea, and we chose each color in the rainbow and asked AI to analyze the lyrics from the album and sort of map the lyrical content to a color. SAM SEAGER: So as we discussed the project, it became clear that that technology was there, and it could be done in a way that was sensitive to the content that's being created by all these animators and filmmakers. ROBBY INGEBRETSON: We're using Azure Video Analyzer, and we run all these clips through that and literally within minutes we're getting a huge amount of information about what content is contained into those clips, information like color, motion. BEN MOR: I think it's all a really great marriage of creativity and technology because the fans are actually getting to create a living time capsule, I call it. SAM SEAGER: Anyone could visit the site and be able to interact with that amazing collection of visuals. It's a really exciting opportunity for people to put their own imprint on it. [ MUSIC ]
