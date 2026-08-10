@@ -20,3 +20,8 @@
 - [구글 AI의 전설들이 회사를 떠나고 있습니다 - 김덕진 IT커뮤니케이션 연구소 소장](구글_AI의_전설들이_회사를_떠나고_있습니다_-_김덕진_IT커뮤니케이션_연구소_소장__K-tBhnv9-bs.md) (ko) — [원본](https://www.youtube.com/watch?v=K-tBhnv9-bs)
 - [이번 AI를 이해하려면 ‘이 기업’을 봐야 합니다(레그넘 투자자문 이춘광 대표)](이번_AI를_이해하려면_‘이_기업’을_봐야_합니다(레그넘_투자자문_이춘광_대표)__SAXENmgv7pI.md) (ko) — [원본](https://www.youtube.com/watch?v=SAXENmgv7pI)
 - [On the US Blacklist: Emails and Credit Cards All Blocked (Economic Reporter Ha Soo-jung)](On_the_US_Blacklist_Emails_and_Credit_Cards_All_Blocked_(Eco__cUWLhUHh-v0.md) (ko) — [원본](https://www.youtube.com/watch?v=cUWLhUHh-v0)
+
+## 22:41 수집 (2개)
+
+- [KOSPI Still Upward in Second Half… 'US Treasuries' Holding AI's Funding Channel Are the Last Vari...](KOSPI_Still_Upward_in_Second_Half…_'US_Treasuries'_Holding_A__wEnMi8VoF3s.md) (ko) — [원본](https://www.youtube.com/watch?v=wEnMi8VoF3s)
+- [Why Most AI Initiatives Fail: Lessons From Real Enterprise AI Deployments](Why_Most_AI_Initiatives_Fail_Lessons_From_Real_Enterprise_AI__8d8zdnxe-W4.md) (ko) — [원본](https://www.youtube.com/watch?v=8d8zdnxe-W4)
