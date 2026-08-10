@@ -14,3 +14,9 @@
 
 - [Automate your entire Agent Development Lifecycle using Gemini Enterprise](Automate_your_entire_Agent_Development_Lifecycle_using_Gemin__81qWbN8Xj_s.md) (ko) — [원본](https://www.youtube.com/watch?v=81qWbN8Xj_s)
 - [How I Sold These 4 AI Agents for $23,000 (as a beginner)](How_I_Sold_These_4_AI_Agents_for_$23,000_(as_a_beginner)__HNKlFTd1maM.md) (ko) — [원본](https://www.youtube.com/watch?v=HNKlFTd1maM)
+
+## 18:46 수집 (3개)
+
+- [구글 AI의 전설들이 회사를 떠나고 있습니다 - 김덕진 IT커뮤니케이션 연구소 소장](구글_AI의_전설들이_회사를_떠나고_있습니다_-_김덕진_IT커뮤니케이션_연구소_소장__K-tBhnv9-bs.md) (ko) — [원본](https://www.youtube.com/watch?v=K-tBhnv9-bs)
+- [이번 AI를 이해하려면 ‘이 기업’을 봐야 합니다(레그넘 투자자문 이춘광 대표)](이번_AI를_이해하려면_‘이_기업’을_봐야_합니다(레그넘_투자자문_이춘광_대표)__SAXENmgv7pI.md) (ko) — [원본](https://www.youtube.com/watch?v=SAXENmgv7pI)
+- [On the US Blacklist: Emails and Credit Cards All Blocked (Economic Reporter Ha Soo-jung)](On_the_US_Blacklist_Emails_and_Credit_Cards_All_Blocked_(Eco__cUWLhUHh-v0.md) (ko) — [원본](https://www.youtube.com/watch?v=cUWLhUHh-v0)
