@@ -98,6 +98,7 @@ def collect_channels(args, seen, seen_path):
         ch_dir = os.path.join(config.OUTPUT_DIR, "channels", slugify(name, 40))
         saved_ch = 0
         attempts_ch = 0
+        caption_fail_ch = 0  # 건강한 응답인데 자막만 실패한 연속 횟수(채널 단위)
 
         for entry in entries:
             if args.limit and total_saved >= args.limit:
@@ -143,10 +144,21 @@ def collect_channels(args, seen, seen_path):
                     # 진짜 '자막 없음' — 기록해 다시 시도하지 않음
                     seen[vid] = {"title": title, "channel": name,
                                  "status": "no_subs", "fetched_at": args.today}
-                else:
-                    # 응답 제한(PO토큰/차단) 의심 — 재시도 대상
-                    suspect += 1
+                elif healthy:
+                    # [2026-08-11 수정] 추출은 건강한데 자막만 실패 = 세션 문제가
+                    # 아니라 이 채널 콘텐츠 특성일 가능성 — 채널 단위로만 세고,
+                    # 연속되면 이 채널만 건너뛴다(전역 중단 금지).
+                    # (기존엔 앞 채널의 자막 실패 12회가 표적 채널 도달 전에
+                    #  실행 전체를 죽였음 — fetch_channels.py와 동일한 버그)
+                    caption_fail_ch += 1
                     log(f"  자막 취득 실패(재시도 예정): {title}")
+                    if caption_fail_ch >= 5:
+                        log(f"  {name}: 자막 실패 연속 {caption_fail_ch}회 — 이 채널만 건너뛰고 다음 채널로")
+                        break
+                else:
+                    # 화질 정보까지 비어 있으면 진짜 세션 문제(PO토큰/차단) 의심
+                    suspect += 1
+                    log(f"  자막 취득 실패(세션 의심): {title}")
                     if suspect >= SUSPECT_LIMIT:
                         log("🔴 자막 취득이 연쇄 실패 중 — 안전 중단합니다.")
                         save_seen(seen_path, seen)
@@ -156,6 +168,7 @@ def collect_channels(args, seen, seen_path):
 
             # --- 성공 ---
             suspect = 0
+            caption_fail_ch = 0
             os.makedirs(ch_dir, exist_ok=True)
             write_channel_file(ch_dir, vid, title, name, upload_date, lang, text)
             seen[vid] = {"title": title, "channel": name, "lang": lang,
