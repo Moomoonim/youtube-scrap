@@ -1,0 +1,81 @@
+name: Fetch One Channel
+
+# 특정 채널 하나를 지정해 즉시 백필하는 수동 워크플로.
+# (정기 수집은 셔플 순회라 특정 채널 차례를 기다려야 함 — 이건 표적 수집용)
+on:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "config.CHANNELS의 채널 이름(부분 일치, 예: IBM)"
+        required: true
+        default: "IBM"
+      limit:
+        description: "이번 실행 최대 저장 개수"
+        required: false
+        default: "120"
+      pace:
+        description: "영상 간 지연(초)"
+        required: false
+        default: "5"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: 표적 수집 실행
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+          YT_COOKIES: ${{ secrets.YOUTUBE_COOKIES || secrets.YOUTUBE }}
+          CHANNEL: ${{ inputs.channel }}
+          LIMIT: ${{ inputs.limit }}
+          PACE: ${{ inputs.pace }}
+        run: |
+          set -e
+          git clone --depth 1 --branch "$BRANCH" \
+            "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" repo
+          cd repo
+
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s' "$YT_COOKIES" > cookies.txt
+            export COOKIES_FILE="$PWD/cookies.txt"
+          fi
+
+          python3 -m pip install --upgrade pip
+          python3 -m pip install -r requirements.txt
+
+          # 자동 자막용 PO 토큰 제공기
+          docker run -d --name bgutil-pot -p 4416:4416 \
+            brainicism/bgutil-ytdlp-pot-provider || echo "경고: PO 제공기 시작 실패"
+          python3 -m pip install bgutil-ytdlp-pot-provider
+          sleep 5
+
+          # 표적 채널 수집 (로컬 수집기를 러너에서 재사용)
+          python3 fetch_local.py --channel "$CHANNEL" \
+            --limit "$LIMIT" --pace "$PACE" --max-attempts 200
+
+          # 분석 갱신
+          python3 classify.py
+          python3 classify_v2.py
+          python3 summarize.py
+          python3 extract_cases.py
+
+          # 커밋 & 푸시
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add transcripts analysis
+          if git diff --staged --quiet; then
+            echo "새로 추가된 스크립트가 없습니다."
+          else
+            git commit -m "chore: $(date -u +%Y-%m-%d) 표적 수집(${CHANNEL})"
+            for i in 1 2 3; do
+              git pull --rebase -X theirs origin "$BRANCH" || git rebase --abort || true
+              if git push origin "$BRANCH"; then break; fi
+              sleep 5
+            done
+          fi
