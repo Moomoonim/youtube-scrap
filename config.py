@@ -99,6 +99,7 @@ CHANNELS = {
     "Apple": "@Apple",
     "Apple Developer": "@AppleDeveloper",
     "IBM Technology": "@IBMTechnology",
+    "IBM": "@IBM",                             # [추가 2026-08-03] 본사 코퍼레이트 채널(기술 채널과 별도)
     "Oracle": "@Oracle",
     "Salesforce": "@Salesforce",
     "SAP": "@SAP",
