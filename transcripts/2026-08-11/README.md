@@ -4,3 +4,7 @@
 
 - [[미주은의 미국주식 인사이트] AI 수혜주, 지금 팔면 안 되는 '두 번째 이유' / 미주은 탑픽 18종목 업데이트 / AI 수혜주, 이제는 이 종목에 주목하라!]([미주은의_미국주식_인사이트]_AI_수혜주,_지금_팔면_안_되는_'두_번째_이유'_미주은_탑픽_18종목_업데__uIEbfh3tO10.md) (ko) — [원본](https://www.youtube.com/watch?v=uIEbfh3tO10)
 - [[마켓뉴스NOW] 인텔, 150억달러 유증 구조조정서 투자로 전환 | Market Now 1 (20260811)]([마켓뉴스NOW]_인텔,_150억달러_유증_구조조정서_투자로_전환_Market_Now_1_(20260811)__yIi0lidayF4.md) (ko) — [원본](https://www.youtube.com/watch?v=yIi0lidayF4)
+
+## 14:21 수집 (1개)
+
+- [Misconceptions of Forward Deployed Engineering (FDE)](Misconceptions_of_Forward_Deployed_Engineering_(FDE)__sidBNmI0iew.md) (ko) — [원본](https://www.youtube.com/watch?v=sidBNmI0iew)
