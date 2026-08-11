@@ -1,0 +1,13 @@
+# NVIDIA Blackwell: Made in America, Made for the World
+
+- 영상 링크: https://www.youtube.com/watch?v=2L5dJlXNVB8
+- 채널: NVIDIA
+- 업로드일: 2025-10-28
+- 자막 언어: en
+- 단어 수: 약 395개
+
+---
+
+## 스크립트
+
+The age of AI has begun. Blackwell is [music] its engine, an engineering marvel. In Arizona, it starts as a blank silicon wafer. Hundreds of chip processing [music] and ultraviolet lithography steps build up each of the 200 [music] billion transistors layer by layer on a 12in wafer. In Indiana, HBM stacks [music] will be assembled in parallel. HBM memory dies with 1,024 IO's are fabricated using advanced EUV technology through silicon via is used in the back end to connect [music] 12 stacks of HBM memory and base dye to produce HBM. Meanwhile, the wafer is scribed into individual Blackwell dye, tested and sorted, separating the good dyes to move forward. The chip on wafer on substrate process [music] attaches 32 Blackwell dyes and 128 HPM stacks on [music] a custom silicon interposer wafer. Metal interconnect traces are etched directly into it, connecting Blackwell GPUs and HBM stacks into each system and package unit, locking everything into place. Then the assembly is baked, molded, and cured, creating the GB300 Blackwell Ultra Super Chip. In Texas, robots will [music] work around the clock to pick and place over 10,000 components onto the Grace Blackwell PCB. In California, Connect X8 Supernix for scaleout communications and Bluefield 3 DPUs for offloading and accelerating networking, storage, and security are carefully assembled into GB300 compute trays. MVLink [music] is the breakthrough high-speed link that Nvidia invented to connect multiple GPUs and scale up into a [music] massive virtual GPU. The MVLink switch tray is constructed with [music] MVLink switch chips providing 14.4 terabytes per second of all to all bandwidth. MVLink spines form a custom blindmated back plane with 5,000 [music] copper cables connecting all 72 black wells or 144 GPU diese into one giant GPU delivering 130 terabytes per second of all toall bandwidth. nearly the global internet's peak traffic. Skilled technicians assemble each of these parts into a rack scale AI supercomput. In total, 1.2 2 million components, 2 miles of copper cable, 130 trillion transistors, weighing nearly 2 tons. From silicon in Arizona and Indiana to systems in Texas, Blackwell and future NVIDIA AI factory generations will be built in America, writing a new chapter in American history and industry. America's return to making and reindustrialization [music] reignited by the age of AI. The age of AI has begun. Made in America. Made for the world.
