@@ -1,0 +1,13 @@
+# Pioneering Climate Tech and Mitigating the Impact of Natural Disasters
+
+- 영상 링크: https://www.youtube.com/watch?v=nmClgb8CZRw
+- 채널: NVIDIA Developer
+- 업로드일: 2024-02-28
+- 자막 언어: en
+- 단어 수: 약 426개
+
+---
+
+## 스크립트
+
+CSIRO has been working in weather and climate forecasting for many decades. We have a long history of involvement in it. We created some of the first CO2 monitoring stations. We run and develop our own fully coupled climate model, the access model. And we have a large group of people working on the impacts of climate change trying to understand how they will impact the Australian community. For me, with a background in climate and weather, I decided to start to investigate how I could apply AI and and machine learning to to climate and weather problems. One of the key breakthroughs was using convolutional neural networks. That allowed us to undertake weather forecasting with a great deal of accuracy and to also dramatically speed up our ability to do these forecasts, which means that we can then run ensembles to better quantify the uncertainty and what the range of possibilities are. I'm currently working on developing a new model for forecasting the El Niño phenomena, forecasting the entire sea surface temperature, so we can actually look at any indicator. But one of my key focuses is the ENSO index because it's so important for helping us understand the impacts of climate change and the ENSO cycle. And what we've discovered is that while previously you could you could get an accurate forecast of ENSO only out to about 6 months with our techniques based on machine learning and AI, we're now looking at 24 months. And we can see some degree of information still coming out almost out to 36 months. We had a town Lismore that was flooded 2 years in a row. And so, if we understood what was happening with ENSO and what the risks were, we might have been able to anticipate it better, plan for it, and help reduce the impacts on property and people. And I think with the initial breakthroughs that we've been able to make in understanding how we can use GP technology machine learning to advance our understanding of climate, we've only seen a growth in the number of researchers who want to undertake that work. So, the community is growing rapidly and the focus on this area is growing rapidly, and I expect to see an enormous boom in activity in this area. It's almost certain that the work that we've been doing is is is going to be transformative for weather and climate science, and we're going to see really an exponential growth in the in the in the interest in this field.

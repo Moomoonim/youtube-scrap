@@ -119789,5 +119789,840 @@
     "lang": "en",
     "upload_date": "20240327",
     "fetched_at": "2026-08-11"
+  },
+  "MehBUQtb9qM": {
+    "title": "How to Connect Two DGX Sparks with NVIDIA Sync",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20260811",
+    "fetched_at": "2026-08-12"
+  },
+  "2Tskr8an1oE": {
+    "title": "How to Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20260811",
+    "fetched_at": "2026-08-12"
+  },
+  "Lhy1Bu8fN8A": {
+    "title": "Run NVIDIA Nemotron 3.5 Lightning on DGX Spark",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20260811",
+    "fetched_at": "2026-08-12"
+  },
+  "hswNSZTvEFE": {
+    "title": "JETSON AI LAB | Interactive Voice Chat with Llama-2-70B on Jetson Orin",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240327",
+    "fetched_at": "2026-08-12"
+  },
+  "WBK5pmQDquw": {
+    "title": "NVIDIA 6G Research Cloud Platform",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240325",
+    "fetched_at": "2026-08-12"
+  },
+  "ugWFg8arAGE": {
+    "title": "Upgrading your DLS from 2.x to 3.x",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240325",
+    "fetched_at": "2026-08-12"
+  },
+  "GPsQAKq02lc": {
+    "title": "Scaling AI-Powered Smart Spaces with NVIDIA DeepStream SDK",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240322",
+    "fetched_at": "2026-08-12"
+  },
+  "yZtSS3980z4": {
+    "title": "LATTE3D Text-to-3D Generative AI Model from NVIDIA Research",
+    "channel": "NVIDIA Developer",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "J9cyTHsQx-0": {
+    "title": "How To Generate Novel Proteins with NVIDIA BioNeMo Service",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240319",
+    "fetched_at": "2026-08-12"
+  },
+  "Wne-jIu0ZJI": {
+    "title": "Building a Virtual Drug Screening Workflow with BioNeMo",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240319",
+    "fetched_at": "2026-08-12"
+  },
+  "TakFrj_DMS8": {
+    "title": "Custom Drug Discovery Workflows | Tutorial on NVIDIA BioNeMo Service",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240319",
+    "fetched_at": "2026-08-12"
+  },
+  "MWEJVuuT2a8": {
+    "title": "Announcing the Winners of the NVIDIA Generative AI on RTX Developer Contest",
+    "channel": "NVIDIA Developer",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "lF_zOvPR3S4": {
+    "title": "Enhance Video Sound Quality with NVIDIA Studio Voice from NVIDIA Maxine",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240318",
+    "fetched_at": "2026-08-12"
+  },
+  "XPXfeh80zDE": {
+    "title": "Scale AI Applications to the Data Center and Cloud with NVIDIA Nsight Systems",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240318",
+    "fetched_at": "2026-08-12"
+  },
+  "1V5_wJzTCzc": {
+    "title": "World Record Route Optimization With NVIDIA cuOpt Cloud Service",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240318",
+    "fetched_at": "2026-08-12"
+  },
+  "qt1ArjQw_dU": {
+    "title": "Accelerating the UK’s Technological Revolution with AI Supercomputing",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240307",
+    "fetched_at": "2026-08-12"
+  },
+  "nmClgb8CZRw": {
+    "title": "Pioneering Climate Tech and Mitigating the Impact of Natural Disasters",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240228",
+    "fetched_at": "2026-08-12"
+  },
+  "AAlxtugpzc8": {
+    "title": "Universal Scene Description (OpenUSD): Dynamic Data Science Pipelines with Hydra",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240223",
+    "fetched_at": "2026-08-12"
+  },
+  "7D1Toq1hhJU": {
+    "title": "Quantum Accelerated Supercomputing: Powering Tomorrow’s Breakthroughs",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240221",
+    "fetched_at": "2026-08-12"
+  },
+  "Wth9aQkcNV8": {
+    "title": "AI-Enabled Network Video Recorder Using NVIDIA Metropolis Microservices for Jetson",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240220",
+    "fetched_at": "2026-08-12"
+  },
+  "mFKSuc8_hQ8": {
+    "title": "Adding New Licenses to Your NLS License Server - vGPU and NVIDIA AI Enterprise",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240201",
+    "fetched_at": "2026-08-12"
+  },
+  "GCkdiHk6fUY": {
+    "title": "Memory Analysis with NVIDIA Nsight Compute | CUDA Developer Tools",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240126",
+    "fetched_at": "2026-08-12"
+  },
+  "N_OOfkEWcOk": {
+    "title": "Build a Retrieval-Augmented Generation Chatbot in 5 Minutes",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240124",
+    "fetched_at": "2026-08-12"
+  },
+  "WzkvBSFfLq8": {
+    "title": "Video Storage Toolkit With Metropolis Microservices for Jetson",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20240123",
+    "fetched_at": "2026-08-12"
+  },
+  "DTVYAND5X8Q": {
+    "title": "Transform Edge AI Applications with Generative AI Using NVIDIA Metropolis Microservices for Jetson",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240123",
+    "fetched_at": "2026-08-12"
+  },
+  "JaHVsZa2jTc": {
+    "title": "CUDA Tutorials I Installing CUDA Toolkit on Windows and WSL",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240112",
+    "fetched_at": "2026-08-12"
+  },
+  "sRAgqNhsfJA": {
+    "title": "Simplify 3D Mesh Management in PyTorch with NVIDIA Kaolin Library v0.15.0",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240111",
+    "fetched_at": "2026-08-12"
+  },
+  "fUAEBoJCJW8": {
+    "title": "Accelerate Stable Diffusion with NVIDIA RTX GPUs",
+    "channel": "NVIDIA Developer",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "jdwjXbb5QfE": {
+    "title": "Embracing LLMs and Generative AI for Smarter Robots | NVIDIA Robotics Ecosystem | Jan 2024",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240108",
+    "fetched_at": "2026-08-12"
+  },
+  "pD1d1de231o": {
+    "title": "Turn Any PC into a SMPTE ST 2110 Compliant Source with NVIDIA RivermaxDisplay",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20240103",
+    "fetched_at": "2026-08-12"
+  },
+  "hm5BMO9g1N0": {
+    "title": "Most Popular NVIDIA Technical Blog Posts: Gen AI, LLMs, Robotics, &Virtual Worlds Breakthroughs",
+    "channel": "NVIDIA Developer",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "uQueQrcfH-8": {
+    "title": "Build Custom LLMs with NVIDIA AI Foundry Service on Microsoft Azure",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231220",
+    "fetched_at": "2026-08-12"
+  },
+  "7tHUgPWmhzc": {
+    "title": "Maxine Feature Updates - Enhancing Real Time Communication with the power of NVIDIA AI",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231219",
+    "fetched_at": "2026-08-12"
+  },
+  "d7RM-3dQaJ8": {
+    "title": "Top 10 NVIDIA Research Projects of 2023",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231215",
+    "fetched_at": "2026-08-12"
+  },
+  "kE8SS25DKt4": {
+    "title": "Texture Painting 3D Objects Using AI at Real-Time Live! SIGGRAPH Asia 2023",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20231214",
+    "fetched_at": "2026-08-12"
+  },
+  "BsUIFg5bt6I": {
+    "title": "Accelerate 3D Deep Learning Research with the NVIDIA Kaolin PyTorch Library",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231213",
+    "fetched_at": "2026-08-12"
+  },
+  "VMpwpUvaXSU": {
+    "title": "Universal Scene Description (OpenUSD): Connecting Any Data Source",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231211",
+    "fetched_at": "2026-08-12"
+  },
+  "kpmCQp9mabo": {
+    "title": "XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20231208",
+    "fetched_at": "2026-08-12"
+  },
+  "en2Vl6u-umk": {
+    "title": "Training BioMolecular Models on BioNeMo",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231205",
+    "fetched_at": "2026-08-12"
+  },
+  "uHN5fpfu8As": {
+    "title": "SOL Analysis with NVIDIA Nsight Compute | CUDA Developer Tools",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231201",
+    "fetched_at": "2026-08-12"
+  },
+  "6mCFzDatGGc": {
+    "title": "Bringing Generative AI to Life with NVIDIA Jetson",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231120",
+    "fetched_at": "2026-08-12"
+  },
+  "FNBwwODjYNI": {
+    "title": "NVIDIA Research | Adaptive Shells for Efficient Neural Radiance Field Rendering",
+    "channel": "NVIDIA Developer",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "5Gxx59Q0g6o": {
+    "title": "Performance Tuning the NVIDIA Grace CPU with NVIDIA Nsight Tools",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20231115",
+    "fetched_at": "2026-08-12"
+  },
+  "wpZc6y9an2U": {
+    "title": "Develop and Deploy Media Applications with NVIDIA Holoscan for Media",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231115",
+    "fetched_at": "2026-08-12"
+  },
+  "0fJ3TcY8bO8": {
+    "title": "Accelerated Data Science: Announcing GPU-acceleration for pandas, NetworkX, and Apache Spark MLlib",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20231109",
+    "fetched_at": "2026-08-12"
+  },
+  "kmj1QOY71Ps": {
+    "title": "Accelerate Pandas by Nearly 150X with NVIDIA cuDF",
+    "channel": "NVIDIA Developer",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "mKN5u_eZQII": {
+    "title": "Get Started with NVIDIA IGX Orin Developer Kit for Scalable Edge AI Solutions",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231030",
+    "fetched_at": "2026-08-12"
+  },
+  "TGChXcFm-Yo": {
+    "title": "Performance Analysis with NVIDIA Nsight Systems Timeline | CUDA Developer Tools",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231027",
+    "fetched_at": "2026-08-12"
+  },
+  "sDFAWnrCqKc": {
+    "title": "Eureka! Extreme Robot Dexterity with LLMs | NVIDIA Research Paper",
+    "channel": "NVIDIA Developer",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "ifaMK8mVrHk": {
+    "title": "Build Complex Vision AI Applications Faster with NVIDIA Metropolis APIs and Microservices",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231018",
+    "fetched_at": "2026-08-12"
+  },
+  "BAMOw7qlVXw": {
+    "title": "Generative AI Models at the Edge Powered by NVIDIA Jetson Orin",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231018",
+    "fetched_at": "2026-08-12"
+  },
+  "PrqsHUbRF_0": {
+    "title": "Speech AI from Research to Production | Fireside Chat from NVIDIA Speech AI Day",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20231017",
+    "fetched_at": "2026-08-12"
+  },
+  "Iuy_RAvguBM": {
+    "title": "Intro to NVIDIA Nsight Compute | CUDA Developer Tools",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20230922",
+    "fetched_at": "2026-08-12"
+  },
+  "dUDGO66IadU": {
+    "title": "Intro to NVIDIA Nsight Systems | CUDA Developer Tools",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20230922",
+    "fetched_at": "2026-08-12"
+  },
+  "xdFQZSV5IrU": {
+    "title": "Introduction to the Nsight Tools Ecosystem | CUDA Developer Tools",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20230922",
+    "fetched_at": "2026-08-12"
+  },
+  "-iCUjNk2aiA": {
+    "title": "Universal Scene Description (OpenUSD): Custom Schemas",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20230920",
+    "fetched_at": "2026-08-12"
+  },
+  "kilD5r7bCkI": {
+    "title": "100s of Pretrained Models for AI, Digital Twins, and HPC on NVIDIA NGC Catalog",
+    "channel": "NVIDIA Developer",
+    "lang": "en",
+    "upload_date": "20230908",
+    "fetched_at": "2026-08-12"
+  },
+  "DR2xtRg3aW8": {
+    "title": "Run NVIDIA Riva on a Kubernetes Cluster (Part 2): Deploying Riva on a Kubernetes cluster with Helm",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20230829",
+    "fetched_at": "2026-08-12"
+  },
+  "vF5mgMokBn4": {
+    "title": "Run NVIDIA Riva on a Kubernetes Cluster (Part 1): Deploying Kubernetes Cluster to GKE with Terraform",
+    "channel": "NVIDIA Developer",
+    "lang": "ko",
+    "upload_date": "20230829",
+    "fetched_at": "2026-08-12"
+  },
+  "pmiN5Nj1-K8": {
+    "title": "GTC SJ 2026: Healthcare Reimagined - Bridging Digital Intelligence and Physical Autonomy",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20260811",
+    "fetched_at": "2026-08-12"
+  },
+  "A5INGiECkWA": {
+    "title": "From Prompt to Paris: How AI Agents Launch a Food Truck Dream",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250611",
+    "fetched_at": "2026-08-12"
+  },
+  "ZnZumsCZ4pE": {
+    "title": "NVIDIA DGX Cloud Lepton: Connecting Developers to Global Accelerated Compute",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250611",
+    "fetched_at": "2026-08-12"
+  },
+  "-0aWQh8vY6M": {
+    "title": "NVIDIA Omniverse Foundational Technology Montage I GTC Paris at VivaTech 2025 Edition",
+    "channel": "NVIDIA",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "tGyJO3yR0vU": {
+    "title": "Ensuring Safe Autonomous Driving With NVIDIA Halos",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250611",
+    "fetched_at": "2026-08-12"
+  },
+  "9k3Y6KRGPxo": {
+    "title": "Build and Test Smart City AI Agents in Digital Twins",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250611",
+    "fetched_at": "2026-08-12"
+  },
+  "Sj-nSKZCcyU": {
+    "title": "Europe's Next Industrial Revolution Has Arrived",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250611",
+    "fetched_at": "2026-08-12"
+  },
+  "o0AWQt_Q1wY": {
+    "title": "Meet NVIDIA Training Customer: Deloitte",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250610",
+    "fetched_at": "2026-08-12"
+  },
+  "qafq4hPVhxo": {
+    "title": "JUPITER: Europe's Fastest Supercomputer",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250610",
+    "fetched_at": "2026-08-12"
+  },
+  "CGXls2J9YhE": {
+    "title": "NVIDIA and Data Center Partners Review Highlights at COMPUTEX 2025",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250609",
+    "fetched_at": "2026-08-12"
+  },
+  "O-2TLhaTcuw": {
+    "title": "NVIDIA ALCHEMI: AI for Chemistry and Materials Science",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250606",
+    "fetched_at": "2026-08-12"
+  },
+  "ciq4sqRy1GE": {
+    "title": "Speech Recognition Winner – NVIDIA Parakeet v2: Song-to-Lyric Transcription Demo",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250603",
+    "fetched_at": "2026-08-12"
+  },
+  "Z4ZkeemYKCE": {
+    "title": "NVIDIA Developer Interview with Riva Parakeet TDT Model Product Manager and Research Scientist",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250603",
+    "fetched_at": "2026-08-12"
+  },
+  "xaPon64ERaI": {
+    "title": "Real-Time Payment Fraud Detection, Powered by AI and AWS",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250602",
+    "fetched_at": "2026-08-12"
+  },
+  "id824_puwfo": {
+    "title": "Highlights from NVIDIA Keynote and GTC Taipei 2025",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250602",
+    "fetched_at": "2026-08-12"
+  },
+  "LMxemZtQ0LI": {
+    "title": "Inference at Scale: The New Frontier for AI Infrastructure and ROI",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250530",
+    "fetched_at": "2026-08-12"
+  },
+  "AJH8B1DIkKI": {
+    "title": "How Dell Technologies Is Building the Engines of AI Factories With NVIDIA Blackwell",
+    "channel": "NVIDIA",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "2es9BM3PE60": {
+    "title": "Tokens, the Building Blocks of AI Breakthroughs | COMPUTEX 2025 | Official Keynote Intro",
+    "channel": "NVIDIA",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "1la6fMl7xNA": {
+    "title": "NVIDIA Blackwell: The Journey From Die to Data Center",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250520",
+    "fetched_at": "2026-08-12"
+  },
+  "VrYO_Y7Vc-A": {
+    "title": "Building Energy-Efficient AI Infrastructure with Equinix and NVIDIA",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250520",
+    "fetched_at": "2026-08-12"
+  },
+  "7RqD70F1gdo": {
+    "title": "Meet the Startup: ANYbotics Revolutionizing Industrial Inspection with AI-Powered Autonomous Robots",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250520",
+    "fetched_at": "2026-08-12"
+  },
+  "vbDdY4pciRI": {
+    "title": "Meet the Startup: Sana",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250520",
+    "fetched_at": "2026-08-12"
+  },
+  "DnJJLG3pMLs": {
+    "title": "Therapyside: Streamlining Therapy for Better Mental Health Care",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250519",
+    "fetched_at": "2026-08-12"
+  },
+  "xF1kkf7zXRA": {
+    "title": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250519",
+    "fetched_at": "2026-08-12"
+  },
+  "abFSngiv1jk": {
+    "title": "Digital Twins Power Taiwan's Industrial AI Transformation",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250519",
+    "fetched_at": "2026-08-12"
+  },
+  "8Mwrfvq-GeY": {
+    "title": "How Robot Brains Dream and Explore Unseen Worlds",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250519",
+    "fetched_at": "2026-08-12"
+  },
+  "wIvpOtU3e_A": {
+    "title": "NVIDIA Omniverse Foundational Technology Montage I COMPUTEX 2025 Edition",
+    "channel": "NVIDIA",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "cRxo51s9s68": {
+    "title": "Shaping the Future of Work With Agentic AI",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250519",
+    "fetched_at": "2026-08-12"
+  },
+  "PW8Tl_BJNWA": {
+    "title": "Advancing Video Analytics With AI Agents",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250519",
+    "fetched_at": "2026-08-12"
+  },
+  "3YbyqaV0CDI": {
+    "title": "Foxconn Builds Robotics for Healthcare With NVIDIA Physical AI",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250519",
+    "fetched_at": "2026-08-12"
+  },
+  "Iy0KaTmoz14": {
+    "title": "Jensen Huang and Bill McDermott at the ServiceNow Knowledge25 Keynote",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250515",
+    "fetched_at": "2026-08-12"
+  },
+  "u_eZoOS5bFc": {
+    "title": "Mapless Driving: AI Powered Autonomy at Urban Scale - DRIVE Labs Ep.38",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250515",
+    "fetched_at": "2026-08-12"
+  },
+  "ZTHVioU87ic": {
+    "title": "CIV Robotics: Industrial AI for Construction Site Efficiency",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250515",
+    "fetched_at": "2026-08-12"
+  },
+  "18jkykYTmYo": {
+    "title": "NVIDIA Blackwell RTX PRO Powering The Next Era of AI",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250508",
+    "fetched_at": "2026-08-12"
+  },
+  "RlXZlh90zIs": {
+    "title": "Empowering the World's Cutting Edge Startups",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250507",
+    "fetched_at": "2026-08-12"
+  },
+  "Jp8DfvedGws": {
+    "title": "NVIDIA GTC25: Telecom Special Address",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250505",
+    "fetched_at": "2026-08-12"
+  },
+  "1VlcJsx5Uss": {
+    "title": "Meet NVIDIA Training Customer: Fluid.ai",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250502",
+    "fetched_at": "2026-08-12"
+  },
+  "5wD7cUZKLoQ": {
+    "title": "Meet NVIDIA Training Customer: TSS Consultancy Pvt Ltd",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250502",
+    "fetched_at": "2026-08-12"
+  },
+  "swg5_0FeVVE": {
+    "title": "Coatue: Turning Big Ideas Into World-Shaping Companies",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250501",
+    "fetched_at": "2026-08-12"
+  },
+  "stKXBPQbHTE": {
+    "title": "Powered by NVIDIA Inception: Adya.ai Full-Stack Revolution in Enterprise AI",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250430",
+    "fetched_at": "2026-08-12"
+  },
+  "JLqUEVrtvio": {
+    "title": "Zoho Delivers Advanced AI at Enterprise Scale, Powered by NVIDIA",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250423",
+    "fetched_at": "2026-08-12"
+  },
+  "c2uBE6HKCK0": {
+    "title": "Meet NVIDIA Training Customers: Interview with Tata Communications",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250422",
+    "fetched_at": "2026-08-12"
+  },
+  "WirTtwKbcew": {
+    "title": "Meet NVIDIA Training Customers: Interview with NxtGen Cloud Technologies",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250422",
+    "fetched_at": "2026-08-12"
+  },
+  "hLVQXOz6kzQ": {
+    "title": "Meet the Startup: infrared.city - Enabling Climate Resilient Design Through AI",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250418",
+    "fetched_at": "2026-08-12"
+  },
+  "Bx46gIf6ZY4": {
+    "title": "Meet the Startup: FortyGuard - Scalable AI Insights for Commerce, Urban Systems & Energy",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250418",
+    "fetched_at": "2026-08-12"
+  },
+  "RLZk-Fr7wz4": {
+    "title": "What's Next In Industrial AI?",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250416",
+    "fetched_at": "2026-08-12"
+  },
+  "1_FV-e9mXN0": {
+    "title": "Explore the Best of GTC: Physical AI and Robotics",
+    "channel": "NVIDIA",
+    "status": "no_subs",
+    "fetched_at": "2026-08-12"
+  },
+  "2Ys10Ev0B4w": {
+    "title": "AI Accelerated Simulation with Ansys and NVIDIA",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250409",
+    "fetched_at": "2026-08-12"
+  },
+  "qbD9w0C0CGQ": {
+    "title": "NVIDIA GTC 2025: Healthcare Special Address",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250404",
+    "fetched_at": "2026-08-12"
+  },
+  "Rf3uVq9xlrc": {
+    "title": "NVIDIA GTC 2025 Highlights",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250327",
+    "fetched_at": "2026-08-12"
+  },
+  "64kcReN-Nws": {
+    "title": "NVIDIA Automotive at GTC 2025",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250326",
+    "fetched_at": "2026-08-12"
+  },
+  "zLfOXXNRySw": {
+    "title": "Meet the Startup: Qure - Transforming Healthcare Pathways With AI",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250326",
+    "fetched_at": "2026-08-12"
+  },
+  "byqfcd8jOk8": {
+    "title": "Meet the Startup: Fernride - Bringing AI into the Physical World",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250325",
+    "fetched_at": "2026-08-12"
+  },
+  "K_MnB6rrlhA": {
+    "title": "What are NVIDIA NIM Microservices and AI Blueprints for RTX AI PCs?",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250325",
+    "fetched_at": "2026-08-12"
+  },
+  "v8SCni68w6U": {
+    "title": "Reasoning ON/OFF: Navigating a Wedding Seating Chart with AI Reasoning | GTC25",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250325",
+    "fetched_at": "2026-08-12"
+  },
+  "u5TNCt45Q90": {
+    "title": "NVIDIA Omniverse Foundational Technology Montage I GTC Spring 2025 Edition",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250324",
+    "fetched_at": "2026-08-12"
+  },
+  "R_XCjOaGvnU": {
+    "title": "Beyond Connectivity: The AI-Powered Future of Telecom",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250320",
+    "fetched_at": "2026-08-12"
+  },
+  "76Pc4V-Tt6w": {
+    "title": "Accelerating Computational Engineering",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250319",
+    "fetched_at": "2026-08-12"
+  },
+  "6p4U1kSiegg": {
+    "title": "NVIDIA GTC Spring 2025 Keynote: Introducing NVIDIA DGX Spark",
+    "channel": "NVIDIA",
+    "lang": "en",
+    "upload_date": "20250319",
+    "fetched_at": "2026-08-12"
+  },
+  "v1hdsGUHAgE": {
+    "title": "Training Surgical Robots with NVIDIA Isaac for Healthcare",
+    "channel": "NVIDIA",
+    "lang": "ko",
+    "upload_date": "20250318",
+    "fetched_at": "2026-08-12"
+  },
+  "aP_6Ytyq8Nw": {
+    "title": "Why Provable Trust Is the New Foundation for Enterprise AI | Confidential Computing Summit 2025",
+    "channel": "Microsoft Azure",
+    "lang": "en",
+    "upload_date": "20251113",
+    "fetched_at": "2026-08-17"
+  },
+  "AmK5RqfpAEE": {
+    "title": "Building the Modern Quantum Architecture: Lecture 1 — Utility-Scale Quantum Applications",
+    "channel": "Microsoft Azure",
+    "lang": "ko",
+    "upload_date": "20251111",
+    "fetched_at": "2026-08-17"
   }
 }

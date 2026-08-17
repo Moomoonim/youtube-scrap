@@ -1,0 +1,13 @@
+# Real-Time Payment Fraud Detection, Powered by AI and AWS
+
+- 영상 링크: https://www.youtube.com/watch?v=xaPon64ERaI
+- 채널: NVIDIA
+- 업로드일: 2025-06-02
+- 자막 언어: en
+- 단어 수: 약 379개
+
+---
+
+## 스크립트
+
+Every year, $43 billion is lost to fraud worldwide. And it's not just the money. Reputations crumble, too. Flagging real purchases as fraudulent costs you that sale and customer trust, and regulators take notice. But to fight fraud, you've got to comb through mountains of transaction data. Are you ready for that? Because fraud is evolving faster than ever. Yet many still cling to outdated rules-based systems that are reactive and prone to error. But today, you have an edge. AI is here to transform your fraud prevention capabilities. AI detects hidden patterns, connections, and anomalies long before they cause damage. Meaning fewer false positives, better accuracy, and improved customer experiences anytime, anywhere. And with NVIDIA AI Enterprise enabled by AWS, you can build AI tools for fraud prevention. This endtoend AI cloud-based platform speeds up data science workflows and lets you create advanced AI systems. So, if you want to spot incidents quicker and reduce false positives, or if you want to update your models frequently to capture the latest fraudulent attempts, you can do that with NVIDIA AI Enterprise on AWS. Effortlessly transform large transaction data sets with complex joins and aggregations in an AWS environment that enables realtime fraud detection and global scalability. Build new, more predictive features that enrich your raw data to create sophisticated models like graph neural networks and transformers and understand relationships for clearer insights into fraud patterns. And as your data grows and models become more complex, NVIDIA AI enterprise software on AWS handles it with ease. NVIDIA Rapids speeds up data processing while NVIDIA containers for fraud detection accelerate model training including XG Boost with graph neural networks and transformer embeddings so updates catch new fraud types. Meanwhile, Nvidia Dynamo Triton optimizes for realtime predictions at scale while managing higher throughput with low latency. Perfect for payment companies and banks. And the best part, leveraging NVIDIA AI Enterprise with AWS means you boost your efficiency, strengthen security, and even cut costs. That's enterprisegrade support, updates, and more than 300 data science libraries, all integrated within the AWS marketplace. Fewer false positives, smoother transactions. That's what NVIDIA AI Enterprise and AWS delivers. The future of fraud detection is here. Now the question is, will you lead or be left behind? [Music]

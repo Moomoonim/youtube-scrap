@@ -1,0 +1,13 @@
+# Building Energy-Efficient AI Infrastructure with Equinix and NVIDIA
+
+- 영상 링크: https://www.youtube.com/watch?v=VrYO_Y7Vc-A
+- 채널: NVIDIA
+- 업로드일: 2025-05-20
+- 자막 언어: en
+- 단어 수: 약 398개
+
+---
+
+## 스크립트
+
+[Music] Computint inensive AI workloads are already pushing the limits for data centers, networks, and power grids all around the world. Pre-training and post-training scaling is driving demand by orders of magnitude. And test time scaling is driving 100x amounts of compute required compared to traditional AI inference. The infrastructure of the world of the past wasn't really built or suitable for the demands of the future. That's why Equinex and Nvidia are really proud to work together to build AI factories, especially focused around energy efficiency and delivering this capability for the world. First, it starts with data. And with data comes interconnectivity, and Equinex is uniquely positioned at the heart of both the enterprise data, the clouds, and all of the AI service providers around the world that matter. The next area that you think about is location. These AI workloads are increasingly becoming latency sensitive and our deployments at 73 metros around the world means that you can put those deployments exactly where you need to where your end users and where your data are most available. And lastly, privacy and security are at the forefront of the enterprise mind as they're deploying AI infrastructure. And private AI powered by DGX allows enterprises to have full control of the infrastructure, knowing exactly both their data providence and their data governance. As AI evolves, enterprises need energy efficient, high performance infrastructure to scale. We're really proud of the work that we've been doing with NVIDIA, partnering closely to deliver capabilities all around the world. NVIDIA Blackwell Ultrabased DGX infrastructure delivers a 30x energy efficiency and 35x performance on AI reasoning workloads compared to the previous hopper generation. It's just an incredible step up in performance and energy efficiency. Data centers are often constrained by utility availability and ultimately cooling efficiency for our data centers. Equinex has been at the forefront of delivering liquid cooling for our customers to be able to support just these kinds of requirements. That liquid cooling drives efficiency and ultimately lower power utilization for our data centers. In addition, our commitment to driving to 100% renewable energy is right on track and we should be by the end of this year 100% renewable across our entire global footprint. Equinex and NVIDIA are partnered closely to make sure we're creating the infrastructure needed to support all of the AI workloads of the future.

@@ -1,0 +1,13 @@
+# NVIDIA Blackwell: The Journey From Die to Data Center
+
+- 영상 링크: https://www.youtube.com/watch?v=1la6fMl7xNA
+- 채널: NVIDIA
+- 업로드일: 2025-05-20
+- 자막 언어: en
+- 단어 수: 약 414개
+
+---
+
+## 스크립트
+
+[Music] Blackwell is an engineering marvel. It begins as a blank silicon wafer at [Music] TSMC. Hundreds of chip processing and ultraviolet lithography steps build up each of the 200 billion transistors layer by layer on a 12in wafer. The wafer is scribed into individual blackwell dye, tested and sorted, separating the good dyes to move forward. The chip on wafer on substrate process done at TSMC spill and amcore attaches 32 Blackwell dyes and 128 HBM stacks on a custom silicon interposer wafer. Metal interconnect traces are etched directly into it, connecting Blackwell GPUs and HBM stacks into each system and package unit, locking everything into place. Then the assembly is baked, molded, and cured, creating the Blackwell B200 Super Chip. At KYC, each Blackwell is stress tested in ovens at 125° C and pushed to its limits for several hours. Back at Foxcon, robots work around the clock to pick and place over 10,000 components onto the Grace Blackwell PCB. Meanwhile, additional components are being prepared at factories across the globe. Custom liquid cooling copper blocks from Cooler Master, ABC, Auras, and Delta keep the chips at optimal temperatures. At another Foxconom facility, Connect X7 Supernicks are built to enable scale out communications and Bluefield 3DPUs to offload and accelerate networking, storage, and security tasks. All these parts converge to be carefully integrated into GB200 compute trades. [Music] MVLink is the breakthrough high-speed link that Nvidia invented to connect multiple GPUs and scale up into a massive virtual GPU. The MVLink switch tray is constructed with MVLink switch chips providing 14.4 terabytes per second of all toall bandwidth. MVLink spines form a custom blindmated back plane integrating 5,000 copper cables to deliver 130 terabytes per second of all to all bandwidth. This connects all 72 black wells or 144 GPU dyes into one giant GPU from around the world. parts arrive from Foxcon, Wistrun, Quanta, Dell, Asus, Gigabyte, HPE, Super Micro and other partners to be assembled by skilled technicians into a rack scale AI supercomput in total 1.2 million components, 2 m of copper cable, 130 trillion transistors, weighing 1,800 kg. From the first transistor etched into a wafer to the last bolt fastening the Blackwell rag, every step carries the weight of our partners' dedication, precision, and craft. Blackwell is more than a technological wonder. It's a testament to the marvel of the Taiwan technology ecosystem. [Music] We couldn't be prouder of what we've achieved [Music] together. Thank you, Taiwan.

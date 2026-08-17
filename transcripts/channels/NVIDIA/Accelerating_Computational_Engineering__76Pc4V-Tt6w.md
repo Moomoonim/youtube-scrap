@@ -1,0 +1,13 @@
+# Accelerating Computational Engineering
+
+- 영상 링크: https://www.youtube.com/watch?v=76Pc4V-Tt6w
+- 채널: NVIDIA
+- 업로드일: 2025-03-19
+- 자막 언어: en
+- 단어 수: 약 418개
+
+---
+
+## 스크립트
+
+[Music] Luminary Cloud is reinventing the way we do engineering through simulation by taking highly accelerated GPUbased physics solvers and combining them with a cloud-based footprint that allows engineers to put together workflows that were never possible before. NVIDIA contacted us because they wanted to create this blueprint for a real-time wind tunnel. When you're designing an electric vehicle, for example, range is a key constraint. Designers are constantly trying to iterate on the shape of a car in order to get the best aerodynamic performance and therefore the best range. In order to do this interactively, you have to be able to put a new car shape and maybe some new rims and you know, maybe it's a pickup truck or maybe it's an SUV and very quickly understand how the air flows around the car, what drag it results in and therefore what range you're likely to achieve. People want to do this instantaneously and that was not possible before we put together this real-time wind tunnel. Nvidia Omniverse provides effectively a toolkit and the APIs that are necessary to be able to create these visualization applications that through the blueprint are connected to both the simulation data and the models. So an engineer can in real time understand why certain changes to the design are having a positive or a negative impact. It is really important to develop this new physics solvers with highly optimized libraries like CUDA X that can enable us to create these physics solvers much much faster than we had to do that from scratch. In order to train models based on highfidelity simulation data, we have to create physics-based AI frameworks. NVIDIA has invested tremendous effort in creating a state-of-the-art framework that we call NVIDIA physics Nemo. And that enables us to ingest luminary cloud highfidelity data and produce an inference model that can be queried in milliseconds significantly faster than anything we could do in the past or even with the highly accelerated GPU solvers at Luminary. Luminary was able to use its GPU accelerated solvers to create the database of simulations in the period of just a few days. The collaboration between NVIDIA and Luminary Engineers was tremendous. The Omniverse blueprint that we're leveraging for the real-time wind tunnel can be used for many other customer applications at Luminary and it's going to enable the production of large databases of highfidelity data, the training of physics AI models and the real-time inference for many applications in many domains.
