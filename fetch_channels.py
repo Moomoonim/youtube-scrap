@@ -65,12 +65,54 @@ def captions_advertised(info):
     )
 
 
+_rate_limited = False
+
+
+class _RateLimitWatcher:
+    """yt-dlp 로그에서 429(자막 요청 속도 제한) 신호만 잡아내는 최소 로거.
+
+    [2026-08-12 추가] 자막 다운로드가 429로 거부되면 yt-dlp 는 ignoreerrors
+    설정 탓에 조용히 빈손으로 돌아온다. 호출부에서는 '자막 취득 실패'로만
+    보여서, 실제로는 IP 가 속도 제한에 걸렸는데도 영상을 계속 두드리며
+    제한을 더 악화시켰다. 429 를 감지해 즉시 중단할 수 있게 한다.
+    """
+
+    def __init__(self):
+        self.hit = False
+
+    def _check(self, msg):
+        text = str(msg)
+        if "429" in text or "Too Many Requests" in text:
+            self.hit = True
+
+    def debug(self, msg):
+        self._check(msg)
+
+    def info(self, msg):
+        self._check(msg)
+
+    def warning(self, msg):
+        self._check(msg)
+
+    def error(self, msg):
+        self._check(msg)
+
+
+def rate_limited():
+    """직전 fetch_video 호출이 429(속도 제한)를 만났는지."""
+    return _rate_limited
+
+
 def fetch_video(video_id):
     """영상 정보와 자막을 받아 (info, 언어, 본문) 을 돌려준다.
 
     실패 시 (info, None, None). info의 자막 목록으로 '진짜 자막 없음'과
     '다운로드 실패(쿠키 만료 등)'를 호출부에서 구분할 수 있다.
+    429(속도 제한) 여부는 rate_limited() 로 확인한다.
     """
+    global _rate_limited
+    _rate_limited = False
+    watcher = _RateLimitWatcher()
     url = f"https://www.youtube.com/watch?v={video_id}"
     with tempfile.TemporaryDirectory() as tmp:
         ydl_opts = {
@@ -89,14 +131,17 @@ def fetch_video(video_id):
             # 유튜브 세션 속도 제한(rate limit) 방지용 요청 간 지연
             "sleep_interval_requests": config.SLEEP_BETWEEN_REQUESTS_SEC,
             "sleep_interval_subtitles": config.SLEEP_BETWEEN_SUBTITLES_SEC,
+            "logger": watcher,
             **cookie_opts(),
         }
         try:
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 info = ydl.extract_info(url, download=True)
         except Exception:
+            _rate_limited = watcher.hit
             return None, None, None
 
+        _rate_limited = watcher.hit
         vtts = glob.glob(os.path.join(tmp, "*.vtt"))
         if not vtts:
             return info, None, None

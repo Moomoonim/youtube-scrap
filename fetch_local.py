@@ -47,6 +47,7 @@ from fetch_channels import (
     captions_advertised,
     fetch_video,
     list_channel_videos,
+    rate_limited,
     title_allowed,
     write_channel_file,
 )
@@ -139,6 +140,14 @@ def collect_channels(args, seen, seen_path):
 
             # --- 자막 취득 실패 ---
             if not text:
+                # [2026-08-12 추가] 429(속도 제한)면 더 두드릴수록 제한만 길어진다.
+                # 실패로 세지 말고 즉시 중단해서 나중에 이어받게 한다.
+                if rate_limited():
+                    log("🔴 유튜브 자막 요청이 속도 제한(HTTP 429)에 걸렸습니다 — 안전 중단합니다.")
+                    log("   1~2시간 뒤 같은 명령을 다시 실행하면 이어서 받습니다. "
+                        "(--pace 를 20~30 으로 올리면 재발이 줄어듭니다)")
+                    save_seen(seen_path, seen)
+                    return total_saved
                 healthy = bool(info.get("formats"))
                 if healthy and not captions_advertised(info):
                     # 진짜 '자막 없음' — 기록해 다시 시도하지 않음
