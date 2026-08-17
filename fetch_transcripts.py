@@ -53,6 +53,32 @@ def cookie_opts():
     return {}
 
 
+def subtitle_lang_patterns():
+    """yt-dlp 에 넘길 자막 언어 패턴.
+
+    [2026-08-12 수정] 예전에는 config.LANGUAGES(["ko","en"])를 그대로 넘겼는데,
+    yt-dlp 는 이를 '정확히 일치'로 보기 때문에 `en-US`·`en-GB`·`en-orig` 처럼
+    지역/변형 코드가 붙은 자막은 하나도 받아오지 못했다. Microsoft 계열처럼
+    수동 자막을 en-US 로 다는 채널은 '자막은 있다고 표시되는데 다운로드는
+    실패'하는 상태가 되어 매번 재시도만 반복됐다. 정규식 패턴으로 변형까지 받는다.
+    """
+    return [f"{lang}.*" for lang in config.LANGUAGES]
+
+
+def pick_subtitle(vtts):
+    """선호 언어 순서대로 자막 파일을 고른다(지역 코드 변형 포함)."""
+    def lang_of(path):
+        m = re.search(r"\.([A-Za-z0-9_-]+)\.vtt$", os.path.basename(path))
+        return (m.group(1) if m else "").lower()
+
+    for want in config.LANGUAGES:
+        for path in vtts:
+            code = lang_of(path)
+            if code == want or code.startswith(f"{want}-"):
+                return path, want
+    return vtts[0], "unknown"
+
+
 def search_videos():
     """키워드로 유튜브를 검색해 영상 목록(중복 제거)을 돌려준다."""
     seen_in_search = set()
@@ -147,7 +173,7 @@ def get_transcript_text(video_id):
             "skip_download": True,            # 영상은 받지 않음
             "writesubtitles": True,           # 사람이 단 자막
             "writeautomaticsub": True,        # 자동 생성 자막
-            "subtitleslangs": config.LANGUAGES,
+            "subtitleslangs": subtitle_lang_patterns(),
             "subtitlesformat": "vtt",
             "outtmpl": os.path.join(tmp, "%(id)s.%(ext)s"),
             "ignoreerrors": True,
@@ -169,17 +195,8 @@ def get_transcript_text(video_id):
         if not vtts:
             return None, None  # 자막 파일이 만들어지지 않음 (차단/자막없음 등)
 
-        # 설정한 언어 우선순위대로 자막 파일 선택
-        chosen, lang = None, None
-        for want in config.LANGUAGES:
-            for path in vtts:
-                if f".{want}." in os.path.basename(path):
-                    chosen, lang = path, want
-                    break
-            if chosen:
-                break
-        if not chosen:
-            chosen, lang = vtts[0], "unknown"
+        # 설정한 언어 우선순위대로 자막 파일 선택(en-US 같은 변형 포함)
+        chosen, lang = pick_subtitle(vtts)
 
         text = parse_vtt(chosen)
         if not text:

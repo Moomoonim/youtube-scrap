@@ -26,8 +26,10 @@ from fetch_transcripts import (
     load_seen,
     log,
     parse_vtt,
+    pick_subtitle,
     save_seen,
     slugify,
+    subtitle_lang_patterns,
 )
 
 
@@ -77,7 +79,7 @@ def fetch_video(video_id):
             "skip_download": True,
             "writesubtitles": True,
             "writeautomaticsub": True,
-            "subtitleslangs": config.LANGUAGES,
+            "subtitleslangs": subtitle_lang_patterns(),
             "subtitlesformat": "vtt",
             "outtmpl": os.path.join(tmp, "%(id)s.%(ext)s"),
             "ignoreerrors": True,
@@ -99,16 +101,7 @@ def fetch_video(video_id):
         if not vtts:
             return info, None, None
 
-        chosen, lang = None, None
-        for want in config.LANGUAGES:
-            for path in vtts:
-                if f".{want}." in os.path.basename(path):
-                    chosen, lang = path, want
-                    break
-            if chosen:
-                break
-        if not chosen:
-            chosen, lang = vtts[0], "unknown"
+        chosen, lang = pick_subtitle(vtts)
 
         text = parse_vtt(chosen)
         if not text:
